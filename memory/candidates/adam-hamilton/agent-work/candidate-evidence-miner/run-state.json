@@ -1,0 +1,34 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "adam-hamilton",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/adam-hamilton/in-their-own-words.md",
+    "memory/candidates/adam-hamilton/raw-dump-v2.md",
+    "memory/candidates/adam-hamilton/sleuth-pass.md",
+    "memory/candidates/adam-hamilton/social-harvest.md",
+    "memory/candidates/adam-hamilton/v2-issues.yaml",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/adam-hamilton.ts"
+  ],
+  "files_written": [
+    "memory/candidates/adam-hamilton/evidence-matrix-raw.json",
+    "memory/candidates/adam-hamilton/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/adam-hamilton/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/adam-hamilton/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/adam-hamilton/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs adam-hamilton"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for adam-hamilton."
+  ],
+  "handoff_summary": "Extracted 426 raw evidence rows for adam-hamilton."
+}

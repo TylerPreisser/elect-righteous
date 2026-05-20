@@ -1,0 +1,1437 @@
+# Fixed 14-Issue Matrix — stacy-rogers — 2026-05-20
+
+This matrix is built from `evidence-matrix.json`, `social-evidence-matrix.json`, and `source-audit.json`. It is a candidate-rebuild input, not final public prose.
+
+## 1. Abortion / life
+
+Abortion / life: 21 selected evidence items from 52 mapped rows. Public URL-backed rows: 1.
+
+### Evidence
+- **candidate-stated** [em-stacy-rogers-00430] Reproductive Rights: Supports reproductive freedom
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:223
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00016] Several issue areas were not prominent in the accessible material reviewed. The capture set did not include detailed candidate-controlled positions on Medicaid expansion, marijuana legalization, LGBTQ+ policy, higher education, housing affordability, child care affordability, broadband, road funding, labor policy, state employee pay, or water/Ogallala policy. The campaign provides broad pro-life, pro-family, constitutional-rights, rural, agriculture, and public-safety language, but detailed policy papers were not visible in the reviewed pages.
+  - Source: memory/candidates/stacy-rogers/in-their-own-words.md:31
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00261] Detailed policy plans: no candidate-controlled detailed papers found for Medicaid expansion, marijuana legalization, LGBTQ+ policy, higher education, housing, child care, broadband, road/bridge funding, state employee pay, or abortion exceptions.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:352
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-01215] > "How do we defend innocent life? I think this is one of the civil rights issues of our time. We have a Supreme Court that has found this right to abortion that is nowhere found in that constitution. It's our fastest-growing industry in the state of Kansas."
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1460
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-01231] As governor, supported state constitutional amendment to remove abortion rights protections (failed at ballot in 2022)
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1488
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-01269] > "We have a Supreme Court that has found this right to abortion that is nowhere found in that constitution. It's our fastest-growing industry in the state of Kansas."
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1559
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-01431] 1. The Abortion Ruling (2019): The Kansas Supreme Court ruled 6-1 that the Kansas Constitution protects a right to "personal autonomy," including the right to decide whether to continue a pregnancy. This made Kansas one of the strongest states for abortion rights -- decided by appointed justices, not elected ones.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1831
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-01434] Kansas Reflector explicitly headlined their coverage: "Kansas Senate adopts plan to elect Supreme Court justices, a step toward overturning abortion rights."
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1837
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-01450] FACT 1: This is on the August PRIMARY ballot, not November. Primary turnout in Kansas is typically 20-25%, compared to 50-60% in November. Republican voters dominate primary turnout because they have more contested races. Putting it on the primary ballot is widely seen as a strategy to pass it with a smaller, more conservative electorate. The exact same strategy was used for the 2022 abortion amendment -- and it backfired spectacularly when turnout surged to nearly 50% and the amendment was crushed 59-41.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1875
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-02758] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-stacy-rogers-00591] Rogers has a compelling personal story -- homeschooling mother of children with learning challenges, pharmacy background, small business owner with a nationally franchised brand. Her early declaration and first-to-file status show ambition, but her fundraising is essentially nonexistent compared to the major candidates. Her "first female Republican governor" angle is noteworthy but insufficient without serious money. Her platform is standard conservative (government efficiency, property taxes, pro-life) without a distinctive breakthrough message. The Kids Closet national franchise business is actually a more impressive credential than it initially appears -- running a national franchise system requires real organizational skill. But without a fundraising breakthrough, she is a long-shot candidate.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:530
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-stacy-rogers-02344] | Pro-life/family/faith/constitutional-rights framing, 2nd Amendment, natural rights, and religious language | 4 | 25% |
+  - Source: memory/candidates/stacy-rogers/social-harvest.md:81
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02353] Across the accessible public set reviewed, no reviewed item centered Medicaid expansion, water policy or the Ogallala aquifer, higher-education affordability, housing affordability, child care affordability as a standalone issue, road and bridge funding, broadband, labor unions, state employee pay, marijuana legalization, LGBTQ+ policy, or detailed abortion exceptions. The site includes pro-life/family framing and broad constitutional-rights language, but it does not provide detailed policy papers on most of those topics in the accessible pages reviewed.
+  - Source: memory/candidates/stacy-rogers/social-harvest.md:98
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-stacy-rogers-01147] His faith is expressed more through action (humanitarian service, pro-life positions, protecting faith-based organizations) than through verbal testimony
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1354
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-stacy-rogers-01757] Abortion Votes -- THE KEY CONTROVERSY
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:2433
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-01088] Abortion:
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1264
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-01089] Described abortion as "one of the civil rights issues of our time"
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1265
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-01090] Kansas should shed its status as "Midwest magnet for abortion"
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1266
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-01214] On Abortion:
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1459
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-01229] All six candidates found unity on: abortion opposition, marijuana legalization opposition, judicial bias concerns, and praise for President Trump
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1480
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-01230] Strongly pro-life
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1487
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-stacy-rogers-0009] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-stacy-rogers-0010] | Pro-life/family/faith/constitutional-rights framing, 2nd Amendment, natural rights, and religious language | 4 | 25% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-stacy-rogers-0011] Across the accessible public set reviewed, no reviewed item centered Medicaid expansion, water policy or the Ogallala aquifer, higher-education affordability, housing affordability, child care affordability as a standalone issue, road and bridge funding, broadband, labor unions, state employee pay, marijuana legalization, LGBTQ+ policy, or detailed abortion exceptions. The site includes pro-life/family framing and broad constitutional-rights language, but it does not provide detailed policy papers on most of those topics in the accessible pages reviewed.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0117] Rogers has a compelling personal story -- homeschooling mother of children with learning challenges, pharmacy background, small business owner with a nationally franchised brand. Her early declaration and first-to-file status show ambition, but her fundraising is essentially nonexistent compared to the major candidates. Her "first female Republican governor" angle is noteworthy but insufficient without serious money. Her platform is standard conservative (government efficiency, property taxes, pro-life) without a distinctive breakthrough message. The Kids Closet national franchise business is actually a more impressive credential than it initially appears -- running a national franchise system requires real organizational skill. But without a fundraising breakthrough, she is a long-shot candidate.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 2. LGBT / gender / parental rights
+
+LGBT / gender / parental rights: 18 selected evidence items from 22 mapped rows. Public URL-backed rows: 1.
+
+### Evidence
+- **candidate-stated** [em-stacy-rogers-00488] Transgender Athletes: OPPOSES transgender girls competing in girls' sports (unusual for a Democrat)
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:333
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-02133] Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.
+  - Source: memory/candidates/stacy-rogers/site-profile.md:17
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00016] Several issue areas were not prominent in the accessible material reviewed. The capture set did not include detailed candidate-controlled positions on Medicaid expansion, marijuana legalization, LGBTQ+ policy, higher education, housing affordability, child care affordability, broadband, road funding, labor policy, state employee pay, or water/Ogallala policy. The campaign provides broad pro-life, pro-family, constitutional-rights, rural, agriculture, and public-safety language, but detailed policy papers were not visible in the reviewed pages.
+  - Source: memory/candidates/stacy-rogers/in-their-own-words.md:31
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00207] Use in v2: secondary interview evidence for campaign rationale, outsider message, transgender-policy trigger, and travel intensity.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:273
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00261] Detailed policy plans: no candidate-controlled detailed papers found for Medicaid expansion, marijuana legalization, LGBTQ+ policy, higher education, housing, child care, broadband, road/bridge funding, state employee pay, or abortion exceptions.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:352
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00616] Education/Parental Rights: Fought for "parents' rights, fiscal responsibility" on school board
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:574
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-01595] Why this matters: The Board of Education has been a battleground over science standards (evolution vs. intelligent design), sex education, school library books, and transgender student policies. In recent years, conservative and moderate factions have fought for control. The 2026 elections could shift the balance of power on the board.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:2179
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-02137] School Choice / Parental Rights in Education: Emphasizes parental rights and school support, informed by her experience homeschooling children with learning challenges. Rogers has not released detailed policy papers on guns, immigration, or most other statewide issues. Her campaign is built more around themes of government waste and family-centered values than specific legislative proposals.
+  - Source: memory/candidates/stacy-rogers/site-profile.md:25
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-02265] No detailed candidate-controlled policy papers were found for Medicaid expansion, marijuana legalization, LGBTQ+ policy, higher education, housing affordability, child care affordability, broadband, road and bridge funding, state employee pay, or detailed abortion exceptions.
+  - Source: memory/candidates/stacy-rogers/sleuth-pass.md:123
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-02449] "Article reports her campaign rationale included Kansas gender-marker policy disputes"
+  - Source: memory/candidates/stacy-rogers/v2-issues.yaml:173
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-02758] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-stacy-rogers-02353] Across the accessible public set reviewed, no reviewed item centered Medicaid expansion, water policy or the Ogallala aquifer, higher-education affordability, housing affordability, child care affordability as a standalone issue, road and bridge funding, broadband, labor unions, state employee pay, marijuana legalization, LGBTQ+ policy, or detailed abortion exceptions. The site includes pro-life/family framing and broad constitutional-rights language, but it does not provide detailed policy papers on most of those topics in the accessible pages reviewed.
+  - Source: memory/candidates/stacy-rogers/social-harvest.md:98
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-stacy-rogers-01026] May 2018: Signed Senate Bill 284 granting legal protections to faith-based adoption agencies that cite religious beliefs for not placing children in LGBTQ+ homes
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1174
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00205] Article reports her decision to run followed Gov. Kelly's position in the driver's-license/birth-certificate gender-marker dispute.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:271
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00664] Education: Restore parental rights in education
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:664
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-02143] She has made raising children with learning challenges a central part of her political identity and uses that experience when talking about school policy and parental rights.
+  - Source: memory/candidates/stacy-rogers/site-profile.md:38
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-02698] "issue": "Marriage & Family / LGBTQ+ Policy",
+  - Source: ui/src/data/candidates.ts:14941
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-02704] "issue": "School Choice / Parental Rights in Education",
+  - Source: ui/src/data/candidates.ts:14957
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-stacy-rogers-0009] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-stacy-rogers-0011] Across the accessible public set reviewed, no reviewed item centered Medicaid expansion, water policy or the Ogallala aquifer, higher-education affordability, housing affordability, child care affordability as a standalone issue, road and bridge funding, broadband, labor unions, state employee pay, marijuana legalization, LGBTQ+ policy, or detailed abortion exceptions. The site includes pro-life/family framing and broad constitutional-rights language, but it does not provide detailed policy papers on most of those topics in the accessible pages reviewed.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0118] Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 3. Education / curriculum / schools
+
+Education / curriculum / schools: 24 selected evidence items from 143 mapped rows. Public URL-backed rows: 15.
+
+### Evidence
+- **candidate-stated** [em-stacy-rogers-00487] School Vouchers: Opposes private schools receiving taxpayer funds or competing in public school athletics
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:332
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00008] Education and family experience are another recurring signal. Podcast descriptions and campaign material present Rogers as a mother of three and former homeschool parent with firsthand experience around children with learning challenges. The Billy Dees Podcast listing says she is especially focused on students with learning challenges and believes every student should have resources and support to thrive. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00009] Public safety and vulnerable communities come through most clearly in long-form interviews. In the Billy Dees transcript, Rogers identified fentanyl and human trafficking as Kansas problems, tying trafficking to the I-70 and I-35 corridors. The same episode's public chapter markers identify discussions of drug and human trafficking, vulnerable communities, foster care, education failures, term limits, and judicial power. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00281] | s-hayspost-ellis | secondary | Hays Post Ellis campaign stop | https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811 | 2026-05-19 | Public stop, education, incentives, water, budget, term limits |
+  - Source: https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00284] | s-listennotes-billydees | secondary/transcript | Billy Dees Podcast transcript | https://www.listennotes.com/es/podcasts/billy-dees-podcast/stacy-rogers-candidate-for-zobY5rL_GMQ/ | 2026-05-19 | Education, trafficking, foster care, term limits, judicial power |
+  - Source: https://www.listennotes.com/es/podcasts/billy-dees-podcast/stacy-rogers-candidate-for-zobY5rL_GMQ/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-01663] [Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-01664] [Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)
+  - Source: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+  - Confidence/use: confirmed / use
+- **documented-record** [em-stacy-rogers-01665] [Kansas Reflector: Board races could shift power to conservative bloc](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)
+  - Source: https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-02220] Hays Post reported that Rogers discussed her children attending public and private schools, homeschooling, learning challenges, an IEP dispute, school-board decisions, administrative salaries, possible support for school choice, and money following the student. ([Hays Post](https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811))
+  - Source: https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-stacy-rogers-02758] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-stacy-rogers-01138] Raised Catholic in Hays -- attended Thomas More Prep-Marian, a Catholic high school
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1344
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-01706] Vicki (maiden name Greene per WikiTree records) was born and raised in Wichita. She and Mike both attended Wichita South High School. Their families lived two blocks from each other and "shared similar upbringings focused on hard work, honesty, and faith." They went to the University of Kansas together and married in 1974. They have resided in Topeka for over 40 years, where they raised their two sons.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:2340
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-stacy-rogers-02317] The richest long-form candidate voice came from podcast appearances rather than platform-native posts. On the Billy Dees Podcast, Rogers said she is on "Snapchat," TikTok, Rumble, YouTube, Truth Social, Facebook, Instagram, LinkedIn, and her website, and said she personally answers text messages, Facebook messages, and email. The same transcript covered special interests, fentanyl and human trafficking, education, foster care, term limits, and Kansas Supreme Court selection. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02331] Billy Dees Podcast episode, June 12/13, 2025. Key signals: candidate says she is accessible across many social platforms; themes include people lacking a voice, special interests, Kansas aerospace/agriculture, fentanyl and human trafficking, foster care, education, term limits, and judicial selection. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02342] | Education, school struggle, homeschooling, learning challenges, and parental/family perspective | 4 | 25% |
+  - Source: memory/candidates/stacy-rogers/social-harvest.md:79
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02353] Across the accessible public set reviewed, no reviewed item centered Medicaid expansion, water policy or the Ogallala aquifer, higher-education affordability, housing affordability, child care affordability as a standalone issue, road and bridge funding, broadband, labor unions, state employee pay, marijuana legalization, LGBTQ+ policy, or detailed abortion exceptions. The site includes pro-life/family framing and broad constitutional-rights language, but it does not provide detailed policy papers on most of those topics in the accessible pages reviewed.
+  - Source: memory/candidates/stacy-rogers/social-harvest.md:98
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-stacy-rogers-00884] TMP is a Catholic high school in Hays, Kansas
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:967
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-stacy-rogers-01340] Catholic faith. Demonstrated through actions (TMP education, parish membership, humanitarian service, protecting Catholic Charities) rather than just words.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1687
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-02218] The Meet Stacy page names school struggles as one of the hard questions Kansans are asking, but does not publish a detailed school-funding plan on the accessible page. ([Meet Stacy](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-00195] On education, she discussed learning challenges, public/private/homeschool experience, IEP experience, administrative salary concerns, possible school-choice support, and money following the student.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:257
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00220] Listed topics include drug/human trafficking, vulnerable communities, foster care, education failures, term limits, and judicial power.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:295
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00336] Education:
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:81
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00337] Shawnee Mission South High School (Johnson County native)
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:82
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00338] Garden City Community College -- played baseball (left-handed pitcher), Academic All-American
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:83
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-stacy-rogers-0009] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-stacy-rogers-0011] Across the accessible public set reviewed, no reviewed item centered Medicaid expansion, water policy or the Ogallala aquifer, higher-education affordability, housing affordability, child care affordability as a standalone issue, road and bridge funding, broadband, labor unions, state employee pay, marijuana legalization, LGBTQ+ policy, or detailed abortion exceptions. The site includes pro-life/family framing and broad constitutional-rights language, but it does not provide detailed policy papers on most of those topics in the accessible pages reviewed.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Facebook post** [soc-stacy-rogers-0012] The richest long-form candidate voice came from podcast appearances rather than platform-native posts. On the Billy Dees Podcast, Rogers said she is on "Snapchat," TikTok, Rumble, YouTube, Truth Social, Facebook, Instagram, LinkedIn, and her website, and said she personally answers text messages, Facebook messages, and email. The same transcript covered special interests, fentanyl and human trafficking, education, foster care, term limits, and Kansas Supreme Court selection. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong iheart.com post** [soc-stacy-rogers-0013] Billy Dees Podcast episode, June 12/13, 2025. Key signals: candidate says she is accessible across many social platforms; themes include people lacking a voice, special interests, Kansas aerospace/agriculture, fentanyl and human trafficking, foster care, education, term limits, and judicial selection. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-stacy-rogers-0014] | Education, school struggle, homeschooling, learning challenges, and parental/family perspective | 4 | 25% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0119] *This dossier was compiled from publicly available sources including news articles, government records, campaign materials, social media posts, biographical databases, obituary records, and academic surveys. All facts have been cross-referenced across multiple sources where possible. Confidence level: HIGH for biographical facts, education, family, and political record. MEDIUM for some financial details and organizational roles where primary sources were limited.*
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0120] Curriculum standards -- what Kansas kids learn in math, science, reading, writing, and social studies (yes, including what gets taught about evolution, history, and sex education)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0121] "observation": "Billy Dees Podcast episode, June 12/13, 2025. Key signals: candidate says she is accessible across many social platforms; themes include people lacking a voice, special interests, Kansas aerospace/agriculture, fentanyl and human trafficking, foster care, education, term limits, and judicial selection. (source) 14. Politics Not Included podcast listing, March 10, 2026.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 4. Religious liberty / church / civic morality
+
+Religious liberty / church / civic morality: 9 selected evidence items from 77 mapped rows. Public URL-backed rows: 4.
+
+### Evidence
+- **candidate-stated** [em-stacy-rogers-02134] Religious Liberty: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources.
+  - Source: memory/candidates/stacy-rogers/site-profile.md:19
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-01706] Vicki (maiden name Greene per WikiTree records) was born and raised in Wichita. She and Mike both attended Wichita South High School. Their families lived two blocks from each other and "shared similar upbringings focused on hard work, honesty, and faith." They went to the University of Kansas together and married in 1974. They have resided in Topeka for over 40 years, where they raised their two sons.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:2340
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-02726] "text": "Born and raised in Butler County, Ty learned Kansas values early - live your faith, stand by your family, work hard, and if you're not willing to do something about it, don't waste time complaining.",
+  - Source: ui/src/data/candidates.ts:14994
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-stacy-rogers-02344] | Pro-life/family/faith/constitutional-rights framing, 2nd Amendment, natural rights, and religious language | 4 | 25% |
+  - Source: memory/candidates/stacy-rogers/social-harvest.md:81
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-stacy-rogers-00791] [Kansas Catholic Conference: Election 2026](https://www.kansascatholic.org/current-news/election-2026)
+  - Source: https://www.kansascatholic.org/current-news/election-2026
+  - Confidence/use: likely / use
+- **faith-community-record** [em-stacy-rogers-01373] [KCUR - Faith-based adoption law](https://www.kcur.org/politics-elections-and-government/2018-05-18/faith-based-adoption-law-signed-quickly-becoming-kansas-campaign-fodder)
+  - Source: https://www.kcur.org/politics-elections-and-government/2018-05-18/faith-based-adoption-law-signed-quickly-becoming-kansas-campaign-fodder
+  - Confidence/use: likely / use
+- **faith-community-record** [em-stacy-rogers-02665] "url": "https://www.realmediakc.com/podcast/philip-sarnecki-for-kansas-governor-faith-business-outsider-vision/"
+  - Source: https://www.realmediakc.com/podcast/philip-sarnecki-for-kansas-governor-faith-business-outsider-vision/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-stacy-rogers-02809] "details": "The campaign bio says she is a \"devout Christian\" and a \"faithful member of River Community Church. Church URL verified in public web search: https://www.rivercc.org/."
+  - Source: https://www.rivercc.org/
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-02700] "issue": "Religious Liberty",
+  - Source: ui/src/data/candidates.ts:14945
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak Public web / internal harvest post** [soc-stacy-rogers-0010] | Pro-life/family/faith/constitutional-rights framing, 2nd Amendment, natural rights, and religious language | 4 | 25% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0122] Faith: Identifies as a "Child of God" on social media. No specific church or denomination identified, but faith language is prominent in her public profile.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0123] | Stacy Rogers | Christian (non-specific) | "Child of God" on social media; no specific church |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0124] Religious Liberty: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0125] socialResearchNote: "Social research is presence-limited. Campaign website and Linktree are candidate-controlled; several native platforms are login/script-limited. No issue position is inferred from follows, likes, associations, platform choice, faith language, or party label."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0126] "ownWordsNarrative": "Social research is presence-limited. Campaign website and Linktree are candidate-controlled; several native platforms are login/script-limited. No issue position is inferred from follows, likes, associations, platform choice, faith language, or party label.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 5. Taxes / spending / debt
+
+Taxes / spending / debt: 29 selected evidence items from 137 mapped rows. Public URL-backed rows: 19.
+
+### Evidence
+- **candidate-stated** [em-stacy-rogers-00160] Platform priorities: fiscal responsibility and government transparency; small businesses and local economies; public safety and community trust; rural Kansas values and agriculture; government working for people rather than political insiders.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:200
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-00197] On budget/taxes, she said she would search departments for inefficiencies, duplications, fraud, and mismanagement.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:259
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-02139] Property Taxes: This is her lead issue. She says she "cannot stand silent and watch small businesses and homeowners be destroyed through high property taxes" and wants to sunset STAR bonds that she says "funnel millions into investor pockets."
+  - Source: memory/candidates/stacy-rogers/site-profile.md:29
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-02747] "stance": "This is her lead issue. She says she \"cannot stand silent and watch small businesses and homeowners be destroyed through high property taxes\" and wants to sunset STAR bonds that she says \"funnel millions into investor pockets.\""
+  - Source: ui/src/data/candidates.ts:21369
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-02799] "stance": "Wants to cut taxes and reduce regulations. Supports limiting the size of government and cutting state budgets."
+  - Source: ui/src/data/candidates.ts:22369
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-02894] "observation": "On budget/taxes, she said she would search departments for inefficiencies, duplications, fraud, and mismanagement.",
+  - Source: ui/src/data/v2/stacy-rogers.ts:212
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00005] The Meet Stacy page gives her most explicit candidate-controlled policy list. Rogers says Kansans are asking why schools are struggling, property taxes keep rising, and policies benefit special interests instead of local families. Her listed priorities include sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to Kansas counties, protecting Kansans from predatory energy projects, encouraging homegrown business development, and putting service above politics. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00028] Kansas SOS candidate information: retrieved. Confirms offices, filing deadline, fee requirements, and that state candidates file with the SOS. ([source](https://www.sos.ks.gov/elections/candidate-information.html))
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-stacy-rogers-00031] State of Kansas candidate-filing mirror: retrieved. Lists Stacy L. Rogers (R), Wichita, Governor & Lt. Governor, date filed 12/22/2025, filing method Fee, documents filed with State of Kansas. ([source](https://candidatefiling.us/Info/Default?c=30052683837&e=2217607272&j=1896963838&s=882402022&st=KS))
+  - Source: https://candidatefiling.us/Info/Default?c=30052683837&e=2217607272&j=1896963838&s=882402022&st=KS
+  - Confidence/use: confirmed / use
+- **documented-record** [em-stacy-rogers-00268] | s-sos-candidate-info | primary | Kansas SOS Candidate Information | https://www.sos.ks.gov/elections/candidate-information.html | 2026-05-19 | Filing rules, deadline, office list, Governor/Lt. Governor fee |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-stacy-rogers-00271] | s-candidatefiling-rogers | government filing-system mirror | Candidate Filing Info - State of Kansas | https://candidatefiling.us/Info/Default?c=30052683837&e=2217607272&j=1896963838&s=882402022&st=KS | 2026-05-19 | Date filed 12/22/2025, fee, office |
+  - Source: https://candidatefiling.us/Info/Default?c=30052683837&e=2217607272&j=1896963838&s=882402022&st=KS
+  - Confidence/use: confirmed / use
+- **documented-record** [em-stacy-rogers-00281] | s-hayspost-ellis | secondary | Hays Post Ellis campaign stop | https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811 | 2026-05-19 | Public stop, education, incentives, water, budget, term limits |
+  - Source: https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-01621] [Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)
+  - Source: https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-01622] [PBS Wisconsin: $100M+ spending on 2025 race](https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/)
+  - Source: https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-stacy-rogers-00275] | s-kpdc-202601 | primary | Rogers 2025 year-end report | https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SR_202601.pdf | 2026-05-19 | 2025 receipts, expenditures, cash, donors, filing fee, loans |
+  - Source: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SR_202601.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-stacy-rogers-02200] Rogers's campaign homepage says she filed paperwork with the Kansas Secretary of State on December 22, 2025 and was joined by Michael Smith as lieutenant-governor running mate. Candidate-controlled filing claims are consistent with the county listing and the KPDC/SOS finance report showing the filing-fee disbursement. ([campaign homepage](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-stacy-rogers-02758] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-stacy-rogers-00025] Stacy L. Rogers is listed with Michael W. Smith as a Republican Governor / Lieutenant Governor of Kansas ticket on an official county election-office page for the August 4, 2026 primary. The statewide Kansas SOS candidate-list page was not directly capturable in this environment because it returned a JavaScript/captcha screen, but the Kansas SOS candidate-information page confirms that statewide candidates file with the Secretary of State and that Governor/Lt. Governor is a 2026 office. A state candidate-filing mirror lists Rogers as filed by fee on 12/22/2025, and the KPDC/SOS campaign-finance report records a $2,840 payment to the Kansas Secretary of State on 12/22/2025 for the filing fee.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:11
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-00155] Use in v2: finance card, donor list, action evidence for filing fee, and note that campaign remains modest compared with major statewide campaigns unless comparative finance work is added from other candidates.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:189
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-00251] Paid official filing fee: KPDC/SOS 2025 report lists $2,840 to Kansas Secretary of State on 12/22/2025. Source I.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:340
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-stacy-rogers-02310] Rogers' current campaign site uses a direct outsider-and-service frame: "People Over Politics. Kansas First." It says she wants a stronger future for every Kansas community, describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race, and frames the campaign around courage, grassroots leadership, listening to Kansans, fiscal responsibility, small business, public safety, rural values, agriculture, and government that works for people rather than insiders. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02311] The Meet Stacy page is the clearest candidate-controlled issue summary. It identifies Rogers as a lifelong Kansan, Republican, business owner, mother, and non-career politician. It lists priorities including sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, encouraging homegrown business, service above politics, and people above special interests. Its core-values list includes pro-Second Amendment, pro-business, pro-veteran, pro-family, natural and constitutional rights, law enforcement, and term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02319] Campaign homepage, captured 2026-05-11. Key signals: people-over-politics frame; first-to-file/first-to-enter claim for Rogers-Smith ticket; fiscal responsibility, small business, public safety, rural Kansas, agriculture, and anti-insider messaging. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-stacy-rogers-02206] The Meet Stacy page asks why schools struggle, why property taxes rise, and why policies benefit special interests instead of local families. It lists "Put service above politics and people above special interests" among priorities. ([Meet Stacy](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-02211] The Meet Stacy page lists sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, and encouraging homegrown business development. ([Meet Stacy](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-00167] Hard questions listed: struggling schools, rising property taxes, policies benefiting special interests.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:213
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00168] Priorities listed: sunset STAR bonds; return ALBTR cigarette/alcohol tax revenue to counties; state protections from predatory energy projects; homegrown business development; service above politics.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:214
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00368] Taxes: Lower cost of living for working-class families
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:122
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00422] Part of the bipartisan coalition that reversed the Brownback-era tax cuts in 2017
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:211
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-stacy-rogers-0009] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0015] Rogers' current campaign site uses a direct outsider-and-service frame: "People Over Politics. Kansas First." It says she wants a stronger future for every Kansas community, describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race, and frames the campaign around courage, grassroots leadership, listening to Kansans, fiscal responsibility, small business, public safety, rural values, agriculture, and government that works for people rather than insiders. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0016] The Meet Stacy page is the clearest candidate-controlled issue summary. It identifies Rogers as a lifelong Kansan, Republican, business owner, mother, and non-career politician. It lists priorities including sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, encouraging homegrown business, service above politics, and people above special interests. Its core-values list includes pro-Second Amendment, pro-business, pro-veteran, pro-family, natural and constitutional rights, law enforcement, and term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0017] Campaign homepage, captured 2026-05-11. Key signals: people-over-politics frame; first-to-file/first-to-enter claim for Rogers-Smith ticket; fiscal responsibility, small business, public safety, rural Kansas, agriculture, and anti-insider messaging. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0117] Rogers has a compelling personal story -- homeschooling mother of children with learning challenges, pharmacy background, small business owner with a nationally franchised brand. Her early declaration and first-to-file status show ambition, but her fundraising is essentially nonexistent compared to the major candidates. Her "first female Republican governor" angle is noteworthy but insufficient without serious money. Her platform is standard conservative (government efficiency, property taxes, pro-life) without a distinctive breakthrough message. The Kids Closet national franchise business is actually a more impressive credential than it initially appears -- running a national franchise system requires real organizational skill. But without a fundraising breakthrough, she is a long-shot candidate.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0127] Platform priorities: fiscal responsibility and government transparency; small businesses and local economies; public safety and community trust; rural Kansas values and agriculture; government working for people rather than political insiders.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0128] > "Politicians are making dangerous cuts to our programs, Medicaid and Social Security. That's hurting us, and with the expiration of ACA tax credits, that's a huge threat."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0129] Issue-mapping note: direct candidate-controlled issue statement; belongs to accountability/governance and property-tax/economic policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0130] Issue-mapping note: direct candidate-controlled issue statement; STAR bonds and ALBTR should not be generalized into a full tax platform without more evidence.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0131] "observation": "Issue-mapping note: direct candidate-controlled issue statement; STAR bonds and ALBTR should not be generalized into a full tax platform without more evidence.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 6. Economy / jobs / labor
+
+Economy / jobs / labor: 28 selected evidence items from 107 mapped rows. Public URL-backed rows: 21.
+
+### Evidence
+- **candidate-stated** [em-stacy-rogers-00007] Economic messaging usually comes through small-business and local-control language. The homepage says she wants policies that uplift hardworking Kansans and protect life, while the Meet Stacy page says she supports fair wages, job training, and incentives for local and small businesses. Her site also emphasizes rural Kansas, agriculture, and homegrown business over investor-driven development. ([homepage source](https://stacyrogersforks.com/), [Meet Stacy source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00005] The Meet Stacy page gives her most explicit candidate-controlled policy list. Rogers says Kansans are asking why schools are struggling, property taxes keep rising, and policies benefit special interests instead of local families. Her listed priorities include sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to Kansas counties, protecting Kansans from predatory energy projects, encouraging homegrown business development, and putting service above politics. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00006] Her values list is broad and conservative rather than technocratic. The campaign describes Rogers as pro-Second Amendment, pro-business, pro-veteran, pro-family, pro-law enforcement, a supporter of term limits, and a defender of natural and constitutional rights. It also presents her as a lifelong Kansan, proud Republican, business owner, mother, and non-career politician. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00014] Rogers' business identity remains mixed into her public footprint. Local indexed social mirrors show Mary Kay, Eberly Farm, and Kids Closet Connection posts adjacent to campaign links, including a Nov. 7, 2024 post sharing the campaign Linktree. The campaign itself leans into small-business credibility rather than presenting a long government record. ([source](https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director))
+  - Source: https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00283] | s-kcur-guide | secondary | KCUR Kansas governor 2026 guide | https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates | 2026-05-19 | Candidate summary, business background, Ballotpedia-derived bio |
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00285] | s-rotary-west-wichita | secondary/event listing | Rotary Club of West Wichita event page | https://rotarywestwichita.org/speakers/75327d55-6106-472b-b6ff-0bbb0e5c0b33 | 2026-05-19 | Candidate event bio, business and family background |
+  - Source: https://rotarywestwichita.org/speakers/75327d55-6106-472b-b6ff-0bbb0e5c0b33
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-02215] KCUR summarized Rogers as a Wichita business owner and reported her statement that a first-day executive order would review each department for inefficiencies, mishandling, and fraud. ([KCUR](https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates))
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00016] Several issue areas were not prominent in the accessible material reviewed. The capture set did not include detailed candidate-controlled positions on Medicaid expansion, marijuana legalization, LGBTQ+ policy, higher education, housing affordability, child care affordability, broadband, road funding, labor policy, state employee pay, or water/Ogallala policy. The campaign provides broad pro-life, pro-family, constitutional-rights, rural, agriculture, and public-safety language, but detailed policy papers were not visible in the reviewed pages.
+  - Source: memory/candidates/stacy-rogers/in-their-own-words.md:31
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00169] Core values include pro-Second Amendment, pro-business, pro-veteran, pro-family, natural/constitutional rights, law enforcement, term limits.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:215
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-02758] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-stacy-rogers-00591] Rogers has a compelling personal story -- homeschooling mother of children with learning challenges, pharmacy background, small business owner with a nationally franchised brand. Her early declaration and first-to-file status show ambition, but her fundraising is essentially nonexistent compared to the major candidates. Her "first female Republican governor" angle is noteworthy but insufficient without serious money. Her platform is standard conservative (government efficiency, property taxes, pro-life) without a distinctive breakthrough message. The Kids Closet national franchise business is actually a more impressive credential than it initially appears -- running a national franchise system requires real organizational skill. But without a fundraising breakthrough, she is a long-shot candidate.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:530
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-01578] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:2151
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-stacy-rogers-02310] Rogers' current campaign site uses a direct outsider-and-service frame: "People Over Politics. Kansas First." It says she wants a stronger future for every Kansas community, describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race, and frames the campaign around courage, grassroots leadership, listening to Kansans, fiscal responsibility, small business, public safety, rural values, agriculture, and government that works for people rather than insiders. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02311] The Meet Stacy page is the clearest candidate-controlled issue summary. It identifies Rogers as a lifelong Kansan, Republican, business owner, mother, and non-career politician. It lists priorities including sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, encouraging homegrown business, service above politics, and people above special interests. Its core-values list includes pro-Second Amendment, pro-business, pro-veteran, pro-family, natural and constitutional rights, law enforcement, and term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02312] The Rogers Report page is positioned as a candidate-controlled update channel with campaign updates, event announcements, video messages, press releases, policy positions, and "behind-the-scenes" material. It explicitly brands itself as "Straight Talk. Real Issues. For All Kansans." On capture, the visible post inventory was thin: the page exposed a "Business & Beards Podcast - Stacy Rogers Candidate Gov" heading but did not provide a full accessible archive of posts. ([source](https://stacyrogersforks.com/the-rogers-report))
+  - Source: https://stacyrogersforks.com/the-rogers-report
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02314] LinkedIn was the highest visible engagement/presence signal in the logged-out capture set. The public LinkedIn profile listed roughly 2K followers and 500+ connections, with the profile name "Stacy Rogers For Governor, (Archie Macias, Treasurer)." It also included older business links and an About line saying, "To honor God in all that I do." Visible activity snippets included a post asking to add volunteers to a Facebook chat for shirts/hats and walking/calling, a share saying she "cannot be bought," and a shared county-travel schedule for Smith, Jewell, Mitchell, Lincoln, Osborne, and Russell counties. ([source](https://www.linkedin.com/in/stacy-rogers-for-kansas))
+  - Source: https://www.linkedin.com/in/stacy-rogers-for-kansas
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02319] Campaign homepage, captured 2026-05-11. Key signals: people-over-politics frame; first-to-file/first-to-enter claim for Rogers-Smith ticket; fiscal responsibility, small business, public safety, rural Kansas, agriculture, and anti-insider messaging. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02320] Campaign Meet Stacy page, captured 2026-05-11. Key signals: lifelong Kansan, proud Republican, business owner, mother, servant-leader framing; STAR bonds; ALBTR revenue; predatory energy projects; homegrown business; 2nd Amendment; law enforcement; term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02322] The Rogers Report page, captured 2026-05-11. Key signals: official campaign update/video/policy hub, "straight talk" frame, and a visible Business & Beards podcast heading. ([source](https://stacyrogersforks.com/the-rogers-report))
+  - Source: https://stacyrogersforks.com/the-rogers-report
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02333] KWCH May 14, 2025 article on the GOP governor field. Key signals: Rogers as first to announce in November 2024; small-business and constitutional-freedoms identity; quote about leadership that listens and acts on rights, schools, local business, and values. ([source](https://www.kwch.com/2025/05/14/gop-field-already-getting-crowded-bid-flip-kansas-governors-office/))
+  - Source: https://www.kwch.com/2025/05/14/gop-field-already-getting-crowded-bid-flip-kansas-governors-office/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-stacy-rogers-02665] "url": "https://www.realmediakc.com/podcast/philip-sarnecki-for-kansas-governor-faith-business-outsider-vision/"
+  - Source: https://www.realmediakc.com/podcast/philip-sarnecki-for-kansas-governor-faith-business-outsider-vision/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-stacy-rogers-00598] Faith: Theological Studies is part of her academic background. Cornerstone Data company description notes her work is done "in light of the people and organizations that produced it" -- suggesting faith-integrated business philosophy. The company name "Cornerstone" itself has Christian connotations. No specific church identified.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:546
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00015] Local news coverage echoed her launch framing. KWCH reported that Rogers was first to announce in November 2024 and quoted her saying Kansas needs leadership that listens and acts to protect rights, improve schools, support local businesses, and restore values. The article identified her as a Wichita business owner and advocate for constitutional freedoms. ([source](https://www.kwch.com/2025/05/14/gop-field-already-getting-crowded-bid-flip-kansas-governors-office/))
+  - Source: https://www.kwch.com/2025/05/14/gop-field-already-getting-crowded-bid-flip-kansas-governors-office/
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-01389] [Jobs for America's Graduates - Bio](https://jag.org/dipl-team-member/jeff-colyer/)
+  - Source: https://jag.org/dipl-team-member/jeff-colyer/
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-02211] The Meet Stacy page lists sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, and encouraging homegrown business development. ([Meet Stacy](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-00165] Rogers describes herself as lifelong Kansan, Republican, business owner, and mother.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:211
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00168] Priorities listed: sunset STAR bonds; return ALBTR cigarette/alcohol tax revenue to counties; state protections from predatory energy projects; homegrown business development; service above politics.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:214
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00171] Economy text: fair wages, job training, local and small business incentives.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:217
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous beautynailhairsalons.com online-reference** [soc-stacy-rogers-0001] Rogers' business identity remains mixed into her public footprint. Local indexed social mirrors show Mary Kay, Eberly Farm, and Kids Closet Connection posts adjacent to campaign links, including a Nov. 7, 2024 post sharing the campaign Linktree. The campaign itself leans into small-business credibility rather than presenting a long government record. ([source](https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director))
+  - Source: https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-stacy-rogers-0009] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-stacy-rogers-0011] Across the accessible public set reviewed, no reviewed item centered Medicaid expansion, water policy or the Ogallala aquifer, higher-education affordability, housing affordability, child care affordability as a standalone issue, road and bridge funding, broadband, labor unions, state employee pay, marijuana legalization, LGBTQ+ policy, or detailed abortion exceptions. The site includes pro-life/family framing and broad constitutional-rights language, but it does not provide detailed policy papers on most of those topics in the accessible pages reviewed.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0015] Rogers' current campaign site uses a direct outsider-and-service frame: "People Over Politics. Kansas First." It says she wants a stronger future for every Kansas community, describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race, and frames the campaign around courage, grassroots leadership, listening to Kansans, fiscal responsibility, small business, public safety, rural values, agriculture, and government that works for people rather than insiders. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0016] The Meet Stacy page is the clearest candidate-controlled issue summary. It identifies Rogers as a lifelong Kansan, Republican, business owner, mother, and non-career politician. It lists priorities including sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, encouraging homegrown business, service above politics, and people above special interests. Its core-values list includes pro-Second Amendment, pro-business, pro-veteran, pro-family, natural and constitutional rights, law enforcement, and term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0017] Campaign homepage, captured 2026-05-11. Key signals: people-over-politics frame; first-to-file/first-to-enter claim for Rogers-Smith ticket; fiscal responsibility, small business, public safety, rural Kansas, agriculture, and anti-insider messaging. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0018] The Rogers Report page is positioned as a candidate-controlled update channel with campaign updates, event announcements, video messages, press releases, policy positions, and "behind-the-scenes" material. It explicitly brands itself as "Straight Talk. Real Issues. For All Kansans." On capture, the visible post inventory was thin: the page exposed a "Business & Beards Podcast - Stacy Rogers Candidate Gov" heading but did not provide a full accessible archive of posts. ([source](https://stacyrogersforks.com/the-rogers-report))
+  - Source: https://stacyrogersforks.com/the-rogers-report
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate LinkedIn share/repost** [soc-stacy-rogers-0019] LinkedIn was the highest visible engagement/presence signal in the logged-out capture set. The public LinkedIn profile listed roughly 2K followers and 500+ connections, with the profile name "Stacy Rogers For Governor, (Archie Macias, Treasurer)." It also included older business links and an About line saying, "To honor God in all that I do." Visible activity snippets included a post asking to add volunteers to a Facebook chat for shirts/hats and walking/calling, a share saying she "cannot be bought," and a shared county-travel schedule for Smith, Jewell, Mitchell, Lincoln, Osborne, and Russell counties. ([source](https://www.linkedin.com/in/stacy-rogers-for-kansas))
+  - Source: https://www.linkedin.com/in/stacy-rogers-for-kansas
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0020] Campaign Meet Stacy page, captured 2026-05-11. Key signals: lifelong Kansan, proud Republican, business owner, mother, servant-leader framing; STAR bonds; ALBTR revenue; predatory energy projects; homegrown business; 2nd Amendment; law enforcement; term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0021] The Rogers Report page, captured 2026-05-11. Key signals: official campaign update/video/policy hub, "straight talk" frame, and a visible Business & Beards podcast heading. ([source](https://stacyrogersforks.com/the-rogers-report))
+  - Source: https://stacyrogersforks.com/the-rogers-report
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 7. Guns / Second Amendment
+
+Guns / Second Amendment: 14 selected evidence items from 15 mapped rows. Public URL-backed rows: 4.
+
+### Evidence
+- **documented-record** [em-stacy-rogers-00006] Her values list is broad and conservative rather than technocratic. The campaign describes Rogers as pro-Second Amendment, pro-business, pro-veteran, pro-family, pro-law enforcement, a supporter of term limits, and a defender of natural and constitutional rights. It also presents her as a lifelong Kansan, proud Republican, business owner, mother, and non-career politician. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-02230] The Meet Stacy page lists Rogers as pro-Second Amendment, pro-natural and constitutional rights, pro-law enforcement, and a supporter of term limits. It also says she believes in limiting government overreach and cutting unnecessary regulations. ([Meet Stacy](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00169] Core values include pro-Second Amendment, pro-business, pro-veteran, pro-family, natural/constitutional rights, law enforcement, term limits.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:215
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-02135] Guns / Second Amendment: Runs as a Republican. The Kansas Republican Party platform supports Second Amendment rights without restrictions. No specific personal statement found in public sources.
+  - Source: memory/candidates/stacy-rogers/site-profile.md:21
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-02137] School Choice / Parental Rights in Education: Emphasizes parental rights and school support, informed by her experience homeschooling children with learning challenges. Rogers has not released detailed policy papers on guns, immigration, or most other statewide issues. Her campaign is built more around themes of government waste and family-centered values than specific legislative proposals.
+  - Source: memory/candidates/stacy-rogers/site-profile.md:25
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-02422] "Core values include pro-Second Amendment, pro-business, pro-veteran, pro-family, natural and constitutional rights, law enforcement, and term limits"
+  - Source: memory/candidates/stacy-rogers/v2-issues.yaml:119
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-02547] "text": "Rogers's Meet Stacy page lists pro-Second Amendment, pro-natural and constitutional rights, pro-law enforcement, supporter of term limits, limiting government overreach, cutting unnecessary regulations, and defending constitutional rights.",
+  - Source: ui/src/data/v2/stacy-rogers.ts:338
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-02701] "issue": "Guns / Second Amendment",
+  - Source: ui/src/data/candidates.ts:14949
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-02758] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-stacy-rogers-01928] | NRA | Unknown | No endorsement data found |
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:2737
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-stacy-rogers-02311] The Meet Stacy page is the clearest candidate-controlled issue summary. It identifies Rogers as a lifelong Kansan, Republican, business owner, mother, and non-career politician. It lists priorities including sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, encouraging homegrown business, service above politics, and people above special interests. Its core-values list includes pro-Second Amendment, pro-business, pro-veteran, pro-family, natural and constitutional rights, law enforcement, and term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-stacy-rogers-01259] Gun Rights
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1530
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-02229] Issue: Constitutional rights, guns, law enforcement, and limited government
+  - Source: memory/candidates/stacy-rogers/sleuth-pass.md:70
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-02546] "title": "Constitutional Rights / Guns / Law Enforcement",
+  - Source: ui/src/data/v2/stacy-rogers.ts:336
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-stacy-rogers-0009] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0016] The Meet Stacy page is the clearest candidate-controlled issue summary. It identifies Rogers as a lifelong Kansan, Republican, business owner, mother, and non-career politician. It lists priorities including sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, encouraging homegrown business, service above politics, and people above special interests. Its core-values list includes pro-Second Amendment, pro-business, pro-veteran, pro-family, natural and constitutional rights, law enforcement, and term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0134] Guns / Second Amendment: Runs as a Republican. The Kansas Republican Party platform supports Second Amendment rights without restrictions. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 8. Immigration / border
+
+Immigration / border: 14 selected evidence items from 23 mapped rows. Public URL-backed rows: 1.
+
+### Evidence
+- **candidate-stated** [em-stacy-rogers-02136] Immigration / Border: Runs as a Republican. The Kansas Republican Party platform supports border security and enforcement of immigration laws. No specific personal statement found in public sources.
+  - Source: memory/candidates/stacy-rogers/site-profile.md:23
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-02235] Issue-mapping note: interview evidence; map to public safety/vulnerable communities, not immigration unless Rogers explicitly connects the two in a sourced statement.
+  - Source: memory/candidates/stacy-rogers/sleuth-pass.md:81
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-01630] [CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)
+  - Source: https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-01486] Their argument is straightforward: Voting should be exclusively for citizens, and the Constitution should say so clearly and forcefully. They point out that similar amendments passed in all 8 states where they appeared on the 2024 ballot, often with 65-80% of the vote. It is a matter of principle, even if non-citizen voting is not currently a problem.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1958
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-01495] FACT 1: Non-citizen voting is already illegal. This amendment does not make anything new illegal.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1980
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-02137] School Choice / Parental Rights in Education: Emphasizes parental rights and school support, informed by her experience homeschooling children with learning challenges. Rogers has not released detailed policy papers on guns, immigration, or most other statewide issues. Her campaign is built more around themes of government waste and family-centered values than specific legislative proposals.
+  - Source: memory/candidates/stacy-rogers/site-profile.md:25
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-02745] "stance": "Emphasizes parental rights and school support, informed by her experience homeschooling children with learning challenges. Rogers has not released detailed policy papers on guns, immigration, or most other statewide issues. Her campaign is built more around themes of government waste and family-centered values than specific legislative proposals."
+  - Source: ui/src/data/candidates.ts:21361
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-01279] Endorsed Trump stating he would "protect Medicare, lower health care and drug prices, speed development of medical treatments and address the overdose epidemic." Also argued Trump would "close the southern U.S. border with Mexico to drug traffickers" and that America deserved "a president dedicated to securing our borders, stopping the drug traffickers and saving American lives."
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1579
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00536] "Let's end the border war -- keep the Chiefs and Royals in Missouri. Kansas simply can't afford to subsidize them."
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:426
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00914] | ~2012+ | Syrian border | Syrian Civil War | Provided medical care to refugees/casualties |
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1016
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-01085] Immigration:
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1260
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-01087] Deport illegal immigrants
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1262
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-01112] Border security and immigration enforcement
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1299
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-01246] Aligned with Trump border policy
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1510
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0135] Immigration / Border: Runs as a Republican. The Kansas Republican Party platform supports border security and enforcement of immigration laws. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 9. Health care / insurance / Medicaid
+
+Health care / insurance / Medicaid: 28 selected evidence items from 142 mapped rows. Public URL-backed rows: 15.
+
+### Evidence
+- **candidate-stated** [em-stacy-rogers-02054] [Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023)](https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/)
+  - Source: https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-stacy-rogers-00431] Cannabis: Supports legalization of medical marijuana
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:224
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-01249] Opposes bureaucratic control of healthcare decisions
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1514
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-01349] Health questions. While he says he's recovered from prostate cancer, opponents or voters may quietly wonder about long-term health.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1705
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-02140] Medical Freedom: Believes families should have the right to make their own medical decisions, "even if those decisions are different from what government bureaucrats recommend." This extends to her experience raising children with learning challenges.
+  - Source: memory/candidates/stacy-rogers/site-profile.md:31
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-02749] "stance": "Believes families should have the right to make their own medical decisions, \"even if those decisions are different from what government bureaucrats recommend.\" This extends to her experience raising children with learning challenges."
+  - Source: ui/src/data/candidates.ts:21373
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-02798] "stance": "Believes families should have the right to make their own medical decisions, \"even if those decisions are different from what government bureaucrats recommend.\" This is a direct reference to COVID-era vaccine and health mandates."
+  - Source: ui/src/data/candidates.ts:22365
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00375] > -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00724] [Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-01711] | Prior Campaign Site | [vickischmidt.org](https://vickischmidt.org/) | Insurance Commissioner campaign site |
+  - Source: https://vickischmidt.org/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-02050] [KWCH: Kansas insurance commissioner backs bill (Feb 2, 2026)](https://www.kwch.com/2026/02/02/kansas-insurance-commissioner-backs-bill-eliminate-breast-cancer-screening-costs/)
+  - Source: https://www.kwch.com/2026/02/02/kansas-insurance-commissioner-backs-bill-eliminate-breast-cancer-screening-costs/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-02079] [2022 Kansas Insurance Commissioner Election - Wikipedia](https://en.wikipedia.org/wiki/2022_Kansas_Insurance_Commissioner_election)
+  - Source: https://en.wikipedia.org/wiki/2022_Kansas_Insurance_Commissioner_election
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00016] Several issue areas were not prominent in the accessible material reviewed. The capture set did not include detailed candidate-controlled positions on Medicaid expansion, marijuana legalization, LGBTQ+ policy, higher education, housing affordability, child care affordability, broadband, road funding, labor policy, state employee pay, or water/Ogallala policy. The campaign provides broad pro-life, pro-family, constitutional-rights, rural, agriculture, and public-safety language, but detailed policy papers were not visible in the reviewed pages.
+  - Source: memory/candidates/stacy-rogers/in-their-own-words.md:31
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00261] Detailed policy plans: no candidate-controlled detailed papers found for Medicaid expansion, marijuana legalization, LGBTQ+ policy, higher education, housing, child care, broadband, road/bridge funding, state employee pay, or abortion exceptions.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:352
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00364] Notable Legislative Focus Areas: Education funding, lowering cost of living, workforce development, small business support, rural healthcare access. Specific bill-by-bill voting record available at kslegislature.gov but not extractable in bulk from search.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:116
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-02758] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-stacy-rogers-00968] Financial Institutions and Insurance Committee member
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1096
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-01279] Endorsed Trump stating he would "protect Medicare, lower health care and drug prices, speed development of medical treatments and address the overdose epidemic." Also argued Trump would "close the southern U.S. border with Mexico to drug traffickers" and that America deserved "a president dedicated to securing our borders, stopping the drug traffickers and saving American lives."
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1579
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-01537] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:2066
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-01747] | Committee Chair | Public Health and Welfare (6 years) |
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:2416
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-01748] | Committee Member | Financial Institutions and Insurance (12 years) |
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:2417
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-stacy-rogers-02353] Across the accessible public set reviewed, no reviewed item centered Medicaid expansion, water policy or the Ogallala aquifer, higher-education affordability, housing affordability, child care affordability as a standalone issue, road and bridge funding, broadband, labor unions, state employee pay, marijuana legalization, LGBTQ+ policy, or detailed abortion exceptions. The site includes pro-life/family framing and broad constitutional-rights language, but it does not provide detailed policy papers on most of those topics in the accessible pages reviewed.
+  - Source: memory/candidates/stacy-rogers/social-harvest.md:98
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-stacy-rogers-01376] [KSHB - Ukraine medical mission](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-01402] [IMC - Lt. Governor to Climb Mt. Kilimanjaro](https://internationalmedicalcorps.org/press-release/lt-governor-to-climb-mt-kilimanjaro-in-support-of-international-medical-corps-humanitarian-relief-efforts/)
+  - Source: https://internationalmedicalcorps.org/press-release/lt-governor-to-climb-mt-kilimanjaro-in-support-of-international-medical-corps-humanitarian-relief-efforts/
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-01657] [Ballotpedia: Kansas Insurance Commissioner 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-02040] [Kansas Department of Insurance - About Us](https://insurance.kansas.gov/about-us/)
+  - Source: https://insurance.kansas.gov/about-us/
+  - Confidence/use: confirmed / use
+- **background-context** [em-stacy-rogers-02052] [KWCH: "It's humbling" -- KS Insurance Commissioner discusses breast cancer journey (Oct 17, 2023)](https://www.kwch.com/2023/10/17/its-humbling-ks-insurance-commissioner-discusses-breast-cancer-journey/)
+  - Source: https://www.kwch.com/2023/10/17/its-humbling-ks-insurance-commissioner-discusses-breast-cancer-journey/
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-02053] [Kansas Reflector: Kansas insurance commissioner has breast cancer, expects full recovery (June 2023)](https://kansasreflector.com/briefs/kansas-insurance-commissioner-has-breast-cancer-expects-full-recovery/)
+  - Source: https://kansasreflector.com/briefs/kansas-insurance-commissioner-has-breast-cancer-expects-full-recovery/
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-stacy-rogers-0009] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-stacy-rogers-0011] Across the accessible public set reviewed, no reviewed item centered Medicaid expansion, water policy or the Ogallala aquifer, higher-education affordability, housing affordability, child care affordability as a standalone issue, road and bridge funding, broadband, labor unions, state employee pay, marijuana legalization, LGBTQ+ policy, or detailed abortion exceptions. The site includes pro-life/family framing and broad constitutional-rights language, but it does not provide detailed policy papers on most of those topics in the accessible pages reviewed.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0128] > "Politicians are making dangerous cuts to our programs, Medicaid and Social Security. That's hurting us, and with the expiration of ACA tax credits, that's a huge threat."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 10. Election integrity / voting / courts
+
+Election integrity / voting / courts: 31 selected evidence items from 640 mapped rows. Public URL-backed rows: 156.
+
+### Evidence
+- **candidate-stated** [em-stacy-rogers-01471] Right now, the Kansas Constitution says: "Every citizen of the United States who has attained the age of eighteen years and who resides in the voting area in which he or she seeks to vote shall be deemed a qualified elector."
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:1922
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00003] Rogers' public campaign identity is built around outsider, grassroots, and "people over politics" messaging. Her homepage opens with "People Over Politics. Kansas First." and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00004] The strongest recurring theme is that Kansans need a voice against insiders and special interests. In the campaign's announcement language, Rogers says she has not been afraid to "step out, speak up, and lead," and that Kansas deserves leaders who stand with people, not special interests. On the Billy Dees Podcast, she said many Kansans feel discounted and unrepresented, and she connected that frustration to career politicians, lobbyists, and special-interest influence. ([campaign source](https://stacyrogersforks.com/), [podcast source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00005] The Meet Stacy page gives her most explicit candidate-controlled policy list. Rogers says Kansans are asking why schools are struggling, property taxes keep rising, and policies benefit special interests instead of local families. Her listed priorities include sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to Kansas counties, protecting Kansans from predatory energy projects, encouraging homegrown business development, and putting service above politics. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00006] Her values list is broad and conservative rather than technocratic. The campaign describes Rogers as pro-Second Amendment, pro-business, pro-veteran, pro-family, pro-law enforcement, a supporter of term limits, and a defender of natural and constitutional rights. It also presents her as a lifelong Kansan, proud Republican, business owner, mother, and non-career politician. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00008] Education and family experience are another recurring signal. Podcast descriptions and campaign material present Rogers as a mother of three and former homeschool parent with firsthand experience around children with learning challenges. The Billy Dees Podcast listing says she is especially focused on students with learning challenges and believes every student should have resources and support to thrive. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00009] Public safety and vulnerable communities come through most clearly in long-form interviews. In the Billy Dees transcript, Rogers identified fentanyl and human trafficking as Kansas problems, tying trafficking to the I-70 and I-35 corridors. The same episode's public chapter markers identify discussions of drug and human trafficking, vulnerable communities, foster care, education failures, term limits, and judicial power. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00010] Judicial selection and term limits are prominent in her longer-form political argument. Near the end of the Billy Dees interview, Rogers argued that ordinary Kansas voters do not have a real say in selecting Kansas Supreme Court justices, distinguished retention votes from selection power, and said the 2026 judicial-selection vote would put power back in voters' hands. She also said she supports term limits for state and federal legislators. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00012] Her direct-contact message is part of the campaign brand. In the Billy Dees transcript, she said she personally answers text messages, Facebook messages, and email. The Politics Not Included podcast listing similarly frames her campaign around traveling Kansas, grassroots support, social-media engagement, handling supporters and critics, and the humanity of candidates and voters. ([Billy Dees source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/), [Politics Not Included source](https://podcast.app/politics-not-included-p7151166))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-stacy-rogers-00275] | s-kpdc-202601 | primary | Rogers 2025 year-end report | https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SR_202601.pdf | 2026-05-19 | 2025 receipts, expenditures, cash, donors, filing fee, loans |
+  - Source: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SR_202601.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-stacy-rogers-02200] Rogers's campaign homepage says she filed paperwork with the Kansas Secretary of State on December 22, 2025 and was joined by Michael Smith as lieutenant-governor running mate. Candidate-controlled filing claims are consistent with the county listing and the KPDC/SOS finance report showing the filing-fee disbursement. ([campaign homepage](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-stacy-rogers-02758] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-stacy-rogers-00025] Stacy L. Rogers is listed with Michael W. Smith as a Republican Governor / Lieutenant Governor of Kansas ticket on an official county election-office page for the August 4, 2026 primary. The statewide Kansas SOS candidate-list page was not directly capturable in this environment because it returned a JavaScript/captcha screen, but the Kansas SOS candidate-information page confirms that statewide candidates file with the Secretary of State and that Governor/Lt. Governor is a 2026 office. A state candidate-filing mirror lists Rogers as filed by fee on 12/22/2025, and the KPDC/SOS campaign-finance report records a $2,840 payment to the Kansas Secretary of State on 12/22/2025 for the filing fee.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:11
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-00155] Use in v2: finance card, donor list, action evidence for filing fee, and note that campaign remains modest compared with major statewide campaigns unless comparative finance work is added from other candidates.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:189
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-00251] Paid official filing fee: KPDC/SOS 2025 report lists $2,840 to Kansas Secretary of State on 12/22/2025. Source I.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:340
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-stacy-rogers-02311] The Meet Stacy page is the clearest candidate-controlled issue summary. It identifies Rogers as a lifelong Kansan, Republican, business owner, mother, and non-career politician. It lists priorities including sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, encouraging homegrown business, service above politics, and people above special interests. Its core-values list includes pro-Second Amendment, pro-business, pro-veteran, pro-family, natural and constitutional rights, law enforcement, and term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02317] The richest long-form candidate voice came from podcast appearances rather than platform-native posts. On the Billy Dees Podcast, Rogers said she is on "Snapchat," TikTok, Rumble, YouTube, Truth Social, Facebook, Instagram, LinkedIn, and her website, and said she personally answers text messages, Facebook messages, and email. The same transcript covered special interests, fentanyl and human trafficking, education, foster care, term limits, and Kansas Supreme Court selection. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02320] Campaign Meet Stacy page, captured 2026-05-11. Key signals: lifelong Kansan, proud Republican, business owner, mother, servant-leader framing; STAR bonds; ALBTR revenue; predatory energy projects; homegrown business; 2nd Amendment; law enforcement; term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02331] Billy Dees Podcast episode, June 12/13, 2025. Key signals: candidate says she is accessible across many social platforms; themes include people lacking a voice, special interests, Kansas aerospace/agriculture, fentanyl and human trafficking, foster care, education, term limits, and judicial selection. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02332] Politics Not Included podcast listing, March 10, 2026. Key signals: grassroots campaigning, traveling Kansas, skepticism of political experience, campaign finance, social media as a campaign tool, supporter/critic engagement, lieutenant governor choice, and voting. ([source](https://podcast.app/politics-not-included-p7151166))
+  - Source: https://podcast.app/politics-not-included-p7151166
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02287] Election slug: kansas-governor-2026
+  - Source: memory/candidates/stacy-rogers/social-harvest.md:6
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02339] | Government accountability, transparency, special interests, term limits, judicial selection, and anti-insider politics | 7 | 44% |
+  - Source: memory/candidates/stacy-rogers/social-harvest.md:76
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02344] | Pro-life/family/faith/constitutional-rights framing, 2nd Amendment, natural rights, and religious language | 4 | 25% |
+  - Source: memory/candidates/stacy-rogers/social-harvest.md:81
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-stacy-rogers-00791] [Kansas Catholic Conference: Election 2026](https://www.kansascatholic.org/current-news/election-2026)
+  - Source: https://www.kansascatholic.org/current-news/election-2026
+  - Confidence/use: likely / use
+- **faith-community-record** [em-stacy-rogers-01881] Faith-based voting record: No legislation specifically tied to religious motivations was identified beyond the general values framework
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:2649
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-01610] Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/
+  - Source: https://myvoteinfo.voteks.org/
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-01628] [NPR: Judge tosses Kansas proof-of-citizenship voter law](https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba)
+  - Source: https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-01632] [PBS: Kansas hopes to resurrect proof-of-citizenship law](https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law)
+  - Source: https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-01631] [Prism News: Kansas law blocked 31,000 eligible voters](https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000)
+  - Source: https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **background-context** [em-stacy-rogers-00043] Candidates for national, state, legislative, and judicial offices file with the Secretary of State.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:35
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00220] Listed topics include drug/human trafficking, vulnerable communities, foster care, education failures, term limits, and judicial power.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:295
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous beautynailhairsalons.com online-reference** [soc-stacy-rogers-0001] Rogers' business identity remains mixed into her public footprint. Local indexed social mirrors show Mary Kay, Eberly Farm, and Kids Closet Connection posts adjacent to campaign links, including a Nov. 7, 2024 post sharing the campaign Linktree. The campaign itself leans into small-business credibility rather than presenting a long government record. ([source](https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director))
+  - Source: https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-stacy-rogers-0002] Her direct-contact message is part of the campaign brand. In the Billy Dees transcript, she said she personally answers text messages, Facebook messages, and email. The Politics Not Included podcast listing similarly frames her campaign around traveling Kansas, grassroots support, social-media engagement, handling supporters and critics, and the humanity of candidates and voters. ([Billy Dees source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/), [Politics Not Included source](https://podcast.app/politics-not-included-p7151166))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous stacyrogersforks.com online-reference** [soc-stacy-rogers-0003] | s-campaign-home | primary/candidate-controlled | Stacy Rogers campaign homepage | https://stacyrogersforks.com/ | 2026-05-19 | Filing announcement, ticket, platform priorities |
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous stacyrogersforks.com online-reference** [soc-stacy-rogers-0004] The campaign homepage lists public safety and community trust as a platform priority. ([campaign homepage](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous linktr.ee online-reference** [soc-stacy-rogers-0005] Linktree - https://linktr.ee/stacyrogersforkansas - accessed 2026-05-19 - tier: social/candidate-controlled directory
+  - Source: https://linktr.ee/stacyrogersforkansas
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-stacy-rogers-0009] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-stacy-rogers-0010] | Pro-life/family/faith/constitutional-rights framing, 2nd Amendment, natural rights, and religious language | 4 | 25% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Facebook post** [soc-stacy-rogers-0012] The richest long-form candidate voice came from podcast appearances rather than platform-native posts. On the Billy Dees Podcast, Rogers said she is on "Snapchat," TikTok, Rumble, YouTube, Truth Social, Facebook, Instagram, LinkedIn, and her website, and said she personally answers text messages, Facebook messages, and email. The same transcript covered special interests, fentanyl and human trafficking, education, foster care, term limits, and Kansas Supreme Court selection. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong iheart.com post** [soc-stacy-rogers-0013] Billy Dees Podcast episode, June 12/13, 2025. Key signals: candidate says she is accessible across many social platforms; themes include people lacking a voice, special interests, Kansas aerospace/agriculture, fentanyl and human trafficking, foster care, education, term limits, and judicial selection. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0016] The Meet Stacy page is the clearest candidate-controlled issue summary. It identifies Rogers as a lifelong Kansan, Republican, business owner, mother, and non-career politician. It lists priorities including sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, encouraging homegrown business, service above politics, and people above special interests. Its core-values list includes pro-Second Amendment, pro-business, pro-veteran, pro-family, natural and constitutional rights, law enforcement, and term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 11. Public safety / law enforcement / criminal justice
+
+Public safety / law enforcement / criminal justice: 24 selected evidence items from 113 mapped rows. Public URL-backed rows: 35.
+
+### Evidence
+- **candidate-stated** [em-stacy-rogers-00160] Platform priorities: fiscal responsibility and government transparency; small businesses and local economies; public safety and community trust; rural Kansas values and agriculture; government working for people rather than political insiders.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:200
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-02235] Issue-mapping note: interview evidence; map to public safety/vulnerable communities, not immigration unless Rogers explicitly connects the two in a sourced statement.
+  - Source: memory/candidates/stacy-rogers/sleuth-pass.md:81
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00006] Her values list is broad and conservative rather than technocratic. The campaign describes Rogers as pro-Second Amendment, pro-business, pro-veteran, pro-family, pro-law enforcement, a supporter of term limits, and a defender of natural and constitutional rights. It also presents her as a lifelong Kansan, proud Republican, business owner, mother, and non-career politician. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00009] Public safety and vulnerable communities come through most clearly in long-form interviews. In the Billy Dees transcript, Rogers identified fentanyl and human trafficking as Kansas problems, tying trafficking to the I-70 and I-35 corridors. The same episode's public chapter markers identify discussions of drug and human trafficking, vulnerable communities, foster care, education failures, term limits, and judicial power. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00010] Judicial selection and term limits are prominent in her longer-form political argument. Near the end of the Billy Dees interview, Rogers argued that ordinary Kansas voters do not have a real say in selecting Kansas Supreme Court justices, distinguished retention votes from selection power, and said the 2026 judicial-selection vote would put power back in voters' hands. She also said she supports term limits for state and federal legislators. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00084] "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SR_202601.pdf"
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SR_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-stacy-rogers-00305] Kansas Ethics filing index: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+  - Confidence/use: confirmed / use
+- **documented-record** [em-stacy-rogers-00306] 2026 filing PDF: [SW01SR_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SR_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SR_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-stacy-rogers-00312] https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SR_202601.pdf
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SR_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-stacy-rogers-01406] [Kansas Ethics Commission - 2026 Election Cycle Filing](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-stacy-rogers-02758] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-stacy-rogers-02310] Rogers' current campaign site uses a direct outsider-and-service frame: "People Over Politics. Kansas First." It says she wants a stronger future for every Kansas community, describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race, and frames the campaign around courage, grassroots leadership, listening to Kansans, fiscal responsibility, small business, public safety, rural values, agriculture, and government that works for people rather than insiders. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02311] The Meet Stacy page is the clearest candidate-controlled issue summary. It identifies Rogers as a lifelong Kansan, Republican, business owner, mother, and non-career politician. It lists priorities including sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, encouraging homegrown business, service above politics, and people above special interests. Its core-values list includes pro-Second Amendment, pro-business, pro-veteran, pro-family, natural and constitutional rights, law enforcement, and term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02317] The richest long-form candidate voice came from podcast appearances rather than platform-native posts. On the Billy Dees Podcast, Rogers said she is on "Snapchat," TikTok, Rumble, YouTube, Truth Social, Facebook, Instagram, LinkedIn, and her website, and said she personally answers text messages, Facebook messages, and email. The same transcript covered special interests, fentanyl and human trafficking, education, foster care, term limits, and Kansas Supreme Court selection. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02319] Campaign homepage, captured 2026-05-11. Key signals: people-over-politics frame; first-to-file/first-to-enter claim for Rogers-Smith ticket; fiscal responsibility, small business, public safety, rural Kansas, agriculture, and anti-insider messaging. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02320] Campaign Meet Stacy page, captured 2026-05-11. Key signals: lifelong Kansan, proud Republican, business owner, mother, servant-leader framing; STAR bonds; ALBTR revenue; predatory energy projects; homegrown business; 2nd Amendment; law enforcement; term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02331] Billy Dees Podcast episode, June 12/13, 2025. Key signals: candidate says she is accessible across many social platforms; themes include people lacking a voice, special interests, Kansas aerospace/agriculture, fentanyl and human trafficking, foster care, education, term limits, and judicial selection. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02343] | Public safety, law enforcement, fentanyl, human trafficking, foster care, and vulnerable communities | 4 | 25% |
+  - Source: memory/candidates/stacy-rogers/social-harvest.md:80
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-stacy-rogers-00162] Michael Smith biography summary: Leavenworth County Commissioner, former mayor of Lansing, city administrator, chief of police, former president of Kansas Mayor's Association.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:202
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00177] Michael Smith bio: nearly 40 years public service; Leavenworth County Commissioner; former mayor of Lansing and city administrator; former police chief.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:229
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00222] Transcript includes fentanyl/human trafficking discussion tied to I-70 and I-35 corridors.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:297
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-01548] This is a direct rematch. Mann is a Lawrence attorney and former police officer turned prosecutor. He focuses on "basics of law enforcement" -- DUI prevention, victims' rights, public safety. His pitch: the AG's office should protect Kansans, not chase national headlines.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:2089
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-01779] Defended local control and adequate funding for schools, healthcare providers, courts, and law enforcement
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:2474
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-02229] Issue: Constitutional rights, guns, law enforcement, and limited government
+  - Source: memory/candidates/stacy-rogers/sleuth-pass.md:70
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous stacyrogersforks.com online-reference** [soc-stacy-rogers-0004] The campaign homepage lists public safety and community trust as a platform priority. ([campaign homepage](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-stacy-rogers-0009] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Facebook post** [soc-stacy-rogers-0012] The richest long-form candidate voice came from podcast appearances rather than platform-native posts. On the Billy Dees Podcast, Rogers said she is on "Snapchat," TikTok, Rumble, YouTube, Truth Social, Facebook, Instagram, LinkedIn, and her website, and said she personally answers text messages, Facebook messages, and email. The same transcript covered special interests, fentanyl and human trafficking, education, foster care, term limits, and Kansas Supreme Court selection. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong iheart.com post** [soc-stacy-rogers-0013] Billy Dees Podcast episode, June 12/13, 2025. Key signals: candidate says she is accessible across many social platforms; themes include people lacking a voice, special interests, Kansas aerospace/agriculture, fentanyl and human trafficking, foster care, education, term limits, and judicial selection. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0015] Rogers' current campaign site uses a direct outsider-and-service frame: "People Over Politics. Kansas First." It says she wants a stronger future for every Kansas community, describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race, and frames the campaign around courage, grassroots leadership, listening to Kansans, fiscal responsibility, small business, public safety, rural values, agriculture, and government that works for people rather than insiders. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0016] The Meet Stacy page is the clearest candidate-controlled issue summary. It identifies Rogers as a lifelong Kansan, Republican, business owner, mother, and non-career politician. It lists priorities including sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, encouraging homegrown business, service above politics, and people above special interests. Its core-values list includes pro-Second Amendment, pro-business, pro-veteran, pro-family, natural and constitutional rights, law enforcement, and term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0017] Campaign homepage, captured 2026-05-11. Key signals: people-over-politics frame; first-to-file/first-to-enter claim for Rogers-Smith ticket; fiscal responsibility, small business, public safety, rural Kansas, agriculture, and anti-insider messaging. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0020] Campaign Meet Stacy page, captured 2026-05-11. Key signals: lifelong Kansan, proud Republican, business owner, mother, servant-leader framing; STAR bonds; ALBTR revenue; predatory energy projects; homegrown business; 2nd Amendment; law enforcement; term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-stacy-rogers-0031] | Public safety, law enforcement, fentanyl, human trafficking, foster care, and vulnerable communities | 4 | 25% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0121] "observation": "Billy Dees Podcast episode, June 12/13, 2025. Key signals: candidate says she is accessible across many social platforms; themes include people lacking a voice, special interests, Kansas aerospace/agriculture, fentanyl and human trafficking, foster care, education, term limits, and judicial selection. (source) 14. Politics Not Included podcast listing, March 10, 2026.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 12. Agriculture / rural economy / water
+
+Agriculture / rural economy / water: 27 selected evidence items from 78 mapped rows. Public URL-backed rows: 15.
+
+### Evidence
+- **candidate-stated** [em-stacy-rogers-00007] Economic messaging usually comes through small-business and local-control language. The homepage says she wants policies that uplift hardworking Kansans and protect life, while the Meet Stacy page says she supports fair wages, job training, and incentives for local and small businesses. Her site also emphasizes rural Kansas, agriculture, and homegrown business over investor-driven development. ([homepage source](https://stacyrogersforks.com/), [Meet Stacy source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-stacy-rogers-00160] Platform priorities: fiscal responsibility and government transparency; small businesses and local economies; public safety and community trust; rural Kansas values and agriculture; government working for people rather than political insiders.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:200
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-00259] Prior Mount Hope office: Hays Post says former Mt. Hope city council member; KCUR/Ballotpedia-derived summary says water commissioner 2007-2012. No primary city record was found in this pass.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:350
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-02443] "Rogers said she was not familiar with the R9 Ranch project"
+  - Source: memory/candidates/stacy-rogers/v2-issues.yaml:162
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00014] Rogers' business identity remains mixed into her public footprint. Local indexed social mirrors show Mary Kay, Eberly Farm, and Kids Closet Connection posts adjacent to campaign links, including a Nov. 7, 2024 post sharing the campaign Linktree. The campaign itself leans into small-business credibility rather than presenting a long government record. ([source](https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director))
+  - Source: https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00281] | s-hayspost-ellis | secondary | Hays Post Ellis campaign stop | https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811 | 2026-05-19 | Public stop, education, incentives, water, budget, term limits |
+  - Source: https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00375] > -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00724] [Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-02242] The campaign homepage lists rural Kansas values and agriculture as priorities. The Meet Stacy page also lists protection from predatory energy projects. ([campaign homepage](https://stacyrogersforks.com/), [Meet Stacy](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00016] Several issue areas were not prominent in the accessible material reviewed. The capture set did not include detailed candidate-controlled positions on Medicaid expansion, marijuana legalization, LGBTQ+ policy, higher education, housing affordability, child care affordability, broadband, road funding, labor policy, state employee pay, or water/Ogallala policy. The campaign provides broad pro-life, pro-family, constitutional-rights, rural, agriculture, and public-safety language, but detailed policy papers were not visible in the reviewed pages.
+  - Source: memory/candidates/stacy-rogers/in-their-own-words.md:31
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00198] Use in v2: action evidence from an actual campaign stop, especially for education, rural/water, budget, term limits, and business incentives.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:260
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00253] Conducted rural/western Kansas public stop: Hays Post Ellis coverage documents in-person campaign event and issue discussion. Source N.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:342
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-02758] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-stacy-rogers-01537] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:2066
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-01578] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:2151
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-stacy-rogers-02310] Rogers' current campaign site uses a direct outsider-and-service frame: "People Over Politics. Kansas First." It says she wants a stronger future for every Kansas community, describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race, and frames the campaign around courage, grassroots leadership, listening to Kansans, fiscal responsibility, small business, public safety, rural values, agriculture, and government that works for people rather than insiders. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02319] Campaign homepage, captured 2026-05-11. Key signals: people-over-politics frame; first-to-file/first-to-enter claim for Rogers-Smith ticket; fiscal responsibility, small business, public safety, rural Kansas, agriculture, and anti-insider messaging. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02331] Billy Dees Podcast episode, June 12/13, 2025. Key signals: candidate says she is accessible across many social platforms; themes include people lacking a voice, special interests, Kansas aerospace/agriculture, fentanyl and human trafficking, foster care, education, term limits, and judicial selection. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02334] Beautynailhairsalons mirror of her Mary Kay/business social posts. Key signal: Nov. 7, 2024 post linking to the campaign Linktree; business posts overlap with Eberly Farm, Kids Closet Connection, and Mary Kay activity. This was treated as background/indexed social evidence, not a campaign-native feed. ([source](https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director))
+  - Source: https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02340] | Economy, small business, local business, fair wages/job training, STAR bonds, ALBTR revenue, and rural/agriculture development | 7 | 44% |
+  - Source: memory/candidates/stacy-rogers/social-harvest.md:77
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02353] Across the accessible public set reviewed, no reviewed item centered Medicaid expansion, water policy or the Ogallala aquifer, higher-education affordability, housing affordability, child care affordability as a standalone issue, road and bridge funding, broadband, labor unions, state employee pay, marijuana legalization, LGBTQ+ policy, or detailed abortion exceptions. The site includes pro-life/family framing and broad constitutional-rights language, but it does not provide detailed policy papers on most of those topics in the accessible pages reviewed.
+  - Source: memory/candidates/stacy-rogers/social-harvest.md:98
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-stacy-rogers-00726] [Kansas Reflector: Rural voter appeal (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-00746] [Kansas Reflector: Rural voters (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-00767] [Schooley Mitchell: Eberly Farm / Kids Closet story](https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/)
+  - Source: https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-02244] Hays Post reported that Rogers was unfamiliar with the R9 Ranch project when asked in Ellis, but spoke generally about water preservation and agreed that eastern and western Kansas have different water needs. ([Hays Post](https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811))
+  - Source: https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-00196] On water, she was not familiar with the R9 Ranch project but discussed water preservation generally and regional differences between eastern and western Kansas.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:258
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00212] Cites Ballotpedia survey for Sedgwick County Developmental Disability Organization service and Mount Hope water commissioner service from 2007 to 2012.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:283
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous beautynailhairsalons.com online-reference** [soc-stacy-rogers-0001] Rogers' business identity remains mixed into her public footprint. Local indexed social mirrors show Mary Kay, Eberly Farm, and Kids Closet Connection posts adjacent to campaign links, including a Nov. 7, 2024 post sharing the campaign Linktree. The campaign itself leans into small-business credibility rather than presenting a long government record. ([source](https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director))
+  - Source: https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-stacy-rogers-0009] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-stacy-rogers-0011] Across the accessible public set reviewed, no reviewed item centered Medicaid expansion, water policy or the Ogallala aquifer, higher-education affordability, housing affordability, child care affordability as a standalone issue, road and bridge funding, broadband, labor unions, state employee pay, marijuana legalization, LGBTQ+ policy, or detailed abortion exceptions. The site includes pro-life/family framing and broad constitutional-rights language, but it does not provide detailed policy papers on most of those topics in the accessible pages reviewed.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong iheart.com post** [soc-stacy-rogers-0013] Billy Dees Podcast episode, June 12/13, 2025. Key signals: candidate says she is accessible across many social platforms; themes include people lacking a voice, special interests, Kansas aerospace/agriculture, fentanyl and human trafficking, foster care, education, term limits, and judicial selection. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0015] Rogers' current campaign site uses a direct outsider-and-service frame: "People Over Politics. Kansas First." It says she wants a stronger future for every Kansas community, describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race, and frames the campaign around courage, grassroots leadership, listening to Kansans, fiscal responsibility, small business, public safety, rural values, agriculture, and government that works for people rather than insiders. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0017] Campaign homepage, captured 2026-05-11. Key signals: people-over-politics frame; first-to-file/first-to-enter claim for Rogers-Smith ticket; fiscal responsibility, small business, public safety, rural Kansas, agriculture, and anti-insider messaging. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong beautynailhairsalons.com post** [soc-stacy-rogers-0023] Beautynailhairsalons mirror of her Mary Kay/business social posts. Key signal: Nov. 7, 2024 post linking to the campaign Linktree; business posts overlap with Eberly Farm, Kids Closet Connection, and Mary Kay activity. This was treated as background/indexed social evidence, not a campaign-native feed. ([source](https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director))
+  - Source: https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-stacy-rogers-0025] | Economy, small business, local business, fair wages/job training, STAR bonds, ALBTR revenue, and rural/agriculture development | 7 | 44% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0121] "observation": "Billy Dees Podcast episode, June 12/13, 2025. Key signals: candidate says she is accessible across many social platforms; themes include people lacking a voice, special interests, Kansas aerospace/agriculture, fentanyl and human trafficking, foster care, education, term limits, and judicial selection. (source) 14. Politics Not Included podcast listing, March 10, 2026.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-stacy-rogers-0127] Platform priorities: fiscal responsibility and government transparency; small businesses and local economies; public safety and community trust; rural Kansas values and agriculture; government working for people rather than political insiders.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 13. Local governance / transparency / ethics
+
+Local governance / transparency / ethics: 35 selected evidence items from 713 mapped rows. Public URL-backed rows: 154.
+
+### Evidence
+- **candidate-stated** [em-stacy-rogers-00007] Economic messaging usually comes through small-business and local-control language. The homepage says she wants policies that uplift hardworking Kansans and protect life, while the Meet Stacy page says she supports fair wages, job training, and incentives for local and small businesses. Her site also emphasizes rural Kansas, agriculture, and homegrown business over investor-driven development. ([homepage source](https://stacyrogersforks.com/), [Meet Stacy source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-stacy-rogers-02213] In Hays Post coverage of the Ellis stop, Rogers said she did not think the whole state should pay for large incentive packages that aid one county or community, citing Chiefs/Royals incentive packages. ([Hays Post](https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811))
+  - Source: https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811
+  - Confidence/use: likely / use
+- **candidate-stated** [em-stacy-rogers-00160] Platform priorities: fiscal responsibility and government transparency; small businesses and local economies; public safety and community trust; rural Kansas values and agriculture; government working for people rather than political insiders.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:200
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-00259] Prior Mount Hope office: Hays Post says former Mt. Hope city council member; KCUR/Ballotpedia-derived summary says water commissioner 2007-2012. No primary city record was found in this pass.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:350
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-00286] | s-social-harvest-local | internal | Existing social-harvest.md | memory/candidates/stacy-rogers/social-harvest.md | 2026-05-19 | Platform presence and limits from May 11 harvest |
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:379
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-01859] | June 14, 2023 | Public announcement via official statement |
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:2613
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-stacy-rogers-01926] | Kansans for Life PAC | ACTIVELY OPPOSING | Released formal statement calling her record "the worst on life of any Republican to ever seek office in Kansas" |
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:2735
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-00003] Rogers' public campaign identity is built around outsider, grassroots, and "people over politics" messaging. Her homepage opens with "People Over Politics. Kansas First." and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00004] The strongest recurring theme is that Kansans need a voice against insiders and special interests. In the campaign's announcement language, Rogers says she has not been afraid to "step out, speak up, and lead," and that Kansas deserves leaders who stand with people, not special interests. On the Billy Dees Podcast, she said many Kansans feel discounted and unrepresented, and she connected that frustration to career politicians, lobbyists, and special-interest influence. ([campaign source](https://stacyrogersforks.com/), [podcast source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00005] The Meet Stacy page gives her most explicit candidate-controlled policy list. Rogers says Kansans are asking why schools are struggling, property taxes keep rising, and policies benefit special interests instead of local families. Her listed priorities include sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to Kansas counties, protecting Kansans from predatory energy projects, encouraging homegrown business development, and putting service above politics. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00008] Education and family experience are another recurring signal. Podcast descriptions and campaign material present Rogers as a mother of three and former homeschool parent with firsthand experience around children with learning challenges. The Billy Dees Podcast listing says she is especially focused on students with learning challenges and believes every student should have resources and support to thrive. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00009] Public safety and vulnerable communities come through most clearly in long-form interviews. In the Billy Dees transcript, Rogers identified fentanyl and human trafficking as Kansas problems, tying trafficking to the I-70 and I-35 corridors. The same episode's public chapter markers identify discussions of drug and human trafficking, vulnerable communities, foster care, education failures, term limits, and judicial power. ([source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00012] Her direct-contact message is part of the campaign brand. In the Billy Dees transcript, she said she personally answers text messages, Facebook messages, and email. The Politics Not Included podcast listing similarly frames her campaign around traveling Kansas, grassroots support, social-media engagement, handling supporters and critics, and the humanity of candidates and voters. ([Billy Dees source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/), [Politics Not Included source](https://podcast.app/politics-not-included-p7151166))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00014] Rogers' business identity remains mixed into her public footprint. Local indexed social mirrors show Mary Kay, Eberly Farm, and Kids Closet Connection posts adjacent to campaign links, including a Nov. 7, 2024 post sharing the campaign Linktree. The campaign itself leans into small-business credibility rather than presenting a long government record. ([source](https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director))
+  - Source: https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-00028] Kansas SOS candidate information: retrieved. Confirms offices, filing deadline, fee requirements, and that state candidates file with the SOS. ([source](https://www.sos.ks.gov/elections/candidate-information.html))
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-stacy-rogers-00011] Her social-media posture is unusually broad for a lower-funded statewide candidate. The campaign Linktree links donation, website, TikTok, Facebook, LinkedIn, and X. The campaign website lists Truth Social @StacyForThePeople, Instagram @StacyforKansasGovernor, YouTube @StacyRogersForThePeople, and Facebook/Twitter @StacyRogersKS. In the Billy Dees transcript, Rogers said people could find her on Snapchat, TikTok, Rumble, YouTube, Truth Social, Facebook, Instagram, LinkedIn, and her website. ([Linktree source](https://linktr.ee/stacyrogersforkansas), [campaign source](https://stacyrogersforks.com/meet-stacy), [podcast source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://linktr.ee/stacyrogersforkansas
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-stacy-rogers-00032] KPDC/SOS finance index and PDFs: retrieved. Rogers has treasurer appointment and 202501/202601 reports. ([index](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm))
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-stacy-rogers-00272] | s-kpdc-index | primary | KPDC/SOS 2026 statewide index | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm | 2026-05-19 | Rogers finance filings exist |
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-stacy-rogers-00273] | s-kpdc-at | primary | Rogers AT form | https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01SR_AT.pdf | 2026-05-19 | Treasurer appointment, office sought |
+  - Source: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01SR_AT.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-stacy-rogers-00274] | s-kpdc-202501 | primary | Rogers 2024 year-end report | https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202501/SW01SR_202501.pdf | 2026-05-19 | 2024 receipts, expenditures, cash, loan |
+  - Source: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202501/SW01SR_202501.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-stacy-rogers-00275] | s-kpdc-202601 | primary | Rogers 2025 year-end report | https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SR_202601.pdf | 2026-05-19 | 2025 receipts, expenditures, cash, donors, filing fee, loans |
+  - Source: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SR_202601.pdf
+  - Confidence/use: confirmed / use
+- **social-online-signal** [em-stacy-rogers-00013] The highest visible social-presence metric in the public capture was LinkedIn, where the campaign profile listed roughly 2K followers and 500+ connections. Its public activity snippets included volunteer recruitment through a Facebook chat, a campaign share saying she "cannot be bought," and a county-travel schedule. Indexed public sources also showed @stacyrogersforthepeople with 718 TikTok followers and @StacyRogersForThePeople with 66 YouTube subscribers; indexed X snippets showed [@stacyrogersks](https://x.com/stacyrogersks) in the mid-hundreds of followers. ([LinkedIn source](https://www.linkedin.com/in/stacy-rogers-for-kansas), [indexed social source](https://www.idcrawl.com/stacy-rogers), [X indexed source](https://twstalker.com/Geebu55288))
+  - Source: https://x.com/stacyrogersks
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-01712] | Facebook | [@VickiSchmidtKS](https://www.facebook.com/VickiSchmidtKS/) | Bio: "Lifelong Kansan & Republican, Mother & Grandmother, Local Pharmacist, Running for Governor" |
+  - Source: https://www.facebook.com/VickiSchmidtKS/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02297] | Instagram | https://www.instagram.com/stacyforkansasgovernor and older/indexed link https://www.instagram.com/stacyforthepeople/ | FOUND / LIMITED | Current campaign site lists @StacyforKansasGovernor; older local raw source listed stacyforthepeople. Logged-out post inventory and engagement were not accessible. |
+  - Source: https://www.instagram.com/stacyforkansasgovernor
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02314] LinkedIn was the highest visible engagement/presence signal in the logged-out capture set. The public LinkedIn profile listed roughly 2K followers and 500+ connections, with the profile name "Stacy Rogers For Governor, (Archie Macias, Treasurer)." It also included older business links and an About line saying, "To honor God in all that I do." Visible activity snippets included a post asking to add volunteers to a Facebook chat for shirts/hats and walking/calling, a share saying she "cannot be bought," and a shared county-travel schedule for Smith, Jewell, Mitchell, Lincoln, Osborne, and Russell counties. ([source](https://www.linkedin.com/in/stacy-rogers-for-kansas))
+  - Source: https://www.linkedin.com/in/stacy-rogers-for-kansas
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02315] Indexed X metadata identified [@stacyrogersks](https://x.com/stacyrogersks) as "Stacy Rogers for Kansas Governor," Kansas, USA, with the campaign website and paid-for disclaimer. TwStalker snippets showed follower counts around 546 and following around 2K in one indexed view, while another older indexed view showed 357 followers and 2K following. Because X itself did not expose reliable logged-out profile counts in this capture, those counts are treated as indexed estimates, not current official numbers. ([indexed source](https://twstalker.com/Geebu55288))
+  - Source: https://x.com/stacyrogersks
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02322] The Rogers Report page, captured 2026-05-11. Key signals: official campaign update/video/policy hub, "straight talk" frame, and a visible Business & Beards podcast heading. ([source](https://stacyrogersforks.com/the-rogers-report))
+  - Source: https://stacyrogersforks.com/the-rogers-report
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02332] Politics Not Included podcast listing, March 10, 2026. Key signals: grassroots campaigning, traveling Kansas, skepticism of political experience, campaign finance, social media as a campaign tool, supporter/critic engagement, lieutenant governor choice, and voting. ([source](https://podcast.app/politics-not-included-p7151166))
+  - Source: https://podcast.app/politics-not-included-p7151166
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02333] KWCH May 14, 2025 article on the GOP governor field. Key signals: Rogers as first to announce in November 2024; small-business and constitutional-freedoms identity; quote about leadership that listens and acts on rights, schools, local business, and values. ([source](https://www.kwch.com/2025/05/14/gop-field-already-getting-crowded-bid-flip-kansas-governors-office/))
+  - Source: https://www.kwch.com/2025/05/14/gop-field-already-getting-crowded-bid-flip-kansas-governors-office/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-stacy-rogers-00015] Local news coverage echoed her launch framing. KWCH reported that Rogers was first to announce in November 2024 and quoted her saying Kansas needs leadership that listens and acts to protect rights, improve schools, support local businesses, and restore values. The article identified her as a Wichita business owner and advocate for constitutional freedoms. ([source](https://www.kwch.com/2025/05/14/gop-field-already-getting-crowded-bid-flip-kansas-governors-office/))
+  - Source: https://www.kwch.com/2025/05/14/gop-field-already-getting-crowded-bid-flip-kansas-governors-office/
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-00757] [Johnson County Post: O'Hara governor bid (March 10, 2025)](https://johnsoncountypost.com/2025/03/10/charlotte-ohara-kansas-governor-bid-254803/)
+  - Source: https://johnsoncountypost.com/2025/03/10/charlotte-ohara-kansas-governor-bid-254803/
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-01376] [KSHB - Ukraine medical mission](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-01607] Registration deadline: Check with the Ellis County Clerk's office or visit https://www.kdor.ks.gov/Apps/VoterReg/
+  - Source: https://www.kdor.ks.gov/Apps/VoterReg/
+  - Confidence/use: confirmed / use
+- **background-context** [em-stacy-rogers-01610] Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/
+  - Source: https://myvoteinfo.voteks.org/
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-01660] [Ballotpedia: KS House District 111](https://ballotpedia.org/Kansas_House_of_Representatives_District_111)
+  - Source: https://ballotpedia.org/Kansas_House_of_Representatives_District_111
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous beautynailhairsalons.com online-reference** [soc-stacy-rogers-0001] Rogers' business identity remains mixed into her public footprint. Local indexed social mirrors show Mary Kay, Eberly Farm, and Kids Closet Connection posts adjacent to campaign links, including a Nov. 7, 2024 post sharing the campaign Linktree. The campaign itself leans into small-business credibility rather than presenting a long government record. ([source](https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director))
+  - Source: https://www.beautynailhairsalons.com/US/Wichita/1661097797458013/Stacy-Rogers%2C-Mary-Kay-Independent-Sales-Director
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-stacy-rogers-0002] Her direct-contact message is part of the campaign brand. In the Billy Dees transcript, she said she personally answers text messages, Facebook messages, and email. The Politics Not Included podcast listing similarly frames her campaign around traveling Kansas, grassroots support, social-media engagement, handling supporters and critics, and the humanity of candidates and voters. ([Billy Dees source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/), [Politics Not Included source](https://podcast.app/politics-not-included-p7151166))
+  - Source: https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous stacyrogersforks.com online-reference** [soc-stacy-rogers-0003] | s-campaign-home | primary/candidate-controlled | Stacy Rogers campaign homepage | https://stacyrogersforks.com/ | 2026-05-19 | Filing announcement, ticket, platform priorities |
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous stacyrogersforks.com online-reference** [soc-stacy-rogers-0004] The campaign homepage lists public safety and community trust as a platform priority. ([campaign homepage](https://stacyrogersforks.com/))
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous linktr.ee online-reference** [soc-stacy-rogers-0005] Linktree - https://linktr.ee/stacyrogersforkansas - accessed 2026-05-19 - tier: social/candidate-controlled directory
+  - Source: https://linktr.ee/stacyrogersforkansas
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-stacy-rogers-0006] Her social-media posture is unusually broad for a lower-funded statewide candidate. The campaign Linktree links donation, website, TikTok, Facebook, LinkedIn, and X. The campaign website lists Truth Social @StacyForThePeople, Instagram @StacyforKansasGovernor, YouTube @StacyRogersForThePeople, and Facebook/Twitter @StacyRogersKS. In the Billy Dees transcript, Rogers said people could find her on Snapchat, TikTok, Rumble, YouTube, Truth Social, Facebook, Instagram, LinkedIn, and her website. ([Linktree source](https://linktr.ee/stacyrogersforkansas), [campaign source](https://stacyrogersforks.com/meet-stacy), [podcast source](https://www.iheart.com/podcast/966-billy-dees-podcast-28826157/episode/stacy-rogers-candidate-for-governor-280748522/))
+  - Source: https://linktr.ee/stacyrogersforkansas
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous linktr.ee online-reference** [soc-stacy-rogers-0007] | s-linktree | social/candidate-controlled | Linktree | https://linktr.ee/stacyrogersforkansas | 2026-05-19 | Donation/website/social links, paid-for line |
+  - Source: https://linktr.ee/stacyrogersforkansas
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-stacy-rogers-0008] Linktree: active and candidate-controlled; lists campaign donation, website, TikTok, Facebook, LinkedIn, and X links and repeats the paid-for line. ([Linktree](https://linktr.ee/stacyrogersforkansas))
+  - Source: https://linktr.ee/stacyrogersforkansas
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-stacy-rogers-0009] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate LinkedIn share/repost** [soc-stacy-rogers-0019] LinkedIn was the highest visible engagement/presence signal in the logged-out capture set. The public LinkedIn profile listed roughly 2K followers and 500+ connections, with the profile name "Stacy Rogers For Governor, (Archie Macias, Treasurer)." It also included older business links and an About line saying, "To honor God in all that I do." Visible activity snippets included a post asking to add volunteers to a Facebook chat for shirts/hats and walking/calling, a share saying she "cannot be bought," and a shared county-travel schedule for Smith, Jewell, Mitchell, Lincoln, Osborne, and Russell counties. ([source](https://www.linkedin.com/in/stacy-rogers-for-kansas))
+  - Source: https://www.linkedin.com/in/stacy-rogers-for-kansas
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 14. Environment / energy / land use
+
+Environment / energy / land use: 19 selected evidence items from 23 mapped rows. Public URL-backed rows: 8.
+
+### Evidence
+- **documented-record** [em-stacy-rogers-00005] The Meet Stacy page gives her most explicit candidate-controlled policy list. Rogers says Kansans are asking why schools are struggling, property taxes keep rising, and policies benefit special interests instead of local families. Her listed priorities include sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to Kansas counties, protecting Kansans from predatory energy projects, encouraging homegrown business development, and putting service above politics. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-02196] The SOS candidate-list page itself (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript/captcha block in this environment. A county election-office page for Johnson County lists "Stacy L. Rogers / Michael W. Smith" for Governor / Lieutenant Governor of Kansas, party Republican, incumbent No, office level State Offices, term four years. ([Johnson County Election Office](https://www.jocoelection.org/candidates-elected-officials/stacy-l-rogers-michael-w-smith))
+  - Source: https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx`
+  - Confidence/use: confirmed / use
+- **documented-record** [em-stacy-rogers-02242] The campaign homepage lists rural Kansas values and agriculture as priorities. The Meet Stacy page also lists protection from predatory energy projects. ([campaign homepage](https://stacyrogersforks.com/), [Meet Stacy](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-stacy-rogers-02374] "Direct candidate-list page returned a JavaScript/captcha block in this environment"
+  - Source: memory/candidates/stacy-rogers/v2-issues.yaml:27
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-02481] "text": "Rogers is running on a Republican Governor / Lieutenant Governor ticket with Michael W. Smith. Government election pages list the ticket for Governor / Lieutenant Governor of Kansas, and a filing-system mirror lists Rogers as filed by fee on December 22, 2025. The SOS candidate-list page itself was blocked in this environment, and the final filing deadline is June 1, 2026, so the careful status is filed Republican primary ticket, not nominee.",
+  - Source: ui/src/data/v2/stacy-rogers.ts:23
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-02519] "text": "Rogers's candidate-controlled priorities include sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, encouraging homegrown business development, fair wages, job training, and incentives for local and small businesses.",
+  - Source: ui/src/data/v2/stacy-rogers.ts:163
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-02569] "text": "The campaign homepage lists rural Kansas values and agriculture as priorities, and the Meet Stacy page lists state protections from predatory energy projects. At an Ellis stop, Rogers was not familiar with the R9 Ranch project but spoke generally about water preservation and regional differences in Kansas water needs.",
+  - Source: ui/src/data/v2/stacy-rogers.ts:439
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-stacy-rogers-02574] "summary": "No detailed water-rights, Ogallala aquifer, R9 Ranch, agriculture subsidy, or energy-siting plan was found in candidate-controlled sources.",
+  - Source: ui/src/data/v2/stacy-rogers.ts:466
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-02758] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-stacy-rogers-00025] Stacy L. Rogers is listed with Michael W. Smith as a Republican Governor / Lieutenant Governor of Kansas ticket on an official county election-office page for the August 4, 2026 primary. The statewide Kansas SOS candidate-list page was not directly capturable in this environment because it returned a JavaScript/captcha screen, but the Kansas SOS candidate-information page confirms that statewide candidates file with the Secretary of State and that Governor/Lt. Governor is a 2026 office. A state candidate-filing mirror lists Rogers as filed by fee on 12/22/2025, and the KPDC/SOS campaign-finance report records a $2,840 payment to the Kansas Secretary of State on 12/22/2025 for the filing fee.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:11
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-stacy-rogers-02261] Direct Kansas SOS candidate-list page was blocked by a JavaScript/captcha screen in this environment. Use the county election page, candidate-filing mirror, SOS candidate-information rule page, and KPDC/SOS finance records as triangulation, while noting that the statewide candidate list itself was not directly captured.
+  - Source: memory/candidates/stacy-rogers/sleuth-pass.md:119
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-stacy-rogers-02311] The Meet Stacy page is the clearest candidate-controlled issue summary. It identifies Rogers as a lifelong Kansan, Republican, business owner, mother, and non-career politician. It lists priorities including sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, encouraging homegrown business, service above politics, and people above special interests. Its core-values list includes pro-Second Amendment, pro-business, pro-veteran, pro-family, natural and constitutional rights, law enforcement, and term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-stacy-rogers-02320] Campaign Meet Stacy page, captured 2026-05-11. Key signals: lifelong Kansan, proud Republican, business owner, mother, servant-leader framing; STAR bonds; ALBTR revenue; predatory energy projects; homegrown business; 2nd Amendment; law enforcement; term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-stacy-rogers-00783] [NOLN: Strickland Brothers franchise owner](https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor)
+  - Source: https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-02211] The Meet Stacy page lists sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, and encouraging homegrown business development. ([Meet Stacy](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Confidence/use: likely / use
+- **background-context** [em-stacy-rogers-00168] Priorities listed: sunset STAR bonds; return ALBTR cigarette/alcohol tax revenue to counties; state protections from predatory energy projects; homegrown business development; service above politics.
+  - Source: memory/candidates/stacy-rogers/raw-dump-v2.md:214
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-00649] Largest national franchise owner, Strickland Brothers 10 Minute Oil Change -- locations across Kansas including Andover, El Dorado, Derby, Pittsburg, Fort Scott, Independence
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:640
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-01917] Upside: She avoids being attacked on her abortion record in a hostile environment, maintains her "above the fray" positioning, and scores points with voters skeptical of party establishment
+  - Source: memory/candidates/stacy-rogers/raw-dump.md:2717
+  - Confidence/use: unknown / background-only
+- **background-context** [em-stacy-rogers-02241] Issue: Water, rural Kansas, agriculture, and energy projects
+  - Source: memory/candidates/stacy-rogers/sleuth-pass.md:91
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-stacy-rogers-0009] narrative: "_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do not interpret intent._\n\nRogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known candidates moved. ([source](htt…
+  - Source: https://stacyrogersforks.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0016] The Meet Stacy page is the clearest candidate-controlled issue summary. It identifies Rogers as a lifelong Kansan, Republican, business owner, mother, and non-career politician. It lists priorities including sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, encouraging homegrown business, service above politics, and people above special interests. Its core-values list includes pro-Second Amendment, pro-business, pro-veteran, pro-family, natural and constitutional rights, law enforcement, and term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong stacyrogersforks.com post** [soc-stacy-rogers-0020] Campaign Meet Stacy page, captured 2026-05-11. Key signals: lifelong Kansan, proud Republican, business owner, mother, servant-leader framing; STAR bonds; ALBTR revenue; predatory energy projects; homegrown business; 2nd Amendment; law enforcement; term limits. ([source](https://stacyrogersforks.com/meet-stacy))
+  - Source: https://stacyrogersforks.com/meet-stacy
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.

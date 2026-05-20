@@ -1,29 +1,413 @@
 # Handoff — social-footprint-analyst — 2026-05-20
 
 ## What I Did
-Classified social/online signals for roger-marshall, damon-anderson, jason-hart.
+Classified social/online signals for aaron-cunningham, adam-hamilton, alaina-cunningham, allen-park, anne-parelkar, barb-wasinger, bobbi-dreiling, brandon-adams, cathy-hopkins, charlotte-ohara, chase-laporte, chris-mann, christy-cauble-davis, cindy-holscher, colin-mcroberts, craig-musser, craig-pallister, curt-vajnar, daniel-hawkins, david-vilaysing, derek-yarmer, dinah-sykes, doug-billings, eric-lund, erik-murray, ethan-corson, jayme-goetz, jeff-colyer, jennifer-day, joy-eakins, ken-brooks, ken-rahjes, kevin-latz, kris-kobach, lauren-reinhold, lorie-wood, mark-lane, marty-tuley, mason-ruder, michael-berges, michael-soetaert, michelle-cunningham, nathan-leiker, neal-younger, noah-taylor, pat-proctor, patrick-schmidt, philip-sarnecki, rebecca-herzog, ric-koehn, ron-wilson, ruth-ruder, sam-lane, sandy-jacobs, sandy-spidel-neumann, scott-braun, scott-schwab, sharilyn-ray, shaun-musil, stacy-rogers, steven-jacob, steven-johnson, toby-dougherty, tracey-mann, ty-masterson, vernon-ruder-jr, vicki-schmidt.
 
 ## Key Findings
-- roger-marshall: {"slug":"roger-marshall","socialRows":693,"strong":19,"moderate":11,"weak":91,"ambiguous":435}
-- damon-anderson: {"slug":"damon-anderson","socialRows":34,"strong":0,"moderate":0,"weak":5,"ambiguous":18}
-- jason-hart: {"slug":"jason-hart","socialRows":529,"strong":5,"moderate":9,"weak":100,"ambiguous":315}
+- aaron-cunningham: {"slug":"aaron-cunningham","socialRows":246,"strong":31,"moderate":0,"weak":27,"ambiguous":144}
+- adam-hamilton: {"slug":"adam-hamilton","socialRows":25,"strong":0,"moderate":1,"weak":3,"ambiguous":14}
+- alaina-cunningham: {"slug":"alaina-cunningham","socialRows":225,"strong":27,"moderate":0,"weak":18,"ambiguous":137}
+- allen-park: {"slug":"allen-park","socialRows":122,"strong":4,"moderate":2,"weak":26,"ambiguous":75}
+- anne-parelkar: {"slug":"anne-parelkar","socialRows":476,"strong":18,"moderate":6,"weak":64,"ambiguous":328}
+- barb-wasinger: {"slug":"barb-wasinger","socialRows":231,"strong":23,"moderate":0,"weak":17,"ambiguous":158}
+- bobbi-dreiling: {"slug":"bobbi-dreiling","socialRows":249,"strong":34,"moderate":0,"weak":18,"ambiguous":144}
+- brandon-adams: {"slug":"brandon-adams","socialRows":29,"strong":0,"moderate":0,"weak":4,"ambiguous":18}
+- cathy-hopkins: {"slug":"cathy-hopkins","socialRows":45,"strong":0,"moderate":0,"weak":0,"ambiguous":41}
+- charlotte-ohara: {"slug":"charlotte-ohara","socialRows":161,"strong":25,"moderate":0,"weak":12,"ambiguous":106}
+- chase-laporte: {"slug":"chase-laporte","socialRows":261,"strong":3,"moderate":2,"weak":13,"ambiguous":193}
+- chris-mann: {"slug":"chris-mann","socialRows":363,"strong":11,"moderate":5,"weak":33,"ambiguous":259}
+- christy-cauble-davis: {"slug":"christy-cauble-davis","socialRows":380,"strong":2,"moderate":3,"weak":38,"ambiguous":282}
+- cindy-holscher: {"slug":"cindy-holscher","socialRows":319,"strong":15,"moderate":5,"weak":39,"ambiguous":215}
+- colin-mcroberts: {"slug":"colin-mcroberts","socialRows":446,"strong":4,"moderate":10,"weak":63,"ambiguous":329}
+- craig-musser: {"slug":"craig-musser","socialRows":267,"strong":6,"moderate":1,"weak":30,"ambiguous":210}
+- craig-pallister: {"slug":"craig-pallister","socialRows":147,"strong":26,"moderate":1,"weak":23,"ambiguous":86}
+- curt-vajnar: {"slug":"curt-vajnar","socialRows":141,"strong":29,"moderate":0,"weak":19,"ambiguous":86}
+- daniel-hawkins: {"slug":"daniel-hawkins","socialRows":209,"strong":18,"moderate":0,"weak":18,"ambiguous":154}
+- david-vilaysing: {"slug":"david-vilaysing","socialRows":235,"strong":21,"moderate":1,"weak":24,"ambiguous":146}
+- derek-yarmer: {"slug":"derek-yarmer","socialRows":159,"strong":7,"moderate":1,"weak":29,"ambiguous":100}
+- dinah-sykes: {"slug":"dinah-sykes","socialRows":223,"strong":29,"moderate":1,"weak":21,"ambiguous":156}
+- doug-billings: {"slug":"doug-billings","socialRows":30,"strong":0,"moderate":0,"weak":4,"ambiguous":18}
+- eric-lund: {"slug":"eric-lund","socialRows":28,"strong":0,"moderate":0,"weak":4,"ambiguous":17}
+- erik-murray: {"slug":"erik-murray","socialRows":350,"strong":39,"moderate":0,"weak":12,"ambiguous":250}
+- ethan-corson: {"slug":"ethan-corson","socialRows":243,"strong":13,"moderate":1,"weak":28,"ambiguous":168}
+- jayme-goetz: {"slug":"jayme-goetz","socialRows":183,"strong":27,"moderate":1,"weak":27,"ambiguous":115}
+- jeff-colyer: {"slug":"jeff-colyer","socialRows":308,"strong":13,"moderate":16,"weak":5,"ambiguous":218}
+- jennifer-day: {"slug":"jennifer-day","socialRows":208,"strong":26,"moderate":6,"weak":12,"ambiguous":146}
+- joy-eakins: {"slug":"joy-eakins","socialRows":273,"strong":20,"moderate":5,"weak":12,"ambiguous":191}
+- ken-brooks: {"slug":"ken-brooks","socialRows":178,"strong":27,"moderate":0,"weak":25,"ambiguous":113}
+- ken-rahjes: {"slug":"ken-rahjes","socialRows":155,"strong":15,"moderate":4,"weak":11,"ambiguous":108}
+- kevin-latz: {"slug":"kevin-latz","socialRows":30,"strong":0,"moderate":0,"weak":4,"ambiguous":19}
+- kris-kobach: {"slug":"kris-kobach","socialRows":375,"strong":18,"moderate":33,"weak":17,"ambiguous":241}
+- lauren-reinhold: {"slug":"lauren-reinhold","socialRows":374,"strong":8,"moderate":6,"weak":36,"ambiguous":299}
+- lorie-wood: {"slug":"lorie-wood","socialRows":40,"strong":1,"moderate":0,"weak":5,"ambiguous":23}
+- mark-lane: {"slug":"mark-lane","socialRows":30,"strong":0,"moderate":0,"weak":4,"ambiguous":19}
+- marty-tuley: {"slug":"marty-tuley","socialRows":274,"strong":15,"moderate":0,"weak":13,"ambiguous":213}
+- mason-ruder: {"slug":"mason-ruder","socialRows":252,"strong":26,"moderate":0,"weak":17,"ambiguous":162}
+- michael-berges: {"slug":"michael-berges","socialRows":78,"strong":2,"moderate":1,"weak":0,"ambiguous":68}
+- michael-soetaert: {"slug":"michael-soetaert","socialRows":330,"strong":18,"moderate":0,"weak":14,"ambiguous":245}
+- michelle-cunningham: {"slug":"michelle-cunningham","socialRows":28,"strong":0,"moderate":0,"weak":4,"ambiguous":17}
+- nathan-leiker: {"slug":"nathan-leiker","socialRows":218,"strong":36,"moderate":0,"weak":12,"ambiguous":128}
+- neal-younger: {"slug":"neal-younger","socialRows":262,"strong":20,"moderate":0,"weak":34,"ambiguous":162}
+- noah-taylor: {"slug":"noah-taylor","socialRows":30,"strong":0,"moderate":0,"weak":4,"ambiguous":19}
+- pat-proctor: {"slug":"pat-proctor","socialRows":97,"strong":4,"moderate":2,"weak":0,"ambiguous":78}
+- patrick-schmidt: {"slug":"patrick-schmidt","socialRows":276,"strong":2,"moderate":2,"weak":24,"ambiguous":195}
+- philip-sarnecki: {"slug":"philip-sarnecki","socialRows":289,"strong":33,"moderate":2,"weak":15,"ambiguous":196}
+- rebecca-herzog: {"slug":"rebecca-herzog","socialRows":182,"strong":15,"moderate":0,"weak":14,"ambiguous":116}
+- ric-koehn: {"slug":"ric-koehn","socialRows":29,"strong":0,"moderate":0,"weak":4,"ambiguous":18}
+- ron-wilson: {"slug":"ron-wilson","socialRows":181,"strong":23,"moderate":0,"weak":24,"ambiguous":120}
+- ruth-ruder: {"slug":"ruth-ruder","socialRows":78,"strong":6,"moderate":0,"weak":1,"ambiguous":57}
+- sam-lane: {"slug":"sam-lane","socialRows":237,"strong":16,"moderate":4,"weak":44,"ambiguous":164}
+- sandy-jacobs: {"slug":"sandy-jacobs","socialRows":245,"strong":28,"moderate":0,"weak":22,"ambiguous":144}
+- sandy-spidel-neumann: {"slug":"sandy-spidel-neumann","socialRows":296,"strong":13,"moderate":10,"weak":7,"ambiguous":221}
+- scott-braun: {"slug":"scott-braun","socialRows":224,"strong":33,"moderate":0,"weak":15,"ambiguous":137}
+- scott-schwab: {"slug":"scott-schwab","socialRows":316,"strong":15,"moderate":4,"weak":7,"ambiguous":227}
+- sharilyn-ray: {"slug":"sharilyn-ray","socialRows":29,"strong":0,"moderate":0,"weak":4,"ambiguous":18}
+- shaun-musil: {"slug":"shaun-musil","socialRows":232,"strong":24,"moderate":0,"weak":20,"ambiguous":148}
+- stacy-rogers: {"slug":"stacy-rogers","socialRows":262,"strong":14,"moderate":3,"weak":12,"ambiguous":191}
+- steven-jacob: {"slug":"steven-jacob","socialRows":28,"strong":0,"moderate":0,"weak":4,"ambiguous":17}
+- steven-johnson: {"slug":"steven-johnson","socialRows":27,"strong":0,"moderate":0,"weak":4,"ambiguous":16}
+- toby-dougherty: {"slug":"toby-dougherty","socialRows":225,"strong":25,"moderate":0,"weak":22,"ambiguous":129}
+- tracey-mann: {"slug":"tracey-mann","socialRows":182,"strong":3,"moderate":2,"weak":3,"ambiguous":136}
+- ty-masterson: {"slug":"ty-masterson","socialRows":327,"strong":23,"moderate":7,"weak":14,"ambiguous":230}
+- vernon-ruder-jr: {"slug":"vernon-ruder-jr","socialRows":217,"strong":12,"moderate":0,"weak":17,"ambiguous":117}
+- vicki-schmidt: {"slug":"vicki-schmidt","socialRows":287,"strong":15,"moderate":6,"weak":23,"ambiguous":201}
 
 ## Files Created or Modified
-- memory/candidates/roger-marshall/social-evidence-matrix.json
-- memory/candidates/roger-marshall/social-analysis.md
-- memory/candidates/roger-marshall/agent-work/social-footprint-analyst/run-state.json
-- memory/candidates/roger-marshall/agent-work/social-footprint-analyst/notes.md
-- memory/candidates/roger-marshall/agent-work/social-footprint-analyst/handoff.md
-- memory/candidates/damon-anderson/social-evidence-matrix.json
-- memory/candidates/damon-anderson/social-analysis.md
-- memory/candidates/damon-anderson/agent-work/social-footprint-analyst/run-state.json
-- memory/candidates/damon-anderson/agent-work/social-footprint-analyst/notes.md
-- memory/candidates/damon-anderson/agent-work/social-footprint-analyst/handoff.md
-- memory/candidates/jason-hart/social-evidence-matrix.json
-- memory/candidates/jason-hart/social-analysis.md
-- memory/candidates/jason-hart/agent-work/social-footprint-analyst/run-state.json
-- memory/candidates/jason-hart/agent-work/social-footprint-analyst/notes.md
-- memory/candidates/jason-hart/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/aaron-cunningham/social-evidence-matrix.json
+- memory/candidates/aaron-cunningham/social-analysis.md
+- memory/candidates/aaron-cunningham/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/aaron-cunningham/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/aaron-cunningham/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/adam-hamilton/social-evidence-matrix.json
+- memory/candidates/adam-hamilton/social-analysis.md
+- memory/candidates/adam-hamilton/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/adam-hamilton/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/adam-hamilton/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/alaina-cunningham/social-evidence-matrix.json
+- memory/candidates/alaina-cunningham/social-analysis.md
+- memory/candidates/alaina-cunningham/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/alaina-cunningham/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/alaina-cunningham/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/allen-park/social-evidence-matrix.json
+- memory/candidates/allen-park/social-analysis.md
+- memory/candidates/allen-park/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/allen-park/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/allen-park/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/anne-parelkar/social-evidence-matrix.json
+- memory/candidates/anne-parelkar/social-analysis.md
+- memory/candidates/anne-parelkar/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/anne-parelkar/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/anne-parelkar/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/barb-wasinger/social-evidence-matrix.json
+- memory/candidates/barb-wasinger/social-analysis.md
+- memory/candidates/barb-wasinger/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/barb-wasinger/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/barb-wasinger/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/bobbi-dreiling/social-evidence-matrix.json
+- memory/candidates/bobbi-dreiling/social-analysis.md
+- memory/candidates/bobbi-dreiling/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/bobbi-dreiling/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/bobbi-dreiling/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/brandon-adams/social-evidence-matrix.json
+- memory/candidates/brandon-adams/social-analysis.md
+- memory/candidates/brandon-adams/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/brandon-adams/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/brandon-adams/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/cathy-hopkins/social-evidence-matrix.json
+- memory/candidates/cathy-hopkins/social-analysis.md
+- memory/candidates/cathy-hopkins/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/cathy-hopkins/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/cathy-hopkins/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/charlotte-ohara/social-evidence-matrix.json
+- memory/candidates/charlotte-ohara/social-analysis.md
+- memory/candidates/charlotte-ohara/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/charlotte-ohara/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/charlotte-ohara/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/chase-laporte/social-evidence-matrix.json
+- memory/candidates/chase-laporte/social-analysis.md
+- memory/candidates/chase-laporte/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/chase-laporte/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/chase-laporte/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/chris-mann/social-evidence-matrix.json
+- memory/candidates/chris-mann/social-analysis.md
+- memory/candidates/chris-mann/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/chris-mann/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/chris-mann/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/christy-cauble-davis/social-evidence-matrix.json
+- memory/candidates/christy-cauble-davis/social-analysis.md
+- memory/candidates/christy-cauble-davis/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/christy-cauble-davis/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/christy-cauble-davis/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/cindy-holscher/social-evidence-matrix.json
+- memory/candidates/cindy-holscher/social-analysis.md
+- memory/candidates/cindy-holscher/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/cindy-holscher/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/cindy-holscher/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/colin-mcroberts/social-evidence-matrix.json
+- memory/candidates/colin-mcroberts/social-analysis.md
+- memory/candidates/colin-mcroberts/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/colin-mcroberts/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/colin-mcroberts/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/craig-musser/social-evidence-matrix.json
+- memory/candidates/craig-musser/social-analysis.md
+- memory/candidates/craig-musser/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/craig-musser/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/craig-musser/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/craig-pallister/social-evidence-matrix.json
+- memory/candidates/craig-pallister/social-analysis.md
+- memory/candidates/craig-pallister/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/craig-pallister/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/craig-pallister/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/curt-vajnar/social-evidence-matrix.json
+- memory/candidates/curt-vajnar/social-analysis.md
+- memory/candidates/curt-vajnar/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/curt-vajnar/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/curt-vajnar/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/daniel-hawkins/social-evidence-matrix.json
+- memory/candidates/daniel-hawkins/social-analysis.md
+- memory/candidates/daniel-hawkins/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/daniel-hawkins/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/daniel-hawkins/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/david-vilaysing/social-evidence-matrix.json
+- memory/candidates/david-vilaysing/social-analysis.md
+- memory/candidates/david-vilaysing/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/david-vilaysing/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/david-vilaysing/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/derek-yarmer/social-evidence-matrix.json
+- memory/candidates/derek-yarmer/social-analysis.md
+- memory/candidates/derek-yarmer/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/derek-yarmer/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/derek-yarmer/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/dinah-sykes/social-evidence-matrix.json
+- memory/candidates/dinah-sykes/social-analysis.md
+- memory/candidates/dinah-sykes/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/dinah-sykes/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/dinah-sykes/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/doug-billings/social-evidence-matrix.json
+- memory/candidates/doug-billings/social-analysis.md
+- memory/candidates/doug-billings/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/doug-billings/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/doug-billings/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/eric-lund/social-evidence-matrix.json
+- memory/candidates/eric-lund/social-analysis.md
+- memory/candidates/eric-lund/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/eric-lund/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/eric-lund/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/erik-murray/social-evidence-matrix.json
+- memory/candidates/erik-murray/social-analysis.md
+- memory/candidates/erik-murray/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/erik-murray/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/erik-murray/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/ethan-corson/social-evidence-matrix.json
+- memory/candidates/ethan-corson/social-analysis.md
+- memory/candidates/ethan-corson/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/ethan-corson/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/ethan-corson/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/jayme-goetz/social-evidence-matrix.json
+- memory/candidates/jayme-goetz/social-analysis.md
+- memory/candidates/jayme-goetz/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/jayme-goetz/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/jayme-goetz/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/jeff-colyer/social-evidence-matrix.json
+- memory/candidates/jeff-colyer/social-analysis.md
+- memory/candidates/jeff-colyer/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/jeff-colyer/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/jeff-colyer/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/jennifer-day/social-evidence-matrix.json
+- memory/candidates/jennifer-day/social-analysis.md
+- memory/candidates/jennifer-day/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/jennifer-day/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/jennifer-day/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/joy-eakins/social-evidence-matrix.json
+- memory/candidates/joy-eakins/social-analysis.md
+- memory/candidates/joy-eakins/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/joy-eakins/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/joy-eakins/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/ken-brooks/social-evidence-matrix.json
+- memory/candidates/ken-brooks/social-analysis.md
+- memory/candidates/ken-brooks/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/ken-brooks/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/ken-brooks/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/ken-rahjes/social-evidence-matrix.json
+- memory/candidates/ken-rahjes/social-analysis.md
+- memory/candidates/ken-rahjes/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/ken-rahjes/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/ken-rahjes/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/kevin-latz/social-evidence-matrix.json
+- memory/candidates/kevin-latz/social-analysis.md
+- memory/candidates/kevin-latz/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/kevin-latz/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/kevin-latz/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/kris-kobach/social-evidence-matrix.json
+- memory/candidates/kris-kobach/social-analysis.md
+- memory/candidates/kris-kobach/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/kris-kobach/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/kris-kobach/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/lauren-reinhold/social-evidence-matrix.json
+- memory/candidates/lauren-reinhold/social-analysis.md
+- memory/candidates/lauren-reinhold/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/lauren-reinhold/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/lauren-reinhold/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/lorie-wood/social-evidence-matrix.json
+- memory/candidates/lorie-wood/social-analysis.md
+- memory/candidates/lorie-wood/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/lorie-wood/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/lorie-wood/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/mark-lane/social-evidence-matrix.json
+- memory/candidates/mark-lane/social-analysis.md
+- memory/candidates/mark-lane/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/mark-lane/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/mark-lane/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/marty-tuley/social-evidence-matrix.json
+- memory/candidates/marty-tuley/social-analysis.md
+- memory/candidates/marty-tuley/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/marty-tuley/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/marty-tuley/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/mason-ruder/social-evidence-matrix.json
+- memory/candidates/mason-ruder/social-analysis.md
+- memory/candidates/mason-ruder/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/mason-ruder/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/mason-ruder/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/michael-berges/social-evidence-matrix.json
+- memory/candidates/michael-berges/social-analysis.md
+- memory/candidates/michael-berges/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/michael-berges/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/michael-berges/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/michael-soetaert/social-evidence-matrix.json
+- memory/candidates/michael-soetaert/social-analysis.md
+- memory/candidates/michael-soetaert/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/michael-soetaert/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/michael-soetaert/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/michelle-cunningham/social-evidence-matrix.json
+- memory/candidates/michelle-cunningham/social-analysis.md
+- memory/candidates/michelle-cunningham/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/michelle-cunningham/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/michelle-cunningham/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/nathan-leiker/social-evidence-matrix.json
+- memory/candidates/nathan-leiker/social-analysis.md
+- memory/candidates/nathan-leiker/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/nathan-leiker/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/nathan-leiker/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/neal-younger/social-evidence-matrix.json
+- memory/candidates/neal-younger/social-analysis.md
+- memory/candidates/neal-younger/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/neal-younger/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/neal-younger/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/noah-taylor/social-evidence-matrix.json
+- memory/candidates/noah-taylor/social-analysis.md
+- memory/candidates/noah-taylor/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/noah-taylor/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/noah-taylor/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/pat-proctor/social-evidence-matrix.json
+- memory/candidates/pat-proctor/social-analysis.md
+- memory/candidates/pat-proctor/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/pat-proctor/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/pat-proctor/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/patrick-schmidt/social-evidence-matrix.json
+- memory/candidates/patrick-schmidt/social-analysis.md
+- memory/candidates/patrick-schmidt/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/patrick-schmidt/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/patrick-schmidt/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/philip-sarnecki/social-evidence-matrix.json
+- memory/candidates/philip-sarnecki/social-analysis.md
+- memory/candidates/philip-sarnecki/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/philip-sarnecki/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/philip-sarnecki/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/rebecca-herzog/social-evidence-matrix.json
+- memory/candidates/rebecca-herzog/social-analysis.md
+- memory/candidates/rebecca-herzog/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/rebecca-herzog/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/rebecca-herzog/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/ric-koehn/social-evidence-matrix.json
+- memory/candidates/ric-koehn/social-analysis.md
+- memory/candidates/ric-koehn/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/ric-koehn/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/ric-koehn/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/ron-wilson/social-evidence-matrix.json
+- memory/candidates/ron-wilson/social-analysis.md
+- memory/candidates/ron-wilson/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/ron-wilson/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/ron-wilson/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/ruth-ruder/social-evidence-matrix.json
+- memory/candidates/ruth-ruder/social-analysis.md
+- memory/candidates/ruth-ruder/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/ruth-ruder/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/ruth-ruder/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/sam-lane/social-evidence-matrix.json
+- memory/candidates/sam-lane/social-analysis.md
+- memory/candidates/sam-lane/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/sam-lane/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/sam-lane/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/sandy-jacobs/social-evidence-matrix.json
+- memory/candidates/sandy-jacobs/social-analysis.md
+- memory/candidates/sandy-jacobs/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/sandy-jacobs/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/sandy-jacobs/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/sandy-spidel-neumann/social-evidence-matrix.json
+- memory/candidates/sandy-spidel-neumann/social-analysis.md
+- memory/candidates/sandy-spidel-neumann/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/sandy-spidel-neumann/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/sandy-spidel-neumann/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/scott-braun/social-evidence-matrix.json
+- memory/candidates/scott-braun/social-analysis.md
+- memory/candidates/scott-braun/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/scott-braun/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/scott-braun/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/scott-schwab/social-evidence-matrix.json
+- memory/candidates/scott-schwab/social-analysis.md
+- memory/candidates/scott-schwab/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/scott-schwab/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/scott-schwab/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/sharilyn-ray/social-evidence-matrix.json
+- memory/candidates/sharilyn-ray/social-analysis.md
+- memory/candidates/sharilyn-ray/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/sharilyn-ray/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/sharilyn-ray/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/shaun-musil/social-evidence-matrix.json
+- memory/candidates/shaun-musil/social-analysis.md
+- memory/candidates/shaun-musil/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/shaun-musil/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/shaun-musil/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/stacy-rogers/social-evidence-matrix.json
+- memory/candidates/stacy-rogers/social-analysis.md
+- memory/candidates/stacy-rogers/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/stacy-rogers/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/stacy-rogers/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/steven-jacob/social-evidence-matrix.json
+- memory/candidates/steven-jacob/social-analysis.md
+- memory/candidates/steven-jacob/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/steven-jacob/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/steven-jacob/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/steven-johnson/social-evidence-matrix.json
+- memory/candidates/steven-johnson/social-analysis.md
+- memory/candidates/steven-johnson/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/steven-johnson/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/steven-johnson/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/toby-dougherty/social-evidence-matrix.json
+- memory/candidates/toby-dougherty/social-analysis.md
+- memory/candidates/toby-dougherty/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/toby-dougherty/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/toby-dougherty/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/tracey-mann/social-evidence-matrix.json
+- memory/candidates/tracey-mann/social-analysis.md
+- memory/candidates/tracey-mann/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/tracey-mann/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/tracey-mann/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/ty-masterson/social-evidence-matrix.json
+- memory/candidates/ty-masterson/social-analysis.md
+- memory/candidates/ty-masterson/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/ty-masterson/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/ty-masterson/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/vernon-ruder-jr/social-evidence-matrix.json
+- memory/candidates/vernon-ruder-jr/social-analysis.md
+- memory/candidates/vernon-ruder-jr/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/vernon-ruder-jr/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/vernon-ruder-jr/agent-work/social-footprint-analyst/handoff.md
+- memory/candidates/vicki-schmidt/social-evidence-matrix.json
+- memory/candidates/vicki-schmidt/social-analysis.md
+- memory/candidates/vicki-schmidt/agent-work/social-footprint-analyst/run-state.json
+- memory/candidates/vicki-schmidt/agent-work/social-footprint-analyst/notes.md
+- memory/candidates/vicki-schmidt/agent-work/social-footprint-analyst/handoff.md
 
 ## What the Next Task Should Do
 Run source-tier-validator if not already done; then start fixed-issue-matrix-builder.

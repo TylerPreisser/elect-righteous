@@ -1,0 +1,34 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "brandon-adams",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/brandon-adams/in-their-own-words.md",
+    "memory/candidates/brandon-adams/raw-dump-v2.md",
+    "memory/candidates/brandon-adams/sleuth-pass.md",
+    "memory/candidates/brandon-adams/social-harvest.md",
+    "memory/candidates/brandon-adams/v2-issues.yaml",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/brandon-adams.ts"
+  ],
+  "files_written": [
+    "memory/candidates/brandon-adams/evidence-matrix-raw.json",
+    "memory/candidates/brandon-adams/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/brandon-adams/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/brandon-adams/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/brandon-adams/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs brandon-adams"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for brandon-adams."
+  ],
+  "handoff_summary": "Extracted 400 raw evidence rows for brandon-adams."
+}

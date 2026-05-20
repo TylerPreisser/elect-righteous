@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "brandon-adams",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/brandon-adams/evidence-matrix-raw.json",
+    "memory/candidates/brandon-adams/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/brandon-adams/evidence-matrix.json",
+    "memory/candidates/brandon-adams/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/brandon-adams/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/brandon-adams/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs brandon-adams"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for brandon-adams.",
+    "Run source-tier-validator for brandon-adams."
+  ],
+  "handoff_summary": "Built final evidence matrix for brandon-adams: 400 raw rows to 145 deduplicated rows."
+}

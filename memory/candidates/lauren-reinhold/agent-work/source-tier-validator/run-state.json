@@ -1,0 +1,28 @@
+{
+  "agent_id": "source-tier-validator",
+  "agent_role": "Source quality auditor",
+  "candidate_slug": "lauren-reinhold",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/lauren-reinhold/evidence-matrix.json"
+  ],
+  "files_written": [
+    "memory/candidates/lauren-reinhold/source-audit.json",
+    "memory/candidates/lauren-reinhold/source-audit.md",
+    "memory/candidates/lauren-reinhold/agent-work/source-tier-validator/run-state.json",
+    "memory/candidates/lauren-reinhold/agent-work/source-tier-validator/notes.md",
+    "memory/candidates/lauren-reinhold/agent-work/source-tier-validator/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs lauren-reinhold"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Use source-audit.md during fixed-issue-matrix-builder for lauren-reinhold."
+  ],
+  "handoff_summary": "Audited 171 unique source records for lauren-reinhold."
+}

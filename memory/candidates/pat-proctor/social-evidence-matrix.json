@@ -1,0 +1,2438 @@
+{
+  "candidateSlug": "pat-proctor",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceFiles": [
+    "memory/candidates/pat-proctor/social-harvest.md",
+    "memory/candidates/pat-proctor/evidence-matrix.json"
+  ],
+  "platformPresence": [],
+  "signals": [
+    {
+      "id": "soc-pat-proctor-0001",
+      "evidenceRowId": "em-pat-proctor-00140",
+      "platform": "kansasreflector.com",
+      "actionType": "online-reference",
+      "target": "https://kansasreflector.com/2025/06/13/kansas-republican-exploits-fear-of-imaginary-axis-of-ballot-harvesting-to-gain-political-advantage/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use",
+      "confidence": "likely",
+      "observation": "Kansas Reflector June 13, 2025 social/election-confidence article: https://kansasreflector.com/2025/06/13/kansas-republican-exploits-fear-of-imaginary-axis-of-ballot-harvesting-to-gain-political-advantage/",
+      "sourceUrl": "https://kansasreflector.com/2025/06/13/kansas-republican-exploits-fear-of-imaginary-axis-of-ballot-harvesting-to-gain-political-advantage/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:284",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-raw-dump-v2-md-l284"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0002",
+      "evidenceRowId": "em-pat-proctor-01042",
+      "platform": "Facebook",
+      "actionType": "share/repost",
+      "target": "https://kenforkansas.com/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "LGBT / gender / parental rights",
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Economy / jobs / labor",
+        "Guns / Second Amendment",
+        "Immigration / border",
+        "Health care / insurance / Medicaid",
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "moderate",
+      "useDecision": "use-with-caveat",
+      "confidence": "likely",
+      "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \\\"A family man, built from trust and integrity\\\" and uses the slogan block \\\"TRUST...BUT VERIFY\\\" and \\\"Securing Your Future with Trust and Integrity.\\\" ([source](https://kenforkansas.com/)) The same page routes supporters only to Facebook and X, saying, \\\"Receive future updates from Ken on Facebook & X.\\\" ([source](https://kenforkansas.com/))\\n\\nThe clearest candidate-controlled secretary-of-state statement is the July 2025 filing post on his campaign site. Rahjes framed the office through business filings and election administration, saying Kansas should streamline business filings, improve the One Stop portal, continue security initiatives for election officials and poll workers, increase election-audit transparency, and produce fast, accurate results. In that post, he said, \\\"We have many great assets in our state, but the best one is our people,\\\" and, \\\"I will ensure Kansas will be a leader when it comes to election integrity and election security.\\\" ([source](https://kenforkansas.com/news/rahjes-files-for-secretary-of-state/))\\n\\nLocal coverage of his campaign stops repeats the same two-part argument. At a November 2025 Hays event, Rahjes said, \\\"I believe I'm most effective by looking you in the eye and having a conversation,\\\" and tied his run to county clerks, voter ID, ending the three-day mail-ballot grace period, and civic education in schools. On the business side, he described the secretary of state's office as the \\\"front door\\\" for people trying to operate in Kansas and said, \\\"let's make Kansas business-friendly again.\\\" ([source](https://hayspost.com/posts/d7c59a6a-6884-4ac9-aad1-7c9d728f5f5f))\\n\\nHis business-services message connects process reform to property-tax pressure. In Hays, Rahjes said he wanted entrepreneurs to avoid navigating multiple agencies and argued, \\\"There's no greater solution than to grow our tax base. I firmly believe that if you grow the base, then you will lower the rate.\\\" ([source](https://hayspost.com/posts/d7c59a6a-6884-4ac9-aad1-7c9d728f5f5f)) KVOE's March 2026 Emporia coverage likewise reported that he wanted to continue Scott Schwab's work making life easier for business owners and entrepreneurs, while also stressing that voters want their votes counted and secure. ([source](https://kvoe.com/2026/03/16/rahjes-in-emporia-touting-secretary-of-state-bid/))\\n\\nThe social footprint is present but not especially broad. Public Facebook metadata captured on May 11, 2026 listed [Ken For Kansas](https://www.facebook.com/kenforkansas/) at 985 likes and 210 talking about this, with the page description identifying Rahjes as a Kansas Secretary of State candidate and Kansas House member. The campaign-linked X handle is [@kenrahjes](https://x.com/kenrahjes); Muck Rack indexes it as a personal account for a small-business owner, agriculture broadcaster, and Kansas state representative, with the note that retweets do not imply endorsement. ([source](https://muckrack.com/ken-rahjes)) Logged-out capture did not expose a reliable post-level Facebook or X feed, so the harvest does not claim post counts, repost networks, or post-level engagement.\\n\\nRahjes' public identity outside the campaign is heavily rural and agricultural. The Kansas Legislature profile lists him as House District 110, chair of Agriculture and Natural Resources, and a member of Appropriations, Agriculture and Natural Resources Budget, Joint Committee on Special Claims Against the State, and the Water Program Task Force. ([source](https://www.kslegislature.gov/b2025_26/legislators/rep_rahjes_ken_1/)) Kansas Ag Report identifies him as host of a weekly agriculture television show focused on issues important to Kansas farmers and ranchers, and Apple Podcasts lists Kansas Ag Report as a 109-episode business-news podcast active from 2021 to 2023. ([Kansas Ag Report](https://kansasagreport.net/about), [Apple Podcasts](https://podcasts.apple.com/us/podcast/kansas-ag-report/id1551218249))\\n\\nThat rural frame also shows up in legislative coffees and issue coverage. In February 2026, Rahjes spoke about senior transportation, conservation, water, AI in campaigns, and NIL funding. On conservation and local control, he said, \\\"Me living in Agra should not tell Wichita County what they should do with their kids. Johnson County shouldn't tell Hays how much water they should use, and Hays shouldn't tell Johnson County how green their yard should be.\\\" On water, he said, \\\"If we don't have good conservation, which goes into water, then we're just dust.\\\" ([source](https://hayspost.com/posts/93f5e63a-dd1b-411a-98f8-c3ca8b2c187a))\\n\\nHis education and local-control language predates the secretary-of-state campaign and appears in local legislative coverage. In February 2025, Rahjes questioned the need for the U.S. Department of Education and said, \\\"Wouldn't it be nice to have local school boards decide what's best for the local school children instead of having some edict from D.C. that says what works in Houston works in Ellis?\\\" The same coverage records his support for limiting gender-transition procedures for minors and his comment that the issue applied to minors because of long-term consequences. ([source](https://hayspost.com/posts/c009ea47-7cfc-4c71-bad9-7dae18a389c6))\\n\\nThe reviewed set shows only limited direct engagement with national culture-war language. His campaign material uses \\\"trust,\\\" \\\"integrity,\\\" \\\"security,\\\" \\\"business-friendly,\\\" and rural stewardship more often than national partisan attack language. The accessible 2025-2026 campaign record did not show Rahjes attacking, tagging, or amplifying his Republican primary opponent Pat Proctor. It also did not show a meaningful candidate-controlled presence on Instagram, TikTok, Truth Social, Gab, Gettr, Substack, Reddit, or LinkedIn.\\n\\nSeveral issue areas do not appear at meaningful frequency in the accessible material reviewed. The public set did not include repeated candidate-controlled posts centered on Medicaid expansion, child care, housing costs, broadband, veterans services, immigration, border policy, guns, crime, federal foreign policy, or abortion beyond the older 2021 Value Them Both legislative update. Gender-transition policy, rural health, senior transportation, AI campaign misuse, education, water, and conservation appear in local legislative coverage, but the dominant secretary-of-state campaign frame remains elections plus business services.\\n\\nMethodology: Public capture was conducted on May 11, 2026. Date range covered: Nov. 8, 2016 to May 11, 2026 for public campaign-news archive and indexed public presence; campaign-period analysis emphasizes Feb. 9, 2025 to May 11, 2026. Platforms surveyed: campaign website, Facebook, X/Twitter, Instagram, LinkedIn, YouTube, PBS/Smoky Hills, Kansas Ag Report, Podbean, Apple Podcasts, Kansas Legislature, Hays Post, KVOE, Muck Rack, TikTok, Truth Social, Gab, Gettr, Substack, Reddit, and public search indexes. Items examined: 16 accessible original/profile/public-record/media items and 0 verified reposts. Login-walled or script-blocked material was not counted as reviewed. Engagement was reported only when visible in public metadata or indexed public listings on capture date. We report patterns; we do not interpret intent.\",",
+      "sourceUrl": "https://kenforkansas.com/",
+      "sourceFile": "ui/src/data/candidates.ts:27749",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l27749"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0003",
+      "evidenceRowId": "em-pat-proctor-00003",
+      "platform": "X / Twitter",
+      "actionType": "post",
+      "target": "https://x.com/RealPatProctor",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        10
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Across the harvested public record on X ([@RealPatProctor](https://x.com/RealPatProctor)), Facebook ([@PatProctorKS](https://www.facebook.com/PatProctorKS/)), YouTube ([Pat Proctor for Kansas](https://www.youtube.com/@patproctorforkansas655)), and Instagram ([@patproctor4ks](https://www.instagram.com/patproctor4ks/)), Proctor's dominant topic is election administration. The same phrase recurs across every platform: his Instagram bio reads \"Fighting to restore confidence in our elections,\" his Facebook page lists him as \"fighting to restore confidence in our elections,\" and his April 2025 campaign-launch [YouTube video](https://www.youtube.com/watch?v=8oGPhVyuYfs) opens with the line \"Job one is restoring confidence in our elections.\" A second recurring frame is foreign money in Kansas elections. On May 6, 2025, Proctor posted on X: \"The axis of ballot harvesting strikes again! Loudlight, Appleseed, and their allies hide behind their supposed nonpartisan, nonprofit status to rake in millions from George Soros and foreign billionaires that they use to sue every common sense measure we pass to restore…\" ([source](https://x.com/RealPatProctor)). On May 27, 2025, he posted on X: \"Why are the @aclukansas, Planned Parenthood, and the other members of the pro-abortion 'Kansans for Constitutional Freedom' suing to protect their ability to hide behind their nonprofit, supposedly 'non-partisan' status to rake in millions from foreign billionaires\" ([source](https://x.com/RealPatProctor/status/1927386363806073212)).",
+      "sourceUrl": "https://x.com/RealPatProctor",
+      "sourceFile": "memory/candidates/pat-proctor/in-their-own-words.md:7",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-in-their-own-words-md-l7",
+        "mem-ui-src-data-candidates-ts-l27339"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-pat-proctor-0004",
+      "evidenceRowId": "em-pat-proctor-00007",
+      "platform": "YouTube",
+      "actionType": "post",
+      "target": "https://www.youtube.com/@patproctorforkansas655",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        6,
+        10,
+        11,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "For the Leavenworth district itself, Proctor's local content is less voluminous than his statewide-elections content but is present. An October 5, 2025 [YouTube video](https://www.youtube.com/@patproctorforkansas655) addresses bringing jobs and opportunity back to Leavenworth. His campaign and legislative biographies foreground his co-ownership with his wife Aree of Baan Thai Restaurant in Leavenworth. The April 2025 [Wichita State University](https://www.kslegislature.gov/li/b2025_26/members/rep_proctor_pat_1/) listing identifies him as a college professor in addition to his House role. The harvested set does not contain Leavenworth-specific posts about Fort Leavenworth military-family issues, federal-prison employment, or city infrastructure at a frequency comparable to his statewide election-administration posts.",
+      "sourceUrl": "https://www.youtube.com/@patproctorforkansas655",
+      "sourceFile": "memory/candidates/pat-proctor/in-their-own-words.md:15",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-in-their-own-words-md-l15",
+        "mem-ui-src-data-candidates-ts-l27347"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-pat-proctor-0005",
+      "evidenceRowId": "em-pat-proctor-00004",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/PatProctorKS/videos/enforcing-our-election-laws/1920239725529443/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Proctor's public alignment network on his own feed centers on Kansas Republican officeholders, election-policy organizations, and his own legislative work product. His Facebook page features a campaign video titled [\"Kris Kobach Wanted This 20-Year-Old To Go To Jail For…\"](https://www.facebook.com/PatProctorKS/videos/enforcing-our-election-laws/1920239725529443/) framing his own enforcement stance against Attorney General Kris Kobach's. A separate page post identifies him as \"the chairman of your House Elections Committee and as your next Secretary of State\" ([source](https://www.facebook.com/PatProctorKS/posts/as-the-chairman-of-your-house-elections-committee-and-as-your-next-secretary-of-/1227794369167664/)). An October 2025 [YouTube video](https://www.youtube.com/watch?v=HsDMhN6Ltbs) records his endorsement of Steve Clay for Leavenworth City Commission, the only down-ballot endorsement visible in the harvested set. The harvested set contains no posts amplifying, tagging, or appearing alongside his Republican primary opponent for Secretary of State, Rep. Ken Rahjes.",
+      "sourceUrl": "https://www.facebook.com/PatProctorKS/videos/enforcing-our-election-laws/1920239725529443/",
+      "sourceFile": "memory/candidates/pat-proctor/in-their-own-words.md:9",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-in-their-own-words-md-l9",
+        "mem-ui-src-data-candidates-ts-l27341"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-pat-proctor-0006",
+      "evidenceRowId": "em-pat-proctor-00005",
+      "platform": "Facebook",
+      "actionType": "comment",
+      "target": "https://www.facebook.com/PatProctorKS/videos/enforcing-our-election-laws/1920239725529443/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "moderate",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Engagement on Proctor's content is not evenly distributed. His Facebook page hosts the highest-engagement videos when they touch enforcement of election law and ballot-integrity claims, including the [Kobach-framed enforcement video](https://www.facebook.com/PatProctorKS/videos/enforcing-our-election-laws/1920239725529443/). Critical engagement is also concentrated there: the activist account [Loud Light](https://www.facebook.com/LoudLightKS) reposts and challenges his statements at video-length, including a clip titled [\"Rep. Pat Proctor after being confronted at a town hall, the police are on their way\"](https://www.facebook.com/LoudLightKS/videos/rep-pat-proctor-after-being-confronted-at-a-town-hall-the-police-are-on-their-wa/1516695455979360/) (captured from his April 19, 2025 Leavenworth town hall) and a second video questioning a [statement about Kansas voters](https://www.facebook.com/LoudLightKS/videos/have-you-all-heard-pat-proctor-for-kansas-secretary-of-state-latest-lie-when-he-/628564576673155/). At that April 19, 2025 town hall, asked by a constituent to explain remarks about women voters, Proctor replied, \"That'd be really terrible if I'd actually said that\" ([source](https://kansasreflector.com/2025/06/13/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/)).",
+      "sourceUrl": "https://www.facebook.com/PatProctorKS/videos/enforcing-our-election-laws/1920239725529443/",
+      "sourceFile": "memory/candidates/pat-proctor/in-their-own-words.md:11",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-in-their-own-words-md-l11",
+        "mem-ui-src-data-candidates-ts-l27343"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0007",
+      "evidenceRowId": "em-pat-proctor-01153",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/PatProctorKS/posts/as-the-chairman-of-your-house-elections-committee-and-as-your-next-secretary-of-/1227794369167664/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "\"url\": \"https://www.facebook.com/PatProctorKS/posts/as-the-chairman-of-your-house-elections-committee-and-as-your-next-secretary-of-/1227794369167664/\",",
+      "sourceUrl": "https://www.facebook.com/PatProctorKS/posts/as-the-chairman-of-your-house-elections-committee-and-as-your-next-secretary-of-/1227794369167664/",
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:608",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l571",
+        "mem-ui-src-data-v2-pat-proctor-ts-l583",
+        "mem-ui-src-data-v2-pat-proctor-ts-l595",
+        "mem-ui-src-data-v2-pat-proctor-ts-l608",
+        "mem-ui-src-data-v2-pat-proctor-ts-l632"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-pat-proctor-0008",
+      "evidenceRowId": "em-pat-proctor-00009",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/PatProctorKS/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Proctor's platform footprint is moderately distributed. He maintains a campaign Facebook page at [@PatProctorKS](https://www.facebook.com/PatProctorKS/), an X account at [@RealPatProctor](https://x.com/RealPatProctor), a YouTube channel at [@patproctorforkansas655](https://www.youtube.com/@patproctorforkansas655), an Instagram account at [@patproctor4ks](https://www.instagram.com/patproctor4ks/), and a LinkedIn profile at [pat-proctor-phd-b477575](https://www.linkedin.com/in/pat-proctor-phd-b477575/) listing his Kansas State House role and PhD. He does not have a detectable account on Reddit, TikTok, Truth Social, Gab, Gettr, or Substack identified at harvest time.",
+      "sourceUrl": "https://www.facebook.com/PatProctorKS/",
+      "sourceFile": "memory/candidates/pat-proctor/in-their-own-words.md:19",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-in-their-own-words-md-l19",
+        "mem-ui-src-data-candidates-ts-l27351"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0009",
+      "evidenceRowId": "em-pat-proctor-00105",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/raw-dump-v2.md:239",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Finding: Existing local harvest captured Proctor social/fundraising language alleging that organizations such as Loud Light, Kansas Appleseed, ACLU of Kansas, and Planned Parenthood/Kansans for Constitutional Freedom used money from George Soros and foreign billionaires in election-law or constitutional-amendment fights. This belongs under constitutional-amendment campaign finance / outside funding. Do not map it to abortion as a stand-alone abortion-policy position except where his own quoted phrase names \"pro-abortion\" groups in the foreign-funding context.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:239",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-raw-dump-v2-md-l239"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0010",
+      "evidenceRowId": "em-pat-proctor-00502",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/site-profile.md:19",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Abortion / Sanctity of Life: Runs as a Republican. The Kansas Republican Party platform supports the right to life from conception. No specific personal statement found in public sources. on abortion in the context of this race.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/site-profile.md:19",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-site-profile-md-l19"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0011",
+      "evidenceRowId": "em-pat-proctor-00574",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/sleuth-pass.md:77",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        2,
+        3,
+        8,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "LGBT / gender / parental rights",
+        "Education / curriculum / schools",
+        "Immigration / border",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No official source was found confirming a detailed policy platform on abortion, marriage/LGBTQ policy, school choice, marijuana, or broader immigration beyond election/voter-eligibility citizenship issues.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/sleuth-pass.md:77",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-sleuth-pass-md-l77"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0012",
+      "evidenceRowId": "em-pat-proctor-00804",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/v2-issues.yaml:441",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        2,
+        3,
+        8,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "LGBT / gender / parental rights",
+        "Education / curriculum / schools",
+        "Immigration / border",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"No candidate-controlled issue platform was found for abortion, marriage/LGBTQ policy, school choice, marijuana, or broad immigration policy beyond voter-eligibility citizenship.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/v2-issues.yaml:441",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l441"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0013",
+      "evidenceRowId": "em-pat-proctor-00503",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/site-profile.md:21",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        2
+      ],
+      "issueLabels": [
+        "LGBT / gender / parental rights"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/site-profile.md:21",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-site-profile-md-l21"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0014",
+      "evidenceRowId": "em-pat-proctor-00507",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/site-profile.md:29",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        2,
+        3
+      ],
+      "issueLabels": [
+        "LGBT / gender / parental rights",
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "School Choice / Parental Rights in Education: Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/site-profile.md:29",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-site-profile-md-l29"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0015",
+      "evidenceRowId": "em-pat-proctor-00345",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/raw-dump.md:413",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Curriculum standards -- what Kansas kids learn in math, science, reading, writing, and social studies (yes, including what gets taught about evolution, history, and sex education)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:413",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-raw-dump-md-l413"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0016",
+      "evidenceRowId": "em-pat-proctor-00072",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/raw-dump-v2.md:159",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Finding: HR 6016 denounced a planned satanic worship ritual scheduled for March 28, 2025. Kansas Legislature lists Proctor as an original/current sponsor. House emergency final action on March 20, 2025 adopted the resolution 101-15, Absent 9. This is public legislative conduct but is not enough by itself to infer a church affiliation or comprehensive religious-liberty platform.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:159",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-raw-dump-v2-md-l159"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0017",
+      "evidenceRowId": "em-pat-proctor-00504",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/site-profile.md:23",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Religious Liberty: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/site-profile.md:23",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-site-profile-md-l23"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0018",
+      "evidenceRowId": "em-pat-proctor-00567",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/sleuth-pass.md:66",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Religious liberty / faith: Public church affiliation not confirmed. HR 6016 sponsorship exists but is not enough to infer personal faith, denomination, or a generalized religious-liberty platform.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/sleuth-pass.md:66",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-sleuth-pass-md-l66"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0019",
+      "evidenceRowId": "em-pat-proctor-00587",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/v2-issues.yaml:14",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Social signals are issue-scoped observations only. Do not infer positions from party label, church assumptions, follows, likes, or associations.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/v2-issues.yaml:14",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l14"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0020",
+      "evidenceRowId": "em-pat-proctor-00778",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:307",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"text\": \"No public church affiliation or candidate-controlled religious-liberty platform was confirmed. Legislative records show Proctor sponsored HR 6016, a resolution denouncing a planned satanic worship ritual.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:307",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l402",
+        "mem-ui-src-data-v2-pat-proctor-ts-l307"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0021",
+      "evidenceRowId": "em-pat-proctor-01142",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:327",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"Religious liberty / faith: Public church affiliation not confirmed. HR 6016 sponsorship exists but is not enough to infer personal faith, denomination, or a generalized religious-liberty platform.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:327",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l327"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0022",
+      "evidenceRowId": "em-pat-proctor-01145",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:347",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"Finding: HR 6016 denounced a planned satanic worship ritual scheduled for March 28, 2025. Kansas Legislature lists Proctor as an original/current sponsor. House emergency final action on March 20, 2025 adopted the resolution 101-15, Absent 9. This is public legislative conduct but is not enough by itself to infer a church affiliation or comprehensive religious-liberty platform.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:347",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l347"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0023",
+      "evidenceRowId": "em-pat-proctor-01136",
+      "platform": "YouTube",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:261",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"For the Leavenworth district itself, Proctor's local content is less voluminous than his statewide-elections content but is present. An October 5, 2025 YouTube video addresses bringing jobs and opportunity back to Leavenworth. His campaign and legislative biographies foreground his co-ownership with his wife Aree of Baan Thai Restaurant in Leavenworth. The April 2025 Wichita State University listing identifies...\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:261",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l261"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0024",
+      "evidenceRowId": "em-pat-proctor-00505",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/site-profile.md:25",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        7,
+        10
+      ],
+      "issueLabels": [
+        "Guns / Second Amendment",
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Guns / Second Amendment: Runs as a Republican. The Kansas Republican Party platform supports Second Amendment rights without restrictions. No specific personal statement found in public sources. on gun policy in the context of this race.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/site-profile.md:25",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-site-profile-md-l25"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0025",
+      "evidenceRowId": "em-pat-proctor-00506",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/site-profile.md:27",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        8,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Immigration / border",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Immigration / Border: Runs as a Republican. The Kansas Republican Party platform supports border security and enforcement of immigration laws. No specific personal statement found in public sources. on immigration in the context of this race.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/site-profile.md:27",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-site-profile-md-l27"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0026",
+      "evidenceRowId": "em-pat-proctor-00041",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/raw-dump-v2.md:65",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "2.1 Candidate-controlled biography and platform frame",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:65",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-raw-dump-v2-md-l65"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0027",
+      "evidenceRowId": "em-pat-proctor-00095",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/raw-dump-v2.md:220",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Finding: Campaign homepage links campaign email, phone, Facebook, Get Involved via Mailchimp, and Donate via Anedot. Existing local harvest identified X @RealPatProctor, Facebook PatProctorKS, YouTube @patproctorforkansas655, Instagram @patproctor4ks, and LinkedIn.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:220",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-raw-dump-v2-md-l220"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0028",
+      "evidenceRowId": "em-pat-proctor-00099",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/raw-dump-v2.md:227",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "5.2 Election-confidence and voter-access social signal",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:227",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-raw-dump-v2-md-l227"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0029",
+      "evidenceRowId": "em-pat-proctor-00148",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/raw-dump-v2.md:296",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No candidate-controlled statements found for several commonly profiled social issues; do not infer from party label or associations.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:296",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-raw-dump-v2-md-l296"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0030",
+      "evidenceRowId": "em-pat-proctor-00555",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/sleuth-pass.md:50",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Candidate-controlled properties: Campaign site patproctor4ks.com; Facebook linked from campaign site; X account identified in existing local harvest as @RealPatProctor; YouTube channel identified in existing local harvest as @patproctorforkansas655; Instagram identified in existing local harvest as @patproctor4ks; LinkedIn profile identified in existing local harvest.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/sleuth-pass.md:50",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-sleuth-pass-md-l50"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0031",
+      "evidenceRowId": "em-pat-proctor-00557",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/sleuth-pass.md:52",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Direct social quote with secondary verification: Kansas Reflector captured a public Proctor quote about the August 2022 election: \"women, like 20- to 30-year-old women\" at polling places and \"they're stealing it fair and square.\" The same article reports Proctor later said, \"That'd be really terrible if I'd actually said that,\" and said a video had been cut to misrepresent him. Treat this as contested public-speech evidence around election confidence and voter access.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/sleuth-pass.md:52",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-sleuth-pass-md-l52"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0032",
+      "evidenceRowId": "em-pat-proctor-00561",
+      "platform": "TikTok",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/sleuth-pass.md:56",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Unconfirmed/no-current-access platforms: No candidate-controlled Reddit, TikTok, Truth Social, Gab, Gettr, or Substack account was confirmed in this pass.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/sleuth-pass.md:56",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-sleuth-pass-md-l56"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0033",
+      "evidenceRowId": "em-pat-proctor-00564",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/sleuth-pass.md:63",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Campaign finance / foreign money in ballot measures: Strong issue. Use campaign homepage threat language, HB 2106, KPDC role, and observed social/fundraising rhetoric about foreign funding.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/sleuth-pass.md:63",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-sleuth-pass-md-l63"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0034",
+      "evidenceRowId": "em-pat-proctor-00699",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/v2-issues.yaml:251",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Prior harvest captured election-administration and foreign-funding social signals\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/v2-issues.yaml:251",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l251"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0035",
+      "evidenceRowId": "em-pat-proctor-00748",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:134",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"X / campaign email / prior local harvest\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:134",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l321",
+        "mem-ui-src-data-v2-pat-proctor-ts-l134"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0036",
+      "evidenceRowId": "em-pat-proctor-00876",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "reports/sos-insurance-ks01-all-candidates-complete.md:94",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Campaign Platform",
+      "sourceUrl": null,
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:94",
+      "sourceIds": [
+        "mem-reports-sos-insurance-ks01-all-candidates-complete-md-l94"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0037",
+      "evidenceRowId": "em-pat-proctor-01043",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:27751",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"Campaign website\",\"Facebook\",\"X / Twitter\",\"Instagram\",\"LinkedIn\",\"YouTube\",\"PBS / Smoky Hills\",\"Kansas Ag Report\",\"Podbean\",\"Apple Podcasts\",\"Kansas Legislature\",\"Hays Post\",\"KVOE\",\"Muck Rack\",\"TikTok\",\"Truth Social\",\"Gab\",\"Gettr\",\"Substack\",\"Reddit\",\"Public search indexes\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:27751",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l27751"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0038",
+      "evidenceRowId": "em-pat-proctor-01105",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:76",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"Across the harvested public record on X (@RealPatProctor), Facebook (@PatProctorKS), YouTube (Pat Proctor for Kansas), and Instagram (@patproctor4ks), Proctor's dominant topic is election administration.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:76",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l76"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0039",
+      "evidenceRowId": "em-pat-proctor-01109",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:86",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"The same phrase recurs across every platform: his Instagram bio reads \\\"Fighting to restore confidence in our elections,\\\" his Facebook page lists him as \\\"fighting to restore confidence in our elections,\\\" and his April 2025 campaign-launch YouTube video opens with the line \\\"Job one is restoring confidence in our elections.\\\" A second recurring frame is foreign money in Kansas elections. On May 6, 2025, Proctor...\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:86",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l86"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0040",
+      "evidenceRowId": "em-pat-proctor-01116",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:145",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"Proctor's public alignment network on his own feed centers on Kansas Republican officeholders, election-policy organizations, and his own legislative work product. His Facebook page features a campaign video titled \\\"Kris Kobach Wanted This 20-Year-Old To Go To Jail For…\\\" framing his own enforcement stance against Attorney General Kris Kobach's.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:145",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l145"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0041",
+      "evidenceRowId": "em-pat-proctor-01118",
+      "platform": "YouTube",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:155",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"A separate page post identifies him as \\\"the chairman of your House Elections Committee and as your next Secretary of State\\\" (source). An October 2025 YouTube video records his endorsement of Steve Clay for Leavenworth City Commission, the only down-ballot endorsement visible in the harvested set. The harvested set contains no posts amplifying, tagging, or appearing alongside his Republican primary opponent for...\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:155",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l155"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0042",
+      "evidenceRowId": "em-pat-proctor-01129",
+      "platform": "Facebook",
+      "actionType": "share/repost",
+      "target": "ui/src/data/v2/pat-proctor.ts:241",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"Engagement on Proctor's content is not evenly distributed. His Facebook page hosts the highest-engagement videos when they touch enforcement of election law and ballot-integrity claims, including the Kobach-framed enforcement video. Critical engagement is also concentrated there: the activist account Loud Light reposts and challenges his statements at video-length, including a clip titled [\\\"Rep.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:241",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l241"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0043",
+      "evidenceRowId": "em-pat-proctor-01166",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:601",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Proctor's public alignment network on his own feed centers on Kansas Republican officeholders, election-policy organizations, and his own legislative work product. His Facebook pag\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:601",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l601"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0044",
+      "evidenceRowId": "em-pat-proctor-00010",
+      "platform": "Facebook",
+      "actionType": "share/repost",
+      "target": "ui/src/data/candidates.ts:27355",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Methodology: Date range covered: April 2025 to May 2026. Platforms surveyed via direct visit where accessible and via Google indexed snippets where login-walled: X (@RealPatProctor), Facebook (PatProctorKS), YouTube (@patproctorforkansas655), Instagram (@patproctor4ks), LinkedIn. Posts examined: approximately 30 indexed posts across platforms plus campaign launch and committee-chair videos. Reposts examined: limited indexed sample. Engagement counts captured at time of harvest where visible; precise follower/like counts not captured because Facebook, X, and Instagram blocked direct profile fetch during this harvest window. Quotes are verbatim from indexed sources; links lead to source. We report patterns; we do not interpret intent.,",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:27355",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-in-their-own-words-md-l23",
+        "mem-ui-src-data-candidates-ts-l27355"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0045",
+      "evidenceRowId": "em-pat-proctor-00113",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/raw-dump-v2.md:253",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "| Campaign finance / foreign money | Strong | HB 2106; campaign homepage threat language; KPDC report; Special Committee role | HB 2106 became law; social rhetoric should be mapped here. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:253",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-raw-dump-v2-md-l253"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0046",
+      "evidenceRowId": "em-pat-proctor-00698",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/v2-issues.yaml:250",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Prior local harvest identified X, Facebook, YouTube, Instagram, and LinkedIn accounts\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/v2-issues.yaml:250",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l250"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0047",
+      "evidenceRowId": "em-pat-proctor-01169",
+      "platform": "YouTube",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:614",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"A separate page post identifies him as \\\"the chairman of your House Elections Committee and as your next Secretary of State\\\" (source). An October 2025 YouTube video records his endo\"",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:614",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l614"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0048",
+      "evidenceRowId": "em-pat-proctor-01176",
+      "platform": "YouTube",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:638",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"For the Leavenworth district itself, Proctor's local content is less voluminous than his statewide-elections content but is present. An October 5, 2025 YouTube video addresses brin\"",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:638",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l638"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0049",
+      "evidenceRowId": "em-pat-proctor-00002",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/in-their-own-words.md:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "*A summary of what Pat Proctor has publicly said, posted, and amplified across social media. Drawn from public posts and indexed snippets on X, Facebook, YouTube, and Instagram between April 2025 and May 2026. We report patterns; we do not interpret intent.*",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/in-their-own-words.md:3",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-in-their-own-words-md-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0050",
+      "evidenceRowId": "em-pat-proctor-00093",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/raw-dump-v2.md:216",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social / Online Evidence",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:216",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-raw-dump-v2-md-l216"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0051",
+      "evidenceRowId": "em-pat-proctor-00146",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/raw-dump-v2.md:294",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No direct engagement metrics for X/Facebook/Instagram were available.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:294",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-raw-dump-v2-md-l294"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0052",
+      "evidenceRowId": "em-pat-proctor-00554",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/sleuth-pass.md:48",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social / Online-Presence Leads",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/sleuth-pass.md:48",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-sleuth-pass-md-l48"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0053",
+      "evidenceRowId": "em-pat-proctor-00560",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/sleuth-pass.md:55",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Engagement limits: Direct X/Facebook/Instagram engagement totals were not accessible. Do not claim likes, shares, comments, follower growth, or relative engagement unless later capture records them.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/sleuth-pass.md:55",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-sleuth-pass-md-l55"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0054",
+      "evidenceRowId": "em-pat-proctor-00572",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/sleuth-pass.md:75",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Direct social-media engagement counts were not visible.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/sleuth-pass.md:75",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-sleuth-pass-md-l75"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0055",
+      "evidenceRowId": "em-pat-proctor-00588",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/v2-issues.yaml:15",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Existing UI data contains overbroad issue cards and some mis-mapped social signals; rebuild from these issue cards rather than carrying those mappings forward.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/v2-issues.yaml:15",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l15"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0056",
+      "evidenceRowId": "em-pat-proctor-00694",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:570",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"tier\": \"social\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:570",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l244",
+        "mem-ui-src-data-v2-pat-proctor-ts-l570",
+        "mem-ui-src-data-v2-pat-proctor-ts-l582",
+        "mem-ui-src-data-v2-pat-proctor-ts-l594",
+        "mem-ui-src-data-v2-pat-proctor-ts-l607",
+        "mem-ui-src-data-v2-pat-proctor-ts-l631"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0057",
+      "evidenceRowId": "em-pat-proctor-00729",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:65",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"public video / secondary report\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:65",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l285",
+        "mem-ui-src-data-v2-pat-proctor-ts-l65"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0058",
+      "evidenceRowId": "em-pat-proctor-00803",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/v2-issues.yaml:440",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Direct social-media engagement counts were not available for X/Facebook/Instagram.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/v2-issues.yaml:440",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l440"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0059",
+      "evidenceRowId": "em-pat-proctor-00885",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "reports/sos-insurance-ks01-all-candidates-complete.md:106",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social Media & Web Presence",
+      "sourceUrl": null,
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:106",
+      "sourceIds": [
+        "mem-reports-sos-insurance-ks01-all-candidates-complete-md-l106"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0060",
+      "evidenceRowId": "em-pat-proctor-00887",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "reports/sos-insurance-ks01-all-candidates-complete.md:108",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Facebook: facebook.com/PatProctorKS/",
+      "sourceUrl": null,
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:108",
+      "sourceIds": [
+        "mem-reports-sos-insurance-ks01-all-candidates-complete-md-l108"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0061",
+      "evidenceRowId": "em-pat-proctor-00888",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "reports/sos-insurance-ks01-all-candidates-complete.md:109",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Twitter/X: Active (frequently attacks journalists on the platform)",
+      "sourceUrl": null,
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:109",
+      "sourceIds": [
+        "mem-reports-sos-insurance-ks01-all-candidates-complete-md-l109"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0062",
+      "evidenceRowId": "em-pat-proctor-00889",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "reports/sos-insurance-ks01-all-candidates-complete.md:110",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "LinkedIn: linkedin.com/in/pat-proctor-phd-b477575/",
+      "sourceUrl": null,
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:110",
+      "sourceIds": [
+        "mem-reports-sos-insurance-ks01-all-candidates-complete-md-l110"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0063",
+      "evidenceRowId": "em-pat-proctor-00972",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:27335",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "narrative: *A summary of what Pat Proctor has publicly said, posted, and amplified across social media. Drawn from public posts and indexed snippets on X, Facebook, YouTube, and Instagram between April 2025 and May 2026. We report patterns; we do not interpret intent.*",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:27335",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l27335"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0064",
+      "evidenceRowId": "em-pat-proctor-00974",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:27357",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"X\", \"Facebook\", \"YouTube\", \"Instagram\", \"LinkedIn\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:27357",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l27357"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0065",
+      "evidenceRowId": "em-pat-proctor-01092",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:1",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0066",
+      "evidenceRowId": "em-pat-proctor-01094",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "node scripts/hydrate-v2-social-signals.mjs",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:3",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0067",
+      "evidenceRowId": "em-pat-proctor-01104",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:75",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"X\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:75",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l75",
+        "mem-ui-src-data-v2-pat-proctor-ts-l250"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0068",
+      "evidenceRowId": "em-pat-proctor-01106",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:79",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"s-social-crossref-1\"",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:79",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l79",
+        "mem-ui-src-data-v2-pat-proctor-ts-l196",
+        "mem-ui-src-data-v2-pat-proctor-ts-l330",
+        "mem-ui-src-data-v2-pat-proctor-ts-l340",
+        "mem-ui-src-data-v2-pat-proctor-ts-l350"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0069",
+      "evidenceRowId": "em-pat-proctor-01108",
+      "platform": "Instagram",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:85",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Instagram\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:85",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l85"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0070",
+      "evidenceRowId": "em-pat-proctor-01110",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:89",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"s-social-crossref-2\"",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:89",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l89"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0071",
+      "evidenceRowId": "em-pat-proctor-01115",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:144",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Facebook\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:144",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l144",
+        "mem-ui-src-data-v2-pat-proctor-ts-l154",
+        "mem-ui-src-data-v2-pat-proctor-ts-l240"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0072",
+      "evidenceRowId": "em-pat-proctor-01117",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:148",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"s-social-crossref-3\"",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:148",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l148",
+        "mem-ui-src-data-v2-pat-proctor-ts-l244"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0073",
+      "evidenceRowId": "em-pat-proctor-01119",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:158",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"s-social-crossref-4\"",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:158",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l158"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0074",
+      "evidenceRowId": "em-pat-proctor-01123",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:192",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Public web\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:192",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l192",
+        "mem-ui-src-data-v2-pat-proctor-ts-l326",
+        "mem-ui-src-data-v2-pat-proctor-ts-l336",
+        "mem-ui-src-data-v2-pat-proctor-ts-l346"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0075",
+      "evidenceRowId": "em-pat-proctor-01133",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:254",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"s-social-crossref-5\"",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:254",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l254"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0076",
+      "evidenceRowId": "em-pat-proctor-01135",
+      "platform": "YouTube",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:260",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"YouTube\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:260",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l260"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0077",
+      "evidenceRowId": "em-pat-proctor-01137",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:264",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"s-social-crossref-6\"",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:264",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l264"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0078",
+      "evidenceRowId": "em-pat-proctor-01157",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:577",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Across the harvested public record on X (@RealPatProctor), Facebook (@PatProctorKS), YouTube (Pat Proctor for Kansas), and Instagram (@patproctor4ks), Proctor's dominant topic is e\"",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:577",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l577"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0079",
+      "evidenceRowId": "em-pat-proctor-01159",
+      "platform": "Instagram",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:584",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"title\": \"Instagram / Youtube\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:584",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l584"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0080",
+      "evidenceRowId": "em-pat-proctor-01160",
+      "platform": "YouTube",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:585",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"publisher\": \"Youtube\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:585",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l585",
+        "mem-ui-src-data-v2-pat-proctor-ts-l634"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0081",
+      "evidenceRowId": "em-pat-proctor-01161",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:589",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"The same phrase recurs across every platform: his Instagram bio reads \\\"Fighting to restore confidence in our elections,\\\" his Facebook page lists him as \\\"fighting to restore confide\"",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:589",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l589"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0082",
+      "evidenceRowId": "em-pat-proctor-01163",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:596",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"title\": \"Facebook / Facebook\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:596",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l596",
+        "mem-ui-src-data-v2-pat-proctor-ts-l609"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0083",
+      "evidenceRowId": "em-pat-proctor-01164",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:597",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"publisher\": \"Facebook\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:597",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l597",
+        "mem-ui-src-data-v2-pat-proctor-ts-l610"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0084",
+      "evidenceRowId": "em-pat-proctor-01175",
+      "platform": "YouTube",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:633",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"title\": \"YouTube / Youtube\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:633",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l633"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0085",
+      "evidenceRowId": "em-pat-proctor-00286",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/raw-dump.md:291",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        10,
+        12
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Election integrity / voting / courts",
+        "Agriculture / rural economy / water"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Two reasons: First, the 2022 abortion vote proved that Kansas voters will cross party lines on the right issue. If DOGE cuts hit Kansas hard -- closing rural VA clinics, cutting farm subsidies, eliminating Social Security Administration offices in small towns -- there could be an opening. Second, Marshall's close alignment with Trump and Musk is a bet that could pay off or backfire depending on how Kansans feel about federal government cuts by November.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:291",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-raw-dump-md-l291"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0086",
+      "evidenceRowId": "em-pat-proctor-00332",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/raw-dump.md:383",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Dinah Sykes (Democrat): Kansas Senate Minority Leader from Lenexa. She has pledged to accept zero campaign contributions from the insurance industry. Her platform focuses on lowering healthcare costs, consumer protection, and holding insurance companies accountable. She is a longtime advocate for Medicaid expansion. She has been endorsed by former Insurance Commissioner and Governor Kathleen Sebelius (Democrat) and former Insurance Commissioner Sandy Praeger (Republican).",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:383",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-raw-dump-md-l383",
+        "mem-reports-plain-english-voter-guide-md-l340"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0087",
+      "evidenceRowId": "em-pat-proctor-00107",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/raw-dump-v2.md:242",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Tier: Local prior harvest; original social links partially login-walled",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:242",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-raw-dump-v2-md-l242"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0088",
+      "evidenceRowId": "em-pat-proctor-00300",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/pat-proctor/raw-dump.md:317",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Lauren Reinhold -- former Social Security Administration employee who was laid off in the DOGE federal workforce reductions",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:317",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-raw-dump-md-l317"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0089",
+      "evidenceRowId": "em-pat-proctor-00727",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:295",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"socialSignals\": [],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:295",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l283",
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l319",
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l347",
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l373",
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l392",
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l412",
+        "mem-ui-src-data-v2-pat-proctor-ts-l62",
+        "mem-ui-src-data-v2-pat-proctor-ts-l131",
+        "mem-ui-src-data-v2-pat-proctor-ts-l189",
+        "mem-ui-src-data-v2-pat-proctor-ts-l237",
+        "mem-ui-src-data-v2-pat-proctor-ts-l295",
+        "mem-ui-src-data-v2-pat-proctor-ts-l323"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0090",
+      "evidenceRowId": "em-pat-proctor-00728",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:64",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"social-women-voters-comment\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:64",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l284",
+        "mem-ui-src-data-v2-pat-proctor-ts-l64"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0091",
+      "evidenceRowId": "em-pat-proctor-00747",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:133",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"social-foreign-funding-rhetoric\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:133",
+      "sourceIds": [
+        "mem-memory-candidates-pat-proctor-v2-issues-yaml-l320",
+        "mem-ui-src-data-v2-pat-proctor-ts-l133"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0092",
+      "evidenceRowId": "em-pat-proctor-01152",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:569",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"s-social-crossref-1\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:569",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l569"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0093",
+      "evidenceRowId": "em-pat-proctor-01158",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:581",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"s-social-crossref-2\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:581",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l581"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0094",
+      "evidenceRowId": "em-pat-proctor-01162",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:593",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"s-social-crossref-3\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:593",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l593"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0095",
+      "evidenceRowId": "em-pat-proctor-01168",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:606",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"s-social-crossref-4\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:606",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l606"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0096",
+      "evidenceRowId": "em-pat-proctor-01170",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:618",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"s-social-crossref-5\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:618",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l618"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-pat-proctor-0097",
+      "evidenceRowId": "em-pat-proctor-01174",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/pat-proctor.ts:630",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"s-social-crossref-6\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:630",
+      "sourceIds": [
+        "mem-ui-src-data-v2-pat-proctor-ts-l630"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    }
+  ],
+  "issueCoverage": {
+    "1": {
+      "issue": "Abortion / life",
+      "total": 7,
+      "strong": 1,
+      "moderate": 1,
+      "weak": 0,
+      "ambiguous": 4
+    },
+    "2": {
+      "issue": "LGBT / gender / parental rights",
+      "total": 5,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 0,
+      "ambiguous": 4
+    },
+    "3": {
+      "issue": "Education / curriculum / schools",
+      "total": 6,
+      "strong": 1,
+      "moderate": 1,
+      "weak": 0,
+      "ambiguous": 4
+    },
+    "4": {
+      "issue": "Religious liberty / church / civic morality",
+      "total": 7,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 7
+    },
+    "5": {
+      "issue": "Taxes / spending / debt",
+      "total": 1,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "6": {
+      "issue": "Economy / jobs / labor",
+      "total": 3,
+      "strong": 1,
+      "moderate": 1,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "7": {
+      "issue": "Guns / Second Amendment",
+      "total": 2,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "8": {
+      "issue": "Immigration / border",
+      "total": 4,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 0,
+      "ambiguous": 3
+    },
+    "9": {
+      "issue": "Health care / insurance / Medicaid",
+      "total": 2,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "10": {
+      "issue": "Election integrity / voting / courts",
+      "total": 32,
+      "strong": 3,
+      "moderate": 2,
+      "weak": 0,
+      "ambiguous": 26
+    },
+    "11": {
+      "issue": "Public safety / law enforcement / criminal justice",
+      "total": 5,
+      "strong": 2,
+      "moderate": 2,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "12": {
+      "issue": "Agriculture / rural economy / water",
+      "total": 2,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "13": {
+      "issue": "Local governance / transparency / ethics",
+      "total": 35,
+      "strong": 3,
+      "moderate": 1,
+      "weak": 0,
+      "ambiguous": 30
+    },
+    "14": {
+      "issue": "Environment / energy / land use",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    }
+  },
+  "caveats": [
+    "Social evidence is signal, not fact. A follow, like, share, or platform absence is not treated as a belief or policy position.",
+    "Candidate-controlled posts and campaign pages may be used as stated positions only when the text itself says the position.",
+    "Login-walled, blocked, or inaccessible platform content is documented as a capture limitation, not as evidence of silence."
+  ]
+}

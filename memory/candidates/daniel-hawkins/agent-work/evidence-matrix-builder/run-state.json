@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "daniel-hawkins",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/daniel-hawkins/evidence-matrix-raw.json",
+    "memory/candidates/daniel-hawkins/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/daniel-hawkins/evidence-matrix.json",
+    "memory/candidates/daniel-hawkins/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/daniel-hawkins/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/daniel-hawkins/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs daniel-hawkins"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for daniel-hawkins.",
+    "Run source-tier-validator for daniel-hawkins."
+  ],
+  "handoff_summary": "Built final evidence matrix for daniel-hawkins: 3093 raw rows to 1632 deduplicated rows."
+}

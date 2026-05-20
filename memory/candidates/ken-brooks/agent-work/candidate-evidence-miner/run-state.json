@@ -1,0 +1,41 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "ken-brooks",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/ken-brooks/in-their-own-words.md",
+    "memory/candidates/ken-brooks/raw-dump-v2.md",
+    "memory/candidates/ken-brooks/raw-dump.md",
+    "memory/candidates/ken-brooks/site-profile.md",
+    "memory/candidates/ken-brooks/sleuth-pass.md",
+    "memory/candidates/ken-brooks/social-harvest.md",
+    "memory/candidates/ken-brooks/v2-issues.yaml",
+    "reports/2026-03-30-education-elections-hays-ks.md",
+    "reports/faith-church-investigation-2026-03-31.md",
+    "reports/ken-brooks-complete-dossier.md",
+    "reports/usd489-board-deep-investigation-2026-03-30.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/ken-brooks.ts"
+  ],
+  "files_written": [
+    "memory/candidates/ken-brooks/evidence-matrix-raw.json",
+    "memory/candidates/ken-brooks/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/ken-brooks/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/ken-brooks/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/ken-brooks/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs ken-brooks"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for ken-brooks."
+  ],
+  "handoff_summary": "Extracted 4126 raw evidence rows for ken-brooks."
+}

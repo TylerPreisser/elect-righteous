@@ -1,0 +1,4701 @@
+[
+  {
+    "id": "em-michelle-cunningham-00045",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:37",
+    "sourceUrl": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05MC_AT.pdf",
+    "sourceTier": "primary",
+    "evidenceType": "legal/court",
+    "issueMappedTo": [
+      10,
+      11
+    ],
+    "claim": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05MC_AT.pdf\",",
+    "exactEvidenceSummary": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05MC_AT.pdf\",",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Usable as sourced evidence; best available row has primary tier support. Deduplicated from 4 raw rows.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l26",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l37",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l124",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l135"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00090",
+      "raw-michelle-cunningham-00101",
+      "raw-michelle-cunningham-00361",
+      "raw-michelle-cunningham-00372"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [
+      "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/BOELinksOdd2026EC.htm",
+      "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05MC_AT.pdf"
+    ],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:26",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:37",
+      "ui/src/data/v2/michelle-cunningham.ts:124",
+      "ui/src/data/v2/michelle-cunningham.ts:135"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00012",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:19",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      3,
+      10,
+      13
+    ],
+    "claim": "Ballot / filing status: KPDC lists Michelle Cunningham in the State Board of Education District 5 finance index; this pass did not verify a final certified candidate list.",
+    "exactEvidenceSummary": "- Ballot / filing status: KPDC lists Michelle Cunningham in the State Board of Education District 5 finance index; this pass did not verify a final certified candidate list.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l19",
+      "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l19",
+      "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l19",
+      "mem-memory-candidates-michelle-cunningham-social-harvest-md-l19"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00012",
+      "raw-michelle-cunningham-00028",
+      "raw-michelle-cunningham-00044",
+      "raw-michelle-cunningham-00060"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/in-their-own-words.md:19",
+      "memory/candidates/michelle-cunningham/raw-dump-v2.md:19",
+      "memory/candidates/michelle-cunningham/sleuth-pass.md:19",
+      "memory/candidates/michelle-cunningham/social-harvest.md:19"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00013",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:20",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social follow",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+    "exactEvidenceSummary": "- Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l20",
+      "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l20",
+      "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l20",
+      "mem-memory-candidates-michelle-cunningham-social-harvest-md-l20"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00013",
+      "raw-michelle-cunningham-00029",
+      "raw-michelle-cunningham-00045",
+      "raw-michelle-cunningham-00061"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/in-their-own-words.md:20",
+      "memory/candidates/michelle-cunningham/raw-dump-v2.md:20",
+      "memory/candidates/michelle-cunningham/sleuth-pass.md:20",
+      "memory/candidates/michelle-cunningham/social-harvest.md:20"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00005",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:8",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "This artifact was created because the candidate-completeness audit found Michelle Cunningham in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+    "exactEvidenceSummary": "This artifact was created because the candidate-completeness audit found Michelle Cunningham in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l8",
+      "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l8",
+      "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l8",
+      "mem-memory-candidates-michelle-cunningham-social-harvest-md-l8"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00005",
+      "raw-michelle-cunningham-00021",
+      "raw-michelle-cunningham-00037",
+      "raw-michelle-cunningham-00053"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/in-their-own-words.md:8",
+      "memory/candidates/michelle-cunningham/raw-dump-v2.md:8",
+      "memory/candidates/michelle-cunningham/sleuth-pass.md:8",
+      "memory/candidates/michelle-cunningham/social-harvest.md:8"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00014",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:21",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+    "exactEvidenceSummary": "- Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l21",
+      "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l21",
+      "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l21",
+      "mem-memory-candidates-michelle-cunningham-social-harvest-md-l21"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00014",
+      "raw-michelle-cunningham-00030",
+      "raw-michelle-cunningham-00046",
+      "raw-michelle-cunningham-00062"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/in-their-own-words.md:21",
+      "memory/candidates/michelle-cunningham/raw-dump-v2.md:21",
+      "memory/candidates/michelle-cunningham/sleuth-pass.md:21",
+      "memory/candidates/michelle-cunningham/social-harvest.md:21"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00016",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:25",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+    "exactEvidenceSummary": "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l25",
+      "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l25",
+      "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l25",
+      "mem-memory-candidates-michelle-cunningham-social-harvest-md-l25"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00016",
+      "raw-michelle-cunningham-00032",
+      "raw-michelle-cunningham-00048",
+      "raw-michelle-cunningham-00064"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/in-their-own-words.md:25",
+      "memory/candidates/michelle-cunningham/raw-dump-v2.md:25",
+      "memory/candidates/michelle-cunningham/sleuth-pass.md:25",
+      "memory/candidates/michelle-cunningham/social-harvest.md:25"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00019",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:1",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Michelle Cunningham - social harvest",
+    "exactEvidenceSummary": "# Michelle Cunningham - social harvest",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-social-harvest-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00049"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/social-harvest.md:1"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00020",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:3",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Generated: 2026-05-20",
+    "exactEvidenceSummary": "Generated: 2026-05-20",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-social-harvest-md-l3"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00050"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/social-harvest.md:3"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00021",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:6",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Scope",
+    "exactEvidenceSummary": "## Scope",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-social-harvest-md-l6"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00052"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/social-harvest.md:6"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00022",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:10",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Current profile status",
+    "exactEvidenceSummary": "## Current profile status",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-social-harvest-md-l10"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00054"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/social-harvest.md:10"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00023",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:12",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Slug: michelle-cunningham",
+    "exactEvidenceSummary": "- Slug: michelle-cunningham",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-social-harvest-md-l12"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00055"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/social-harvest.md:12"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00025",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:17",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Evidence summary",
+    "exactEvidenceSummary": "## Evidence summary",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-social-harvest-md-l17"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00059"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/social-harvest.md:17"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00032",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:10",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      3,
+      13
+    ],
+    "claim": "\"electionSlug\": \"sboe-district-5\",",
+    "exactEvidenceSummary": "\"electionSlug\": \"sboe-district-5\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l10",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l14"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00074",
+      "raw-michelle-cunningham-00251"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:10",
+      "ui/src/data/v2/michelle-cunningham.ts:14"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00034",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:12",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "meeting record",
+    "issueMappedTo": [
+      3,
+      13
+    ],
+    "claim": "\"occupation\": \"State Board of Education candidate / campaign-finance account holder\",",
+    "exactEvidenceSummary": "\"occupation\": \"State Board of Education candidate / campaign-finance account holder\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l12",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l16"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00076",
+      "raw-michelle-cunningham-00253"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:12",
+      "ui/src/data/v2/michelle-cunningham.ts:16"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00035",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:13",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      3,
+      10,
+      13
+    ],
+    "claim": "\"whoTheyAre\": \"Michelle Cunningham appears in KPDC's State Board of Education odd-district index under District 5. Party, platform, and final ballot status were not confirmed in this pass.\",",
+    "exactEvidenceSummary": "\"whoTheyAre\": \"Michelle Cunningham appears in KPDC's State Board of Education odd-district index under District 5. Party, platform, and final ballot status were not confirmed in this pass.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l13",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l110"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00077",
+      "raw-michelle-cunningham-00347"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:13",
+      "ui/src/data/v2/michelle-cunningham.ts:110"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00036",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:14",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      3,
+      13
+    ],
+    "claim": "\"recordSummary\": \"This profile exists because the SBOE District 5 roster was missing current KPDC account entries and incorrectly treated the current officeholder profile as the only 2026 candidate view.\",",
+    "exactEvidenceSummary": "\"recordSummary\": \"This profile exists because the SBOE District 5 roster was missing current KPDC account entries and incorrectly treated the current officeholder profile as the only 2026 candidate view.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l14",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l111"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00078",
+      "raw-michelle-cunningham-00348"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:14",
+      "ui/src/data/v2/michelle-cunningham.ts:111"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00046",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:125",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "meeting record",
+    "issueMappedTo": [
+      3,
+      10,
+      13
+    ],
+    "claim": "\"title\": \"State Board of Education Odd Districts - 2026 Election Cycle\",",
+    "exactEvidenceSummary": "\"title\": \"State Board of Education Odd Districts - 2026 Election Cycle\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l27",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l125"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00091",
+      "raw-michelle-cunningham-00362"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:27",
+      "ui/src/data/v2/michelle-cunningham.ts:125"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00054",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:46",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      3,
+      13
+    ],
+    "claim": "\"text\": \"KPDC lists Michelle Cunningham in the State Board of Education District 5 finance index; this pass did not verify a final certified candidate list.\",",
+    "exactEvidenceSummary": "\"text\": \"KPDC lists Michelle Cunningham in the State Board of Education District 5 finance index; this pass did not verify a final certified candidate list.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l46",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l22"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00110",
+      "raw-michelle-cunningham-00259"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:46",
+      "ui/src/data/v2/michelle-cunningham.ts:22"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00056",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:48",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      3,
+      13
+    ],
+    "claim": "\"s-kpdc-sboe-index\",",
+    "exactEvidenceSummary": "\"s-kpdc-sboe-index\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l48",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l58",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l71",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l81",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l94",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l104",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l119",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l24",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l34",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l47",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l57",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l69",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l81",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l91",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l103"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00112",
+      "raw-michelle-cunningham-00122",
+      "raw-michelle-cunningham-00135",
+      "raw-michelle-cunningham-00145",
+      "raw-michelle-cunningham-00158",
+      "raw-michelle-cunningham-00168",
+      "raw-michelle-cunningham-00183",
+      "raw-michelle-cunningham-00261",
+      "raw-michelle-cunningham-00271",
+      "raw-michelle-cunningham-00284",
+      "raw-michelle-cunningham-00294",
+      "raw-michelle-cunningham-00306",
+      "raw-michelle-cunningham-00318",
+      "raw-michelle-cunningham-00328",
+      "raw-michelle-cunningham-00340"
+    ],
+    "duplicateCount": 15,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:48",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:58",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:71",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:81",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:94",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:104",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:119",
+      "ui/src/data/v2/michelle-cunningham.ts:24",
+      "ui/src/data/v2/michelle-cunningham.ts:34",
+      "ui/src/data/v2/michelle-cunningham.ts:47",
+      "ui/src/data/v2/michelle-cunningham.ts:57",
+      "ui/src/data/v2/michelle-cunningham.ts:69",
+      "ui/src/data/v2/michelle-cunningham.ts:81",
+      "ui/src/data/v2/michelle-cunningham.ts:91",
+      "ui/src/data/v2/michelle-cunningham.ts:103"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00061",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:56",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "meeting record",
+    "issueMappedTo": [
+      3,
+      13
+    ],
+    "claim": "\"body\": \"Michelle Cunningham was identified in the reviewed official or campaign-finance source for Kansas State Board of Education District 5 campaign-finance account holder.\",",
+    "exactEvidenceSummary": "\"body\": \"Michelle Cunningham was identified in the reviewed official or campaign-finance source for Kansas State Board of Education District 5 campaign-finance account holder.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l56",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l32"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00120",
+      "raw-michelle-cunningham-00269"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:56",
+      "ui/src/data/v2/michelle-cunningham.ts:32"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00078",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:117",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "meeting record",
+    "issueMappedTo": [
+      3,
+      10,
+      13
+    ],
+    "claim": "\"source\": \"State Board of Education Odd Districts - 2026 Election Cycle\",",
+    "exactEvidenceSummary": "\"source\": \"State Board of Education Odd Districts - 2026 Election Cycle\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l117",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l117"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00181",
+      "raw-michelle-cunningham-00354"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:117",
+      "ui/src/data/v2/michelle-cunningham.ts:117"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00083",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:209",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      3,
+      13
+    ],
+    "claim": "slug: \"sboe-district-5\",",
+    "exactEvidenceSummary": "slug: \"sboe-district-5\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l209"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00194"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:209"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00084",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:210",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "meeting record",
+    "issueMappedTo": [
+      3,
+      13
+    ],
+    "claim": "name: \"State Board of Education District 5\",",
+    "exactEvidenceSummary": "name: \"State Board of Education District 5\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l210"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00195"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:210"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00087",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:213",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "meeting record",
+    "issueMappedTo": [
+      3,
+      13
+    ],
+    "claim": "jurisdiction: \"Kansas State Board of Education District 5\",",
+    "exactEvidenceSummary": "jurisdiction: \"Kansas State Board of Education District 5\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l213"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00198"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:213"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00095",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:221",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      3,
+      13
+    ],
+    "claim": "\"The State Board of Education helps decide statewide standards, curriculum fights, accreditation, and major school policy. District 5 includes Hays and much of western Kansas. The site now separates current-officeholder context from the KPDC 2026 account records so the race is not missing Cunningham and Wood.\",",
+    "exactEvidenceSummary": "\"The State Board of Education helps decide statewide standards, curriculum fights, accreditation, and major school policy. District 5 includes Hays and much of western Kansas. The site now separates current-officeholder context from the KPDC 2026 account records so the race is not missing Cunningham and Wood.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l221"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00206"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:221"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00097",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:223",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "meeting record",
+    "issueMappedTo": [
+      3,
+      13
+    ],
+    "claim": "\"Board members influence what schools teach, how districts are judged, and what statewide education debates look like for years to come.\",",
+    "exactEvidenceSummary": "\"Board members influence what schools teach, how districts are judged, and what statewide education debates look like for years to come.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l223"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00208"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:223"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00099",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:225",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "meeting record",
+    "issueMappedTo": [
+      3,
+      13
+    ],
+    "claim": "\"The State Board of Education sets the standards for what Kansas kids learn in school. They approve curriculum frameworks, oversee school accreditation, hire the state education commissioner, and weigh in on statewide fights over textbooks, testing, and teaching standards. District 5 covers western Kansas including Hays. These board members serve four-year terms and their decisions affect every public school student in the region.\",",
+    "exactEvidenceSummary": "\"The State Board of Education sets the standards for what Kansas kids learn in school. They approve curriculum frameworks, oversee school accreditation, hire the state education commissioner, and weigh in on statewide fights over textbooks, testing, and teaching standards. District 5 covers western Kansas including Hays. These board members serve four-year terms and their decisions affect every public school student in the region.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l225"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00210"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:225"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00065",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:69",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l69",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l45"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00133",
+      "raw-michelle-cunningham-00282"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:69",
+      "ui/src/data/v2/michelle-cunningham.ts:45"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00081",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:124",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l124"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00188"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:124"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00127",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:66",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l66"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00303"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:66"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00116",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:249",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      5,
+      12,
+      13,
+      14
+    ],
+    "claim": "\"Local city decisions shape day-to-day life faster than almost anything else: utility projects, zoning, housing growth, city spending, and how Hays responds to long-running issues like water.\",",
+    "exactEvidenceSummary": "\"Local city decisions shape day-to-day life faster than almost anything else: utility projects, zoning, housing growth, city spending, and how Hays responds to long-running issues like water.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l249"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00234"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:249"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00117",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:251",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "voting record",
+    "issueMappedTo": [
+      5,
+      6,
+      10,
+      12,
+      13
+    ],
+    "claim": "\"The Hays city commission is the group that runs the city. Five commissioners and a mayor set water rates, approve new housing developments, hire the city manager, decide where tax money goes, and vote on everything from road repairs to whether a new business gets built. The city manager handles day-to-day operations. These are the people who decide what Hays looks like, how much city services cost, and how the city grows.\",",
+    "exactEvidenceSummary": "\"The Hays city commission is the group that runs the city. Five commissioners and a mayor set water rates, approve new housing developments, hire the city manager, decide where tax money goes, and vote on everything from road repairs to whether a new business gets built. The city manager handles day-to-day operations. These are the people who decide what Hays looks like, how much city services cost, and how the city grows.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l251"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00236"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:251"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00033",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:11",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"incumbent\": false,",
+    "exactEvidenceSummary": "\"incumbent\": false,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l11",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l15"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00075",
+      "raw-michelle-cunningham-00252"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:11",
+      "ui/src/data/v2/michelle-cunningham.ts:15"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00037",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:15",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+    "exactEvidenceSummary": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l15"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00079"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:15"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00052",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:44",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"title\": \"Ballot / filing status\",",
+    "exactEvidenceSummary": "\"title\": \"Ballot / filing status\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l44",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l20"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00108",
+      "raw-michelle-cunningham-00257"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:44",
+      "ui/src/data/v2/michelle-cunningham.ts:20"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00067",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:79",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+    "exactEvidenceSummary": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l79",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l55"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00143",
+      "raw-michelle-cunningham-00292"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:79",
+      "ui/src/data/v2/michelle-cunningham.ts:55"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00070",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:92",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "exactEvidenceSummary": "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l92",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l79"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00156",
+      "raw-michelle-cunningham-00316"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:92",
+      "ui/src/data/v2/michelle-cunningham.ts:79"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00080",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:123",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.\",",
+    "exactEvidenceSummary": "\"Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l123"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00187"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:123"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00082",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:125",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication.\"",
+    "exactEvidenceSummary": "\"Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication.\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l125"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00189"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:125"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00114",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:245",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"City races are not on the 2026 Hays ballot, but these are the officeholders currently running city government and setting local direction.\",",
+    "exactEvidenceSummary": "\"City races are not on the 2026 Hays ballot, but these are the officeholders currently running city government and setting local direction.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l245"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00230"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:245"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00115",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:247",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      12,
+      13
+    ],
+    "claim": "\"Hays city elections are not the main focus of the 2026 ballot, but the people already in office still make decisions about water, housing, growth, budgeting, and city services. This page groups the current city leadership in one place.\",",
+    "exactEvidenceSummary": "\"Hays city elections are not the main focus of the 2026 ballot, but the people already in office still make decisions about water, housing, growth, budgeting, and city services. This page groups the current city leadership in one place.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l247"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00232"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:247"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00118",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:254",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "slug: \"ellis-county-2026-ballot\",",
+    "exactEvidenceSummary": "slug: \"ellis-county-2026-ballot\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l254"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00239"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:254"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00130",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:100",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "exactEvidenceSummary": "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l100"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00337"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:100"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00133",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:119",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+    "exactEvidenceSummary": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l119"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00356"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:119"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00040",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:20",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"publisher\": \"Kansas Governmental Ethics Commission / KPDC\",",
+    "exactEvidenceSummary": "\"publisher\": \"Kansas Governmental Ethics Commission / KPDC\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l20",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l31",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l126",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l137"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00084",
+      "raw-michelle-cunningham-00095",
+      "raw-michelle-cunningham-00363",
+      "raw-michelle-cunningham-00374"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:20",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:31",
+      "ui/src/data/v2/michelle-cunningham.ts:126",
+      "ui/src/data/v2/michelle-cunningham.ts:137"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00042",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:22",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"KPDC index lists Michelle Cunningham in District 5\"",
+    "exactEvidenceSummary": "\"KPDC index lists Michelle Cunningham in District 5\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l22",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l129"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00086",
+      "raw-michelle-cunningham-00366"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:22",
+      "ui/src/data/v2/michelle-cunningham.ts:129"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00047",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:33",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"Appointment-of-treasurer PDF is linked from the District 5 KPDC index\"",
+    "exactEvidenceSummary": "\"Appointment-of-treasurer PDF is linked from the District 5 KPDC index\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l33",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l140"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00097",
+      "raw-michelle-cunningham-00377"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:33",
+      "ui/src/data/v2/michelle-cunningham.ts:140"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00057",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:49",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"s-kpdc-at\"",
+    "exactEvidenceSummary": "\"s-kpdc-at\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l49",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l59",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l72",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l82",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l95",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l105",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l25",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l35",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l48",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l58",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l82",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l92"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00113",
+      "raw-michelle-cunningham-00123",
+      "raw-michelle-cunningham-00136",
+      "raw-michelle-cunningham-00146",
+      "raw-michelle-cunningham-00159",
+      "raw-michelle-cunningham-00169",
+      "raw-michelle-cunningham-00262",
+      "raw-michelle-cunningham-00272",
+      "raw-michelle-cunningham-00285",
+      "raw-michelle-cunningham-00295",
+      "raw-michelle-cunningham-00319",
+      "raw-michelle-cunningham-00329"
+    ],
+    "duplicateCount": 12,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:49",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:59",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:72",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:82",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:95",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:105",
+      "ui/src/data/v2/michelle-cunningham.ts:25",
+      "ui/src/data/v2/michelle-cunningham.ts:35",
+      "ui/src/data/v2/michelle-cunningham.ts:48",
+      "ui/src/data/v2/michelle-cunningham.ts:58",
+      "ui/src/data/v2/michelle-cunningham.ts:82",
+      "ui/src/data/v2/michelle-cunningham.ts:92"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00069",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:90",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"title\": \"Donor / funding information\",",
+    "exactEvidenceSummary": "\"title\": \"Donor / funding information\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l90",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l77"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00154",
+      "raw-michelle-cunningham-00314"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:90",
+      "ui/src/data/v2/michelle-cunningham.ts:77"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00072",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:102",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"body\": \"The reviewed finance source confirms either a campaign-finance account, committee record, or no itemized summary yet; final donor detail needs the next public report if one is not already posted.\",",
+    "exactEvidenceSummary": "\"body\": \"The reviewed finance source confirms either a campaign-finance account, committee record, or no itemized summary yet; final donor detail needs the next public report if one is not already posted.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l102",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l89"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00166",
+      "raw-michelle-cunningham-00326"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:102",
+      "ui/src/data/v2/michelle-cunningham.ts:89"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00075",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:114",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"narrative\": \"No donor-by-donor public finance interpretation is made from the available records in this pass.\",",
+    "exactEvidenceSummary": "\"narrative\": \"No donor-by-donor public finance interpretation is made from the available records in this pass.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l114",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l114"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00178",
+      "raw-michelle-cunningham-00351"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:114",
+      "ui/src/data/v2/michelle-cunningham.ts:114"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00093",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:219",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"District 5 covers western Kansas, including Ellis County. The KPDC 2026 odd-district index currently lists Michelle Cunningham and Lorie Wood for District 5; current officeholder Cathy Hopkins remains profiled separately but is not treated as the only 2026 candidate.\",",
+    "exactEvidenceSummary": "\"District 5 covers western Kansas, including Ellis County. The KPDC 2026 odd-district index currently lists Michelle Cunningham and Lorie Wood for District 5; current officeholder Cathy Hopkins remains profiled separately but is not treated as the only 2026 candidate.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l219"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00204"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:219"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00100",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:228",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "slug: \"hays-city-current\",",
+    "exactEvidenceSummary": "slug: \"hays-city-current\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l228"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00213"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:228"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00101",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:229",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "name: \"Hays City Leadership\",",
+    "exactEvidenceSummary": "name: \"Hays City Leadership\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l229"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00214"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:229"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00102",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:230",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "level: \"Local\",",
+    "exactEvidenceSummary": "level: \"Local\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l230"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00215"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:230"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00104",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:232",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "jurisdiction: \"City of Hays, Kansas\",",
+    "exactEvidenceSummary": "jurisdiction: \"City of Hays, Kansas\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l232"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00217"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:232"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00131",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:105",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"mappedToIssueId\": \"i-donor-funding\"",
+    "exactEvidenceSummary": "\"mappedToIssueId\": \"i-donor-funding\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l105"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00342"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:105"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00001",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/in-their-own-words.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Michelle Cunningham - in their own words",
+    "exactEvidenceSummary": "# Michelle Cunningham - in their own words",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00001"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/in-their-own-words.md:1"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00002",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/in-their-own-words.md:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Generated: 2026-05-20",
+    "exactEvidenceSummary": "Generated: 2026-05-20",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l3",
+      "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l3",
+      "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l3"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00002",
+      "raw-michelle-cunningham-00018",
+      "raw-michelle-cunningham-00034"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/in-their-own-words.md:3",
+      "memory/candidates/michelle-cunningham/raw-dump-v2.md:3",
+      "memory/candidates/michelle-cunningham/sleuth-pass.md:3"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00004",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/in-their-own-words.md:6",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Scope",
+    "exactEvidenceSummary": "## Scope",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l6",
+      "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l6",
+      "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l6"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00004",
+      "raw-michelle-cunningham-00020",
+      "raw-michelle-cunningham-00036"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/in-their-own-words.md:6",
+      "memory/candidates/michelle-cunningham/raw-dump-v2.md:6",
+      "memory/candidates/michelle-cunningham/sleuth-pass.md:6"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00006",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/in-their-own-words.md:10",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Current profile status",
+    "exactEvidenceSummary": "## Current profile status",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l10",
+      "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l10",
+      "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l10"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00006",
+      "raw-michelle-cunningham-00022",
+      "raw-michelle-cunningham-00038"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/in-their-own-words.md:10",
+      "memory/candidates/michelle-cunningham/raw-dump-v2.md:10",
+      "memory/candidates/michelle-cunningham/sleuth-pass.md:10"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00007",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:2",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"slug\": \"michelle-cunningham\",",
+    "exactEvidenceSummary": "\"slug\": \"michelle-cunningham\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l12",
+      "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l12",
+      "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l12",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l2",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l6",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l10"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00007",
+      "raw-michelle-cunningham-00023",
+      "raw-michelle-cunningham-00039",
+      "raw-michelle-cunningham-00066",
+      "raw-michelle-cunningham-00070",
+      "raw-michelle-cunningham-00247"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/in-their-own-words.md:12",
+      "memory/candidates/michelle-cunningham/raw-dump-v2.md:12",
+      "memory/candidates/michelle-cunningham/sleuth-pass.md:12",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:2",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:6",
+      "ui/src/data/v2/michelle-cunningham.ts:10"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00011",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/in-their-own-words.md:17",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Evidence summary",
+    "exactEvidenceSummary": "## Evidence summary",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l17",
+      "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l17",
+      "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l17"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00011",
+      "raw-michelle-cunningham-00027",
+      "raw-michelle-cunningham-00043"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/in-their-own-words.md:17",
+      "memory/candidates/michelle-cunningham/raw-dump-v2.md:17",
+      "memory/candidates/michelle-cunningham/sleuth-pass.md:17"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00017",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/raw-dump-v2.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Michelle Cunningham - raw dump v2",
+    "exactEvidenceSummary": "# Michelle Cunningham - raw dump v2",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00017"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/raw-dump-v2.md:1"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00018",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/sleuth-pass.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Michelle Cunningham - sleuth pass",
+    "exactEvidenceSummary": "# Michelle Cunningham - sleuth pass",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00033"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/sleuth-pass.md:1"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00027",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:16",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "},",
+    "exactEvidenceSummary": "},",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l1",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l16",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l18",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l23",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l28",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l29",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l34",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l39",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l40",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l42",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l50",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l51",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l53",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l60",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l61",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l62",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l64",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l65",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l73",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l74",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l76",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l83",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l84",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l85",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l87",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l88",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l96",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l97",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l99",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l106",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l107",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l108",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l110",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l111",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l120",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l121",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l126",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l127",
+      "mem-ui-src-data-elections-ts-l207",
+      "mem-ui-src-data-elections-ts-l208",
+      "mem-ui-src-data-elections-ts-l226",
+      "mem-ui-src-data-elections-ts-l227",
+      "mem-ui-src-data-elections-ts-l243",
+      "mem-ui-src-data-elections-ts-l252",
+      "mem-ui-src-data-elections-ts-l253",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l4",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l18",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l26",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l27",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l29",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l36",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l37",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l38",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l40",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l41",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l49",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l50",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l52",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l59",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l60",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l61",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l63",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l70",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l72",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l73",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l74",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l75",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l83",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l84",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l86",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l93",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l94",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l95",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l97",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l104",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l106",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l107",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l108",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l109",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l118",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l121",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l130",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l131",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l132",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l141",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l142",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l143",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l144",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l153",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l154",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l155"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00065",
+      "raw-michelle-cunningham-00080",
+      "raw-michelle-cunningham-00082",
+      "raw-michelle-cunningham-00087",
+      "raw-michelle-cunningham-00092",
+      "raw-michelle-cunningham-00093",
+      "raw-michelle-cunningham-00098",
+      "raw-michelle-cunningham-00103",
+      "raw-michelle-cunningham-00104",
+      "raw-michelle-cunningham-00106",
+      "raw-michelle-cunningham-00114",
+      "raw-michelle-cunningham-00115",
+      "raw-michelle-cunningham-00117",
+      "raw-michelle-cunningham-00124",
+      "raw-michelle-cunningham-00125",
+      "raw-michelle-cunningham-00126",
+      "raw-michelle-cunningham-00128",
+      "raw-michelle-cunningham-00129",
+      "raw-michelle-cunningham-00137",
+      "raw-michelle-cunningham-00138",
+      "raw-michelle-cunningham-00140",
+      "raw-michelle-cunningham-00147",
+      "raw-michelle-cunningham-00148",
+      "raw-michelle-cunningham-00149",
+      "raw-michelle-cunningham-00151",
+      "raw-michelle-cunningham-00152",
+      "raw-michelle-cunningham-00160",
+      "raw-michelle-cunningham-00161",
+      "raw-michelle-cunningham-00163",
+      "raw-michelle-cunningham-00170",
+      "raw-michelle-cunningham-00171",
+      "raw-michelle-cunningham-00172",
+      "raw-michelle-cunningham-00174",
+      "raw-michelle-cunningham-00175",
+      "raw-michelle-cunningham-00184",
+      "raw-michelle-cunningham-00185",
+      "raw-michelle-cunningham-00190",
+      "raw-michelle-cunningham-00191",
+      "raw-michelle-cunningham-00192",
+      "raw-michelle-cunningham-00193",
+      "raw-michelle-cunningham-00211",
+      "raw-michelle-cunningham-00212",
+      "raw-michelle-cunningham-00228",
+      "raw-michelle-cunningham-00237",
+      "raw-michelle-cunningham-00238",
+      "raw-michelle-cunningham-00243",
+      "raw-michelle-cunningham-00255",
+      "raw-michelle-cunningham-00263",
+      "raw-michelle-cunningham-00264",
+      "raw-michelle-cunningham-00266",
+      "raw-michelle-cunningham-00273",
+      "raw-michelle-cunningham-00274",
+      "raw-michelle-cunningham-00275",
+      "raw-michelle-cunningham-00277",
+      "raw-michelle-cunningham-00278",
+      "raw-michelle-cunningham-00286",
+      "raw-michelle-cunningham-00287",
+      "raw-michelle-cunningham-00289",
+      "raw-michelle-cunningham-00296",
+      "raw-michelle-cunningham-00297",
+      "raw-michelle-cunningham-00298",
+      "raw-michelle-cunningham-00300",
+      "raw-michelle-cunningham-00307",
+      "raw-michelle-cunningham-00309",
+      "raw-michelle-cunningham-00310",
+      "raw-michelle-cunningham-00311",
+      "raw-michelle-cunningham-00312",
+      "raw-michelle-cunningham-00320",
+      "raw-michelle-cunningham-00321",
+      "raw-michelle-cunningham-00323",
+      "raw-michelle-cunningham-00330",
+      "raw-michelle-cunningham-00331",
+      "raw-michelle-cunningham-00332",
+      "raw-michelle-cunningham-00334",
+      "raw-michelle-cunningham-00341",
+      "raw-michelle-cunningham-00343",
+      "raw-michelle-cunningham-00344",
+      "raw-michelle-cunningham-00345",
+      "raw-michelle-cunningham-00346",
+      "raw-michelle-cunningham-00355",
+      "raw-michelle-cunningham-00358",
+      "raw-michelle-cunningham-00367",
+      "raw-michelle-cunningham-00368",
+      "raw-michelle-cunningham-00369",
+      "raw-michelle-cunningham-00378",
+      "raw-michelle-cunningham-00379",
+      "raw-michelle-cunningham-00380",
+      "raw-michelle-cunningham-00381",
+      "raw-michelle-cunningham-00389",
+      "raw-michelle-cunningham-00390",
+      "raw-michelle-cunningham-00391"
+    ],
+    "duplicateCount": 91,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:1",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:16",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:18",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:23",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:28",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:29",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:34",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:39",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:40",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:42",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:50",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:51",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:53",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:60",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:61",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:62",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:64",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:65",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:73",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:74",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:76",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:83",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:84",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:85",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:87",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:88",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:96",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:97",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:99",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:106",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:107",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:108",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:110",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:111",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:120",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:121",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:126",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:127",
+      "ui/src/data/elections.ts:207",
+      "ui/src/data/elections.ts:208",
+      "ui/src/data/elections.ts:226",
+      "ui/src/data/elections.ts:227",
+      "ui/src/data/elections.ts:243",
+      "ui/src/data/elections.ts:252",
+      "ui/src/data/elections.ts:253",
+      "ui/src/data/v2/michelle-cunningham.ts:4",
+      "ui/src/data/v2/michelle-cunningham.ts:18",
+      "ui/src/data/v2/michelle-cunningham.ts:26",
+      "ui/src/data/v2/michelle-cunningham.ts:27",
+      "ui/src/data/v2/michelle-cunningham.ts:29",
+      "ui/src/data/v2/michelle-cunningham.ts:36",
+      "ui/src/data/v2/michelle-cunningham.ts:37",
+      "ui/src/data/v2/michelle-cunningham.ts:38",
+      "ui/src/data/v2/michelle-cunningham.ts:40",
+      "ui/src/data/v2/michelle-cunningham.ts:41",
+      "ui/src/data/v2/michelle-cunningham.ts:49",
+      "ui/src/data/v2/michelle-cunningham.ts:50",
+      "ui/src/data/v2/michelle-cunningham.ts:52",
+      "ui/src/data/v2/michelle-cunningham.ts:59",
+      "ui/src/data/v2/michelle-cunningham.ts:60",
+      "ui/src/data/v2/michelle-cunningham.ts:61",
+      "ui/src/data/v2/michelle-cunningham.ts:63",
+      "ui/src/data/v2/michelle-cunningham.ts:70",
+      "ui/src/data/v2/michelle-cunningham.ts:72",
+      "ui/src/data/v2/michelle-cunningham.ts:73",
+      "ui/src/data/v2/michelle-cunningham.ts:74",
+      "ui/src/data/v2/michelle-cunningham.ts:75",
+      "ui/src/data/v2/michelle-cunningham.ts:83",
+      "ui/src/data/v2/michelle-cunningham.ts:84",
+      "ui/src/data/v2/michelle-cunningham.ts:86",
+      "ui/src/data/v2/michelle-cunningham.ts:93",
+      "ui/src/data/v2/michelle-cunningham.ts:94",
+      "ui/src/data/v2/michelle-cunningham.ts:95",
+      "ui/src/data/v2/michelle-cunningham.ts:97",
+      "ui/src/data/v2/michelle-cunningham.ts:104",
+      "ui/src/data/v2/michelle-cunningham.ts:106",
+      "ui/src/data/v2/michelle-cunningham.ts:107",
+      "ui/src/data/v2/michelle-cunningham.ts:108",
+      "ui/src/data/v2/michelle-cunningham.ts:109",
+      "ui/src/data/v2/michelle-cunningham.ts:118",
+      "ui/src/data/v2/michelle-cunningham.ts:121",
+      "ui/src/data/v2/michelle-cunningham.ts:130",
+      "ui/src/data/v2/michelle-cunningham.ts:131",
+      "ui/src/data/v2/michelle-cunningham.ts:132",
+      "ui/src/data/v2/michelle-cunningham.ts:141",
+      "ui/src/data/v2/michelle-cunningham.ts:142",
+      "ui/src/data/v2/michelle-cunningham.ts:143",
+      "ui/src/data/v2/michelle-cunningham.ts:144",
+      "ui/src/data/v2/michelle-cunningham.ts:153",
+      "ui/src/data/v2/michelle-cunningham.ts:154",
+      "ui/src/data/v2/michelle-cunningham.ts:155"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00028",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"generated\": \"2026-05-20T02:11:14.689Z\",",
+    "exactEvidenceSummary": "\"generated\": \"2026-05-20T02:11:14.689Z\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l3"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00067"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:3"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00029",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:5",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"candidate_metadata\": {",
+    "exactEvidenceSummary": "\"candidate_metadata\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l5"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00069"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:5"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00030",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:7",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"name\": \"Michelle Cunningham\",",
+    "exactEvidenceSummary": "\"name\": \"Michelle Cunningham\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l7",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l11"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00071",
+      "raw-michelle-cunningham-00248"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:7",
+      "ui/src/data/v2/michelle-cunningham.ts:11"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00031",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:8",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"party\": \"NP\",",
+    "exactEvidenceSummary": "\"party\": \"NP\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l8",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l12"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00072",
+      "raw-michelle-cunningham-00249"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:8",
+      "ui/src/data/v2/michelle-cunningham.ts:12"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00038",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:17",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sources\": [",
+    "exactEvidenceSummary": "\"sources\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l17",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l120"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00081",
+      "raw-michelle-cunningham-00357"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:17",
+      "ui/src/data/v2/michelle-cunningham.ts:120"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00039",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:19",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"accessed\": \"2026-05-20\",",
+    "exactEvidenceSummary": "\"accessed\": \"2026-05-20\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l19",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l30",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l127",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l138"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00083",
+      "raw-michelle-cunningham-00094",
+      "raw-michelle-cunningham-00364",
+      "raw-michelle-cunningham-00375"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:19",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:30",
+      "ui/src/data/v2/michelle-cunningham.ts:127",
+      "ui/src/data/v2/michelle-cunningham.ts:138"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00041",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:21",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"claimsAnchored\": [",
+    "exactEvidenceSummary": "\"claimsAnchored\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l21",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l32",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l128",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l139"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00085",
+      "raw-michelle-cunningham-00096",
+      "raw-michelle-cunningham-00365",
+      "raw-michelle-cunningham-00376"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:21",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:32",
+      "ui/src/data/v2/michelle-cunningham.ts:128",
+      "ui/src/data/v2/michelle-cunningham.ts:139"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00044",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:25",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"tier\": \"primary\",",
+    "exactEvidenceSummary": "\"tier\": \"primary\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l25",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l36",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l123",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l134"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00089",
+      "raw-michelle-cunningham-00100",
+      "raw-michelle-cunningham-00360",
+      "raw-michelle-cunningham-00371"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:25",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:36",
+      "ui/src/data/v2/michelle-cunningham.ts:123",
+      "ui/src/data/v2/michelle-cunningham.ts:134"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00049",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:136",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"title\": \"Michelle Cunningham Appointment of Treasurer\",",
+    "exactEvidenceSummary": "\"title\": \"Michelle Cunningham Appointment of Treasurer\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l38",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l136"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00102",
+      "raw-michelle-cunningham-00373"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:38",
+      "ui/src/data/v2/michelle-cunningham.ts:136"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00053",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:45",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"stated\": {",
+    "exactEvidenceSummary": "\"stated\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l45",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l68",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l91",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l21",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l44",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l78"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00109",
+      "raw-michelle-cunningham-00132",
+      "raw-michelle-cunningham-00155",
+      "raw-michelle-cunningham-00258",
+      "raw-michelle-cunningham-00281",
+      "raw-michelle-cunningham-00315"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:45",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:68",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:91",
+      "ui/src/data/v2/michelle-cunningham.ts:21",
+      "ui/src/data/v2/michelle-cunningham.ts:44",
+      "ui/src/data/v2/michelle-cunningham.ts:78"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00058",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:52",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"actions\": [",
+    "exactEvidenceSummary": "\"actions\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l52",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l75",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l98",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l28",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l51",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l85"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00116",
+      "raw-michelle-cunningham-00139",
+      "raw-michelle-cunningham-00162",
+      "raw-michelle-cunningham-00265",
+      "raw-michelle-cunningham-00288",
+      "raw-michelle-cunningham-00322"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:52",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:75",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:98",
+      "ui/src/data/v2/michelle-cunningham.ts:28",
+      "ui/src/data/v2/michelle-cunningham.ts:51",
+      "ui/src/data/v2/michelle-cunningham.ts:85"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00060",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:55",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"date\": \"2026-05-20\",",
+    "exactEvidenceSummary": "\"date\": \"2026-05-20\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l55",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l78",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l101",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l31",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l54",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l88"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00119",
+      "raw-michelle-cunningham-00142",
+      "raw-michelle-cunningham-00165",
+      "raw-michelle-cunningham-00268",
+      "raw-michelle-cunningham-00291",
+      "raw-michelle-cunningham-00325"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:55",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:78",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:101",
+      "ui/src/data/v2/michelle-cunningham.ts:31",
+      "ui/src/data/v2/michelle-cunningham.ts:54",
+      "ui/src/data/v2/michelle-cunningham.ts:88"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00064",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:67",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"title\": \"Where they stand on big issues\",",
+    "exactEvidenceSummary": "\"title\": \"Where they stand on big issues\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l67",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l43"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00131",
+      "raw-michelle-cunningham-00280"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:67",
+      "ui/src/data/v2/michelle-cunningham.ts:43"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00073",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:112",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"campaign_finance\": {",
+    "exactEvidenceSummary": "\"campaign_finance\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l112"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00176"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:112"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00074",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:113",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"totalRaised\": \"Not itemized in the reviewed public records for this pass\",",
+    "exactEvidenceSummary": "\"totalRaised\": \"Not itemized in the reviewed public records for this pass\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l113",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l113"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00177",
+      "raw-michelle-cunningham-00350"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:113",
+      "ui/src/data/v2/michelle-cunningham.ts:113"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00076",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:115",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"donors\": [],",
+    "exactEvidenceSummary": "\"donors\": [],",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l115",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l115"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00179",
+      "raw-michelle-cunningham-00352"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:115",
+      "ui/src/data/v2/michelle-cunningham.ts:115"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00077",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:116",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"reportingPeriod\": \"Most recent public record reviewed\",",
+    "exactEvidenceSummary": "\"reportingPeriod\": \"Most recent public record reviewed\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l116",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l116"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00180",
+      "raw-michelle-cunningham-00353"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:116",
+      "ui/src/data/v2/michelle-cunningham.ts:116"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00079",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:122",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"editorial_notes\": [",
+    "exactEvidenceSummary": "\"editorial_notes\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l122"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00186"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:122"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00085",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:211",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "level: \"State\",",
+    "exactEvidenceSummary": "level: \"State\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l211"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00196"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:211"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00086",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:212",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "date: \"2026-11-03\",",
+    "exactEvidenceSummary": "date: \"2026-11-03\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l212"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00197"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:212"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00088",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:214",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "seats: 1,",
+    "exactEvidenceSummary": "seats: 1,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l214"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00199"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:214"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00089",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:215",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "status: \"N/A\",",
+    "exactEvidenceSummary": "status: \"N/A\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l215",
+      "mem-ui-src-data-elections-ts-l234"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00200",
+      "raw-michelle-cunningham-00219"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:215",
+      "ui/src/data/elections.ts:234"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00090",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:216",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateCount: 2,",
+    "exactEvidenceSummary": "candidateCount: 2,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l216"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00201"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:216"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00091",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:217",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateSlugs: [\"michelle-cunningham\", \"lorie-wood\"],",
+    "exactEvidenceSummary": "candidateSlugs: [\"michelle-cunningham\", \"lorie-wood\"],",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l217"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00202"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:217"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00092",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:218",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "description:",
+    "exactEvidenceSummary": "description:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l218",
+      "mem-ui-src-data-elections-ts-l244"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00203",
+      "raw-michelle-cunningham-00229"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:218",
+      "ui/src/data/elections.ts:244"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00094",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:220",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "plainEnglish:",
+    "exactEvidenceSummary": "plainEnglish:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l220",
+      "mem-ui-src-data-elections-ts-l246"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00205",
+      "raw-michelle-cunningham-00231"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:220",
+      "ui/src/data/elections.ts:246"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00096",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:222",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "whyItMatters:",
+    "exactEvidenceSummary": "whyItMatters:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l222",
+      "mem-ui-src-data-elections-ts-l248"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00207",
+      "raw-michelle-cunningham-00233"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:222",
+      "ui/src/data/elections.ts:248"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00098",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:224",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "jobDescription:",
+    "exactEvidenceSummary": "jobDescription:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l224",
+      "mem-ui-src-data-elections-ts-l250"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00209",
+      "raw-michelle-cunningham-00235"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:224",
+      "ui/src/data/elections.ts:250"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00103",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:231",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "date: \"2027-11-02\",",
+    "exactEvidenceSummary": "date: \"2027-11-02\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l231"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00216"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:231"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00105",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:233",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "seats: 6,",
+    "exactEvidenceSummary": "seats: 6,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l233"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00218"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:233"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00106",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:235",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateCount: 6,",
+    "exactEvidenceSummary": "candidateCount: 6,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l235"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00220"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:235"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00107",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:236",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateSlugs: [",
+    "exactEvidenceSummary": "candidateSlugs: [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l236"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00221"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:236"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00109",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:238",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"alaina-cunningham\",",
+    "exactEvidenceSummary": "\"alaina-cunningham\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l238"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00223"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:238"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00119",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+    "exactEvidenceSummary": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l1"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00240"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:1"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00120",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:2",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "To refresh:",
+    "exactEvidenceSummary": "* To refresh:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l2"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00241"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:2"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00121",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "node scripts/hydrate-v2-social-signals.mjs",
+    "exactEvidenceSummary": "* node scripts/hydrate-v2-social-signals.mjs",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l3"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00242"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:3"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00122",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:6",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+    "exactEvidenceSummary": "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l6"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00244"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:6"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00123",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:7",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "import { validateCandidateV2 } from \"@/data/types-v2\";",
+    "exactEvidenceSummary": "import { validateCandidateV2 } from \"@/data/types-v2\";",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l7"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00245"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:7"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00124",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:9",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "export const MICHELLE_CUNNINGHAM_V2: CandidateFullV2 = {",
+    "exactEvidenceSummary": "export const MICHELLE_CUNNINGHAM_V2: CandidateFullV2 = {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l9"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00246"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:9"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00126",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:65",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "campaign statement",
+    "issueMappedTo": [],
+    "claim": "\"platform\": \"Public web\",",
+    "exactEvidenceSummary": "\"platform\": \"Public web\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l65",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l99"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00302",
+      "raw-michelle-cunningham-00336"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:65",
+      "ui/src/data/v2/michelle-cunningham.ts:99"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00128",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:67",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"observedAt\": \"2026-05-19\",",
+    "exactEvidenceSummary": "\"observedAt\": \"2026-05-19\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l67",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l101"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00304",
+      "raw-michelle-cunningham-00338"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:67",
+      "ui/src/data/v2/michelle-cunningham.ts:101"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00129",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:71",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"mappedToIssueId\": \"i-public-issue-record\"",
+    "exactEvidenceSummary": "\"mappedToIssueId\": \"i-public-issue-record\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l71"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00308"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:71"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00132",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:112",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"campaignFinance\": {",
+    "exactEvidenceSummary": "\"campaignFinance\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l112"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00349"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:112"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00134",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:146",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "if (process.env.NODE_ENV !== \"production\") {",
+    "exactEvidenceSummary": "if (process.env.NODE_ENV !== \"production\") {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l146"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00382"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:146"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00135",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:147",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "const result = validateCandidateV2(MICHELLE_CUNNINGHAM_V2);",
+    "exactEvidenceSummary": "const result = validateCandidateV2(MICHELLE_CUNNINGHAM_V2);",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l147"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00383"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:147"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00136",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:148",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "if (!result.ok) {",
+    "exactEvidenceSummary": "if (!result.ok) {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l148"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00384"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:148"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00137",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:149",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "// eslint-disable-next-line no-console",
+    "exactEvidenceSummary": "// eslint-disable-next-line no-console",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l149"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00385"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:149"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00138",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:150",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "console.error(",
+    "exactEvidenceSummary": "console.error(",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l150"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00386"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:150"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00139",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:151",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"[michelle-cunningham.ts] validateCandidateV2 FAILED:\\n\" +",
+    "exactEvidenceSummary": "\"[michelle-cunningham.ts] validateCandidateV2 FAILED:\\n\" +",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l151"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00387"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:151"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00140",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:152",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "result.errors.join(\"\\n\"),",
+    "exactEvidenceSummary": "result.errors.join(\"\\n\"),",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l152"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00388"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:152"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00008",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:13",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      3,
+      13
+    ],
+    "claim": "Position: Kansas State Board of Education District 5 campaign-finance account holder",
+    "exactEvidenceSummary": "- Position: Kansas State Board of Education District 5 campaign-finance account holder",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l13",
+      "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l13",
+      "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l13",
+      "mem-memory-candidates-michelle-cunningham-social-harvest-md-l13",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l9",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l13"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00008",
+      "raw-michelle-cunningham-00024",
+      "raw-michelle-cunningham-00040",
+      "raw-michelle-cunningham-00056",
+      "raw-michelle-cunningham-00073",
+      "raw-michelle-cunningham-00250"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/in-their-own-words.md:13",
+      "memory/candidates/michelle-cunningham/raw-dump-v2.md:13",
+      "memory/candidates/michelle-cunningham/sleuth-pass.md:13",
+      "memory/candidates/michelle-cunningham/social-harvest.md:13",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:9",
+      "ui/src/data/v2/michelle-cunningham.ts:13"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00009",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:14",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      3,
+      10,
+      13
+    ],
+    "claim": "Election grouping: sboe-district-5",
+    "exactEvidenceSummary": "- Election grouping: sboe-district-5",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l14",
+      "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l14",
+      "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l14",
+      "mem-memory-candidates-michelle-cunningham-social-harvest-md-l14"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00009",
+      "raw-michelle-cunningham-00025",
+      "raw-michelle-cunningham-00041",
+      "raw-michelle-cunningham-00057"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/in-their-own-words.md:14",
+      "memory/candidates/michelle-cunningham/raw-dump-v2.md:14",
+      "memory/candidates/michelle-cunningham/sleuth-pass.md:14",
+      "memory/candidates/michelle-cunningham/social-harvest.md:14"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00003",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:4",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Agent: codex candidate-completeness generator",
+    "exactEvidenceSummary": "Agent: codex candidate-completeness generator",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l4",
+      "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l4",
+      "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l4",
+      "mem-memory-candidates-michelle-cunningham-social-harvest-md-l4",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l4"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00003",
+      "raw-michelle-cunningham-00019",
+      "raw-michelle-cunningham-00035",
+      "raw-michelle-cunningham-00051",
+      "raw-michelle-cunningham-00068"
+    ],
+    "duplicateCount": 5,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/in-their-own-words.md:4",
+      "memory/candidates/michelle-cunningham/raw-dump-v2.md:4",
+      "memory/candidates/michelle-cunningham/sleuth-pass.md:4",
+      "memory/candidates/michelle-cunningham/social-harvest.md:4",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:4"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00024",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:15",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Incumbent: no",
+    "exactEvidenceSummary": "- Incumbent: no",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-social-harvest-md-l15"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00058"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/social-harvest.md:15"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00026",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:23",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Source handling",
+    "exactEvidenceSummary": "## Source handling",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-social-harvest-md-l23"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00063"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/social-harvest.md:23"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00043",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:24",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      3,
+      13
+    ],
+    "claim": "\"id\": \"s-kpdc-sboe-index\",",
+    "exactEvidenceSummary": "\"id\": \"s-kpdc-sboe-index\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l24",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l122"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00088",
+      "raw-michelle-cunningham-00359"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:24",
+      "ui/src/data/v2/michelle-cunningham.ts:122"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00010",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/in-their-own-words.md:15",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Incumbent: no",
+    "exactEvidenceSummary": "- Incumbent: no",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l15",
+      "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l15",
+      "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l15"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00010",
+      "raw-michelle-cunningham-00026",
+      "raw-michelle-cunningham-00042"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/in-their-own-words.md:15",
+      "memory/candidates/michelle-cunningham/raw-dump-v2.md:15",
+      "memory/candidates/michelle-cunningham/sleuth-pass.md:15"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00051",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:43",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"id\": \"i-ballot-status\",",
+    "exactEvidenceSummary": "\"id\": \"i-ballot-status\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l43",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l19"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00107",
+      "raw-michelle-cunningham-00256"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:43",
+      "ui/src/data/v2/michelle-cunningham.ts:19"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00048",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:35",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"s-kpdc-at\",",
+    "exactEvidenceSummary": "\"id\": \"s-kpdc-at\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l35",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l133"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00099",
+      "raw-michelle-cunningham-00370"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:35",
+      "ui/src/data/v2/michelle-cunningham.ts:133"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00068",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:89",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"i-donor-funding\",",
+    "exactEvidenceSummary": "\"id\": \"i-donor-funding\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l89",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l76"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00153",
+      "raw-michelle-cunningham-00313"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:89",
+      "ui/src/data/v2/michelle-cunningham.ts:76"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00015",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/in-their-own-words.md:23",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Source handling",
+    "exactEvidenceSummary": "## Source handling",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l23",
+      "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l23",
+      "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l23"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00015",
+      "raw-michelle-cunningham-00031",
+      "raw-michelle-cunningham-00047"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/in-their-own-words.md:23",
+      "memory/candidates/michelle-cunningham/raw-dump-v2.md:23",
+      "memory/candidates/michelle-cunningham/sleuth-pass.md:23"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00050",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:41",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"issues\": [",
+    "exactEvidenceSummary": "\"issues\": [",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l41",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l17"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00105",
+      "raw-michelle-cunningham-00254"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:41",
+      "ui/src/data/v2/michelle-cunningham.ts:17"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00055",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:47",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sourceIds\": [",
+    "exactEvidenceSummary": "\"sourceIds\": [",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l47",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l57",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l70",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l80",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l93",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l103",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l118",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l23",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l33",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l46",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l56",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l68",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l80",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l90",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l102"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00111",
+      "raw-michelle-cunningham-00121",
+      "raw-michelle-cunningham-00134",
+      "raw-michelle-cunningham-00144",
+      "raw-michelle-cunningham-00157",
+      "raw-michelle-cunningham-00167",
+      "raw-michelle-cunningham-00182",
+      "raw-michelle-cunningham-00260",
+      "raw-michelle-cunningham-00270",
+      "raw-michelle-cunningham-00283",
+      "raw-michelle-cunningham-00293",
+      "raw-michelle-cunningham-00305",
+      "raw-michelle-cunningham-00317",
+      "raw-michelle-cunningham-00327",
+      "raw-michelle-cunningham-00339"
+    ],
+    "duplicateCount": 15,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:47",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:57",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:70",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:80",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:93",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:103",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:118",
+      "ui/src/data/v2/michelle-cunningham.ts:23",
+      "ui/src/data/v2/michelle-cunningham.ts:33",
+      "ui/src/data/v2/michelle-cunningham.ts:46",
+      "ui/src/data/v2/michelle-cunningham.ts:56",
+      "ui/src/data/v2/michelle-cunningham.ts:68",
+      "ui/src/data/v2/michelle-cunningham.ts:80",
+      "ui/src/data/v2/michelle-cunningham.ts:90",
+      "ui/src/data/v2/michelle-cunningham.ts:102"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00059",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:54",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-record-appearance\",",
+    "exactEvidenceSummary": "\"id\": \"a-record-appearance\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l54",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l30"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00118",
+      "raw-michelle-cunningham-00267"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:54",
+      "ui/src/data/v2/michelle-cunningham.ts:30"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00062",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:63",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"socialSignals\": []",
+    "exactEvidenceSummary": "\"socialSignals\": []",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l63",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l86",
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l109",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l39",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l62",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l96"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00127",
+      "raw-michelle-cunningham-00150",
+      "raw-michelle-cunningham-00173",
+      "raw-michelle-cunningham-00276",
+      "raw-michelle-cunningham-00299",
+      "raw-michelle-cunningham-00333"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:63",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:86",
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:109",
+      "ui/src/data/v2/michelle-cunningham.ts:39",
+      "ui/src/data/v2/michelle-cunningham.ts:62",
+      "ui/src/data/v2/michelle-cunningham.ts:96"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00063",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:66",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"i-public-issue-record\",",
+    "exactEvidenceSummary": "\"id\": \"i-public-issue-record\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l66",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l42"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00130",
+      "raw-michelle-cunningham-00279"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:66",
+      "ui/src/data/v2/michelle-cunningham.ts:42"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00066",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:77",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "campaign statement",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-platform-gap\",",
+    "exactEvidenceSummary": "\"id\": \"a-platform-gap\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l77",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l53"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00141",
+      "raw-michelle-cunningham-00290"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:77",
+      "ui/src/data/v2/michelle-cunningham.ts:53"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00071",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:100",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-finance-record\",",
+    "exactEvidenceSummary": "\"id\": \"a-finance-record\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l100",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l87"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00164",
+      "raw-michelle-cunningham-00324"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/michelle-cunningham/v2-issues.yaml:100",
+      "ui/src/data/v2/michelle-cunningham.ts:87"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00108",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:237",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"mason-ruder\",",
+    "exactEvidenceSummary": "\"mason-ruder\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l237"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00222"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:237"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00110",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:239",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"shaun-musil\",",
+    "exactEvidenceSummary": "\"shaun-musil\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l239"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00224"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:239"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00111",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:240",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sandy-jacobs\",",
+    "exactEvidenceSummary": "\"sandy-jacobs\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l240"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00225"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:240"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00112",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:241",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"david-vilaysing\",",
+    "exactEvidenceSummary": "\"david-vilaysing\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l241"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00226"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:241"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00113",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/elections.ts:242",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"toby-dougherty\",",
+    "exactEvidenceSummary": "\"toby-dougherty\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l242"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00227"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:242"
+    ]
+  },
+  {
+    "id": "em-michelle-cunningham-00125",
+    "candidateSlug": "michelle-cunningham",
+    "candidateName": "Michelle Cunningham",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:64",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"ss-crossref-1\",",
+    "exactEvidenceSummary": "\"id\": \"ss-crossref-1\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l64",
+      "mem-ui-src-data-v2-michelle-cunningham-ts-l98"
+    ],
+    "rawRowIds": [
+      "raw-michelle-cunningham-00301",
+      "raw-michelle-cunningham-00335"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/michelle-cunningham.ts:64",
+      "ui/src/data/v2/michelle-cunningham.ts:98"
+    ]
+  }
+]

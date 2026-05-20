@@ -1,0 +1,1164 @@
+{
+  "candidateSlug": "steven-johnson",
+  "generated": "2026-05-20T18:46:44Z",
+  "issueCount": 14,
+  "issues": [
+    {
+      "issueNumber": 1,
+      "title": "Abortion / life",
+      "summary": "No relevant public evidence was found for Abortion / life after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 2,
+      "title": "LGBT / gender / parental rights",
+      "summary": "No relevant public evidence was found for LGBT / gender / parental rights after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 3,
+      "title": "Education / curriculum / schools",
+      "summary": "Education / curriculum / schools: 2 selected evidence items from 2 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-steven-johnson-00150",
+          "classification": "documented-record",
+          "text": "State Board of Education (District 5)",
+          "sourceIds": [
+            "mem-memory-elections-2026-11-03-ks-statewide-offices-md-l32"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/elections/2026-11-03-ks-statewide-offices.md:32",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00204",
+          "classification": "background-context",
+          "text": "\"The state treasurer oversees state cash management, debt, public deposits, unclaimed property, and college-savings programs that affect Kansas taxpayers and families.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l166"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:166",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 2,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 4,
+      "title": "Religious liberty / church / civic morality",
+      "summary": "Religious liberty / church / civic morality: 4 selected evidence items from 4 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-steven-johnson-00013",
+          "classification": "social-online-signal",
+          "text": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-in-their-own-words-md-l20",
+            "mem-memory-candidates-steven-johnson-raw-dump-v2-md-l20",
+            "mem-memory-candidates-steven-johnson-sleuth-pass-md-l20",
+            "mem-memory-candidates-steven-johnson-social-harvest-md-l20"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/social-harvest.md:20",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00072",
+          "classification": "faith-community-record",
+          "text": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l81",
+            "mem-ui-src-data-v2-steven-johnson-ts-l44"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:81",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00090",
+          "classification": "faith-community-record",
+          "text": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l131"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:131",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00229",
+          "classification": "faith-community-record",
+          "text": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+          "sourceIds": [
+            "mem-ui-src-data-v2-steven-johnson-ts-l63"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/steven-johnson.ts:63",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-steven-johnson-0001",
+          "evidenceRowId": "em-steven-johnson-00013",
+          "platform": "Public web / internal harvest",
+          "actionType": "follow",
+          "signalStrength": "weak",
+          "observation": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-steven-johnson-0012",
+          "evidenceRowId": "em-steven-johnson-00072",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-steven-johnson-0013",
+          "evidenceRowId": "em-steven-johnson-00090",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-steven-johnson-0014",
+          "evidenceRowId": "em-steven-johnson-00229",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 1,
+        "internalMemory": 3,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 5,
+      "title": "Taxes / spending / debt",
+      "summary": "Taxes / spending / debt: 2 selected evidence items from 2 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-steven-johnson-00204",
+          "classification": "background-context",
+          "text": "\"The state treasurer oversees state cash management, debt, public deposits, unclaimed property, and college-savings programs that affect Kansas taxpayers and families.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l166"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:166",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00206",
+          "classification": "background-context",
+          "text": "\"The Kansas State Treasurer manages the state's money functions: cash management, public deposits, debt-related work, unclaimed property, and several public savings programs. The office is less flashy than governor or attorney general, but it affects how public funds are handled and how Kansans recover property or use state-backed savings programs.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l168"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:168",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 2,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 6,
+      "title": "Economy / jobs / labor",
+      "summary": "Economy / jobs / labor: 1 selected evidence items from 1 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-steven-johnson-00215",
+          "classification": "background-context",
+          "text": "\"The insurance commissioner regulates every insurance company doing business in Kansas. They approve or reject the rates you pay for health, auto, home, and crop insurance, investigate complaints when companies deny claims, and decide whether insurers are treating customers fairly. If your insurance premiums go up or a claim gets denied, this office is the one with the power to do something about it.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l187"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:187",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 1,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 7,
+      "title": "Guns / Second Amendment",
+      "summary": "No relevant public evidence was found for Guns / Second Amendment after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 8,
+      "title": "Immigration / border",
+      "summary": "No relevant public evidence was found for Immigration / border after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 9,
+      "title": "Health care / insurance / Medicaid",
+      "summary": "Health care / insurance / Medicaid: 5 selected evidence items from 5 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-steven-johnson-00145",
+          "classification": "background-context",
+          "text": "Insurance Commissioner",
+          "sourceIds": [
+            "mem-memory-elections-2026-11-03-ks-statewide-offices-md-l25"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/elections/2026-11-03-ks-statewide-offices.md:25",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00207",
+          "classification": "background-context",
+          "text": "slug: \"kansas-insurance-2026\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l171"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:171",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00208",
+          "classification": "background-context",
+          "text": "name: \"Kansas Insurance Commissioner\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l172"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:172",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00214",
+          "classification": "background-context",
+          "text": "\"Insurance decisions affect what Kansans pay for health, auto, crop, and home coverage, and whether regulators push back when companies fail consumers.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l185"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:185",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00215",
+          "classification": "background-context",
+          "text": "\"The insurance commissioner regulates every insurance company doing business in Kansas. They approve or reject the rates you pay for health, auto, home, and crop insurance, investigate complaints when companies deny claims, and decide whether insurers are treating customers fairly. If your insurance premiums go up or a claim gets denied, this office is the one with the power to do something about it.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l187"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:187",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 5,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 10,
+      "title": "Election integrity / voting / courts",
+      "summary": "Election integrity / voting / courts: 14 selected evidence items from 61 mapped rows. Public URL-backed rows: 7.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-steven-johnson-00053",
+          "classification": "documented-record",
+          "text": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW05SJ_202601.pdf\",",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l40",
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l51",
+            "mem-ui-src-data-v2-steven-johnson-ts-l122",
+            "mem-ui-src-data-v2-steven-johnson-ts-l134"
+          ],
+          "sourceUrl": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW05SJ_202601.pdf",
+          "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:51",
+          "confidence": "confirmed",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00111",
+          "classification": "documented-record",
+          "text": "https://ballotpedia.org/Kansas_Treasurer_election,_2026 -- Election overview -- accessed 2026-03-30",
+          "sourceIds": [
+            "mem-memory-elections-2026-11-03-kansas-treasurer-md-l29"
+          ],
+          "sourceUrl": "https://ballotpedia.org/Kansas_Treasurer_election,_2026",
+          "sourceFile": "memory/elections/2026-11-03-kansas-treasurer.md:29",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00174",
+          "classification": "documented-record",
+          "text": "[Ballotpedia: KS Governor 2026](https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026)",
+          "sourceIds": [
+            "mem-reports-hays-kansas-election-finder-2026-03-30-md-l210"
+          ],
+          "sourceUrl": "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026",
+          "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:210",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00175",
+          "classification": "documented-record",
+          "text": "[Wikipedia: 2026 KS Gubernatorial](https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election)",
+          "sourceIds": [
+            "mem-reports-hays-kansas-election-finder-2026-03-30-md-l211"
+          ],
+          "sourceUrl": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
+          "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:211",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00188",
+          "classification": "documented-record",
+          "text": "[Ballotpedia: KS 2026 Ballot Measures](https://ballotpedia.org/Kansas_2026_ballot_measures)",
+          "sourceIds": [
+            "mem-reports-hays-kansas-election-finder-2026-03-30-md-l232"
+          ],
+          "sourceUrl": "https://ballotpedia.org/Kansas_2026_ballot_measures",
+          "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:232",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00189",
+          "classification": "documented-record",
+          "text": "[Ballotpedia: Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))",
+          "sourceIds": [
+            "mem-reports-hays-kansas-election-finder-2026-03-30-md-l233"
+          ],
+          "sourceUrl": "https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026",
+          "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:233",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00190",
+          "classification": "documented-record",
+          "text": "[Vote No Kansas 2026](https://www.votenokansas.org/)",
+          "sourceIds": [
+            "mem-reports-hays-kansas-election-finder-2026-03-30-md-l234"
+          ],
+          "sourceUrl": "https://www.votenokansas.org/",
+          "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:234",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00033",
+          "classification": "documented-record",
+          "text": "\"incumbent\": true,",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l11",
+            "mem-ui-src-data-v2-steven-johnson-ts-l15"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:11",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00037",
+          "classification": "donor-organization-signal",
+          "text": "\"recordSummary\": \"The record captured in this pass confirms filed status through a statewide filing mirror and a campaign-finance account through KPDC. A deeper office-record pass should connect his treasurer work to specific official actions before expanding beyond filing and finance.\",",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l15",
+            "mem-ui-src-data-v2-steven-johnson-ts-l97"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:15",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00077",
+          "classification": "donor-organization-signal",
+          "text": "\"text\": \"KPDC reports for Johnson include a 202601 receipts-and-expenditures filing.\",",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l102",
+            "mem-ui-src-data-v2-steven-johnson-ts-l76"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:102",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00202",
+          "classification": "donor-organization-signal",
+          "text": "\"The treasurer race was missing from the site. It now includes the confirmed statewide filing row for incumbent Steven Johnson and the KPDC account record for Eric Lund, with final ballot status still subject to official post-deadline verification.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l164"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:164",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00005",
+          "classification": "social-online-signal",
+          "text": "This artifact was created because the candidate-completeness audit found Steven Johnson in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-in-their-own-words-md-l8",
+            "mem-memory-candidates-steven-johnson-raw-dump-v2-md-l8",
+            "mem-memory-candidates-steven-johnson-sleuth-pass-md-l8",
+            "mem-memory-candidates-steven-johnson-social-harvest-md-l8"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/social-harvest.md:8",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00012",
+          "classification": "social-online-signal",
+          "text": "Ballot / filing status: Steven Johnson appears in the reviewed official or campaign-finance records connected to Kansas State Treasurer candidate. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the filing deadline.",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-in-their-own-words-md-l19",
+            "mem-memory-candidates-steven-johnson-raw-dump-v2-md-l19",
+            "mem-memory-candidates-steven-johnson-sleuth-pass-md-l19",
+            "mem-memory-candidates-steven-johnson-social-harvest-md-l19"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/social-harvest.md:19",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00014",
+          "classification": "social-online-signal",
+          "text": "Donor / funding information: KPDC reports for Johnson include a 202601 receipts-and-expenditures filing.",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-in-their-own-words-md-l21",
+            "mem-memory-candidates-steven-johnson-raw-dump-v2-md-l21",
+            "mem-memory-candidates-steven-johnson-sleuth-pass-md-l21",
+            "mem-memory-candidates-steven-johnson-social-harvest-md-l21"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/social-harvest.md:21",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-steven-johnson-0002",
+          "evidenceRowId": "em-steven-johnson-00005",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "This artifact was created because the candidate-completeness audit found Steven Johnson in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-steven-johnson-0003",
+          "evidenceRowId": "em-steven-johnson-00012",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Ballot / filing status: Steven Johnson appears in the reviewed official or campaign-finance records connected to Kansas State Treasurer candidate. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the filing deadline.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-steven-johnson-0004",
+          "evidenceRowId": "em-steven-johnson-00014",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Donor / funding information: KPDC reports for Johnson include a 202601 receipts-and-expenditures filing.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-steven-johnson-0015",
+          "evidenceRowId": "em-steven-johnson-00038",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-steven-johnson-0016",
+          "evidenceRowId": "em-steven-johnson-00074",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-steven-johnson-0017",
+          "evidenceRowId": "em-steven-johnson-00233",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 1,
+        "secondary": 6,
+        "social": 3,
+        "internalMemory": 51,
+        "publicUrlRows": 7
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 11,
+      "title": "Public safety / law enforcement / criminal justice",
+      "summary": "Public safety / law enforcement / criminal justice: 5 selected evidence items from 5 mapped rows. Public URL-backed rows: 2.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-steven-johnson-00053",
+          "classification": "documented-record",
+          "text": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW05SJ_202601.pdf\",",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l40",
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l51",
+            "mem-ui-src-data-v2-steven-johnson-ts-l122",
+            "mem-ui-src-data-v2-steven-johnson-ts-l134"
+          ],
+          "sourceUrl": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW05SJ_202601.pdf",
+          "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:51",
+          "confidence": "confirmed",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00189",
+          "classification": "documented-record",
+          "text": "[Ballotpedia: Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))",
+          "sourceIds": [
+            "mem-reports-hays-kansas-election-finder-2026-03-30-md-l233"
+          ],
+          "sourceUrl": "https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026",
+          "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:233",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00178",
+          "classification": "documented-record",
+          "text": "Kansas Elections for Supreme Court Justices Amendment",
+          "sourceIds": [
+            "mem-reports-hays-kansas-election-finder-2026-03-30-md-l218"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:218",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00179",
+          "classification": "documented-record",
+          "text": "Would provide for direct election of Kansas Supreme Court justices by voters",
+          "sourceIds": [
+            "mem-reports-hays-kansas-election-finder-2026-03-30-md-l219"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:219",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00180",
+          "classification": "documented-record",
+          "text": "Would abolish the existing Kansas Supreme Court Nominating Commission",
+          "sourceIds": [
+            "mem-reports-hays-kansas-election-finder-2026-03-30-md-l220"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:220",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 1,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 3,
+        "publicUrlRows": 2
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 12,
+      "title": "Agriculture / rural economy / water",
+      "summary": "Agriculture / rural economy / water: 2 selected evidence items from 2 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-steven-johnson-00214",
+          "classification": "background-context",
+          "text": "\"Insurance decisions affect what Kansans pay for health, auto, crop, and home coverage, and whether regulators push back when companies fail consumers.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l185"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:185",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00215",
+          "classification": "background-context",
+          "text": "\"The insurance commissioner regulates every insurance company doing business in Kansas. They approve or reject the rates you pay for health, auto, home, and crop insurance, investigate complaints when companies deny claims, and decide whether insurers are treating customers fairly. If your insurance premiums go up or a claim gets denied, this office is the one with the power to do something about it.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l187"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:187",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 2,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 13,
+      "title": "Local governance / transparency / ethics",
+      "summary": "Local governance / transparency / ethics: 23 selected evidence items from 72 mapped rows. Public URL-backed rows: 5.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-steven-johnson-00111",
+          "classification": "documented-record",
+          "text": "https://ballotpedia.org/Kansas_Treasurer_election,_2026 -- Election overview -- accessed 2026-03-30",
+          "sourceIds": [
+            "mem-memory-elections-2026-11-03-kansas-treasurer-md-l29"
+          ],
+          "sourceUrl": "https://ballotpedia.org/Kansas_Treasurer_election,_2026",
+          "sourceFile": "memory/elections/2026-11-03-kansas-treasurer.md:29",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00174",
+          "classification": "documented-record",
+          "text": "[Ballotpedia: KS Governor 2026](https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026)",
+          "sourceIds": [
+            "mem-reports-hays-kansas-election-finder-2026-03-30-md-l210"
+          ],
+          "sourceUrl": "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026",
+          "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:210",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00175",
+          "classification": "documented-record",
+          "text": "[Wikipedia: 2026 KS Gubernatorial](https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election)",
+          "sourceIds": [
+            "mem-reports-hays-kansas-election-finder-2026-03-30-md-l211"
+          ],
+          "sourceUrl": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
+          "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:211",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00188",
+          "classification": "documented-record",
+          "text": "[Ballotpedia: KS 2026 Ballot Measures](https://ballotpedia.org/Kansas_2026_ballot_measures)",
+          "sourceIds": [
+            "mem-reports-hays-kansas-election-finder-2026-03-30-md-l232"
+          ],
+          "sourceUrl": "https://ballotpedia.org/Kansas_2026_ballot_measures",
+          "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:232",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00190",
+          "classification": "documented-record",
+          "text": "[Vote No Kansas 2026](https://www.votenokansas.org/)",
+          "sourceIds": [
+            "mem-reports-hays-kansas-election-finder-2026-03-30-md-l234"
+          ],
+          "sourceUrl": "https://www.votenokansas.org/",
+          "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:234",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00033",
+          "classification": "documented-record",
+          "text": "\"incumbent\": true,",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l11",
+            "mem-ui-src-data-v2-steven-johnson-ts-l15"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:11",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00036",
+          "classification": "documented-record",
+          "text": "\"whoTheyAre\": \"Steven Johnson is the incumbent Kansas State Treasurer and is listed in current statewide filing material as a Republican candidate for State Treasurer.\",",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l14",
+            "mem-ui-src-data-v2-steven-johnson-ts-l96"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:14",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00038",
+          "classification": "documented-record",
+          "text": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l16"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:16",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00037",
+          "classification": "donor-organization-signal",
+          "text": "\"recordSummary\": \"The record captured in this pass confirms filed status through a statewide filing mirror and a campaign-finance account through KPDC. A deeper office-record pass should connect his treasurer work to specific official actions before expanding beyond filing and finance.\",",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l15",
+            "mem-ui-src-data-v2-steven-johnson-ts-l97"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:15",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00049",
+          "classification": "donor-organization-signal",
+          "text": "\"publisher\": \"Kansas Governmental Ethics Commission / KPDC\",",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l33",
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l45",
+            "mem-ui-src-data-v2-steven-johnson-ts-l124",
+            "mem-ui-src-data-v2-steven-johnson-ts-l136"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:33",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00050",
+          "classification": "donor-organization-signal",
+          "text": "\"KPDC index lists Johnson, Steven under State Treasurer candidates\",",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l35",
+            "mem-ui-src-data-v2-steven-johnson-ts-l127"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:35",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00051",
+          "classification": "donor-organization-signal",
+          "text": "\"KPDC links 2024, 2025, and 2026 reports for Johnson\"",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l36",
+            "mem-ui-src-data-v2-steven-johnson-ts-l128"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:36",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00076",
+          "classification": "donor-organization-signal",
+          "text": "\"title\": \"Donor / funding information\",",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l100",
+            "mem-ui-src-data-v2-steven-johnson-ts-l74"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:100",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00077",
+          "classification": "donor-organization-signal",
+          "text": "\"text\": \"KPDC reports for Johnson include a 202601 receipts-and-expenditures filing.\",",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-v2-issues-yaml-l102",
+            "mem-ui-src-data-v2-steven-johnson-ts-l76"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:102",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00005",
+          "classification": "social-online-signal",
+          "text": "This artifact was created because the candidate-completeness audit found Steven Johnson in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-in-their-own-words-md-l8",
+            "mem-memory-candidates-steven-johnson-raw-dump-v2-md-l8",
+            "mem-memory-candidates-steven-johnson-sleuth-pass-md-l8",
+            "mem-memory-candidates-steven-johnson-social-harvest-md-l8"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/social-harvest.md:8",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00012",
+          "classification": "social-online-signal",
+          "text": "Ballot / filing status: Steven Johnson appears in the reviewed official or campaign-finance records connected to Kansas State Treasurer candidate. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the filing deadline.",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-in-their-own-words-md-l19",
+            "mem-memory-candidates-steven-johnson-raw-dump-v2-md-l19",
+            "mem-memory-candidates-steven-johnson-sleuth-pass-md-l19",
+            "mem-memory-candidates-steven-johnson-social-harvest-md-l19"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/social-harvest.md:19",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00014",
+          "classification": "social-online-signal",
+          "text": "Donor / funding information: KPDC reports for Johnson include a 202601 receipts-and-expenditures filing.",
+          "sourceIds": [
+            "mem-memory-candidates-steven-johnson-in-their-own-words-md-l21",
+            "mem-memory-candidates-steven-johnson-raw-dump-v2-md-l21",
+            "mem-memory-candidates-steven-johnson-sleuth-pass-md-l21",
+            "mem-memory-candidates-steven-johnson-social-harvest-md-l21"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/steven-johnson/social-harvest.md:21",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00104",
+          "classification": "background-context",
+          "text": "District/Ward: Statewide",
+          "sourceIds": [
+            "mem-memory-elections-2026-11-03-kansas-treasurer-md-l17"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/elections/2026-11-03-kansas-treasurer.md:17",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00153",
+          "classification": "background-context",
+          "text": "District: District 5 covers western Kansas including Ellis County",
+          "sourceIds": [
+            "mem-memory-elections-2026-11-03-ks-statewide-offices-md-l35"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/elections/2026-11-03-ks-statewide-offices.md:35",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00154",
+          "classification": "background-context",
+          "text": "District: Statewide (all Kansas voters)",
+          "sourceIds": [
+            "mem-memory-elections-2026-11-03-ks-statewide-offices-md-l40"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/elections/2026-11-03-ks-statewide-offices.md:40",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00206",
+          "classification": "background-context",
+          "text": "\"The Kansas State Treasurer manages the state's money functions: cash management, public deposits, debt-related work, unclaimed property, and several public savings programs. The office is less flashy than governor or attorney general, but it affects how public funds are handled and how Kansans recover property or use state-backed savings programs.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l168"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:168",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00215",
+          "classification": "background-context",
+          "text": "\"The insurance commissioner regulates every insurance company doing business in Kansas. They approve or reject the rates you pay for health, auto, home, and crop insurance, investigate complaints when companies deny claims, and decide whether insurers are treating customers fairly. If your insurance premiums go up or a claim gets denied, this office is the one with the power to do something about it.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l187"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:187",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-steven-johnson-00217",
+          "classification": "background-context",
+          "text": "name: \"KS House District 111\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l191"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:191",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-steven-johnson-0002",
+          "evidenceRowId": "em-steven-johnson-00005",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "This artifact was created because the candidate-completeness audit found Steven Johnson in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-steven-johnson-0003",
+          "evidenceRowId": "em-steven-johnson-00012",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Ballot / filing status: Steven Johnson appears in the reviewed official or campaign-finance records connected to Kansas State Treasurer candidate. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the filing deadline.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-steven-johnson-0004",
+          "evidenceRowId": "em-steven-johnson-00014",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Donor / funding information: KPDC reports for Johnson include a 202601 receipts-and-expenditures filing.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-steven-johnson-0015",
+          "evidenceRowId": "em-steven-johnson-00038",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-steven-johnson-0016",
+          "evidenceRowId": "em-steven-johnson-00074",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-steven-johnson-0017",
+          "evidenceRowId": "em-steven-johnson-00233",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 5,
+        "social": 3,
+        "internalMemory": 64,
+        "publicUrlRows": 5
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 14,
+      "title": "Environment / energy / land use",
+      "summary": "No relevant public evidence was found for Environment / energy / land use after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "vernon-ruder-jr",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/vernon-ruder-jr/in-their-own-words.md",
+    "memory/candidates/vernon-ruder-jr/raw-dump-v2.md",
+    "memory/candidates/vernon-ruder-jr/raw-dump.md",
+    "memory/candidates/vernon-ruder-jr/site-profile.md",
+    "memory/candidates/vernon-ruder-jr/sleuth-pass.md",
+    "memory/candidates/vernon-ruder-jr/social-harvest.md",
+    "memory/candidates/vernon-ruder-jr/v2-issues.yaml",
+    "reports/ellis-county-elected-officials-deep-investigation.md",
+    "reports/faith-church-investigation-2026-03-31.md",
+    "reports/hays-kansas-election-finder-2026-03-30.md",
+    "reports/mason-ruder-complete-dossier.md",
+    "reports/senate-challengers-local-officials-complete.md",
+    "reports/usd489-board-deep-investigation-2026-03-30.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/vernon-ruder-jr.ts"
+  ],
+  "files_written": [
+    "memory/candidates/vernon-ruder-jr/evidence-matrix-raw.json",
+    "memory/candidates/vernon-ruder-jr/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/vernon-ruder-jr/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/vernon-ruder-jr/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/vernon-ruder-jr/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs vernon-ruder-jr"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for vernon-ruder-jr."
+  ],
+  "handoff_summary": "Extracted 5657 raw evidence rows for vernon-ruder-jr."
+}

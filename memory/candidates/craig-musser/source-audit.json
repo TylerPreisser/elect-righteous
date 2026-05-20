@@ -1,0 +1,2873 @@
+{
+  "candidateSlug": "craig-musser",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 75,
+  "sources": [
+    {
+      "sourceId": "src-craig-musser-0001",
+      "url": "https://www.fec.gov/data/candidate/H6KS01211/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump-v2.md:36",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 6,
+      "rowIds": [
+        "em-craig-musser-00037",
+        "em-craig-musser-00093",
+        "em-craig-musser-00638",
+        "em-craig-musser-00009",
+        "em-craig-musser-00541",
+        "em-craig-musser-00549"
+      ],
+      "claimsAnchored": [
+        "Federal Election Commission, \"MUSSER, CRAIG A - Candidate overview H6KS01211,\" accessed 2026-05-19: https://www.fec.gov/data/candidate/H6KS01211/",
+        "Federal Election Commission, Candidate H6KS01211: https://www.fec.gov/data/candidate/H6KS01211/",
+        "[FEC Filing](https://www.fec.gov/data/candidate/H6KS01211/)",
+        "Musser's platform footprint is concentrated on an official campaign website and a small Facebook page. No candidate-controlled X, Instagram, YouTube, Truth Social, Gab, Gettr, Substack, Reddit, or TikTok account was found in the public searches captured for th",
+        "FEC candidate page: https://www.fec.gov/data/candidate/H6KS01211/",
+        "https://www.fec.gov/data/candidate/H6KS01211/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0002",
+      "url": "https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump-v2.md:37",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-craig-musser-00038",
+        "em-craig-musser-00200",
+        "em-craig-musser-00503",
+        "em-craig-musser-00094",
+        "em-craig-musser-00901"
+      ],
+      "claimsAnchored": [
+        "Federal Election Commission, FEC Form 2 image 202602149834322966, filed 2026-02-14, accessed 2026-05-19: https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf",
+        "Federal Election Commission, Form 2 image 202602149834322966: https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf",
+        "[FEC Form 2 Filing (PDF)](https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf)",
+        "FEC Form 2 image 202602149834322966: https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf",
+        "\"url\": \"https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0003",
+      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump-v2.md:55",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-craig-musser-00049",
+        "em-craig-musser-00201"
+      ],
+      "claimsAnchored": [
+        "Kansas Secretary of State, \"Candidate Information,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/candidate-information.html",
+        "Kansas Secretary of State, Candidate Information: https://www.sos.ks.gov/elections/candidate-information.html"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0004",
+      "url": "https://www.sos.ks.gov/elections/important-election-dates.html",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump-v2.md:56",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-craig-musser-00050",
+        "em-craig-musser-00202",
+        "em-craig-musser-00919"
+      ],
+      "claimsAnchored": [
+        "Kansas Secretary of State, \"Important Election Dates,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/important-election-dates.html",
+        "Kansas Secretary of State, Important Election Dates: https://www.sos.ks.gov/elections/important-election-dates.html",
+        "\"url\": \"https://www.sos.ks.gov/elections/important-election-dates.html\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0005",
+      "url": "https://www.fec.gov/data/candidate/H6KS01195/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:129",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-craig-musser-00295",
+        "em-craig-musser-00479",
+        "em-craig-musser-00625"
+      ],
+      "claimsAnchored": [
+        "Note: Specific fundraising totals not available from search results. Most recent FEC filing covers July 1 - December 31, 2025. Full financial data available at [fec.gov/data/candidate/H6KS01195](https://www.fec.gov/data/candidate/H6KS01195/) and [fec.gov/data/",
+        "[FEC Candidate Page - H6KS01195](https://www.fec.gov/data/candidate/H6KS01195/)",
+        "[fec.gov/data/candidate/H6KS01195](https://www.fec.gov/data/candidate/H6KS01195/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0006",
+      "url": "https://sos.ks.gov/media/press-releases/2024/05-24-24-united-kansas-recognized-as-a-political-party.html",
+      "sourceFile": "reports/KS-01-2026-challengers-investigation.md:492",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-craig-musser-00513",
+        "em-craig-musser-00051",
+        "em-craig-musser-00203",
+        "em-craig-musser-00930"
+      ],
+      "claimsAnchored": [
+        "[Kansas Secretary of State - United Kansas Recognition (May 24, 2024)](https://sos.ks.gov/media/press-releases/2024/05-24-24-united-kansas-recognized-as-a-political-party.html)",
+        "Kansas Secretary of State, \"United Kansas officially recognized as a political party,\" published 2024-05-24, accessed 2026-05-19: https://sos.ks.gov/media/press-releases/2024/05-24-24-united-kansas-recognized-as-a-political-party.html",
+        "Kansas Secretary of State, United Kansas recognition release: https://sos.ks.gov/media/press-releases/2024/05-24-24-united-kansas-recognized-as-a-political-party.html",
+        "\"url\": \"https://sos.ks.gov/media/press-releases/2024/05-24-24-united-kansas-recognized-as-a-political-party.html\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0007",
+      "url": "https://www.fec.gov/data/elections/house/KS/01/2026/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:504",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-craig-musser-00517",
+        "em-craig-musser-01109",
+        "em-craig-musser-00627",
+        "em-craig-musser-00319",
+        "em-craig-musser-00359"
+      ],
+      "claimsAnchored": [
+        "[FEC - KS-01 2026 Election Page](https://www.fec.gov/data/elections/house/KS/01/2026/)",
+        "https://www.fec.gov/data/elections/house/KS/01/2026/ -- FEC filing data -- accessed 2026-03-30",
+        "[fec.gov/data/elections/house/KS/01/2026](https://www.fec.gov/data/elections/house/KS/01/2026/)",
+        "FEC Filing Status: Campaign active; specific FEC candidate ID not confirmed in search results. Committee details available at [fec.gov/data/elections/house/KS/01/2026](https://www.fec.gov/data/elections/house/KS/01/2026/).",
+        "FEC committee details not confirmed via search results. Check [fec.gov/data/elections/house/KS/01/2026](https://www.fec.gov/data/elections/house/KS/01/2026/) for most current filings."
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0008",
+      "url": "https://api.open.fec.gov/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump-v2.md:130",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-00095"
+      ],
+      "claimsAnchored": [
+        "FEC API over-rate-limit response during current pass, accessed 2026-05-19: https://api.open.fec.gov/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0009",
+      "url": "https://www.fec.gov/data/committee/C00919860/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:454",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-craig-musser-00243",
+        "em-craig-musser-00626"
+      ],
+      "claimsAnchored": [
+        "[FEC Committee - Colin for Kansas (C00919860)](https://www.fec.gov/data/committee/C00919860/)",
+        "[fec.gov/data/committee/C00919860](https://www.fec.gov/data/committee/C00919860/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0010",
+      "url": "https://www.fec.gov/data/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:374",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-craig-musser-00436",
+        "em-craig-musser-00635"
+      ],
+      "claimsAnchored": [
+        "Check [fec.gov](https://www.fec.gov/data/) for updates",
+        "[fec.gov](https://www.fec.gov/data/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0011",
+      "url": "https://musserforuscongress.com/untitled",
+      "sourceFile": "memory/candidates/craig-musser/in-their-own-words.md:15",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding",
+        "ballot status",
+        "campaign statement",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-craig-musser-00007",
+        "em-craig-musser-00008",
+        "em-craig-musser-00006",
+        "em-craig-musser-00206",
+        "em-craig-musser-00086"
+      ],
+      "claimsAnchored": [
+        "For KS-01 district issues, Musser's local material centers on agriculture, healthcare, education, and a manufacturing-and-safety biography. Agriculture accounts for [2 of 24 candidate-controlled website statements](social-harvest.md), or 8 percent. His issues ",
+        "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The ca",
+        "On national policy, Musser's public website addresses domestic federal programs rather than foreign affairs. The issues page states, \"It’s mandatory that we maintain social security to ensure everyone who has paid in gets the income and benefits their money ha",
+        "Craig Musser campaign issues page: https://musserforuscongress.com/untitled",
+        "Craig Musser for United States Congress, \"Issues,\" accessed 2026-05-19: https://musserforuscongress.com/untitled"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0012",
+      "url": "https://business.ku.edu/people/colin-mcroberts",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:455",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-craig-musser-00480",
+        "em-craig-musser-00291",
+        "em-craig-musser-00622"
+      ],
+      "claimsAnchored": [
+        "[KU School of Business Faculty Page](https://business.ku.edu/people/colin-mcroberts)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0013",
+      "url": "https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/",
+      "sourceFile": "ui/src/data/candidates.ts:1837",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-01223"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0014",
+      "url": "https://musserforuscongress.com/",
+      "sourceFile": "memory/candidates/craig-musser/in-their-own-words.md:7",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only",
+        "background-only"
+      ],
+      "rowCount": 12,
+      "rowIds": [
+        "em-craig-musser-00003",
+        "em-craig-musser-00176",
+        "em-craig-musser-00536",
+        "em-craig-musser-00537",
+        "em-craig-musser-00568",
+        "em-craig-musser-00569",
+        "em-craig-musser-00085",
+        "em-craig-musser-00613",
+        "em-craig-musser-00637",
+        "em-craig-musser-00882",
+        "em-craig-musser-01267",
+        "em-craig-musser-00758"
+      ],
+      "claimsAnchored": [
+        "Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined [24 candidate-controlled website statements](social-harvest",
+        "Craig Musser campaign home page: https://musserforuscongress.com/",
+        "\"Kansans deserve a representative who serves them -- not donors, party bosses or Washington insiders.\" - campaign announcement, https://musserforuscongress.com/ and Hays Post, 2026 (campaign pitch)",
+        "\"Effective governance is not about ideology -- it's about listening and delivering outcomes.\" - campaign announcement, https://musserforuscongress.com/ and Great Bend Post, 2026 (governance)",
+        "\"Kansans deserve a representative who serves them -- not donors, party bosses or Washington insiders.\" - campaign announcement, https://musserforuscongress.com/ and Hays Post",
+        "\"Effective governance is not about ideology -- it's about listening and delivering outcomes.\" - campaign announcement, https://musserforuscongress.com/ and Great Bend Post",
+        "Craig Musser for United States Congress, home page, accessed 2026-05-19: https://musserforuscongress.com/",
+        "> -- Musser for U.S. Congress, accessed April 1, 2026, https://musserforuscongress.com/",
+        "[musserforuscongress.com](https://musserforuscongress.com/)",
+        "\"campaignWebsite\": \"https://musserforuscongress.com/\",",
+        "\"source\": \"Musser for U.S. Congress, accessed April 1, 2026, https://musserforuscongress.com/\",",
+        "Campaign website: [musserforuscongress.com](https://musserforuscongress.com/) — active, candidate-controlled website with home, biography, contact, issues, donation, and Facebook poll links."
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0015",
+      "url": "https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump-v2.md:70",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "legal/court",
+        "biography",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only",
+        "reject"
+      ],
+      "rowCount": 9,
+      "rowIds": [
+        "em-craig-musser-00057",
+        "em-craig-musser-00437",
+        "em-craig-musser-00538",
+        "em-craig-musser-00570",
+        "em-craig-musser-00178",
+        "em-craig-musser-00228",
+        "em-craig-musser-00615",
+        "em-craig-musser-01271",
+        "em-craig-musser-00833"
+      ],
+      "claimsAnchored": [
+        "Hays Post, \"Kansas First Congressional District has a new candidate,\" published 2026-03-24, accessed 2026-05-19: https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7",
+        "[Hays Post - \"Kansas First Congressional District has a new candidate\"](https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7)",
+        "\"The long odds are exactly why this fight is so important.\" - campaign coverage, 2026, https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7 (campaign meaning)",
+        "\"The long odds are exactly why this fight is so important.\" - campaign coverage, 2026, https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7",
+        "Hays Post announcement: https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7",
+        "https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7",
+        "> -- Hays Post, 2026, https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7",
+        "\"source\": \"Hays Post, 2026, https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0016",
+      "url": "https://greatbendpost.com/posts/d2d97c94-1d35-4fc6-a09d-3453408c580e",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump-v2.md:71",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "legal/court",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-craig-musser-00058",
+        "em-craig-musser-00438",
+        "em-craig-musser-00207"
+      ],
+      "claimsAnchored": [
+        "Great Bend Post, \"Kansas First Congressional District has a new candidate,\" published 2026-03-24, accessed 2026-05-19: https://greatbendpost.com/posts/d2d97c94-1d35-4fc6-a09d-3453408c580e",
+        "[Great Bend Post - \"Kansas First Congressional District has a new candidate\"](https://greatbendpost.com/posts/d2d97c94-1d35-4fc6-a09d-3453408c580e)",
+        "Great Bend Post announcement: https://greatbendpost.com/posts/d2d97c94-1d35-4fc6-a09d-3453408c580e"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0017",
+      "url": "https://musserforuscongress.com/meetcraig",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump-v2.md:362",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-craig-musser-00205",
+        "em-craig-musser-00073"
+      ],
+      "claimsAnchored": [
+        "Craig Musser campaign biography: https://musserforuscongress.com/meetcraig",
+        "Craig Musser for United States Congress, \"Meet Craig,\" accessed 2026-05-19: https://musserforuscongress.com/meetcraig"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0018",
+      "url": "https://colinforkansas.com/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:115",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-craig-musser-00285",
+        "em-craig-musser-00477",
+        "em-craig-musser-00616"
+      ],
+      "claimsAnchored": [
+        "Campaign Website: [colinforkansas.com](https://colinforkansas.com/)",
+        "[Colin for Kansas - Campaign Website](https://colinforkansas.com/)",
+        "[colinforkansas.com](https://colinforkansas.com/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0019",
+      "url": "https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:459",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-00303"
+      ],
+      "claimsAnchored": [
+        "[Hays Post - \"Kansas Democrats wrap up Democracy Fest in Hays\"](https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0020",
+      "url": "https://www.laurenforkansas.com",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:235",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only",
+        "reject"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-craig-musser-00353",
+        "em-craig-musser-00494",
+        "em-craig-musser-00628",
+        "em-craig-musser-01142"
+      ],
+      "claimsAnchored": [
+        "Campaign Website: [laurenforkansas.com](https://www.laurenforkansas.com)",
+        "[Lauren for Kansas - Campaign Website](https://www.laurenforkansas.com)",
+        "[laurenforkansas.com](https://www.laurenforkansas.com)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0021",
+      "url": "https://unitedkansas.com/candidates",
+      "sourceFile": "reports/KS-01-2026-challengers-investigation.md:360",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "biography",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only",
+        "background-only"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-craig-musser-00431",
+        "em-craig-musser-01138",
+        "em-craig-musser-00508",
+        "em-craig-musser-00634",
+        "em-craig-musser-00841"
+      ],
+      "claimsAnchored": [
+        "United Kansas Party: [unitedkansas.com/candidates](https://unitedkansas.com/candidates)",
+        "[United Kansas - Candidates](https://unitedkansas.com/candidates)",
+        "[unitedkansas.com/candidates](https://unitedkansas.com/candidates)",
+        "United Kansas candidates page: https://unitedkansas.com/candidates"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0022",
+      "url": "https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/",
+      "sourceFile": "reports/KS-01-2026-challengers-investigation.md:468",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-craig-musser-00495",
+        "em-craig-musser-00482",
+        "em-craig-musser-01143"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector - \"Lawrence Democrats take aim...\" (Jan 5, 2026)](https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/)",
+        "[Kansas Reflector - \"Lawrence Democrats take aim at Kansas Republican's congressional seat\" (Jan 5, 2026)](https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/)",
+        "[Kansas Reflector - Lawrence Democrats](https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0023",
+      "url": "https://www2.ljworld.com/news/state-government/2026/jan/07/lawrence-democrats-take-aim-at-manns-congressional-seat/",
+      "sourceFile": "reports/KS-01-2026-challengers-investigation.md:469",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-craig-musser-00496",
+        "em-craig-musser-00483",
+        "em-craig-musser-01144"
+      ],
+      "claimsAnchored": [
+        "[Lawrence Journal-World - \"Lawrence Democrats take aim...\" (Jan 7, 2026)](https://www2.ljworld.com/news/state-government/2026/jan/07/lawrence-democrats-take-aim-at-manns-congressional-seat/)",
+        "[Lawrence Journal-World - \"Lawrence Democrats take aim at Mann's congressional seat\" (Jan 7, 2026)](https://www2.ljworld.com/news/state-government/2026/jan/07/lawrence-democrats-take-aim-at-manns-congressional-seat/)",
+        "[Lawrence Journal-World](https://www2.ljworld.com/news/state-government/2026/jan/07/lawrence-democrats-take-aim-at-manns-congressional-seat/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0024",
+      "url": "https://www.kcnonline.com/wp/2026/01/05/two-lawrence-dems-seek-1st-district-seat/",
+      "sourceFile": "reports/KS-01-2026-challengers-investigation.md:471",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-00497"
+      ],
+      "claimsAnchored": [
+        "[KCN Online - \"Two Lawrence Dems Seek 1st District Seat\" (Jan 5, 2026)](https://www.kcnonline.com/wp/2026/01/05/two-lawrence-dems-seek-1st-district-seat/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0025",
+      "url": "https://unitedkansas.com/",
+      "sourceFile": "reports/KS-01-2026-challengers-investigation.md:485",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "donor/funding",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-craig-musser-00506",
+        "em-craig-musser-00004",
+        "em-craig-musser-00177",
+        "em-craig-musser-00413",
+        "em-craig-musser-00739"
+      ],
+      "claimsAnchored": [
+        "[United Kansas - Official Website](https://unitedkansas.com/)",
+        "Musser's visible alignment is with the United Kansas Party rather than with a Republican or Democratic campaign structure. His campaign home page links to the [United Kansas Party](https://unitedkansas.com/) and a campaign Facebook poll, and Hays Post reported",
+        "United Kansas public site: https://unitedkansas.com/",
+        "Website: [unitedkansas.com](https://unitedkansas.com/)",
+        "United Kansas Party, public site, accessed 2026-05-19: https://unitedkansas.com/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0026",
+      "url": "https://kansasreflector.com/2024/07/12/united-kansas-party-files-lawsuits-to-challenge-state-law-forbidding-multi-party-nominations/",
+      "sourceFile": "reports/KS-01-2026-challengers-investigation.md:490",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-00511"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector - \"United Kansas Party files lawsuits...\" (July 12, 2024)](https://kansasreflector.com/2024/07/12/united-kansas-party-files-lawsuits-to-challenge-state-law-forbidding-multi-party-nominations/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0027",
+      "url": "https://kansasreflector.com/briefs/united-kansas-officially-earns-spot-on-kansas-ballots-as-states-fifth-political-party/",
+      "sourceFile": "reports/KS-01-2026-challengers-investigation.md:491",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-00512"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector - \"United Kansas officially earns spot on Kansas ballots\"](https://kansasreflector.com/briefs/united-kansas-officially-earns-spot-on-kansas-ballots-as-states-fifth-political-party/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0028",
+      "url": "https://ballotpedia.org/Kansas",
+      "sourceFile": "reports/KS-01-2026-challengers-investigation.md:495",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-craig-musser-00514",
+        "em-craig-musser-00515",
+        "em-craig-musser-00516",
+        "em-craig-musser-01105",
+        "em-craig-musser-01106",
+        "em-craig-musser-01107",
+        "em-craig-musser-01147"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia - Kansas' 1st Congressional District election, 2026](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026)",
+        "[Ballotpedia - Democratic Primary](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026_(August_4_Democratic_primary))",
+        "[Ballotpedia - Republican Primary](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026_(August_4_Republican_primary))",
+        "https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026 -- Full election overview -- accessed 2026-03-30",
+        "https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026_(August_4_Republican_primary) -- GOP primary details -- accessed 2026-03-30",
+        "https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026_(August_4_Democratic_primary) -- Dem primary details -- accessed 2026-03-30",
+        "[Ballotpedia - KS-01 Democratic Primary](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026_(August_4_Democratic_primary))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0029",
+      "url": "https://www.cookpolitical.com/house/race/483106",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:505",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "endorsement"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-craig-musser-00518",
+        "em-craig-musser-01108"
+      ],
+      "claimsAnchored": [
+        "[Cook Political Report - Kansas KS-01](https://www.cookpolitical.com/house/race/483106)",
+        "https://www.cookpolitical.com/house/race/483106 -- Cook Political Report rating -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0030",
+      "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kansas",
+      "sourceFile": "reports/KS-01-2026-challengers-investigation.md:500",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-00519"
+      ],
+      "claimsAnchored": [
+        "[Wikipedia - 2026 US House elections in Kansas](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kansas)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0031",
+      "url": "https://ballotpedia.org/Craig_Musser",
+      "sourceFile": "reports/KS-01-2026-challengers-investigation.md:477",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "biography",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only",
+        "background-only"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-craig-musser-01134",
+        "em-craig-musser-00059",
+        "em-craig-musser-00208",
+        "em-craig-musser-00502",
+        "em-craig-musser-00840"
+      ],
+      "claimsAnchored": [
+        "[Craig Musser - Ballotpedia](https://ballotpedia.org/Craig_Musser)",
+        "Ballotpedia, \"Craig Musser,\" accessed 2026-05-19: https://ballotpedia.org/Craig_Musser",
+        "Ballotpedia profile: https://ballotpedia.org/Craig_Musser",
+        "Ballotpedia page: https://ballotpedia.org/Craig_Musser"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0032",
+      "url": "https://www.zoominfo.com/p/Craig-Musser/9122088966",
+      "sourceFile": "reports/KS-01-2026-challengers-investigation.md:482",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-craig-musser-01135",
+        "em-craig-musser-00505"
+      ],
+      "claimsAnchored": [
+        "[ZoomInfo - Craig Musser](https://www.zoominfo.com/p/Craig-Musser/9122088966)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0033",
+      "url": "https://unitedkansas.com/about",
+      "sourceFile": "reports/KS-01-2026-challengers-investigation.md:486",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-craig-musser-01137",
+        "em-craig-musser-00507"
+      ],
+      "claimsAnchored": [
+        "[United Kansas - About](https://unitedkansas.com/about)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0034",
+      "url": "https://en.wikipedia.org/wiki/United_Kansas",
+      "sourceFile": "reports/KS-01-2026-challengers-investigation.md:489",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-craig-musser-01139",
+        "em-craig-musser-00510"
+      ],
+      "claimsAnchored": [
+        "[Wikipedia - United Kansas](https://en.wikipedia.org/wiki/United_Kansas)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0035",
+      "url": "https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/",
+      "sourceFile": "ui/src/data/candidates.ts:1853",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-01227"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0036",
+      "url": "https://musserforuscongress.com/`",
+      "sourceFile": "memory/candidates/craig-musser/sleuth-pass.md:55",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-craig-musser-00670",
+        "em-craig-musser-00077"
+      ],
+      "claimsAnchored": [
+        "Active site found at https://musserforuscongress.com/ with pages for home, biography, contact, issues, donation, and a Facebook-linked poll.",
+        "Website found at https://musserforuscongress.com/."
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0037",
+      "url": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump-v2.md:58",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-craig-musser-00052",
+        "em-craig-musser-00204",
+        "em-craig-musser-00738"
+      ],
+      "claimsAnchored": [
+        "Kansas Secretary of State candidate list endpoint, blocked in this environment, accessed 2026-05-19: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+        "Kansas Secretary of State, candidate list endpoint blocked: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+        "Kansas Secretary of State live candidate list endpoint, blocked in this environment, accessed 2026-05-19: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0038",
+      "url": null,
+      "sourceFile": "memory/candidates/craig-musser/social-harvest.md:110",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social post",
+        "social like",
+        "public absence",
+        "social follow"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 111,
+      "rowIds": [
+        "em-craig-musser-00815",
+        "em-craig-musser-00802",
+        "em-craig-musser-00821",
+        "em-craig-musser-00822",
+        "em-craig-musser-00824",
+        "em-craig-musser-00847",
+        "em-craig-musser-00852",
+        "em-craig-musser-00785",
+        "em-craig-musser-00812",
+        "em-craig-musser-00819",
+        "em-craig-musser-00825",
+        "em-craig-musser-00826",
+        "em-craig-musser-00827",
+        "em-craig-musser-00804",
+        "em-craig-musser-00851",
+        "em-craig-musser-00807",
+        "em-craig-musser-00808",
+        "em-craig-musser-00809",
+        "em-craig-musser-00810",
+        "em-craig-musser-00811",
+        "em-craig-musser-00817",
+        "em-craig-musser-00805",
+        "em-craig-musser-00829",
+        "em-craig-musser-00830",
+        "em-craig-musser-00747",
+        "em-craig-musser-00831",
+        "em-craig-musser-00838",
+        "em-craig-musser-00839",
+        "em-craig-musser-00855",
+        "em-craig-musser-00859",
+        "em-craig-musser-00741",
+        "em-craig-musser-00742",
+        "em-craig-musser-00743",
+        "em-craig-musser-00745",
+        "em-craig-musser-00746",
+        "em-craig-musser-00749",
+        "em-craig-musser-00750",
+        "em-craig-musser-00752",
+        "em-craig-musser-00753",
+        "em-craig-musser-00754",
+        "em-craig-musser-00755",
+        "em-craig-musser-00756",
+        "em-craig-musser-00757",
+        "em-craig-musser-00759",
+        "em-craig-musser-00760",
+        "em-craig-musser-00761",
+        "em-craig-musser-00762",
+        "em-craig-musser-00763",
+        "em-craig-musser-00764",
+        "em-craig-musser-00765"
+      ],
+      "claimsAnchored": [
+        "Undated; captured 2026-05-11 — \"If elected, I intend to uphold and defend the rights of citizens to privacy and bodily autonomy by equally supporting all members of our community regardless of race, religion, sexual orientation, or gender.\"",
+        "Undated; captured 2026-05-11 — \"My family immigrated from Germany over a century ago. I grew up in Pennsylvania in a middle-class family where I went to public school and attended Church of the Brethren. My parents taught me to work hard, help others in need, ",
+        "Undated; captured 2026-05-11 — \"Pay for educators, training, and continuing education: More public funds need to be allocated to attract, educate, and continuously train quality teachers. We need to emphasize the importance of teachers and the education system",
+        "Topic: Education",
+        "Undated; captured 2026-05-11 — \"Student loans and college debt: The student loan system needs to be reformed so that students and parents aren’t required to take out high-interest loans to fund the education they need to get a job.\"",
+        "Topic distribution among the 24 candidate-controlled website statements: healthcare — 5 statements (21%); representation / biography / campaign theme — 7 statements (29%); personal freedoms and child welfare — 4 statements (17%); education — 3 statements (13%)",
+        "Across the captured campaign website, the issues page contains statements about healthcare, privacy and bodily autonomy, women, children, Social Security, education, budget and taxes, and agriculture. It does not include issue pages or posts specifically addre",
+        "Additional public metadata line from Facebook card: \"Applying Kitchen Table Economics for Pragmatic Budget Solutions\"",
+        "Undated; captured 2026-05-11 — \"Access to healthy food and physical fitness: The government should ensure citizens have access to healthy food and physical fitness. The state of Kansas and the nation should work to ensure everyone who wants to eat a healthy di",
+        "Undated; captured 2026-05-11 — \"It’s mandatory that we maintain social security to ensure everyone who has paid in gets the income and benefits their money has provided others. To do that, we must maintain a substantial and well-trained workforce, keep the fed",
+        "Undated; captured 2026-05-11 — \"Using taxes to invest in our future: President Eisenhower had the foresight to invest in our infrastructure in ways that few people understood. Several presidents and Congresses have made further investments in transportation ne",
+        "Topic: Budget and taxes"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-craig-musser-0039",
+      "url": "https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/",
+      "sourceFile": "memory/candidates/craig-musser/in-their-own-words.md:11",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social comment",
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-craig-musser-00005",
+        "em-craig-musser-00169",
+        "em-craig-musser-00740",
+        "em-craig-musser-00209",
+        "em-craig-musser-00748",
+        "em-craig-musser-00777",
+        "em-craig-musser-00782"
+      ],
+      "claimsAnchored": [
+        "Audience response is mostly unavailable because the accessible social record contains one Facebook page/post metadata item and no public post body with visible reactions, comments, shares, or views. The campaign Facebook page metadata listed \"Craig Musser for ",
+        "Facebook, \"Craig Musser for Congress,\" accessed through existing local capture and checked 2026-05-19: https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/",
+        "Facebook, \"Craig Musser for Congress,\" existing local logged-out capture 2026-05-11 and checked 2026-05-19: https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/",
+        "Facebook campaign page: https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/",
+        "Facebook: [Craig Musser for Congress](https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/) — 2 likes in public page metadata — active page detected; one linked public post/poll URL found on the campaign website.",
+        "\"url\": \"https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/\",",
+        "Page URL: https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0040",
+      "url": "https://www.linkedin.com/in/craig-musser-82880838/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump-v2.md:95",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-craig-musser-00075",
+        "em-craig-musser-00793",
+        "em-craig-musser-00430",
+        "em-craig-musser-00504",
+        "em-craig-musser-00550",
+        "em-craig-musser-00633",
+        "em-craig-musser-00751"
+      ],
+      "claimsAnchored": [
+        "LinkedIn profile URL from local research, blocked in logged-out capture: https://www.linkedin.com/in/craig-musser-82880838/",
+        "LinkedIn: Earlier local research and site-profile sources identify a public LinkedIn profile at https://www.linkedin.com/in/craig-musser-82880838/. A logged-out fetch on 2026-05-11 returned HTTP 999, so no current headline, connection count, or public activity",
+        "LinkedIn: [linkedin.com/in/craig-musser-82880838](https://www.linkedin.com/in/craig-musser-82880838/)",
+        "[LinkedIn - Craig Musser / PureField Ingredients](https://www.linkedin.com/in/craig-musser-82880838/)",
+        "https://www.linkedin.com/in/craig-musser-82880838/",
+        "[linkedin.com/in/craig-musser-82880838](https://www.linkedin.com/in/craig-musser-82880838/)",
+        "LinkedIn: [Craig Musser](https://www.linkedin.com/in/craig-musser-82880838/) — identity-check profile found in earlier research; logged-out direct fetch returned LinkedIn HTTP 999 on 2026-05-11."
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0041",
+      "url": "https://www.facebook.com/dgcodems/videos/2299093513898616/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:237",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-craig-musser-00357",
+        "em-craig-musser-00498",
+        "em-craig-musser-00630"
+      ],
+      "claimsAnchored": [
+        "Facebook Video: Spoke at Douglas County Democrats meeting about exploratory campaign ([facebook.com/dgcodems](https://www.facebook.com/dgcodems/videos/2299093513898616/))",
+        "[Douglas County Democrats Facebook - Exploratory Campaign Video](https://www.facebook.com/dgcodems/videos/2299093513898616/)",
+        "[facebook.com/dgcodems](https://www.facebook.com/dgcodems/videos/2299093513898616/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0042",
+      "url": "https://www.ratemyprofessors.com/professor/2506562",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:122",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only",
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-craig-musser-00292",
+        "em-craig-musser-00623",
+        "em-craig-musser-00492"
+      ],
+      "claimsAnchored": [
+        "Rate My Professors: [ratemyprofessors.com/professor/2506562](https://www.ratemyprofessors.com/professor/2506562)",
+        "[ratemyprofessors.com/professor/2506562](https://www.ratemyprofessors.com/professor/2506562)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0043",
+      "url": "https://skepticalinquirer.org/exclusive/a-skeptic-on-the-conspirasea-cruiseinterview-with-colin-mcroberts/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:467",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-00489"
+      ],
+      "claimsAnchored": [
+        "[Skeptical Inquirer - \"A Skeptic on the ConspiraSea Cruise\"](https://skepticalinquirer.org/exclusive/a-skeptic-on-the-conspirasea-cruiseinterview-with-colin-mcroberts/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0044",
+      "url": "https://kansaspublicradio.org/show/genres-when-experts-attack/2020-03-04/live-performance-when-experts-attack-1-colin-mcroberts",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:468",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-00490"
+      ],
+      "claimsAnchored": [
+        "[Kansas Public Radio - \"When Experts Attack: ConspiraSea Cruise\"](https://kansaspublicradio.org/show/genres-when-experts-attack/2020-03-04/live-performance-when-experts-attack-1-colin-mcroberts)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0045",
+      "url": "https://www.unitedkansas.com/",
+      "sourceFile": "memory/candidates/craig-musser/site-profile.md:117",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-00631"
+      ],
+      "claimsAnchored": [
+        "[unitedkansas.com](https://www.unitedkansas.com/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0046",
+      "url": "https://salinapost.com/posts/25bbb2eb-ae15-4419-8096-972bb919a48a",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:642",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "source-only",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-craig-musser-01145",
+        "em-craig-musser-00374"
+      ],
+      "claimsAnchored": [
+        "[Salina Post - Speaking in Salina](https://salinapost.com/posts/25bbb2eb-ae15-4419-8096-972bb919a48a)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0047",
+      "url": "https://whistleblowersblog.org/human-interest/two-powerful-women-whistleblower-pairs-to-learn-from-this-womens-history-month/",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:643",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-01146"
+      ],
+      "claimsAnchored": [
+        "[Whistleblowers Blog - Fort Bliss](https://whistleblowersblog.org/human-interest/two-powerful-women-whistleblower-pairs-to-learn-from-this-womens-history-month/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0048",
+      "url": "https://www.facebook.com/61584981264795/posts/122103466209166042/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump-v2.md:311",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-craig-musser-00170",
+        "em-craig-musser-00210"
+      ],
+      "claimsAnchored": [
+        "Campaign-linked Facebook post/poll URL: https://www.facebook.com/61584981264795/posts/122103466209166042/",
+        "Campaign-linked Facebook post/poll: https://www.facebook.com/61584981264795/posts/122103466209166042/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0049",
+      "url": "https://www.instagram.com/colinforkansas/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:116",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-craig-musser-00286",
+        "em-craig-musser-00617"
+      ],
+      "claimsAnchored": [
+        "Instagram: [@colinforkansas](https://www.instagram.com/colinforkansas/)",
+        "[@colinforkansas](https://www.instagram.com/colinforkansas/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0050",
+      "url": "https://www.facebook.com/colinforkansas",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:117",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-craig-musser-00287",
+        "em-craig-musser-00485",
+        "em-craig-musser-00618"
+      ],
+      "claimsAnchored": [
+        "Facebook: [facebook.com/colinforkansas](https://www.facebook.com/colinforkansas)",
+        "[Facebook - Colin for Kansas](https://www.facebook.com/colinforkansas)",
+        "[facebook.com/colinforkansas](https://www.facebook.com/colinforkansas)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0051",
+      "url": "https://bsky.app/profile/colinmcroberts.bsky.social",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:118",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-craig-musser-00288",
+        "em-craig-musser-00619"
+      ],
+      "claimsAnchored": [
+        "Bluesky: [@colinmcroberts.bsky.social](https://bsky.app/profile/colinmcroberts.bsky.social)",
+        "[@colinmcroberts.bsky.social](https://bsky.app/profile/colinmcroberts.bsky.social)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0052",
+      "url": "https://www.linkedin.com/in/laurenreinhold/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:236",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-craig-musser-00356",
+        "em-craig-musser-00629",
+        "em-craig-musser-00499"
+      ],
+      "claimsAnchored": [
+        "LinkedIn: [linkedin.com/in/laurenreinhold](https://www.linkedin.com/in/laurenreinhold/)",
+        "[linkedin.com/in/laurenreinhold](https://www.linkedin.com/in/laurenreinhold/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0053",
+      "url": "https://www.facebook.com/unitedksparty/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:333",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-craig-musser-00414",
+        "em-craig-musser-00509",
+        "em-craig-musser-00632"
+      ],
+      "claimsAnchored": [
+        "Facebook: [facebook.com/unitedksparty](https://www.facebook.com/unitedksparty/)",
+        "[Facebook - United Kansas Party](https://www.facebook.com/unitedksparty/)",
+        "[facebook.com/unitedksparty](https://www.facebook.com/unitedksparty/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0054",
+      "url": null,
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:391",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "donor/funding",
+        "ballot status",
+        "biography",
+        "church/worship",
+        "controversy",
+        "campaign statement",
+        "legal/court",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 231,
+      "rowIds": [
+        "em-craig-musser-00444",
+        "em-craig-musser-00471",
+        "em-craig-musser-00308",
+        "em-craig-musser-00320",
+        "em-craig-musser-00321",
+        "em-craig-musser-00331",
+        "em-craig-musser-00423",
+        "em-craig-musser-00424",
+        "em-craig-musser-00318",
+        "em-craig-musser-00539",
+        "em-craig-musser-00540",
+        "em-craig-musser-00562",
+        "em-craig-musser-00563",
+        "em-craig-musser-00581",
+        "em-craig-musser-00421",
+        "em-craig-musser-00422",
+        "em-craig-musser-00263",
+        "em-craig-musser-00325",
+        "em-craig-musser-00326",
+        "em-craig-musser-00343",
+        "em-craig-musser-00373",
+        "em-craig-musser-00273",
+        "em-craig-musser-00268",
+        "em-craig-musser-00340",
+        "em-craig-musser-00341",
+        "em-craig-musser-00342",
+        "em-craig-musser-00354",
+        "em-craig-musser-00370",
+        "em-craig-musser-00412",
+        "em-craig-musser-00527",
+        "em-craig-musser-00557",
+        "em-craig-musser-00087",
+        "em-craig-musser-00215",
+        "em-craig-musser-00218",
+        "em-craig-musser-00223",
+        "em-craig-musser-00232",
+        "em-craig-musser-00234",
+        "em-craig-musser-00241",
+        "em-craig-musser-00260",
+        "em-craig-musser-00275",
+        "em-craig-musser-00276",
+        "em-craig-musser-00277",
+        "em-craig-musser-00281",
+        "em-craig-musser-00282",
+        "em-craig-musser-00297",
+        "em-craig-musser-00298",
+        "em-craig-musser-00306",
+        "em-craig-musser-00309",
+        "em-craig-musser-00310",
+        "em-craig-musser-00327"
+      ],
+      "claimsAnchored": [
+        "Craig Musser is the most enigmatic candidate in the race. He has the strongest geographic credentials of any challenger (he actually lives in the rural heart of KS-01, in Ellinwood), and his industrial/manufacturing background is the most aligned with the dist",
+        "The 2022 Kansas abortion vote showed rural Kansans can break with the GOP on specific issues, but that hasn't translated to candidate elections",
+        "Harvard Law + conspiracy theory research: While impressive credentials, in a deep-red R+16 district, the \"elite coastal education + studying conspiracy theories\" combination could be weaponized in attack ads.",
+        "J.D., University of Kansas School of Law (attended starting 1993)",
+        "Undergraduate education: Not confirmed in search results",
+        "Returned to Kansas in 1993 to attend KU Law School",
+        "On Education:",
+        "\"Every student deserves access to a quality education.\"",
+        "Religion: Christian (per public records)",
+        "Faith / Church",
+        "No public church affiliation was verified.",
+        "Faith / Church / Denomination / Church URL"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-craig-musser-0055",
+      "url": null,
+      "sourceFile": "memory/candidates/craig-musser/site-profile.md:15",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "campaign statement",
+        "church/worship",
+        "voting record",
+        "ballot status",
+        "biography",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 29,
+      "rowIds": [
+        "em-craig-musser-00592",
+        "em-craig-musser-00593",
+        "em-craig-musser-00597",
+        "em-craig-musser-00594",
+        "em-craig-musser-00609",
+        "em-craig-musser-00610",
+        "em-craig-musser-00600",
+        "em-craig-musser-00595",
+        "em-craig-musser-00596",
+        "em-craig-musser-00586",
+        "em-craig-musser-00599",
+        "em-craig-musser-00603",
+        "em-craig-musser-00589",
+        "em-craig-musser-00601",
+        "em-craig-musser-00604",
+        "em-craig-musser-00607",
+        "em-craig-musser-00608",
+        "em-craig-musser-00611",
+        "em-craig-musser-00612",
+        "em-craig-musser-00587",
+        "em-craig-musser-00590",
+        "em-craig-musser-00602",
+        "em-craig-musser-00606",
+        "em-craig-musser-00585",
+        "em-craig-musser-00588",
+        "em-craig-musser-00591",
+        "em-craig-musser-00598",
+        "em-craig-musser-00605",
+        "em-craig-musser-00614"
+      ],
+      "claimsAnchored": [
+        "Abortion / Sanctity of Life: Runs as an independent. No specific personal statement found in public sources.",
+        "Marriage & Family / LGBTQ+ Policy: Runs as an independent. No specific personal statement found in public sources.",
+        "School Choice / Parental Rights in Education: Lists \"strong schools\" as a priority on his platform but has not elaborated publicly.",
+        "Religious Liberty: Runs as an independent. No specific personal statement found in public sources.",
+        "Where They Worship",
+        "Public sources do not identify a current church affiliation.",
+        "Taxes: Says he will work on \"fixing the tax code,\" but details are thin.",
+        "Guns / Second Amendment: Runs as an independent. No specific personal statement found in public sources.",
+        "Immigration / Border: Runs as an independent. No specific personal statement found in public sources.",
+        "Craig Musser is a 2026 candidate for Kansas' 1st Congressional District running under the United Kansas Party label. Public records describe him as the manager of environment, health, and safety at PureField Ingredients in Russell and place him near Ellinwood ",
+        "Healthcare: Lists \"accessible healthcare\" as a priority and says he will \"bring discipline to fixing the healthcare system that is failing too many Kansans,\" but has not provided specifics.",
+        "Musser works in environmental health and safety at PureField Ingredients in Russell."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-craig-musser-0056",
+      "url": null,
+      "sourceFile": "memory/candidates/craig-musser/sleuth-pass.md:103",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status",
+        "biography",
+        "church/worship",
+        "campaign statement",
+        "meeting record",
+        "voting record",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 98,
+      "rowIds": [
+        "em-craig-musser-00700",
+        "em-craig-musser-00695",
+        "em-craig-musser-00697",
+        "em-craig-musser-00701",
+        "em-craig-musser-00703",
+        "em-craig-musser-00704",
+        "em-craig-musser-00710",
+        "em-craig-musser-00711",
+        "em-craig-musser-00672",
+        "em-craig-musser-00702",
+        "em-craig-musser-00732",
+        "em-craig-musser-00656",
+        "em-craig-musser-00677",
+        "em-craig-musser-00693",
+        "em-craig-musser-00706",
+        "em-craig-musser-00707",
+        "em-craig-musser-00712",
+        "em-craig-musser-00714",
+        "em-craig-musser-00715",
+        "em-craig-musser-00716",
+        "em-craig-musser-00722",
+        "em-craig-musser-00721",
+        "em-craig-musser-00690",
+        "em-craig-musser-00692",
+        "em-craig-musser-00720",
+        "em-craig-musser-00640",
+        "em-craig-musser-00641",
+        "em-craig-musser-00646",
+        "em-craig-musser-00655",
+        "em-craig-musser-00657",
+        "em-craig-musser-00659",
+        "em-craig-musser-00660",
+        "em-craig-musser-00662",
+        "em-craig-musser-00663",
+        "em-craig-musser-00664",
+        "em-craig-musser-00665",
+        "em-craig-musser-00666",
+        "em-craig-musser-00669",
+        "em-craig-musser-00671",
+        "em-craig-musser-00676",
+        "em-craig-musser-00678",
+        "em-craig-musser-00681",
+        "em-craig-musser-00682",
+        "em-craig-musser-00689",
+        "em-craig-musser-00694",
+        "em-craig-musser-00696",
+        "em-craig-musser-00705",
+        "em-craig-musser-00708",
+        "em-craig-musser-00713",
+        "em-craig-musser-00717"
+      ],
+      "claimsAnchored": [
+        "Mapping reason: Direct candidate-controlled statements. For v2 issue cards, treat abortion/women/child welfare and LGBTQ equal-treatment language as stated positions; do not collapse them into slogans or infer views beyond the text.",
+        "Personal freedoms / women / child welfare / LGBTQ-related equal treatment",
+        "It says that, if elected, Musser would uphold privacy and bodily autonomy by equally supporting community members regardless of race, religion, sexual orientation, or gender.",
+        "Religious liberty / public education",
+        "Education section says he learned morals from his parents and church, quotes Jefferson on religion as a matter between a person and God, and says state-funded education should be free to teach about all world religions but promote none.",
+        "Mapping reason: The education page supplies a direct statement about church/state boundaries in state-funded education. It should not be used as a current worship-affiliation claim.",
+        "It says student loans should be reformed so students and parents are not required to take high-interest loans to fund job-needed education.",
+        "Mapping reason: Direct candidate-controlled statements on education funding, school discretion, church/state boundaries, and student debt.",
+        "Website biography says he grew up in Pennsylvania, attended Church of the Brethren, earned degrees in physics, chemical engineering, business administration, and safety, and became a Certified Safety Professional.",
+        "Biography page says Musser attended Church of the Brethren while growing up. No current church affiliation was found.",
+        "Could not confirm current church membership or worship location.",
+        "Kansas SOS candidate-information page says candidates for national offices file with the Secretary of State and that a candidate is not considered filed until the petition or declaration and fee are received."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-craig-musser-0057",
+      "url": null,
+      "sourceFile": "memory/candidates/craig-musser/v2-issues.yaml:287",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "voting record",
+        "ballot status",
+        "biography",
+        "campaign statement",
+        "church/worship",
+        "donor/funding",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 120,
+      "rowIds": [
+        "em-craig-musser-01044",
+        "em-craig-musser-00956",
+        "em-craig-musser-00946",
+        "em-craig-musser-00960",
+        "em-craig-musser-00961",
+        "em-craig-musser-00962",
+        "em-craig-musser-00183",
+        "em-craig-musser-00948",
+        "em-craig-musser-01048",
+        "em-craig-musser-00923",
+        "em-craig-musser-01096",
+        "em-craig-musser-00954",
+        "em-craig-musser-00955",
+        "em-craig-musser-01052",
+        "em-craig-musser-00867",
+        "em-craig-musser-00868",
+        "em-craig-musser-00869",
+        "em-craig-musser-00870",
+        "em-craig-musser-00871",
+        "em-craig-musser-00885",
+        "em-craig-musser-00886",
+        "em-craig-musser-00888",
+        "em-craig-musser-00889",
+        "em-craig-musser-00891",
+        "em-craig-musser-00893",
+        "em-craig-musser-00894",
+        "em-craig-musser-00896",
+        "em-craig-musser-00898",
+        "em-craig-musser-00906",
+        "em-craig-musser-00908",
+        "em-craig-musser-00912",
+        "em-craig-musser-00913",
+        "em-craig-musser-00917",
+        "em-craig-musser-00926",
+        "em-craig-musser-00927",
+        "em-craig-musser-00928",
+        "em-craig-musser-00934",
+        "em-craig-musser-00938",
+        "em-craig-musser-00971",
+        "em-craig-musser-00972",
+        "em-craig-musser-00975",
+        "em-craig-musser-00993",
+        "em-craig-musser-00995",
+        "em-craig-musser-01009",
+        "em-craig-musser-01035",
+        "em-craig-musser-01089",
+        "em-craig-musser-01095",
+        "em-craig-musser-00964",
+        "em-craig-musser-00866",
+        "em-craig-musser-00881"
+      ],
+      "claimsAnchored": [
+        "summary: \"No voting record, bill text, abortion-law proposal, adoption/foster-care policy draft, or LGBTQ-specific federal legislation position was confirmed beyond the campaign website wording.\"",
+        "\"Issues page supports privacy, bodily autonomy, and equal support regardless of race, religion, sexual orientation, or gender\"",
+        "\"Musser describes education in physics, chemical engineering, business administration, and safety\"",
+        "\"Issues page supports more public funding for teachers and school resources\"",
+        "\"Issues page says state-funded education should teach about religions but promote none\"",
+        "\"Issues page supports student-loan reform\"",
+        "\"Current church membership or worship location.\"",
+        "\"Musser says he attended Church of the Brethren while growing up\"",
+        "summary: \"No current church membership, worship location, religious-liberty litigation position, or federal religious-freedom legislation position was confirmed.\"",
+        "\"A candidate is not considered filed until petition or declaration and fee are received\"",
+        "\"Specific positions on guns, immigration, marijuana/drug policy, foreign affairs, rural hospitals, veterans, Fort Riley, Fort Hays State University, or the Ogallala Aquifer.\"",
+        "\"Issues page supports telehealth and technology in health care\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-craig-musser-0058",
+      "url": null,
+      "sourceFile": "ui/src/data/candidates.ts:11221",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "campaign statement",
+        "church/worship",
+        "controversy",
+        "voting record",
+        "ballot status",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 122,
+      "rowIds": [
+        "em-craig-musser-01247",
+        "em-craig-musser-01306",
+        "em-craig-musser-01249",
+        "em-craig-musser-01253",
+        "em-craig-musser-01250",
+        "em-craig-musser-01265",
+        "em-craig-musser-01303",
+        "em-craig-musser-01258",
+        "em-craig-musser-01259",
+        "em-craig-musser-01309",
+        "em-craig-musser-01310",
+        "em-craig-musser-01292",
+        "em-craig-musser-01315",
+        "em-craig-musser-01316",
+        "em-craig-musser-01251",
+        "em-craig-musser-01307",
+        "em-craig-musser-01252",
+        "em-craig-musser-01308",
+        "em-craig-musser-01244",
+        "em-craig-musser-01256",
+        "em-craig-musser-01257",
+        "em-craig-musser-00879",
+        "em-craig-musser-01243",
+        "em-craig-musser-01261",
+        "em-craig-musser-01281",
+        "em-craig-musser-01283",
+        "em-craig-musser-01284",
+        "em-craig-musser-01300",
+        "em-craig-musser-01311",
+        "em-craig-musser-01312",
+        "em-craig-musser-01318",
+        "em-craig-musser-01204",
+        "em-craig-musser-01218",
+        "em-craig-musser-01245",
+        "em-craig-musser-01263",
+        "em-craig-musser-01269",
+        "em-craig-musser-01273",
+        "em-craig-musser-01275",
+        "em-craig-musser-01280",
+        "em-craig-musser-01285",
+        "em-craig-musser-01287",
+        "em-craig-musser-00011",
+        "em-craig-musser-00036",
+        "em-craig-musser-00567",
+        "em-craig-musser-00861",
+        "em-craig-musser-00875",
+        "em-craig-musser-00878",
+        "em-craig-musser-01201",
+        "em-craig-musser-01202",
+        "em-craig-musser-01203"
+      ],
+      "claimsAnchored": [
+        "\"issue\": \"Abortion / Sanctity of Life\",",
+        "\"stance\": \"Opposes abortion. Believes personhood begins at implantation. At a GOP debate he said: \\\"I feel horrible that a young woman can be manipulated to have an abortion, and there's no recourse.\\\"\"",
+        "\"issue\": \"Marriage & Family / LGBTQ+ Policy\",",
+        "\"issue\": \"School Choice / Parental Rights in Education\",",
+        "\"issue\": \"Religious Liberty\",",
+        "\"whereTheyWorship\": \"Public sources do not identify a current church affiliation.\",",
+        "\"religion\": \"Non-denominational\",",
+        "\"issue\": \"Taxes\",",
+        "\"stance\": \"Says he will work on \\\"fixing the tax code,\\\" but details are thin.\"",
+        "\"issue\": \"Property Taxes\",",
+        "\"stance\": \"This is the centerpiece of his campaign. He has criticized both the Legislature and Governor Kelly for delivering only a \\\"$25.88 property tax break for the owner of a $150,000 home\\\" and wants to overhaul the county appraisal process.\"",
+        "\"title\": \"Business.Ku.Edu\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-craig-musser-0059",
+      "url": null,
+      "sourceFile": "memory/candidates/craig-musser/raw-dump-v2.md:148",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "donor/funding",
+        "church/worship",
+        "campaign statement",
+        "meeting record",
+        "legal/court",
+        "voting record",
+        "endorsement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 163,
+      "rowIds": [
+        "em-craig-musser-00103",
+        "em-craig-musser-00105",
+        "em-craig-musser-00019",
+        "em-craig-musser-00062",
+        "em-craig-musser-00064",
+        "em-craig-musser-00109",
+        "em-craig-musser-00112",
+        "em-craig-musser-00113",
+        "em-craig-musser-00117",
+        "em-craig-musser-00121",
+        "em-craig-musser-00149",
+        "em-craig-musser-00110",
+        "em-craig-musser-00111",
+        "em-craig-musser-00041",
+        "em-craig-musser-00102",
+        "em-craig-musser-00116",
+        "em-craig-musser-00122",
+        "em-craig-musser-00123",
+        "em-craig-musser-00124",
+        "em-craig-musser-00127",
+        "em-craig-musser-00144",
+        "em-craig-musser-00014",
+        "em-craig-musser-00152",
+        "em-craig-musser-00154",
+        "em-craig-musser-00155",
+        "em-craig-musser-00141",
+        "em-craig-musser-00187",
+        "em-craig-musser-00142",
+        "em-craig-musser-00071",
+        "em-craig-musser-00097",
+        "em-craig-musser-00099",
+        "em-craig-musser-00101",
+        "em-craig-musser-00145",
+        "em-craig-musser-00015",
+        "em-craig-musser-00016",
+        "em-craig-musser-00020",
+        "em-craig-musser-00021",
+        "em-craig-musser-00029",
+        "em-craig-musser-00030",
+        "em-craig-musser-00040",
+        "em-craig-musser-00042",
+        "em-craig-musser-00043",
+        "em-craig-musser-00044",
+        "em-craig-musser-00045",
+        "em-craig-musser-00047",
+        "em-craig-musser-00048",
+        "em-craig-musser-00053",
+        "em-craig-musser-00054",
+        "em-craig-musser-00056",
+        "em-craig-musser-00061"
+      ],
+      "claimsAnchored": [
+        "Privacy, bodily autonomy, women, LGBTQ-related equal treatment, and child welfare",
+        "Issues page says that, if elected, Musser would uphold privacy and bodily autonomy by supporting community members regardless of race, religion, sexual orientation, or gender.",
+        "The available issue record is candidate-controlled and website-centered. The most developed areas are healthcare, privacy and bodily autonomy, child welfare, Social Security, education, budget/taxes, and agriculture. No prior elected-office record, voting reco",
+        "Website biography says Musser grew up in Pennsylvania, attended public school, and attended Church of the Brethren.",
+        "B.S. in Physics from Shippensburg State College",
+        "Religious liberty / church and state in education",
+        "Education section says he learned morals from his parents and church.",
+        "Education section quotes Jefferson on religion as a matter between a person and God and says state-funded education should be free to teach about all world religions but promote none.",
+        "Education",
+        "Issues page calls for student-loan reform so students and parents are not required to take high-interest loans to fund education needed for employment.",
+        "No public-board, city, county, school-board, or appointed-government body record was confirmed in this pass.",
+        "Biography page says Musser attended Church of the Brethren while growing up."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-craig-musser-0060",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/craig-musser.ts:192",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status",
+        "church/worship",
+        "biography",
+        "campaign statement",
+        "voting record",
+        "donor/funding",
+        "meeting record",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 159,
+      "rowIds": [
+        "em-craig-musser-01043",
+        "em-craig-musser-01046",
+        "em-craig-musser-01047",
+        "em-craig-musser-01054",
+        "em-craig-musser-01055",
+        "em-craig-musser-01057",
+        "em-craig-musser-01058",
+        "em-craig-musser-01059",
+        "em-craig-musser-01368",
+        "em-craig-musser-01383",
+        "em-craig-musser-01386",
+        "em-craig-musser-01389",
+        "em-craig-musser-01391",
+        "em-craig-musser-01392",
+        "em-craig-musser-01394",
+        "em-craig-musser-01402",
+        "em-craig-musser-01393",
+        "em-craig-musser-01051",
+        "em-craig-musser-01061",
+        "em-craig-musser-01062",
+        "em-craig-musser-01064",
+        "em-craig-musser-01065",
+        "em-craig-musser-01066",
+        "em-craig-musser-01082",
+        "em-craig-musser-01384",
+        "em-craig-musser-00880",
+        "em-craig-musser-01033",
+        "em-craig-musser-01034",
+        "em-craig-musser-01038",
+        "em-craig-musser-01039",
+        "em-craig-musser-01040",
+        "em-craig-musser-01073",
+        "em-craig-musser-01385",
+        "em-craig-musser-00877",
+        "em-craig-musser-00902",
+        "em-craig-musser-00903",
+        "em-craig-musser-00920",
+        "em-craig-musser-00925",
+        "em-craig-musser-00967",
+        "em-craig-musser-00998",
+        "em-craig-musser-01000",
+        "em-craig-musser-01004",
+        "em-craig-musser-01013",
+        "em-craig-musser-01016",
+        "em-craig-musser-01017",
+        "em-craig-musser-01018",
+        "em-craig-musser-01037",
+        "em-craig-musser-01071",
+        "em-craig-musser-01075",
+        "em-craig-musser-01085"
+      ],
+      "claimsAnchored": [
+        "\"text\": \"Musser's issues page supports privacy and bodily autonomy, equal support regardless of race, religion, sexual orientation, or gender, and says government should not dictate to women what is best for their lives and bodies. The same page says being pro",
+        "\"title\": \"Religious Liberty / Church and State in Education\",",
+        "\"text\": \"Musser's biography says he attended Church of the Brethren while growing up. His education section says state-funded education should be free to teach about all religions of the world but promote none.\",",
+        "\"title\": \"Education\",",
+        "\"text\": \"Musser supports more public funding to attract, educate, and continuously train teachers; says state and federal requirements should come with resources; supports some discretionary school resources free from political strings and agendas; and calls f",
+        "\"observation\": \"Existing local social harvest counted education as 3 of 24 candidate-controlled website statements, or 13 percent of the reviewed website issue/body statements.\",",
+        "\"mappedToIssueId\": \"i-education\"",
+        "\"summary\": \"No current position was confirmed on school choice, parental-rights bills, Title IX, IDEA funding, federal Department of Education structure, or a specific student-loan bill.\",",
+        "\"observation\": \"The available issue record is candidate-controlled and website-centered. The most developed areas are healthcare, privacy and bodily autonomy, child welfare, Social Security, education, budget/taxes, and agriculture. No prior elected-office rec",
+        "\"observation\": \"Topic distribution among the 24 candidate-controlled website statements: healthcare — 5 statements (21%); representation / biography / campaign theme — 7 statements (29%); personal freedoms and child welfare — 4 statements (17%); education — 3 ",
+        "\"observation\": \"Across the captured campaign website, the issues page contains statements about healthcare, privacy and bodily autonomy, women, children, Social Security, education, budget and taxes, and agriculture. It does not include issue pages or posts sp",
+        "\"observation\": \"Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or imm"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-craig-musser-0061",
+      "url": null,
+      "sourceFile": "reports/KS-01-2026-challengers-investigation.md:39",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 84,
+      "rowIds": [
+        "em-craig-musser-00239",
+        "em-craig-musser-00245",
+        "em-craig-musser-00249",
+        "em-craig-musser-01117",
+        "em-craig-musser-00464",
+        "em-craig-musser-00467",
+        "em-craig-musser-00385",
+        "em-craig-musser-00399",
+        "em-craig-musser-00400",
+        "em-craig-musser-00224",
+        "em-craig-musser-00225",
+        "em-craig-musser-00233",
+        "em-craig-musser-00236",
+        "em-craig-musser-00238",
+        "em-craig-musser-00240",
+        "em-craig-musser-00244",
+        "em-craig-musser-00247",
+        "em-craig-musser-00250",
+        "em-craig-musser-00251",
+        "em-craig-musser-00252",
+        "em-craig-musser-00284",
+        "em-craig-musser-00380",
+        "em-craig-musser-00384",
+        "em-craig-musser-00386",
+        "em-craig-musser-00390",
+        "em-craig-musser-00391",
+        "em-craig-musser-00392",
+        "em-craig-musser-00393",
+        "em-craig-musser-00394",
+        "em-craig-musser-00395",
+        "em-craig-musser-00396",
+        "em-craig-musser-00397",
+        "em-craig-musser-00398",
+        "em-craig-musser-00401",
+        "em-craig-musser-00402",
+        "em-craig-musser-00403",
+        "em-craig-musser-00404",
+        "em-craig-musser-00405",
+        "em-craig-musser-00406",
+        "em-craig-musser-00407",
+        "em-craig-musser-00408",
+        "em-craig-musser-00426",
+        "em-craig-musser-00427",
+        "em-craig-musser-00439",
+        "em-craig-musser-00442",
+        "em-craig-musser-00450",
+        "em-craig-musser-00451",
+        "em-craig-musser-00456",
+        "em-craig-musser-00460",
+        "em-craig-musser-00461"
+      ],
+      "claimsAnchored": [
+        "Occupation: Associate Teaching Professor of Law, University of Kansas School of Business",
+        "J.D. (Law Degree), Harvard Law School (2004)",
+        "University of Kansas School of Business -- Associate Teaching Professor of Law. Teaches business law, business fundamentals, and a course on the origin and spread of conspiracy theories. Award-winning professor.",
+        "Education",
+        "| Compelling narrative | MODERATE (professor turned activist) | STRONG (DOGE survivor, worker advocate) | WEAK (limited public narrative) |",
+        "| Cultural fit with KS-01 | LOW (academic, liberal Lawrence) | LOW-MODERATE (worker identity helps) | MODERATE (industrial, rural) |",
+        "Occupation: Manager, Environment, Health & Safety at PureField Ingredients (Russell, KS)",
+        "Director, Health For Kansas Manufacturing, Jacam Catalyst -- Oilfield chemicals (Sterling, KS)",
+        "Manager, Environment, Health & Safety, PureField Ingredients -- Current role. PureField is a wheat protein (vital wheat gluten) and biofuels manufacturer in Russell, Kansas. Senator Jerry Moran has visited the facility.",
+        "Historical Context: Only ONE Democrat has ever won this seat -- Howard Miller, in 1952. Republicans have held it for 150 of the last 150+ years.",
+        "District Geography: Covers 60+ counties spanning over half the state. Includes Manhattan, Salina, Dodge City, Garden City, Hays, McPherson, Hutchinson, and (since 2022 redistricting) Lawrence.",
+        "No Republican primary challenger to Mann has been identified."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-craig-musser-0062",
+      "url": null,
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:682",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "church/worship",
+        "ballot status",
+        "donor/funding",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 53,
+      "rowIds": [
+        "em-craig-musser-01172",
+        "em-craig-musser-01194",
+        "em-craig-musser-01156",
+        "em-craig-musser-01177",
+        "em-craig-musser-01186",
+        "em-craig-musser-01169",
+        "em-craig-musser-01148",
+        "em-craig-musser-01157",
+        "em-craig-musser-01161",
+        "em-craig-musser-01170",
+        "em-craig-musser-01200",
+        "em-craig-musser-01159",
+        "em-craig-musser-01162",
+        "em-craig-musser-01164",
+        "em-craig-musser-01167",
+        "em-craig-musser-01171",
+        "em-craig-musser-01174",
+        "em-craig-musser-01187",
+        "em-craig-musser-01198",
+        "em-craig-musser-01153",
+        "em-craig-musser-01175",
+        "em-craig-musser-01192",
+        "em-craig-musser-01149",
+        "em-craig-musser-01150",
+        "em-craig-musser-01151",
+        "em-craig-musser-01152",
+        "em-craig-musser-01154",
+        "em-craig-musser-01155",
+        "em-craig-musser-01158",
+        "em-craig-musser-01160",
+        "em-craig-musser-01163",
+        "em-craig-musser-01165",
+        "em-craig-musser-01166",
+        "em-craig-musser-01168",
+        "em-craig-musser-01173",
+        "em-craig-musser-01176",
+        "em-craig-musser-01193",
+        "em-craig-musser-01199",
+        "em-craig-musser-01178",
+        "em-craig-musser-01179",
+        "em-craig-musser-01180",
+        "em-craig-musser-01181",
+        "em-craig-musser-01182",
+        "em-craig-musser-01183",
+        "em-craig-musser-01184",
+        "em-craig-musser-01185",
+        "em-craig-musser-01190",
+        "em-craig-musser-01191",
+        "em-craig-musser-01188",
+        "em-craig-musser-01189"
+      ],
+      "claimsAnchored": [
+        "Education: \"Every student deserves access to a quality education\"",
+        "Craig Musser: Education, family, and detailed career background remain largely undisclosed",
+        "| Church | Not publicly identified |",
+        "Church Affiliations Not Found",
+        "Craig Musser: No church identified",
+        "Tax code reform: \"Bring discipline to fixing the tax code\"",
+        "CRAIG MUSSER (Independent / United Kansas Party) -- Health/Safety Manager",
+        "| Profession | Health/Safety Manager |",
+        "Health/Safety Manager (current profession)",
+        "Healthcare reform: Fix the healthcare system \"failing too many Kansans\"",
+        "Races covered: 3 (Secretary of State, Insurance Commissioner, KS-01 U.S. House)",
+        "Campaign references his \"path of academic and professional achievement\" without specifics"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-craig-musser-0063",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:76",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "voting record",
+        "ballot status",
+        "donor/funding",
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 40,
+      "rowIds": [
+        "em-craig-musser-01336",
+        "em-craig-musser-01324",
+        "em-craig-musser-01332",
+        "em-craig-musser-01358",
+        "em-craig-musser-01359",
+        "em-craig-musser-01334",
+        "em-craig-musser-01322",
+        "em-craig-musser-01320",
+        "em-craig-musser-01321",
+        "em-craig-musser-01323",
+        "em-craig-musser-01325",
+        "em-craig-musser-01326",
+        "em-craig-musser-01329",
+        "em-craig-musser-01331",
+        "em-craig-musser-01333",
+        "em-craig-musser-01335",
+        "em-craig-musser-01337",
+        "em-craig-musser-01338",
+        "em-craig-musser-01339",
+        "em-craig-musser-01340",
+        "em-craig-musser-01341",
+        "em-craig-musser-01342",
+        "em-craig-musser-01348",
+        "em-craig-musser-01327",
+        "em-craig-musser-01328",
+        "em-craig-musser-01330",
+        "em-craig-musser-01343",
+        "em-craig-musser-01344",
+        "em-craig-musser-01345",
+        "em-craig-musser-01346",
+        "em-craig-musser-01347",
+        "em-craig-musser-01349",
+        "em-craig-musser-01350",
+        "em-craig-musser-01351",
+        "em-craig-musser-01352",
+        "em-craig-musser-01353",
+        "em-craig-musser-01354",
+        "em-craig-musser-01355",
+        "em-craig-musser-01356",
+        "em-craig-musser-01357"
+      ],
+      "claimsAnchored": [
+        "\"Your U.S. Representative is the one person in Congress who represents your specific district — not the whole state, just your area. They serve two-year terms, vote on federal laws and spending bills, and are supposed to be your direct voice in Washington on e",
+        "status: \"Incumbent Running\",",
+        "\"If you live in Hays, this is your U.S. House race. Tracey Mann is the incumbent, and Colin McRoberts, Lauren Reinhold, Craig Musser, and Steven Robert Jacob have all appeared in the contest to represent western and central Kansas.\",",
+        "\"With Laura Kelly term-limited, both parties and multiple campaign-account holders are building a large field for one of the most important open-seat races in Kansas politics.\",",
+        "\"Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.\",",
+        "\"The KS-01 member of Congress becomes the main federal voice for agriculture, water, roads, trade, and rural infrastructure across a huge stretch of Kansas.\",",
+        "jurisdiction: \"Kansas 1st Congressional District\",",
+        "level: \"Federal\",",
+        "date: \"2026-11-03\",",
+        "seats: 1,",
+        "candidateCount: 5,",
+        "candidateSlugs: ["
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-craig-musser-0064",
+      "url": null,
+      "sourceFile": "memory/elections/2026-11-03-us-house-ks01.md:45",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 14,
+      "rowIds": [
+        "em-craig-musser-01115",
+        "em-craig-musser-01103",
+        "em-craig-musser-01104",
+        "em-craig-musser-01111",
+        "em-craig-musser-01114",
+        "em-craig-musser-01097",
+        "em-craig-musser-01098",
+        "em-craig-musser-01100",
+        "em-craig-musser-01110",
+        "em-craig-musser-01113",
+        "em-craig-musser-01099",
+        "em-craig-musser-01101",
+        "em-craig-musser-01102",
+        "em-craig-musser-01112"
+      ],
+      "claimsAnchored": [
+        "Key issues for KS-01 voters: agriculture policy, water rights (Ogallala Aquifer depletion), rural healthcare, immigration.",
+        "Independent / General Election Only",
+        "Craig Musser -- Running as Independent in the general election.",
+        "This is a SAFE REPUBLICAN seat (R+16). The general election is very unlikely to be competitive.",
+        "The district is geographically the largest in Kansas, covering most of the western half of the state.",
+        "Declared Candidates",
+        "Republican Primary",
+        "Democratic Primary",
+        "Notes",
+        "Hays, Kansas is squarely in KS-01, which covers the vast western/central portion of the state."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-craig-musser-0065",
+      "url": null,
+      "sourceFile": "memory/candidates/craig-musser/in-their-own-words.md:3",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "donor/funding",
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-craig-musser-00002",
+        "em-craig-musser-00010",
+        "em-craig-musser-00001"
+      ],
+      "claimsAnchored": [
+        "*A summary of what Craig Musser has publicly said, posted, and amplified across social media and candidate-controlled web pages. Drawn from public posts and public campaign material on Facebook, the campaign website, FEC, LinkedIn metadata checks, and local ne",
+        "Methodology: Date range covered: February 14, 2026 to May 11, 2026. Platforms surveyed: X, Facebook, YouTube, Instagram, LinkedIn, Truth Social, Gab, Gettr, Substack, Reddit, TikTok, campaign website, FEC, United Kansas, Ballotpedia, and local news; posts exam",
+        "In Their Own Words — Craig Musser (I, KS-01)"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-craig-musser-0066",
+      "url": "https://www.fec.gov/data/candidate/H0KS01123/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:508",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-00521"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0067",
+      "url": "https://www.opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743",
+      "sourceFile": "reports/KS-01-2026-challengers-investigation.md:407",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-craig-musser-00455",
+        "em-craig-musser-01141",
+        "em-craig-musser-00520",
+        "em-craig-musser-00636"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0068",
+      "url": "https://kansasreflector.com/tag/lauren-reinhold/",
+      "sourceFile": "reports/KS-01-2026-challengers-investigation.md:474",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-00500"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0069",
+      "url": "https://www.kwch.com/2025/09/17/colin-mcroberts-files-1st-congressional-district-seat/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:456",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-00481"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0070",
+      "url": "https://www.colin-mcroberts.com/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:120",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-craig-musser-00290",
+        "em-craig-musser-00487",
+        "em-craig-musser-00621"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0071",
+      "url": "https://www.take-bac-congress.us/team/colin-mcroberts",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:123",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-craig-musser-00293",
+        "em-craig-musser-00484",
+        "em-craig-musser-00624"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0072",
+      "url": "https://ballotpedia.org/Colin_McRoberts",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:452",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-00478"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0073",
+      "url": "https://aeon.co/users/colin-mcroberts",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:466",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-00488"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0074",
+      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=281096",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:469",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-craig-musser-00491"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-craig-musser-0075",
+      "url": "https://www.linkedin.com/in/colin-mcroberts-5781291/",
+      "sourceFile": "memory/candidates/craig-musser/raw-dump.md:119",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-craig-musser-00289",
+        "em-craig-musser-00486",
+        "em-craig-musser-00620"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    }
+  ]
+}

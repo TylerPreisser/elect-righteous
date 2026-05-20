@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "bobbi-dreiling",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/bobbi-dreiling/evidence-matrix-raw.json",
+    "memory/candidates/bobbi-dreiling/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/bobbi-dreiling/evidence-matrix.json",
+    "memory/candidates/bobbi-dreiling/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/bobbi-dreiling/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/bobbi-dreiling/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs bobbi-dreiling"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for bobbi-dreiling.",
+    "Run source-tier-validator for bobbi-dreiling."
+  ],
+  "handoff_summary": "Built final evidence matrix for bobbi-dreiling: 8655 raw rows to 3204 deduplicated rows."
+}

@@ -1,0 +1,1113 @@
+{
+  "candidateSlug": "mark-lane",
+  "generated": "2026-05-20T18:46:44Z",
+  "issueCount": 14,
+  "issues": [
+    {
+      "issueNumber": 1,
+      "title": "Abortion / life",
+      "summary": "No relevant public evidence was found for Abortion / life after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 2,
+      "title": "LGBT / gender / parental rights",
+      "summary": "No relevant public evidence was found for LGBT / gender / parental rights after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 3,
+      "title": "Education / curriculum / schools",
+      "summary": "Education / curriculum / schools: 1 selected evidence items from 1 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-mark-lane-00101",
+          "classification": "background-context",
+          "text": "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l109"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:109",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 1,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 4,
+      "title": "Religious liberty / church / civic morality",
+      "summary": "Religious liberty / church / civic morality: 4 selected evidence items from 4 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-mark-lane-00013",
+          "classification": "social-online-signal",
+          "text": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-in-their-own-words-md-l20",
+            "mem-memory-candidates-mark-lane-raw-dump-v2-md-l20",
+            "mem-memory-candidates-mark-lane-sleuth-pass-md-l20",
+            "mem-memory-candidates-mark-lane-social-harvest-md-l20"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/social-harvest.md:20",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00065",
+          "classification": "faith-community-record",
+          "text": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l69",
+            "mem-ui-src-data-v2-mark-lane-ts-l56"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:69",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00081",
+          "classification": "faith-community-record",
+          "text": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l124"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:124",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00130",
+          "classification": "faith-community-record",
+          "text": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+          "sourceIds": [
+            "mem-ui-src-data-v2-mark-lane-ts-l77"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/mark-lane.ts:77",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-mark-lane-0001",
+          "evidenceRowId": "em-mark-lane-00013",
+          "platform": "Public web / internal harvest",
+          "actionType": "follow",
+          "signalStrength": "weak",
+          "observation": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0012",
+          "evidenceRowId": "em-mark-lane-00065",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0013",
+          "evidenceRowId": "em-mark-lane-00081",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0014",
+          "evidenceRowId": "em-mark-lane-00130",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 1,
+        "internalMemory": 3,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 5,
+      "title": "Taxes / spending / debt",
+      "summary": "Taxes / spending / debt: 2 selected evidence items from 2 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-mark-lane-00101",
+          "classification": "background-context",
+          "text": "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l109"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:109",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00103",
+          "classification": "background-context",
+          "text": "\"The governor is the boss of Kansas state government. They sign or veto every law the legislature passes, write the state budget, appoint the heads of state agencies, and set the direction on taxes, schools, roads, and healthcare. When there's a disaster, a crisis, or a big policy fight, the governor is the person making the call. Think of it as the CEO of the state.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l111"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:111",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 2,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 6,
+      "title": "Economy / jobs / labor",
+      "summary": "No relevant public evidence was found for Economy / jobs / labor after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 7,
+      "title": "Guns / Second Amendment",
+      "summary": "No relevant public evidence was found for Guns / Second Amendment after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 8,
+      "title": "Immigration / border",
+      "summary": "No relevant public evidence was found for Immigration / border after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 9,
+      "title": "Health care / insurance / Medicaid",
+      "summary": "Health care / insurance / Medicaid: 2 selected evidence items from 2 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-mark-lane-00101",
+          "classification": "background-context",
+          "text": "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l109"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:109",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00103",
+          "classification": "background-context",
+          "text": "\"The governor is the boss of Kansas state government. They sign or veto every law the legislature passes, write the state budget, appoint the heads of state agencies, and set the direction on taxes, schools, roads, and healthcare. When there's a disaster, a crisis, or a big policy fight, the governor is the person making the call. Think of it as the CEO of the state.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l111"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:111",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 2,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 10,
+      "title": "Election integrity / voting / courts",
+      "summary": "Election integrity / voting / courts: 16 selected evidence items from 26 mapped rows. Public URL-backed rows: 1.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-mark-lane-00045",
+          "classification": "documented-record",
+          "text": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01ML_AT.pdf\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l26",
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l37",
+            "mem-ui-src-data-v2-mark-lane-ts-l135",
+            "mem-ui-src-data-v2-mark-lane-ts-l146"
+          ],
+          "sourceUrl": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01ML_AT.pdf",
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:37",
+          "confidence": "confirmed",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00033",
+          "classification": "documented-record",
+          "text": "\"incumbent\": false,",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l11",
+            "mem-ui-src-data-v2-mark-lane-ts-l15"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:11",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00034",
+          "classification": "documented-record",
+          "text": "\"occupation\": \"Governor candidate / campaign-finance account holder\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l12",
+            "mem-ui-src-data-v2-mark-lane-ts-l16"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:12",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00036",
+          "classification": "documented-record",
+          "text": "\"recordSummary\": \"This is a public-record profile for a campaign-finance account; party, platform, and final ballot status were not confirmed in this pass.\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l14",
+            "mem-ui-src-data-v2-mark-lane-ts-l122"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:14",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00037",
+          "classification": "documented-record",
+          "text": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l15"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:15",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00046",
+          "classification": "documented-record",
+          "text": "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l27",
+            "mem-ui-src-data-v2-mark-lane-ts-l136"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/mark-lane.ts:136",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00052",
+          "classification": "documented-record",
+          "text": "\"title\": \"Ballot / filing status\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l44",
+            "mem-ui-src-data-v2-mark-lane-ts-l20"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:44",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00061",
+          "classification": "documented-record",
+          "text": "\"body\": \"Mark Lane was identified in the reviewed official or campaign-finance source for Kansas Governor campaign-finance account holder.\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l56",
+            "mem-ui-src-data-v2-mark-lane-ts-l32"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:56",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00054",
+          "classification": "donor-organization-signal",
+          "text": "\"text\": \"KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l46",
+            "mem-ui-src-data-v2-mark-lane-ts-l22"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:46",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00070",
+          "classification": "donor-organization-signal",
+          "text": "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l92",
+            "mem-ui-src-data-v2-mark-lane-ts-l90"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:92",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00099",
+          "classification": "donor-organization-signal",
+          "text": "\"Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l107"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:107",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00127",
+          "classification": "donor-organization-signal",
+          "text": "\"observation\": \"Ballot / filing status: KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+          "sourceIds": [
+            "mem-ui-src-data-v2-mark-lane-ts-l43"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/mark-lane.ts:43",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00132",
+          "classification": "donor-organization-signal",
+          "text": "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+          "sourceIds": [
+            "mem-ui-src-data-v2-mark-lane-ts-l111"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/mark-lane.ts:111",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00005",
+          "classification": "social-online-signal",
+          "text": "This artifact was created because the candidate-completeness audit found Mark Lane in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-in-their-own-words-md-l8",
+            "mem-memory-candidates-mark-lane-raw-dump-v2-md-l8",
+            "mem-memory-candidates-mark-lane-sleuth-pass-md-l8",
+            "mem-memory-candidates-mark-lane-social-harvest-md-l8"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/social-harvest.md:8",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00012",
+          "classification": "social-online-signal",
+          "text": "Ballot / filing status: KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-in-their-own-words-md-l19",
+            "mem-memory-candidates-mark-lane-raw-dump-v2-md-l19",
+            "mem-memory-candidates-mark-lane-sleuth-pass-md-l19",
+            "mem-memory-candidates-mark-lane-social-harvest-md-l19"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/social-harvest.md:19",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00014",
+          "classification": "social-online-signal",
+          "text": "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-in-their-own-words-md-l21",
+            "mem-memory-candidates-mark-lane-raw-dump-v2-md-l21",
+            "mem-memory-candidates-mark-lane-sleuth-pass-md-l21",
+            "mem-memory-candidates-mark-lane-social-harvest-md-l21"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/social-harvest.md:21",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-mark-lane-0002",
+          "evidenceRowId": "em-mark-lane-00005",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "This artifact was created because the candidate-completeness audit found Mark Lane in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0003",
+          "evidenceRowId": "em-mark-lane-00012",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Ballot / filing status: KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0004",
+          "evidenceRowId": "em-mark-lane-00014",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0015",
+          "evidenceRowId": "em-mark-lane-00036",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"recordSummary\": \"This is a public-record profile for a campaign-finance account; party, platform, and final ballot status were not confirmed in this pass.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0016",
+          "evidenceRowId": "em-mark-lane-00037",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0017",
+          "evidenceRowId": "em-mark-lane-00054",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"text\": \"KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0018",
+          "evidenceRowId": "em-mark-lane-00067",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0019",
+          "evidenceRowId": "em-mark-lane-00127",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"observation\": \"Ballot / filing status: KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0020",
+          "evidenceRowId": "em-mark-lane-00135",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 1,
+        "secondary": 0,
+        "social": 3,
+        "internalMemory": 22,
+        "publicUrlRows": 1
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 11,
+      "title": "Public safety / law enforcement / criminal justice",
+      "summary": "Public safety / law enforcement / criminal justice: 3 selected evidence items from 3 mapped rows. Public URL-backed rows: 1.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-mark-lane-00045",
+          "classification": "documented-record",
+          "text": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01ML_AT.pdf\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l26",
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l37",
+            "mem-ui-src-data-v2-mark-lane-ts-l135",
+            "mem-ui-src-data-v2-mark-lane-ts-l146"
+          ],
+          "sourceUrl": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01ML_AT.pdf",
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:37",
+          "confidence": "confirmed",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00115",
+          "classification": "documented-record",
+          "text": "\"This office decides which lawsuits Kansas joins, which criminal or civil fights get statewide attention, and how aggressively state law is enforced in court.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l128"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:128",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00116",
+          "classification": "documented-record",
+          "text": "\"The attorney general is Kansas's top lawyer. They decide which lawsuits the state files or joins, prosecute major crimes that cross county lines, protect consumers from scams, and defend or challenge state laws in court. If a company rips off Kansans, if there's a statewide criminal case, or if Kansas sues the federal government, this is the person running that fight.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l130"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:130",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 1,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 2,
+        "publicUrlRows": 1
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 12,
+      "title": "Agriculture / rural economy / water",
+      "summary": "No relevant public evidence was found for Agriculture / rural economy / water after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 13,
+      "title": "Local governance / transparency / ethics",
+      "summary": "Local governance / transparency / ethics: 18 selected evidence items from 35 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-mark-lane-00033",
+          "classification": "documented-record",
+          "text": "\"incumbent\": false,",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l11",
+            "mem-ui-src-data-v2-mark-lane-ts-l15"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:11",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00034",
+          "classification": "documented-record",
+          "text": "\"occupation\": \"Governor candidate / campaign-finance account holder\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l12",
+            "mem-ui-src-data-v2-mark-lane-ts-l16"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:12",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00036",
+          "classification": "documented-record",
+          "text": "\"recordSummary\": \"This is a public-record profile for a campaign-finance account; party, platform, and final ballot status were not confirmed in this pass.\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l14",
+            "mem-ui-src-data-v2-mark-lane-ts-l122"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:14",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00037",
+          "classification": "documented-record",
+          "text": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l15"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:15",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00046",
+          "classification": "documented-record",
+          "text": "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l27",
+            "mem-ui-src-data-v2-mark-lane-ts-l136"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/mark-lane.ts:136",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00052",
+          "classification": "documented-record",
+          "text": "\"title\": \"Ballot / filing status\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l44",
+            "mem-ui-src-data-v2-mark-lane-ts-l20"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:44",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00061",
+          "classification": "documented-record",
+          "text": "\"body\": \"Mark Lane was identified in the reviewed official or campaign-finance source for Kansas Governor campaign-finance account holder.\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l56",
+            "mem-ui-src-data-v2-mark-lane-ts-l32"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:56",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00067",
+          "classification": "documented-record",
+          "text": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l79",
+            "mem-ui-src-data-v2-mark-lane-ts-l66"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:79",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00035",
+          "classification": "donor-organization-signal",
+          "text": "\"whoTheyAre\": \"Mark Lane appears in KPDC's 2026 statewide campaign-finance index under gubernatorial candidates. The appointment-of-treasurer report identifies Marcus Mark Lane with Governor as the office sought.\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l13",
+            "mem-ui-src-data-v2-mark-lane-ts-l121"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:13",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00040",
+          "classification": "donor-organization-signal",
+          "text": "\"publisher\": \"Kansas Governmental Ethics Commission / KPDC\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l20",
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l31",
+            "mem-ui-src-data-v2-mark-lane-ts-l137",
+            "mem-ui-src-data-v2-mark-lane-ts-l148"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:20",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00042",
+          "classification": "donor-organization-signal",
+          "text": "\"KPDC index lists Lane, Mark under gubernatorial candidates\"",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l22",
+            "mem-ui-src-data-v2-mark-lane-ts-l140"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:22",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00054",
+          "classification": "donor-organization-signal",
+          "text": "\"text\": \"KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l46",
+            "mem-ui-src-data-v2-mark-lane-ts-l22"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:46",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00056",
+          "classification": "donor-organization-signal",
+          "text": "\"s-kpdc-statewide\",",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l48",
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l58",
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l71",
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l81",
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l94",
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l104",
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l119",
+            "mem-ui-src-data-v2-mark-lane-ts-l24",
+            "mem-ui-src-data-v2-mark-lane-ts-l34",
+            "mem-ui-src-data-v2-mark-lane-ts-l46",
+            "mem-ui-src-data-v2-mark-lane-ts-l58",
+            "mem-ui-src-data-v2-mark-lane-ts-l68",
+            "mem-ui-src-data-v2-mark-lane-ts-l80",
+            "mem-ui-src-data-v2-mark-lane-ts-l92",
+            "mem-ui-src-data-v2-mark-lane-ts-l102",
+            "mem-ui-src-data-v2-mark-lane-ts-l114"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:48",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00057",
+          "classification": "donor-organization-signal",
+          "text": "\"s-kpdc-at\"",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l49",
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l59",
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l72",
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l82",
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l95",
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l105",
+            "mem-ui-src-data-v2-mark-lane-ts-l25",
+            "mem-ui-src-data-v2-mark-lane-ts-l35",
+            "mem-ui-src-data-v2-mark-lane-ts-l59",
+            "mem-ui-src-data-v2-mark-lane-ts-l69",
+            "mem-ui-src-data-v2-mark-lane-ts-l93",
+            "mem-ui-src-data-v2-mark-lane-ts-l103"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:49",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00005",
+          "classification": "social-online-signal",
+          "text": "This artifact was created because the candidate-completeness audit found Mark Lane in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-in-their-own-words-md-l8",
+            "mem-memory-candidates-mark-lane-raw-dump-v2-md-l8",
+            "mem-memory-candidates-mark-lane-sleuth-pass-md-l8",
+            "mem-memory-candidates-mark-lane-social-harvest-md-l8"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/social-harvest.md:8",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00012",
+          "classification": "social-online-signal",
+          "text": "Ballot / filing status: KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-in-their-own-words-md-l19",
+            "mem-memory-candidates-mark-lane-raw-dump-v2-md-l19",
+            "mem-memory-candidates-mark-lane-sleuth-pass-md-l19",
+            "mem-memory-candidates-mark-lane-social-harvest-md-l19"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/social-harvest.md:19",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00014",
+          "classification": "social-online-signal",
+          "text": "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-in-their-own-words-md-l21",
+            "mem-memory-candidates-mark-lane-raw-dump-v2-md-l21",
+            "mem-memory-candidates-mark-lane-sleuth-pass-md-l21",
+            "mem-memory-candidates-mark-lane-social-harvest-md-l21"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/social-harvest.md:21",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-mark-lane-00047",
+          "classification": "background-context",
+          "text": "\"Appointment-of-treasurer report identifies Governor as the office sought\"",
+          "sourceIds": [
+            "mem-memory-candidates-mark-lane-v2-issues-yaml-l33",
+            "mem-ui-src-data-v2-mark-lane-ts-l151"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:33",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-mark-lane-0002",
+          "evidenceRowId": "em-mark-lane-00005",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "This artifact was created because the candidate-completeness audit found Mark Lane in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0003",
+          "evidenceRowId": "em-mark-lane-00012",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Ballot / filing status: KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0004",
+          "evidenceRowId": "em-mark-lane-00014",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0015",
+          "evidenceRowId": "em-mark-lane-00036",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"recordSummary\": \"This is a public-record profile for a campaign-finance account; party, platform, and final ballot status were not confirmed in this pass.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0016",
+          "evidenceRowId": "em-mark-lane-00037",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0017",
+          "evidenceRowId": "em-mark-lane-00054",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"text\": \"KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0018",
+          "evidenceRowId": "em-mark-lane-00067",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0019",
+          "evidenceRowId": "em-mark-lane-00127",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"observation\": \"Ballot / filing status: KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-mark-lane-0020",
+          "evidenceRowId": "em-mark-lane-00135",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 3,
+        "internalMemory": 32,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 14,
+      "title": "Environment / energy / land use",
+      "summary": "No relevant public evidence was found for Environment / energy / land use after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    }
+  ]
+}

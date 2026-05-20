@@ -1,0 +1,4729 @@
+[
+  {
+    "id": "em-ric-koehn-00045",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:37",
+    "sourceUrl": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW03RK_AT.pdf",
+    "sourceTier": "primary",
+    "evidenceType": "legal/court",
+    "issueMappedTo": [
+      10,
+      11
+    ],
+    "claim": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW03RK_AT.pdf\",",
+    "exactEvidenceSummary": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW03RK_AT.pdf\",",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Usable as sourced evidence; best available row has primary tier support. Deduplicated from 4 raw rows.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l26",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l37",
+      "mem-ui-src-data-v2-ric-koehn-ts-l135",
+      "mem-ui-src-data-v2-ric-koehn-ts-l146"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00090",
+      "raw-ric-koehn-00101",
+      "raw-ric-koehn-00374",
+      "raw-ric-koehn-00385"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [
+      "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW03RK_AT.pdf"
+    ],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:26",
+      "memory/candidates/ric-koehn/v2-issues.yaml:37",
+      "ui/src/data/v2/ric-koehn.ts:135",
+      "ui/src/data/v2/ric-koehn.ts:146"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00013",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/social-harvest.md:20",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social follow",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+    "exactEvidenceSummary": "- Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-in-their-own-words-md-l20",
+      "mem-memory-candidates-ric-koehn-raw-dump-v2-md-l20",
+      "mem-memory-candidates-ric-koehn-sleuth-pass-md-l20",
+      "mem-memory-candidates-ric-koehn-social-harvest-md-l20"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00013",
+      "raw-ric-koehn-00029",
+      "raw-ric-koehn-00045",
+      "raw-ric-koehn-00061"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/in-their-own-words.md:20",
+      "memory/candidates/ric-koehn/raw-dump-v2.md:20",
+      "memory/candidates/ric-koehn/sleuth-pass.md:20",
+      "memory/candidates/ric-koehn/social-harvest.md:20"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00012",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/social-harvest.md:19",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      9,
+      10,
+      13
+    ],
+    "claim": "Ballot / filing status: KPDC lists Ric Koehn under Insurance Commissioner candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+    "exactEvidenceSummary": "- Ballot / filing status: KPDC lists Ric Koehn under Insurance Commissioner candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-in-their-own-words-md-l19",
+      "mem-memory-candidates-ric-koehn-raw-dump-v2-md-l19",
+      "mem-memory-candidates-ric-koehn-sleuth-pass-md-l19",
+      "mem-memory-candidates-ric-koehn-social-harvest-md-l19"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00012",
+      "raw-ric-koehn-00028",
+      "raw-ric-koehn-00044",
+      "raw-ric-koehn-00060"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/in-their-own-words.md:19",
+      "memory/candidates/ric-koehn/raw-dump-v2.md:19",
+      "memory/candidates/ric-koehn/sleuth-pass.md:19",
+      "memory/candidates/ric-koehn/social-harvest.md:19"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00005",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/social-harvest.md:8",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "This artifact was created because the candidate-completeness audit found Ric Koehn in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+    "exactEvidenceSummary": "This artifact was created because the candidate-completeness audit found Ric Koehn in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-in-their-own-words-md-l8",
+      "mem-memory-candidates-ric-koehn-raw-dump-v2-md-l8",
+      "mem-memory-candidates-ric-koehn-sleuth-pass-md-l8",
+      "mem-memory-candidates-ric-koehn-social-harvest-md-l8"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00005",
+      "raw-ric-koehn-00021",
+      "raw-ric-koehn-00037",
+      "raw-ric-koehn-00053"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/in-their-own-words.md:8",
+      "memory/candidates/ric-koehn/raw-dump-v2.md:8",
+      "memory/candidates/ric-koehn/sleuth-pass.md:8",
+      "memory/candidates/ric-koehn/social-harvest.md:8"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00014",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/social-harvest.md:21",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+    "exactEvidenceSummary": "- Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-in-their-own-words-md-l21",
+      "mem-memory-candidates-ric-koehn-raw-dump-v2-md-l21",
+      "mem-memory-candidates-ric-koehn-sleuth-pass-md-l21",
+      "mem-memory-candidates-ric-koehn-social-harvest-md-l21"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00014",
+      "raw-ric-koehn-00030",
+      "raw-ric-koehn-00046",
+      "raw-ric-koehn-00062"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/in-their-own-words.md:21",
+      "memory/candidates/ric-koehn/raw-dump-v2.md:21",
+      "memory/candidates/ric-koehn/sleuth-pass.md:21",
+      "memory/candidates/ric-koehn/social-harvest.md:21"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00016",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/social-harvest.md:25",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+    "exactEvidenceSummary": "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-in-their-own-words-md-l25",
+      "mem-memory-candidates-ric-koehn-raw-dump-v2-md-l25",
+      "mem-memory-candidates-ric-koehn-sleuth-pass-md-l25",
+      "mem-memory-candidates-ric-koehn-social-harvest-md-l25"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00016",
+      "raw-ric-koehn-00032",
+      "raw-ric-koehn-00048",
+      "raw-ric-koehn-00064"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/in-their-own-words.md:25",
+      "memory/candidates/ric-koehn/raw-dump-v2.md:25",
+      "memory/candidates/ric-koehn/sleuth-pass.md:25",
+      "memory/candidates/ric-koehn/social-harvest.md:25"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00019",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/social-harvest.md:1",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Ric Koehn - social harvest",
+    "exactEvidenceSummary": "# Ric Koehn - social harvest",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-social-harvest-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00049"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/social-harvest.md:1"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00020",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/social-harvest.md:3",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Generated: 2026-05-20",
+    "exactEvidenceSummary": "Generated: 2026-05-20",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-social-harvest-md-l3"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00050"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/social-harvest.md:3"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00021",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/social-harvest.md:6",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Scope",
+    "exactEvidenceSummary": "## Scope",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-social-harvest-md-l6"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00052"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/social-harvest.md:6"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00022",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/social-harvest.md:10",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Current profile status",
+    "exactEvidenceSummary": "## Current profile status",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-social-harvest-md-l10"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00054"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/social-harvest.md:10"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00023",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/social-harvest.md:12",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Slug: ric-koehn",
+    "exactEvidenceSummary": "- Slug: ric-koehn",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-social-harvest-md-l12"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00055"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/social-harvest.md:12"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00025",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/social-harvest.md:17",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Evidence summary",
+    "exactEvidenceSummary": "## Evidence summary",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-social-harvest-md-l17"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00059"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/social-harvest.md:17"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00109",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:206",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "legal/court",
+    "issueMappedTo": [
+      1,
+      3,
+      5,
+      7,
+      10,
+      11,
+      13
+    ],
+    "claim": "\"Your state representative is one of 125 members of the Kansas House. They vote on every state law — property taxes, school funding, criminal penalties, road projects, gun laws, abortion policy, and the state budget. District 111 covers the Hays area, so this person is your direct voice in Topeka. They serve two-year terms and are supposed to bring your concerns to the statehouse floor.\",",
+    "exactEvidenceSummary": "\"Your state representative is one of 125 members of the Kansas House. They vote on every state law — property taxes, school funding, criminal penalties, road projects, gun laws, abortion policy, and the state budget. District 111 covers the Hays area, so this person is your direct voice in Topeka. They serve two-year terms and are supposed to bring your concerns to the statehouse floor.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l206"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00229"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:206"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00108",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:204",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      3,
+      5,
+      11,
+      13
+    ],
+    "claim": "\"Your state representative votes on school funding, tax policy, roads, public safety, and the state laws that shape daily life in Ellis County.\",",
+    "exactEvidenceSummary": "\"Your state representative votes on school funding, tax policy, roads, public safety, and the state laws that shape daily life in Ellis County.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l204"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00227"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:204"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00110",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:209",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      3,
+      13
+    ],
+    "claim": "slug: \"sboe-district-5\",",
+    "exactEvidenceSummary": "slug: \"sboe-district-5\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l209"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00232"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:209"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00111",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:210",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "meeting record",
+    "issueMappedTo": [
+      3,
+      13
+    ],
+    "claim": "name: \"State Board of Education District 5\",",
+    "exactEvidenceSummary": "name: \"State Board of Education District 5\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l210"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00233"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:210"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00112",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:213",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "meeting record",
+    "issueMappedTo": [
+      3,
+      13
+    ],
+    "claim": "jurisdiction: \"Kansas State Board of Education District 5\",",
+    "exactEvidenceSummary": "jurisdiction: \"Kansas State Board of Education District 5\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l213"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00236"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:213"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00065",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:69",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l69",
+      "mem-ui-src-data-v2-ric-koehn-ts-l56"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00133",
+      "raw-ric-koehn-00295"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:69",
+      "ui/src/data/v2/ric-koehn.ts:56"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00081",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:124",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l124"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00188"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:124"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00127",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:77",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l77"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00316"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:77"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00099",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:187",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      6,
+      9,
+      12,
+      13
+    ],
+    "claim": "\"The insurance commissioner regulates every insurance company doing business in Kansas. They approve or reject the rates you pay for health, auto, home, and crop insurance, investigate complaints when companies deny claims, and decide whether insurers are treating customers fairly. If your insurance premiums go up or a claim gets denied, this office is the one with the power to do something about it.\",",
+    "exactEvidenceSummary": "\"The insurance commissioner regulates every insurance company doing business in Kansas. They approve or reject the rates you pay for health, auto, home, and crop insurance, investigate complaints when companies deny claims, and decide whether insurers are treating customers fairly. If your insurance premiums go up or a claim gets denied, this office is the one with the power to do something about it.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l187"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00210"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:187"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00032",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:10",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      9
+    ],
+    "claim": "\"electionSlug\": \"kansas-insurance-2026\",",
+    "exactEvidenceSummary": "\"electionSlug\": \"kansas-insurance-2026\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l10",
+      "mem-ui-src-data-v2-ric-koehn-ts-l14"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00074",
+      "raw-ric-koehn-00253"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:10",
+      "ui/src/data/v2/ric-koehn.ts:14"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00034",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:12",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      9,
+      10,
+      13
+    ],
+    "claim": "\"occupation\": \"Insurance Commissioner candidate / campaign-finance account holder\",",
+    "exactEvidenceSummary": "\"occupation\": \"Insurance Commissioner candidate / campaign-finance account holder\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l12",
+      "mem-ui-src-data-v2-ric-koehn-ts-l16"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00076",
+      "raw-ric-koehn-00255"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:12",
+      "ui/src/data/v2/ric-koehn.ts:16"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00035",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:13",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      9,
+      10,
+      13
+    ],
+    "claim": "\"whoTheyAre\": \"Ric Koehn appears in KPDC's statewide campaign-finance index under Insurance Commissioner candidates. This pass did not verify a current statewide filing-row entry.\",",
+    "exactEvidenceSummary": "\"whoTheyAre\": \"Ric Koehn appears in KPDC's statewide campaign-finance index under Insurance Commissioner candidates. This pass did not verify a current statewide filing-row entry.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l13",
+      "mem-ui-src-data-v2-ric-koehn-ts-l121"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00077",
+      "raw-ric-koehn-00360"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:13",
+      "ui/src/data/v2/ric-koehn.ts:121"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00036",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:14",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      9,
+      10,
+      13
+    ],
+    "claim": "\"recordSummary\": \"This profile keeps the insurance-race roster complete against KPDC account data while distinguishing account status from final ballot status.\",",
+    "exactEvidenceSummary": "\"recordSummary\": \"This profile keeps the insurance-race roster complete against KPDC account data while distinguishing account status from final ballot status.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l14",
+      "mem-ui-src-data-v2-ric-koehn-ts-l122"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00078",
+      "raw-ric-koehn-00361"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:14",
+      "ui/src/data/v2/ric-koehn.ts:122"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00042",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:22",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      9,
+      13
+    ],
+    "claim": "\"KPDC index lists Koehn, Ric under Insurance Commissioner candidates\"",
+    "exactEvidenceSummary": "\"KPDC index lists Koehn, Ric under Insurance Commissioner candidates\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l22",
+      "mem-ui-src-data-v2-ric-koehn-ts-l140"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00086",
+      "raw-ric-koehn-00379"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:22",
+      "ui/src/data/v2/ric-koehn.ts:140"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00047",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:33",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      9,
+      13
+    ],
+    "claim": "\"Appointment-of-treasurer report identifies Insurance Commissioner as the office sought\"",
+    "exactEvidenceSummary": "\"Appointment-of-treasurer report identifies Insurance Commissioner as the office sought\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l33",
+      "mem-ui-src-data-v2-ric-koehn-ts-l151"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00097",
+      "raw-ric-koehn-00390"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:33",
+      "ui/src/data/v2/ric-koehn.ts:151"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00054",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:46",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      9,
+      10,
+      13
+    ],
+    "claim": "\"text\": \"KPDC lists Ric Koehn under Insurance Commissioner candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+    "exactEvidenceSummary": "\"text\": \"KPDC lists Ric Koehn under Insurance Commissioner candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l46",
+      "mem-ui-src-data-v2-ric-koehn-ts-l22"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00110",
+      "raw-ric-koehn-00261"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:46",
+      "ui/src/data/v2/ric-koehn.ts:22"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00061",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:56",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      9,
+      10,
+      13
+    ],
+    "claim": "\"body\": \"Ric Koehn was identified in the reviewed official or campaign-finance source for Kansas Insurance Commissioner campaign-finance account holder.\",",
+    "exactEvidenceSummary": "\"body\": \"Ric Koehn was identified in the reviewed official or campaign-finance source for Kansas Insurance Commissioner campaign-finance account holder.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l56",
+      "mem-ui-src-data-v2-ric-koehn-ts-l32"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00120",
+      "raw-ric-koehn-00271"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:56",
+      "ui/src/data/v2/ric-koehn.ts:32"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00083",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:171",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      9
+    ],
+    "claim": "slug: \"kansas-insurance-2026\",",
+    "exactEvidenceSummary": "slug: \"kansas-insurance-2026\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l171"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00194"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:171"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00084",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:172",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      9
+    ],
+    "claim": "name: \"Kansas Insurance Commissioner\",",
+    "exactEvidenceSummary": "name: \"Kansas Insurance Commissioner\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l172"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00195"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:172"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00093",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:181",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      9,
+      10,
+      13
+    ],
+    "claim": "\"The open-seat insurance commissioner race currently includes Daniel Hawkins and Dinah Sykes in filing rows, plus Ric Koehn in KPDC campaign-finance records.\",",
+    "exactEvidenceSummary": "\"The open-seat insurance commissioner race currently includes Daniel Hawkins and Dinah Sykes in filing rows, plus Ric Koehn in KPDC campaign-finance records.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l181"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00204"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:181"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00095",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:183",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      9,
+      10,
+      13
+    ],
+    "claim": "\"Kansas elects its insurance commissioner, and this office touches rates, claims, consumer complaints, and company oversight. Daniel Hawkins and Dinah Sykes are confirmed in the statewide filing mirror; Ric Koehn is included from the KPDC account index until final ballot records are rechecked.\",",
+    "exactEvidenceSummary": "\"Kansas elects its insurance commissioner, and this office touches rates, claims, consumer complaints, and company oversight. Daniel Hawkins and Dinah Sykes are confirmed in the statewide filing mirror; Ric Koehn is included from the KPDC account index until final ballot records are rechecked.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l183"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00206"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:183"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00097",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:185",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      9,
+      12
+    ],
+    "claim": "\"Insurance decisions affect what Kansans pay for health, auto, crop, and home coverage, and whether regulators push back when companies fail consumers.\",",
+    "exactEvidenceSummary": "\"Insurance decisions affect what Kansans pay for health, auto, crop, and home coverage, and whether regulators push back when companies fail consumers.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l185"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00208"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:185"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00124",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:43",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      9,
+      10,
+      13
+    ],
+    "claim": "\"observation\": \"Ballot / filing status: KPDC lists Ric Koehn under Insurance Commissioner candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+    "exactEvidenceSummary": "\"observation\": \"Ballot / filing status: KPDC lists Ric Koehn under Insurance Commissioner candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l43"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00282"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:43"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00033",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:11",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"incumbent\": false,",
+    "exactEvidenceSummary": "\"incumbent\": false,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l11",
+      "mem-ui-src-data-v2-ric-koehn-ts-l15"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00075",
+      "raw-ric-koehn-00254"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:11",
+      "ui/src/data/v2/ric-koehn.ts:15"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00037",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:15",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+    "exactEvidenceSummary": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l15"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00079"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:15"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00046",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:136",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "exactEvidenceSummary": "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l27",
+      "mem-ui-src-data-v2-ric-koehn-ts-l136"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00091",
+      "raw-ric-koehn-00375"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:27",
+      "ui/src/data/v2/ric-koehn.ts:136"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00052",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:44",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"title\": \"Ballot / filing status\",",
+    "exactEvidenceSummary": "\"title\": \"Ballot / filing status\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l44",
+      "mem-ui-src-data-v2-ric-koehn-ts-l20"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00108",
+      "raw-ric-koehn-00259"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:44",
+      "ui/src/data/v2/ric-koehn.ts:20"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00067",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:79",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+    "exactEvidenceSummary": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l79",
+      "mem-ui-src-data-v2-ric-koehn-ts-l66"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00143",
+      "raw-ric-koehn-00305"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:79",
+      "ui/src/data/v2/ric-koehn.ts:66"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00070",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:92",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "exactEvidenceSummary": "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l92",
+      "mem-ui-src-data-v2-ric-koehn-ts-l90"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00156",
+      "raw-ric-koehn-00329"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:92",
+      "ui/src/data/v2/ric-koehn.ts:90"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00078",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:117",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"source\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "exactEvidenceSummary": "\"source\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l117",
+      "mem-ui-src-data-v2-ric-koehn-ts-l128"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00181",
+      "raw-ric-koehn-00367"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:117",
+      "ui/src/data/v2/ric-koehn.ts:128"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00080",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:123",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.\",",
+    "exactEvidenceSummary": "\"Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l123"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00187"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:123"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00082",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:125",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication.\"",
+    "exactEvidenceSummary": "\"Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication.\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l125"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00189"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:125"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00103",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:196",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "status: \"Incumbent Running\",",
+    "exactEvidenceSummary": "status: \"Incumbent Running\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l196"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00219"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:196"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00126",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:48",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"mappedToIssueId\": \"i-ballot-status\"",
+    "exactEvidenceSummary": "\"mappedToIssueId\": \"i-ballot-status\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l48"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00287"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:48"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00129",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:111",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "exactEvidenceSummary": "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l111"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00350"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:111"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00132",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:130",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+    "exactEvidenceSummary": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l130"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00369"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:130"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00040",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:20",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"publisher\": \"Kansas Governmental Ethics Commission / KPDC\",",
+    "exactEvidenceSummary": "\"publisher\": \"Kansas Governmental Ethics Commission / KPDC\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l20",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l31",
+      "mem-ui-src-data-v2-ric-koehn-ts-l137",
+      "mem-ui-src-data-v2-ric-koehn-ts-l148"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00084",
+      "raw-ric-koehn-00095",
+      "raw-ric-koehn-00376",
+      "raw-ric-koehn-00387"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:20",
+      "memory/candidates/ric-koehn/v2-issues.yaml:31",
+      "ui/src/data/v2/ric-koehn.ts:137",
+      "ui/src/data/v2/ric-koehn.ts:148"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00056",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:48",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"s-kpdc-statewide\",",
+    "exactEvidenceSummary": "\"s-kpdc-statewide\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l48",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l58",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l71",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l81",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l94",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l104",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l119",
+      "mem-ui-src-data-v2-ric-koehn-ts-l24",
+      "mem-ui-src-data-v2-ric-koehn-ts-l34",
+      "mem-ui-src-data-v2-ric-koehn-ts-l46",
+      "mem-ui-src-data-v2-ric-koehn-ts-l58",
+      "mem-ui-src-data-v2-ric-koehn-ts-l68",
+      "mem-ui-src-data-v2-ric-koehn-ts-l80",
+      "mem-ui-src-data-v2-ric-koehn-ts-l92",
+      "mem-ui-src-data-v2-ric-koehn-ts-l102",
+      "mem-ui-src-data-v2-ric-koehn-ts-l114"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00112",
+      "raw-ric-koehn-00122",
+      "raw-ric-koehn-00135",
+      "raw-ric-koehn-00145",
+      "raw-ric-koehn-00158",
+      "raw-ric-koehn-00168",
+      "raw-ric-koehn-00183",
+      "raw-ric-koehn-00263",
+      "raw-ric-koehn-00273",
+      "raw-ric-koehn-00285",
+      "raw-ric-koehn-00297",
+      "raw-ric-koehn-00307",
+      "raw-ric-koehn-00319",
+      "raw-ric-koehn-00331",
+      "raw-ric-koehn-00341",
+      "raw-ric-koehn-00353"
+    ],
+    "duplicateCount": 16,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:48",
+      "memory/candidates/ric-koehn/v2-issues.yaml:58",
+      "memory/candidates/ric-koehn/v2-issues.yaml:71",
+      "memory/candidates/ric-koehn/v2-issues.yaml:81",
+      "memory/candidates/ric-koehn/v2-issues.yaml:94",
+      "memory/candidates/ric-koehn/v2-issues.yaml:104",
+      "memory/candidates/ric-koehn/v2-issues.yaml:119",
+      "ui/src/data/v2/ric-koehn.ts:24",
+      "ui/src/data/v2/ric-koehn.ts:34",
+      "ui/src/data/v2/ric-koehn.ts:46",
+      "ui/src/data/v2/ric-koehn.ts:58",
+      "ui/src/data/v2/ric-koehn.ts:68",
+      "ui/src/data/v2/ric-koehn.ts:80",
+      "ui/src/data/v2/ric-koehn.ts:92",
+      "ui/src/data/v2/ric-koehn.ts:102",
+      "ui/src/data/v2/ric-koehn.ts:114"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00057",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:49",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"s-kpdc-at\"",
+    "exactEvidenceSummary": "\"s-kpdc-at\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l49",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l59",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l72",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l82",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l95",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l105",
+      "mem-ui-src-data-v2-ric-koehn-ts-l25",
+      "mem-ui-src-data-v2-ric-koehn-ts-l35",
+      "mem-ui-src-data-v2-ric-koehn-ts-l59",
+      "mem-ui-src-data-v2-ric-koehn-ts-l69",
+      "mem-ui-src-data-v2-ric-koehn-ts-l93",
+      "mem-ui-src-data-v2-ric-koehn-ts-l103"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00113",
+      "raw-ric-koehn-00123",
+      "raw-ric-koehn-00136",
+      "raw-ric-koehn-00146",
+      "raw-ric-koehn-00159",
+      "raw-ric-koehn-00169",
+      "raw-ric-koehn-00264",
+      "raw-ric-koehn-00274",
+      "raw-ric-koehn-00298",
+      "raw-ric-koehn-00308",
+      "raw-ric-koehn-00332",
+      "raw-ric-koehn-00342"
+    ],
+    "duplicateCount": 12,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:49",
+      "memory/candidates/ric-koehn/v2-issues.yaml:59",
+      "memory/candidates/ric-koehn/v2-issues.yaml:72",
+      "memory/candidates/ric-koehn/v2-issues.yaml:82",
+      "memory/candidates/ric-koehn/v2-issues.yaml:95",
+      "memory/candidates/ric-koehn/v2-issues.yaml:105",
+      "ui/src/data/v2/ric-koehn.ts:25",
+      "ui/src/data/v2/ric-koehn.ts:35",
+      "ui/src/data/v2/ric-koehn.ts:59",
+      "ui/src/data/v2/ric-koehn.ts:69",
+      "ui/src/data/v2/ric-koehn.ts:93",
+      "ui/src/data/v2/ric-koehn.ts:103"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00069",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:90",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"title\": \"Donor / funding information\",",
+    "exactEvidenceSummary": "\"title\": \"Donor / funding information\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l90",
+      "mem-ui-src-data-v2-ric-koehn-ts-l88"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00154",
+      "raw-ric-koehn-00327"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:90",
+      "ui/src/data/v2/ric-koehn.ts:88"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00072",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:102",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"body\": \"The reviewed finance source confirms either a campaign-finance account, committee record, or no itemized summary yet; final donor detail needs the next public report if one is not already posted.\",",
+    "exactEvidenceSummary": "\"body\": \"The reviewed finance source confirms either a campaign-finance account, committee record, or no itemized summary yet; final donor detail needs the next public report if one is not already posted.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l102",
+      "mem-ui-src-data-v2-ric-koehn-ts-l100"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00166",
+      "raw-ric-koehn-00339"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:102",
+      "ui/src/data/v2/ric-koehn.ts:100"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00075",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:114",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"narrative\": \"No donor-by-donor public finance interpretation is made from the available records in this pass.\",",
+    "exactEvidenceSummary": "\"narrative\": \"No donor-by-donor public finance interpretation is made from the available records in this pass.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l114",
+      "mem-ui-src-data-v2-ric-koehn-ts-l125"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00178",
+      "raw-ric-koehn-00364"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:114",
+      "ui/src/data/v2/ric-koehn.ts:125"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00101",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:191",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "name: \"KS House District 111\",",
+    "exactEvidenceSummary": "name: \"KS House District 111\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l191"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00214"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:191"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00102",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:194",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "jurisdiction: \"Kansas House District 111\",",
+    "exactEvidenceSummary": "jurisdiction: \"Kansas House District 111\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l194"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00217"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:194"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00130",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:116",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"mappedToIssueId\": \"i-donor-funding\"",
+    "exactEvidenceSummary": "\"mappedToIssueId\": \"i-donor-funding\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l116"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00355"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:116"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00001",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/in-their-own-words.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Ric Koehn - in their own words",
+    "exactEvidenceSummary": "# Ric Koehn - in their own words",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-in-their-own-words-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00001"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/in-their-own-words.md:1"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00002",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/in-their-own-words.md:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Generated: 2026-05-20",
+    "exactEvidenceSummary": "Generated: 2026-05-20",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-in-their-own-words-md-l3",
+      "mem-memory-candidates-ric-koehn-raw-dump-v2-md-l3",
+      "mem-memory-candidates-ric-koehn-sleuth-pass-md-l3"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00002",
+      "raw-ric-koehn-00018",
+      "raw-ric-koehn-00034"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/in-their-own-words.md:3",
+      "memory/candidates/ric-koehn/raw-dump-v2.md:3",
+      "memory/candidates/ric-koehn/sleuth-pass.md:3"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00004",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/in-their-own-words.md:6",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Scope",
+    "exactEvidenceSummary": "## Scope",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-in-their-own-words-md-l6",
+      "mem-memory-candidates-ric-koehn-raw-dump-v2-md-l6",
+      "mem-memory-candidates-ric-koehn-sleuth-pass-md-l6"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00004",
+      "raw-ric-koehn-00020",
+      "raw-ric-koehn-00036"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/in-their-own-words.md:6",
+      "memory/candidates/ric-koehn/raw-dump-v2.md:6",
+      "memory/candidates/ric-koehn/sleuth-pass.md:6"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00006",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/in-their-own-words.md:10",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Current profile status",
+    "exactEvidenceSummary": "## Current profile status",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-in-their-own-words-md-l10",
+      "mem-memory-candidates-ric-koehn-raw-dump-v2-md-l10",
+      "mem-memory-candidates-ric-koehn-sleuth-pass-md-l10"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00006",
+      "raw-ric-koehn-00022",
+      "raw-ric-koehn-00038"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/in-their-own-words.md:10",
+      "memory/candidates/ric-koehn/raw-dump-v2.md:10",
+      "memory/candidates/ric-koehn/sleuth-pass.md:10"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00007",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:2",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"slug\": \"ric-koehn\",",
+    "exactEvidenceSummary": "\"slug\": \"ric-koehn\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-in-their-own-words-md-l12",
+      "mem-memory-candidates-ric-koehn-raw-dump-v2-md-l12",
+      "mem-memory-candidates-ric-koehn-sleuth-pass-md-l12",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l2",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l6",
+      "mem-ui-src-data-v2-ric-koehn-ts-l10"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00007",
+      "raw-ric-koehn-00023",
+      "raw-ric-koehn-00039",
+      "raw-ric-koehn-00066",
+      "raw-ric-koehn-00070",
+      "raw-ric-koehn-00249"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/in-their-own-words.md:12",
+      "memory/candidates/ric-koehn/raw-dump-v2.md:12",
+      "memory/candidates/ric-koehn/sleuth-pass.md:12",
+      "memory/candidates/ric-koehn/v2-issues.yaml:2",
+      "memory/candidates/ric-koehn/v2-issues.yaml:6",
+      "ui/src/data/v2/ric-koehn.ts:10"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00011",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/in-their-own-words.md:17",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Evidence summary",
+    "exactEvidenceSummary": "## Evidence summary",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-in-their-own-words-md-l17",
+      "mem-memory-candidates-ric-koehn-raw-dump-v2-md-l17",
+      "mem-memory-candidates-ric-koehn-sleuth-pass-md-l17"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00011",
+      "raw-ric-koehn-00027",
+      "raw-ric-koehn-00043"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/in-their-own-words.md:17",
+      "memory/candidates/ric-koehn/raw-dump-v2.md:17",
+      "memory/candidates/ric-koehn/sleuth-pass.md:17"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00017",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/raw-dump-v2.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Ric Koehn - raw dump v2",
+    "exactEvidenceSummary": "# Ric Koehn - raw dump v2",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-raw-dump-v2-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00017"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/raw-dump-v2.md:1"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00018",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/sleuth-pass.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Ric Koehn - sleuth pass",
+    "exactEvidenceSummary": "# Ric Koehn - sleuth pass",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-sleuth-pass-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00033"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/sleuth-pass.md:1"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00027",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:16",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "},",
+    "exactEvidenceSummary": "},",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l1",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l16",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l18",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l23",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l28",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l29",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l34",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l39",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l40",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l42",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l50",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l51",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l53",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l60",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l61",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l62",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l64",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l65",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l73",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l74",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l76",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l83",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l84",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l85",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l87",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l88",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l96",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l97",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l99",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l106",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l107",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l108",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l110",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l111",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l120",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l121",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l126",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l127",
+      "mem-ui-src-data-elections-ts-l169",
+      "mem-ui-src-data-elections-ts-l170",
+      "mem-ui-src-data-elections-ts-l188",
+      "mem-ui-src-data-elections-ts-l189",
+      "mem-ui-src-data-elections-ts-l207",
+      "mem-ui-src-data-elections-ts-l208",
+      "mem-ui-src-data-v2-ric-koehn-ts-l4",
+      "mem-ui-src-data-v2-ric-koehn-ts-l18",
+      "mem-ui-src-data-v2-ric-koehn-ts-l26",
+      "mem-ui-src-data-v2-ric-koehn-ts-l27",
+      "mem-ui-src-data-v2-ric-koehn-ts-l29",
+      "mem-ui-src-data-v2-ric-koehn-ts-l36",
+      "mem-ui-src-data-v2-ric-koehn-ts-l37",
+      "mem-ui-src-data-v2-ric-koehn-ts-l38",
+      "mem-ui-src-data-v2-ric-koehn-ts-l40",
+      "mem-ui-src-data-v2-ric-koehn-ts-l47",
+      "mem-ui-src-data-v2-ric-koehn-ts-l49",
+      "mem-ui-src-data-v2-ric-koehn-ts-l50",
+      "mem-ui-src-data-v2-ric-koehn-ts-l51",
+      "mem-ui-src-data-v2-ric-koehn-ts-l52",
+      "mem-ui-src-data-v2-ric-koehn-ts-l60",
+      "mem-ui-src-data-v2-ric-koehn-ts-l61",
+      "mem-ui-src-data-v2-ric-koehn-ts-l63",
+      "mem-ui-src-data-v2-ric-koehn-ts-l70",
+      "mem-ui-src-data-v2-ric-koehn-ts-l71",
+      "mem-ui-src-data-v2-ric-koehn-ts-l72",
+      "mem-ui-src-data-v2-ric-koehn-ts-l74",
+      "mem-ui-src-data-v2-ric-koehn-ts-l81",
+      "mem-ui-src-data-v2-ric-koehn-ts-l83",
+      "mem-ui-src-data-v2-ric-koehn-ts-l84",
+      "mem-ui-src-data-v2-ric-koehn-ts-l85",
+      "mem-ui-src-data-v2-ric-koehn-ts-l86",
+      "mem-ui-src-data-v2-ric-koehn-ts-l94",
+      "mem-ui-src-data-v2-ric-koehn-ts-l95",
+      "mem-ui-src-data-v2-ric-koehn-ts-l97",
+      "mem-ui-src-data-v2-ric-koehn-ts-l104",
+      "mem-ui-src-data-v2-ric-koehn-ts-l105",
+      "mem-ui-src-data-v2-ric-koehn-ts-l106",
+      "mem-ui-src-data-v2-ric-koehn-ts-l108",
+      "mem-ui-src-data-v2-ric-koehn-ts-l115",
+      "mem-ui-src-data-v2-ric-koehn-ts-l117",
+      "mem-ui-src-data-v2-ric-koehn-ts-l118",
+      "mem-ui-src-data-v2-ric-koehn-ts-l119",
+      "mem-ui-src-data-v2-ric-koehn-ts-l120",
+      "mem-ui-src-data-v2-ric-koehn-ts-l129",
+      "mem-ui-src-data-v2-ric-koehn-ts-l132",
+      "mem-ui-src-data-v2-ric-koehn-ts-l141",
+      "mem-ui-src-data-v2-ric-koehn-ts-l142",
+      "mem-ui-src-data-v2-ric-koehn-ts-l143",
+      "mem-ui-src-data-v2-ric-koehn-ts-l152",
+      "mem-ui-src-data-v2-ric-koehn-ts-l153",
+      "mem-ui-src-data-v2-ric-koehn-ts-l154",
+      "mem-ui-src-data-v2-ric-koehn-ts-l155",
+      "mem-ui-src-data-v2-ric-koehn-ts-l164",
+      "mem-ui-src-data-v2-ric-koehn-ts-l165",
+      "mem-ui-src-data-v2-ric-koehn-ts-l166"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00065",
+      "raw-ric-koehn-00080",
+      "raw-ric-koehn-00082",
+      "raw-ric-koehn-00087",
+      "raw-ric-koehn-00092",
+      "raw-ric-koehn-00093",
+      "raw-ric-koehn-00098",
+      "raw-ric-koehn-00103",
+      "raw-ric-koehn-00104",
+      "raw-ric-koehn-00106",
+      "raw-ric-koehn-00114",
+      "raw-ric-koehn-00115",
+      "raw-ric-koehn-00117",
+      "raw-ric-koehn-00124",
+      "raw-ric-koehn-00125",
+      "raw-ric-koehn-00126",
+      "raw-ric-koehn-00128",
+      "raw-ric-koehn-00129",
+      "raw-ric-koehn-00137",
+      "raw-ric-koehn-00138",
+      "raw-ric-koehn-00140",
+      "raw-ric-koehn-00147",
+      "raw-ric-koehn-00148",
+      "raw-ric-koehn-00149",
+      "raw-ric-koehn-00151",
+      "raw-ric-koehn-00152",
+      "raw-ric-koehn-00160",
+      "raw-ric-koehn-00161",
+      "raw-ric-koehn-00163",
+      "raw-ric-koehn-00170",
+      "raw-ric-koehn-00171",
+      "raw-ric-koehn-00172",
+      "raw-ric-koehn-00174",
+      "raw-ric-koehn-00175",
+      "raw-ric-koehn-00184",
+      "raw-ric-koehn-00185",
+      "raw-ric-koehn-00190",
+      "raw-ric-koehn-00191",
+      "raw-ric-koehn-00192",
+      "raw-ric-koehn-00193",
+      "raw-ric-koehn-00211",
+      "raw-ric-koehn-00212",
+      "raw-ric-koehn-00230",
+      "raw-ric-koehn-00231",
+      "raw-ric-koehn-00245",
+      "raw-ric-koehn-00257",
+      "raw-ric-koehn-00265",
+      "raw-ric-koehn-00266",
+      "raw-ric-koehn-00268",
+      "raw-ric-koehn-00275",
+      "raw-ric-koehn-00276",
+      "raw-ric-koehn-00277",
+      "raw-ric-koehn-00279",
+      "raw-ric-koehn-00286",
+      "raw-ric-koehn-00288",
+      "raw-ric-koehn-00289",
+      "raw-ric-koehn-00290",
+      "raw-ric-koehn-00291",
+      "raw-ric-koehn-00299",
+      "raw-ric-koehn-00300",
+      "raw-ric-koehn-00302",
+      "raw-ric-koehn-00309",
+      "raw-ric-koehn-00310",
+      "raw-ric-koehn-00311",
+      "raw-ric-koehn-00313",
+      "raw-ric-koehn-00320",
+      "raw-ric-koehn-00322",
+      "raw-ric-koehn-00323",
+      "raw-ric-koehn-00324",
+      "raw-ric-koehn-00325",
+      "raw-ric-koehn-00333",
+      "raw-ric-koehn-00334",
+      "raw-ric-koehn-00336",
+      "raw-ric-koehn-00343",
+      "raw-ric-koehn-00344",
+      "raw-ric-koehn-00345",
+      "raw-ric-koehn-00347",
+      "raw-ric-koehn-00354",
+      "raw-ric-koehn-00356",
+      "raw-ric-koehn-00357",
+      "raw-ric-koehn-00358",
+      "raw-ric-koehn-00359",
+      "raw-ric-koehn-00368",
+      "raw-ric-koehn-00371",
+      "raw-ric-koehn-00380",
+      "raw-ric-koehn-00381",
+      "raw-ric-koehn-00382",
+      "raw-ric-koehn-00391",
+      "raw-ric-koehn-00392",
+      "raw-ric-koehn-00393",
+      "raw-ric-koehn-00394",
+      "raw-ric-koehn-00402",
+      "raw-ric-koehn-00403",
+      "raw-ric-koehn-00404"
+    ],
+    "duplicateCount": 94,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:1",
+      "memory/candidates/ric-koehn/v2-issues.yaml:16",
+      "memory/candidates/ric-koehn/v2-issues.yaml:18",
+      "memory/candidates/ric-koehn/v2-issues.yaml:23",
+      "memory/candidates/ric-koehn/v2-issues.yaml:28",
+      "memory/candidates/ric-koehn/v2-issues.yaml:29",
+      "memory/candidates/ric-koehn/v2-issues.yaml:34",
+      "memory/candidates/ric-koehn/v2-issues.yaml:39",
+      "memory/candidates/ric-koehn/v2-issues.yaml:40",
+      "memory/candidates/ric-koehn/v2-issues.yaml:42",
+      "memory/candidates/ric-koehn/v2-issues.yaml:50",
+      "memory/candidates/ric-koehn/v2-issues.yaml:51",
+      "memory/candidates/ric-koehn/v2-issues.yaml:53",
+      "memory/candidates/ric-koehn/v2-issues.yaml:60",
+      "memory/candidates/ric-koehn/v2-issues.yaml:61",
+      "memory/candidates/ric-koehn/v2-issues.yaml:62",
+      "memory/candidates/ric-koehn/v2-issues.yaml:64",
+      "memory/candidates/ric-koehn/v2-issues.yaml:65",
+      "memory/candidates/ric-koehn/v2-issues.yaml:73",
+      "memory/candidates/ric-koehn/v2-issues.yaml:74",
+      "memory/candidates/ric-koehn/v2-issues.yaml:76",
+      "memory/candidates/ric-koehn/v2-issues.yaml:83",
+      "memory/candidates/ric-koehn/v2-issues.yaml:84",
+      "memory/candidates/ric-koehn/v2-issues.yaml:85",
+      "memory/candidates/ric-koehn/v2-issues.yaml:87",
+      "memory/candidates/ric-koehn/v2-issues.yaml:88",
+      "memory/candidates/ric-koehn/v2-issues.yaml:96",
+      "memory/candidates/ric-koehn/v2-issues.yaml:97",
+      "memory/candidates/ric-koehn/v2-issues.yaml:99",
+      "memory/candidates/ric-koehn/v2-issues.yaml:106",
+      "memory/candidates/ric-koehn/v2-issues.yaml:107",
+      "memory/candidates/ric-koehn/v2-issues.yaml:108",
+      "memory/candidates/ric-koehn/v2-issues.yaml:110",
+      "memory/candidates/ric-koehn/v2-issues.yaml:111",
+      "memory/candidates/ric-koehn/v2-issues.yaml:120",
+      "memory/candidates/ric-koehn/v2-issues.yaml:121",
+      "memory/candidates/ric-koehn/v2-issues.yaml:126",
+      "memory/candidates/ric-koehn/v2-issues.yaml:127",
+      "ui/src/data/elections.ts:169",
+      "ui/src/data/elections.ts:170",
+      "ui/src/data/elections.ts:188",
+      "ui/src/data/elections.ts:189",
+      "ui/src/data/elections.ts:207",
+      "ui/src/data/elections.ts:208",
+      "ui/src/data/v2/ric-koehn.ts:4",
+      "ui/src/data/v2/ric-koehn.ts:18",
+      "ui/src/data/v2/ric-koehn.ts:26",
+      "ui/src/data/v2/ric-koehn.ts:27",
+      "ui/src/data/v2/ric-koehn.ts:29",
+      "ui/src/data/v2/ric-koehn.ts:36",
+      "ui/src/data/v2/ric-koehn.ts:37",
+      "ui/src/data/v2/ric-koehn.ts:38",
+      "ui/src/data/v2/ric-koehn.ts:40",
+      "ui/src/data/v2/ric-koehn.ts:47",
+      "ui/src/data/v2/ric-koehn.ts:49",
+      "ui/src/data/v2/ric-koehn.ts:50",
+      "ui/src/data/v2/ric-koehn.ts:51",
+      "ui/src/data/v2/ric-koehn.ts:52",
+      "ui/src/data/v2/ric-koehn.ts:60",
+      "ui/src/data/v2/ric-koehn.ts:61",
+      "ui/src/data/v2/ric-koehn.ts:63",
+      "ui/src/data/v2/ric-koehn.ts:70",
+      "ui/src/data/v2/ric-koehn.ts:71",
+      "ui/src/data/v2/ric-koehn.ts:72",
+      "ui/src/data/v2/ric-koehn.ts:74",
+      "ui/src/data/v2/ric-koehn.ts:81",
+      "ui/src/data/v2/ric-koehn.ts:83",
+      "ui/src/data/v2/ric-koehn.ts:84",
+      "ui/src/data/v2/ric-koehn.ts:85",
+      "ui/src/data/v2/ric-koehn.ts:86",
+      "ui/src/data/v2/ric-koehn.ts:94",
+      "ui/src/data/v2/ric-koehn.ts:95",
+      "ui/src/data/v2/ric-koehn.ts:97",
+      "ui/src/data/v2/ric-koehn.ts:104",
+      "ui/src/data/v2/ric-koehn.ts:105",
+      "ui/src/data/v2/ric-koehn.ts:106",
+      "ui/src/data/v2/ric-koehn.ts:108",
+      "ui/src/data/v2/ric-koehn.ts:115",
+      "ui/src/data/v2/ric-koehn.ts:117",
+      "ui/src/data/v2/ric-koehn.ts:118",
+      "ui/src/data/v2/ric-koehn.ts:119",
+      "ui/src/data/v2/ric-koehn.ts:120",
+      "ui/src/data/v2/ric-koehn.ts:129",
+      "ui/src/data/v2/ric-koehn.ts:132",
+      "ui/src/data/v2/ric-koehn.ts:141",
+      "ui/src/data/v2/ric-koehn.ts:142",
+      "ui/src/data/v2/ric-koehn.ts:143",
+      "ui/src/data/v2/ric-koehn.ts:152",
+      "ui/src/data/v2/ric-koehn.ts:153",
+      "ui/src/data/v2/ric-koehn.ts:154",
+      "ui/src/data/v2/ric-koehn.ts:155",
+      "ui/src/data/v2/ric-koehn.ts:164",
+      "ui/src/data/v2/ric-koehn.ts:165",
+      "ui/src/data/v2/ric-koehn.ts:166"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00028",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"generated\": \"2026-05-20T02:11:14.688Z\",",
+    "exactEvidenceSummary": "\"generated\": \"2026-05-20T02:11:14.688Z\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l3"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00067"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:3"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00029",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:5",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"candidate_metadata\": {",
+    "exactEvidenceSummary": "\"candidate_metadata\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l5"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00069"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:5"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00030",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:7",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"name\": \"Ric Koehn\",",
+    "exactEvidenceSummary": "\"name\": \"Ric Koehn\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l7",
+      "mem-ui-src-data-v2-ric-koehn-ts-l11"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00071",
+      "raw-ric-koehn-00250"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:7",
+      "ui/src/data/v2/ric-koehn.ts:11"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00031",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:8",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"party\": \"NP\",",
+    "exactEvidenceSummary": "\"party\": \"NP\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l8",
+      "mem-ui-src-data-v2-ric-koehn-ts-l12"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00072",
+      "raw-ric-koehn-00251"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:8",
+      "ui/src/data/v2/ric-koehn.ts:12"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00038",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:17",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sources\": [",
+    "exactEvidenceSummary": "\"sources\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l17",
+      "mem-ui-src-data-v2-ric-koehn-ts-l131"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00081",
+      "raw-ric-koehn-00370"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:17",
+      "ui/src/data/v2/ric-koehn.ts:131"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00039",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:19",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"accessed\": \"2026-05-20\",",
+    "exactEvidenceSummary": "\"accessed\": \"2026-05-20\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l19",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l30",
+      "mem-ui-src-data-v2-ric-koehn-ts-l138",
+      "mem-ui-src-data-v2-ric-koehn-ts-l149"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00083",
+      "raw-ric-koehn-00094",
+      "raw-ric-koehn-00377",
+      "raw-ric-koehn-00388"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:19",
+      "memory/candidates/ric-koehn/v2-issues.yaml:30",
+      "ui/src/data/v2/ric-koehn.ts:138",
+      "ui/src/data/v2/ric-koehn.ts:149"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00041",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:21",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"claimsAnchored\": [",
+    "exactEvidenceSummary": "\"claimsAnchored\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l21",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l32",
+      "mem-ui-src-data-v2-ric-koehn-ts-l139",
+      "mem-ui-src-data-v2-ric-koehn-ts-l150"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00085",
+      "raw-ric-koehn-00096",
+      "raw-ric-koehn-00378",
+      "raw-ric-koehn-00389"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:21",
+      "memory/candidates/ric-koehn/v2-issues.yaml:32",
+      "ui/src/data/v2/ric-koehn.ts:139",
+      "ui/src/data/v2/ric-koehn.ts:150"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00044",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:25",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"tier\": \"primary\",",
+    "exactEvidenceSummary": "\"tier\": \"primary\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l25",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l36",
+      "mem-ui-src-data-v2-ric-koehn-ts-l134",
+      "mem-ui-src-data-v2-ric-koehn-ts-l145"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00089",
+      "raw-ric-koehn-00100",
+      "raw-ric-koehn-00373",
+      "raw-ric-koehn-00384"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:25",
+      "memory/candidates/ric-koehn/v2-issues.yaml:36",
+      "ui/src/data/v2/ric-koehn.ts:134",
+      "ui/src/data/v2/ric-koehn.ts:145"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00049",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:147",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"title\": \"Ric Koehn Appointment of Treasurer\",",
+    "exactEvidenceSummary": "\"title\": \"Ric Koehn Appointment of Treasurer\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l38",
+      "mem-ui-src-data-v2-ric-koehn-ts-l147"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00102",
+      "raw-ric-koehn-00386"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:38",
+      "ui/src/data/v2/ric-koehn.ts:147"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00053",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:45",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"stated\": {",
+    "exactEvidenceSummary": "\"stated\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l45",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l68",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l91",
+      "mem-ui-src-data-v2-ric-koehn-ts-l21",
+      "mem-ui-src-data-v2-ric-koehn-ts-l55",
+      "mem-ui-src-data-v2-ric-koehn-ts-l89"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00109",
+      "raw-ric-koehn-00132",
+      "raw-ric-koehn-00155",
+      "raw-ric-koehn-00260",
+      "raw-ric-koehn-00294",
+      "raw-ric-koehn-00328"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:45",
+      "memory/candidates/ric-koehn/v2-issues.yaml:68",
+      "memory/candidates/ric-koehn/v2-issues.yaml:91",
+      "ui/src/data/v2/ric-koehn.ts:21",
+      "ui/src/data/v2/ric-koehn.ts:55",
+      "ui/src/data/v2/ric-koehn.ts:89"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00058",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:52",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"actions\": [",
+    "exactEvidenceSummary": "\"actions\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l52",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l75",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l98",
+      "mem-ui-src-data-v2-ric-koehn-ts-l28",
+      "mem-ui-src-data-v2-ric-koehn-ts-l62",
+      "mem-ui-src-data-v2-ric-koehn-ts-l96"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00116",
+      "raw-ric-koehn-00139",
+      "raw-ric-koehn-00162",
+      "raw-ric-koehn-00267",
+      "raw-ric-koehn-00301",
+      "raw-ric-koehn-00335"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:52",
+      "memory/candidates/ric-koehn/v2-issues.yaml:75",
+      "memory/candidates/ric-koehn/v2-issues.yaml:98",
+      "ui/src/data/v2/ric-koehn.ts:28",
+      "ui/src/data/v2/ric-koehn.ts:62",
+      "ui/src/data/v2/ric-koehn.ts:96"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00060",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:55",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"date\": \"2026-05-20\",",
+    "exactEvidenceSummary": "\"date\": \"2026-05-20\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l55",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l78",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l101",
+      "mem-ui-src-data-v2-ric-koehn-ts-l31",
+      "mem-ui-src-data-v2-ric-koehn-ts-l65",
+      "mem-ui-src-data-v2-ric-koehn-ts-l99"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00119",
+      "raw-ric-koehn-00142",
+      "raw-ric-koehn-00165",
+      "raw-ric-koehn-00270",
+      "raw-ric-koehn-00304",
+      "raw-ric-koehn-00338"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:55",
+      "memory/candidates/ric-koehn/v2-issues.yaml:78",
+      "memory/candidates/ric-koehn/v2-issues.yaml:101",
+      "ui/src/data/v2/ric-koehn.ts:31",
+      "ui/src/data/v2/ric-koehn.ts:65",
+      "ui/src/data/v2/ric-koehn.ts:99"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00064",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:67",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"title\": \"Where they stand on big issues\",",
+    "exactEvidenceSummary": "\"title\": \"Where they stand on big issues\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l67",
+      "mem-ui-src-data-v2-ric-koehn-ts-l54"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00131",
+      "raw-ric-koehn-00293"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:67",
+      "ui/src/data/v2/ric-koehn.ts:54"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00073",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:112",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"campaign_finance\": {",
+    "exactEvidenceSummary": "\"campaign_finance\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l112"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00176"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:112"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00074",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:113",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"totalRaised\": \"Not itemized in the reviewed public records for this pass\",",
+    "exactEvidenceSummary": "\"totalRaised\": \"Not itemized in the reviewed public records for this pass\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l113",
+      "mem-ui-src-data-v2-ric-koehn-ts-l124"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00177",
+      "raw-ric-koehn-00363"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:113",
+      "ui/src/data/v2/ric-koehn.ts:124"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00076",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:115",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"donors\": [],",
+    "exactEvidenceSummary": "\"donors\": [],",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l115",
+      "mem-ui-src-data-v2-ric-koehn-ts-l126"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00179",
+      "raw-ric-koehn-00365"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:115",
+      "ui/src/data/v2/ric-koehn.ts:126"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00077",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:116",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"reportingPeriod\": \"Most recent public record reviewed\",",
+    "exactEvidenceSummary": "\"reportingPeriod\": \"Most recent public record reviewed\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l116",
+      "mem-ui-src-data-v2-ric-koehn-ts-l127"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00180",
+      "raw-ric-koehn-00366"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:116",
+      "ui/src/data/v2/ric-koehn.ts:127"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00079",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:122",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"editorial_notes\": [",
+    "exactEvidenceSummary": "\"editorial_notes\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l122"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00186"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:122"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00085",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:173",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "level: \"State\",",
+    "exactEvidenceSummary": "level: \"State\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l173",
+      "mem-ui-src-data-elections-ts-l192",
+      "mem-ui-src-data-elections-ts-l211"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00196",
+      "raw-ric-koehn-00215",
+      "raw-ric-koehn-00234"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:173",
+      "ui/src/data/elections.ts:192",
+      "ui/src/data/elections.ts:211"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00086",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:174",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "date: \"2026-11-03\",",
+    "exactEvidenceSummary": "date: \"2026-11-03\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l174",
+      "mem-ui-src-data-elections-ts-l193",
+      "mem-ui-src-data-elections-ts-l212"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00197",
+      "raw-ric-koehn-00216",
+      "raw-ric-koehn-00235"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:174",
+      "ui/src/data/elections.ts:193",
+      "ui/src/data/elections.ts:212"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00087",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:175",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "jurisdiction: \"State of Kansas\",",
+    "exactEvidenceSummary": "jurisdiction: \"State of Kansas\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l175"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00198"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:175"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00088",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:176",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "seats: 1,",
+    "exactEvidenceSummary": "seats: 1,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l176",
+      "mem-ui-src-data-elections-ts-l195",
+      "mem-ui-src-data-elections-ts-l214"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00199",
+      "raw-ric-koehn-00218",
+      "raw-ric-koehn-00237"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:176",
+      "ui/src/data/elections.ts:195",
+      "ui/src/data/elections.ts:214"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00089",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:177",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "status: \"Open Seat\",",
+    "exactEvidenceSummary": "status: \"Open Seat\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l177"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00200"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:177"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00090",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:178",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateCount: 3,",
+    "exactEvidenceSummary": "candidateCount: 3,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l178"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00201"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:178"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00091",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:179",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateSlugs: [\"daniel-hawkins\", \"dinah-sykes\", \"ric-koehn\"],",
+    "exactEvidenceSummary": "candidateSlugs: [\"daniel-hawkins\", \"dinah-sykes\", \"ric-koehn\"],",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l179"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00202"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:179"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00092",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:180",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "description:",
+    "exactEvidenceSummary": "description:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l180",
+      "mem-ui-src-data-elections-ts-l199",
+      "mem-ui-src-data-elections-ts-l218"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00203",
+      "raw-ric-koehn-00222",
+      "raw-ric-koehn-00241"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:180",
+      "ui/src/data/elections.ts:199",
+      "ui/src/data/elections.ts:218"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00094",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:182",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "plainEnglish:",
+    "exactEvidenceSummary": "plainEnglish:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l182",
+      "mem-ui-src-data-elections-ts-l201"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00205",
+      "raw-ric-koehn-00224"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:182",
+      "ui/src/data/elections.ts:201"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00096",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:184",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "whyItMatters:",
+    "exactEvidenceSummary": "whyItMatters:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l184",
+      "mem-ui-src-data-elections-ts-l203"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00207",
+      "raw-ric-koehn-00226"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:184",
+      "ui/src/data/elections.ts:203"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00098",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:186",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "jobDescription:",
+    "exactEvidenceSummary": "jobDescription:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l186",
+      "mem-ui-src-data-elections-ts-l205"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00209",
+      "raw-ric-koehn-00228"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:186",
+      "ui/src/data/elections.ts:205"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00100",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:190",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "slug: \"ks-house-111\",",
+    "exactEvidenceSummary": "slug: \"ks-house-111\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l190"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00213"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:190"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00104",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:197",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateCount: 1,",
+    "exactEvidenceSummary": "candidateCount: 1,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l197"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00220"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:197"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00113",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:215",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "status: \"N/A\",",
+    "exactEvidenceSummary": "status: \"N/A\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l215"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00238"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:215"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00114",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:216",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateCount: 2,",
+    "exactEvidenceSummary": "candidateCount: 2,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l216"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00239"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:216"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00116",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+    "exactEvidenceSummary": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l1"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00242"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:1"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00117",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:2",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "To refresh:",
+    "exactEvidenceSummary": "* To refresh:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l2"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00243"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:2"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00118",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "node scripts/hydrate-v2-social-signals.mjs",
+    "exactEvidenceSummary": "* node scripts/hydrate-v2-social-signals.mjs",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l3"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00244"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:3"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00119",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:6",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+    "exactEvidenceSummary": "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l6"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00246"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:6"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00120",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:7",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "import { validateCandidateV2 } from \"@/data/types-v2\";",
+    "exactEvidenceSummary": "import { validateCandidateV2 } from \"@/data/types-v2\";",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l7"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00247"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:7"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00121",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:9",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "export const RIC_KOEHN_V2: CandidateFullV2 = {",
+    "exactEvidenceSummary": "export const RIC_KOEHN_V2: CandidateFullV2 = {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l9"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00248"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:9"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00123",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:42",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "campaign statement",
+    "issueMappedTo": [],
+    "claim": "\"platform\": \"Public web\",",
+    "exactEvidenceSummary": "\"platform\": \"Public web\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l42",
+      "mem-ui-src-data-v2-ric-koehn-ts-l76",
+      "mem-ui-src-data-v2-ric-koehn-ts-l110"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00281",
+      "raw-ric-koehn-00315",
+      "raw-ric-koehn-00349"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:42",
+      "ui/src/data/v2/ric-koehn.ts:76",
+      "ui/src/data/v2/ric-koehn.ts:110"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00125",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:44",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"observedAt\": \"2026-05-19\",",
+    "exactEvidenceSummary": "\"observedAt\": \"2026-05-19\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l44",
+      "mem-ui-src-data-v2-ric-koehn-ts-l78",
+      "mem-ui-src-data-v2-ric-koehn-ts-l112"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00283",
+      "raw-ric-koehn-00317",
+      "raw-ric-koehn-00351"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:44",
+      "ui/src/data/v2/ric-koehn.ts:78",
+      "ui/src/data/v2/ric-koehn.ts:112"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00128",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:82",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"mappedToIssueId\": \"i-public-issue-record\"",
+    "exactEvidenceSummary": "\"mappedToIssueId\": \"i-public-issue-record\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l82"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00321"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:82"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00131",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:123",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"campaignFinance\": {",
+    "exactEvidenceSummary": "\"campaignFinance\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l123"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00362"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:123"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00133",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:157",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "if (process.env.NODE_ENV !== \"production\") {",
+    "exactEvidenceSummary": "if (process.env.NODE_ENV !== \"production\") {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l157"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00395"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:157"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00134",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:158",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "const result = validateCandidateV2(RIC_KOEHN_V2);",
+    "exactEvidenceSummary": "const result = validateCandidateV2(RIC_KOEHN_V2);",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l158"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00396"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:158"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00135",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:159",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "if (!result.ok) {",
+    "exactEvidenceSummary": "if (!result.ok) {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l159"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00397"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:159"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00136",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:160",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "// eslint-disable-next-line no-console",
+    "exactEvidenceSummary": "// eslint-disable-next-line no-console",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l160"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00398"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:160"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00137",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:161",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "console.error(",
+    "exactEvidenceSummary": "console.error(",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l161"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00399"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:161"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00138",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:162",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"[ric-koehn.ts] validateCandidateV2 FAILED:\\n\" +",
+    "exactEvidenceSummary": "\"[ric-koehn.ts] validateCandidateV2 FAILED:\\n\" +",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l162"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00400"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:162"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00139",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:163",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "result.errors.join(\"\\n\"),",
+    "exactEvidenceSummary": "result.errors.join(\"\\n\"),",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l163"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00401"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:163"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00008",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/social-harvest.md:13",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      9
+    ],
+    "claim": "Position: Kansas Insurance Commissioner campaign-finance account holder",
+    "exactEvidenceSummary": "- Position: Kansas Insurance Commissioner campaign-finance account holder",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-in-their-own-words-md-l13",
+      "mem-memory-candidates-ric-koehn-raw-dump-v2-md-l13",
+      "mem-memory-candidates-ric-koehn-sleuth-pass-md-l13",
+      "mem-memory-candidates-ric-koehn-social-harvest-md-l13",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l9",
+      "mem-ui-src-data-v2-ric-koehn-ts-l13"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00008",
+      "raw-ric-koehn-00024",
+      "raw-ric-koehn-00040",
+      "raw-ric-koehn-00056",
+      "raw-ric-koehn-00073",
+      "raw-ric-koehn-00252"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/in-their-own-words.md:13",
+      "memory/candidates/ric-koehn/raw-dump-v2.md:13",
+      "memory/candidates/ric-koehn/sleuth-pass.md:13",
+      "memory/candidates/ric-koehn/social-harvest.md:13",
+      "memory/candidates/ric-koehn/v2-issues.yaml:9",
+      "ui/src/data/v2/ric-koehn.ts:13"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00009",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/social-harvest.md:14",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      9,
+      10
+    ],
+    "claim": "Election grouping: kansas-insurance-2026",
+    "exactEvidenceSummary": "- Election grouping: kansas-insurance-2026",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-in-their-own-words-md-l14",
+      "mem-memory-candidates-ric-koehn-raw-dump-v2-md-l14",
+      "mem-memory-candidates-ric-koehn-sleuth-pass-md-l14",
+      "mem-memory-candidates-ric-koehn-social-harvest-md-l14"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00009",
+      "raw-ric-koehn-00025",
+      "raw-ric-koehn-00041",
+      "raw-ric-koehn-00057"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/in-their-own-words.md:14",
+      "memory/candidates/ric-koehn/raw-dump-v2.md:14",
+      "memory/candidates/ric-koehn/sleuth-pass.md:14",
+      "memory/candidates/ric-koehn/social-harvest.md:14"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00003",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/social-harvest.md:4",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Agent: codex candidate-completeness generator",
+    "exactEvidenceSummary": "Agent: codex candidate-completeness generator",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-in-their-own-words-md-l4",
+      "mem-memory-candidates-ric-koehn-raw-dump-v2-md-l4",
+      "mem-memory-candidates-ric-koehn-sleuth-pass-md-l4",
+      "mem-memory-candidates-ric-koehn-social-harvest-md-l4",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l4"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00003",
+      "raw-ric-koehn-00019",
+      "raw-ric-koehn-00035",
+      "raw-ric-koehn-00051",
+      "raw-ric-koehn-00068"
+    ],
+    "duplicateCount": 5,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/in-their-own-words.md:4",
+      "memory/candidates/ric-koehn/raw-dump-v2.md:4",
+      "memory/candidates/ric-koehn/sleuth-pass.md:4",
+      "memory/candidates/ric-koehn/social-harvest.md:4",
+      "memory/candidates/ric-koehn/v2-issues.yaml:4"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00024",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/social-harvest.md:15",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Incumbent: no",
+    "exactEvidenceSummary": "- Incumbent: no",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-social-harvest-md-l15"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00058"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/social-harvest.md:15"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00026",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/social-harvest.md:23",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Source handling",
+    "exactEvidenceSummary": "## Source handling",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-social-harvest-md-l23"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00063"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/social-harvest.md:23"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00107",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:202",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      5,
+      10,
+      13
+    ],
+    "claim": "\"House District 111 is one of the most directly local state races for Hays-area voters. Barb Wasinger is the incumbent, and this race affects the laws and budget choices that hit closest to home.\",",
+    "exactEvidenceSummary": "\"House District 111 is one of the most directly local state races for Hays-area voters. Barb Wasinger is the incumbent, and this race affects the laws and budget choices that hit closest to home.\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l202"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00225"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:202"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00010",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/in-their-own-words.md:15",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Incumbent: no",
+    "exactEvidenceSummary": "- Incumbent: no",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-in-their-own-words-md-l15",
+      "mem-memory-candidates-ric-koehn-raw-dump-v2-md-l15",
+      "mem-memory-candidates-ric-koehn-sleuth-pass-md-l15"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00010",
+      "raw-ric-koehn-00026",
+      "raw-ric-koehn-00042"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/in-their-own-words.md:15",
+      "memory/candidates/ric-koehn/raw-dump-v2.md:15",
+      "memory/candidates/ric-koehn/sleuth-pass.md:15"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00051",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:43",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"id\": \"i-ballot-status\",",
+    "exactEvidenceSummary": "\"id\": \"i-ballot-status\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l43",
+      "mem-ui-src-data-v2-ric-koehn-ts-l19"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00107",
+      "raw-ric-koehn-00258"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:43",
+      "ui/src/data/v2/ric-koehn.ts:19"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00106",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:200",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Barb Wasinger currently anchors the House District 111 race on the site as the district's incumbent representative.\",",
+    "exactEvidenceSummary": "\"Barb Wasinger currently anchors the House District 111 race on the site as the district's incumbent representative.\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l200"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00223"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:200"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00043",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:24",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"s-kpdc-statewide\",",
+    "exactEvidenceSummary": "\"id\": \"s-kpdc-statewide\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l24",
+      "mem-ui-src-data-v2-ric-koehn-ts-l133"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00088",
+      "raw-ric-koehn-00372"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:24",
+      "ui/src/data/v2/ric-koehn.ts:133"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00048",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:35",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"s-kpdc-at\",",
+    "exactEvidenceSummary": "\"id\": \"s-kpdc-at\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l35",
+      "mem-ui-src-data-v2-ric-koehn-ts-l144"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00099",
+      "raw-ric-koehn-00383"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:35",
+      "ui/src/data/v2/ric-koehn.ts:144"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00068",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:89",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"i-donor-funding\",",
+    "exactEvidenceSummary": "\"id\": \"i-donor-funding\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l89",
+      "mem-ui-src-data-v2-ric-koehn-ts-l87"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00153",
+      "raw-ric-koehn-00326"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:89",
+      "ui/src/data/v2/ric-koehn.ts:87"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00015",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/in-their-own-words.md:23",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Source handling",
+    "exactEvidenceSummary": "## Source handling",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-in-their-own-words-md-l23",
+      "mem-memory-candidates-ric-koehn-raw-dump-v2-md-l23",
+      "mem-memory-candidates-ric-koehn-sleuth-pass-md-l23"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00015",
+      "raw-ric-koehn-00031",
+      "raw-ric-koehn-00047"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/in-their-own-words.md:23",
+      "memory/candidates/ric-koehn/raw-dump-v2.md:23",
+      "memory/candidates/ric-koehn/sleuth-pass.md:23"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00050",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:41",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"issues\": [",
+    "exactEvidenceSummary": "\"issues\": [",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l41",
+      "mem-ui-src-data-v2-ric-koehn-ts-l17"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00105",
+      "raw-ric-koehn-00256"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:41",
+      "ui/src/data/v2/ric-koehn.ts:17"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00055",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:47",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sourceIds\": [",
+    "exactEvidenceSummary": "\"sourceIds\": [",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l47",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l57",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l70",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l80",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l93",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l103",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l118",
+      "mem-ui-src-data-v2-ric-koehn-ts-l23",
+      "mem-ui-src-data-v2-ric-koehn-ts-l33",
+      "mem-ui-src-data-v2-ric-koehn-ts-l45",
+      "mem-ui-src-data-v2-ric-koehn-ts-l57",
+      "mem-ui-src-data-v2-ric-koehn-ts-l67",
+      "mem-ui-src-data-v2-ric-koehn-ts-l79",
+      "mem-ui-src-data-v2-ric-koehn-ts-l91",
+      "mem-ui-src-data-v2-ric-koehn-ts-l101",
+      "mem-ui-src-data-v2-ric-koehn-ts-l113"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00111",
+      "raw-ric-koehn-00121",
+      "raw-ric-koehn-00134",
+      "raw-ric-koehn-00144",
+      "raw-ric-koehn-00157",
+      "raw-ric-koehn-00167",
+      "raw-ric-koehn-00182",
+      "raw-ric-koehn-00262",
+      "raw-ric-koehn-00272",
+      "raw-ric-koehn-00284",
+      "raw-ric-koehn-00296",
+      "raw-ric-koehn-00306",
+      "raw-ric-koehn-00318",
+      "raw-ric-koehn-00330",
+      "raw-ric-koehn-00340",
+      "raw-ric-koehn-00352"
+    ],
+    "duplicateCount": 16,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:47",
+      "memory/candidates/ric-koehn/v2-issues.yaml:57",
+      "memory/candidates/ric-koehn/v2-issues.yaml:70",
+      "memory/candidates/ric-koehn/v2-issues.yaml:80",
+      "memory/candidates/ric-koehn/v2-issues.yaml:93",
+      "memory/candidates/ric-koehn/v2-issues.yaml:103",
+      "memory/candidates/ric-koehn/v2-issues.yaml:118",
+      "ui/src/data/v2/ric-koehn.ts:23",
+      "ui/src/data/v2/ric-koehn.ts:33",
+      "ui/src/data/v2/ric-koehn.ts:45",
+      "ui/src/data/v2/ric-koehn.ts:57",
+      "ui/src/data/v2/ric-koehn.ts:67",
+      "ui/src/data/v2/ric-koehn.ts:79",
+      "ui/src/data/v2/ric-koehn.ts:91",
+      "ui/src/data/v2/ric-koehn.ts:101",
+      "ui/src/data/v2/ric-koehn.ts:113"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00059",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:54",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-record-appearance\",",
+    "exactEvidenceSummary": "\"id\": \"a-record-appearance\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l54",
+      "mem-ui-src-data-v2-ric-koehn-ts-l30"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00118",
+      "raw-ric-koehn-00269"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:54",
+      "ui/src/data/v2/ric-koehn.ts:30"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00062",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:63",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"socialSignals\": []",
+    "exactEvidenceSummary": "\"socialSignals\": []",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l63",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l86",
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l109",
+      "mem-ui-src-data-v2-ric-koehn-ts-l39",
+      "mem-ui-src-data-v2-ric-koehn-ts-l73",
+      "mem-ui-src-data-v2-ric-koehn-ts-l107"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00127",
+      "raw-ric-koehn-00150",
+      "raw-ric-koehn-00173",
+      "raw-ric-koehn-00278",
+      "raw-ric-koehn-00312",
+      "raw-ric-koehn-00346"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:63",
+      "memory/candidates/ric-koehn/v2-issues.yaml:86",
+      "memory/candidates/ric-koehn/v2-issues.yaml:109",
+      "ui/src/data/v2/ric-koehn.ts:39",
+      "ui/src/data/v2/ric-koehn.ts:73",
+      "ui/src/data/v2/ric-koehn.ts:107"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00063",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:66",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"i-public-issue-record\",",
+    "exactEvidenceSummary": "\"id\": \"i-public-issue-record\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l66",
+      "mem-ui-src-data-v2-ric-koehn-ts-l53"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00130",
+      "raw-ric-koehn-00292"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:66",
+      "ui/src/data/v2/ric-koehn.ts:53"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00066",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:77",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "campaign statement",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-platform-gap\",",
+    "exactEvidenceSummary": "\"id\": \"a-platform-gap\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l77",
+      "mem-ui-src-data-v2-ric-koehn-ts-l64"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00141",
+      "raw-ric-koehn-00303"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:77",
+      "ui/src/data/v2/ric-koehn.ts:64"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00071",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:100",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-finance-record\",",
+    "exactEvidenceSummary": "\"id\": \"a-finance-record\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-ric-koehn-v2-issues-yaml-l100",
+      "mem-ui-src-data-v2-ric-koehn-ts-l98"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00164",
+      "raw-ric-koehn-00337"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/ric-koehn/v2-issues.yaml:100",
+      "ui/src/data/v2/ric-koehn.ts:98"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00105",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:198",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateSlugs: [\"barb-wasinger\"],",
+    "exactEvidenceSummary": "candidateSlugs: [\"barb-wasinger\"],",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l198"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00221"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:198"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00115",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/elections.ts:217",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateSlugs: [\"michelle-cunningham\", \"lorie-wood\"],",
+    "exactEvidenceSummary": "candidateSlugs: [\"michelle-cunningham\", \"lorie-wood\"],",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l217"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00240"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:217"
+    ]
+  },
+  {
+    "id": "em-ric-koehn-00122",
+    "candidateSlug": "ric-koehn",
+    "candidateName": "Ric Koehn",
+    "raceSlug": "kansas-insurance-2026",
+    "sourceFile": "ui/src/data/v2/ric-koehn.ts:41",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"ss-crossref-1\",",
+    "exactEvidenceSummary": "\"id\": \"ss-crossref-1\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-ric-koehn-ts-l41",
+      "mem-ui-src-data-v2-ric-koehn-ts-l75",
+      "mem-ui-src-data-v2-ric-koehn-ts-l109"
+    ],
+    "rawRowIds": [
+      "raw-ric-koehn-00280",
+      "raw-ric-koehn-00314",
+      "raw-ric-koehn-00348"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/ric-koehn.ts:41",
+      "ui/src/data/v2/ric-koehn.ts:75",
+      "ui/src/data/v2/ric-koehn.ts:109"
+    ]
+  }
+]

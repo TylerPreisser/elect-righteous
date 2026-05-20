@@ -1,0 +1,4798 @@
+[
+  {
+    "id": "em-sharilyn-ray-00046",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:49",
+    "sourceUrl": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW01SRay_202601.pdf",
+    "sourceTier": "primary",
+    "evidenceType": "legal/court",
+    "issueMappedTo": [
+      10,
+      11
+    ],
+    "claim": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW01SRay_202601.pdf\",",
+    "exactEvidenceSummary": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW01SRay_202601.pdf\",",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Usable as sourced evidence; best available row has primary tier support. Deduplicated from 6 raw rows.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l27",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l38",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l49",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l124",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l136",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l147"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00091",
+      "raw-sharilyn-ray-00102",
+      "raw-sharilyn-ray-00113",
+      "raw-sharilyn-ray-00368",
+      "raw-sharilyn-ray-00380",
+      "raw-sharilyn-ray-00391"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [
+      "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01SRay_AT.pdf",
+      "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW01SRay_202601.pdf"
+    ],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:27",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:38",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:49",
+      "ui/src/data/v2/sharilyn-ray.ts:124",
+      "ui/src/data/v2/sharilyn-ray.ts:136",
+      "ui/src/data/v2/sharilyn-ray.ts:147"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00013",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/social-harvest.md:20",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social follow",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+    "exactEvidenceSummary": "- Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-in-their-own-words-md-l20",
+      "mem-memory-candidates-sharilyn-ray-raw-dump-v2-md-l20",
+      "mem-memory-candidates-sharilyn-ray-sleuth-pass-md-l20",
+      "mem-memory-candidates-sharilyn-ray-social-harvest-md-l20"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00013",
+      "raw-sharilyn-ray-00029",
+      "raw-sharilyn-ray-00045",
+      "raw-sharilyn-ray-00061"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/in-their-own-words.md:20",
+      "memory/candidates/sharilyn-ray/raw-dump-v2.md:20",
+      "memory/candidates/sharilyn-ray/sleuth-pass.md:20",
+      "memory/candidates/sharilyn-ray/social-harvest.md:20"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00005",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/social-harvest.md:8",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "This artifact was created because the candidate-completeness audit found Sharilyn Ray in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+    "exactEvidenceSummary": "This artifact was created because the candidate-completeness audit found Sharilyn Ray in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-in-their-own-words-md-l8",
+      "mem-memory-candidates-sharilyn-ray-raw-dump-v2-md-l8",
+      "mem-memory-candidates-sharilyn-ray-sleuth-pass-md-l8",
+      "mem-memory-candidates-sharilyn-ray-social-harvest-md-l8"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00005",
+      "raw-sharilyn-ray-00021",
+      "raw-sharilyn-ray-00037",
+      "raw-sharilyn-ray-00053"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/in-their-own-words.md:8",
+      "memory/candidates/sharilyn-ray/raw-dump-v2.md:8",
+      "memory/candidates/sharilyn-ray/sleuth-pass.md:8",
+      "memory/candidates/sharilyn-ray/social-harvest.md:8"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00012",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/social-harvest.md:19",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Ballot / filing status: KPDC lists Sharilyn Ray under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+    "exactEvidenceSummary": "- Ballot / filing status: KPDC lists Sharilyn Ray under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-in-their-own-words-md-l19",
+      "mem-memory-candidates-sharilyn-ray-raw-dump-v2-md-l19",
+      "mem-memory-candidates-sharilyn-ray-sleuth-pass-md-l19",
+      "mem-memory-candidates-sharilyn-ray-social-harvest-md-l19"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00012",
+      "raw-sharilyn-ray-00028",
+      "raw-sharilyn-ray-00044",
+      "raw-sharilyn-ray-00060"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/in-their-own-words.md:19",
+      "memory/candidates/sharilyn-ray/raw-dump-v2.md:19",
+      "memory/candidates/sharilyn-ray/sleuth-pass.md:19",
+      "memory/candidates/sharilyn-ray/social-harvest.md:19"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00014",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/social-harvest.md:21",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "Donor / funding information: KPDC links a 202601 receipts-and-expenditures report for Ray.",
+    "exactEvidenceSummary": "- Donor / funding information: KPDC links a 202601 receipts-and-expenditures report for Ray.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-in-their-own-words-md-l21",
+      "mem-memory-candidates-sharilyn-ray-raw-dump-v2-md-l21",
+      "mem-memory-candidates-sharilyn-ray-sleuth-pass-md-l21",
+      "mem-memory-candidates-sharilyn-ray-social-harvest-md-l21"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00014",
+      "raw-sharilyn-ray-00030",
+      "raw-sharilyn-ray-00046",
+      "raw-sharilyn-ray-00062"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/in-their-own-words.md:21",
+      "memory/candidates/sharilyn-ray/raw-dump-v2.md:21",
+      "memory/candidates/sharilyn-ray/sleuth-pass.md:21",
+      "memory/candidates/sharilyn-ray/social-harvest.md:21"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00016",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/social-harvest.md:25",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+    "exactEvidenceSummary": "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-in-their-own-words-md-l25",
+      "mem-memory-candidates-sharilyn-ray-raw-dump-v2-md-l25",
+      "mem-memory-candidates-sharilyn-ray-sleuth-pass-md-l25",
+      "mem-memory-candidates-sharilyn-ray-social-harvest-md-l25"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00016",
+      "raw-sharilyn-ray-00032",
+      "raw-sharilyn-ray-00048",
+      "raw-sharilyn-ray-00064"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/in-their-own-words.md:25",
+      "memory/candidates/sharilyn-ray/raw-dump-v2.md:25",
+      "memory/candidates/sharilyn-ray/sleuth-pass.md:25",
+      "memory/candidates/sharilyn-ray/social-harvest.md:25"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00019",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/social-harvest.md:1",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Sharilyn Ray - social harvest",
+    "exactEvidenceSummary": "# Sharilyn Ray - social harvest",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-social-harvest-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00049"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/social-harvest.md:1"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00020",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/social-harvest.md:3",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Generated: 2026-05-20",
+    "exactEvidenceSummary": "Generated: 2026-05-20",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-social-harvest-md-l3"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00050"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/social-harvest.md:3"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00021",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/social-harvest.md:6",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Scope",
+    "exactEvidenceSummary": "## Scope",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-social-harvest-md-l6"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00052"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/social-harvest.md:6"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00022",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/social-harvest.md:10",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Current profile status",
+    "exactEvidenceSummary": "## Current profile status",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-social-harvest-md-l10"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00054"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/social-harvest.md:10"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00023",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/social-harvest.md:12",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Slug: sharilyn-ray",
+    "exactEvidenceSummary": "- Slug: sharilyn-ray",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-social-harvest-md-l12"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00055"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/social-harvest.md:12"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00025",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/social-harvest.md:17",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Evidence summary",
+    "exactEvidenceSummary": "## Evidence summary",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-social-harvest-md-l17"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00059"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/social-harvest.md:17"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00104",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:109",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      3,
+      5,
+      9
+    ],
+    "claim": "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+    "exactEvidenceSummary": "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l109"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00218"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:109"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00069",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:81",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l81",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l56"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00145",
+      "raw-sharilyn-ray-00300"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:81",
+      "ui/src/data/v2/sharilyn-ray.ts:56"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00086",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:133",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l133"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00197"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:133"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00133",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:77",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l77"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00321"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:77"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00106",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:111",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      5,
+      9
+    ],
+    "claim": "\"The governor is the boss of Kansas state government. They sign or veto every law the legislature passes, write the state budget, appoint the heads of state agencies, and set the direction on taxes, schools, roads, and healthcare. When there's a disaster, a crisis, or a big policy fight, the governor is the person making the call. Think of it as the CEO of the state.\",",
+    "exactEvidenceSummary": "\"The governor is the boss of Kansas state government. They sign or veto every law the legislature passes, write the state budget, appoint the heads of state agencies, and set the direction on taxes, schools, roads, and healthcare. When there's a disaster, a crisis, or a big policy fight, the governor is the person making the call. Think of it as the CEO of the state.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l111"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00220"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:111"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00033",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:11",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"incumbent\": false,",
+    "exactEvidenceSummary": "\"incumbent\": false,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l11",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l15"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00075",
+      "raw-sharilyn-ray-00259"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:11",
+      "ui/src/data/v2/sharilyn-ray.ts:15"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00034",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:12",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"occupation\": \"Governor candidate / campaign-finance account holder\",",
+    "exactEvidenceSummary": "\"occupation\": \"Governor candidate / campaign-finance account holder\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l12",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l16"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00076",
+      "raw-sharilyn-ray-00260"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:12",
+      "ui/src/data/v2/sharilyn-ray.ts:16"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00035",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:13",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"whoTheyAre\": \"Sharilyn Ray appears in KPDC's 2026 statewide campaign-finance index under gubernatorial candidates. Party and final ballot status were not confirmed in the reviewed filing mirror.\",",
+    "exactEvidenceSummary": "\"whoTheyAre\": \"Sharilyn Ray appears in KPDC's 2026 statewide campaign-finance index under gubernatorial candidates. Party and final ballot status were not confirmed in the reviewed filing mirror.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l13",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l110"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00077",
+      "raw-sharilyn-ray-00354"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:13",
+      "ui/src/data/v2/sharilyn-ray.ts:110"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00036",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:14",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"recordSummary\": \"This profile preserves the campaign-finance account in the site roster while clearly limiting claims to the records found.\",",
+    "exactEvidenceSummary": "\"recordSummary\": \"This profile preserves the campaign-finance account in the site roster while clearly limiting claims to the records found.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l14",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l111"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00078",
+      "raw-sharilyn-ray-00355"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:14",
+      "ui/src/data/v2/sharilyn-ray.ts:111"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00037",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:15",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+    "exactEvidenceSummary": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l15"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00079"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:15"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00047",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:125",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "exactEvidenceSummary": "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l28",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l125"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00092",
+      "raw-sharilyn-ray-00369"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:28",
+      "ui/src/data/v2/sharilyn-ray.ts:125"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00056",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:56",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"title\": \"Ballot / filing status\",",
+    "exactEvidenceSummary": "\"title\": \"Ballot / filing status\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l56",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l20"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00120",
+      "raw-sharilyn-ray-00264"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:56",
+      "ui/src/data/v2/sharilyn-ray.ts:20"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00058",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:58",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"text\": \"KPDC lists Sharilyn Ray under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+    "exactEvidenceSummary": "\"text\": \"KPDC lists Sharilyn Ray under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l58",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l22"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00122",
+      "raw-sharilyn-ray-00266"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:58",
+      "ui/src/data/v2/sharilyn-ray.ts:22"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00065",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:68",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"body\": \"Sharilyn Ray was identified in the reviewed official or campaign-finance source for Kansas Governor campaign-finance account holder.\",",
+    "exactEvidenceSummary": "\"body\": \"Sharilyn Ray was identified in the reviewed official or campaign-finance source for Kansas Governor campaign-finance account holder.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l68",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l32"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00132",
+      "raw-sharilyn-ray-00276"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:68",
+      "ui/src/data/v2/sharilyn-ray.ts:32"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00071",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:91",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+    "exactEvidenceSummary": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l91",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l66"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00155",
+      "raw-sharilyn-ray-00310"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:91",
+      "ui/src/data/v2/sharilyn-ray.ts:66"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00085",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:132",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.\",",
+    "exactEvidenceSummary": "\"Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l132"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00196"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:132"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00087",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:134",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication.\"",
+    "exactEvidenceSummary": "\"Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication.\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l134"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00198"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:134"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00100",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:105",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"With Laura Kelly term-limited, both parties and multiple campaign-account holders are building a large field for one of the most important open-seat races in Kansas politics.\",",
+    "exactEvidenceSummary": "\"With Laura Kelly term-limited, both parties and multiple campaign-account holders are building a large field for one of the most important open-seat races in Kansas politics.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l105"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00214"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:105"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00102",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:107",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.\",",
+    "exactEvidenceSummary": "\"Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l107"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00216"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:107"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00113",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:120",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "status: \"Incumbent Running\",",
+    "exactEvidenceSummary": "status: \"Incumbent Running\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l120"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00229"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:120"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00118",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:128",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "legal/court",
+    "issueMappedTo": [
+      10,
+      11,
+      13
+    ],
+    "claim": "\"This office decides which lawsuits Kansas joins, which criminal or civil fights get statewide attention, and how aggressively state law is enforced in court.\",",
+    "exactEvidenceSummary": "\"This office decides which lawsuits Kansas joins, which criminal or civil fights get statewide attention, and how aggressively state law is enforced in court.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l128"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00237"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:128"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00119",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:130",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "legal/court",
+    "issueMappedTo": [
+      10,
+      11,
+      13
+    ],
+    "claim": "\"The attorney general is Kansas's top lawyer. They decide which lawsuits the state files or joins, prosecute major crimes that cross county lines, protect consumers from scams, and defend or challenge state laws in court. If a company rips off Kansans, if there's a statewide criminal case, or if Kansas sues the federal government, this is the person running that fight.\",",
+    "exactEvidenceSummary": "\"The attorney general is Kansas's top lawyer. They decide which lawsuits the state files or joins, prosecute major crimes that cross county lines, protect consumers from scams, and defend or challenge state laws in court. If a company rips off Kansans, if there's a statewide criminal case, or if Kansas sues the federal government, this is the person running that fight.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l130"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00239"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:130"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00130",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:43",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"observation\": \"Ballot / filing status: KPDC lists Sharilyn Ray under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+    "exactEvidenceSummary": "\"observation\": \"Ballot / filing status: KPDC lists Sharilyn Ray under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l43"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00287"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:43"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00132",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:48",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"mappedToIssueId\": \"i-ballot-status\"",
+    "exactEvidenceSummary": "\"mappedToIssueId\": \"i-ballot-status\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l48"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00292"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:48"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00136",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:119",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+    "exactEvidenceSummary": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l119"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00363"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:119"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00040",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:20",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"publisher\": \"Kansas Governmental Ethics Commission / KPDC\",",
+    "exactEvidenceSummary": "\"publisher\": \"Kansas Governmental Ethics Commission / KPDC\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l20",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l32",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l43",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l126",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l138",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l149"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00084",
+      "raw-sharilyn-ray-00096",
+      "raw-sharilyn-ray-00107",
+      "raw-sharilyn-ray-00370",
+      "raw-sharilyn-ray-00382",
+      "raw-sharilyn-ray-00393"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:20",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:32",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:43",
+      "ui/src/data/v2/sharilyn-ray.ts:126",
+      "ui/src/data/v2/sharilyn-ray.ts:138",
+      "ui/src/data/v2/sharilyn-ray.ts:149"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00042",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:22",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"KPDC index lists Ray, Sharilyn under gubernatorial candidates\",",
+    "exactEvidenceSummary": "\"KPDC index lists Ray, Sharilyn under gubernatorial candidates\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l22",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l129"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00086",
+      "raw-sharilyn-ray-00373"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:22",
+      "ui/src/data/v2/sharilyn-ray.ts:129"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00043",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:23",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"KPDC links a 202601 report for Ray\"",
+    "exactEvidenceSummary": "\"KPDC links a 202601 report for Ray\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l23",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l130"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00087",
+      "raw-sharilyn-ray-00374"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:23",
+      "ui/src/data/v2/sharilyn-ray.ts:130"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00048",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:34",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"Appointment-of-treasurer report identifies Governor as the office sought\"",
+    "exactEvidenceSummary": "\"Appointment-of-treasurer report identifies Governor as the office sought\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l34",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l141"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00098",
+      "raw-sharilyn-ray-00385"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:34",
+      "ui/src/data/v2/sharilyn-ray.ts:141"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00060",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:60",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"s-kpdc-statewide\",",
+    "exactEvidenceSummary": "\"s-kpdc-statewide\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l60",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l70",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l83",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l93",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l106",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l116",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l24",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l34",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l46",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l58",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l68",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l80",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l92",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l102"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00124",
+      "raw-sharilyn-ray-00134",
+      "raw-sharilyn-ray-00147",
+      "raw-sharilyn-ray-00157",
+      "raw-sharilyn-ray-00170",
+      "raw-sharilyn-ray-00180",
+      "raw-sharilyn-ray-00268",
+      "raw-sharilyn-ray-00278",
+      "raw-sharilyn-ray-00290",
+      "raw-sharilyn-ray-00302",
+      "raw-sharilyn-ray-00312",
+      "raw-sharilyn-ray-00324",
+      "raw-sharilyn-ray-00336",
+      "raw-sharilyn-ray-00346"
+    ],
+    "duplicateCount": 14,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:60",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:70",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:83",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:93",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:106",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:116",
+      "ui/src/data/v2/sharilyn-ray.ts:24",
+      "ui/src/data/v2/sharilyn-ray.ts:34",
+      "ui/src/data/v2/sharilyn-ray.ts:46",
+      "ui/src/data/v2/sharilyn-ray.ts:58",
+      "ui/src/data/v2/sharilyn-ray.ts:68",
+      "ui/src/data/v2/sharilyn-ray.ts:80",
+      "ui/src/data/v2/sharilyn-ray.ts:92",
+      "ui/src/data/v2/sharilyn-ray.ts:102"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00061",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:61",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"s-kpdc-at\"",
+    "exactEvidenceSummary": "\"s-kpdc-at\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l61",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l71",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l84",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l94",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l25",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l35",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l59",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l69"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00125",
+      "raw-sharilyn-ray-00135",
+      "raw-sharilyn-ray-00148",
+      "raw-sharilyn-ray-00158",
+      "raw-sharilyn-ray-00269",
+      "raw-sharilyn-ray-00279",
+      "raw-sharilyn-ray-00303",
+      "raw-sharilyn-ray-00313"
+    ],
+    "duplicateCount": 8,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:61",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:71",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:84",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:94",
+      "ui/src/data/v2/sharilyn-ray.ts:25",
+      "ui/src/data/v2/sharilyn-ray.ts:35",
+      "ui/src/data/v2/sharilyn-ray.ts:59",
+      "ui/src/data/v2/sharilyn-ray.ts:69"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00073",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:102",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"title\": \"Donor / funding information\",",
+    "exactEvidenceSummary": "\"title\": \"Donor / funding information\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l102",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l88"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00166",
+      "raw-sharilyn-ray-00332"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:102",
+      "ui/src/data/v2/sharilyn-ray.ts:88"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00074",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:104",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"text\": \"KPDC links a 202601 receipts-and-expenditures report for Ray.\",",
+    "exactEvidenceSummary": "\"text\": \"KPDC links a 202601 receipts-and-expenditures report for Ray.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l104",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l90"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00168",
+      "raw-sharilyn-ray-00334"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:104",
+      "ui/src/data/v2/sharilyn-ray.ts:90"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00075",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:107",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"s-kpdc-202601\"",
+    "exactEvidenceSummary": "\"s-kpdc-202601\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l107",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l117",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l93",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l103"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00171",
+      "raw-sharilyn-ray-00181",
+      "raw-sharilyn-ray-00337",
+      "raw-sharilyn-ray-00347"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:107",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:117",
+      "ui/src/data/v2/sharilyn-ray.ts:93",
+      "ui/src/data/v2/sharilyn-ray.ts:103"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00080",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:126",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"narrative\": \"KPDC 202601 extraction in the audit recorded $7,720.72 receipts, $7,620.72 expenditures, and $100.00 cash on hand.\",",
+    "exactEvidenceSummary": "\"narrative\": \"KPDC 202601 extraction in the audit recorded $7,720.72 receipts, $7,620.72 expenditures, and $100.00 cash on hand.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l126",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l114"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00190",
+      "raw-sharilyn-ray-00358"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:126",
+      "ui/src/data/v2/sharilyn-ray.ts:114"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00082",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:128",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"reportingPeriod\": \"KPDC 202601 / 2025 reporting period\",",
+    "exactEvidenceSummary": "\"reportingPeriod\": \"KPDC 202601 / 2025 reporting period\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l128",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l116"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00192",
+      "raw-sharilyn-ray-00360"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:128",
+      "ui/src/data/v2/sharilyn-ray.ts:116"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00083",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:129",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"source\": \"KPDC Sharilyn Ray 202601 report\"",
+    "exactEvidenceSummary": "\"source\": \"KPDC Sharilyn Ray 202601 report\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l129",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l117"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00193",
+      "raw-sharilyn-ray-00361"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:129",
+      "ui/src/data/v2/sharilyn-ray.ts:117"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00001",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/in-their-own-words.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Sharilyn Ray - in their own words",
+    "exactEvidenceSummary": "# Sharilyn Ray - in their own words",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-in-their-own-words-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00001"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/in-their-own-words.md:1"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00002",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/in-their-own-words.md:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Generated: 2026-05-20",
+    "exactEvidenceSummary": "Generated: 2026-05-20",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-in-their-own-words-md-l3",
+      "mem-memory-candidates-sharilyn-ray-raw-dump-v2-md-l3",
+      "mem-memory-candidates-sharilyn-ray-sleuth-pass-md-l3"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00002",
+      "raw-sharilyn-ray-00018",
+      "raw-sharilyn-ray-00034"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/in-their-own-words.md:3",
+      "memory/candidates/sharilyn-ray/raw-dump-v2.md:3",
+      "memory/candidates/sharilyn-ray/sleuth-pass.md:3"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00004",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/in-their-own-words.md:6",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Scope",
+    "exactEvidenceSummary": "## Scope",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-in-their-own-words-md-l6",
+      "mem-memory-candidates-sharilyn-ray-raw-dump-v2-md-l6",
+      "mem-memory-candidates-sharilyn-ray-sleuth-pass-md-l6"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00004",
+      "raw-sharilyn-ray-00020",
+      "raw-sharilyn-ray-00036"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/in-their-own-words.md:6",
+      "memory/candidates/sharilyn-ray/raw-dump-v2.md:6",
+      "memory/candidates/sharilyn-ray/sleuth-pass.md:6"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00006",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/in-their-own-words.md:10",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Current profile status",
+    "exactEvidenceSummary": "## Current profile status",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-in-their-own-words-md-l10",
+      "mem-memory-candidates-sharilyn-ray-raw-dump-v2-md-l10",
+      "mem-memory-candidates-sharilyn-ray-sleuth-pass-md-l10"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00006",
+      "raw-sharilyn-ray-00022",
+      "raw-sharilyn-ray-00038"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/in-their-own-words.md:10",
+      "memory/candidates/sharilyn-ray/raw-dump-v2.md:10",
+      "memory/candidates/sharilyn-ray/sleuth-pass.md:10"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00007",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:2",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"slug\": \"sharilyn-ray\",",
+    "exactEvidenceSummary": "\"slug\": \"sharilyn-ray\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-in-their-own-words-md-l12",
+      "mem-memory-candidates-sharilyn-ray-raw-dump-v2-md-l12",
+      "mem-memory-candidates-sharilyn-ray-sleuth-pass-md-l12",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l2",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l6",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l10"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00007",
+      "raw-sharilyn-ray-00023",
+      "raw-sharilyn-ray-00039",
+      "raw-sharilyn-ray-00066",
+      "raw-sharilyn-ray-00070",
+      "raw-sharilyn-ray-00254"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/in-their-own-words.md:12",
+      "memory/candidates/sharilyn-ray/raw-dump-v2.md:12",
+      "memory/candidates/sharilyn-ray/sleuth-pass.md:12",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:2",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:6",
+      "ui/src/data/v2/sharilyn-ray.ts:10"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00011",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/in-their-own-words.md:17",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Evidence summary",
+    "exactEvidenceSummary": "## Evidence summary",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-in-their-own-words-md-l17",
+      "mem-memory-candidates-sharilyn-ray-raw-dump-v2-md-l17",
+      "mem-memory-candidates-sharilyn-ray-sleuth-pass-md-l17"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00011",
+      "raw-sharilyn-ray-00027",
+      "raw-sharilyn-ray-00043"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/in-their-own-words.md:17",
+      "memory/candidates/sharilyn-ray/raw-dump-v2.md:17",
+      "memory/candidates/sharilyn-ray/sleuth-pass.md:17"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00017",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/raw-dump-v2.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Sharilyn Ray - raw dump v2",
+    "exactEvidenceSummary": "# Sharilyn Ray - raw dump v2",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-raw-dump-v2-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00017"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/raw-dump-v2.md:1"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00018",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/sleuth-pass.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Sharilyn Ray - sleuth pass",
+    "exactEvidenceSummary": "# Sharilyn Ray - sleuth pass",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-sleuth-pass-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00033"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/sleuth-pass.md:1"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00027",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:16",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "},",
+    "exactEvidenceSummary": "},",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l1",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l16",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l18",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l24",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l29",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l30",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l35",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l40",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l41",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l46",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l51",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l52",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l54",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l62",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l63",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l65",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l72",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l73",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l74",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l76",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l77",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l85",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l86",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l88",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l95",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l96",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l97",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l99",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l100",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l108",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l109",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l111",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l118",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l119",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l120",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l122",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l123",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l130",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l135",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l136",
+      "mem-ui-src-data-elections-ts-l103",
+      "mem-ui-src-data-elections-ts-l112",
+      "mem-ui-src-data-elections-ts-l113",
+      "mem-ui-src-data-elections-ts-l131",
+      "mem-ui-src-data-elections-ts-l132",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l4",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l18",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l26",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l27",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l29",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l36",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l37",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l38",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l40",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l47",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l49",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l50",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l51",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l52",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l60",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l61",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l63",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l70",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l71",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l72",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l74",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l81",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l83",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l84",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l85",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l86",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l94",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l95",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l97",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l104",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l105",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l106",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l108",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l109",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l118",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l121",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l131",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l132",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l133",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l142",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l143",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l144",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l153",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l154",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l155",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l156",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l165",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l166",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l167"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00065",
+      "raw-sharilyn-ray-00080",
+      "raw-sharilyn-ray-00082",
+      "raw-sharilyn-ray-00088",
+      "raw-sharilyn-ray-00093",
+      "raw-sharilyn-ray-00094",
+      "raw-sharilyn-ray-00099",
+      "raw-sharilyn-ray-00104",
+      "raw-sharilyn-ray-00105",
+      "raw-sharilyn-ray-00110",
+      "raw-sharilyn-ray-00115",
+      "raw-sharilyn-ray-00116",
+      "raw-sharilyn-ray-00118",
+      "raw-sharilyn-ray-00126",
+      "raw-sharilyn-ray-00127",
+      "raw-sharilyn-ray-00129",
+      "raw-sharilyn-ray-00136",
+      "raw-sharilyn-ray-00137",
+      "raw-sharilyn-ray-00138",
+      "raw-sharilyn-ray-00140",
+      "raw-sharilyn-ray-00141",
+      "raw-sharilyn-ray-00149",
+      "raw-sharilyn-ray-00150",
+      "raw-sharilyn-ray-00152",
+      "raw-sharilyn-ray-00159",
+      "raw-sharilyn-ray-00160",
+      "raw-sharilyn-ray-00161",
+      "raw-sharilyn-ray-00163",
+      "raw-sharilyn-ray-00164",
+      "raw-sharilyn-ray-00172",
+      "raw-sharilyn-ray-00173",
+      "raw-sharilyn-ray-00175",
+      "raw-sharilyn-ray-00182",
+      "raw-sharilyn-ray-00183",
+      "raw-sharilyn-ray-00184",
+      "raw-sharilyn-ray-00186",
+      "raw-sharilyn-ray-00187",
+      "raw-sharilyn-ray-00194",
+      "raw-sharilyn-ray-00199",
+      "raw-sharilyn-ray-00200",
+      "raw-sharilyn-ray-00212",
+      "raw-sharilyn-ray-00221",
+      "raw-sharilyn-ray-00222",
+      "raw-sharilyn-ray-00240",
+      "raw-sharilyn-ray-00241",
+      "raw-sharilyn-ray-00250",
+      "raw-sharilyn-ray-00262",
+      "raw-sharilyn-ray-00270",
+      "raw-sharilyn-ray-00271",
+      "raw-sharilyn-ray-00273",
+      "raw-sharilyn-ray-00280",
+      "raw-sharilyn-ray-00281",
+      "raw-sharilyn-ray-00282",
+      "raw-sharilyn-ray-00284",
+      "raw-sharilyn-ray-00291",
+      "raw-sharilyn-ray-00293",
+      "raw-sharilyn-ray-00294",
+      "raw-sharilyn-ray-00295",
+      "raw-sharilyn-ray-00296",
+      "raw-sharilyn-ray-00304",
+      "raw-sharilyn-ray-00305",
+      "raw-sharilyn-ray-00307",
+      "raw-sharilyn-ray-00314",
+      "raw-sharilyn-ray-00315",
+      "raw-sharilyn-ray-00316",
+      "raw-sharilyn-ray-00318",
+      "raw-sharilyn-ray-00325",
+      "raw-sharilyn-ray-00327",
+      "raw-sharilyn-ray-00328",
+      "raw-sharilyn-ray-00329",
+      "raw-sharilyn-ray-00330",
+      "raw-sharilyn-ray-00338",
+      "raw-sharilyn-ray-00339",
+      "raw-sharilyn-ray-00341",
+      "raw-sharilyn-ray-00348",
+      "raw-sharilyn-ray-00349",
+      "raw-sharilyn-ray-00350",
+      "raw-sharilyn-ray-00352",
+      "raw-sharilyn-ray-00353",
+      "raw-sharilyn-ray-00362",
+      "raw-sharilyn-ray-00365",
+      "raw-sharilyn-ray-00375",
+      "raw-sharilyn-ray-00376",
+      "raw-sharilyn-ray-00377",
+      "raw-sharilyn-ray-00386",
+      "raw-sharilyn-ray-00387",
+      "raw-sharilyn-ray-00388",
+      "raw-sharilyn-ray-00397",
+      "raw-sharilyn-ray-00398",
+      "raw-sharilyn-ray-00399",
+      "raw-sharilyn-ray-00400",
+      "raw-sharilyn-ray-00408",
+      "raw-sharilyn-ray-00409",
+      "raw-sharilyn-ray-00410"
+    ],
+    "duplicateCount": 94,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:1",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:16",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:18",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:24",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:29",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:30",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:35",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:40",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:41",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:46",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:51",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:52",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:54",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:62",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:63",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:65",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:72",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:73",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:74",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:76",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:77",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:85",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:86",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:88",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:95",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:96",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:97",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:99",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:100",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:108",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:109",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:111",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:118",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:119",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:120",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:122",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:123",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:130",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:135",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:136",
+      "ui/src/data/elections.ts:103",
+      "ui/src/data/elections.ts:112",
+      "ui/src/data/elections.ts:113",
+      "ui/src/data/elections.ts:131",
+      "ui/src/data/elections.ts:132",
+      "ui/src/data/v2/sharilyn-ray.ts:4",
+      "ui/src/data/v2/sharilyn-ray.ts:18",
+      "ui/src/data/v2/sharilyn-ray.ts:26",
+      "ui/src/data/v2/sharilyn-ray.ts:27",
+      "ui/src/data/v2/sharilyn-ray.ts:29",
+      "ui/src/data/v2/sharilyn-ray.ts:36",
+      "ui/src/data/v2/sharilyn-ray.ts:37",
+      "ui/src/data/v2/sharilyn-ray.ts:38",
+      "ui/src/data/v2/sharilyn-ray.ts:40",
+      "ui/src/data/v2/sharilyn-ray.ts:47",
+      "ui/src/data/v2/sharilyn-ray.ts:49",
+      "ui/src/data/v2/sharilyn-ray.ts:50",
+      "ui/src/data/v2/sharilyn-ray.ts:51",
+      "ui/src/data/v2/sharilyn-ray.ts:52",
+      "ui/src/data/v2/sharilyn-ray.ts:60",
+      "ui/src/data/v2/sharilyn-ray.ts:61",
+      "ui/src/data/v2/sharilyn-ray.ts:63",
+      "ui/src/data/v2/sharilyn-ray.ts:70",
+      "ui/src/data/v2/sharilyn-ray.ts:71",
+      "ui/src/data/v2/sharilyn-ray.ts:72",
+      "ui/src/data/v2/sharilyn-ray.ts:74",
+      "ui/src/data/v2/sharilyn-ray.ts:81",
+      "ui/src/data/v2/sharilyn-ray.ts:83",
+      "ui/src/data/v2/sharilyn-ray.ts:84",
+      "ui/src/data/v2/sharilyn-ray.ts:85",
+      "ui/src/data/v2/sharilyn-ray.ts:86",
+      "ui/src/data/v2/sharilyn-ray.ts:94",
+      "ui/src/data/v2/sharilyn-ray.ts:95",
+      "ui/src/data/v2/sharilyn-ray.ts:97",
+      "ui/src/data/v2/sharilyn-ray.ts:104",
+      "ui/src/data/v2/sharilyn-ray.ts:105",
+      "ui/src/data/v2/sharilyn-ray.ts:106",
+      "ui/src/data/v2/sharilyn-ray.ts:108",
+      "ui/src/data/v2/sharilyn-ray.ts:109",
+      "ui/src/data/v2/sharilyn-ray.ts:118",
+      "ui/src/data/v2/sharilyn-ray.ts:121",
+      "ui/src/data/v2/sharilyn-ray.ts:131",
+      "ui/src/data/v2/sharilyn-ray.ts:132",
+      "ui/src/data/v2/sharilyn-ray.ts:133",
+      "ui/src/data/v2/sharilyn-ray.ts:142",
+      "ui/src/data/v2/sharilyn-ray.ts:143",
+      "ui/src/data/v2/sharilyn-ray.ts:144",
+      "ui/src/data/v2/sharilyn-ray.ts:153",
+      "ui/src/data/v2/sharilyn-ray.ts:154",
+      "ui/src/data/v2/sharilyn-ray.ts:155",
+      "ui/src/data/v2/sharilyn-ray.ts:156",
+      "ui/src/data/v2/sharilyn-ray.ts:165",
+      "ui/src/data/v2/sharilyn-ray.ts:166",
+      "ui/src/data/v2/sharilyn-ray.ts:167"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00028",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"generated\": \"2026-05-20T02:11:14.688Z\",",
+    "exactEvidenceSummary": "\"generated\": \"2026-05-20T02:11:14.688Z\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l3"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00067"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:3"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00029",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:5",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"candidate_metadata\": {",
+    "exactEvidenceSummary": "\"candidate_metadata\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l5"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00069"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:5"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00030",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:7",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"name\": \"Sharilyn Ray\",",
+    "exactEvidenceSummary": "\"name\": \"Sharilyn Ray\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l7",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l11"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00071",
+      "raw-sharilyn-ray-00255"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:7",
+      "ui/src/data/v2/sharilyn-ray.ts:11"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00031",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:8",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"party\": \"NP\",",
+    "exactEvidenceSummary": "\"party\": \"NP\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l8",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l12"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00072",
+      "raw-sharilyn-ray-00256"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:8",
+      "ui/src/data/v2/sharilyn-ray.ts:12"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00032",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:10",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"electionSlug\": \"kansas-governor-2026\",",
+    "exactEvidenceSummary": "\"electionSlug\": \"kansas-governor-2026\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l10",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l14"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00074",
+      "raw-sharilyn-ray-00258"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:10",
+      "ui/src/data/v2/sharilyn-ray.ts:14"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00038",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:17",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sources\": [",
+    "exactEvidenceSummary": "\"sources\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l17",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l120"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00081",
+      "raw-sharilyn-ray-00364"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:17",
+      "ui/src/data/v2/sharilyn-ray.ts:120"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00039",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:19",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"accessed\": \"2026-05-20\",",
+    "exactEvidenceSummary": "\"accessed\": \"2026-05-20\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l19",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l31",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l42",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l127",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l139",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l150"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00083",
+      "raw-sharilyn-ray-00095",
+      "raw-sharilyn-ray-00106",
+      "raw-sharilyn-ray-00371",
+      "raw-sharilyn-ray-00383",
+      "raw-sharilyn-ray-00394"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:19",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:31",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:42",
+      "ui/src/data/v2/sharilyn-ray.ts:127",
+      "ui/src/data/v2/sharilyn-ray.ts:139",
+      "ui/src/data/v2/sharilyn-ray.ts:150"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00041",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:21",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"claimsAnchored\": [",
+    "exactEvidenceSummary": "\"claimsAnchored\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l21",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l33",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l44",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l128",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l140",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l151"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00085",
+      "raw-sharilyn-ray-00097",
+      "raw-sharilyn-ray-00108",
+      "raw-sharilyn-ray-00372",
+      "raw-sharilyn-ray-00384",
+      "raw-sharilyn-ray-00395"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:21",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:33",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:44",
+      "ui/src/data/v2/sharilyn-ray.ts:128",
+      "ui/src/data/v2/sharilyn-ray.ts:140",
+      "ui/src/data/v2/sharilyn-ray.ts:151"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00045",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:26",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"tier\": \"primary\",",
+    "exactEvidenceSummary": "\"tier\": \"primary\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l26",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l37",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l48",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l123",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l135",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l146"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00090",
+      "raw-sharilyn-ray-00101",
+      "raw-sharilyn-ray-00112",
+      "raw-sharilyn-ray-00367",
+      "raw-sharilyn-ray-00379",
+      "raw-sharilyn-ray-00390"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:26",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:37",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:48",
+      "ui/src/data/v2/sharilyn-ray.ts:123",
+      "ui/src/data/v2/sharilyn-ray.ts:135",
+      "ui/src/data/v2/sharilyn-ray.ts:146"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00050",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:137",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"title\": \"Sharilyn Ray Appointment of Treasurer\",",
+    "exactEvidenceSummary": "\"title\": \"Sharilyn Ray Appointment of Treasurer\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l39",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l137"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00103",
+      "raw-sharilyn-ray-00381"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:39",
+      "ui/src/data/v2/sharilyn-ray.ts:137"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00051",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:45",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"Report provides Ray's 2025 receipts, expenditures, and cash-on-hand figures for the 2026 cycle\"",
+    "exactEvidenceSummary": "\"Report provides Ray's 2025 receipts, expenditures, and cash-on-hand figures for the 2026 cycle\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l45",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l152"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00109",
+      "raw-sharilyn-ray-00396"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:45",
+      "ui/src/data/v2/sharilyn-ray.ts:152"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00053",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:148",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"title\": \"Sharilyn Ray 2026 Receipts and Expenditures\",",
+    "exactEvidenceSummary": "\"title\": \"Sharilyn Ray 2026 Receipts and Expenditures\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l50",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l148"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00114",
+      "raw-sharilyn-ray-00392"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:50",
+      "ui/src/data/v2/sharilyn-ray.ts:148"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00057",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:57",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"stated\": {",
+    "exactEvidenceSummary": "\"stated\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l57",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l80",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l103",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l21",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l55",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l89"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00121",
+      "raw-sharilyn-ray-00144",
+      "raw-sharilyn-ray-00167",
+      "raw-sharilyn-ray-00265",
+      "raw-sharilyn-ray-00299",
+      "raw-sharilyn-ray-00333"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:57",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:80",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:103",
+      "ui/src/data/v2/sharilyn-ray.ts:21",
+      "ui/src/data/v2/sharilyn-ray.ts:55",
+      "ui/src/data/v2/sharilyn-ray.ts:89"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00062",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:64",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"actions\": [",
+    "exactEvidenceSummary": "\"actions\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l64",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l87",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l110",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l28",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l62",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l96"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00128",
+      "raw-sharilyn-ray-00151",
+      "raw-sharilyn-ray-00174",
+      "raw-sharilyn-ray-00272",
+      "raw-sharilyn-ray-00306",
+      "raw-sharilyn-ray-00340"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:64",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:87",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:110",
+      "ui/src/data/v2/sharilyn-ray.ts:28",
+      "ui/src/data/v2/sharilyn-ray.ts:62",
+      "ui/src/data/v2/sharilyn-ray.ts:96"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00064",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:67",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"date\": \"2026-05-20\",",
+    "exactEvidenceSummary": "\"date\": \"2026-05-20\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l67",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l90",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l113",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l31",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l65",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l99"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00131",
+      "raw-sharilyn-ray-00154",
+      "raw-sharilyn-ray-00177",
+      "raw-sharilyn-ray-00275",
+      "raw-sharilyn-ray-00309",
+      "raw-sharilyn-ray-00343"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:67",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:90",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:113",
+      "ui/src/data/v2/sharilyn-ray.ts:31",
+      "ui/src/data/v2/sharilyn-ray.ts:65",
+      "ui/src/data/v2/sharilyn-ray.ts:99"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00068",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:79",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"title\": \"Where they stand on big issues\",",
+    "exactEvidenceSummary": "\"title\": \"Where they stand on big issues\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l79",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l54"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00143",
+      "raw-sharilyn-ray-00298"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:79",
+      "ui/src/data/v2/sharilyn-ray.ts:54"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00077",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:114",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"body\": \"Audit extraction recorded $7,720.72 receipts and $100.00 cash on hand.\",",
+    "exactEvidenceSummary": "\"body\": \"Audit extraction recorded $7,720.72 receipts and $100.00 cash on hand.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l114",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l100"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00178",
+      "raw-sharilyn-ray-00344"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:114",
+      "ui/src/data/v2/sharilyn-ray.ts:100"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00078",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:124",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"campaign_finance\": {",
+    "exactEvidenceSummary": "\"campaign_finance\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l124"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00188"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:124"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00079",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:125",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"totalRaised\": \"$7,720.72\",",
+    "exactEvidenceSummary": "\"totalRaised\": \"$7,720.72\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l125",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l113"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00189",
+      "raw-sharilyn-ray-00357"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:125",
+      "ui/src/data/v2/sharilyn-ray.ts:113"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00081",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:127",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"donors\": [],",
+    "exactEvidenceSummary": "\"donors\": [],",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l127",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l115"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00191",
+      "raw-sharilyn-ray-00359"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:127",
+      "ui/src/data/v2/sharilyn-ray.ts:115"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00084",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:131",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"editorial_notes\": [",
+    "exactEvidenceSummary": "\"editorial_notes\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l131"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00195"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:131"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00089",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:93",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"charlotte-ohara\",",
+    "exactEvidenceSummary": "\"charlotte-ohara\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l93"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00202"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:93"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00098",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:102",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sharilyn-ray\",",
+    "exactEvidenceSummary": "\"sharilyn-ray\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l102"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00211"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:102"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00099",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:104",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "description:",
+    "exactEvidenceSummary": "description:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l104",
+      "mem-ui-src-data-elections-ts-l123"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00213",
+      "raw-sharilyn-ray-00232"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:104",
+      "ui/src/data/elections.ts:123"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00101",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:106",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "plainEnglish:",
+    "exactEvidenceSummary": "plainEnglish:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l106",
+      "mem-ui-src-data-elections-ts-l125"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00215",
+      "raw-sharilyn-ray-00234"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:106",
+      "ui/src/data/elections.ts:125"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00103",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:108",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "whyItMatters:",
+    "exactEvidenceSummary": "whyItMatters:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l108",
+      "mem-ui-src-data-elections-ts-l127"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00217",
+      "raw-sharilyn-ray-00236"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:108",
+      "ui/src/data/elections.ts:127"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00105",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:110",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "jobDescription:",
+    "exactEvidenceSummary": "jobDescription:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l110",
+      "mem-ui-src-data-elections-ts-l129"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00219",
+      "raw-sharilyn-ray-00238"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:110",
+      "ui/src/data/elections.ts:129"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00107",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:114",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "slug: \"kansas-ag-2026\",",
+    "exactEvidenceSummary": "slug: \"kansas-ag-2026\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l114"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00223"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:114"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00108",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:115",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "name: \"Kansas Attorney General\",",
+    "exactEvidenceSummary": "name: \"Kansas Attorney General\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l115"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00224"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:115"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00109",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:116",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "level: \"State\",",
+    "exactEvidenceSummary": "level: \"State\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l116",
+      "mem-ui-src-data-elections-ts-l135"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00225",
+      "raw-sharilyn-ray-00244"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:116",
+      "ui/src/data/elections.ts:135"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00110",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:117",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "date: \"2026-11-03\",",
+    "exactEvidenceSummary": "date: \"2026-11-03\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l117",
+      "mem-ui-src-data-elections-ts-l136"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00226",
+      "raw-sharilyn-ray-00245"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:117",
+      "ui/src/data/elections.ts:136"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00111",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:118",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "jurisdiction: \"State of Kansas\",",
+    "exactEvidenceSummary": "jurisdiction: \"State of Kansas\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l118",
+      "mem-ui-src-data-elections-ts-l137"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00227",
+      "raw-sharilyn-ray-00246"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:118",
+      "ui/src/data/elections.ts:137"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00112",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:119",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "seats: 1,",
+    "exactEvidenceSummary": "seats: 1,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l119"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00228"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:119"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00114",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:121",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateCount: 2,",
+    "exactEvidenceSummary": "candidateCount: 2,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l121"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00230"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:121"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00120",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:133",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "slug: \"kansas-sos-2026\",",
+    "exactEvidenceSummary": "slug: \"kansas-sos-2026\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l133"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00242"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:133"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00121",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:134",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "name: \"Kansas Secretary of State\",",
+    "exactEvidenceSummary": "name: \"Kansas Secretary of State\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l134"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00243"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:134"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00122",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+    "exactEvidenceSummary": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l1"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00247"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:1"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00123",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:2",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "To refresh:",
+    "exactEvidenceSummary": "* To refresh:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l2"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00248"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:2"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00124",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "node scripts/hydrate-v2-social-signals.mjs",
+    "exactEvidenceSummary": "* node scripts/hydrate-v2-social-signals.mjs",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l3"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00249"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:3"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00125",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:6",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+    "exactEvidenceSummary": "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l6"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00251"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:6"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00126",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:7",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "import { validateCandidateV2 } from \"@/data/types-v2\";",
+    "exactEvidenceSummary": "import { validateCandidateV2 } from \"@/data/types-v2\";",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l7"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00252"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:7"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00127",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:9",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "export const SHARILYN_RAY_V2: CandidateFullV2 = {",
+    "exactEvidenceSummary": "export const SHARILYN_RAY_V2: CandidateFullV2 = {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l9"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00253"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:9"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00129",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:42",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "campaign statement",
+    "issueMappedTo": [],
+    "claim": "\"platform\": \"Public web\",",
+    "exactEvidenceSummary": "\"platform\": \"Public web\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l42",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l76"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00286",
+      "raw-sharilyn-ray-00320"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:42",
+      "ui/src/data/v2/sharilyn-ray.ts:76"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00131",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:44",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"observedAt\": \"2026-05-19\",",
+    "exactEvidenceSummary": "\"observedAt\": \"2026-05-19\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l44",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l78"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00288",
+      "raw-sharilyn-ray-00322"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:44",
+      "ui/src/data/v2/sharilyn-ray.ts:78"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00134",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:82",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"mappedToIssueId\": \"i-public-issue-record\"",
+    "exactEvidenceSummary": "\"mappedToIssueId\": \"i-public-issue-record\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l82"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00326"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:82"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00135",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:112",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"campaignFinance\": {",
+    "exactEvidenceSummary": "\"campaignFinance\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l112"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00356"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:112"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00137",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:158",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "if (process.env.NODE_ENV !== \"production\") {",
+    "exactEvidenceSummary": "if (process.env.NODE_ENV !== \"production\") {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l158"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00401"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:158"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00138",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:159",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "const result = validateCandidateV2(SHARILYN_RAY_V2);",
+    "exactEvidenceSummary": "const result = validateCandidateV2(SHARILYN_RAY_V2);",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l159"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00402"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:159"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00139",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:160",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "if (!result.ok) {",
+    "exactEvidenceSummary": "if (!result.ok) {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l160"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00403"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:160"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00140",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:161",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "// eslint-disable-next-line no-console",
+    "exactEvidenceSummary": "// eslint-disable-next-line no-console",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l161"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00404"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:161"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00141",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:162",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "console.error(",
+    "exactEvidenceSummary": "console.error(",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l162"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00405"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:162"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00142",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:163",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"[sharilyn-ray.ts] validateCandidateV2 FAILED:\\n\" +",
+    "exactEvidenceSummary": "\"[sharilyn-ray.ts] validateCandidateV2 FAILED:\\n\" +",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l163"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00406"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:163"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00143",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:164",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "result.errors.join(\"\\n\"),",
+    "exactEvidenceSummary": "result.errors.join(\"\\n\"),",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l164"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00407"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:164"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00009",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/social-harvest.md:14",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10
+    ],
+    "claim": "Election grouping: kansas-governor-2026",
+    "exactEvidenceSummary": "- Election grouping: kansas-governor-2026",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-in-their-own-words-md-l14",
+      "mem-memory-candidates-sharilyn-ray-raw-dump-v2-md-l14",
+      "mem-memory-candidates-sharilyn-ray-sleuth-pass-md-l14",
+      "mem-memory-candidates-sharilyn-ray-social-harvest-md-l14"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00009",
+      "raw-sharilyn-ray-00025",
+      "raw-sharilyn-ray-00041",
+      "raw-sharilyn-ray-00057"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/in-their-own-words.md:14",
+      "memory/candidates/sharilyn-ray/raw-dump-v2.md:14",
+      "memory/candidates/sharilyn-ray/sleuth-pass.md:14",
+      "memory/candidates/sharilyn-ray/social-harvest.md:14"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00003",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/social-harvest.md:4",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Agent: codex candidate-completeness generator",
+    "exactEvidenceSummary": "Agent: codex candidate-completeness generator",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-in-their-own-words-md-l4",
+      "mem-memory-candidates-sharilyn-ray-raw-dump-v2-md-l4",
+      "mem-memory-candidates-sharilyn-ray-sleuth-pass-md-l4",
+      "mem-memory-candidates-sharilyn-ray-social-harvest-md-l4",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l4"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00003",
+      "raw-sharilyn-ray-00019",
+      "raw-sharilyn-ray-00035",
+      "raw-sharilyn-ray-00051",
+      "raw-sharilyn-ray-00068"
+    ],
+    "duplicateCount": 5,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/in-their-own-words.md:4",
+      "memory/candidates/sharilyn-ray/raw-dump-v2.md:4",
+      "memory/candidates/sharilyn-ray/sleuth-pass.md:4",
+      "memory/candidates/sharilyn-ray/social-harvest.md:4",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:4"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00008",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/social-harvest.md:13",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Position: Kansas Governor campaign-finance account holder",
+    "exactEvidenceSummary": "- Position: Kansas Governor campaign-finance account holder",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-in-their-own-words-md-l13",
+      "mem-memory-candidates-sharilyn-ray-raw-dump-v2-md-l13",
+      "mem-memory-candidates-sharilyn-ray-sleuth-pass-md-l13",
+      "mem-memory-candidates-sharilyn-ray-social-harvest-md-l13",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l9",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l13"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00008",
+      "raw-sharilyn-ray-00024",
+      "raw-sharilyn-ray-00040",
+      "raw-sharilyn-ray-00056",
+      "raw-sharilyn-ray-00073",
+      "raw-sharilyn-ray-00257"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/in-their-own-words.md:13",
+      "memory/candidates/sharilyn-ray/raw-dump-v2.md:13",
+      "memory/candidates/sharilyn-ray/sleuth-pass.md:13",
+      "memory/candidates/sharilyn-ray/social-harvest.md:13",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:9",
+      "ui/src/data/v2/sharilyn-ray.ts:13"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00024",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/social-harvest.md:15",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Incumbent: no",
+    "exactEvidenceSummary": "- Incumbent: no",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-social-harvest-md-l15"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00058"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/social-harvest.md:15"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00026",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/social-harvest.md:23",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Source handling",
+    "exactEvidenceSummary": "## Source handling",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-social-harvest-md-l23"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00063"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/social-harvest.md:23"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00010",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/in-their-own-words.md:15",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Incumbent: no",
+    "exactEvidenceSummary": "- Incumbent: no",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-in-their-own-words-md-l15",
+      "mem-memory-candidates-sharilyn-ray-raw-dump-v2-md-l15",
+      "mem-memory-candidates-sharilyn-ray-sleuth-pass-md-l15"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00010",
+      "raw-sharilyn-ray-00026",
+      "raw-sharilyn-ray-00042"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/in-their-own-words.md:15",
+      "memory/candidates/sharilyn-ray/raw-dump-v2.md:15",
+      "memory/candidates/sharilyn-ray/sleuth-pass.md:15"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00055",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:55",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"id\": \"i-ballot-status\",",
+    "exactEvidenceSummary": "\"id\": \"i-ballot-status\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l55",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l19"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00119",
+      "raw-sharilyn-ray-00263"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:55",
+      "ui/src/data/v2/sharilyn-ray.ts:19"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00044",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:25",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"s-kpdc-statewide\",",
+    "exactEvidenceSummary": "\"id\": \"s-kpdc-statewide\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l25",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l122"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00089",
+      "raw-sharilyn-ray-00366"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:25",
+      "ui/src/data/v2/sharilyn-ray.ts:122"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00049",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:36",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"s-kpdc-at\",",
+    "exactEvidenceSummary": "\"id\": \"s-kpdc-at\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l36",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l134"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00100",
+      "raw-sharilyn-ray-00378"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:36",
+      "ui/src/data/v2/sharilyn-ray.ts:134"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00052",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:47",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"s-kpdc-202601\",",
+    "exactEvidenceSummary": "\"id\": \"s-kpdc-202601\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l47",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l145"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00111",
+      "raw-sharilyn-ray-00389"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:47",
+      "ui/src/data/v2/sharilyn-ray.ts:145"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00072",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:101",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"i-donor-funding\",",
+    "exactEvidenceSummary": "\"id\": \"i-donor-funding\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l101",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l87"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00165",
+      "raw-sharilyn-ray-00331"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:101",
+      "ui/src/data/v2/sharilyn-ray.ts:87"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00117",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:126",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "meeting record",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"The attorney general is Kansas's top lawyer and one of its most visible statewide offices. Kris Kobach is the incumbent, and Chris Mann is the main challenger on the board right now.\",",
+    "exactEvidenceSummary": "\"The attorney general is Kansas's top lawyer and one of its most visible statewide offices. Kris Kobach is the incumbent, and Chris Mann is the main challenger on the board right now.\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l126"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00235"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:126"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00015",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/in-their-own-words.md:23",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Source handling",
+    "exactEvidenceSummary": "## Source handling",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-in-their-own-words-md-l23",
+      "mem-memory-candidates-sharilyn-ray-raw-dump-v2-md-l23",
+      "mem-memory-candidates-sharilyn-ray-sleuth-pass-md-l23"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00015",
+      "raw-sharilyn-ray-00031",
+      "raw-sharilyn-ray-00047"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/in-their-own-words.md:23",
+      "memory/candidates/sharilyn-ray/raw-dump-v2.md:23",
+      "memory/candidates/sharilyn-ray/sleuth-pass.md:23"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00054",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:53",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"issues\": [",
+    "exactEvidenceSummary": "\"issues\": [",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l53",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l17"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00117",
+      "raw-sharilyn-ray-00261"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:53",
+      "ui/src/data/v2/sharilyn-ray.ts:17"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00059",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:59",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sourceIds\": [",
+    "exactEvidenceSummary": "\"sourceIds\": [",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l59",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l69",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l82",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l92",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l105",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l115",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l23",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l33",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l45",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l57",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l67",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l79",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l91",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l101"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00123",
+      "raw-sharilyn-ray-00133",
+      "raw-sharilyn-ray-00146",
+      "raw-sharilyn-ray-00156",
+      "raw-sharilyn-ray-00169",
+      "raw-sharilyn-ray-00179",
+      "raw-sharilyn-ray-00267",
+      "raw-sharilyn-ray-00277",
+      "raw-sharilyn-ray-00289",
+      "raw-sharilyn-ray-00301",
+      "raw-sharilyn-ray-00311",
+      "raw-sharilyn-ray-00323",
+      "raw-sharilyn-ray-00335",
+      "raw-sharilyn-ray-00345"
+    ],
+    "duplicateCount": 14,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:59",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:69",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:82",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:92",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:105",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:115",
+      "ui/src/data/v2/sharilyn-ray.ts:23",
+      "ui/src/data/v2/sharilyn-ray.ts:33",
+      "ui/src/data/v2/sharilyn-ray.ts:45",
+      "ui/src/data/v2/sharilyn-ray.ts:57",
+      "ui/src/data/v2/sharilyn-ray.ts:67",
+      "ui/src/data/v2/sharilyn-ray.ts:79",
+      "ui/src/data/v2/sharilyn-ray.ts:91",
+      "ui/src/data/v2/sharilyn-ray.ts:101"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00063",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:66",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-record-appearance\",",
+    "exactEvidenceSummary": "\"id\": \"a-record-appearance\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l66",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l30"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00130",
+      "raw-sharilyn-ray-00274"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:66",
+      "ui/src/data/v2/sharilyn-ray.ts:30"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00066",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:75",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"socialSignals\": []",
+    "exactEvidenceSummary": "\"socialSignals\": []",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l75",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l98",
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l121",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l39",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l73",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l107"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00139",
+      "raw-sharilyn-ray-00162",
+      "raw-sharilyn-ray-00185",
+      "raw-sharilyn-ray-00283",
+      "raw-sharilyn-ray-00317",
+      "raw-sharilyn-ray-00351"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:75",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:98",
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:121",
+      "ui/src/data/v2/sharilyn-ray.ts:39",
+      "ui/src/data/v2/sharilyn-ray.ts:73",
+      "ui/src/data/v2/sharilyn-ray.ts:107"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00067",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:78",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"i-public-issue-record\",",
+    "exactEvidenceSummary": "\"id\": \"i-public-issue-record\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l78",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l53"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00142",
+      "raw-sharilyn-ray-00297"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:78",
+      "ui/src/data/v2/sharilyn-ray.ts:53"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00070",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:89",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "campaign statement",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-platform-gap\",",
+    "exactEvidenceSummary": "\"id\": \"a-platform-gap\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l89",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l64"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00153",
+      "raw-sharilyn-ray-00308"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:89",
+      "ui/src/data/v2/sharilyn-ray.ts:64"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00076",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:112",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-finance-record\",",
+    "exactEvidenceSummary": "\"id\": \"a-finance-record\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-sharilyn-ray-v2-issues-yaml-l112",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l98"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00176",
+      "raw-sharilyn-ray-00342"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/sharilyn-ray/v2-issues.yaml:112",
+      "ui/src/data/v2/sharilyn-ray.ts:98"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00088",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:92",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"philip-sarnecki\",",
+    "exactEvidenceSummary": "\"philip-sarnecki\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l92"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00201"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:92"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00090",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:94",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"stacy-rogers\",",
+    "exactEvidenceSummary": "\"stacy-rogers\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l94"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00203"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:94"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00091",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:95",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"brandon-adams\",",
+    "exactEvidenceSummary": "\"brandon-adams\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l95"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00204"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:95"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00092",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:96",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"doug-billings\",",
+    "exactEvidenceSummary": "\"doug-billings\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l96"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00205"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:96"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00093",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:97",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"joy-eakins\",",
+    "exactEvidenceSummary": "\"joy-eakins\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l97"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00206"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:97"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00094",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:98",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"ethan-corson\",",
+    "exactEvidenceSummary": "\"ethan-corson\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l98"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00207"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:98"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00095",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:99",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"cindy-holscher\",",
+    "exactEvidenceSummary": "\"cindy-holscher\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l99"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00208"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:99"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00096",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:100",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"mark-lane\",",
+    "exactEvidenceSummary": "\"mark-lane\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l100"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00209"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:100"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00097",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:101",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"marty-tuley\",",
+    "exactEvidenceSummary": "\"marty-tuley\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l101"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00210"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:101"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00115",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:122",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateSlugs: [\"kris-kobach\", \"chris-mann\"],",
+    "exactEvidenceSummary": "candidateSlugs: [\"kris-kobach\", \"chris-mann\"],",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l122"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00231"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:122"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00116",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:124",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"Kris Kobach is seeking another term as attorney general while Chris Mann runs as the Democratic challenger.\",",
+    "exactEvidenceSummary": "\"Kris Kobach is seeking another term as attorney general while Chris Mann runs as the Democratic challenger.\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l124"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00233"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:124"
+    ]
+  },
+  {
+    "id": "em-sharilyn-ray-00128",
+    "candidateSlug": "sharilyn-ray",
+    "candidateName": "Sharilyn Ray",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:41",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"ss-crossref-1\",",
+    "exactEvidenceSummary": "\"id\": \"ss-crossref-1\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l41",
+      "mem-ui-src-data-v2-sharilyn-ray-ts-l75"
+    ],
+    "rawRowIds": [
+      "raw-sharilyn-ray-00285",
+      "raw-sharilyn-ray-00319"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/sharilyn-ray.ts:41",
+      "ui/src/data/v2/sharilyn-ray.ts:75"
+    ]
+  }
+]

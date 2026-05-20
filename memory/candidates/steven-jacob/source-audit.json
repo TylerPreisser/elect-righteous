@@ -1,0 +1,407 @@
+{
+  "candidateSlug": "steven-jacob",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 8,
+  "sources": [
+    {
+      "sourceId": "src-steven-jacob-0001",
+      "url": "https://www.fec.gov/data/candidate/H6KS01229/",
+      "sourceFile": "memory/candidates/steven-jacob/v2-issues.yaml:27",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-steven-jacob-00046"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.fec.gov/data/candidate/H6KS01229/\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-steven-jacob-0002",
+      "url": null,
+      "sourceFile": "memory/candidates/steven-jacob/social-harvest.md:20",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social follow",
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 16,
+      "rowIds": [
+        "em-steven-jacob-00013",
+        "em-steven-jacob-00005",
+        "em-steven-jacob-00012",
+        "em-steven-jacob-00014",
+        "em-steven-jacob-00016",
+        "em-steven-jacob-00019",
+        "em-steven-jacob-00020",
+        "em-steven-jacob-00021",
+        "em-steven-jacob-00022",
+        "em-steven-jacob-00023",
+        "em-steven-jacob-00025",
+        "em-steven-jacob-00009",
+        "em-steven-jacob-00008",
+        "em-steven-jacob-00003",
+        "em-steven-jacob-00024",
+        "em-steven-jacob-00026"
+      ],
+      "claimsAnchored": [
+        "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associa",
+        "This artifact was created because the candidate-completeness audit found Steven Robert Jacob in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+        "Ballot / filing status: Steven Robert Jacob appears in the reviewed official or campaign-finance records connected to U.S. House candidate, Kansas 1st District. This profile does not treat that appearance as a final certified ballot until the final election-of",
+        "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+        "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+        "Steven Robert Jacob - social harvest",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Slug: steven-jacob",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-steven-jacob-0003",
+      "url": null,
+      "sourceFile": "memory/candidates/steven-jacob/v2-issues.yaml:57",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "donor/funding",
+        "meeting record",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 52,
+      "rowIds": [
+        "em-steven-jacob-00062",
+        "em-steven-jacob-00078",
+        "em-steven-jacob-00033",
+        "em-steven-jacob-00034",
+        "em-steven-jacob-00036",
+        "em-steven-jacob-00037",
+        "em-steven-jacob-00040",
+        "em-steven-jacob-00050",
+        "em-steven-jacob-00052",
+        "em-steven-jacob-00064",
+        "em-steven-jacob-00067",
+        "em-steven-jacob-00075",
+        "em-steven-jacob-00077",
+        "em-steven-jacob-00079",
+        "em-steven-jacob-00035",
+        "em-steven-jacob-00042",
+        "em-steven-jacob-00043",
+        "em-steven-jacob-00054",
+        "em-steven-jacob-00058",
+        "em-steven-jacob-00066",
+        "em-steven-jacob-00069",
+        "em-steven-jacob-00072",
+        "em-steven-jacob-00007",
+        "em-steven-jacob-00027",
+        "em-steven-jacob-00028",
+        "em-steven-jacob-00029",
+        "em-steven-jacob-00030",
+        "em-steven-jacob-00031",
+        "em-steven-jacob-00032",
+        "em-steven-jacob-00038",
+        "em-steven-jacob-00039",
+        "em-steven-jacob-00041",
+        "em-steven-jacob-00045",
+        "em-steven-jacob-00051",
+        "em-steven-jacob-00055",
+        "em-steven-jacob-00057",
+        "em-steven-jacob-00061",
+        "em-steven-jacob-00070",
+        "em-steven-jacob-00071",
+        "em-steven-jacob-00073",
+        "em-steven-jacob-00074",
+        "em-steven-jacob-00076",
+        "em-steven-jacob-00049",
+        "em-steven-jacob-00044",
+        "em-steven-jacob-00065",
+        "em-steven-jacob-00048",
+        "em-steven-jacob-00053",
+        "em-steven-jacob-00056",
+        "em-steven-jacob-00059",
+        "em-steven-jacob-00060"
+      ],
+      "claimsAnchored": [
+        "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+        "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+        "\"incumbent\": false,",
+        "\"occupation\": \"U.S. House candidate\",",
+        "\"recordSummary\": \"The verified record captured in this pass is the federal filing and committee record. No candidate-controlled issue platform was captured.\",",
+        "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+        "\"publisher\": \"Federal Election Commission\",",
+        "\"title\": \"Ballot / filing status\",",
+        "\"text\": \"Steven Robert Jacob appears in the reviewed official or campaign-finance records connected to U.S. House candidate, Kansas 1st District. This profile does not treat that appearance as a final certified ballot until the final election-office list is ch",
+        "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+        "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+        "\"source\": \"JACOB, STEVEN ROBERT - Candidate overview\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-steven-jacob-0004",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/steven-jacob.ts:62",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "donor/funding",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 23,
+      "rowIds": [
+        "em-steven-jacob-00130",
+        "em-steven-jacob-00047",
+        "em-steven-jacob-00133",
+        "em-steven-jacob-00136",
+        "em-steven-jacob-00134",
+        "em-steven-jacob-00122",
+        "em-steven-jacob-00123",
+        "em-steven-jacob-00124",
+        "em-steven-jacob-00125",
+        "em-steven-jacob-00126",
+        "em-steven-jacob-00127",
+        "em-steven-jacob-00129",
+        "em-steven-jacob-00131",
+        "em-steven-jacob-00132",
+        "em-steven-jacob-00135",
+        "em-steven-jacob-00137",
+        "em-steven-jacob-00138",
+        "em-steven-jacob-00139",
+        "em-steven-jacob-00140",
+        "em-steven-jacob-00141",
+        "em-steven-jacob-00142",
+        "em-steven-jacob-00143",
+        "em-steven-jacob-00128"
+      ],
+      "claimsAnchored": [
+        "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comm",
+        "\"title\": \"JACOB, STEVEN ROBERT - Candidate overview\",",
+        "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+        "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+        "\"mappedToIssueId\": \"i-donor-funding\"",
+        "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+        "To refresh:",
+        "node scripts/hydrate-v2-social-signals.mjs",
+        "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+        "import { validateCandidateV2 } from \"@/data/types-v2\";",
+        "export const STEVEN_JACOB_V2: CandidateFullV2 = {",
+        "\"platform\": \"Public web\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-steven-jacob-0005",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:76",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "voting record",
+        "ballot status",
+        "donor/funding",
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 42,
+      "rowIds": [
+        "em-steven-jacob-00098",
+        "em-steven-jacob-00083",
+        "em-steven-jacob-00094",
+        "em-steven-jacob-00120",
+        "em-steven-jacob-00121",
+        "em-steven-jacob-00096",
+        "em-steven-jacob-00081",
+        "em-steven-jacob-00080",
+        "em-steven-jacob-00082",
+        "em-steven-jacob-00084",
+        "em-steven-jacob-00085",
+        "em-steven-jacob-00090",
+        "em-steven-jacob-00091",
+        "em-steven-jacob-00093",
+        "em-steven-jacob-00095",
+        "em-steven-jacob-00097",
+        "em-steven-jacob-00099",
+        "em-steven-jacob-00100",
+        "em-steven-jacob-00101",
+        "em-steven-jacob-00102",
+        "em-steven-jacob-00103",
+        "em-steven-jacob-00104",
+        "em-steven-jacob-00110",
+        "em-steven-jacob-00086",
+        "em-steven-jacob-00087",
+        "em-steven-jacob-00088",
+        "em-steven-jacob-00089",
+        "em-steven-jacob-00092",
+        "em-steven-jacob-00105",
+        "em-steven-jacob-00106",
+        "em-steven-jacob-00107",
+        "em-steven-jacob-00108",
+        "em-steven-jacob-00109",
+        "em-steven-jacob-00111",
+        "em-steven-jacob-00112",
+        "em-steven-jacob-00113",
+        "em-steven-jacob-00114",
+        "em-steven-jacob-00115",
+        "em-steven-jacob-00116",
+        "em-steven-jacob-00117",
+        "em-steven-jacob-00118",
+        "em-steven-jacob-00119"
+      ],
+      "claimsAnchored": [
+        "\"Your U.S. Representative is the one person in Congress who represents your specific district — not the whole state, just your area. They serve two-year terms, vote on federal laws and spending bills, and are supposed to be your direct voice in Washington on e",
+        "status: \"Incumbent Running\",",
+        "\"If you live in Hays, this is your U.S. House race. Tracey Mann is the incumbent, and Colin McRoberts, Lauren Reinhold, Craig Musser, and Steven Robert Jacob have all appeared in the contest to represent western and central Kansas.\",",
+        "\"With Laura Kelly term-limited, both parties and multiple campaign-account holders are building a large field for one of the most important open-seat races in Kansas politics.\",",
+        "\"Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.\",",
+        "\"The KS-01 member of Congress becomes the main federal voice for agriculture, water, roads, trade, and rural infrastructure across a huge stretch of Kansas.\",",
+        "jurisdiction: \"Kansas 1st Congressional District\",",
+        "date: \"2026-11-03\",",
+        "seats: 1,",
+        "candidateCount: 5,",
+        "candidateSlugs: [",
+        "\"steven-jacob\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-steven-jacob-0006",
+      "url": null,
+      "sourceFile": "memory/candidates/steven-jacob/in-their-own-words.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-steven-jacob-00001",
+        "em-steven-jacob-00002",
+        "em-steven-jacob-00004",
+        "em-steven-jacob-00006",
+        "em-steven-jacob-00011",
+        "em-steven-jacob-00010",
+        "em-steven-jacob-00015"
+      ],
+      "claimsAnchored": [
+        "Steven Robert Jacob - in their own words",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-steven-jacob-0007",
+      "url": null,
+      "sourceFile": "memory/candidates/steven-jacob/raw-dump-v2.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-steven-jacob-00017"
+      ],
+      "claimsAnchored": [
+        "Steven Robert Jacob - raw dump v2"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-steven-jacob-0008",
+      "url": null,
+      "sourceFile": "memory/candidates/steven-jacob/sleuth-pass.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-steven-jacob-00018"
+      ],
+      "claimsAnchored": [
+        "Steven Robert Jacob - sleuth pass"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    }
+  ]
+}

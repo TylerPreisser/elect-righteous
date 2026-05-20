@@ -1,0 +1,52 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "scott-schwab",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/scott-schwab/in-their-own-words.md",
+    "memory/candidates/scott-schwab/raw-dump-v2.md",
+    "memory/candidates/scott-schwab/raw-dump.md",
+    "memory/candidates/scott-schwab/site-profile.md",
+    "memory/candidates/scott-schwab/sleuth-pass.md",
+    "memory/candidates/scott-schwab/social-harvest.md",
+    "memory/candidates/scott-schwab/v2-issues.yaml",
+    "memory/elections/2026-11-03-kansas-governor.md",
+    "memory/elections/2026-11-03-kansas-secretary-of-state.md",
+    "memory/elections/2026-11-03-ks-governor.md",
+    "memory/elections/2026-11-03-ks-statewide-offices.md",
+    "reports/KS-01-2026-challengers-investigation.md",
+    "reports/chris-mann-complete-dossier.md",
+    "reports/faith-church-investigation-2026-03-31.md",
+    "reports/governor-2026-all-remaining-candidates-complete.md",
+    "reports/hays-kansas-election-finder-2026-03-30.md",
+    "reports/jeff-colyer-complete-dossier.md",
+    "reports/plain-english-voter-guide.md",
+    "reports/scott-schwab-complete-dossier.md",
+    "reports/sos-insurance-ks01-all-candidates-complete.md",
+    "reports/ty-masterson-complete-dossier.md",
+    "reports/vicki-schmidt-complete-dossier.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/scott-schwab.ts"
+  ],
+  "files_written": [
+    "memory/candidates/scott-schwab/evidence-matrix-raw.json",
+    "memory/candidates/scott-schwab/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/scott-schwab/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/scott-schwab/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/scott-schwab/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs scott-schwab"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for scott-schwab."
+  ],
+  "handoff_summary": "Extracted 13261 raw evidence rows for scott-schwab."
+}

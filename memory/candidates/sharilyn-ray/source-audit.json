@@ -1,0 +1,401 @@
+{
+  "candidateSlug": "sharilyn-ray",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 8,
+  "sources": [
+    {
+      "sourceId": "src-sharilyn-ray-0001",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW01SRay_202601.pdf",
+      "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:49",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sharilyn-ray-00046"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW01SRay_202601.pdf\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sharilyn-ray-0002",
+      "url": null,
+      "sourceFile": "memory/candidates/sharilyn-ray/social-harvest.md:20",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social follow",
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 16,
+      "rowIds": [
+        "em-sharilyn-ray-00013",
+        "em-sharilyn-ray-00005",
+        "em-sharilyn-ray-00012",
+        "em-sharilyn-ray-00014",
+        "em-sharilyn-ray-00016",
+        "em-sharilyn-ray-00019",
+        "em-sharilyn-ray-00020",
+        "em-sharilyn-ray-00021",
+        "em-sharilyn-ray-00022",
+        "em-sharilyn-ray-00023",
+        "em-sharilyn-ray-00025",
+        "em-sharilyn-ray-00009",
+        "em-sharilyn-ray-00003",
+        "em-sharilyn-ray-00008",
+        "em-sharilyn-ray-00024",
+        "em-sharilyn-ray-00026"
+      ],
+      "claimsAnchored": [
+        "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associa",
+        "This artifact was created because the candidate-completeness audit found Sharilyn Ray in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+        "Ballot / filing status: KPDC lists Sharilyn Ray under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+        "Donor / funding information: KPDC links a 202601 receipts-and-expenditures report for Ray.",
+        "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+        "Sharilyn Ray - social harvest",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Slug: sharilyn-ray",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sharilyn-ray-0003",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:109",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "donor/funding",
+        "legal/court",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 34,
+      "rowIds": [
+        "em-sharilyn-ray-00104",
+        "em-sharilyn-ray-00106",
+        "em-sharilyn-ray-00100",
+        "em-sharilyn-ray-00102",
+        "em-sharilyn-ray-00113",
+        "em-sharilyn-ray-00118",
+        "em-sharilyn-ray-00119",
+        "em-sharilyn-ray-00089",
+        "em-sharilyn-ray-00098",
+        "em-sharilyn-ray-00099",
+        "em-sharilyn-ray-00101",
+        "em-sharilyn-ray-00103",
+        "em-sharilyn-ray-00105",
+        "em-sharilyn-ray-00107",
+        "em-sharilyn-ray-00108",
+        "em-sharilyn-ray-00109",
+        "em-sharilyn-ray-00110",
+        "em-sharilyn-ray-00111",
+        "em-sharilyn-ray-00112",
+        "em-sharilyn-ray-00114",
+        "em-sharilyn-ray-00120",
+        "em-sharilyn-ray-00121",
+        "em-sharilyn-ray-00117",
+        "em-sharilyn-ray-00088",
+        "em-sharilyn-ray-00090",
+        "em-sharilyn-ray-00091",
+        "em-sharilyn-ray-00092",
+        "em-sharilyn-ray-00093",
+        "em-sharilyn-ray-00094",
+        "em-sharilyn-ray-00095",
+        "em-sharilyn-ray-00096",
+        "em-sharilyn-ray-00097",
+        "em-sharilyn-ray-00115",
+        "em-sharilyn-ray-00116"
+      ],
+      "claimsAnchored": [
+        "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+        "\"The governor is the boss of Kansas state government. They sign or veto every law the legislature passes, write the state budget, appoint the heads of state agencies, and set the direction on taxes, schools, roads, and healthcare. When there's a disaster, a cr",
+        "\"With Laura Kelly term-limited, both parties and multiple campaign-account holders are building a large field for one of the most important open-seat races in Kansas politics.\",",
+        "\"Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.\",",
+        "status: \"Incumbent Running\",",
+        "\"This office decides which lawsuits Kansas joins, which criminal or civil fights get statewide attention, and how aggressively state law is enforced in court.\",",
+        "\"The attorney general is Kansas's top lawyer. They decide which lawsuits the state files or joins, prosecute major crimes that cross county lines, protect consumers from scams, and defend or challenge state laws in court. If a company rips off Kansans, if ther",
+        "\"charlotte-ohara\",",
+        "\"sharilyn-ray\",",
+        "description:",
+        "plainEnglish:",
+        "whyItMatters:"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sharilyn-ray-0004",
+      "url": null,
+      "sourceFile": "memory/candidates/sharilyn-ray/v2-issues.yaml:81",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "donor/funding",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 58,
+      "rowIds": [
+        "em-sharilyn-ray-00069",
+        "em-sharilyn-ray-00086",
+        "em-sharilyn-ray-00033",
+        "em-sharilyn-ray-00034",
+        "em-sharilyn-ray-00035",
+        "em-sharilyn-ray-00036",
+        "em-sharilyn-ray-00037",
+        "em-sharilyn-ray-00056",
+        "em-sharilyn-ray-00058",
+        "em-sharilyn-ray-00065",
+        "em-sharilyn-ray-00071",
+        "em-sharilyn-ray-00085",
+        "em-sharilyn-ray-00087",
+        "em-sharilyn-ray-00040",
+        "em-sharilyn-ray-00042",
+        "em-sharilyn-ray-00043",
+        "em-sharilyn-ray-00048",
+        "em-sharilyn-ray-00060",
+        "em-sharilyn-ray-00061",
+        "em-sharilyn-ray-00073",
+        "em-sharilyn-ray-00074",
+        "em-sharilyn-ray-00075",
+        "em-sharilyn-ray-00080",
+        "em-sharilyn-ray-00082",
+        "em-sharilyn-ray-00083",
+        "em-sharilyn-ray-00007",
+        "em-sharilyn-ray-00027",
+        "em-sharilyn-ray-00028",
+        "em-sharilyn-ray-00029",
+        "em-sharilyn-ray-00030",
+        "em-sharilyn-ray-00031",
+        "em-sharilyn-ray-00032",
+        "em-sharilyn-ray-00038",
+        "em-sharilyn-ray-00039",
+        "em-sharilyn-ray-00041",
+        "em-sharilyn-ray-00045",
+        "em-sharilyn-ray-00051",
+        "em-sharilyn-ray-00057",
+        "em-sharilyn-ray-00062",
+        "em-sharilyn-ray-00064",
+        "em-sharilyn-ray-00068",
+        "em-sharilyn-ray-00077",
+        "em-sharilyn-ray-00078",
+        "em-sharilyn-ray-00079",
+        "em-sharilyn-ray-00081",
+        "em-sharilyn-ray-00084",
+        "em-sharilyn-ray-00055",
+        "em-sharilyn-ray-00044",
+        "em-sharilyn-ray-00049",
+        "em-sharilyn-ray-00052"
+      ],
+      "claimsAnchored": [
+        "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+        "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+        "\"incumbent\": false,",
+        "\"occupation\": \"Governor candidate / campaign-finance account holder\",",
+        "\"whoTheyAre\": \"Sharilyn Ray appears in KPDC's 2026 statewide campaign-finance index under gubernatorial candidates. Party and final ballot status were not confirmed in the reviewed filing mirror.\",",
+        "\"recordSummary\": \"This profile preserves the campaign-finance account in the site roster while clearly limiting claims to the records found.\",",
+        "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+        "\"title\": \"Ballot / filing status\",",
+        "\"text\": \"KPDC lists Sharilyn Ray under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+        "\"body\": \"Sharilyn Ray was identified in the reviewed official or campaign-finance source for Kansas Governor campaign-finance account holder.\",",
+        "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+        "\"Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sharilyn-ray-0005",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/sharilyn-ray.ts:77",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "donor/funding",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 25,
+      "rowIds": [
+        "em-sharilyn-ray-00133",
+        "em-sharilyn-ray-00047",
+        "em-sharilyn-ray-00130",
+        "em-sharilyn-ray-00132",
+        "em-sharilyn-ray-00136",
+        "em-sharilyn-ray-00050",
+        "em-sharilyn-ray-00053",
+        "em-sharilyn-ray-00122",
+        "em-sharilyn-ray-00123",
+        "em-sharilyn-ray-00124",
+        "em-sharilyn-ray-00125",
+        "em-sharilyn-ray-00126",
+        "em-sharilyn-ray-00127",
+        "em-sharilyn-ray-00129",
+        "em-sharilyn-ray-00131",
+        "em-sharilyn-ray-00134",
+        "em-sharilyn-ray-00135",
+        "em-sharilyn-ray-00137",
+        "em-sharilyn-ray-00138",
+        "em-sharilyn-ray-00139",
+        "em-sharilyn-ray-00140",
+        "em-sharilyn-ray-00141",
+        "em-sharilyn-ray-00142",
+        "em-sharilyn-ray-00143",
+        "em-sharilyn-ray-00128"
+      ],
+      "claimsAnchored": [
+        "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comm",
+        "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+        "\"observation\": \"Ballot / filing status: KPDC lists Sharilyn Ray under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+        "\"mappedToIssueId\": \"i-ballot-status\"",
+        "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+        "\"title\": \"Sharilyn Ray Appointment of Treasurer\",",
+        "\"title\": \"Sharilyn Ray 2026 Receipts and Expenditures\",",
+        "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+        "To refresh:",
+        "node scripts/hydrate-v2-social-signals.mjs",
+        "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+        "import { validateCandidateV2 } from \"@/data/types-v2\";"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sharilyn-ray-0006",
+      "url": null,
+      "sourceFile": "memory/candidates/sharilyn-ray/in-their-own-words.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-sharilyn-ray-00001",
+        "em-sharilyn-ray-00002",
+        "em-sharilyn-ray-00004",
+        "em-sharilyn-ray-00006",
+        "em-sharilyn-ray-00011",
+        "em-sharilyn-ray-00010",
+        "em-sharilyn-ray-00015"
+      ],
+      "claimsAnchored": [
+        "Sharilyn Ray - in their own words",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sharilyn-ray-0007",
+      "url": null,
+      "sourceFile": "memory/candidates/sharilyn-ray/raw-dump-v2.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sharilyn-ray-00017"
+      ],
+      "claimsAnchored": [
+        "Sharilyn Ray - raw dump v2"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sharilyn-ray-0008",
+      "url": null,
+      "sourceFile": "memory/candidates/sharilyn-ray/sleuth-pass.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sharilyn-ray-00018"
+      ],
+      "claimsAnchored": [
+        "Sharilyn Ray - sleuth pass"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    }
+  ]
+}

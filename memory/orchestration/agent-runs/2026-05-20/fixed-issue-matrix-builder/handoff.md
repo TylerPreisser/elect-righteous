@@ -1,36 +1,483 @@
 # Handoff — fixed-issue-matrix-builder — 2026-05-20
 
 ## What I Did
-Built fixed 14-issue matrices for roger-marshall, damon-anderson, jason-hart and attached them to each candidate's v2-issues.yaml as fixed_issue_matrix.
+Built fixed 14-issue matrices for aaron-cunningham, adam-hamilton, alaina-cunningham, allen-park, anne-parelkar, barb-wasinger, bobbi-dreiling, brandon-adams, cathy-hopkins, charlotte-ohara, chase-laporte, chris-mann, christy-cauble-davis, cindy-holscher, colin-mcroberts, craig-musser, craig-pallister, curt-vajnar, daniel-hawkins, david-vilaysing, derek-yarmer, dinah-sykes, doug-billings, eric-lund, erik-murray, ethan-corson, jayme-goetz, jeff-colyer, jennifer-day, joy-eakins, ken-brooks, ken-rahjes, kevin-latz, kris-kobach, lauren-reinhold, lorie-wood, mark-lane, marty-tuley, mason-ruder, michael-berges, michael-soetaert, michelle-cunningham, nathan-leiker, neal-younger, noah-taylor, pat-proctor, patrick-schmidt, philip-sarnecki, rebecca-herzog, ric-koehn, ron-wilson, ruth-ruder, sam-lane, sandy-jacobs, sandy-spidel-neumann, scott-braun, scott-schwab, sharilyn-ray, shaun-musil, stacy-rogers, steven-jacob, steven-johnson, toby-dougherty, tracey-mann, ty-masterson, vernon-ruder-jr, vicki-schmidt and attached them to each candidate's v2-issues.yaml as fixed_issue_matrix.
 
 ## Key Findings
-- roger-marshall: 14 issues, 0 empty, 0 social-only, 494 selected evidence items.
-- damon-anderson: 14 issues, 0 empty, 1 social-only, 204 selected evidence items.
-- jason-hart: 14 issues, 0 empty, 0 social-only, 470 selected evidence items.
-- Validation passed: fixed-matrix structure check, full YAML parse, `git diff --check`, v2 runtime validation, `npx tsc --noEmit --incremental false`, and `npm run build` generating 232 static pages.
+- aaron-cunningham: 14 issues, 0 empty, 0 social-only, 287 selected evidence items.
+- adam-hamilton: 14 issues, 6 empty, 0 social-only, 52 selected evidence items.
+- alaina-cunningham: 14 issues, 0 empty, 0 social-only, 279 selected evidence items.
+- allen-park: 14 issues, 0 empty, 0 social-only, 280 selected evidence items.
+- anne-parelkar: 14 issues, 0 empty, 0 social-only, 378 selected evidence items.
+- barb-wasinger: 14 issues, 0 empty, 0 social-only, 326 selected evidence items.
+- bobbi-dreiling: 14 issues, 0 empty, 0 social-only, 298 selected evidence items.
+- brandon-adams: 14 issues, 7 empty, 0 social-only, 47 selected evidence items.
+- cathy-hopkins: 14 issues, 1 empty, 0 social-only, 122 selected evidence items.
+- charlotte-ohara: 14 issues, 0 empty, 0 social-only, 288 selected evidence items.
+- chase-laporte: 14 issues, 0 empty, 0 social-only, 325 selected evidence items.
+- chris-mann: 14 issues, 0 empty, 0 social-only, 311 selected evidence items.
+- christy-cauble-davis: 14 issues, 0 empty, 0 social-only, 354 selected evidence items.
+- cindy-holscher: 14 issues, 0 empty, 0 social-only, 375 selected evidence items.
+- colin-mcroberts: 14 issues, 0 empty, 0 social-only, 280 selected evidence items.
+- craig-musser: 14 issues, 0 empty, 0 social-only, 288 selected evidence items.
+- craig-pallister: 14 issues, 0 empty, 0 social-only, 264 selected evidence items.
+- curt-vajnar: 14 issues, 1 empty, 0 social-only, 237 selected evidence items.
+- daniel-hawkins: 14 issues, 0 empty, 0 social-only, 304 selected evidence items.
+- david-vilaysing: 14 issues, 1 empty, 0 social-only, 273 selected evidence items.
+- derek-yarmer: 14 issues, 0 empty, 0 social-only, 260 selected evidence items.
+- dinah-sykes: 14 issues, 0 empty, 0 social-only, 344 selected evidence items.
+- doug-billings: 14 issues, 3 empty, 0 social-only, 69 selected evidence items.
+- eric-lund: 14 issues, 5 empty, 0 social-only, 54 selected evidence items.
+- erik-murray: 14 issues, 0 empty, 0 social-only, 358 selected evidence items.
+- ethan-corson: 14 issues, 0 empty, 0 social-only, 337 selected evidence items.
+- jayme-goetz: 14 issues, 0 empty, 0 social-only, 261 selected evidence items.
+- jeff-colyer: 14 issues, 0 empty, 0 social-only, 398 selected evidence items.
+- jennifer-day: 14 issues, 0 empty, 0 social-only, 261 selected evidence items.
+- joy-eakins: 14 issues, 0 empty, 0 social-only, 356 selected evidence items.
+- ken-brooks: 14 issues, 0 empty, 0 social-only, 282 selected evidence items.
+- ken-rahjes: 14 issues, 0 empty, 0 social-only, 291 selected evidence items.
+- kevin-latz: 14 issues, 7 empty, 0 social-only, 48 selected evidence items.
+- kris-kobach: 14 issues, 0 empty, 0 social-only, 408 selected evidence items.
+- lauren-reinhold: 14 issues, 0 empty, 0 social-only, 279 selected evidence items.
+- lorie-wood: 14 issues, 1 empty, 0 social-only, 74 selected evidence items.
+- mark-lane: 14 issues, 7 empty, 0 social-only, 46 selected evidence items.
+- marty-tuley: 14 issues, 0 empty, 0 social-only, 304 selected evidence items.
+- mason-ruder: 14 issues, 0 empty, 0 social-only, 309 selected evidence items.
+- michael-berges: 14 issues, 0 empty, 0 social-only, 171 selected evidence items.
+- michael-soetaert: 14 issues, 0 empty, 0 social-only, 336 selected evidence items.
+- michelle-cunningham: 14 issues, 5 empty, 0 social-only, 65 selected evidence items.
+- nathan-leiker: 14 issues, 0 empty, 0 social-only, 309 selected evidence items.
+- neal-younger: 14 issues, 0 empty, 0 social-only, 294 selected evidence items.
+- noah-taylor: 14 issues, 4 empty, 0 social-only, 59 selected evidence items.
+- pat-proctor: 14 issues, 0 empty, 0 social-only, 203 selected evidence items.
+- patrick-schmidt: 14 issues, 0 empty, 0 social-only, 333 selected evidence items.
+- philip-sarnecki: 14 issues, 0 empty, 0 social-only, 366 selected evidence items.
+- rebecca-herzog: 14 issues, 0 empty, 0 social-only, 237 selected evidence items.
+- ric-koehn: 14 issues, 3 empty, 0 social-only, 74 selected evidence items.
+- ron-wilson: 14 issues, 0 empty, 0 social-only, 295 selected evidence items.
+- ruth-ruder: 14 issues, 0 empty, 0 social-only, 268 selected evidence items.
+- sam-lane: 14 issues, 0 empty, 0 social-only, 269 selected evidence items.
+- sandy-jacobs: 14 issues, 0 empty, 0 social-only, 292 selected evidence items.
+- sandy-spidel-neumann: 14 issues, 0 empty, 0 social-only, 344 selected evidence items.
+- scott-braun: 14 issues, 0 empty, 0 social-only, 275 selected evidence items.
+- scott-schwab: 14 issues, 0 empty, 0 social-only, 358 selected evidence items.
+- sharilyn-ray: 14 issues, 7 empty, 0 social-only, 44 selected evidence items.
+- shaun-musil: 14 issues, 0 empty, 0 social-only, 284 selected evidence items.
+- stacy-rogers: 14 issues, 0 empty, 0 social-only, 321 selected evidence items.
+- steven-jacob: 14 issues, 9 empty, 0 social-only, 40 selected evidence items.
+- steven-johnson: 14 issues, 5 empty, 0 social-only, 58 selected evidence items.
+- toby-dougherty: 14 issues, 0 empty, 0 social-only, 261 selected evidence items.
+- tracey-mann: 14 issues, 0 empty, 0 social-only, 292 selected evidence items.
+- ty-masterson: 14 issues, 0 empty, 0 social-only, 390 selected evidence items.
+- vernon-ruder-jr: 14 issues, 1 empty, 0 social-only, 256 selected evidence items.
+- vicki-schmidt: 14 issues, 0 empty, 0 social-only, 363 selected evidence items.
 
 ## Files Created or Modified
-- memory/candidates/roger-marshall/issue-matrix.md
-- memory/candidates/roger-marshall/fixed-issue-matrix.json
-- memory/candidates/roger-marshall/v2-issues.yaml
-- memory/candidates/roger-marshall/agent-work/fixed-issue-matrix-builder/run-state.json
-- memory/candidates/roger-marshall/agent-work/fixed-issue-matrix-builder/notes.md
-- memory/candidates/roger-marshall/agent-work/fixed-issue-matrix-builder/handoff.md
-- memory/candidates/damon-anderson/issue-matrix.md
-- memory/candidates/damon-anderson/fixed-issue-matrix.json
-- memory/candidates/damon-anderson/v2-issues.yaml
-- memory/candidates/damon-anderson/agent-work/fixed-issue-matrix-builder/run-state.json
-- memory/candidates/damon-anderson/agent-work/fixed-issue-matrix-builder/notes.md
-- memory/candidates/damon-anderson/agent-work/fixed-issue-matrix-builder/handoff.md
-- memory/candidates/jason-hart/issue-matrix.md
-- memory/candidates/jason-hart/fixed-issue-matrix.json
-- memory/candidates/jason-hart/v2-issues.yaml
-- memory/candidates/jason-hart/agent-work/fixed-issue-matrix-builder/run-state.json
-- memory/candidates/jason-hart/agent-work/fixed-issue-matrix-builder/notes.md
-- memory/candidates/jason-hart/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/aaron-cunningham/issue-matrix.md
+- memory/candidates/aaron-cunningham/fixed-issue-matrix.json
+- memory/candidates/aaron-cunningham/v2-issues.yaml
+- memory/candidates/aaron-cunningham/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/aaron-cunningham/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/aaron-cunningham/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/adam-hamilton/issue-matrix.md
+- memory/candidates/adam-hamilton/fixed-issue-matrix.json
+- memory/candidates/adam-hamilton/v2-issues.yaml
+- memory/candidates/adam-hamilton/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/adam-hamilton/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/adam-hamilton/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/alaina-cunningham/issue-matrix.md
+- memory/candidates/alaina-cunningham/fixed-issue-matrix.json
+- memory/candidates/alaina-cunningham/v2-issues.yaml
+- memory/candidates/alaina-cunningham/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/alaina-cunningham/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/alaina-cunningham/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/allen-park/issue-matrix.md
+- memory/candidates/allen-park/fixed-issue-matrix.json
+- memory/candidates/allen-park/v2-issues.yaml
+- memory/candidates/allen-park/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/allen-park/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/allen-park/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/anne-parelkar/issue-matrix.md
+- memory/candidates/anne-parelkar/fixed-issue-matrix.json
+- memory/candidates/anne-parelkar/v2-issues.yaml
+- memory/candidates/anne-parelkar/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/anne-parelkar/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/anne-parelkar/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/barb-wasinger/issue-matrix.md
+- memory/candidates/barb-wasinger/fixed-issue-matrix.json
+- memory/candidates/barb-wasinger/v2-issues.yaml
+- memory/candidates/barb-wasinger/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/barb-wasinger/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/barb-wasinger/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/bobbi-dreiling/issue-matrix.md
+- memory/candidates/bobbi-dreiling/fixed-issue-matrix.json
+- memory/candidates/bobbi-dreiling/v2-issues.yaml
+- memory/candidates/bobbi-dreiling/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/bobbi-dreiling/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/bobbi-dreiling/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/brandon-adams/issue-matrix.md
+- memory/candidates/brandon-adams/fixed-issue-matrix.json
+- memory/candidates/brandon-adams/v2-issues.yaml
+- memory/candidates/brandon-adams/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/brandon-adams/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/brandon-adams/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/cathy-hopkins/issue-matrix.md
+- memory/candidates/cathy-hopkins/fixed-issue-matrix.json
+- memory/candidates/cathy-hopkins/v2-issues.yaml
+- memory/candidates/cathy-hopkins/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/cathy-hopkins/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/cathy-hopkins/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/charlotte-ohara/issue-matrix.md
+- memory/candidates/charlotte-ohara/fixed-issue-matrix.json
+- memory/candidates/charlotte-ohara/v2-issues.yaml
+- memory/candidates/charlotte-ohara/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/charlotte-ohara/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/charlotte-ohara/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/chase-laporte/issue-matrix.md
+- memory/candidates/chase-laporte/fixed-issue-matrix.json
+- memory/candidates/chase-laporte/v2-issues.yaml
+- memory/candidates/chase-laporte/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/chase-laporte/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/chase-laporte/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/chris-mann/issue-matrix.md
+- memory/candidates/chris-mann/fixed-issue-matrix.json
+- memory/candidates/chris-mann/v2-issues.yaml
+- memory/candidates/chris-mann/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/chris-mann/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/chris-mann/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/christy-cauble-davis/issue-matrix.md
+- memory/candidates/christy-cauble-davis/fixed-issue-matrix.json
+- memory/candidates/christy-cauble-davis/v2-issues.yaml
+- memory/candidates/christy-cauble-davis/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/christy-cauble-davis/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/christy-cauble-davis/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/cindy-holscher/issue-matrix.md
+- memory/candidates/cindy-holscher/fixed-issue-matrix.json
+- memory/candidates/cindy-holscher/v2-issues.yaml
+- memory/candidates/cindy-holscher/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/cindy-holscher/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/cindy-holscher/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/colin-mcroberts/issue-matrix.md
+- memory/candidates/colin-mcroberts/fixed-issue-matrix.json
+- memory/candidates/colin-mcroberts/v2-issues.yaml
+- memory/candidates/colin-mcroberts/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/colin-mcroberts/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/colin-mcroberts/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/craig-musser/issue-matrix.md
+- memory/candidates/craig-musser/fixed-issue-matrix.json
+- memory/candidates/craig-musser/v2-issues.yaml
+- memory/candidates/craig-musser/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/craig-musser/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/craig-musser/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/craig-pallister/issue-matrix.md
+- memory/candidates/craig-pallister/fixed-issue-matrix.json
+- memory/candidates/craig-pallister/v2-issues.yaml
+- memory/candidates/craig-pallister/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/craig-pallister/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/craig-pallister/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/curt-vajnar/issue-matrix.md
+- memory/candidates/curt-vajnar/fixed-issue-matrix.json
+- memory/candidates/curt-vajnar/v2-issues.yaml
+- memory/candidates/curt-vajnar/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/curt-vajnar/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/curt-vajnar/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/daniel-hawkins/issue-matrix.md
+- memory/candidates/daniel-hawkins/fixed-issue-matrix.json
+- memory/candidates/daniel-hawkins/v2-issues.yaml
+- memory/candidates/daniel-hawkins/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/daniel-hawkins/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/daniel-hawkins/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/david-vilaysing/issue-matrix.md
+- memory/candidates/david-vilaysing/fixed-issue-matrix.json
+- memory/candidates/david-vilaysing/v2-issues.yaml
+- memory/candidates/david-vilaysing/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/david-vilaysing/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/david-vilaysing/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/derek-yarmer/issue-matrix.md
+- memory/candidates/derek-yarmer/fixed-issue-matrix.json
+- memory/candidates/derek-yarmer/v2-issues.yaml
+- memory/candidates/derek-yarmer/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/derek-yarmer/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/derek-yarmer/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/dinah-sykes/issue-matrix.md
+- memory/candidates/dinah-sykes/fixed-issue-matrix.json
+- memory/candidates/dinah-sykes/v2-issues.yaml
+- memory/candidates/dinah-sykes/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/dinah-sykes/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/dinah-sykes/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/doug-billings/issue-matrix.md
+- memory/candidates/doug-billings/fixed-issue-matrix.json
+- memory/candidates/doug-billings/v2-issues.yaml
+- memory/candidates/doug-billings/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/doug-billings/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/doug-billings/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/eric-lund/issue-matrix.md
+- memory/candidates/eric-lund/fixed-issue-matrix.json
+- memory/candidates/eric-lund/v2-issues.yaml
+- memory/candidates/eric-lund/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/eric-lund/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/eric-lund/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/erik-murray/issue-matrix.md
+- memory/candidates/erik-murray/fixed-issue-matrix.json
+- memory/candidates/erik-murray/v2-issues.yaml
+- memory/candidates/erik-murray/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/erik-murray/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/erik-murray/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/ethan-corson/issue-matrix.md
+- memory/candidates/ethan-corson/fixed-issue-matrix.json
+- memory/candidates/ethan-corson/v2-issues.yaml
+- memory/candidates/ethan-corson/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/ethan-corson/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/ethan-corson/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/jayme-goetz/issue-matrix.md
+- memory/candidates/jayme-goetz/fixed-issue-matrix.json
+- memory/candidates/jayme-goetz/v2-issues.yaml
+- memory/candidates/jayme-goetz/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/jayme-goetz/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/jayme-goetz/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/jeff-colyer/issue-matrix.md
+- memory/candidates/jeff-colyer/fixed-issue-matrix.json
+- memory/candidates/jeff-colyer/v2-issues.yaml
+- memory/candidates/jeff-colyer/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/jeff-colyer/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/jeff-colyer/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/jennifer-day/issue-matrix.md
+- memory/candidates/jennifer-day/fixed-issue-matrix.json
+- memory/candidates/jennifer-day/v2-issues.yaml
+- memory/candidates/jennifer-day/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/jennifer-day/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/jennifer-day/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/joy-eakins/issue-matrix.md
+- memory/candidates/joy-eakins/fixed-issue-matrix.json
+- memory/candidates/joy-eakins/v2-issues.yaml
+- memory/candidates/joy-eakins/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/joy-eakins/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/joy-eakins/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/ken-brooks/issue-matrix.md
+- memory/candidates/ken-brooks/fixed-issue-matrix.json
+- memory/candidates/ken-brooks/v2-issues.yaml
+- memory/candidates/ken-brooks/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/ken-brooks/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/ken-brooks/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/ken-rahjes/issue-matrix.md
+- memory/candidates/ken-rahjes/fixed-issue-matrix.json
+- memory/candidates/ken-rahjes/v2-issues.yaml
+- memory/candidates/ken-rahjes/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/ken-rahjes/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/ken-rahjes/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/kevin-latz/issue-matrix.md
+- memory/candidates/kevin-latz/fixed-issue-matrix.json
+- memory/candidates/kevin-latz/v2-issues.yaml
+- memory/candidates/kevin-latz/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/kevin-latz/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/kevin-latz/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/kris-kobach/issue-matrix.md
+- memory/candidates/kris-kobach/fixed-issue-matrix.json
+- memory/candidates/kris-kobach/v2-issues.yaml
+- memory/candidates/kris-kobach/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/kris-kobach/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/kris-kobach/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/lauren-reinhold/issue-matrix.md
+- memory/candidates/lauren-reinhold/fixed-issue-matrix.json
+- memory/candidates/lauren-reinhold/v2-issues.yaml
+- memory/candidates/lauren-reinhold/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/lauren-reinhold/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/lauren-reinhold/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/lorie-wood/issue-matrix.md
+- memory/candidates/lorie-wood/fixed-issue-matrix.json
+- memory/candidates/lorie-wood/v2-issues.yaml
+- memory/candidates/lorie-wood/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/lorie-wood/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/lorie-wood/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/mark-lane/issue-matrix.md
+- memory/candidates/mark-lane/fixed-issue-matrix.json
+- memory/candidates/mark-lane/v2-issues.yaml
+- memory/candidates/mark-lane/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/mark-lane/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/mark-lane/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/marty-tuley/issue-matrix.md
+- memory/candidates/marty-tuley/fixed-issue-matrix.json
+- memory/candidates/marty-tuley/v2-issues.yaml
+- memory/candidates/marty-tuley/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/marty-tuley/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/marty-tuley/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/mason-ruder/issue-matrix.md
+- memory/candidates/mason-ruder/fixed-issue-matrix.json
+- memory/candidates/mason-ruder/v2-issues.yaml
+- memory/candidates/mason-ruder/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/mason-ruder/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/mason-ruder/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/michael-berges/issue-matrix.md
+- memory/candidates/michael-berges/fixed-issue-matrix.json
+- memory/candidates/michael-berges/v2-issues.yaml
+- memory/candidates/michael-berges/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/michael-berges/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/michael-berges/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/michael-soetaert/issue-matrix.md
+- memory/candidates/michael-soetaert/fixed-issue-matrix.json
+- memory/candidates/michael-soetaert/v2-issues.yaml
+- memory/candidates/michael-soetaert/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/michael-soetaert/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/michael-soetaert/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/michelle-cunningham/issue-matrix.md
+- memory/candidates/michelle-cunningham/fixed-issue-matrix.json
+- memory/candidates/michelle-cunningham/v2-issues.yaml
+- memory/candidates/michelle-cunningham/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/michelle-cunningham/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/michelle-cunningham/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/nathan-leiker/issue-matrix.md
+- memory/candidates/nathan-leiker/fixed-issue-matrix.json
+- memory/candidates/nathan-leiker/v2-issues.yaml
+- memory/candidates/nathan-leiker/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/nathan-leiker/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/nathan-leiker/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/neal-younger/issue-matrix.md
+- memory/candidates/neal-younger/fixed-issue-matrix.json
+- memory/candidates/neal-younger/v2-issues.yaml
+- memory/candidates/neal-younger/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/neal-younger/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/neal-younger/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/noah-taylor/issue-matrix.md
+- memory/candidates/noah-taylor/fixed-issue-matrix.json
+- memory/candidates/noah-taylor/v2-issues.yaml
+- memory/candidates/noah-taylor/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/noah-taylor/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/noah-taylor/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/pat-proctor/issue-matrix.md
+- memory/candidates/pat-proctor/fixed-issue-matrix.json
+- memory/candidates/pat-proctor/v2-issues.yaml
+- memory/candidates/pat-proctor/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/pat-proctor/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/pat-proctor/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/patrick-schmidt/issue-matrix.md
+- memory/candidates/patrick-schmidt/fixed-issue-matrix.json
+- memory/candidates/patrick-schmidt/v2-issues.yaml
+- memory/candidates/patrick-schmidt/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/patrick-schmidt/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/patrick-schmidt/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/philip-sarnecki/issue-matrix.md
+- memory/candidates/philip-sarnecki/fixed-issue-matrix.json
+- memory/candidates/philip-sarnecki/v2-issues.yaml
+- memory/candidates/philip-sarnecki/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/philip-sarnecki/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/philip-sarnecki/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/rebecca-herzog/issue-matrix.md
+- memory/candidates/rebecca-herzog/fixed-issue-matrix.json
+- memory/candidates/rebecca-herzog/v2-issues.yaml
+- memory/candidates/rebecca-herzog/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/rebecca-herzog/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/rebecca-herzog/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/ric-koehn/issue-matrix.md
+- memory/candidates/ric-koehn/fixed-issue-matrix.json
+- memory/candidates/ric-koehn/v2-issues.yaml
+- memory/candidates/ric-koehn/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/ric-koehn/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/ric-koehn/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/ron-wilson/issue-matrix.md
+- memory/candidates/ron-wilson/fixed-issue-matrix.json
+- memory/candidates/ron-wilson/v2-issues.yaml
+- memory/candidates/ron-wilson/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/ron-wilson/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/ron-wilson/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/ruth-ruder/issue-matrix.md
+- memory/candidates/ruth-ruder/fixed-issue-matrix.json
+- memory/candidates/ruth-ruder/v2-issues.yaml
+- memory/candidates/ruth-ruder/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/ruth-ruder/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/ruth-ruder/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/sam-lane/issue-matrix.md
+- memory/candidates/sam-lane/fixed-issue-matrix.json
+- memory/candidates/sam-lane/v2-issues.yaml
+- memory/candidates/sam-lane/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/sam-lane/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/sam-lane/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/sandy-jacobs/issue-matrix.md
+- memory/candidates/sandy-jacobs/fixed-issue-matrix.json
+- memory/candidates/sandy-jacobs/v2-issues.yaml
+- memory/candidates/sandy-jacobs/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/sandy-jacobs/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/sandy-jacobs/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/sandy-spidel-neumann/issue-matrix.md
+- memory/candidates/sandy-spidel-neumann/fixed-issue-matrix.json
+- memory/candidates/sandy-spidel-neumann/v2-issues.yaml
+- memory/candidates/sandy-spidel-neumann/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/sandy-spidel-neumann/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/sandy-spidel-neumann/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/scott-braun/issue-matrix.md
+- memory/candidates/scott-braun/fixed-issue-matrix.json
+- memory/candidates/scott-braun/v2-issues.yaml
+- memory/candidates/scott-braun/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/scott-braun/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/scott-braun/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/scott-schwab/issue-matrix.md
+- memory/candidates/scott-schwab/fixed-issue-matrix.json
+- memory/candidates/scott-schwab/v2-issues.yaml
+- memory/candidates/scott-schwab/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/scott-schwab/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/scott-schwab/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/sharilyn-ray/issue-matrix.md
+- memory/candidates/sharilyn-ray/fixed-issue-matrix.json
+- memory/candidates/sharilyn-ray/v2-issues.yaml
+- memory/candidates/sharilyn-ray/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/sharilyn-ray/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/sharilyn-ray/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/shaun-musil/issue-matrix.md
+- memory/candidates/shaun-musil/fixed-issue-matrix.json
+- memory/candidates/shaun-musil/v2-issues.yaml
+- memory/candidates/shaun-musil/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/shaun-musil/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/shaun-musil/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/stacy-rogers/issue-matrix.md
+- memory/candidates/stacy-rogers/fixed-issue-matrix.json
+- memory/candidates/stacy-rogers/v2-issues.yaml
+- memory/candidates/stacy-rogers/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/stacy-rogers/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/stacy-rogers/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/steven-jacob/issue-matrix.md
+- memory/candidates/steven-jacob/fixed-issue-matrix.json
+- memory/candidates/steven-jacob/v2-issues.yaml
+- memory/candidates/steven-jacob/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/steven-jacob/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/steven-jacob/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/steven-johnson/issue-matrix.md
+- memory/candidates/steven-johnson/fixed-issue-matrix.json
+- memory/candidates/steven-johnson/v2-issues.yaml
+- memory/candidates/steven-johnson/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/steven-johnson/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/steven-johnson/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/toby-dougherty/issue-matrix.md
+- memory/candidates/toby-dougherty/fixed-issue-matrix.json
+- memory/candidates/toby-dougherty/v2-issues.yaml
+- memory/candidates/toby-dougherty/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/toby-dougherty/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/toby-dougherty/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/tracey-mann/issue-matrix.md
+- memory/candidates/tracey-mann/fixed-issue-matrix.json
+- memory/candidates/tracey-mann/v2-issues.yaml
+- memory/candidates/tracey-mann/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/tracey-mann/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/tracey-mann/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/ty-masterson/issue-matrix.md
+- memory/candidates/ty-masterson/fixed-issue-matrix.json
+- memory/candidates/ty-masterson/v2-issues.yaml
+- memory/candidates/ty-masterson/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/ty-masterson/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/ty-masterson/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/vernon-ruder-jr/issue-matrix.md
+- memory/candidates/vernon-ruder-jr/fixed-issue-matrix.json
+- memory/candidates/vernon-ruder-jr/v2-issues.yaml
+- memory/candidates/vernon-ruder-jr/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/vernon-ruder-jr/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/vernon-ruder-jr/agent-work/fixed-issue-matrix-builder/handoff.md
+- memory/candidates/vicki-schmidt/issue-matrix.md
+- memory/candidates/vicki-schmidt/fixed-issue-matrix.json
+- memory/candidates/vicki-schmidt/v2-issues.yaml
+- memory/candidates/vicki-schmidt/agent-work/fixed-issue-matrix-builder/run-state.json
+- memory/candidates/vicki-schmidt/agent-work/fixed-issue-matrix-builder/notes.md
+- memory/candidates/vicki-schmidt/agent-work/fixed-issue-matrix-builder/handoff.md
 
 ## What the Next Task Should Do
-Run profile-writing and candidate-profile-assembler for roger-marshall, damon-anderson, and jason-hart, then continue candidate-evidence-miner on the next federal batch.
+Run profile-writing and candidate-profile-assembler for aaron-cunningham, adam-hamilton, alaina-cunningham, allen-park, anne-parelkar, barb-wasinger, bobbi-dreiling, brandon-adams, cathy-hopkins, charlotte-ohara, chase-laporte, chris-mann, christy-cauble-davis, cindy-holscher, colin-mcroberts, craig-musser, craig-pallister, curt-vajnar, daniel-hawkins, david-vilaysing, derek-yarmer, dinah-sykes, doug-billings, eric-lund, erik-murray, ethan-corson, jayme-goetz, jeff-colyer, jennifer-day, joy-eakins, ken-brooks, ken-rahjes, kevin-latz, kris-kobach, lauren-reinhold, lorie-wood, mark-lane, marty-tuley, mason-ruder, michael-berges, michael-soetaert, michelle-cunningham, nathan-leiker, neal-younger, noah-taylor, pat-proctor, patrick-schmidt, philip-sarnecki, rebecca-herzog, ric-koehn, ron-wilson, ruth-ruder, sam-lane, sandy-jacobs, sandy-spidel-neumann, scott-braun, scott-schwab, sharilyn-ray, shaun-musil, stacy-rogers, steven-jacob, steven-johnson, toby-dougherty, tracey-mann, ty-masterson, vernon-ruder-jr, vicki-schmidt, then continue the remaining candidate pipeline.
 
 ## Blockers
 - None.

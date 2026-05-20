@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "cathy-hopkins",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/cathy-hopkins/evidence-matrix-raw.json",
+    "memory/candidates/cathy-hopkins/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/cathy-hopkins/evidence-matrix.json",
+    "memory/candidates/cathy-hopkins/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/cathy-hopkins/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/cathy-hopkins/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs cathy-hopkins"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for cathy-hopkins.",
+    "Run source-tier-validator for cathy-hopkins."
+  ],
+  "handoff_summary": "Built final evidence matrix for cathy-hopkins: 2045 raw rows to 948 deduplicated rows."
+}

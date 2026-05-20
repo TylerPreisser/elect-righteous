@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "alaina-cunningham",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/alaina-cunningham/evidence-matrix-raw.json",
+    "memory/candidates/alaina-cunningham/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/alaina-cunningham/evidence-matrix.json",
+    "memory/candidates/alaina-cunningham/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/alaina-cunningham/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/alaina-cunningham/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs alaina-cunningham"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for alaina-cunningham.",
+    "Run source-tier-validator for alaina-cunningham."
+  ],
+  "handoff_summary": "Built final evidence matrix for alaina-cunningham: 9899 raw rows to 3257 deduplicated rows."
+}

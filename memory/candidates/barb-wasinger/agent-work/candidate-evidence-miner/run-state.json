@@ -1,0 +1,47 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "barb-wasinger",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/barb-wasinger/in-their-own-words.md",
+    "memory/candidates/barb-wasinger/profile.md",
+    "memory/candidates/barb-wasinger/raw-dump-v2.md",
+    "memory/candidates/barb-wasinger/raw-dump.md",
+    "memory/candidates/barb-wasinger/site-profile.md",
+    "memory/candidates/barb-wasinger/sleuth-pass.md",
+    "memory/candidates/barb-wasinger/social-harvest.md",
+    "memory/candidates/barb-wasinger/v2-issues.yaml",
+    "memory/elections/2026-11-03-kansas-house-district-111.md",
+    "memory/elections/2026-11-03-ks-house-111.md",
+    "reports/barb-wasinger-complete-dossier.md",
+    "reports/barb-wasinger-district-111-deep-investigation.md",
+    "reports/faith-church-investigation-2026-03-31.md",
+    "reports/hays-city-commission-deep-investigation-2026-03-30.md",
+    "reports/hays-kansas-election-finder-2026-03-30.md",
+    "reports/mason-ruder-complete-dossier.md",
+    "reports/plain-english-voter-guide.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/barb-wasinger.ts"
+  ],
+  "files_written": [
+    "memory/candidates/barb-wasinger/evidence-matrix-raw.json",
+    "memory/candidates/barb-wasinger/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/barb-wasinger/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/barb-wasinger/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/barb-wasinger/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs barb-wasinger"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for barb-wasinger."
+  ],
+  "handoff_summary": "Extracted 5056 raw evidence rows for barb-wasinger."
+}

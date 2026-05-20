@@ -1,16 +1,16 @@
 # Elect Righteous — Orchestration State
-Last updated: 2026-05-20T18:41:58Z
+Last updated: 2026-05-20T18:55:16Z
 Last agent: fixed-issue-matrix-builder
-Last commit: 9ad409b
+Last commit: pending
 
 ## Current Phase
-Phase 2: Evidence Matrixing
+Phase 3: Profile Rebuild
 
 ## Phase Status
 | Phase | Name | Status |
 |-------|------|--------|
 | 1 | Roster Audit | complete |
-| 2 | Evidence Matrixing | in progress |
+| 2 | Evidence Matrixing | complete |
 | 3 | Profile Rebuild | in progress |
 | 4 | Editorial Review | not started |
 | 5 | UI/UX Rebuild | in progress |
@@ -18,84 +18,84 @@ Phase 2: Evidence Matrixing
 | 7 | Deploy | not started |
 
 ## Blockers
-- Final evidence-matrix.json files remain absent for 67 of 70 candidates; final matrices, social matrices, source audits, and fixed 14-issue matrices now exist for roger-marshall, damon-anderson, and jason-hart — fixed-issue-matrix-builder — high — 2026-05-20
-- Fixed 14-issue matrix is absent for 67 of 70 candidates — master-orchestrator — high — 2026-05-20
-- No prior agent-run handoff existed under memory/orchestration/agent-runs before this bootstrap — master-orchestrator — medium — 2026-05-20
+- Profile-writing/assembler specialist passes remain incomplete for 70 of 70 candidates; evidence/social/source/fixed-issue artifacts now exist for all 70 — fixed-issue-matrix-builder — high — 2026-05-20
+- Editorial/legal/symmetry review remains incomplete for 70 of 70 candidates — master-orchestrator — high — 2026-05-20
+- Source-tier validator used structural/domain classification, not live HTTP fetch; a later high-latency source-health sweep is still needed before final publication claims — source-tier-validator — medium — 2026-05-20
 - Official Kansas post-filing roster recheck remains required after the filing deadline/final official lists — roster-auditor — medium — 2026-05-20
 
 ## Candidate Progress
 | Slug | Mined | Matrix | Social | Sources | Issues | Bio | Record | Funding | Faith | Assembled | Edited | Legal | Symmetry |
 |------|:-----:|:------:|:------:|:-------:|:------:|:---:|:------:|:-------:|:-----:|:---------:|:------:|:-----:|:--------:|
-| aaron-cunningham | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| adam-hamilton | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| alaina-cunningham | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| allen-park | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| anne-parelkar | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| barb-wasinger | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| bobbi-dreiling | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| brandon-adams | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| cathy-hopkins | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| charlotte-ohara | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| chase-laporte | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| chris-mann | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| christy-cauble-davis | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| cindy-holscher | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| colin-mcroberts | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| craig-musser | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| craig-pallister | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| curt-vajnar | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| aaron-cunningham | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| adam-hamilton | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| alaina-cunningham | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| allen-park | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| anne-parelkar | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| barb-wasinger | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| bobbi-dreiling | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| brandon-adams | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| cathy-hopkins | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| charlotte-ohara | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| chase-laporte | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| chris-mann | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| christy-cauble-davis | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| cindy-holscher | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| colin-mcroberts | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| craig-musser | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| craig-pallister | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| curt-vajnar | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | damon-anderson | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| daniel-hawkins | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| david-vilaysing | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| derek-yarmer | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| dinah-sykes | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| doug-billings | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| eric-lund | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| erik-murray | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| ethan-corson | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| daniel-hawkins | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| david-vilaysing | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| derek-yarmer | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| dinah-sykes | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| doug-billings | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| eric-lund | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| erik-murray | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| ethan-corson | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | jason-hart | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| jayme-goetz | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| jeff-colyer | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| jennifer-day | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| joy-eakins | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| ken-brooks | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| ken-rahjes | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| kevin-latz | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| kris-kobach | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| lauren-reinhold | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| lorie-wood | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| mark-lane | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| marty-tuley | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| mason-ruder | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| michael-berges | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| michael-soetaert | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| michelle-cunningham | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| nathan-leiker | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| neal-younger | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| noah-taylor | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| pat-proctor | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| patrick-schmidt | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| philip-sarnecki | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| rebecca-herzog | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| ric-koehn | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| jayme-goetz | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| jeff-colyer | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| jennifer-day | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| joy-eakins | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| ken-brooks | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| ken-rahjes | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| kevin-latz | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| kris-kobach | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| lauren-reinhold | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| lorie-wood | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| mark-lane | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| marty-tuley | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| mason-ruder | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| michael-berges | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| michael-soetaert | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| michelle-cunningham | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| nathan-leiker | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| neal-younger | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| noah-taylor | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| pat-proctor | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| patrick-schmidt | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| philip-sarnecki | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| rebecca-herzog | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| ric-koehn | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | roger-marshall | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| ron-wilson | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| ruth-ruder | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| sam-lane | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| sandy-jacobs | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| sandy-spidel-neumann | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| scott-braun | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| scott-schwab | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| sharilyn-ray | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| shaun-musil | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| stacy-rogers | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| steven-jacob | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| steven-johnson | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| toby-dougherty | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| tracey-mann | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| ty-masterson | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| vernon-ruder-jr | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| vicki-schmidt | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| ron-wilson | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| ruth-ruder | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| sam-lane | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| sandy-jacobs | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| sandy-spidel-neumann | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| scott-braun | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| scott-schwab | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| sharilyn-ray | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| shaun-musil | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| stacy-rogers | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| steven-jacob | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| steven-johnson | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| toby-dougherty | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| tracey-mann | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| ty-masterson | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| vernon-ruder-jr | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| vicki-schmidt | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 
 ## Race Audit Status
 | Race | Level | Auditor | Status | Candidate Count | Issues Found |
@@ -119,30 +119,30 @@ Phase 2: Evidence Matrixing
 ## Validation Gate Results
 | Gate | Last Run | Pass/Fail | Notes |
 |------|----------|-----------|-------|
-| YAML parse | 2026-05-20T18:41:58Z | Pass | 70 candidate v2-issues.yaml files parse clean after fixed_issue_matrix insertion for first batch. |
-| Phase 2 inventory | 2026-05-20T18:41:58Z | Pass | 70 candidate-like slugs; 48 active 2026; 70 rendered v2; no missing UI entries. |
-| V2 runtime validation | 2026-05-20T18:41:58Z | Pass | validateCandidateV2 accepted 70 v2 candidates. |
-| TypeScript | 2026-05-20T18:41:58Z | Pass | npx tsc --noEmit --incremental false passed. |
-| Static build | 2026-05-20T18:41:58Z | Pass | npm run build generated 232 static pages. |
+| YAML parse | 2026-05-20T18:55:16Z | Pass | 70 candidate v2-issues.yaml files parse clean after fixed_issue_matrix insertion for all candidates. |
+| Phase 2 inventory | 2026-05-20T18:55:16Z | Pass | 70 candidate-like slugs; 48 active 2026; 70 rendered v2; no missing UI entries. |
+| V2 runtime validation | 2026-05-20T18:55:16Z | Pass | validateCandidateV2 accepted 70 v2 candidates. |
+| TypeScript | 2026-05-20T18:55:16Z | Pass | npx tsc --noEmit --incremental false passed. |
+| Static build | 2026-05-20T18:55:16Z | Pass | npm run build generated 232 static pages. |
 | Candidate count parity | 2026-05-20T15:43:39Z | Pass | 15 race entries; every candidateCount matches candidateSlugs.length. |
 | Forbidden public labels | 2026-05-20T15:43:39Z | Pass | No tpreisser.github.io, Preisser Tech, What You Should Know, or In Their Own Words strings remain under ui/src or ui/public. |
-| Evidence matrix structure | 2026-05-20T17:15:00Z | Pass | roger-marshall, damon-anderson, and jason-hart final matrices have required fields and no duplicate row ids. |
-| Social/source structure | 2026-05-20T18:05:00Z | Pass | roger-marshall, damon-anderson, and jason-hart social matrices and source audit JSON files have required fields. |
-| Fixed issue matrix structure | 2026-05-20T18:41:58Z | Pass | roger-marshall, damon-anderson, and jason-hart have exactly 14 fixed issue entries with source IDs on selected evidence. |
-| Social matrix presence | 2026-05-20T18:05:00Z | Fail | 3 of 70 candidates have social-evidence-matrix.json; 67 remain. |
-| Source audit presence | 2026-05-20T18:05:00Z | Fail | 3 of 70 candidates have source-audit.md/source-audit.json; 67 remain. |
-| Evidence matrix presence | 2026-05-20T18:05:00Z | Fail | 3 of 70 candidates have final evidence-matrix.json; 3 of 70 have evidence-matrix-raw.json; 3 have social-evidence-matrix.json. |
-| Fixed 14-issue matrix | 2026-05-20T18:41:58Z | Fail | 3 of 70 candidates have fixed 14-issue matrix artifacts; 67 remain. |
+| Evidence matrix structure | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have raw and final evidence matrices with required fields. |
+| Social/source structure | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have social matrices and source audit JSON files with required fields. |
+| Fixed issue matrix structure | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have exactly 14 fixed issue entries with source IDs on selected evidence. |
+| Social matrix presence | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have social-evidence-matrix.json. |
+| Source audit presence | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have source-audit.md/source-audit.json. |
+| Evidence matrix presence | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have evidence-matrix-raw.json and final evidence-matrix.json. |
+| Fixed 14-issue matrix | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have fixed 14-issue matrix artifacts. |
 
 ## Next Actions Queue
-1. Run biography-writer, record-writer, donor-funding-analyst, faith-worship-researcher, and candidate-profile-assembler for roger-marshall, damon-anderson, and jason-hart — candidate-profile-assembler — P0 — blocked by none
-2. Continue candidate-evidence-miner on the next federal batch — candidate-evidence-miner — P1 — blocked by none
-3. Run evidence-matrix-builder for the next mined candidate batch — evidence-matrix-builder — P0 — blocked by candidate-evidence-miner outputs
-4. Run social-footprint-analyst and source-tier-validator for the next matrixed candidate batch — social-footprint-analyst/source-tier-validator — P0 — blocked by evidence-matrix.json
-5. Rebuild v2-issues.yaml into the fixed 14-issue matrix for every candidate after matrices exist — fixed-issue-matrix-builder — P0 — blocked by evidence and social matrices for remaining candidates
-6. Rerun build-validation-gatekeeper only after the fixed 14-issue matrix exists for every candidate — build-validation-gatekeeper — P1 — blocked by Phase 2 and Phase 3 completion
+1. Run biography-writer, record-writer, donor-funding-analyst, faith-worship-researcher, and candidate-profile-assembler for all 70 candidates from the completed matrices — candidate-profile-assembler — P0 — blocked by none
+2. Run professional-narrative-editor, legal-accuracy-reviewer, and symmetry-test-editor after profile assembly — editorial review agents — P0 — blocked by assembler outputs
+3. Run a live URL/source-health sweep for source-audit.json records before final publication claims — source-tier-validator — P1 — blocked by network/runtime time only
+4. Rerun full build-validation-gatekeeper after profile assembly/editorial review — build-validation-gatekeeper — P1 — blocked by Phase 3 and Phase 4 completion
+5. Deploy only after validation gates, form verification, and release report pass — deploy agents — P1 — blocked by validation and release readiness
 
 ## Session Log (last 20 entries)
+- 2026-05-20T18:55:16Z fixed-issue-matrix-builder Completed the evidence/social/source/fixed-issue artifact chain for all 70 candidates; 70/70 now have raw evidence, final evidence, social matrix, source audit, and 14-issue fixed matrix artifacts.
 - 2026-05-20T18:41:58Z fixed-issue-matrix-builder Built fixed 14-issue matrices for roger-marshall, damon-anderson, and jason-hart; validation confirmed all three have 14 issues and source IDs on selected evidence.
 - 2026-05-20T18:05:00Z social-footprint-analyst Classified social/online signals for roger-marshall, damon-anderson, and jason-hart: 693, 34, and 529 observations respectively.
 - 2026-05-20T18:05:00Z source-tier-validator Audited source records for roger-marshall, damon-anderson, and jason-hart: 573, 17, and 260 unique source records respectively.

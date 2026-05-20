@@ -1,0 +1,3378 @@
+{
+  "candidateSlug": "curt-vajnar",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceFiles": [
+    "memory/candidates/curt-vajnar/social-harvest.md",
+    "memory/candidates/curt-vajnar/evidence-matrix.json"
+  ],
+  "platformPresence": [],
+  "signals": [
+    {
+      "id": "soc-curt-vajnar-0001",
+      "evidenceRowId": "em-curt-vajnar-00002",
+      "platform": "usd489.community.highbond.com",
+      "actionType": "online-reference",
+      "target": "https://usd489.community.highbond.com/portal/members.aspx?id=18",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use",
+      "confidence": "confirmed",
+      "observation": "Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and connects him to board retreat, regular, special, and work-study sessions. Source: [USD 489 public portal](https://usd489.community.highbond.com/portal/members.aspx?id=18).",
+      "sourceUrl": "https://usd489.community.highbond.com/portal/members.aspx?id=18",
+      "sourceFile": "memory/candidates/curt-vajnar/in-their-own-words.md:3",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-in-their-own-words-md-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0002",
+      "evidenceRowId": "em-curt-vajnar-01195",
+      "platform": "usd489.com",
+      "actionType": "online-reference",
+      "target": "https://www.usd489.com/page/district-communications",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use",
+      "confidence": "confirmed",
+      "observation": "| Official district social media page | Found, district-controlled | The district has a \"District Social Media\" page on its site, but this is district infrastructure, not a Vajnar-controlled campaign or profile feed. Source: [USD 489 District Social Media](https://www.usd489.com/page/district-communications). |",
+      "sourceUrl": "https://www.usd489.com/page/district-communications",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:19",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l19"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0003",
+      "evidenceRowId": "em-curt-vajnar-01255",
+      "platform": "usd489.com",
+      "actionType": "online-reference",
+      "target": "https://www.usd489.com/page/district-communications",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use",
+      "confidence": "confirmed",
+      "observation": "[USD 489 District Social Media page](https://www.usd489.com/page/district-communications)",
+      "sourceUrl": "https://www.usd489.com/page/district-communications",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:96",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l96"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0004",
+      "evidenceRowId": "em-curt-vajnar-01576",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "https://usd489.community.highbond.com/portal/members.aspx?id=18",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        5,
+        6,
+        10,
+        12,
+        13,
+        14
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics",
+        "Environment / energy / land use"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use-with-caveat",
+      "confidence": "likely",
+      "observation": "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and connects him to board retreat, regular, special, and work-study sessions. Source: [USD 489 public portal](https://usd489.community.highbond.com/portal/members.aspx?id=18).\\n\\nHis core credential is his long USD 489 teaching record. In the 2021 Hays NEA candidate profile published by Hays Post, Vajnar said he taught 31 years in USD 489, held National Board Certification, had Kansas teaching endorsements in agriculture education, biology, drivers education, and administration, and had been Kansas Teacher of the Year. Emporia State's public Kansas Master Teacher archive also lists Curt Vajnar of USD 489 Hays among the 1999 Kansas Master Teachers. Sources: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a), [Emporia State 1999 award winners](https://www.emporia.edu/teachers-college/about-college/honors-awards/kansas-master-teacher-award-home/previous-winners/kansas-master-teacher-award-1999/).\\n\\nHis basic decision rule is student-centered. In 2021, he said his reason for seeking the board was to secure the best possible education for all USD 489 students, including his own children. Asked for the philosophy behind his decisions, he framed the test as whether the decision is best for USD 489 students. He also said the board's accountability role includes appropriate use of funds and facilities, superintendent oversight, and creating the best daily environment for teachers and students. Source: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a).\\n\\nFacilities have been a defining theme. Before the 2022 bond vote, he argued facilities badly needed improvement and said passing a bond was critical after decades without a successful bond issue. By 2025, his message had shifted from passing the bond to finishing it well. In his reelection Q&A, he said he wanted the district to finish the new and renovated facilities, finish strong, and plan beyond a five-year capital cycle because turf and major facility components will come due in waves. Sources: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a), [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).\\n\\nThat support for facilities does not mean he treats construction decisions as automatic. In 2023, he voted against the guaranteed maximum price contract for Hays High and Roosevelt, saying he did not believe he had enough chance to study the contract. In 2025, he joined the losing side of a vote to explore a separate bond-project manager, while also being quoted as thinking the idea came late in the process. His pattern is pro-facility but review-heavy: the board should finish the bond, but contracts and oversight should not be rushed. Sources: [Hays Post, Oct. 5, 2023](https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984), [Hays Post, Mar. 28, 2025](https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126).\\n\\nVajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose incomes are not rising as fast as costs. He paired that with the teacher-pay problem: if the district does not stay competitive, it risks losing good teachers or failing to recruit them. Source: [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).\\n\\nTeacher recruitment and retention are long-running concerns for him. In 2021, he named teacher shortages and retention as one of the greatest problems facing public education and suggested using student-teacher placements, early postings, and incentives for timely retirement decisions as ways to improve hiring. In 2025 forum coverage, he again connected class size to qualified-teacher retention and the additional space created by the bond. Sources: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a), [Hays Post, Oct. 7, 2025](https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536).\\n\\nHis governance style is built around policy, process, and chain of command. In 2021, he said the board's role is overseeing and approving policy, not daily management. In 2025, he told Hays Post that board members discuss items brought by administration and leaders, and that he is willing to listen to concerned residents after they have tried the chain of command. At the candidate forum, he described the superintendent as bringing items to the board while concerns move from teachers to principals, building administrators, superintendent, and then the board if needed. Sources: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a), [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8), [Hays Post, Oct. 7, 2025](https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536).\\n\\nThe same process instinct shows up in ethics and hiring. Hays Post reported that Vajnar and Allen Park objected in 2023 to hiring the superintendent's wife through the consent-agenda personnel process, leading to another debate over the district's nepotism policy. In his 2025 Q&A, Vajnar said one policy area he had questioned was how the district hires people, including interviews, background checks, and selection steps. Sources: [Hays Post, Apr. 26, 2023](https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8), [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).\\n\\nThe Golden Belt Bank naming-rights debate is the clearest example of his sponsorship philosophy. Vajnar delayed action on the $200,000 offer for the Hays High football field, arguing the district should decide what is named, set contract terms, avoid merely reacting to the first offer, and give other supporting businesses an opportunity. Later, he said facility names belong to Hays citizens, not a business, and that any naming-rights money should be tied to field maintenance. Sources: [Hays Post, Aug. 19, 2025](https://hayspost.com/posts/a90fb672-f7e5-4826-b5f3-1decd214e83c), [Tiger Media Network, Aug. 19, 2025](https://tigermedianet.com/?p=88429), [Hays Post, Sept. 11, 2025](https://hayspost.com/posts/aefb9f40-2e86-4bb2-976e-2f731e7ce14f).\\n\\nOn safety, Vajnar has a specific ask: more school resource officer coverage. In the 2025 Q&A, he said he was proud of helping push the first resource officer for the 2023-24 year and would continue pushing for a second one. He framed it as student and staff safety in a more dangerous world, while acknowledging the budget cost. Source: [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).\\n\\nOn technology and operations, Vajnar sounds practical rather than ideological. In 2021, he called technology essential but wanted better staff availability, repairs, replacements, and individual help for educators. In 2025, he supported vehicle leasing because of safety and long road trips, and he praised the board's laptop decision for high-school students because it was researched rather than simply accepting the first recommendation. Sources: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a), [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).\\n\\nOn curriculum and assessment, his visible comments favor practical learning. Hays Post reported in 2024 that a graduation-policy revision was tabled because Vajnar wanted a list of electives that would meet a new STEM requirement. In 2025, as board president, he said he hoped curriculum would focus on real-world math instead of teaching only to the test. Sources: [Hays Post, Mar. 5, 2024](https://hayspost.com/posts/4186bd0a-c7d1-4fe4-8622-6b0204fed740), [Hays Post, Nov. 14, 2025](https://hayspost.com/posts/a1ad62ca-72ac-46d4-a3c1-e2248ae736b3).\\n\\nHis reelection result reinforces the local profile. Hays Post reported that Vajnar, the current board president, was re-elected in 2025 with 2,531 votes, the highest total in the USD 489 race, and that all three winning candidates focused on completing bond projects. Vajnar's election-night comment was that he wanted to complete the bond work on budget. Source: [Hays Post, Nov. 5, 2025](https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d).\\n\\nVisible absences matter. I found no verified campaign website, no campaign donation page, no campaign finance page, and no clearly attributable public Facebook, X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, LinkedIn activity archive, or personal YouTube channel. USD 489 has official district communications and public meeting infrastructure, but those are not Vajnar-controlled campaign channels. Because no accessible controlled social feed was verified, this summary does not claim post counts, likes, shares, comments, or deleted/private social content.\\n\\nMethodology: I reviewed public sources visible through May 11, 2026, including USD 489 official pages and public meeting portal, Hays Post candidate profiles, Q&As, forum and board-meeting coverage, Tiger Media Network reporting, Emporia State teaching-award records, and targeted searches for campaign and social platforms. I prioritized official/school sources and clearly attributed candidate or board-member statements. Disclaimer: this is a public-source messaging summary, not a complete biography, endorsement, legal assessment, or transcript archive; inaccessible, private, deleted, login-only, or unverified social content was not reconstructed or invented.\",",
+      "sourceUrl": "https://usd489.community.highbond.com/portal/members.aspx?id=18",
+      "sourceFile": "ui/src/data/candidates.ts:45836",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l45836"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0005",
+      "evidenceRowId": "em-curt-vajnar-01246",
+      "platform": "Public web / internal harvest",
+      "actionType": "absence",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:80",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        3,
+        10
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Education / curriculum / schools",
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "No public candidate-controlled statements were found in the reviewed source set on abortion, national partisan politics, election administration, foreign policy, or most non-school-board state/federal issues.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:80",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l80"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-curt-vajnar-0006",
+      "evidenceRowId": "em-curt-vajnar-01186",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        10
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Election slug: usd-489-current",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:8",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l8"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0007",
+      "evidenceRowId": "em-curt-vajnar-01188",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:10",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Public date range found: 1999 public teaching-award record through March 2026 USD 489 public meeting portal activity, with strongest candidate-attributed messaging in 2021 and 2025.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:10",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l10"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0008",
+      "evidenceRowId": "em-curt-vajnar-01189",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:11",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Harvest focus: candidate/profile-controlled or clearly candidate-attributed messaging from school-board Q&As, candidate forums, USD 489 board pages and meeting portal, public meeting/news coverage, student/local media, and visible campaign/social-platform absences.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:11",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l11"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0009",
+      "evidenceRowId": "em-curt-vajnar-01196",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| 2021 candidate questionnaire | Found | Hays Post published Hays NEA questions and candidate-submitted answers. This is the clearest early candidate-controlled school-board platform text. Source: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a). |",
+      "sourceUrl": "https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:20",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l20"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0010",
+      "evidenceRowId": "em-curt-vajnar-01197",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| 2025 candidate Q&A | Found | Hays Post interviewed Vajnar during the 2025 USD 489 race and published his answers in Q&A format. Source: [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8). |",
+      "sourceUrl": "https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:21",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l21"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0011",
+      "evidenceRowId": "em-curt-vajnar-01199",
+      "platform": "tigermedianet.com",
+      "actionType": "post",
+      "target": "https://tigermedianet.com/?p=88429",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Local/student media coverage | Found | Tiger Media Network covered the August 2025 naming-rights discussion and quoted Vajnar. Source: [Tiger Media Network, Aug. 19, 2025](https://tigermedianet.com/?p=88429). |",
+      "sourceUrl": "https://tigermedianet.com/?p=88429",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:23",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l23"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0012",
+      "evidenceRowId": "em-curt-vajnar-01206",
+      "platform": "YouTube",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:30",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| YouTube/video | Found as meeting/forum infrastructure, not personal channel | USD 489 meeting infrastructure exists, and forum/news coverage exists, but no personal Vajnar YouTube channel was found. Transcript-level claims were not fabricated where only article summaries or meeting links were accessible. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:30",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l30"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0013",
+      "evidenceRowId": "em-curt-vajnar-01211",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:39",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        5,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Fiscal oversight, taxes, sponsorship/naming revenue, and budget tradeoffs | 7 | Repeatedly frames decisions through taxpayer accountability, fixed-income residents, competitive teacher salaries, sponsorship value, and earmarking revenue for replacement/maintenance. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:39",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l39"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0014",
+      "evidenceRowId": "em-curt-vajnar-01212",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:40",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Teacher recruitment, retention, morale, pay, and class size | 6 | Draws on his 31-year teaching background, supports qualified teachers, discusses competitive pay, student-teacher pipelines, class-size pressure, and staffing tradeoffs. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:40",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l40"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0015",
+      "evidenceRowId": "em-curt-vajnar-01214",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:42",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Student safety and school resource officers | 2 | In 2025 Q&A, he took credit for pushing the first SRO and said he would continue pushing for a second one. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:42",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l42"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0016",
+      "evidenceRowId": "em-curt-vajnar-01215",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:43",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Technology, transportation, and practical operations | 3 | Supported 1-to-1 technology while asking for stronger tech support; backed safer vehicle leasing; praised laptop decision-making for high school students. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:43",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l43"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0017",
+      "evidenceRowId": "em-curt-vajnar-01216",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:44",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Curriculum, assessment, and real-world learning | 3 | 2021 answers and 2025 assessment comments stress student-first decisions, real-world math, broad opportunities, and post-secondary preparation. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:44",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l44"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0018",
+      "evidenceRowId": "em-curt-vajnar-01217",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:45",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        6,
+        12
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Economy / jobs / labor",
+        "Agriculture / rural economy / water"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Biography, agriculture education, FFA, and community roots | 3 | Public profile is anchored in his Hays High ag-teacher career, Kansas Master Teacher/Teacher of the Year references, ranching/farming/business identity, and family ties to USD 489. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:45",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l45"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0019",
+      "evidenceRowId": "em-curt-vajnar-01220",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "The clearest electoral attention signal is the 2025 result: Hays Post reported Vajnar was re-elected with 2,531 votes, the top total in the USD 489 race. Source: [Hays Post, Nov. 5, 2025](https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d).",
+      "sourceUrl": "https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:50",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l50"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0020",
+      "evidenceRowId": "em-curt-vajnar-01223",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "2021 reason for running: Vajnar said he wanted the best possible education for all USD 489 students, including his own children in the district. Source: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a).",
+      "sourceUrl": "https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:55",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l55"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0021",
+      "evidenceRowId": "em-curt-vajnar-01224",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        12
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Agriculture / rural economy / water"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "2021 qualifications: He cited 31 years teaching in USD 489, Kansas Teacher of the Year, National Board Certification, and endorsements in agriculture education, biology, drivers education, and administration. Source: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a).",
+      "sourceUrl": "https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:56",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l56"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0022",
+      "evidenceRowId": "em-curt-vajnar-01225",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        9
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Health care / insurance / Medicaid"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "2021 public-education problems: He named teacher shortages and retention, COVID learning loss, curriculum, facility quality, and access to classrooms for educators. Source: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a).",
+      "sourceUrl": "https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:57",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l57"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0023",
+      "evidenceRowId": "em-curt-vajnar-01226",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "2021 core belief: His decision test was whether a decision is best for USD 489 students. Source: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a).",
+      "sourceUrl": "https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:58",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l58"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0024",
+      "evidenceRowId": "em-curt-vajnar-01236",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        5
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Taxes / spending / debt"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "2025 Q&A budget/class-size message: He described teacher raises, taxes, fixed-income residents, and class sizes as tradeoffs the board has to weigh. Source: [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).",
+      "sourceUrl": "https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:68",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l68"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0025",
+      "evidenceRowId": "em-curt-vajnar-01237",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "2025 Q&A safety message: He said he helped push for the 2023-24 school resource officer and would continue pushing for a second SRO. Source: [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).",
+      "sourceUrl": "https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:69",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l69"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0026",
+      "evidenceRowId": "em-curt-vajnar-01238",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "2025 Q&A technology/transportation: He backed safer vehicle leasing for long trips and said the board researched the laptop decision for high-school students rather than accepting the first recommendation. Source: [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).",
+      "sourceUrl": "https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:70",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l70"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0027",
+      "evidenceRowId": "em-curt-vajnar-01239",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/a1ad62ca-72ac-46d4-a3c1-e2248ae736b3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "2025 assessment discussion: As board president, Vajnar said he hoped curriculum would focus on real-world math rather than teaching to the test. Source: [Hays Post, Nov. 14, 2025](https://hayspost.com/posts/a1ad62ca-72ac-46d4-a3c1-e2248ae736b3).",
+      "sourceUrl": "https://hayspost.com/posts/a1ad62ca-72ac-46d4-a3c1-e2248ae736b3",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:71",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l71"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0028",
+      "evidenceRowId": "em-curt-vajnar-01245",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:79",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "USD 489 has district-controlled communications and meeting infrastructure, but those are not personal/campaign channels for Vajnar.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:79",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l79"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0029",
+      "evidenceRowId": "em-curt-vajnar-01250",
+      "platform": "Bluesky",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:86",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "I searched Curt Vajnar, Curt C. Vajnar, Hays USD 489, USD 489 Board of Education, Diligent/HighBond board portal, Hays Post, Tiger Media Network, Guidon/Hays High student media, Kansas Master Teacher, Emporia State, Golden Belt Bank naming rights, bond projects, superintendent, nepotism, board transparency, resource officer, teacher shortage, class size, real-world math, Facebook, LinkedIn, X/Twitter, Instagram, TikTok, YouTube, Bluesky, Threads, Substack, and campaign website terms. I prioritized official school sources, public meeting portals, candidate Q&As/forum answers, and direct or clearly attributed quotes. Topic counts were hand-coded from reviewed public items and should be read as directional, not exhaustive analytics.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:86",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l86"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0030",
+      "evidenceRowId": "em-curt-vajnar-01252",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:90",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "This harvest summarizes accessible public, candidate-attributed, profile-controlled, or official-board messaging through May 11, 2026. It is not a complete transcript of every USD 489 meeting, private account, deleted post, login-walled item, or unindexed social-media post. Inaccessible or unverified social content was not reconstructed or fabricated.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:90",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l90"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0031",
+      "evidenceRowId": "em-curt-vajnar-01256",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post - 2021 USD 489 candidate profile: Curt Vajnar](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a)",
+      "sourceUrl": "https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:97",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l97"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0032",
+      "evidenceRowId": "em-curt-vajnar-01257",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post - 2025 Hays USD candidate Q&A: Curt Vajnar](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8)",
+      "sourceUrl": "https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:98",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l98"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0033",
+      "evidenceRowId": "em-curt-vajnar-01258",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post - 2025 Hays USD forum](https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536)",
+      "sourceUrl": "https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:99",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l99"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0034",
+      "evidenceRowId": "em-curt-vajnar-01259",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post - 3 veterans elected to Hays USD 489 school board](https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d)",
+      "sourceUrl": "https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:100",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l100"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0035",
+      "evidenceRowId": "em-curt-vajnar-01261",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/5e878e4beb7f170536019f51",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post - Teacher of the Month: Vajnar says goodbye to HHS](https://hayspost.com/posts/5e878e4beb7f170536019f51)",
+      "sourceUrl": "https://hayspost.com/posts/5e878e4beb7f170536019f51",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:102",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l102"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0036",
+      "evidenceRowId": "em-curt-vajnar-01262",
+      "platform": "emporia.edu",
+      "actionType": "post",
+      "target": "https://www.emporia.edu/teachers-college/about-college/honors-awards/kansas-master-teacher-award-home/previous-winners/kansas-master-teacher-award-1999/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Emporia State - 1999 Kansas Master Teacher Award Winners](https://www.emporia.edu/teachers-college/about-college/honors-awards/kansas-master-teacher-award-home/previous-winners/kansas-master-teacher-award-1999/)",
+      "sourceUrl": "https://www.emporia.edu/teachers-college/about-college/honors-awards/kansas-master-teacher-award-home/previous-winners/kansas-master-teacher-award-1999/",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:103",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l103"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0037",
+      "evidenceRowId": "em-curt-vajnar-01263",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post - USD 489 BOE debates nepotism again](https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8)",
+      "sourceUrl": "https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:104",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l104"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0038",
+      "evidenceRowId": "em-curt-vajnar-01264",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post - Hays school board approves HHS, Roosevelt contract](https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984)",
+      "sourceUrl": "https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:105",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l105"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0039",
+      "evidenceRowId": "em-curt-vajnar-01268",
+      "platform": "tigermedianet.com",
+      "actionType": "post",
+      "target": "https://tigermedianet.com/?p=88429",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Tiger Media Network - USD 489 receives offer for football field naming rights](https://tigermedianet.com/?p=88429)",
+      "sourceUrl": "https://tigermedianet.com/?p=88429",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:109",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l109"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0040",
+      "evidenceRowId": "em-curt-vajnar-01272",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/17bd928c-22c6-4be8-980e-34e878be6c58",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post - new school bus, boardroom video equipment, board elections](https://hayspost.com/posts/17bd928c-22c6-4be8-980e-34e878be6c58)",
+      "sourceUrl": "https://hayspost.com/posts/17bd928c-22c6-4be8-980e-34e878be6c58",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:113",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l113"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0041",
+      "evidenceRowId": "em-curt-vajnar-01273",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/a1ad62ca-72ac-46d4-a3c1-e2248ae736b3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post - USD 489 trending higher on math and English tests](https://hayspost.com/posts/a1ad62ca-72ac-46d4-a3c1-e2248ae736b3)",
+      "sourceUrl": "https://hayspost.com/posts/a1ad62ca-72ac-46d4-a3c1-e2248ae736b3",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:114",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l114"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0042",
+      "evidenceRowId": "em-curt-vajnar-01198",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| 2025 candidate forum | Found | Hays Post covered the American Democracy Project/FHSU SGA/Docking Institute/Tiger Media Network/Chamber forum. Source: [Hays Post, Oct. 7, 2025](https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536). |",
+      "sourceUrl": "https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:22",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l22"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0043",
+      "evidenceRowId": "em-curt-vajnar-01231",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "2025 bond management: Vajnar supported looking into another bond-project manager, joining the losing side of a 3-4 vote, while Hays Post also reported his view that hiring one was late in the process. Source: [Hays Post, Mar. 28, 2025](https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126).",
+      "sourceUrl": "https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:63",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l63"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0044",
+      "evidenceRowId": "em-curt-vajnar-01260",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post - 2025 election results](https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28)",
+      "sourceUrl": "https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:101",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l101"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0045",
+      "evidenceRowId": "em-curt-vajnar-01200",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:24",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Local news quoting board comments | Found | Hays Post repeatedly quoted or attributed Vajnar in coverage of bond contracts, nepotism, naming rights, capital planning, salary/class-size issues, technology, assessment discussion, and board process. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:24",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l24"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0046",
+      "evidenceRowId": "em-curt-vajnar-01208",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:34",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Primary coding of 18 public items with candidate-controlled, candidate-attributed, official-board, or clearly reported public-meeting messaging. Counts are non-exclusive because one item can cover more than one topic.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:34",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l34"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0047",
+      "evidenceRowId": "em-curt-vajnar-01213",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:41",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Governance, chain of command, transparency, and board process | 6 | Recurring theme in 2021 and 2025 answers and meeting coverage: policy role, public accountability, chain of command, board professionalism, meeting process, contract review, and non-rubber-stamp deliberation. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:41",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l41"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0048",
+      "evidenceRowId": "em-curt-vajnar-01228",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "2023 nepotism debate: Hays Post reported Vajnar and Allen Park objected to hiring the superintendent's wife through routine personnel approval, prompting debate over the district nepotism policy. Source: [Hays Post, Apr. 26, 2023](https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8).",
+      "sourceUrl": "https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:60",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l60"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0049",
+      "evidenceRowId": "em-curt-vajnar-01232",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/a90fb672-f7e5-4826-b5f3-1decd214e83c",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "2025 naming rights: Vajnar delayed the Golden Belt Bank naming-rights discussion, saying the district should be in charge of naming rather than reacting and should give supporting businesses an opportunity. Sources: [Hays Post, Aug. 19, 2025](https://hayspost.com/posts/a90fb672-f7e5-4826-b5f3-1decd214e83c), [Tiger Media Network, Aug. 19, 2025](https://tigermedianet.com/?p=88429).",
+      "sourceUrl": "https://hayspost.com/posts/a90fb672-f7e5-4826-b5f3-1decd214e83c",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:64",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l64"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0050",
+      "evidenceRowId": "em-curt-vajnar-01240",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/0330d54b-d2ee-4dcc-a4d5-995fd0f53307",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "2025 sponsorship committee: Hays Post reported Vajnar said committee members suggested three- to five-year sponsorship contracts rather than lifetime contracts. Source: [Hays Post, Oct. 31, 2025](https://hayspost.com/posts/0330d54b-d2ee-4dcc-a4d5-995fd0f53307).",
+      "sourceUrl": "https://hayspost.com/posts/0330d54b-d2ee-4dcc-a4d5-995fd0f53307",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:72",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l72"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-curt-vajnar-0051",
+      "evidenceRowId": "em-curt-vajnar-01242",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:76",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "No verified campaign website, campaign platform page, donation page, or campaign finance page surfaced.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:76",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l76"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0052",
+      "evidenceRowId": "em-curt-vajnar-01248",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:82",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Board meeting pages and video infrastructure were used only where public text or article summaries were accessible; transcript-level claims were not invented.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:82",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l82"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0053",
+      "evidenceRowId": "em-curt-vajnar-01181",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Curt Vajnar - Social Harvest",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:1",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0054",
+      "evidenceRowId": "em-curt-vajnar-01182",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Scope",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:3",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0055",
+      "evidenceRowId": "em-curt-vajnar-01183",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:5",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Candidate/profile: Curt Vajnar",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:5",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l5"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0056",
+      "evidenceRowId": "em-curt-vajnar-01184",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:6",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Party: NP",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:6",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l6"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0057",
+      "evidenceRowId": "em-curt-vajnar-01187",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:9",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Capture window: public material visible through May 11, 2026",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:9",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l9"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0058",
+      "evidenceRowId": "em-curt-vajnar-01190",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:13",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Presence Detector",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:13",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l13"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0059",
+      "evidenceRowId": "em-curt-vajnar-01191",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:15",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Platform/source type | Result | Notes |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:15",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l15"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0060",
+      "evidenceRowId": "em-curt-vajnar-01192",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:37",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| --- | ---: | --- |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:37",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l16",
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l37"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0061",
+      "evidenceRowId": "em-curt-vajnar-01201",
+      "platform": "Public web / internal harvest",
+      "actionType": "absence",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:25",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Campaign website | Not found | No verified active campaign site, platform page, donation page, or campaign-controlled domain surfaced. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:25",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l25"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-curt-vajnar-0062",
+      "evidenceRowId": "em-curt-vajnar-01202",
+      "platform": "Facebook",
+      "actionType": "absence",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:26",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Campaign Facebook | Not found as verified | Searches for \"Curt Vajnar\" and \"Curt Vajnar Facebook\" did not surface a clearly verified public campaign/profile page with accessible candidate-controlled campaign posts. Generic or private people-search/social hits were not used. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:26",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l26"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-curt-vajnar-0063",
+      "evidenceRowId": "em-curt-vajnar-01203",
+      "platform": "X / Twitter",
+      "actionType": "absence",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:27",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| X/Twitter | Not found | No clearly attributable public Vajnar campaign/profile account or accessible post archive surfaced. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:27",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l27"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-curt-vajnar-0064",
+      "evidenceRowId": "em-curt-vajnar-01204",
+      "platform": "Bluesky",
+      "actionType": "absence",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:28",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Instagram/Threads/TikTok/Bluesky/Substack | Not found | No clearly attributable public candidate/profile-controlled accounts surfaced. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:28",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l28"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-curt-vajnar-0065",
+      "evidenceRowId": "em-curt-vajnar-01205",
+      "platform": "LinkedIn",
+      "actionType": "absence",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:29",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| LinkedIn | Not found as usable campaign/profile messaging | Searches did not surface a clearly usable public LinkedIn activity archive controlled by Vajnar. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:29",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l29"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-curt-vajnar-0066",
+      "evidenceRowId": "em-curt-vajnar-01207",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:32",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Topic-Share Counts",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:32",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l32"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0067",
+      "evidenceRowId": "em-curt-vajnar-01209",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:36",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Topic | Count | Signal |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:36",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l36"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0068",
+      "evidenceRowId": "em-curt-vajnar-01210",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:38",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Facilities, bond projects, capital planning, and construction oversight | 8 | Dominant issue. Vajnar supports improved facilities and completing the bond projects, while emphasizing review, cost control, plumbing/maintenance risks, and longer-term planning. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:38",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l38"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0069",
+      "evidenceRowId": "em-curt-vajnar-01218",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:47",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Highest Visible Attention",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:47",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l47"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0070",
+      "evidenceRowId": "em-curt-vajnar-01219",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:49",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "No reliable social engagement metrics were found for a Vajnar-controlled social account.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:49",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l49"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0071",
+      "evidenceRowId": "em-curt-vajnar-01221",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:51",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "The strongest issue-attention signals are facility/bond coverage and the Golden Belt Bank naming-rights debate, which appeared in Hays Post and Tiger Media Network coverage.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:51",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l51"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0072",
+      "evidenceRowId": "em-curt-vajnar-01222",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:53",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Notable Candidate-Attributed Messaging",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:53",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l53"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0073",
+      "evidenceRowId": "em-curt-vajnar-01227",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "2021 facilities/bond stance: He said facilities needed improvement and argued passing a bond issue was critical after decades without one. Source: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a).",
+      "sourceUrl": "https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:59",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l59"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0074",
+      "evidenceRowId": "em-curt-vajnar-01229",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "2023 construction contract: Vajnar voted against approving the Hays High/Roosevelt guaranteed maximum price contract and said he did not believe he had enough opportunity to educate himself on the contract. Source: [Hays Post, Oct. 5, 2023](https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984).",
+      "sourceUrl": "https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:61",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l61"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0075",
+      "evidenceRowId": "em-curt-vajnar-01230",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/4186bd0a-c7d1-4fe4-8622-6b0204fed740",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "2024 iPad/graduation policy: Hays Post reported a graduation-policy revision was tabled because Vajnar wanted a list of electives that would meet the new STEM requirement. Source: [Hays Post, Mar. 5, 2024](https://hayspost.com/posts/4186bd0a-c7d1-4fe4-8622-6b0204fed740).",
+      "sourceUrl": "https://hayspost.com/posts/4186bd0a-c7d1-4fe4-8622-6b0204fed740",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:62",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l62"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0076",
+      "evidenceRowId": "em-curt-vajnar-01233",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/aefb9f40-2e86-4bb2-976e-2f731e7ce14f",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "2025 naming-rights policy: Vajnar argued facility names belong to Hays citizens, said the offer was not enough for a 10-year term, and favored earmarking naming-rights revenue for field maintenance. Source: [Hays Post, Sept. 11, 2025](https://hayspost.com/posts/aefb9f40-2e86-4bb2-976e-2f731e7ce14f).",
+      "sourceUrl": "https://hayspost.com/posts/aefb9f40-2e86-4bb2-976e-2f731e7ce14f",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:65",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l65"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0077",
+      "evidenceRowId": "em-curt-vajnar-01234",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "2025 candidate forum: Vajnar supported a full-time grant writer, called naming rights \"sponsorships,\" said the superintendent brings items to the board through a chain of command, and defended discussion among board members with different perspectives. Source: [Hays Post, Oct. 7, 2025](https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536).",
+      "sourceUrl": "https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:66",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l66"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0078",
+      "evidenceRowId": "em-curt-vajnar-01235",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "2025 Q&A: He said he ran again to keep good things going, finish the improved facilities, and continue support for teachers. Source: [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).",
+      "sourceUrl": "https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:67",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l67"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0079",
+      "evidenceRowId": "em-curt-vajnar-01241",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:74",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Visible Absences",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:74",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l74"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0080",
+      "evidenceRowId": "em-curt-vajnar-01243",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:77",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "No verified Vajnar-controlled campaign Facebook page or accessible public Facebook post archive surfaced.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:77",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l77"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0081",
+      "evidenceRowId": "em-curt-vajnar-01244",
+      "platform": "Bluesky",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:78",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "No verified X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, LinkedIn activity archive, or personal YouTube channel surfaced.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:78",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l78"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0082",
+      "evidenceRowId": "em-curt-vajnar-01247",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:81",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "No accessible private, deleted, login-only, or generic people-search social content was treated as verified.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:81",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l81"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0083",
+      "evidenceRowId": "em-curt-vajnar-01249",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:84",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Methodology",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:84",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l84"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0084",
+      "evidenceRowId": "em-curt-vajnar-01251",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:88",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Disclaimer",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:88",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l88"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0085",
+      "evidenceRowId": "em-curt-vajnar-01265",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/4186bd0a-c7d1-4fe4-8622-6b0204fed740",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post - K-5 iPad purchase and STEM elective question](https://hayspost.com/posts/4186bd0a-c7d1-4fe4-8622-6b0204fed740)",
+      "sourceUrl": "https://hayspost.com/posts/4186bd0a-c7d1-4fe4-8622-6b0204fed740",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:106",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l106"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0086",
+      "evidenceRowId": "em-curt-vajnar-01266",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post - board votes not to add another manager for bond work](https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126)",
+      "sourceUrl": "https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:107",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l107"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0087",
+      "evidenceRowId": "em-curt-vajnar-01267",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/a90fb672-f7e5-4826-b5f3-1decd214e83c",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post - football-field naming-rights discussion paused](https://hayspost.com/posts/a90fb672-f7e5-4826-b5f3-1decd214e83c)",
+      "sourceUrl": "https://hayspost.com/posts/a90fb672-f7e5-4826-b5f3-1decd214e83c",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:108",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l108"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0088",
+      "evidenceRowId": "em-curt-vajnar-01269",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/aefb9f40-2e86-4bb2-976e-2f731e7ce14f",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post - naming-rights decision postponed](https://hayspost.com/posts/aefb9f40-2e86-4bb2-976e-2f731e7ce14f)",
+      "sourceUrl": "https://hayspost.com/posts/aefb9f40-2e86-4bb2-976e-2f731e7ce14f",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:110",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l110"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0089",
+      "evidenceRowId": "em-curt-vajnar-01270",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/0330d54b-d2ee-4dcc-a4d5-995fd0f53307",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post - facility sponsorships delayed until spring](https://hayspost.com/posts/0330d54b-d2ee-4dcc-a4d5-995fd0f53307)",
+      "sourceUrl": "https://hayspost.com/posts/0330d54b-d2ee-4dcc-a4d5-995fd0f53307",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:111",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l111"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0090",
+      "evidenceRowId": "em-curt-vajnar-01271",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/de2764c1-3767-4d5a-8353-888aa39a31cf",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post - 2.5% raise for all personnel](https://hayspost.com/posts/de2764c1-3767-4d5a-8353-888aa39a31cf)",
+      "sourceUrl": "https://hayspost.com/posts/de2764c1-3767-4d5a-8353-888aa39a31cf",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:112",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l112"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0091",
+      "evidenceRowId": "em-curt-vajnar-01274",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/b20dc400-848a-4e10-bda4-36f5dad6d626",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post - new Hays High ribbon cutting](https://hayspost.com/posts/b20dc400-848a-4e10-bda4-36f5dad6d626)",
+      "sourceUrl": "https://hayspost.com/posts/b20dc400-848a-4e10-bda4-36f5dad6d626",
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:115",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l115"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0092",
+      "evidenceRowId": "em-curt-vajnar-00016",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/in-their-own-words.md:31",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Visible absences matter. I found no verified campaign website, no campaign donation page, no campaign finance page, and no clearly attributable public Facebook, X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, LinkedIn activity archive, or personal YouTube channel. USD 489 has official district communications and public meeting infrastructure, but those are not Vajnar-controlled campaign channels. Because no accessible controlled social feed was verified, this summary does not claim post counts, likes, shares, comments, or deleted/private social content.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/in-their-own-words.md:31",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-in-their-own-words-md-l31"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0093",
+      "evidenceRowId": "em-curt-vajnar-00017",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/in-their-own-words.md:33",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Methodology: I reviewed public sources visible through May 11, 2026, including USD 489 official pages and public meeting portal, Hays Post candidate profiles, Q&As, forum and board-meeting coverage, Tiger Media Network reporting, Emporia State teaching-award records, and targeted searches for campaign and social platforms. I prioritized official/school sources and clearly attributed candidate or board-member statements. Disclaimer: this is a public-source messaging summary, not a complete biography, endorsement, legal assessment, or transcript archive; inaccessible, private, deleted, login-only, or unverified social content was not reconstructed or invented.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/in-their-own-words.md:33",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-in-their-own-words-md-l33"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0094",
+      "evidenceRowId": "em-curt-vajnar-00024",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/raw-dump-v2.md:11",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        5,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "The strongest record themes are district governance, fiscal/bond oversight, transparency/process, hiring/nepotism scrutiny, naming-rights/sponsorship policy, teacher retention, student safety, and practical curriculum/operations. Most action evidence comes from official USD 489 minutes. Candidate-attributed explanations mostly come from Hays Post candidate Q&As/forum coverage and Tiger Media Network reporting. No campaign-controlled website, campaign finance report, donor list, or public social feed was verified online.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/raw-dump-v2.md:11",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-raw-dump-v2-md-l11"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0095",
+      "evidenceRowId": "em-curt-vajnar-01494",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/curt-vajnar.ts:334",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Local/student media\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/curt-vajnar.ts:334",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l437",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l334"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0096",
+      "evidenceRowId": "em-curt-vajnar-01578",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:45838",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"USD 489 official pages\",\"USD 489 public meeting portal\",\"Hays Post\",\"Tiger Media Network\",\"Emporia State teaching-award records\",\"Facebook\",\"X / Twitter\",\"Instagram\",\"Threads\",\"Bluesky\",\"TikTok\",\"Substack\",\"LinkedIn\",\"YouTube\",\"Public search\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:45838",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l45838"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0097",
+      "evidenceRowId": "em-curt-vajnar-01655",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/curt-vajnar.ts:136",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"Harvest focus: candidate/profile-controlled or clearly candidate-attributed messaging from school-board Q&As, candidate forums, USD 489 board pages and meeting portal, public meeting/news coverage, student/local media, and visible campaign/social-platform absences.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/curt-vajnar.ts:136",
+      "sourceIds": [
+        "mem-ui-src-data-v2-curt-vajnar-ts-l136"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0098",
+      "evidenceRowId": "em-curt-vajnar-01680",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/curt-vajnar.ts:395",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"ownWordsNarrative\": \"status: no_verified_candidate_controlled_social_feed; checked: Campaign website; Facebook; X/Twitter; Instagram; Threads; Bluesky; TikTok; Substack; LinkedIn; YouTube; USD 489 official portal; Hays Post; Tiger Media Network; relevance: Use official portal and local reporting as online-source evidence; do not create issue claims from unverified profiles or platform absence.; sourceIds: s-usd489-members; s-hayspost-2025-qa; s-tiger-naming\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/curt-vajnar.ts:395",
+      "sourceIds": [
+        "mem-ui-src-data-v2-curt-vajnar-ts-l395"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0099",
+      "evidenceRowId": "em-curt-vajnar-00307",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/raw-dump.md:309",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No faith or church references found in her candidate profiles, HaysPost Q&As, or social media",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/raw-dump.md:309",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-raw-dump-md-l309"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0100",
+      "evidenceRowId": "em-curt-vajnar-01068",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/raw-dump.md:1745",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4,
+        13
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "The major gap is a lack of a publicly verifiable church-attendance statement and a lack of contribution detail. I also did not find a richer social-media archive that added reliable, attributable facts beyond what Hays Post and district records already showed.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/raw-dump.md:1745",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-raw-dump-md-l1745"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0101",
+      "evidenceRowId": "em-curt-vajnar-00117",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/raw-dump-v2.md:154",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No candidate-controlled social feed was verified. The only online relevance captured is:",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/raw-dump-v2.md:154",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-raw-dump-v2-md-l154"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0102",
+      "evidenceRowId": "em-curt-vajnar-00124",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/raw-dump-v2.md:165",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Any candidate-controlled campaign website or public social archive.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/raw-dump-v2.md:165",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-raw-dump-v2-md-l165"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0103",
+      "evidenceRowId": "em-curt-vajnar-01130",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/sleuth-pass.md:22",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "| Campaign Facebook / X / Instagram / TikTok / Bluesky / Threads / Substack / YouTube | Not verified | No clearly candidate-controlled public campaign or issue feed surfaced in this pass or in existing local harvest. Do not infer policy or temperament from platform absence. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/sleuth-pass.md:22",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-sleuth-pass-md-l22"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0104",
+      "evidenceRowId": "em-curt-vajnar-01131",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/sleuth-pass.md:23",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "| LinkedIn | Not verified as usable public issue source | No accessible candidate-controlled issue archive was found. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/sleuth-pass.md:23",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-sleuth-pass-md-l23"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0105",
+      "evidenceRowId": "em-curt-vajnar-01156",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/sleuth-pass.md:69",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No candidate-controlled campaign website or public social feed.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/sleuth-pass.md:69",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-sleuth-pass-md-l69"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0106",
+      "evidenceRowId": "em-curt-vajnar-01495",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/curt-vajnar.ts:335",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"The naming-rights issue drew local online coverage from Tiger Media Network and Hays Post, preserving Vajnar-attributed comments even though no campaign-controlled social feed was found.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/curt-vajnar.ts:335",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l438",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l335"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0107",
+      "evidenceRowId": "em-curt-vajnar-01536",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/v2-issues.yaml:517",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"No verified campaign-controlled social feed or website was located.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/v2-issues.yaml:517",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l517"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0108",
+      "evidenceRowId": "em-curt-vajnar-00033",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/raw-dump-v2.md:22",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "| Candidate-controlled site/social | Not found | No verified campaign website, donation page, Facebook page, X, Instagram, TikTok, Bluesky, Threads, Substack, LinkedIn archive, or personal YouTube channel. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/raw-dump-v2.md:22",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-raw-dump-v2-md-l22"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0109",
+      "evidenceRowId": "em-curt-vajnar-00121",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/raw-dump-v2.md:160",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Do not create social-signal chips based on private profiles, platform absence, people-search pages, or district-controlled communications.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/raw-dump-v2.md:160",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-raw-dump-v2-md-l160"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0110",
+      "evidenceRowId": "em-curt-vajnar-01140",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/sleuth-pass.md:39",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "The strongest candidate-attributed statements are from Hays Post Q&As and meeting coverage, not from a campaign social feed. He has described the board's role as policy/oversight and has repeatedly tied decisions to time for review, chain of command, and public accountability. The official action record aligns with that pattern where he dissented or tabled/reviewed items rather than treating agenda recommendations as automatic.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/sleuth-pass.md:39",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-sleuth-pass-md-l39"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0111",
+      "evidenceRowId": "em-curt-vajnar-01284",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/v2-issues.yaml:11",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"No campaign-controlled website, public social feed, online donor list, or online campaign-finance report was verified.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/v2-issues.yaml:11",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l11"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0112",
+      "evidenceRowId": "em-curt-vajnar-01473",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/curt-vajnar.ts:233",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"summary\": \"No candidate-controlled platform or full meeting-transcript archive was found; process claims rely on public Q&As and official action records.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/curt-vajnar.ts:233",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l375",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l233"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0113",
+      "evidenceRowId": "em-curt-vajnar-01532",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/v2-issues.yaml:508",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "relevance: \"Use official portal and local reporting as online-source evidence; do not create issue claims from unverified profiles or platform absence.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/v2-issues.yaml:508",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l508"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0114",
+      "evidenceRowId": "em-curt-vajnar-00116",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/raw-dump-v2.md:152",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social / Online Signals",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/raw-dump-v2.md:152",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-raw-dump-v2-md-l152"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0115",
+      "evidenceRowId": "em-curt-vajnar-00277",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/raw-dump.md:255",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social media (Facebook, about.me, LinkedIn)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/raw-dump.md:255",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-raw-dump-md-l255"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0116",
+      "evidenceRowId": "em-curt-vajnar-01011",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/raw-dump.md:1651",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social media profiles -- Facebook, Instagram, Twitter/X accounts for each member could not be directly accessed via search tools. Manual review recommended.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/raw-dump.md:1651",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-raw-dump-md-l1651"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0117",
+      "evidenceRowId": "em-curt-vajnar-01123",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/sleuth-pass.md:13",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Online / Social Presence Sweep",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/sleuth-pass.md:13",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-sleuth-pass-md-l13"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0118",
+      "evidenceRowId": "em-curt-vajnar-01124",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/sleuth-pass.md:15",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "| Platform / source type | Result | Relevance |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/sleuth-pass.md:15",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-sleuth-pass-md-l15"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0119",
+      "evidenceRowId": "em-curt-vajnar-01516",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/v2-issues.yaml:492",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "social_online:",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/v2-issues.yaml:492",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l492"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0120",
+      "evidenceRowId": "em-curt-vajnar-01517",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/v2-issues.yaml:493",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "status: \"no_verified_candidate_controlled_social_feed\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/v2-issues.yaml:493",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l493"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0121",
+      "evidenceRowId": "em-curt-vajnar-01520",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/v2-issues.yaml:496",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Facebook\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/v2-issues.yaml:496",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l496"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0122",
+      "evidenceRowId": "em-curt-vajnar-01521",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/v2-issues.yaml:497",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"X/Twitter\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/v2-issues.yaml:497",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l497"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0123",
+      "evidenceRowId": "em-curt-vajnar-01522",
+      "platform": "Instagram",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/v2-issues.yaml:498",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Instagram\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/v2-issues.yaml:498",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l498"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0124",
+      "evidenceRowId": "em-curt-vajnar-01524",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/v2-issues.yaml:500",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Bluesky\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/v2-issues.yaml:500",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l500"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0125",
+      "evidenceRowId": "em-curt-vajnar-01525",
+      "platform": "TikTok",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/v2-issues.yaml:501",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"TikTok\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/v2-issues.yaml:501",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l501"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0126",
+      "evidenceRowId": "em-curt-vajnar-01526",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/v2-issues.yaml:502",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Substack\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/v2-issues.yaml:502",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l502"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0127",
+      "evidenceRowId": "em-curt-vajnar-01527",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/v2-issues.yaml:503",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"LinkedIn\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/v2-issues.yaml:503",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l503"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0128",
+      "evidenceRowId": "em-curt-vajnar-01528",
+      "platform": "YouTube",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/v2-issues.yaml:504",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"YouTube\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/v2-issues.yaml:504",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l504"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0129",
+      "evidenceRowId": "em-curt-vajnar-01540",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/v2-issues.yaml:523",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Whether any private/deleted/login-only social content exists; none was used.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/v2-issues.yaml:523",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l523"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0130",
+      "evidenceRowId": "em-curt-vajnar-01630",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/curt-vajnar.ts:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/curt-vajnar.ts:1",
+      "sourceIds": [
+        "mem-ui-src-data-v2-curt-vajnar-ts-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0131",
+      "evidenceRowId": "em-curt-vajnar-01632",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/curt-vajnar.ts:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "node scripts/hydrate-v2-social-signals.mjs",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/curt-vajnar.ts:3",
+      "sourceIds": [
+        "mem-ui-src-data-v2-curt-vajnar-ts-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0132",
+      "evidenceRowId": "em-curt-vajnar-01641",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/curt-vajnar.ts:56",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Hays Post\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/curt-vajnar.ts:56",
+      "sourceIds": [
+        "mem-ui-src-data-v2-curt-vajnar-ts-l56",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l66",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l145",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l155",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l203",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l213",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l223",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l264",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l274",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l284"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0133",
+      "evidenceRowId": "em-curt-vajnar-01648",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/curt-vajnar.ts:76",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Public web\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/curt-vajnar.ts:76",
+      "sourceIds": [
+        "mem-ui-src-data-v2-curt-vajnar-ts-l76",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l135"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0134",
+      "evidenceRowId": "em-curt-vajnar-01671",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/curt-vajnar.ts:278",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"s-social-crossref-1\"",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/curt-vajnar.ts:278",
+      "sourceIds": [
+        "mem-ui-src-data-v2-curt-vajnar-ts-l278"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0135",
+      "evidenceRowId": "em-curt-vajnar-01185",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:7",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Position: USD 489 Board Member",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:7",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l7",
+        "mem-ui-src-data-candidates-ts-l45767"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0136",
+      "evidenceRowId": "em-curt-vajnar-00886",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/ron-wilson-96762118a/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "LinkedIn: [linkedin.com/in/ron-wilson-96762118a](https://www.linkedin.com/in/ron-wilson-96762118a/)",
+      "sourceUrl": "https://www.linkedin.com/in/ron-wilson-96762118a/",
+      "sourceFile": "memory/candidates/curt-vajnar/raw-dump.md:1482",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-raw-dump-md-l1482"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0137",
+      "evidenceRowId": "em-curt-vajnar-01100",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/ron-wilson-96762118a/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[linkedin.com/in/ron-wilson-96762118a](https://www.linkedin.com/in/ron-wilson-96762118a/)",
+      "sourceUrl": "https://www.linkedin.com/in/ron-wilson-96762118a/",
+      "sourceFile": "memory/candidates/curt-vajnar/site-profile.md:174",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-site-profile-md-l174"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0138",
+      "evidenceRowId": "em-curt-vajnar-01253",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/curt-vajnar/social-harvest.md:92",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Source Links",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/social-harvest.md:92",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-social-harvest-md-l92"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0139",
+      "evidenceRowId": "em-curt-vajnar-00619",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/curt-vajnar/raw-dump.md:1018",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        4,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Assessment: Jeff Colyer has a Catholic education background from Hays, and his policy positions align with Catholic social teaching on life issues. However, his international medical work is through a secular organization (International Medical Corps), not a faith-based one. His current church affiliation is unknown. He may still be Catholic, he may have shifted denominations, or he may be a private worshiper. The fact that his campaign and official profiles do not prominently feature church membership is notable for a Republican running in a Kansas primary. Recommend direct inquiry.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/curt-vajnar/raw-dump.md:1018",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-raw-dump-md-l1018"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0140",
+      "evidenceRowId": "em-curt-vajnar-01442",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/curt-vajnar.ts:372",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"socialSignals\": [],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/curt-vajnar.ts:372",
+      "sourceIds": [
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l309",
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l349",
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l378",
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l402",
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l435",
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l465",
+        "mem-memory-candidates-curt-vajnar-v2-issues-yaml-l479",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l53",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l132",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l200",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l261",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l331",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l372",
+        "mem-ui-src-data-v2-curt-vajnar-ts-l391"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-curt-vajnar-0141",
+      "evidenceRowId": "em-curt-vajnar-01689",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/curt-vajnar.ts:670",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"s-social-crossref-1\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/curt-vajnar.ts:670",
+      "sourceIds": [
+        "mem-ui-src-data-v2-curt-vajnar-ts-l670"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    }
+  ],
+  "issueCoverage": {
+    "1": {
+      "issue": "Abortion / life",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 0
+    },
+    "2": {
+      "issue": "LGBT / gender / parental rights",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "3": {
+      "issue": "Education / curriculum / schools",
+      "total": 50,
+      "strong": 23,
+      "moderate": 0,
+      "weak": 14,
+      "ambiguous": 11
+    },
+    "4": {
+      "issue": "Religious liberty / church / civic morality",
+      "total": 3,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 2
+    },
+    "5": {
+      "issue": "Taxes / spending / debt",
+      "total": 4,
+      "strong": 1,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 2
+    },
+    "6": {
+      "issue": "Economy / jobs / labor",
+      "total": 2,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 1
+    },
+    "7": {
+      "issue": "Guns / Second Amendment",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "8": {
+      "issue": "Immigration / border",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "9": {
+      "issue": "Health care / insurance / Medicaid",
+      "total": 2,
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "10": {
+      "issue": "Election integrity / voting / courts",
+      "total": 15,
+      "strong": 3,
+      "moderate": 0,
+      "weak": 2,
+      "ambiguous": 10
+    },
+    "11": {
+      "issue": "Public safety / law enforcement / criminal justice",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "12": {
+      "issue": "Agriculture / rural economy / water",
+      "total": 3,
+      "strong": 1,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 1
+    },
+    "13": {
+      "issue": "Local governance / transparency / ethics",
+      "total": 43,
+      "strong": 5,
+      "moderate": 0,
+      "weak": 12,
+      "ambiguous": 25
+    },
+    "14": {
+      "issue": "Environment / energy / land use",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    }
+  },
+  "caveats": [
+    "Social evidence is signal, not fact. A follow, like, share, or platform absence is not treated as a belief or policy position.",
+    "Candidate-controlled posts and campaign pages may be used as stated positions only when the text itself says the position.",
+    "Login-walled, blocked, or inaccessible platform content is documented as a capture limitation, not as evidence of silence."
+  ]
+}

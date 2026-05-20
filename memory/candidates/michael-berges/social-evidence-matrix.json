@@ -1,0 +1,2102 @@
+{
+  "candidateSlug": "michael-berges",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceFiles": [
+    "memory/candidates/michael-berges/social-harvest.md",
+    "memory/candidates/michael-berges/evidence-matrix.json"
+  ],
+  "platformPresence": [],
+  "signals": [
+    {
+      "id": "soc-michael-berges-0001",
+      "evidenceRowId": "em-michael-berges-01212",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "https://www.haysusa.com/269/City-Commission",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "LGBT / gender / parental rights",
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Taxes / spending / debt",
+        "Economy / jobs / labor",
+        "Guns / Second Amendment",
+        "Immigration / border",
+        "Election integrity / voting / courts",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use-with-caveat",
+      "confidence": "likely",
+      "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the commission elected Mason Ruder mayor and Cunningham vice mayor when the governing body reorganized on January 8, 2026. ([City of Hays](https://www.haysusa.com/269/City-Commission), [Hays Post](https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08)) Tiger Media Network reported that she and Ruder were not on the 2025 city ballot, confirming she remained midterm while the new 2026 body formed. ([Tiger Media Network](https://tigermedianet.com/?p=93385))\\n\\nHer self-description starts with service. When she was sworn in after being appointed to Michael Berges' vacated commission seat, she thanked commissioners and said she was excited to serve the community. ([Hays Post](https://hayspost.com/posts/c8cd14ed-94b7-4507-8a9c-ad71038ac5b6)) In her 2023 candidate Q&A, she said her interest in the office came from wanting to make positive change and from a duty to serve the public and \\\"Do Good.\\\" She tied that service frame to her work as a registered nurse, her time as a group fitness instructor, and local boards including Downtown Hays Development Corporation, HaysMed Foundation, Hays High Academic Booster Club, and O'Loughlin PTA. ([Hays Post](https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055), [Tiger Media Network](https://tigermedianet.com/?p=75270))\\n\\nWater is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. ([Hays Post](https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055)) In 2025 R9 coverage, her language sharpened: \\\"This is about sustainability and survival,\\\" she said, adding that without it, Hays does not survive. ([Hays Post](https://hayspost.com/posts/72cef8d3-79bf-4085-b070-bccbdc589f9d))\\n\\nHousing, growth, and incentives recur more often than any other accessible theme. Cunningham talks about retaining young adults, supporting all ages, meeting retiree housing needs, and using incentives to make development feasible. In her candidate Q&A, she argued Hays needed diversified housing and more ways to attract developers and builders. ([Hays Post](https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055)) In later meeting coverage, she defended development incentives as a practical growth tool, saying \\\"We've all agreed that growth is what we want\\\" and that developers who put in initial infrastructure costs should have a way to recoup them. ([Hays Post](https://hayspost.com/posts/eeb37c70-d05e-427e-bdb6-b673010bd8af))\\n\\nHer development message is not simply pro-business in the abstract; it is tied to workforce, housing, and community scale. In November 2025, she said the economic benefit from Agiliti's expansion made the incentives valuable to the community. ([Hays Post](https://hayspost.com/posts/4d49c8ec-b445-4b28-a49c-d154c709104f)) In another incentives discussion, she agreed Hays is a desirable place but said conversations with developers showed that \\\"without incentives, we just can't get anyone here.\\\" ([Hays Post](https://hayspost.com/posts/a308442f-a0fc-49ea-b6a1-b905513a368b))\\n\\nBudget and tax comments show a tradeoff-oriented style. She supported the city's 2026 revenue-neutral budget and told staff, \\\"You brought us a constrained budget which is what we asked for.\\\" ([Hays Post](https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593c85db69)) When state property-tax-relief ideas came before local officials, she warned that eliminating funding sources can just shift the burden. ([Hays Post](https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9)) In April 2026 budget-prep coverage, she said residents should understand early that property-tax caps could affect city services and amenities. ([Hays Post](https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb))\\n\\nQuality of life is usually framed through practical amenities rather than broad ideology. She has discussed parks, community center needs, retiree housing, youth retention, and resident-facing services. Hays Post quoted her on The Grove/community center issue saying, \\\"You need every generation to make a community work.\\\" ([Hays Post](https://hayspost.com/posts/7da8e265-e8c0-45c8-9f5d-0fb799fb1d3f)) During a budget retreat discussion on parks, she suggested the city think beyond identical park equipment and redesign parks for specific groups. ([Hays Post](https://hayspost.com/posts/909306ea-6223-4960-bd5f-99c19bb83817))\\n\\nOn contentious local ordinances, her visible posture is consultative. During the fireworks survey discussion, she called fireworks a \\\"hot topic\\\" and asked residents to provide opinions so commissioners could understand what the broader community wanted. ([Hays Post](https://hayspost.com/posts/26608269-25e1-4f29-b80f-d2edbb3bba3d)) In backyard-chickens coverage, she did not make a large ideological argument; she relayed that Cottonwood Extension could prepare educational materials on proper urban chicken care if the ordinance changed. ([Hays Post](https://hayspost.com/posts/c8f8c9de-3d46-470d-8ae1-7efbe793a460))\\n\\nThe highest visible public attention metric is electoral, not social. Hays Post reported that Cunningham received 27 percent of the vote in November 2023 and won a four-year term. After the result, she said she was honored to be chosen and wanted to keep bettering Hays and \\\"doing good for Hays as a whole.\\\" ([Hays Post](https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31)) No verified post-level social engagement was visible in the public capture.\\n\\nThe absences matter. No candidate-controlled campaign website or clear campaign social page surfaced. A personal Facebook profile was found but was not publicly reviewable in logged-out capture. No verified public campaign account was found on X/Twitter, Instagram, TikTok, YouTube, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, Medium, or Reddit. An indexed LinkedIn trail was ambiguous because a direct URL in existing project notes pointed in search results to a different Alaina Cunningham outside Kansas, so no LinkedIn activity was treated as hers. ([harvest](social-harvest.md#visible-absences))\\n\\nAcross the accessible set, Cunningham does not publicly center national partisan issues. I found no candidate-controlled or candidate-attributed messaging focused on abortion, guns, immigration, Donald Trump, Joe Biden, national parties, LGBTQ issues, school curriculum, or religion. Her visible words stay close to city-government work: water, housing, growth, incentives, budgets, property-tax tradeoffs, parks, community amenities, and listening to residents. ([harvest](social-harvest.md#topic-share-analysis))\\n\\nMethodology: Public capture was conducted on May 11, 2026. Date range covered: December 27, 2022 through May 11, 2026, beginning with the public appointment period for Cunningham's Hays City Commission service. Sources surveyed included the City of Hays commission page and agenda/minutes packets, public meeting/video entry points, Hays Post, Tiger Media Network, HaysMed, Downtown Hays Development Corporation, Facebook, LinkedIn, X/Twitter, Instagram, YouTube, TikTok, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, Medium, Reddit, podcast indexes, and broad public web search. Login-walled, script-blocked, or otherwise inaccessible social feeds were not counted as reviewed content. We report visible patterns and documented absences; we do not infer private views or inaccessible account activity.\",",
+      "sourceUrl": "https://www.haysusa.com/269/City-Commission",
+      "sourceFile": "ui/src/data/candidates.ts:32389",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l32389"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0002",
+      "evidenceRowId": "em-michael-berges-00178",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/EllisCountyDistrict1/`",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Source/lead URLs: https://www.facebook.com/EllisCountyDistrict1/ (lead only); https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/ (lead only).",
+      "sourceUrl": "https://www.facebook.com/EllisCountyDistrict1/`",
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:320",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l320"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-michael-berges-0003",
+      "evidenceRowId": "em-michael-berges-00662",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "\"url\": \"https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/\"",
+      "sourceUrl": "https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/",
+      "sourceFile": "ui/src/data/candidates.ts:31010",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l578",
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l582",
+        "mem-ui-src-data-candidates-ts-l31010",
+        "mem-ui-src-data-candidates-ts-l31014",
+        "mem-ui-src-data-candidates-ts-l31070",
+        "mem-ui-src-data-candidates-ts-l31102",
+        "mem-ui-src-data-candidates-ts-l32384",
+        "mem-ui-src-data-candidates-ts-l32427",
+        "mem-ui-src-data-candidates-ts-l32439",
+        "mem-ui-src-data-candidates-ts-l32451",
+        "mem-ui-src-data-candidates-ts-l32455",
+        "mem-ui-src-data-candidates-ts-l32511",
+        "mem-ui-src-data-candidates-ts-l32543",
+        "mem-ui-src-data-candidates-ts-l37876",
+        "mem-ui-src-data-candidates-ts-l37880",
+        "mem-ui-src-data-candidates-ts-l37936",
+        "mem-ui-src-data-candidates-ts-l37968",
+        "mem-ui-src-data-candidates-ts-l38914",
+        "mem-ui-src-data-candidates-ts-l38918",
+        "mem-ui-src-data-candidates-ts-l38974",
+        "mem-ui-src-data-candidates-ts-l39006",
+        "mem-ui-src-data-candidates-ts-l39958",
+        "mem-ui-src-data-candidates-ts-l39962",
+        "mem-ui-src-data-candidates-ts-l40018",
+        "mem-ui-src-data-candidates-ts-l40050",
+        "mem-ui-src-data-candidates-ts-l41003",
+        "mem-ui-src-data-candidates-ts-l41007",
+        "mem-ui-src-data-candidates-ts-l41063",
+        "mem-ui-src-data-candidates-ts-l41095",
+        "mem-ui-src-data-candidates-ts-l41925",
+        "mem-ui-src-data-candidates-ts-l41929",
+        "mem-ui-src-data-candidates-ts-l41985",
+        "mem-ui-src-data-candidates-ts-l42017",
+        "mem-ui-src-data-candidates-ts-l42925",
+        "mem-ui-src-data-candidates-ts-l42929",
+        "mem-ui-src-data-candidates-ts-l42985",
+        "mem-ui-src-data-candidates-ts-l43017",
+        "mem-ui-src-data-candidates-ts-l43941",
+        "mem-ui-src-data-candidates-ts-l43945",
+        "mem-ui-src-data-candidates-ts-l44001",
+        "mem-ui-src-data-candidates-ts-l44033",
+        "mem-ui-src-data-candidates-ts-l46676",
+        "mem-ui-src-data-candidates-ts-l46680",
+        "mem-ui-src-data-candidates-ts-l46736",
+        "mem-ui-src-data-candidates-ts-l46768"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-michael-berges-0004",
+      "evidenceRowId": "em-michael-berges-00750",
+      "platform": "Facebook",
+      "actionType": "comment",
+      "target": "https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "moderate",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Hays Daily News -- Berges Commission Comment](https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/)",
+      "sourceUrl": "https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/",
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:187",
+      "sourceIds": [
+        "mem-reports-ellis-county-elected-officials-deep-investigation-md-l187"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0005",
+      "evidenceRowId": "em-michael-berges-00712",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/nathan-leiker-1236bb276",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[LinkedIn Profile](https://www.linkedin.com/in/nathan-leiker-1236bb276)",
+      "sourceUrl": "https://www.linkedin.com/in/nathan-leiker-1236bb276",
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:126",
+      "sourceIds": [
+        "mem-reports-ellis-county-elected-officials-deep-investigation-md-l126"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0006",
+      "evidenceRowId": "em-michael-berges-00747",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/EllisCountyDistrict1/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[Facebook Page](https://www.facebook.com/EllisCountyDistrict1/)",
+      "sourceUrl": "https://www.facebook.com/EllisCountyDistrict1/",
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:184",
+      "sourceIds": [
+        "mem-reports-ellis-county-elected-officials-deep-investigation-md-l184"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0007",
+      "evidenceRowId": "em-michael-berges-00332",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/sleuth-pass.md:120",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Sensitivity review: Not triggered. Social and family/church references are treated only where already public and relevant to identity/context; no belief inference is made.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/sleuth-pass.md:120",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-sleuth-pass-md-l120"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0008",
+      "evidenceRowId": "em-michael-berges-00864",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "reports/faith-church-investigation-2026-03-31.md:66",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No faith or church references found in her candidate profiles, HaysPost Q&As, or social media",
+      "sourceUrl": null,
+      "sourceFile": "reports/faith-church-investigation-2026-03-31.md:66",
+      "sourceIds": [
+        "mem-reports-faith-church-investigation-2026-03-31-md-l66"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0009",
+      "evidenceRowId": "em-michael-berges-00119",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:205",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Experience: He cited Hays City Commission budget cycles, sales-tax questions, mill levies, tax-incentive districts, bonds, financial-advice experience, nonprofit grant writing, and social-service awareness.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:205",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l205"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0010",
+      "evidenceRowId": "em-michael-berges-00313",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/sleuth-pass.md:92",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        10,
+        11,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Observation 7 - Candidate-attested 2022 platform centered infrastructure, budget stabilization, sheriff/jail, Grow Hays, and intergovernmental cooperation",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/sleuth-pass.md:92",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-sleuth-pass-md-l92"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0011",
+      "evidenceRowId": "em-michael-berges-01287",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:84",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        10,
+        11,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"Observation 7 - Candidate-attested 2022 platform centered infrastructure, budget stabilization, sheriff/jail, Grow Hays, and intergovernmental cooperation\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:84",
+      "sourceIds": [
+        "mem-ui-src-data-v2-michael-berges-ts-l84"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0012",
+      "evidenceRowId": "em-michael-berges-00014",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:21",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Searches covered official county pages, Ellis County agenda/minutes PDFs, Hays Post archives, Northwest Kansas Economic Innovation Center, League of Kansas Municipalities, Kansas Public Disclosure Commission web search results, FEC-style/campaign-finance queries, Facebook/search-indexed social traces, and general web searches for professional, property/business, court/legal, news, written-record, religious/community, and endorsement material.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:21",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l21"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0013",
+      "evidenceRowId": "em-michael-berges-00286",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/sleuth-pass.md:35",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Facebook: Search surfaced references to a public facebook.com/EllisCountyDistrict1/ page in another candidate's sleuth pass, but this pass could not verify page content or candidate-controlled post history from logged-out browser/search results. Do not treat the page as evidence of posts, likes, follows, or comments unless a later worker captures visible content directly.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/sleuth-pass.md:35",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-sleuth-pass-md-l35"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0014",
+      "evidenceRowId": "em-michael-berges-00288",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/sleuth-pass.md:37",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "LinkedIn / professional web: No verified candidate-controlled LinkedIn profile surfaced in search results. The strongest professional identity source is the Northwest Kansas Economic Innovation Center staff page, which lists Berges as Business Services Director.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/sleuth-pass.md:37",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-sleuth-pass-md-l37"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0015",
+      "evidenceRowId": "em-michael-berges-01282",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:74",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"LinkedIn / professional web: No verified candidate-controlled LinkedIn profile surfaced in search results. The strongest professional identity source is the Northwest Kansas Economic Innovation Center staff page, which lists Berges as Business Services Director.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:74",
+      "sourceIds": [
+        "mem-ui-src-data-v2-michael-berges-ts-l74"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0016",
+      "evidenceRowId": "em-michael-berges-01311",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:278",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"Searches covered official county pages, Ellis County agenda/minutes PDFs, Hays Post archives, Northwest Kansas Economic Innovation Center, League of Kansas Municipalities, Kansas Public Disclosure Commission web search results, FEC-style/campaign-finance queries, Facebook/search-indexed social traces, and general web searches for professional, property/business, court/legal, news, written-record,...\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:278",
+      "sourceIds": [
+        "mem-ui-src-data-v2-michael-berges-ts-l278"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0017",
+      "evidenceRowId": "em-michael-berges-01319",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:346",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"Facebook: Search surfaced references to a public facebook.com/EllisCountyDistrict1/ page in another candidate's sleuth pass, but this pass could not verify page content or candidate-controlled post history from logged-out browser/search results. Do not treat the page as evidence of posts, likes, follows, or comments unless a later worker captures visible content directly.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:346",
+      "sourceIds": [
+        "mem-ui-src-data-v2-michael-berges-ts-l346"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0018",
+      "evidenceRowId": "em-michael-berges-01316",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:318",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"text\": \"Berges's accessible public message is preserved more through meeting\\nrecords, candidate Q&A, and local news than through a verified current\\ncampaign-controlled social feed. His 2022 Q&A gave detailed answers on\\ncounty operations, and a 2020 Hays city-commission article records him\\nmaking a personal public-health plea while stopping short of asking\\nfor a city ordinance.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:318",
+      "sourceIds": [
+        "mem-ui-src-data-v2-michael-berges-ts-l318"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0019",
+      "evidenceRowId": "em-michael-berges-00181",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:326",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Findings: No verified candidate-controlled X/Twitter account surfaced.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:326",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l326"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0020",
+      "evidenceRowId": "em-michael-berges-00183",
+      "platform": "Instagram",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:330",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Findings: No verified candidate-controlled Instagram, TikTok, Threads, Reddit, YouTube, or newsletter surfaced. No verified personal LinkedIn profile surfaced; professional identity is better anchored through NWKEICI.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:330",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l330"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0021",
+      "evidenceRowId": "em-michael-berges-00209",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:375",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Findings: No deleted/archived campaign website or social content surfaced during targeted searches. Wayback-specific capture was not completed.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:375",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l375"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0022",
+      "evidenceRowId": "em-michael-berges-00231",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:412",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Current social evidence: No verified current campaign-controlled social feed was captured.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:412",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l412"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0023",
+      "evidenceRowId": "em-michael-berges-00250",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:445",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Candidate-controlled social page content, including posts, comments, likes, or follows.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:445",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l445"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0024",
+      "evidenceRowId": "em-michael-berges-00291",
+      "platform": "Instagram",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/sleuth-pass.md:40",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Other platforms: No verified candidate-controlled X/Twitter, Instagram, Threads, TikTok, YouTube, Reddit, or newsletter presence surfaced in targeted searches.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/sleuth-pass.md:40",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-sleuth-pass-md-l40"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0025",
+      "evidenceRowId": "em-michael-berges-00318",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/sleuth-pass.md:102",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Candidate-controlled social content remains thin. No verified current campaign site or candidate-controlled social feed with accessible posts/likes/comments/follows was confirmed.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/sleuth-pass.md:102",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-sleuth-pass-md-l102"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0026",
+      "evidenceRowId": "em-michael-berges-00324",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/sleuth-pass.md:110",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Whether facebook.com/EllisCountyDistrict1/ is currently candidate-controlled by Berges and what, if anything, it posts.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/sleuth-pass.md:110",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-sleuth-pass-md-l110"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0027",
+      "evidenceRowId": "em-michael-berges-00327",
+      "platform": "Instagram",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/sleuth-pass.md:113",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Any verified candidate-controlled X/Twitter, Instagram, LinkedIn, Threads, TikTok, YouTube, Reddit, newsletter, or campaign website.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/sleuth-pass.md:113",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-sleuth-pass-md-l113"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0028",
+      "evidenceRowId": "em-michael-berges-00342",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/v2-issues.yaml:11",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social evidence is sparse; no candidate-controlled posts, likes, comments,",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/v2-issues.yaml:11",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l11"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0029",
+      "evidenceRowId": "em-michael-berges-00606",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:316",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"title\": \"Public communication and limited campaign-controlled social footprint\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:316",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l487",
+        "mem-ui-src-data-v2-michael-berges-ts-l316"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0030",
+      "evidenceRowId": "em-michael-berges-00609",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/v2-issues.yaml:492",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "campaign-controlled social feed. His 2022 Q&A gave detailed answers on",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/v2-issues.yaml:492",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l492"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0031",
+      "evidenceRowId": "em-michael-berges-00656",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/v2-issues.yaml:572",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No verified candidate-controlled current social feed was captured. The",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/v2-issues.yaml:572",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l572"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0032",
+      "evidenceRowId": "em-michael-berges-00666",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/v2-issues.yaml:587",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Candidate-controlled posts, comments, likes, follows, or engagement metrics on Facebook or any other social platform.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/v2-issues.yaml:587",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l587"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0033",
+      "evidenceRowId": "em-michael-berges-00738",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "reports/ellis-county-elected-officials-deep-investigation.md:161",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Hays Daily News Quote: \"Commissioners are not...\" (partial quote from Facebook post by Hays Daily News about Berges asserting commissioners' role/limitations)",
+      "sourceUrl": null,
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:161",
+      "sourceIds": [
+        "mem-reports-ellis-county-elected-officials-deep-investigation-md-l161"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0034",
+      "evidenceRowId": "em-michael-berges-00743",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "reports/ellis-county-elected-officials-deep-investigation.md:177",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No Twitter/X presence found",
+      "sourceUrl": null,
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:177",
+      "sourceIds": [
+        "mem-reports-ellis-county-elected-officials-deep-investigation-md-l177"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0035",
+      "evidenceRowId": "em-michael-berges-00799",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "reports/ellis-county-elected-officials-deep-investigation.md:614",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social Media & Online Presence",
+      "sourceUrl": null,
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:614",
+      "sourceIds": [
+        "mem-reports-ellis-county-elected-officials-deep-investigation-md-l614"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0036",
+      "evidenceRowId": "em-michael-berges-00800",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "reports/ellis-county-elected-officials-deep-investigation.md:615",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No Facebook campaign page found",
+      "sourceUrl": null,
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:615",
+      "sourceIds": [
+        "mem-reports-ellis-county-elected-officials-deep-investigation-md-l615"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0037",
+      "evidenceRowId": "em-michael-berges-00801",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "reports/ellis-county-elected-officials-deep-investigation.md:616",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No LinkedIn found",
+      "sourceUrl": null,
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:616",
+      "sourceIds": [
+        "mem-reports-ellis-county-elected-officials-deep-investigation-md-l616"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0038",
+      "evidenceRowId": "em-michael-berges-00802",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "reports/ellis-county-elected-officials-deep-investigation.md:617",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No Twitter/X found",
+      "sourceUrl": null,
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:617",
+      "sourceIds": [
+        "mem-reports-ellis-county-elected-officials-deep-investigation-md-l617"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0039",
+      "evidenceRowId": "em-michael-berges-01323",
+      "platform": "Instagram",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:366",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"Other platforms: No verified candidate-controlled X/Twitter, Instagram, Threads, TikTok, YouTube, Reddit, or newsletter presence surfaced in targeted searches.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:366",
+      "sourceIds": [
+        "mem-ui-src-data-v2-michael-berges-ts-l366"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0040",
+      "evidenceRowId": "em-michael-berges-01324",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:375",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"summary\": \"No verified current candidate-controlled posts, comments, likes,\\nfollows, or engagement metrics were captured. A possible District 1\\nFacebook page and a Hays Daily News Facebook reference remain leads,\\nbut they should not be used as evidence until content is directly\\ncaptured.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:375",
+      "sourceIds": [
+        "mem-ui-src-data-v2-michael-berges-ts-l375"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0041",
+      "evidenceRowId": "em-michael-berges-00177",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:318",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Findings: Existing repo context and another sleuth pass mention a possible Berges District 1 Facebook page. Search did not provide logged-out page content or post/comment evidence. A Hays Daily News Facebook URL referencing Berges comments exists in the current UI source registry but was not text-accessible.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:318",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l318"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0042",
+      "evidenceRowId": "em-michael-berges-00232",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:413",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Gap/framing: The best \"own words\" sources are public meeting records and candidate Q&A, not social media.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:413",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l413"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0043",
+      "evidenceRowId": "em-michael-berges-00246",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:439",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Observed public-reference lead: Hays Daily News Facebook URL referencing Berges commission comments exists in current UI data but could not be text-verified.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:439",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l439"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0044",
+      "evidenceRowId": "em-michael-berges-00267",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/sleuth-pass.md:8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Pass scope: Official status check, comment/social/online-presence sweep, and issue-mapping notes for Phase 2 deepening. Observable public behavior only; no unsupported belief inference.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/sleuth-pass.md:8",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-sleuth-pass-md-l8"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0045",
+      "evidenceRowId": "em-michael-berges-00287",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/sleuth-pass.md:36",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13,
+        14
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics",
+        "Environment / energy / land use"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Hays Daily News Facebook post: Existing UI data includes a Hays Daily News Facebook URL referencing Berges's commission-chair comments. The Facebook page did not produce accessible text in this environment, so it remains a lead, not an attributable quote source.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/sleuth-pass.md:36",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-sleuth-pass-md-l36"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0046",
+      "evidenceRowId": "em-michael-berges-00320",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/sleuth-pass.md:104",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Facebook lead needs direct capture. The Hays Daily News Facebook URL and possible District 1 Facebook page require a logged-in or browser-verified capture before any post/comment/engagement evidence can be used.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/sleuth-pass.md:104",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-sleuth-pass-md-l104"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0047",
+      "evidenceRowId": "em-michael-berges-00325",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/sleuth-pass.md:111",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Any public Berges-authored comments on Hays Post, Hays Daily News, or local Facebook comment threads.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/sleuth-pass.md:111",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-sleuth-pass-md-l111"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0048",
+      "evidenceRowId": "em-michael-berges-01214",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:32391",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"City of Hays pages\",\"City agenda/minutes packets\",\"Public meeting/video entry points\",\"Hays Post\",\"Tiger Media Network\",\"HaysMed\",\"Downtown Hays Development Corporation\",\"Facebook\",\"LinkedIn\",\"X / Twitter\",\"Instagram\",\"YouTube\",\"TikTok\",\"Bluesky\",\"Threads\",\"Truth Social\",\"Gab\",\"Gettr\",\"Substack\",\"Medium\",\"Reddit\",\"Podcast indexes\",\"Public search\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:32391",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l32391"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0049",
+      "evidenceRowId": "em-michael-berges-00176",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:316",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Pass 5: Facebook Deep Dive",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:316",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l316"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0050",
+      "evidenceRowId": "em-michael-berges-00180",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:324",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Pass 6: Twitter/X Deep Dive",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:324",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l324"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0051",
+      "evidenceRowId": "em-michael-berges-00182",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:328",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Pass 7: Other Social Media",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:328",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l328"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0052",
+      "evidenceRowId": "em-michael-berges-00244",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:436",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social / Online Relevance",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:436",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l436"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0053",
+      "evidenceRowId": "em-michael-berges-00248",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:441",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Platform absence: Relevant as methodology/context, not as a substantive issue signal.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:441",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l441"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0054",
+      "evidenceRowId": "em-michael-berges-00255",
+      "platform": "Facebook",
+      "actionType": "share/repost",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:450",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Whether the Hays Daily News Facebook post is a repost of an article, a standalone post, or has accessible comments/engagement.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:450",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l450"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0055",
+      "evidenceRowId": "em-michael-berges-00259",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:456",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social sources used as evidence: 0",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:456",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l456"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0056",
+      "evidenceRowId": "em-michael-berges-00260",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:457",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social leads logged but not used as evidence: 2",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:457",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l457"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0057",
+      "evidenceRowId": "em-michael-berges-00285",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/sleuth-pass.md:33",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social / Online-Presence Leads",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/sleuth-pass.md:33",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-sleuth-pass-md-l33"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0058",
+      "evidenceRowId": "em-michael-berges-00343",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/v2-issues.yaml:12",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "or follows were captured. Do not infer beliefs from platform absence.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/v2-issues.yaml:12",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l12"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0059",
+      "evidenceRowId": "em-michael-berges-00626",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/v2-issues.yaml:523",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Facebook page and a Hays Daily News Facebook reference remain leads,",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/v2-issues.yaml:523",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l523"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0060",
+      "evidenceRowId": "em-michael-berges-00655",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/v2-issues.yaml:570",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "socialResearch:",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/v2-issues.yaml:570",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l570"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0061",
+      "evidenceRowId": "em-michael-berges-00661",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:345",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Facebook\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:345",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l577",
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l581",
+        "mem-ui-src-data-v2-michael-berges-ts-l345"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0062",
+      "evidenceRowId": "em-michael-berges-01123",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "reports/senate-challengers-local-officials-complete.md:522",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No public record, news article, wedding announcement, or social media post confirms the relationship",
+      "sourceUrl": null,
+      "sourceFile": "reports/senate-challengers-local-officials-complete.md:522",
+      "sourceIds": [
+        "mem-reports-senate-challengers-local-officials-complete-md-l522"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0063",
+      "evidenceRowId": "em-michael-berges-01164",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:31009",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"title\": \"Facebook.Com\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:31009",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l31009",
+        "mem-ui-src-data-candidates-ts-l31101",
+        "mem-ui-src-data-candidates-ts-l32438",
+        "mem-ui-src-data-candidates-ts-l32450",
+        "mem-ui-src-data-candidates-ts-l32542",
+        "mem-ui-src-data-candidates-ts-l37875",
+        "mem-ui-src-data-candidates-ts-l37967",
+        "mem-ui-src-data-candidates-ts-l38913",
+        "mem-ui-src-data-candidates-ts-l39005",
+        "mem-ui-src-data-candidates-ts-l39957",
+        "mem-ui-src-data-candidates-ts-l40049",
+        "mem-ui-src-data-candidates-ts-l41002",
+        "mem-ui-src-data-candidates-ts-l41094",
+        "mem-ui-src-data-candidates-ts-l41924",
+        "mem-ui-src-data-candidates-ts-l42016",
+        "mem-ui-src-data-candidates-ts-l42924",
+        "mem-ui-src-data-candidates-ts-l43016",
+        "mem-ui-src-data-candidates-ts-l43940",
+        "mem-ui-src-data-candidates-ts-l44032",
+        "mem-ui-src-data-candidates-ts-l46675",
+        "mem-ui-src-data-candidates-ts-l46767"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0064",
+      "evidenceRowId": "em-michael-berges-01165",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:31013",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"title\": \"Linkedin.Com\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:31013",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l31013",
+        "mem-ui-src-data-candidates-ts-l31069",
+        "mem-ui-src-data-candidates-ts-l32426",
+        "mem-ui-src-data-candidates-ts-l32454",
+        "mem-ui-src-data-candidates-ts-l32510",
+        "mem-ui-src-data-candidates-ts-l37879",
+        "mem-ui-src-data-candidates-ts-l37935",
+        "mem-ui-src-data-candidates-ts-l38917",
+        "mem-ui-src-data-candidates-ts-l38973",
+        "mem-ui-src-data-candidates-ts-l39961",
+        "mem-ui-src-data-candidates-ts-l40017",
+        "mem-ui-src-data-candidates-ts-l41006",
+        "mem-ui-src-data-candidates-ts-l41062",
+        "mem-ui-src-data-candidates-ts-l41928",
+        "mem-ui-src-data-candidates-ts-l41984",
+        "mem-ui-src-data-candidates-ts-l42928",
+        "mem-ui-src-data-candidates-ts-l42984",
+        "mem-ui-src-data-candidates-ts-l43944",
+        "mem-ui-src-data-candidates-ts-l44000",
+        "mem-ui-src-data-candidates-ts-l46679",
+        "mem-ui-src-data-candidates-ts-l46735"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0065",
+      "evidenceRowId": "em-michael-berges-01265",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:1",
+      "sourceIds": [
+        "mem-ui-src-data-v2-michael-berges-ts-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0066",
+      "evidenceRowId": "em-michael-berges-01267",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "node scripts/hydrate-v2-social-signals.mjs",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:3",
+      "sourceIds": [
+        "mem-ui-src-data-v2-michael-berges-ts-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0067",
+      "evidenceRowId": "em-michael-berges-01281",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:73",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"LinkedIn\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:73",
+      "sourceIds": [
+        "mem-ui-src-data-v2-michael-berges-ts-l73"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0068",
+      "evidenceRowId": "em-michael-berges-01286",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:83",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Public web\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:83",
+      "sourceIds": [
+        "mem-ui-src-data-v2-michael-berges-ts-l83",
+        "mem-ui-src-data-v2-michael-berges-ts-l157",
+        "mem-ui-src-data-v2-michael-berges-ts-l167",
+        "mem-ui-src-data-v2-michael-berges-ts-l177"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0069",
+      "evidenceRowId": "em-michael-berges-01289",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:93",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Hays Post\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:93",
+      "sourceIds": [
+        "mem-ui-src-data-v2-michael-berges-ts-l93",
+        "mem-ui-src-data-v2-michael-berges-ts-l277",
+        "mem-ui-src-data-v2-michael-berges-ts-l287",
+        "mem-ui-src-data-v2-michael-berges-ts-l297",
+        "mem-ui-src-data-v2-michael-berges-ts-l355"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0070",
+      "evidenceRowId": "em-michael-berges-01320",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:351",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"mappedToIssueId\": \"i-public-communication-social-footprint\"",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:351",
+      "sourceIds": [
+        "mem-ui-src-data-v2-michael-berges-ts-l351",
+        "mem-ui-src-data-v2-michael-berges-ts-l361",
+        "mem-ui-src-data-v2-michael-berges-ts-l371"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0071",
+      "evidenceRowId": "em-michael-berges-01322",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:365",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"X\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:365",
+      "sourceIds": [
+        "mem-ui-src-data-v2-michael-berges-ts-l365"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0072",
+      "evidenceRowId": "em-michael-berges-00756",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/scott-braun-cpm-62833366/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "LinkedIn: [linkedin.com/in/scott-braun-cpm-62833366](https://www.linkedin.com/in/scott-braun-cpm-62833366/)",
+      "sourceUrl": "https://www.linkedin.com/in/scott-braun-cpm-62833366/",
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:197",
+      "sourceIds": [
+        "mem-reports-ellis-county-elected-officials-deep-investigation-md-l197"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0073",
+      "evidenceRowId": "em-michael-berges-01005",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/alaina-cunningham-4436ba1/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "LinkedIn: [Alaina Cunningham](https://www.linkedin.com/in/alaina-cunningham-4436ba1/)",
+      "sourceUrl": "https://www.linkedin.com/in/alaina-cunningham-4436ba1/",
+      "sourceFile": "reports/senate-challengers-local-officials-complete.md:510",
+      "sourceIds": [
+        "mem-reports-hays-city-commission-deep-investigation-2026-03-30-md-l123",
+        "mem-reports-senate-challengers-local-officials-complete-md-l510"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0074",
+      "evidenceRowId": "em-michael-berges-01006",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/alaina.cunningham.9/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Facebook: [Alaina Cunningham](https://www.facebook.com/alaina.cunningham.9/)",
+      "sourceUrl": "https://www.facebook.com/alaina.cunningham.9/",
+      "sourceFile": "reports/senate-challengers-local-officials-complete.md:509",
+      "sourceIds": [
+        "mem-reports-hays-city-commission-deep-investigation-2026-03-30-md-l124",
+        "mem-reports-senate-challengers-local-officials-complete-md-l509"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0075",
+      "evidenceRowId": "em-michael-berges-00007",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/michael-berges/raw-dump-v2.md:8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Source basis: Existing local reports and current v2 stub were used first, then current official sources were verified online. Primary sources are county filings, county commission pages, county budget books, and county minutes. Hays Post is used for candidate-attested Q&A and local reporting context. Social sources are treated only as leads unless directly accessible.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:8",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-raw-dump-v2-md-l8"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0076",
+      "evidenceRowId": "em-michael-berges-00998",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "reports/hays-city-commission-deep-investigation-2026-03-30.md:115",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9,
+        10,
+        11
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid",
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Cunningham is the least publicly visible commissioner. She was appointed (not initially elected), has limited news quotes, and her community profile is primarily through HaysMed Foundation and PTA work rather than political activity. Her LinkedIn describes her as a \"Health and Well-being professional.\" Her appointment filled a vacancy, and she won her first election in 2023. As Vice Mayor, she's positioned as Ruder's second-in-command.",
+      "sourceUrl": null,
+      "sourceFile": "reports/hays-city-commission-deep-investigation-2026-03-30.md:115",
+      "sourceIds": [
+        "mem-reports-hays-city-commission-deep-investigation-2026-03-30-md-l115"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0077",
+      "evidenceRowId": "em-michael-berges-00497",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:229",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"socialSignals\": [],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:229",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l310",
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l369",
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l420",
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l474",
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l518",
+        "mem-ui-src-data-v2-michael-berges-ts-l70",
+        "mem-ui-src-data-v2-michael-berges-ts-l154",
+        "mem-ui-src-data-v2-michael-berges-ts-l229",
+        "mem-ui-src-data-v2-michael-berges-ts-l274",
+        "mem-ui-src-data-v2-michael-berges-ts-l342"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-michael-berges-0078",
+      "evidenceRowId": "em-michael-berges-00605",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/michael-berges.ts:315",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"i-public-communication-social-footprint\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:315",
+      "sourceIds": [
+        "mem-memory-candidates-michael-berges-v2-issues-yaml-l486",
+        "mem-ui-src-data-v2-michael-berges-ts-l315"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    }
+  ],
+  "issueCoverage": {
+    "1": {
+      "issue": "Abortion / life",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "2": {
+      "issue": "LGBT / gender / parental rights",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "3": {
+      "issue": "Education / curriculum / schools",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "4": {
+      "issue": "Religious liberty / church / civic morality",
+      "total": 3,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 3
+    },
+    "5": {
+      "issue": "Taxes / spending / debt",
+      "total": 5,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 4
+    },
+    "6": {
+      "issue": "Economy / jobs / labor",
+      "total": 7,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 7
+    },
+    "7": {
+      "issue": "Guns / Second Amendment",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "8": {
+      "issue": "Immigration / border",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "9": {
+      "issue": "Health care / insurance / Medicaid",
+      "total": 2,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "10": {
+      "issue": "Election integrity / voting / courts",
+      "total": 32,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 31
+    },
+    "11": {
+      "issue": "Public safety / law enforcement / criminal justice",
+      "total": 9,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 8
+    },
+    "12": {
+      "issue": "Agriculture / rural economy / water",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "13": {
+      "issue": "Local governance / transparency / ethics",
+      "total": 39,
+      "strong": 2,
+      "moderate": 1,
+      "weak": 0,
+      "ambiguous": 35
+    },
+    "14": {
+      "issue": "Environment / energy / land use",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    }
+  },
+  "caveats": [
+    "Social evidence is signal, not fact. A follow, like, share, or platform absence is not treated as a belief or policy position.",
+    "Candidate-controlled posts and campaign pages may be used as stated positions only when the text itself says the position.",
+    "Login-walled, blocked, or inaccessible platform content is documented as a capture limitation, not as evidence of silence."
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "agent_id": "social-footprint-analyst",
+  "agent_role": "Social media intelligence analyst",
+  "candidate_slug": "brandon-adams",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/brandon-adams/social-harvest.md",
+    "memory/candidates/brandon-adams/evidence-matrix.json",
+    "memory/candidates/brandon-adams/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/brandon-adams/social-evidence-matrix.json",
+    "memory/candidates/brandon-adams/social-analysis.md",
+    "memory/candidates/brandon-adams/agent-work/social-footprint-analyst/run-state.json",
+    "memory/candidates/brandon-adams/agent-work/social-footprint-analyst/notes.md",
+    "memory/candidates/brandon-adams/agent-work/social-footprint-analyst/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs brandon-adams"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run source-tier-validator for brandon-adams.",
+    "Run fixed-issue-matrix-builder for brandon-adams after source validation."
+  ],
+  "handoff_summary": "Classified 29 social/online observations for brandon-adams."
+}

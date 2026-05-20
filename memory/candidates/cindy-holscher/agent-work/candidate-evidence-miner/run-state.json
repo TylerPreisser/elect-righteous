@@ -1,0 +1,42 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "cindy-holscher",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/cindy-holscher/in-their-own-words.md",
+    "memory/candidates/cindy-holscher/raw-dump-v2.md",
+    "memory/candidates/cindy-holscher/raw-dump.md",
+    "memory/candidates/cindy-holscher/site-profile.md",
+    "memory/candidates/cindy-holscher/sleuth-pass.md",
+    "memory/candidates/cindy-holscher/social-harvest.md",
+    "memory/candidates/cindy-holscher/v2-issues.yaml",
+    "memory/elections/2026-11-03-kansas-governor.md",
+    "reports/faith-church-investigation-2026-03-31.md",
+    "reports/governor-2026-all-remaining-candidates-complete.md",
+    "reports/hays-kansas-election-finder-2026-03-30.md",
+    "reports/plain-english-voter-guide.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/cindy-holscher.ts"
+  ],
+  "files_written": [
+    "memory/candidates/cindy-holscher/evidence-matrix-raw.json",
+    "memory/candidates/cindy-holscher/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/cindy-holscher/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/cindy-holscher/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/cindy-holscher/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs cindy-holscher"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for cindy-holscher."
+  ],
+  "handoff_summary": "Extracted 6287 raw evidence rows for cindy-holscher."
+}

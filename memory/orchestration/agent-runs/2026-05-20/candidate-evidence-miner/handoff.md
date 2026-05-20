@@ -1,27 +1,219 @@
 # Handoff — candidate-evidence-miner — 2026-05-20
 
 ## What I Did
-Extracted raw evidence matrices for roger-marshall, damon-anderson, and jason-hart.
+Extracted raw evidence matrices for 67 candidates: aaron-cunningham, adam-hamilton, alaina-cunningham, allen-park, anne-parelkar, barb-wasinger, bobbi-dreiling, brandon-adams, cathy-hopkins, charlotte-ohara, chase-laporte, chris-mann, christy-cauble-davis, cindy-holscher, colin-mcroberts, craig-musser, craig-pallister, curt-vajnar, daniel-hawkins, david-vilaysing, derek-yarmer, dinah-sykes, doug-billings, eric-lund, erik-murray, ethan-corson, jayme-goetz, jeff-colyer, jennifer-day, joy-eakins, ken-brooks, ken-rahjes, kevin-latz, kris-kobach, lauren-reinhold, lorie-wood, mark-lane, marty-tuley, mason-ruder, michael-berges, michael-soetaert, michelle-cunningham, nathan-leiker, neal-younger, noah-taylor, pat-proctor, patrick-schmidt, philip-sarnecki, rebecca-herzog, ric-koehn, ron-wilson, ruth-ruder, sam-lane, sandy-jacobs, sandy-spidel-neumann, scott-braun, scott-schwab, sharilyn-ray, shaun-musil, stacy-rogers, steven-jacob, steven-johnson, toby-dougherty, tracey-mann, ty-masterson, vernon-ruder-jr, vicki-schmidt.
 
 ## Key Findings
-- roger-marshall: 10037 rows from 24 files; 113 caveat/conflict/source-limitation rows; 6811 internal-memory rows without URL.
-- damon-anderson: 667 rows from 9 files; 5 caveat/conflict/source-limitation rows; 597 internal-memory rows without URL.
-- jason-hart: 5407 rows from 16 files; 47 caveat/conflict/source-limitation rows; 3773 internal-memory rows without URL.
+- aaron-cunningham: 10962 rows from 15 files; 109 caveat/source-limitation rows; 8646 internal-memory rows without URL.
+- adam-hamilton: 426 rows from 7 files; 1 caveat/source-limitation rows; 404 internal-memory rows without URL.
+- alaina-cunningham: 9899 rows from 16 files; 122 caveat/source-limitation rows; 7700 internal-memory rows without URL.
+- allen-park: 3714 rows from 14 files; 83 caveat/source-limitation rows; 3024 internal-memory rows without URL.
+- anne-parelkar: 9237 rows from 17 files; 44 caveat/source-limitation rows; 7243 internal-memory rows without URL.
+- barb-wasinger: 5056 rows from 20 files; 87 caveat/source-limitation rows; 4129 internal-memory rows without URL.
+- bobbi-dreiling: 8655 rows from 14 files; 111 caveat/source-limitation rows; 6961 internal-memory rows without URL.
+- brandon-adams: 400 rows from 7 files; 2 caveat/source-limitation rows; 380 internal-memory rows without URL.
+- cathy-hopkins: 2045 rows from 9 files; 18 caveat/source-limitation rows; 1946 internal-memory rows without URL.
+- charlotte-ohara: 4139 rows from 18 files; 14 caveat/source-limitation rows; 3458 internal-memory rows without URL.
+- chase-laporte: 8166 rows from 16 files; 54 caveat/source-limitation rows; 6614 internal-memory rows without URL.
+- chris-mann: 6022 rows from 15 files; 33 caveat/source-limitation rows; 4919 internal-memory rows without URL.
+- christy-cauble-davis: 7666 rows from 15 files; 42 caveat/source-limitation rows; 5933 internal-memory rows without URL.
+- cindy-holscher: 6287 rows from 15 files; 93 caveat/source-limitation rows; 5011 internal-memory rows without URL.
+- colin-mcroberts: 4899 rows from 15 files; 25 caveat/source-limitation rows; 3864 internal-memory rows without URL.
+- craig-musser: 3616 rows from 13 files; 24 caveat/source-limitation rows; 2872 internal-memory rows without URL.
+- craig-pallister: 3558 rows from 14 files; 85 caveat/source-limitation rows; 2937 internal-memory rows without URL.
+- curt-vajnar: 3009 rows from 14 files; 63 caveat/source-limitation rows; 2460 internal-memory rows without URL.
+- daniel-hawkins: 3093 rows from 15 files; 21 caveat/source-limitation rows; 2688 internal-memory rows without URL.
+- david-vilaysing: 4832 rows from 15 files; 160 caveat/source-limitation rows; 3998 internal-memory rows without URL.
+- derek-yarmer: 3836 rows from 13 files; 75 caveat/source-limitation rows; 3230 internal-memory rows without URL.
+- dinah-sykes: 4843 rows from 17 files; 30 caveat/source-limitation rows; 3929 internal-memory rows without URL.
+- doug-billings: 544 rows from 9 files; 3 caveat/source-limitation rows; 518 internal-memory rows without URL.
+- eric-lund: 393 rows from 7 files; 2 caveat/source-limitation rows; 373 internal-memory rows without URL.
+- erik-murray: 8716 rows from 15 files; 42 caveat/source-limitation rows; 7086 internal-memory rows without URL.
+- ethan-corson: 11399 rows from 15 files; 87 caveat/source-limitation rows; 8819 internal-memory rows without URL.
+- jayme-goetz: 3876 rows from 13 files; 82 caveat/source-limitation rows; 3217 internal-memory rows without URL.
+- jeff-colyer: 13312 rows from 20 files; 106 caveat/source-limitation rows; 10444 internal-memory rows without URL.
+- jennifer-day: 2339 rows from 13 files; 15 caveat/source-limitation rows; 1992 internal-memory rows without URL.
+- joy-eakins: 7795 rows from 15 files; 23 caveat/source-limitation rows; 6226 internal-memory rows without URL.
+- ken-brooks: 4126 rows from 14 files; 115 caveat/source-limitation rows; 3428 internal-memory rows without URL.
+- ken-rahjes: 2933 rows from 13 files; 15 caveat/source-limitation rows; 2534 internal-memory rows without URL.
+- kevin-latz: 403 rows from 7 files; 1 caveat/source-limitation rows; 383 internal-memory rows without URL.
+- kris-kobach: 12133 rows from 23 files; 97 caveat/source-limitation rows; 9860 internal-memory rows without URL.
+- lauren-reinhold: 4540 rows from 15 files; 24 caveat/source-limitation rows; 3634 internal-memory rows without URL.
+- lorie-wood: 507 rows from 8 files; 0 caveat/source-limitation rows; 464 internal-memory rows without URL.
+- mark-lane: 400 rows from 7 files; 2 caveat/source-limitation rows; 380 internal-memory rows without URL.
+- marty-tuley: 6108 rows from 13 files; 21 caveat/source-limitation rows; 4850 internal-memory rows without URL.
+- mason-ruder: 8062 rows from 19 files; 129 caveat/source-limitation rows; 6500 internal-memory rows without URL.
+- michael-berges: 3564 rows from 12 files; 49 caveat/source-limitation rows; 3112 internal-memory rows without URL.
+- michael-soetaert: 9840 rows from 15 files; 50 caveat/source-limitation rows; 7818 internal-memory rows without URL.
+- michelle-cunningham: 391 rows from 7 files; 2 caveat/source-limitation rows; 371 internal-memory rows without URL.
+- nathan-leiker: 7792 rows from 13 files; 128 caveat/source-limitation rows; 6388 internal-memory rows without URL.
+- neal-younger: 8482 rows from 14 files; 142 caveat/source-limitation rows; 7082 internal-memory rows without URL.
+- noah-taylor: 552 rows from 8 files; 2 caveat/source-limitation rows; 497 internal-memory rows without URL.
+- pat-proctor: 2519 rows from 12 files; 17 caveat/source-limitation rows; 2183 internal-memory rows without URL.
+- patrick-schmidt: 9914 rows from 15 files; 50 caveat/source-limitation rows; 7826 internal-memory rows without URL.
+- philip-sarnecki: 7912 rows from 15 files; 27 caveat/source-limitation rows; 6332 internal-memory rows without URL.
+- rebecca-herzog: 4389 rows from 14 files; 107 caveat/source-limitation rows; 3635 internal-memory rows without URL.
+- ric-koehn: 404 rows from 7 files; 0 caveat/source-limitation rows; 384 internal-memory rows without URL.
+- ron-wilson: 9051 rows from 13 files; 86 caveat/source-limitation rows; 7131 internal-memory rows without URL.
+- ruth-ruder: 5236 rows from 15 files; 88 caveat/source-limitation rows; 4471 internal-memory rows without URL.
+- sam-lane: 2485 rows from 13 files; 11 caveat/source-limitation rows; 1980 internal-memory rows without URL.
+- sandy-jacobs: 12375 rows from 15 files; 111 caveat/source-limitation rows; 9785 internal-memory rows without URL.
+- sandy-spidel-neumann: 10110 rows from 15 files; 39 caveat/source-limitation rows; 8067 internal-memory rows without URL.
+- scott-braun: 5863 rows from 15 files; 88 caveat/source-limitation rows; 4735 internal-memory rows without URL.
+- scott-schwab: 13261 rows from 25 files; 91 caveat/source-limitation rows; 10597 internal-memory rows without URL.
+- sharilyn-ray: 410 rows from 7 files; 2 caveat/source-limitation rows; 388 internal-memory rows without URL.
+- shaun-musil: 11948 rows from 15 files; 128 caveat/source-limitation rows; 9319 internal-memory rows without URL.
+- stacy-rogers: 7918 rows from 15 files; 15 caveat/source-limitation rows; 6286 internal-memory rows without URL.
+- steven-jacob: 362 rows from 7 files; 0 caveat/source-limitation rows; 344 internal-memory rows without URL.
+- steven-johnson: 509 rows from 11 files; 0 caveat/source-limitation rows; 476 internal-memory rows without URL.
+- toby-dougherty: 9033 rows from 14 files; 119 caveat/source-limitation rows; 7301 internal-memory rows without URL.
+- tracey-mann: 6113 rows from 17 files; 101 caveat/source-limitation rows; 5108 internal-memory rows without URL.
+- ty-masterson: 11653 rows from 19 files; 85 caveat/source-limitation rows; 9408 internal-memory rows without URL.
+- vernon-ruder-jr: 5657 rows from 16 files; 165 caveat/source-limitation rows; 4701 internal-memory rows without URL.
+- vicki-schmidt: 11631 rows from 23 files; 81 caveat/source-limitation rows; 9325 internal-memory rows without URL.
 
 ## Files Created or Modified
-- memory/candidates/roger-marshall/evidence-matrix-raw.json: raw evidence rows for Roger Marshall.
-- memory/candidates/roger-marshall/agent-work/candidate-evidence-miner/*: candidate-specific run files.
-- memory/candidates/damon-anderson/evidence-matrix-raw.json: raw evidence rows for Damon Anderson.
-- memory/candidates/damon-anderson/agent-work/candidate-evidence-miner/*: candidate-specific run files.
-- memory/candidates/jason-hart/evidence-matrix-raw.json: raw evidence rows for Jason Hart.
-- memory/candidates/jason-hart/agent-work/candidate-evidence-miner/*: candidate-specific run files.
-- memory/orchestration/agent-runs/2026-05-20/candidate-evidence-miner/*: batch run files.
+- memory/candidates/aaron-cunningham/evidence-matrix-raw.json
+- memory/candidates/adam-hamilton/evidence-matrix-raw.json
+- memory/candidates/alaina-cunningham/evidence-matrix-raw.json
+- memory/candidates/allen-park/evidence-matrix-raw.json
+- memory/candidates/anne-parelkar/evidence-matrix-raw.json
+- memory/candidates/barb-wasinger/evidence-matrix-raw.json
+- memory/candidates/bobbi-dreiling/evidence-matrix-raw.json
+- memory/candidates/brandon-adams/evidence-matrix-raw.json
+- memory/candidates/cathy-hopkins/evidence-matrix-raw.json
+- memory/candidates/charlotte-ohara/evidence-matrix-raw.json
+- memory/candidates/chase-laporte/evidence-matrix-raw.json
+- memory/candidates/chris-mann/evidence-matrix-raw.json
+- memory/candidates/christy-cauble-davis/evidence-matrix-raw.json
+- memory/candidates/cindy-holscher/evidence-matrix-raw.json
+- memory/candidates/colin-mcroberts/evidence-matrix-raw.json
+- memory/candidates/craig-musser/evidence-matrix-raw.json
+- memory/candidates/craig-pallister/evidence-matrix-raw.json
+- memory/candidates/curt-vajnar/evidence-matrix-raw.json
+- memory/candidates/daniel-hawkins/evidence-matrix-raw.json
+- memory/candidates/david-vilaysing/evidence-matrix-raw.json
+- memory/candidates/derek-yarmer/evidence-matrix-raw.json
+- memory/candidates/dinah-sykes/evidence-matrix-raw.json
+- memory/candidates/doug-billings/evidence-matrix-raw.json
+- memory/candidates/eric-lund/evidence-matrix-raw.json
+- memory/candidates/erik-murray/evidence-matrix-raw.json
+- memory/candidates/ethan-corson/evidence-matrix-raw.json
+- memory/candidates/jayme-goetz/evidence-matrix-raw.json
+- memory/candidates/jeff-colyer/evidence-matrix-raw.json
+- memory/candidates/jennifer-day/evidence-matrix-raw.json
+- memory/candidates/joy-eakins/evidence-matrix-raw.json
+- memory/candidates/ken-brooks/evidence-matrix-raw.json
+- memory/candidates/ken-rahjes/evidence-matrix-raw.json
+- memory/candidates/kevin-latz/evidence-matrix-raw.json
+- memory/candidates/kris-kobach/evidence-matrix-raw.json
+- memory/candidates/lauren-reinhold/evidence-matrix-raw.json
+- memory/candidates/lorie-wood/evidence-matrix-raw.json
+- memory/candidates/mark-lane/evidence-matrix-raw.json
+- memory/candidates/marty-tuley/evidence-matrix-raw.json
+- memory/candidates/mason-ruder/evidence-matrix-raw.json
+- memory/candidates/michael-berges/evidence-matrix-raw.json
+- memory/candidates/michael-soetaert/evidence-matrix-raw.json
+- memory/candidates/michelle-cunningham/evidence-matrix-raw.json
+- memory/candidates/nathan-leiker/evidence-matrix-raw.json
+- memory/candidates/neal-younger/evidence-matrix-raw.json
+- memory/candidates/noah-taylor/evidence-matrix-raw.json
+- memory/candidates/pat-proctor/evidence-matrix-raw.json
+- memory/candidates/patrick-schmidt/evidence-matrix-raw.json
+- memory/candidates/philip-sarnecki/evidence-matrix-raw.json
+- memory/candidates/rebecca-herzog/evidence-matrix-raw.json
+- memory/candidates/ric-koehn/evidence-matrix-raw.json
+- memory/candidates/ron-wilson/evidence-matrix-raw.json
+- memory/candidates/ruth-ruder/evidence-matrix-raw.json
+- memory/candidates/sam-lane/evidence-matrix-raw.json
+- memory/candidates/sandy-jacobs/evidence-matrix-raw.json
+- memory/candidates/sandy-spidel-neumann/evidence-matrix-raw.json
+- memory/candidates/scott-braun/evidence-matrix-raw.json
+- memory/candidates/scott-schwab/evidence-matrix-raw.json
+- memory/candidates/sharilyn-ray/evidence-matrix-raw.json
+- memory/candidates/shaun-musil/evidence-matrix-raw.json
+- memory/candidates/stacy-rogers/evidence-matrix-raw.json
+- memory/candidates/steven-jacob/evidence-matrix-raw.json
+- memory/candidates/steven-johnson/evidence-matrix-raw.json
+- memory/candidates/toby-dougherty/evidence-matrix-raw.json
+- memory/candidates/tracey-mann/evidence-matrix-raw.json
+- memory/candidates/ty-masterson/evidence-matrix-raw.json
+- memory/candidates/vernon-ruder-jr/evidence-matrix-raw.json
+- memory/candidates/vicki-schmidt/evidence-matrix-raw.json
+- memory/candidates/aaron-cunningham/agent-work/candidate-evidence-miner/*
+- memory/candidates/adam-hamilton/agent-work/candidate-evidence-miner/*
+- memory/candidates/alaina-cunningham/agent-work/candidate-evidence-miner/*
+- memory/candidates/allen-park/agent-work/candidate-evidence-miner/*
+- memory/candidates/anne-parelkar/agent-work/candidate-evidence-miner/*
+- memory/candidates/barb-wasinger/agent-work/candidate-evidence-miner/*
+- memory/candidates/bobbi-dreiling/agent-work/candidate-evidence-miner/*
+- memory/candidates/brandon-adams/agent-work/candidate-evidence-miner/*
+- memory/candidates/cathy-hopkins/agent-work/candidate-evidence-miner/*
+- memory/candidates/charlotte-ohara/agent-work/candidate-evidence-miner/*
+- memory/candidates/chase-laporte/agent-work/candidate-evidence-miner/*
+- memory/candidates/chris-mann/agent-work/candidate-evidence-miner/*
+- memory/candidates/christy-cauble-davis/agent-work/candidate-evidence-miner/*
+- memory/candidates/cindy-holscher/agent-work/candidate-evidence-miner/*
+- memory/candidates/colin-mcroberts/agent-work/candidate-evidence-miner/*
+- memory/candidates/craig-musser/agent-work/candidate-evidence-miner/*
+- memory/candidates/craig-pallister/agent-work/candidate-evidence-miner/*
+- memory/candidates/curt-vajnar/agent-work/candidate-evidence-miner/*
+- memory/candidates/daniel-hawkins/agent-work/candidate-evidence-miner/*
+- memory/candidates/david-vilaysing/agent-work/candidate-evidence-miner/*
+- memory/candidates/derek-yarmer/agent-work/candidate-evidence-miner/*
+- memory/candidates/dinah-sykes/agent-work/candidate-evidence-miner/*
+- memory/candidates/doug-billings/agent-work/candidate-evidence-miner/*
+- memory/candidates/eric-lund/agent-work/candidate-evidence-miner/*
+- memory/candidates/erik-murray/agent-work/candidate-evidence-miner/*
+- memory/candidates/ethan-corson/agent-work/candidate-evidence-miner/*
+- memory/candidates/jayme-goetz/agent-work/candidate-evidence-miner/*
+- memory/candidates/jeff-colyer/agent-work/candidate-evidence-miner/*
+- memory/candidates/jennifer-day/agent-work/candidate-evidence-miner/*
+- memory/candidates/joy-eakins/agent-work/candidate-evidence-miner/*
+- memory/candidates/ken-brooks/agent-work/candidate-evidence-miner/*
+- memory/candidates/ken-rahjes/agent-work/candidate-evidence-miner/*
+- memory/candidates/kevin-latz/agent-work/candidate-evidence-miner/*
+- memory/candidates/kris-kobach/agent-work/candidate-evidence-miner/*
+- memory/candidates/lauren-reinhold/agent-work/candidate-evidence-miner/*
+- memory/candidates/lorie-wood/agent-work/candidate-evidence-miner/*
+- memory/candidates/mark-lane/agent-work/candidate-evidence-miner/*
+- memory/candidates/marty-tuley/agent-work/candidate-evidence-miner/*
+- memory/candidates/mason-ruder/agent-work/candidate-evidence-miner/*
+- memory/candidates/michael-berges/agent-work/candidate-evidence-miner/*
+- memory/candidates/michael-soetaert/agent-work/candidate-evidence-miner/*
+- memory/candidates/michelle-cunningham/agent-work/candidate-evidence-miner/*
+- memory/candidates/nathan-leiker/agent-work/candidate-evidence-miner/*
+- memory/candidates/neal-younger/agent-work/candidate-evidence-miner/*
+- memory/candidates/noah-taylor/agent-work/candidate-evidence-miner/*
+- memory/candidates/pat-proctor/agent-work/candidate-evidence-miner/*
+- memory/candidates/patrick-schmidt/agent-work/candidate-evidence-miner/*
+- memory/candidates/philip-sarnecki/agent-work/candidate-evidence-miner/*
+- memory/candidates/rebecca-herzog/agent-work/candidate-evidence-miner/*
+- memory/candidates/ric-koehn/agent-work/candidate-evidence-miner/*
+- memory/candidates/ron-wilson/agent-work/candidate-evidence-miner/*
+- memory/candidates/ruth-ruder/agent-work/candidate-evidence-miner/*
+- memory/candidates/sam-lane/agent-work/candidate-evidence-miner/*
+- memory/candidates/sandy-jacobs/agent-work/candidate-evidence-miner/*
+- memory/candidates/sandy-spidel-neumann/agent-work/candidate-evidence-miner/*
+- memory/candidates/scott-braun/agent-work/candidate-evidence-miner/*
+- memory/candidates/scott-schwab/agent-work/candidate-evidence-miner/*
+- memory/candidates/sharilyn-ray/agent-work/candidate-evidence-miner/*
+- memory/candidates/shaun-musil/agent-work/candidate-evidence-miner/*
+- memory/candidates/stacy-rogers/agent-work/candidate-evidence-miner/*
+- memory/candidates/steven-jacob/agent-work/candidate-evidence-miner/*
+- memory/candidates/steven-johnson/agent-work/candidate-evidence-miner/*
+- memory/candidates/toby-dougherty/agent-work/candidate-evidence-miner/*
+- memory/candidates/tracey-mann/agent-work/candidate-evidence-miner/*
+- memory/candidates/ty-masterson/agent-work/candidate-evidence-miner/*
+- memory/candidates/vernon-ruder-jr/agent-work/candidate-evidence-miner/*
+- memory/candidates/vicki-schmidt/agent-work/candidate-evidence-miner/*
+- memory/orchestration/agent-runs/2026-05-20/candidate-evidence-miner/*
 
 ## What the Next Task Should Do
-Run evidence-matrix-builder for roger-marshall, damon-anderson, and jason-hart. Deduplicate rows, resolve caveats, assign final confidence and use decisions, and write evidence-matrix.json for each candidate.
+Run evidence-matrix-builder for these 67 candidates, then social-footprint/source-tier passes.
 
-## Blockers for Next Task
-None.
+## Blockers
+- None.
 
 ## Decisions I Made That Could Be Questioned
-The extraction is line-level and intentionally redundant. Candidate-specific files were extracted broadly; broad reports were read but only candidate sections and direct candidate mentions became rows.
+The extraction is line-level and intentionally redundant. Generated matrices/audits are excluded so the pipeline does not cite itself.

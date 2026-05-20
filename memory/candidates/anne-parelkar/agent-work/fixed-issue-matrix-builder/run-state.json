@@ -1,0 +1,31 @@
+{
+  "agent_id": "fixed-issue-matrix-builder",
+  "agent_role": "Issue-by-issue content builder",
+  "candidate_slug": "anne-parelkar",
+  "phase": "3",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/anne-parelkar/evidence-matrix.json",
+    "memory/candidates/anne-parelkar/social-evidence-matrix.json",
+    "memory/candidates/anne-parelkar/source-audit.json"
+  ],
+  "files_written": [
+    "memory/candidates/anne-parelkar/issue-matrix.md",
+    "memory/candidates/anne-parelkar/fixed-issue-matrix.json",
+    "memory/candidates/anne-parelkar/v2-issues.yaml",
+    "memory/candidates/anne-parelkar/agent-work/fixed-issue-matrix-builder/run-state.json",
+    "memory/candidates/anne-parelkar/agent-work/fixed-issue-matrix-builder/notes.md",
+    "memory/candidates/anne-parelkar/agent-work/fixed-issue-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-fixed-issue-matrix.mjs anne-parelkar"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run biography/record/funding/faith/profile assembler passes for anne-parelkar."
+  ],
+  "handoff_summary": "Built fixed 14-issue matrix for anne-parelkar."
+}

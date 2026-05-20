@@ -1,0 +1,43 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "chase-laporte",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/chase-laporte/in-their-own-words.md",
+    "memory/candidates/chase-laporte/raw-dump-v2.md",
+    "memory/candidates/chase-laporte/raw-dump.md",
+    "memory/candidates/chase-laporte/site-profile.md",
+    "memory/candidates/chase-laporte/sleuth-pass.md",
+    "memory/candidates/chase-laporte/social-harvest.md",
+    "memory/candidates/chase-laporte/v2-issues.yaml",
+    "memory/elections/2026-11-03-us-senate-kansas.md",
+    "reports/2026-kansas-us-senate-race-investigation.md",
+    "reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md",
+    "reports/hays-kansas-election-finder-2026-03-30.md",
+    "reports/roger-marshall-complete-dossier.md",
+    "reports/senate-challengers-local-officials-complete.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/chase-laporte.ts"
+  ],
+  "files_written": [
+    "memory/candidates/chase-laporte/evidence-matrix-raw.json",
+    "memory/candidates/chase-laporte/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/chase-laporte/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/chase-laporte/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/chase-laporte/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs chase-laporte"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for chase-laporte."
+  ],
+  "handoff_summary": "Extracted 8166 raw evidence rows for chase-laporte."
+}

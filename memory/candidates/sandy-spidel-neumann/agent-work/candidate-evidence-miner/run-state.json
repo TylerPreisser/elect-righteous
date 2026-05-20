@@ -1,0 +1,42 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "sandy-spidel-neumann",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/sandy-spidel-neumann/in-their-own-words.md",
+    "memory/candidates/sandy-spidel-neumann/raw-dump-v2.md",
+    "memory/candidates/sandy-spidel-neumann/raw-dump.md",
+    "memory/candidates/sandy-spidel-neumann/site-profile.md",
+    "memory/candidates/sandy-spidel-neumann/sleuth-pass.md",
+    "memory/candidates/sandy-spidel-neumann/social-harvest.md",
+    "memory/candidates/sandy-spidel-neumann/v2-issues.yaml",
+    "memory/elections/2026-11-03-us-senate-kansas.md",
+    "reports/2026-kansas-us-senate-race-investigation.md",
+    "reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md",
+    "reports/roger-marshall-complete-dossier.md",
+    "reports/senate-challengers-local-officials-complete.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/sandy-spidel-neumann.ts"
+  ],
+  "files_written": [
+    "memory/candidates/sandy-spidel-neumann/evidence-matrix-raw.json",
+    "memory/candidates/sandy-spidel-neumann/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/sandy-spidel-neumann/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/sandy-spidel-neumann/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/sandy-spidel-neumann/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs sandy-spidel-neumann"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for sandy-spidel-neumann."
+  ],
+  "handoff_summary": "Extracted 10110 raw evidence rows for sandy-spidel-neumann."
+}

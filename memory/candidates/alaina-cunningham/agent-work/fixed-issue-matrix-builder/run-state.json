@@ -1,0 +1,31 @@
+{
+  "agent_id": "fixed-issue-matrix-builder",
+  "agent_role": "Issue-by-issue content builder",
+  "candidate_slug": "alaina-cunningham",
+  "phase": "3",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/alaina-cunningham/evidence-matrix.json",
+    "memory/candidates/alaina-cunningham/social-evidence-matrix.json",
+    "memory/candidates/alaina-cunningham/source-audit.json"
+  ],
+  "files_written": [
+    "memory/candidates/alaina-cunningham/issue-matrix.md",
+    "memory/candidates/alaina-cunningham/fixed-issue-matrix.json",
+    "memory/candidates/alaina-cunningham/v2-issues.yaml",
+    "memory/candidates/alaina-cunningham/agent-work/fixed-issue-matrix-builder/run-state.json",
+    "memory/candidates/alaina-cunningham/agent-work/fixed-issue-matrix-builder/notes.md",
+    "memory/candidates/alaina-cunningham/agent-work/fixed-issue-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-fixed-issue-matrix.mjs alaina-cunningham"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run biography/record/funding/faith/profile assembler passes for alaina-cunningham."
+  ],
+  "handoff_summary": "Built fixed 14-issue matrix for alaina-cunningham."
+}

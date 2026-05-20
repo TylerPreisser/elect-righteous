@@ -1,0 +1,1266 @@
+{
+  "candidateSlug": "noah-taylor",
+  "generated": "2026-05-20T18:46:44Z",
+  "issueCount": 14,
+  "issues": [
+    {
+      "issueNumber": 1,
+      "title": "Abortion / life",
+      "summary": "Abortion / life: 1 selected evidence items from 1 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-noah-taylor-00126",
+          "classification": "documented-record",
+          "text": "Ideological inconsistency (conservative pro-life Republican in 2019, now running as a Democrat)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l524"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:524",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 1,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 2,
+      "title": "LGBT / gender / parental rights",
+      "summary": "No relevant public evidence was found for LGBT / gender / parental rights after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 3,
+      "title": "Education / curriculum / schools",
+      "summary": "Education / curriculum / schools: 1 selected evidence items from 1 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-noah-taylor-00137",
+          "classification": "documented-record",
+          "text": "Education: Not specified in available sources",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l541"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:541",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 1,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 4,
+      "title": "Religious liberty / church / civic morality",
+      "summary": "Religious liberty / church / civic morality: 4 selected evidence items from 4 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-noah-taylor-00013",
+          "classification": "social-online-signal",
+          "text": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-in-their-own-words-md-l20",
+            "mem-memory-candidates-noah-taylor-raw-dump-v2-md-l20",
+            "mem-memory-candidates-noah-taylor-sleuth-pass-md-l20",
+            "mem-memory-candidates-noah-taylor-social-harvest-md-l20"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/social-harvest.md:20",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00063",
+          "classification": "faith-community-record",
+          "text": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-v2-issues-yaml-l58",
+            "mem-ui-src-data-v2-noah-taylor-ts-l43"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/v2-issues.yaml:58",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00087",
+          "classification": "faith-community-record",
+          "text": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-v2-issues-yaml-l123"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/v2-issues.yaml:123",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00300",
+          "classification": "faith-community-record",
+          "text": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+          "sourceIds": [
+            "mem-ui-src-data-v2-noah-taylor-ts-l62"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/noah-taylor.ts:62",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-noah-taylor-0001",
+          "evidenceRowId": "em-noah-taylor-00013",
+          "platform": "Public web / internal harvest",
+          "actionType": "follow",
+          "signalStrength": "weak",
+          "observation": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0012",
+          "evidenceRowId": "em-noah-taylor-00063",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0013",
+          "evidenceRowId": "em-noah-taylor-00087",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0014",
+          "evidenceRowId": "em-noah-taylor-00300",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 1,
+        "internalMemory": 3,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 5,
+      "title": "Taxes / spending / debt",
+      "summary": "Taxes / spending / debt: 3 selected evidence items from 3 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-noah-taylor-00268",
+          "classification": "documented-record",
+          "text": "\"U.S. senators vote on judges, war powers, federal spending, farm policy, healthcare, and the national laws that affect Kansas every day. This race shapes who speaks for the entire state in Washington.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l49"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:49",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00270",
+          "classification": "documented-record",
+          "text": "\"A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l51"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:51",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00288",
+          "classification": "documented-record",
+          "text": "\"Your U.S. Representative is the one person in Congress who represents your specific district — not the whole state, just your area. They serve two-year terms, vote on federal laws and spending bills, and are supposed to be your direct voice in Washington on everything from farm policy to highway funding to military spending. If Hays has a federal issue, this is the person whose phone should ring.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l76"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:76",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-noah-taylor-0015",
+          "evidenceRowId": "em-noah-taylor-00270",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 3,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 6,
+      "title": "Economy / jobs / labor",
+      "summary": "Economy / jobs / labor: 4 selected evidence items from 4 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-noah-taylor-00141",
+          "classification": "documented-record",
+          "text": "Small business consultant (runs a consulting company for small businesses in/around Wichita)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l546"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:546",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00157",
+          "classification": "documented-record",
+          "text": "Small business owner gives economic credibility",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l568"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:568",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00196",
+          "classification": "documented-record",
+          "text": "| Noah Taylor | Kechi | Army vet, counterintelligence, business owner | Lower |",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l718"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:718",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00240",
+          "classification": "documented-record",
+          "text": "Individual candidate property/business/court records -- requires deeper public records investigation per candidate",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l777"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:777",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 4,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 7,
+      "title": "Guns / Second Amendment",
+      "summary": "No relevant public evidence was found for Guns / Second Amendment after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 8,
+      "title": "Immigration / border",
+      "summary": "No relevant public evidence was found for Immigration / border after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 9,
+      "title": "Health care / insurance / Medicaid",
+      "summary": "Health care / insurance / Medicaid: 3 selected evidence items from 3 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-noah-taylor-00123",
+          "classification": "documented-record",
+          "text": "Support for Medicaid cuts threatening rural hospitals",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l57"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:57",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00268",
+          "classification": "documented-record",
+          "text": "\"U.S. senators vote on judges, war powers, federal spending, farm policy, healthcare, and the national laws that affect Kansas every day. This race shapes who speaks for the entire state in Washington.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l49"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:49",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00270",
+          "classification": "documented-record",
+          "text": "\"A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l51"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:51",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-noah-taylor-0015",
+          "evidenceRowId": "em-noah-taylor-00270",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 3,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 10,
+      "title": "Election integrity / voting / courts",
+      "summary": "Election integrity / voting / courts: 11 selected evidence items from 131 mapped rows. Public URL-backed rows: 17.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-noah-taylor-00129",
+          "classification": "documented-record",
+          "text": "[KCUR Candidate Guide](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l528"
+          ],
+          "sourceUrl": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:528",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00130",
+          "classification": "documented-record",
+          "text": "[Campaign Website](https://mikeforkansas.my.canva.site/)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l529",
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l589"
+          ],
+          "sourceUrl": "https://mikeforkansas.my.canva.site/",
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:529",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00144",
+          "classification": "documented-record",
+          "text": "Campaign Website: [noahforkansas.com](https://www.noahforkansas.com/)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l551"
+          ],
+          "sourceUrl": "https://www.noahforkansas.com/",
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:551",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00166",
+          "classification": "documented-record",
+          "text": "[KWCH - Taylor Announcement (Mar 2026)](https://www.kwch.com/2026/03/17/kansas-veteran-noah-taylor-announces-campaign-us-senate/)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l588"
+          ],
+          "sourceUrl": "https://www.kwch.com/2026/03/17/kansas-veteran-noah-taylor-announces-campaign-us-senate/",
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:588",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00167",
+          "classification": "documented-record",
+          "text": "[Kansas Reflector - Hart Profile (mentions Taylor)](https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l590"
+          ],
+          "sourceUrl": "https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/",
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:590",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00180",
+          "classification": "documented-record",
+          "text": "[Kansas Reflector - Davids Senate Speculation (Jan 2026)](https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l613"
+          ],
+          "sourceUrl": "https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/",
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:613",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00181",
+          "classification": "documented-record",
+          "text": "[KCUR - Davids Not Ruling It Out (Feb 2026)](https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l614"
+          ],
+          "sourceUrl": "https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out",
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:614",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00205",
+          "classification": "documented-record",
+          "text": "[KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l733"
+          ],
+          "sourceUrl": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:733",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00249",
+          "classification": "donor-organization-signal",
+          "text": "*Next update recommended: After FEC Q1 2026 filing deadline (April 15, 2026).*",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l789"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:789",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00005",
+          "classification": "social-online-signal",
+          "text": "This artifact was created because the candidate-completeness audit found Noah Taylor in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-in-their-own-words-md-l8",
+            "mem-memory-candidates-noah-taylor-raw-dump-v2-md-l8",
+            "mem-memory-candidates-noah-taylor-sleuth-pass-md-l8",
+            "mem-memory-candidates-noah-taylor-social-harvest-md-l8"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/social-harvest.md:8",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00012",
+          "classification": "social-online-signal",
+          "text": "Ballot / filing status: Noah Taylor appears in the reviewed official or campaign-finance records connected to U.S. Senate candidate, Kansas. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the filing deadline.",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-in-their-own-words-md-l19",
+            "mem-memory-candidates-noah-taylor-raw-dump-v2-md-l19",
+            "mem-memory-candidates-noah-taylor-sleuth-pass-md-l19",
+            "mem-memory-candidates-noah-taylor-social-harvest-md-l19"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/social-harvest.md:19",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-noah-taylor-0002",
+          "evidenceRowId": "em-noah-taylor-00005",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "This artifact was created because the candidate-completeness audit found Noah Taylor in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0003",
+          "evidenceRowId": "em-noah-taylor-00012",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Ballot / filing status: Noah Taylor appears in the reviewed official or campaign-finance records connected to U.S. Senate candidate, Kansas. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the filing deadline.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0015",
+          "evidenceRowId": "em-noah-taylor-00270",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0016",
+          "evidenceRowId": "em-noah-taylor-00036",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"recordSummary\": \"The strongest verified record in this pass is federal filing and finance data. No candidate-controlled issue platform was captured.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0017",
+          "evidenceRowId": "em-noah-taylor-00037",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0018",
+          "evidenceRowId": "em-noah-taylor-00065",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0019",
+          "evidenceRowId": "em-noah-taylor-00145",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "Platform / Key Positions:",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0020",
+          "evidenceRowId": "em-noah-taylor-00304",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 17,
+        "social": 2,
+        "internalMemory": 112,
+        "publicUrlRows": 17
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 11,
+      "title": "Public safety / law enforcement / criminal justice",
+      "summary": "Public safety / law enforcement / criminal justice: 8 selected evidence items from 111 mapped rows. Public URL-backed rows: 17.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-noah-taylor-00129",
+          "classification": "documented-record",
+          "text": "[KCUR Candidate Guide](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l528"
+          ],
+          "sourceUrl": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:528",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00130",
+          "classification": "documented-record",
+          "text": "[Campaign Website](https://mikeforkansas.my.canva.site/)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l529",
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l589"
+          ],
+          "sourceUrl": "https://mikeforkansas.my.canva.site/",
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:529",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00144",
+          "classification": "documented-record",
+          "text": "Campaign Website: [noahforkansas.com](https://www.noahforkansas.com/)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l551"
+          ],
+          "sourceUrl": "https://www.noahforkansas.com/",
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:551",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00166",
+          "classification": "documented-record",
+          "text": "[KWCH - Taylor Announcement (Mar 2026)](https://www.kwch.com/2026/03/17/kansas-veteran-noah-taylor-announces-campaign-us-senate/)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l588"
+          ],
+          "sourceUrl": "https://www.kwch.com/2026/03/17/kansas-veteran-noah-taylor-announces-campaign-us-senate/",
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:588",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00167",
+          "classification": "documented-record",
+          "text": "[Kansas Reflector - Hart Profile (mentions Taylor)](https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l590"
+          ],
+          "sourceUrl": "https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/",
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:590",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00180",
+          "classification": "documented-record",
+          "text": "[Kansas Reflector - Davids Senate Speculation (Jan 2026)](https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l613"
+          ],
+          "sourceUrl": "https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/",
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:613",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00181",
+          "classification": "documented-record",
+          "text": "[KCUR - Davids Not Ruling It Out (Feb 2026)](https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l614"
+          ],
+          "sourceUrl": "https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out",
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:614",
+          "confidence": "likely",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00205",
+          "classification": "documented-record",
+          "text": "[KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l733"
+          ],
+          "sourceUrl": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:733",
+          "confidence": "likely",
+          "useDecision": "use"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-noah-taylor-0015",
+          "evidenceRowId": "em-noah-taylor-00270",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0019",
+          "evidenceRowId": "em-noah-taylor-00145",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "Platform / Key Positions:",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 17,
+        "social": 0,
+        "internalMemory": 94,
+        "publicUrlRows": 17
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 12,
+      "title": "Agriculture / rural economy / water",
+      "summary": "Agriculture / rural economy / water: 6 selected evidence items from 6 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-noah-taylor-00123",
+          "classification": "documented-record",
+          "text": "Support for Medicaid cuts threatening rural hospitals",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l57"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:57",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00124",
+          "classification": "documented-record",
+          "text": "Failure to pass Farm Bill cited by multiple challengers",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l58"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:58",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00268",
+          "classification": "documented-record",
+          "text": "\"U.S. senators vote on judges, war powers, federal spending, farm policy, healthcare, and the national laws that affect Kansas every day. This race shapes who speaks for the entire state in Washington.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l49"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:49",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00270",
+          "classification": "documented-record",
+          "text": "\"A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l51"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:51",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00288",
+          "classification": "documented-record",
+          "text": "\"Your U.S. Representative is the one person in Congress who represents your specific district — not the whole state, just your area. They serve two-year terms, vote on federal laws and spending bills, and are supposed to be your direct voice in Washington on everything from farm policy to highway funding to military spending. If Hays has a federal issue, this is the person whose phone should ring.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l76"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:76",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00287",
+          "classification": "background-context",
+          "text": "\"The KS-01 member of Congress becomes the main federal voice for agriculture, water, roads, trade, and rural infrastructure across a huge stretch of Kansas.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l74"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:74",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-noah-taylor-0015",
+          "evidenceRowId": "em-noah-taylor-00270",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 6,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 13,
+      "title": "Local governance / transparency / ethics",
+      "summary": "Local governance / transparency / ethics: 18 selected evidence items from 45 mapped rows. Public URL-backed rows: 2.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-noah-taylor-00033",
+          "classification": "documented-record",
+          "text": "\"incumbent\": false,",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-v2-issues-yaml-l11",
+            "mem-ui-src-data-v2-noah-taylor-ts-l15"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/v2-issues.yaml:11",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00034",
+          "classification": "documented-record",
+          "text": "\"occupation\": \"U.S. Senate candidate\",",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-v2-issues-yaml-l12",
+            "mem-ui-src-data-v2-noah-taylor-ts-l16"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/v2-issues.yaml:12",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00036",
+          "classification": "documented-record",
+          "text": "\"recordSummary\": \"The strongest verified record in this pass is federal filing and finance data. No candidate-controlled issue platform was captured.\",",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-v2-issues-yaml-l14",
+            "mem-ui-src-data-v2-noah-taylor-ts-l94"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/v2-issues.yaml:14",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00037",
+          "classification": "documented-record",
+          "text": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-v2-issues-yaml-l15"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/v2-issues.yaml:15",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00040",
+          "classification": "documented-record",
+          "text": "\"publisher\": \"Federal Election Commission\",",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-v2-issues-yaml-l20",
+            "mem-ui-src-data-v2-noah-taylor-ts-l126"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/v2-issues.yaml:20",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00048",
+          "classification": "documented-record",
+          "text": "\"title\": \"TAYLOR, NOAH - Candidate overview\",",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-v2-issues-yaml-l29",
+            "mem-ui-src-data-v2-noah-taylor-ts-l125"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/noah-taylor.ts:125",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00051",
+          "classification": "documented-record",
+          "text": "\"title\": \"Ballot / filing status\",",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-v2-issues-yaml-l35",
+            "mem-ui-src-data-v2-noah-taylor-ts-l20"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/v2-issues.yaml:35",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00053",
+          "classification": "documented-record",
+          "text": "\"text\": \"Noah Taylor appears in the reviewed official or campaign-finance records connected to U.S. Senate candidate, Kansas. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the filing deadline.\",",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-v2-issues-yaml-l37",
+            "mem-ui-src-data-v2-noah-taylor-ts-l22"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/v2-issues.yaml:37",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00047",
+          "classification": "donor-organization-signal",
+          "text": "\"url\": \"https://www.fec.gov/data/candidate/S6KS00296/\",",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-v2-issues-yaml-l28",
+            "mem-ui-src-data-v2-noah-taylor-ts-l124"
+          ],
+          "sourceUrl": "https://www.fec.gov/data/candidate/S6KS00296/",
+          "sourceFile": "memory/candidates/noah-taylor/v2-issues.yaml:28",
+          "confidence": "confirmed",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00208",
+          "classification": "donor-organization-signal",
+          "text": "[FEC - 2026 Kansas Senate](https://www.fec.gov/data/elections/senate/KS/2026/)",
+          "sourceIds": [
+            "mem-reports-2026-kansas-us-senate-race-investigation-md-l736"
+          ],
+          "sourceUrl": "https://www.fec.gov/data/elections/senate/KS/2026/",
+          "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:736",
+          "confidence": "confirmed",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00035",
+          "classification": "donor-organization-signal",
+          "text": "\"whoTheyAre\": \"Noah Taylor is a Democratic U.S. Senate candidate in the FEC record. His candidate page identifies Noah Taylor for Kansas as the principal campaign committee.\",",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-v2-issues-yaml-l13",
+            "mem-ui-src-data-v2-noah-taylor-ts-l93"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/v2-issues.yaml:13",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00042",
+          "classification": "donor-organization-signal",
+          "text": "\"FEC identifies Noah Taylor as a Democratic candidate for Kansas Senate\",",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-v2-issues-yaml-l22",
+            "mem-ui-src-data-v2-noah-taylor-ts-l129"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/v2-issues.yaml:22",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00043",
+          "classification": "donor-organization-signal",
+          "text": "\"FEC lists Noah Taylor for Kansas as the authorized campaign committee\",",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-v2-issues-yaml-l23",
+            "mem-ui-src-data-v2-noah-taylor-ts-l130"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/v2-issues.yaml:23",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00044",
+          "classification": "donor-organization-signal",
+          "text": "\"FEC shows total receipts, disbursements, and cash on hand for coverage through 2026-03-31\"",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-v2-issues-yaml-l24",
+            "mem-ui-src-data-v2-noah-taylor-ts-l131"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/v2-issues.yaml:24",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00005",
+          "classification": "social-online-signal",
+          "text": "This artifact was created because the candidate-completeness audit found Noah Taylor in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-in-their-own-words-md-l8",
+            "mem-memory-candidates-noah-taylor-raw-dump-v2-md-l8",
+            "mem-memory-candidates-noah-taylor-sleuth-pass-md-l8",
+            "mem-memory-candidates-noah-taylor-social-harvest-md-l8"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/social-harvest.md:8",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00012",
+          "classification": "social-online-signal",
+          "text": "Ballot / filing status: Noah Taylor appears in the reviewed official or campaign-finance records connected to U.S. Senate candidate, Kansas. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the filing deadline.",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-in-their-own-words-md-l19",
+            "mem-memory-candidates-noah-taylor-raw-dump-v2-md-l19",
+            "mem-memory-candidates-noah-taylor-sleuth-pass-md-l19",
+            "mem-memory-candidates-noah-taylor-social-harvest-md-l19"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/social-harvest.md:19",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00014",
+          "classification": "social-online-signal",
+          "text": "Donor / funding information: FEC reports a processed 2026 first-quarter finance summary for Noah Taylor for Kansas.",
+          "sourceIds": [
+            "mem-memory-candidates-noah-taylor-in-their-own-words-md-l21",
+            "mem-memory-candidates-noah-taylor-raw-dump-v2-md-l21",
+            "mem-memory-candidates-noah-taylor-sleuth-pass-md-l21",
+            "mem-memory-candidates-noah-taylor-social-harvest-md-l21"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/noah-taylor/social-harvest.md:21",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-noah-taylor-00275",
+          "classification": "background-context",
+          "text": "jurisdiction: \"Kansas 1st Congressional District\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l58"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:58",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-noah-taylor-0002",
+          "evidenceRowId": "em-noah-taylor-00005",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "This artifact was created because the candidate-completeness audit found Noah Taylor in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0003",
+          "evidenceRowId": "em-noah-taylor-00012",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Ballot / filing status: Noah Taylor appears in the reviewed official or campaign-finance records connected to U.S. Senate candidate, Kansas. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the filing deadline.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0004",
+          "evidenceRowId": "em-noah-taylor-00014",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Donor / funding information: FEC reports a processed 2026 first-quarter finance summary for Noah Taylor for Kansas.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0015",
+          "evidenceRowId": "em-noah-taylor-00270",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0016",
+          "evidenceRowId": "em-noah-taylor-00036",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"recordSummary\": \"The strongest verified record in this pass is federal filing and finance data. No candidate-controlled issue platform was captured.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0017",
+          "evidenceRowId": "em-noah-taylor-00037",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0018",
+          "evidenceRowId": "em-noah-taylor-00065",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-noah-taylor-0020",
+          "evidenceRowId": "em-noah-taylor-00304",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 2,
+        "secondary": 0,
+        "social": 3,
+        "internalMemory": 40,
+        "publicUrlRows": 2
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 14,
+      "title": "Environment / energy / land use",
+      "summary": "No relevant public evidence was found for Environment / energy / land use after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    }
+  ]
+}

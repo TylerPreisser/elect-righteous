@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "sandy-spidel-neumann",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/sandy-spidel-neumann/evidence-matrix-raw.json",
+    "memory/candidates/sandy-spidel-neumann/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/sandy-spidel-neumann/evidence-matrix.json",
+    "memory/candidates/sandy-spidel-neumann/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/sandy-spidel-neumann/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/sandy-spidel-neumann/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs sandy-spidel-neumann"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for sandy-spidel-neumann.",
+    "Run source-tier-validator for sandy-spidel-neumann."
+  ],
+  "handoff_summary": "Built final evidence matrix for sandy-spidel-neumann: 10110 raw rows to 3205 deduplicated rows."
+}

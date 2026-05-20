@@ -1,0 +1,395 @@
+{
+  "candidateSlug": "eric-lund",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 8,
+  "sources": [
+    {
+      "sourceId": "src-eric-lund-0001",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW05EL_AT.pdf",
+      "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:37",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-eric-lund-00045"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW05EL_AT.pdf\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-eric-lund-0002",
+      "url": null,
+      "sourceFile": "memory/candidates/eric-lund/social-harvest.md:20",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social follow",
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 16,
+      "rowIds": [
+        "em-eric-lund-00013",
+        "em-eric-lund-00005",
+        "em-eric-lund-00012",
+        "em-eric-lund-00014",
+        "em-eric-lund-00016",
+        "em-eric-lund-00019",
+        "em-eric-lund-00020",
+        "em-eric-lund-00021",
+        "em-eric-lund-00022",
+        "em-eric-lund-00023",
+        "em-eric-lund-00025",
+        "em-eric-lund-00009",
+        "em-eric-lund-00003",
+        "em-eric-lund-00008",
+        "em-eric-lund-00024",
+        "em-eric-lund-00026"
+      ],
+      "claimsAnchored": [
+        "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associa",
+        "This artifact was created because the candidate-completeness audit found Eric Lund in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+        "Ballot / filing status: KPDC lists Eric Lund under State Treasurer candidates, but this pass did not find Lund on the statewide Secretary-of-State filing mirror used for confirmed ballot rows.",
+        "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+        "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+        "Eric Lund - social harvest",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Slug: eric-lund",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-eric-lund-0003",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:166",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 31,
+      "rowIds": [
+        "em-eric-lund-00097",
+        "em-eric-lund-00099",
+        "em-eric-lund-00108",
+        "em-eric-lund-00100",
+        "em-eric-lund-00101",
+        "em-eric-lund-00107",
+        "em-eric-lund-00089",
+        "em-eric-lund-00095",
+        "em-eric-lund-00093",
+        "em-eric-lund-00110",
+        "em-eric-lund-00111",
+        "em-eric-lund-00083",
+        "em-eric-lund-00084",
+        "em-eric-lund-00085",
+        "em-eric-lund-00086",
+        "em-eric-lund-00087",
+        "em-eric-lund-00088",
+        "em-eric-lund-00090",
+        "em-eric-lund-00091",
+        "em-eric-lund-00092",
+        "em-eric-lund-00094",
+        "em-eric-lund-00096",
+        "em-eric-lund-00098",
+        "em-eric-lund-00102",
+        "em-eric-lund-00103",
+        "em-eric-lund-00109",
+        "em-eric-lund-00112",
+        "em-eric-lund-00105",
+        "em-eric-lund-00106",
+        "em-eric-lund-00104",
+        "em-eric-lund-00113"
+      ],
+      "claimsAnchored": [
+        "\"The state treasurer oversees state cash management, debt, public deposits, unclaimed property, and college-savings programs that affect Kansas taxpayers and families.\",",
+        "\"The Kansas State Treasurer manages the state's money functions: cash management, public deposits, debt-related work, unclaimed property, and several public savings programs. The office is less flashy than governor or attorney general, but it affects how publi",
+        "\"The insurance commissioner regulates every insurance company doing business in Kansas. They approve or reject the rates you pay for health, auto, home, and crop insurance, investigate complaints when companies deny claims, and decide whether insurers are trea",
+        "slug: \"kansas-insurance-2026\",",
+        "name: \"Kansas Insurance Commissioner\",",
+        "\"Insurance decisions affect what Kansans pay for health, auto, crop, and home coverage, and whether regulators push back when companies fail consumers.\",",
+        "status: \"Incumbent Running\",",
+        "\"The treasurer race was missing from the site. It now includes the confirmed statewide filing row for incumbent Steven Johnson and the KPDC account record for Eric Lund, with final ballot status still subject to official post-deadline verification.\",",
+        "\"Steven Johnson is listed as a filed Republican candidate for state treasurer, and Eric Lund appears in the KPDC statewide campaign-finance index for the treasurer race.\",",
+        "name: \"KS House District 111\",",
+        "jurisdiction: \"Kansas House District 111\",",
+        "slug: \"kansas-treasurer-2026\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-eric-lund-0004",
+      "url": null,
+      "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:69",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "donor/funding",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 54,
+      "rowIds": [
+        "em-eric-lund-00065",
+        "em-eric-lund-00081",
+        "em-eric-lund-00033",
+        "em-eric-lund-00034",
+        "em-eric-lund-00035",
+        "em-eric-lund-00036",
+        "em-eric-lund-00037",
+        "em-eric-lund-00052",
+        "em-eric-lund-00054",
+        "em-eric-lund-00067",
+        "em-eric-lund-00070",
+        "em-eric-lund-00078",
+        "em-eric-lund-00080",
+        "em-eric-lund-00082",
+        "em-eric-lund-00040",
+        "em-eric-lund-00042",
+        "em-eric-lund-00047",
+        "em-eric-lund-00056",
+        "em-eric-lund-00057",
+        "em-eric-lund-00061",
+        "em-eric-lund-00069",
+        "em-eric-lund-00072",
+        "em-eric-lund-00075",
+        "em-eric-lund-00007",
+        "em-eric-lund-00027",
+        "em-eric-lund-00028",
+        "em-eric-lund-00029",
+        "em-eric-lund-00030",
+        "em-eric-lund-00031",
+        "em-eric-lund-00032",
+        "em-eric-lund-00038",
+        "em-eric-lund-00039",
+        "em-eric-lund-00041",
+        "em-eric-lund-00044",
+        "em-eric-lund-00053",
+        "em-eric-lund-00058",
+        "em-eric-lund-00060",
+        "em-eric-lund-00064",
+        "em-eric-lund-00073",
+        "em-eric-lund-00074",
+        "em-eric-lund-00076",
+        "em-eric-lund-00077",
+        "em-eric-lund-00079",
+        "em-eric-lund-00051",
+        "em-eric-lund-00043",
+        "em-eric-lund-00048",
+        "em-eric-lund-00068",
+        "em-eric-lund-00050",
+        "em-eric-lund-00055",
+        "em-eric-lund-00059"
+      ],
+      "claimsAnchored": [
+        "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+        "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+        "\"incumbent\": false,",
+        "\"occupation\": \"State Treasurer candidate / campaign-finance account holder\",",
+        "\"whoTheyAre\": \"Eric Lund appears in the KPDC statewide index under State Treasurer candidates. This pass did not verify a current Secretary of State filing-row entry or a candidate-controlled platform.\",",
+        "\"recordSummary\": \"Treat Lund as a treasurer-race public-record profile until final filing records clarify whether the KPDC account corresponds to a certified ballot candidate.\",",
+        "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+        "\"title\": \"Ballot / filing status\",",
+        "\"text\": \"KPDC lists Eric Lund under State Treasurer candidates, but this pass did not find Lund on the statewide Secretary-of-State filing mirror used for confirmed ballot rows.\",",
+        "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+        "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+        "\"source\": \"Kansas State Wide Office - 2026 Election Cycle\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-eric-lund-0005",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/eric-lund.ts:66",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "donor/funding",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 24,
+      "rowIds": [
+        "em-eric-lund-00122",
+        "em-eric-lund-00046",
+        "em-eric-lund-00125",
+        "em-eric-lund-00128",
+        "em-eric-lund-00126",
+        "em-eric-lund-00049",
+        "em-eric-lund-00114",
+        "em-eric-lund-00115",
+        "em-eric-lund-00116",
+        "em-eric-lund-00117",
+        "em-eric-lund-00118",
+        "em-eric-lund-00119",
+        "em-eric-lund-00121",
+        "em-eric-lund-00123",
+        "em-eric-lund-00124",
+        "em-eric-lund-00127",
+        "em-eric-lund-00129",
+        "em-eric-lund-00130",
+        "em-eric-lund-00131",
+        "em-eric-lund-00132",
+        "em-eric-lund-00133",
+        "em-eric-lund-00134",
+        "em-eric-lund-00135",
+        "em-eric-lund-00120"
+      ],
+      "claimsAnchored": [
+        "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comm",
+        "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+        "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+        "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+        "\"mappedToIssueId\": \"i-donor-funding\"",
+        "\"title\": \"Eric S. Lund Appointment of Treasurer\",",
+        "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+        "To refresh:",
+        "node scripts/hydrate-v2-social-signals.mjs",
+        "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+        "import { validateCandidateV2 } from \"@/data/types-v2\";",
+        "export const ERIC_LUND_V2: CandidateFullV2 = {"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-eric-lund-0006",
+      "url": null,
+      "sourceFile": "memory/candidates/eric-lund/in-their-own-words.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-eric-lund-00001",
+        "em-eric-lund-00002",
+        "em-eric-lund-00004",
+        "em-eric-lund-00006",
+        "em-eric-lund-00011",
+        "em-eric-lund-00010",
+        "em-eric-lund-00015"
+      ],
+      "claimsAnchored": [
+        "Eric Lund - in their own words",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-eric-lund-0007",
+      "url": null,
+      "sourceFile": "memory/candidates/eric-lund/raw-dump-v2.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-eric-lund-00017"
+      ],
+      "claimsAnchored": [
+        "Eric Lund - raw dump v2"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-eric-lund-0008",
+      "url": null,
+      "sourceFile": "memory/candidates/eric-lund/sleuth-pass.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-eric-lund-00018"
+      ],
+      "claimsAnchored": [
+        "Eric Lund - sleuth pass"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    }
+  ]
+}

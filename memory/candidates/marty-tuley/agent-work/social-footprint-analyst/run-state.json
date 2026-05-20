@@ -1,0 +1,31 @@
+{
+  "agent_id": "social-footprint-analyst",
+  "agent_role": "Social media intelligence analyst",
+  "candidate_slug": "marty-tuley",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/marty-tuley/social-harvest.md",
+    "memory/candidates/marty-tuley/evidence-matrix.json",
+    "memory/candidates/marty-tuley/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/marty-tuley/social-evidence-matrix.json",
+    "memory/candidates/marty-tuley/social-analysis.md",
+    "memory/candidates/marty-tuley/agent-work/social-footprint-analyst/run-state.json",
+    "memory/candidates/marty-tuley/agent-work/social-footprint-analyst/notes.md",
+    "memory/candidates/marty-tuley/agent-work/social-footprint-analyst/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs marty-tuley"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run source-tier-validator for marty-tuley.",
+    "Run fixed-issue-matrix-builder for marty-tuley after source validation."
+  ],
+  "handoff_summary": "Classified 274 social/online observations for marty-tuley."
+}

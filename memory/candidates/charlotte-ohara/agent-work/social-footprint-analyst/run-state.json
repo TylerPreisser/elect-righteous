@@ -1,0 +1,31 @@
+{
+  "agent_id": "social-footprint-analyst",
+  "agent_role": "Social media intelligence analyst",
+  "candidate_slug": "charlotte-ohara",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/charlotte-ohara/social-harvest.md",
+    "memory/candidates/charlotte-ohara/evidence-matrix.json",
+    "memory/candidates/charlotte-ohara/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/charlotte-ohara/social-evidence-matrix.json",
+    "memory/candidates/charlotte-ohara/social-analysis.md",
+    "memory/candidates/charlotte-ohara/agent-work/social-footprint-analyst/run-state.json",
+    "memory/candidates/charlotte-ohara/agent-work/social-footprint-analyst/notes.md",
+    "memory/candidates/charlotte-ohara/agent-work/social-footprint-analyst/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs charlotte-ohara"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run source-tier-validator for charlotte-ohara.",
+    "Run fixed-issue-matrix-builder for charlotte-ohara after source validation."
+  ],
+  "handoff_summary": "Classified 161 social/online observations for charlotte-ohara."
+}

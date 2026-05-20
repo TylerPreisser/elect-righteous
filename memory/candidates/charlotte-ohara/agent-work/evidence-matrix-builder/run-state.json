@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "charlotte-ohara",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/charlotte-ohara/evidence-matrix-raw.json",
+    "memory/candidates/charlotte-ohara/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/charlotte-ohara/evidence-matrix.json",
+    "memory/candidates/charlotte-ohara/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/charlotte-ohara/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/charlotte-ohara/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs charlotte-ohara"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for charlotte-ohara.",
+    "Run source-tier-validator for charlotte-ohara."
+  ],
+  "handoff_summary": "Built final evidence matrix for charlotte-ohara: 4139 raw rows to 1525 deduplicated rows."
+}

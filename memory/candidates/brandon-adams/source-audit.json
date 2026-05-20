@@ -1,0 +1,407 @@
+{
+  "candidateSlug": "brandon-adams",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 8,
+  "sources": [
+    {
+      "sourceId": "src-brandon-adams-0001",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01BA_AT.pdf",
+      "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:37",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-brandon-adams-00045"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01BA_AT.pdf\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-brandon-adams-0002",
+      "url": null,
+      "sourceFile": "memory/candidates/brandon-adams/social-harvest.md:20",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social follow",
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 16,
+      "rowIds": [
+        "em-brandon-adams-00013",
+        "em-brandon-adams-00005",
+        "em-brandon-adams-00012",
+        "em-brandon-adams-00014",
+        "em-brandon-adams-00016",
+        "em-brandon-adams-00019",
+        "em-brandon-adams-00020",
+        "em-brandon-adams-00021",
+        "em-brandon-adams-00022",
+        "em-brandon-adams-00023",
+        "em-brandon-adams-00025",
+        "em-brandon-adams-00009",
+        "em-brandon-adams-00003",
+        "em-brandon-adams-00008",
+        "em-brandon-adams-00024",
+        "em-brandon-adams-00026"
+      ],
+      "claimsAnchored": [
+        "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associa",
+        "This artifact was created because the candidate-completeness audit found Brandon Adams in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+        "Ballot / filing status: KPDC lists Brandon Adams under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+        "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+        "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+        "Brandon Adams - social harvest",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Slug: brandon-adams",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-brandon-adams-0003",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:109",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "donor/funding",
+        "legal/court",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 39,
+      "rowIds": [
+        "em-brandon-adams-00106",
+        "em-brandon-adams-00108",
+        "em-brandon-adams-00102",
+        "em-brandon-adams-00104",
+        "em-brandon-adams-00115",
+        "em-brandon-adams-00120",
+        "em-brandon-adams-00121",
+        "em-brandon-adams-00083",
+        "em-brandon-adams-00084",
+        "em-brandon-adams-00085",
+        "em-brandon-adams-00091",
+        "em-brandon-adams-00093",
+        "em-brandon-adams-00101",
+        "em-brandon-adams-00103",
+        "em-brandon-adams-00105",
+        "em-brandon-adams-00107",
+        "em-brandon-adams-00109",
+        "em-brandon-adams-00110",
+        "em-brandon-adams-00111",
+        "em-brandon-adams-00112",
+        "em-brandon-adams-00113",
+        "em-brandon-adams-00114",
+        "em-brandon-adams-00116",
+        "em-brandon-adams-00119",
+        "em-brandon-adams-00086",
+        "em-brandon-adams-00087",
+        "em-brandon-adams-00088",
+        "em-brandon-adams-00089",
+        "em-brandon-adams-00090",
+        "em-brandon-adams-00092",
+        "em-brandon-adams-00094",
+        "em-brandon-adams-00095",
+        "em-brandon-adams-00096",
+        "em-brandon-adams-00097",
+        "em-brandon-adams-00098",
+        "em-brandon-adams-00099",
+        "em-brandon-adams-00100",
+        "em-brandon-adams-00117",
+        "em-brandon-adams-00118"
+      ],
+      "claimsAnchored": [
+        "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+        "\"The governor is the boss of Kansas state government. They sign or veto every law the legislature passes, write the state budget, appoint the heads of state agencies, and set the direction on taxes, schools, roads, and healthcare. When there's a disaster, a cr",
+        "\"With Laura Kelly term-limited, both parties and multiple campaign-account holders are building a large field for one of the most important open-seat races in Kansas politics.\",",
+        "\"Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.\",",
+        "status: \"Incumbent Running\",",
+        "\"This office decides which lawsuits Kansas joins, which criminal or civil fights get statewide attention, and how aggressively state law is enforced in court.\",",
+        "\"The attorney general is Kansas's top lawyer. They decide which lawsuits the state files or joins, prosecute major crimes that cross county lines, protect consumers from scams, and defend or challenge state laws in court. If a company rips off Kansans, if ther",
+        "status: \"Open Seat\",",
+        "candidateCount: 15,",
+        "candidateSlugs: [",
+        "\"charlotte-ohara\",",
+        "\"brandon-adams\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-brandon-adams-0004",
+      "url": null,
+      "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:69",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "donor/funding",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 54,
+      "rowIds": [
+        "em-brandon-adams-00065",
+        "em-brandon-adams-00081",
+        "em-brandon-adams-00033",
+        "em-brandon-adams-00034",
+        "em-brandon-adams-00035",
+        "em-brandon-adams-00036",
+        "em-brandon-adams-00037",
+        "em-brandon-adams-00052",
+        "em-brandon-adams-00054",
+        "em-brandon-adams-00061",
+        "em-brandon-adams-00067",
+        "em-brandon-adams-00070",
+        "em-brandon-adams-00078",
+        "em-brandon-adams-00080",
+        "em-brandon-adams-00082",
+        "em-brandon-adams-00040",
+        "em-brandon-adams-00042",
+        "em-brandon-adams-00047",
+        "em-brandon-adams-00056",
+        "em-brandon-adams-00057",
+        "em-brandon-adams-00069",
+        "em-brandon-adams-00072",
+        "em-brandon-adams-00075",
+        "em-brandon-adams-00007",
+        "em-brandon-adams-00027",
+        "em-brandon-adams-00028",
+        "em-brandon-adams-00029",
+        "em-brandon-adams-00030",
+        "em-brandon-adams-00031",
+        "em-brandon-adams-00032",
+        "em-brandon-adams-00038",
+        "em-brandon-adams-00039",
+        "em-brandon-adams-00041",
+        "em-brandon-adams-00044",
+        "em-brandon-adams-00053",
+        "em-brandon-adams-00058",
+        "em-brandon-adams-00060",
+        "em-brandon-adams-00064",
+        "em-brandon-adams-00073",
+        "em-brandon-adams-00074",
+        "em-brandon-adams-00076",
+        "em-brandon-adams-00077",
+        "em-brandon-adams-00079",
+        "em-brandon-adams-00051",
+        "em-brandon-adams-00043",
+        "em-brandon-adams-00048",
+        "em-brandon-adams-00068",
+        "em-brandon-adams-00050",
+        "em-brandon-adams-00055",
+        "em-brandon-adams-00059"
+      ],
+      "claimsAnchored": [
+        "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+        "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+        "\"incumbent\": false,",
+        "\"occupation\": \"Governor candidate / campaign-finance account holder\",",
+        "\"whoTheyAre\": \"Brandon Adams appears in KPDC's 2026 statewide campaign-finance index under gubernatorial candidates. Party and final ballot status were not confirmed in the reviewed filing mirror.\",",
+        "\"recordSummary\": \"This profile exists so the site does not miss a public campaign-finance account connected to the governor race. It should remain clearly marked as finance-account confirmed, not final-ballot confirmed.\",",
+        "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+        "\"title\": \"Ballot / filing status\",",
+        "\"text\": \"KPDC lists Brandon Adams under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+        "\"body\": \"Brandon Adams was identified in the reviewed official or campaign-finance source for Kansas Governor campaign-finance account holder.\",",
+        "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+        "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-brandon-adams-0005",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/brandon-adams.ts:77",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "donor/funding",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 26,
+      "rowIds": [
+        "em-brandon-adams-00133",
+        "em-brandon-adams-00046",
+        "em-brandon-adams-00130",
+        "em-brandon-adams-00132",
+        "em-brandon-adams-00135",
+        "em-brandon-adams-00138",
+        "em-brandon-adams-00136",
+        "em-brandon-adams-00049",
+        "em-brandon-adams-00122",
+        "em-brandon-adams-00123",
+        "em-brandon-adams-00124",
+        "em-brandon-adams-00125",
+        "em-brandon-adams-00126",
+        "em-brandon-adams-00127",
+        "em-brandon-adams-00129",
+        "em-brandon-adams-00131",
+        "em-brandon-adams-00134",
+        "em-brandon-adams-00137",
+        "em-brandon-adams-00139",
+        "em-brandon-adams-00140",
+        "em-brandon-adams-00141",
+        "em-brandon-adams-00142",
+        "em-brandon-adams-00143",
+        "em-brandon-adams-00144",
+        "em-brandon-adams-00145",
+        "em-brandon-adams-00128"
+      ],
+      "claimsAnchored": [
+        "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comm",
+        "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+        "\"observation\": \"Ballot / filing status: KPDC lists Brandon Adams under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+        "\"mappedToIssueId\": \"i-ballot-status\"",
+        "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+        "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+        "\"mappedToIssueId\": \"i-donor-funding\"",
+        "\"title\": \"Brandon Adams Appointment of Treasurer\",",
+        "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+        "To refresh:",
+        "node scripts/hydrate-v2-social-signals.mjs",
+        "import type { CandidateFullV2 } from \"@/data/types-v2\";"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-brandon-adams-0006",
+      "url": null,
+      "sourceFile": "memory/candidates/brandon-adams/in-their-own-words.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-brandon-adams-00001",
+        "em-brandon-adams-00002",
+        "em-brandon-adams-00004",
+        "em-brandon-adams-00006",
+        "em-brandon-adams-00011",
+        "em-brandon-adams-00010",
+        "em-brandon-adams-00015"
+      ],
+      "claimsAnchored": [
+        "Brandon Adams - in their own words",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-brandon-adams-0007",
+      "url": null,
+      "sourceFile": "memory/candidates/brandon-adams/raw-dump-v2.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-brandon-adams-00017"
+      ],
+      "claimsAnchored": [
+        "Brandon Adams - raw dump v2"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-brandon-adams-0008",
+      "url": null,
+      "sourceFile": "memory/candidates/brandon-adams/sleuth-pass.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-brandon-adams-00018"
+      ],
+      "claimsAnchored": [
+        "Brandon Adams - sleuth pass"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    }
+  ]
+}

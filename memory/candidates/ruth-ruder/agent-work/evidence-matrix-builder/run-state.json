@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "ruth-ruder",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/ruth-ruder/evidence-matrix-raw.json",
+    "memory/candidates/ruth-ruder/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/ruth-ruder/evidence-matrix.json",
+    "memory/candidates/ruth-ruder/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/ruth-ruder/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/ruth-ruder/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs ruth-ruder"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for ruth-ruder.",
+    "Run source-tier-validator for ruth-ruder."
+  ],
+  "handoff_summary": "Built final evidence matrix for ruth-ruder: 5236 raw rows to 3075 deduplicated rows."
+}

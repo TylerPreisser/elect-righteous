@@ -1,0 +1,1612 @@
+# Fixed 14-Issue Matrix — anne-parelkar — 2026-05-20
+
+This matrix is built from `evidence-matrix.json`, `social-evidence-matrix.json`, and `source-audit.json`. It is a candidate-rebuild input, not final public prose.
+
+## 1. Abortion / life
+
+Abortion / life: 26 selected evidence items from 61 mapped rows. Public URL-backed rows: 2.
+
+### Evidence
+- **candidate-stated** [em-anne-parelkar-01753] Opposes taxpayer funding of abortion providers
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2505
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01755] Has said he opposes abortion including in cases of rape and incest
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2507
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-02914] Abortion / Sanctity of Life: Runs as a Democrat. The Kansas Democratic Party platform supports reproductive freedom and access to abortion. No specific personal statement found in public sources. on abortion in the source material reviewed.
+  - Source: memory/candidates/anne-parelkar/site-profile.md:15
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00032] | s-campaign-healthcare | primary | https://www.anneforkansas.com/healthcare | accessed 2026-05-19 | Child health coverage, universal-care path, surprise billing, price transparency, prevention, reproductive care | healthcare, abortion/reproductive care |
+  - Source: https://www.anneforkansas.com/healthcare
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00604] Changed from pro-life to pro-choice after "Kansans voted for bodily autonomy" in the 2022 abortion referendum
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:504
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00618] Key Quote: His website says he changed his mind on abortion after "Kansans voted for bodily autonomy." (KCUR)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:524
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-01016] Kansas is not as red as it looks on paper. The 2022 abortion referendum (Value Them Both Amendment) was defeated 59%-41%, proving that Kansas voters will cross party lines on specific issues. Gov. Laura Kelly, a Democrat, won two terms. The question is whether any of these Democrats can replicate that crossover appeal at the federal level.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1181
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-01246] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:472
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-01281] Weaknesses: The SB 360 debacle is a gift to his opponent. Being overruled 104-17 by your own caucus is humiliating. The "Pro-Trump" branding may help in a primary but could limit crossover appeal in a general election -- especially after the 2022 abortion referendum showed Kansas voters will cross party lines. The term-limit motivation for running (he's being forced out as Speaker) makes this look like a fallback rather than a calling.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1689
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-01415] 1. The Abortion Ruling (2019): The Kansas Supreme Court ruled 6-1 that the Kansas Constitution protects a right to "personal autonomy," including the right to decide whether to continue a pregnancy. This made Kansas one of the strongest states for abortion rights -- decided by appointed justices, not elected ones.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1903
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-01418] Kansas Reflector explicitly headlined their coverage: "Kansas Senate adopts plan to elect Supreme Court justices, a step toward overturning abortion rights."
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1909
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-02214] [National Pro-Life Scorecard](https://sbaprolife.org/senator/roger-marshall)
+  - Source: https://sbaprolife.org/senator/roger-marshall
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-anne-parelkar-00703] Five candidates spoke to 150+ attendees: Hart, Davis, Spidel Neumann, Parelkar, Murray. This was the first major joint appearance. Issues raised: education, immigration, healthcare, tariffs, reproductive rights.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-01745] Pro-life scorecard: 100% -- Voted pro-life on every single recorded vote (20/20 as House member, continued in Senate)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2497
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-01746] National Pro-Life Scorecard (SBA Pro-Life America): Perfect score
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2498
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-02182] Very few vulnerabilities from the right; Heritage Action 89-94%, pro-life 100%, NRA-aligned, Trump-endorsed
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3098
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-anne-parelkar-01710] His pro-life stance is directly connected to his faith and his experience delivering 5,000+ babies
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2446
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-anne-parelkar-01731] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2476
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-anne-parelkar-02037] "Tonight, we must still go to bed with faith and hope, for tomorrow we must be as dedicated to the sanctity of life." (After Value Them Both defeat)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2895
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-anne-parelkar-02462] Adoption: Given up for adoption at birth into a "right wing, fundamentalist, Roman Catholic family" (pre-Roe v. Wade)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3580
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00160] Issue Area 2 - Healthcare, Children, and Reproductive Care
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:223
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00167] Invest in prevention, healthy lifestyles, reproductive care, early care, family support, and long-term condition management.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:235
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00459] Protecting reproductive freedom
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:251
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00615] Former Republican who called himself "conservative" and "pro-life" as recently as 2019 -- position shifts invite scrutiny
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:520
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00620] Ideological inconsistency (conservative pro-life Republican in 2019, now running as a Democrat)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:530
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-01106] Reproductive freedom
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1335
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0289] *"In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0290] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0291] Abortion / Sanctity of Life: Runs as a Democrat. The Kansas Democratic Party platform supports reproductive freedom and access to abortion. No specific personal statement found in public sources. on abortion in the source material reviewed.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 2. LGBT / gender / parental rights
+
+LGBT / gender / parental rights: 20 selected evidence items from 31 mapped rows. Public URL-backed rows: 2.
+
+### Evidence
+- **candidate-stated** [em-anne-parelkar-02482] LGBTQ+ rights champion: Supports the Equality Act and the Respect for Marriage Act
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3605
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-02915] Marriage & Family / LGBTQ+ Policy: Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources.
+  - Source: memory/candidates/anne-parelkar/site-profile.md:17
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-02919] School Choice / Parental Rights in Education: Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources.
+  - Source: memory/candidates/anne-parelkar/site-profile.md:25
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00238] Gap: No candidate-controlled marriage-specific plank or detailed federal LGBTQ legislation position was found in the campaign issue pages reviewed.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:373
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-01574] Why this matters: The Board of Education has been a battleground over science standards (evolution vs. intelligent design), sex education, school library books, and transgender student policies. In recent years, conservative and moderate factions have fought for control. The 2026 elections could shift the balance of power on the board.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2251
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-03037] LGBTQ policy: Bluesky posts on 2026-03-31 address trans Kansans and Transgender Day of Visibility. No marriage-specific plank was found in candidate-controlled issue pages.
+  - Source: memory/candidates/anne-parelkar/sleuth-pass.md:46
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-03550] "text": "The reviewed campaign issue pages did not include a marriage-specific plank, but Parelkar made candidate-controlled public posts on March 31, 2026 supporting trans Kansans and marking Transgender Day of Visibility.",
+  - Source: ui/src/data/v2/anne-parelkar.ts:372
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-03926] "observation": "Approximate Bluesky topic distribution among the 51 cataloged originals: local outreach and public access — 22 posts (43%); government accountability, unity, campaign finance, and party independence — 10 posts (20%); health care, labor, child care, consumer costs, agriculture, and veterans — 8 posts (16%); immigration, LGBTQ policy, voting, and civil rights — 6 posts (12%); foreign policy, war, Russia, Iran, and...",
+  - Source: ui/src/data/v2/anne-parelkar.ts:107
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-anne-parelkar-00049] | s-bsky-2026-03-31-trans | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3miep53rkns2n | posted 2026-03-31; accessed 2026-05-19 | Post to trans Kansans | LGBTQ policy |
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3miep53rkns2n
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-00050] | s-bsky-2026-03-31-tdov | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3miep2pwhl52b | posted 2026-03-31; accessed 2026-05-19 | Transgender Day of Visibility post | LGBTQ policy |
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3miep2pwhl52b
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03103] 2026-03-31 — "To all the trans Kansans who are feeling unsafe or afraid in our state right now: I see you, I hear you, and I will fight for you. Always. 🩷🤍🩵 #AnneForKansas"
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:71
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03104] Topic: LGBTQ policy
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:74
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03105] 2026-03-31 — "We celebrate our trans friends every day for who they are. Today we want to emphasize the importance of fostering solidarity, promoting understanding, and continuing to advocate for equality. #TransgenderDayOfVisibility #TDOV"
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:75
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03287] Approximate Bluesky topic distribution among the 51 cataloged originals: local outreach and public access — 22 posts (43%); government accountability, unity, campaign finance, and party independence — 10 posts (20%); health care, labor, child care, consumer costs, agriculture, and veterans — 8 posts (16%); immigration, LGBTQ policy, voting, and civil rights — 6 posts (12%); foreign policy, war, Russia, Iran, and Palestinians — 4 posts (8%); personal faith reference — 1 post (2%). Percentages are rounded.
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:414
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-anne-parelkar-00233] Issue Area 8 - LGBTQ Policy and Civil Rights
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:363
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00236] On March 31, 2026, Parelkar posted directly to trans Kansans saying she saw and heard them and would fight for them. The same day, she posted a Transgender Day of Visibility message about solidarity, understanding, and equality.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:369
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00282] Immigration, LGBTQ policy, voting, and civil rights: 6 posts / 12%.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:457
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00605] Supported the Respect for Marriage Act (2022) -- protections for same-sex marriage
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:505
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-03416] "title": "Post to trans Kansans",
+  - Source: ui/src/data/v2/anne-parelkar.ts:737
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-03417] "Parelkar posted a message of support to trans Kansans on March 31, 2026"
+  - Source: memory/candidates/anne-parelkar/v2-issues.yaml:247
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **strong Bluesky post** [soc-anne-parelkar-0006] | s-bsky-2026-03-31-trans | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3miep53rkns2n | posted 2026-03-31; accessed 2026-05-19 | Post to trans Kansans | LGBTQ policy |
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3miep53rkns2n
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong Bluesky post** [soc-anne-parelkar-0007] | s-bsky-2026-03-31-tdov | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3miep2pwhl52b | posted 2026-03-31; accessed 2026-05-19 | Transgender Day of Visibility post | LGBTQ policy |
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3miep2pwhl52b
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0008] 2026-03-31 — "To all the trans Kansans who are feeling unsafe or afraid in our state right now: I see you, I hear you, and I will fight for you. Always. 🩷🤍🩵 #AnneForKansas"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0009] Topic: LGBTQ policy
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0010] 2026-03-31 — "We celebrate our trans friends every day for who they are. Today we want to emphasize the importance of fostering solidarity, promoting understanding, and continuing to advocate for equality. #TransgenderDayOfVisibility #TDOV"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-anne-parelkar-0011] Approximate Bluesky topic distribution among the 51 cataloged originals: local outreach and public access — 22 posts (43%); government accountability, unity, campaign finance, and party independence — 10 posts (20%); health care, labor, child care, consumer costs, agriculture, and veterans — 8 posts (16%); immigration, LGBTQ policy, voting, and civil rights — 6 posts (12%); foreign policy, war, Russia, Iran, and Palestinians — 4 posts (8%); personal faith reference — 1 post (2%). Percentages are rounded.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0292] Marriage & Family / LGBTQ+ Policy: Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0293] School Choice / Parental Rights in Education: Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-anne-parelkar-0294] LGBTQ policy: Bluesky posts on 2026-03-31 address trans Kansans and Transgender Day of Visibility. No marriage-specific plank was found in candidate-controlled issue pages.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-anne-parelkar-0295] description: "Parelkar posted two Bluesky messages addressing trans Kansans and Transgender Day of Visibility."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 3. Education / curriculum / schools
+
+Education / curriculum / schools: 32 selected evidence items from 134 mapped rows. Public URL-backed rows: 10.
+
+### Evidence
+- **candidate-stated** [em-anne-parelkar-00222] The education page says teachers should be supported, trusted, and treated as professionals. Planks include:
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:346
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-00232] Gap: No detailed parental-rights statement was found beyond opposition to vouchers and support for teacher professional autonomy.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:359
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01082] Said she wants to restore funding for Medicaid, special education and affordable housing programs (KCUR, Dec 30, 2025)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1285
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01931] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2743
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-02919] School Choice / Parental Rights in Education: Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources.
+  - Source: memory/candidates/anne-parelkar/site-profile.md:25
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-03350] "Biography says she attended Lyon College and the William H. Bowen School of Law"
+  - Source: memory/candidates/anne-parelkar/v2-issues.yaml:79
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00036] | s-campaign-education | primary | https://www.anneforkansas.com/education | accessed 2026-05-19 | Teacher pay, pensions, vouchers, class size, testing, academic freedom, IDEA | education |
+  - Source: https://www.anneforkansas.com/education
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00865] [Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)
+  - Source: https://www.usd489.com/page/board-of-education
+  - Confidence/use: confirmed / use
+- **documented-record** [em-anne-parelkar-00930] [Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)
+  - Source: https://www.haysusa.com/335/Public-Library-Board
+  - Confidence/use: confirmed / use
+- **documented-record** [em-anne-parelkar-01641] [Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-01642] [Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)
+  - Source: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+  - Confidence/use: confirmed / use
+- **documented-record** [em-anne-parelkar-01643] [Kansas Reflector: Board races could shift power to conservative bloc](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)
+  - Source: https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00488] Bachelor's degree, Lyon College, Batesville, Arkansas (2005)
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:293
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00489] Juris Doctor, William H. Bowen School of Law (University of Arkansas at Little Rock) (2011; passed Arkansas Bar Exam same year)
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:294
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-00703] Five candidates spoke to 150+ attendees: Hart, Davis, Spidel Neumann, Parelkar, Murray. This was the first major joint appearance. Issues raised: education, immigration, healthcare, tariffs, reproductive rights.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-01138] Born/Raised: Kansas City, Kansas. Attended Sumner Academy (magnet high school).
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1413
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-02159] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3068
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-02908] Anne Parelkar is an Overland Park immigration attorney running in the 2026 Democratic primary for the U.S. Senate seat held by Roger Marshall. She was born in Pine Bluff, Arkansas, raised in White Hall, and studied at Lyon College before earning her law degree at the University of Arkansas at Little Rock in 2011. She later moved to Kansas through marriage and built a practice focused on immigration law.
+  - Source: memory/candidates/anne-parelkar/site-profile.md:4
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-03783] "whoTheyAre": "Anne Parelkar is an Overland Park immigration attorney running in the 2026 Democratic primary for the U.S. Senate seat held by Roger Marshall. She was born in Pine Bluff, Arkansas, raised in White Hall, and studied at Lyon College before earning her law degree at the University of Arkansas at Little Rock in 2011. She later moved to Kansas through marriage and built a practice focused on immigration law. Parelkar has never held elected office. Her public biography is that of a lawyer and mother of two who says she sees the country's immigration machinery up close and believes Washington is failing both families and employers. In a crowded Democratic field, that professional specialty makes her more distinct than many first-time candidates.",
+  - Source: ui/src/data/candidates.ts:6980
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-anne-parelkar-00008] Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked campaign agriculture plank, but no detailed Farm Bill post. Veterans appear in a Veterans Day post, "Our Veterans served us selflessly. Now it's our turn to serve them" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b)), but the captured feed contains no detailed post about veterans' health care, military housing, or base operations. Parelkar's issue pages address public education, environmental cleanup, local media, health care, immigration, labor, and government reform ([source](https://www.anneforkansas.com/issues)).
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03265] Campaign issue page index lists Labor, Agriculture, Health Care Access, Government Accountability, Public Education, Immigration, and Transparency.
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:382
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03269] Education page says: "Meet the 40 percent IDEA commitment so districts are not forced to cut general education programs to cover legally required services."
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:390
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-anne-parelkar-00030] | s-campaign-about | primary | https://www.anneforkansas.com/about | accessed 2026-05-19 | Biography, education, residence, bar licensure claims, memberships, childhood church reference | biography, professional, faith |
+  - Source: https://www.anneforkansas.com/about
+  - Confidence/use: likely / use
+- **faith-community-record** [em-anne-parelkar-01289] Education: B.A. in Business Administration, Trevecca Nazarene University (1999) -- *note: Trevecca is a Church of the Nazarene university in Nashville, TN, suggesting a faith background*
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1708
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-anne-parelkar-02121] First Christian Church, Great Bend -- Elder, Deacon, Board Chairman, Sunday School Teacher (25+ years)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3009
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-anne-parelkar-02186] 25+ years of genuine church leadership (elder, deacon, board chair, Sunday school teacher)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3103
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00866] [Ballotpedia: Hays USD 489 Elections](https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections)
+  - Source: https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-00994] | Hays USD 489 | 785-623-2400 | [usd489.com](https://www.usd489.com) |
+  - Source: https://www.usd489.com
+  - Confidence/use: confirmed / use
+- **background-context** [em-anne-parelkar-00132] Graduated from White Hall High School in 2001.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:177
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00133] Attended Lyon College with a history BA, political-science minor, and secondary-education concentration.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:178
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00134] Attended the University of Arkansas at Little Rock William H. Bowen School of Law.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:179
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00220] Issue Area 7 - Education and School Governance
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:340
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **strong Bluesky post** [soc-anne-parelkar-0012] Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked campaign agriculture plank, but no detailed Farm Bill post. Veterans appear in a Veterans Day post, "Our Veterans served us selflessly. Now it's our turn to serve them" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b)), but the captured feed contains no detailed post about veterans' health care, military housing, or base operations. Parelkar's issue pages address public education, environmental cleanup, local media, health care, immigration, labor, and government reform ([source](https://www.anneforkansas.com/issues)).
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0013] Campaign issue page index lists Labor, Agriculture, Health Care Access, Government Accountability, Public Education, Immigration, and Transparency.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0014] Education page says: "Meet the 40 percent IDEA commitment so districts are not forced to cut general education programs to cover legally required services."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0289] *"In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0293] School Choice / Parental Rights in Education: Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0298] Curriculum standards -- what Kansas kids learn in math, science, reading, writing, and social studies (yes, including what gets taught about evolution, history, and sex education)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0299] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 4. Religious liberty / church / civic morality
+
+Religious liberty / church / civic morality: 11 selected evidence items from 86 mapped rows. Public URL-backed rows: 2.
+
+### Evidence
+- **candidate-stated** [em-anne-parelkar-02916] Religious Liberty: Runs as a Democrat. No specific personal statement found in public sources.
+  - Source: memory/candidates/anne-parelkar/site-profile.md:19
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-03802] "whereTheyWorship": "Public sources do not identify a current church affiliation. Parelkar has spoken publicly about being raised Presbyterian in Arkansas, but the source material does not identify a current Kansas congregation.",
+  - Source: ui/src/data/candidates.ts:7032
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-anne-parelkar-00054] | s-bsky-2026-04-06-faith | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3mis3newg5s2h | posted 2026-04-06; accessed 2026-05-19 | Personal faith reference | faith signal |
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mis3newg5s2h
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03094] Thought I'd share this clip from one of our upcoming podcasts where I talk about my faith and a conversation I had recently about that very same message."
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:53
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03095] Topic: Personal / faith reference
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:56
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03287] Approximate Bluesky topic distribution among the 51 cataloged originals: local outreach and public access — 22 posts (43%); government accountability, unity, campaign finance, and party independence — 10 posts (20%); health care, labor, child care, consumer costs, agriculture, and veterans — 8 posts (16%); immigration, LGBTQ policy, voting, and civil rights — 6 posts (12%); foreign policy, war, Russia, Iran, and Palestinians — 4 posts (8%); personal faith reference — 1 post (2%). Percentages are rounded.
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:414
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-anne-parelkar-00030] | s-campaign-about | primary | https://www.anneforkansas.com/about | accessed 2026-05-19 | Biography, education, residence, bar licensure claims, memberships, childhood church reference | biography, professional, faith |
+  - Source: https://www.anneforkansas.com/about
+  - Confidence/use: likely / use
+- **faith-community-record** [em-anne-parelkar-00131] Was a member of First Presbyterian Church of Pine Bluff while growing up.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:176
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-anne-parelkar-00252] Faith / Religious Liberty Signals
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:409
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-anne-parelkar-00254] The campaign about page says Parelkar grew up as a member of First Presbyterian Church of Pine Bluff. On April 6, 2026, she posted a personal Easter/faith reflection and linked it to a clip from a campaign podcast where she said she talked about her faith.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:413
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-03789] "issue": "Religious Liberty",
+  - Source: ui/src/data/candidates.ts:6992
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak Bluesky post** [soc-anne-parelkar-0011] Approximate Bluesky topic distribution among the 51 cataloged originals: local outreach and public access — 22 posts (43%); government accountability, unity, campaign finance, and party independence — 10 posts (20%); health care, labor, child care, consumer costs, agriculture, and veterans — 8 posts (16%); immigration, LGBTQ policy, voting, and civil rights — 6 posts (12%); foreign policy, war, Russia, Iran, and Palestinians — 4 posts (8%); personal faith reference — 1 post (2%). Percentages are rounded.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-anne-parelkar-0015] | s-bsky-2026-04-06-faith | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3mis3newg5s2h | posted 2026-04-06; accessed 2026-05-19 | Personal faith reference | faith signal |
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mis3newg5s2h
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0016] Thought I'd share this clip from one of our upcoming podcasts where I talk about my faith and a conversation I had recently about that very same message."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0017] Topic: Personal / faith reference
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-anne-parelkar-0300] Faith/religious liberty: about page says she grew up in First Presbyterian Church of Pine Bluff; one Bluesky post references Christ's teachings and her faith. No religious-liberty policy plank found.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-anne-parelkar-0301] "text": "The campaign about page says Parelkar grew up in First Presbyterian Church of Pine Bluff, and an April 6, 2026 Bluesky post references Christ's teachings and says she talked about her faith in a podcast clip. No religious-liberty policy plank or current congregation was found in reviewed sources.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 5. Taxes / spending / debt
+
+Taxes / spending / debt: 26 selected evidence items from 62 mapped rows. Public URL-backed rows: 6.
+
+### Evidence
+- **candidate-stated** [em-anne-parelkar-01148] Described the disconnect *"between what capital wants and what community wants"* as his motivation. Said *"politician-created problems"* such as tariffs and tax policies that benefit billionaires *"are tearing apart the fabric of our communities."*
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1426
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01152] Opportunity Zones: Supports federal tax incentive programs for investment in economically distressed areas
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1438
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01809] Said the US is "$34 trillion in debt, paying a trillion dollars on interest alone"
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2567
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01920] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2728
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-02412] Supports Opportunity Zones program (tax incentives for investment in distressed areas)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3486
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00601] Campaign Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (hosted on Canva -- indicates minimal campaign budget/infrastructure)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-01600] [Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)
+  - Source: https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-01601] [PBS Wisconsin: $100M+ spending on 2025 race](https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/)
+  - Source: https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00092] A candidate is not considered filed until the petition or declaration and fee are received.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:110
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00095] U.S. Senator filing fee total is $1,760, or a petition threshold of 1% party for party candidates.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:113
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00422] Property tax reform (top issue in Statehouse; broke with party to support constitutional amendment capping property value increases for tax purposes)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:189
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00526] Supports Opportunity Zones program (tax incentives for economically distressed areas)
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:365
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-01436] FACT 3: Other states that elect judges have seen massive spending. Wisconsin's 2025 Supreme Court race cost $144.5 million for a single seat. Elon Musk alone spent over $25 million on one side. North Carolina elected a conservative court majority, and those new justices immediately reheard and reversed decisions on redistricting and voting rights that had been issued just months earlier.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1951
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-00020] Kansas SOS confirms the filing framework, but not a directly readable candidate-table row in this environment. The SOS candidate-information page says Democratic and Republican candidates run in the primary, national/state candidates file with the Secretary of State, and a candidate is not considered filed until petition/declaration and fee are received. The primary filing deadline is noon Monday, June 1, 2026. The Green Papers says its Kansas 2026 page uses the SOS candidate list and lists Parelkar among the U.S. Senate candidates. Treat her as an active FEC-filed candidate with a campaign and secondary SOS-list readback, while noting that final direct official ballot certification is pending.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:15
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-00118] The FEC itemized receipts endpoint reported 41 itemized receipt records for committee C00913293 in the 2026 two-year period before the public API DEMO_KEY rate limit blocked further queries. A visible itemized receipt example was a $25.00 March 25, 2026 individual contribution from a Kansas donor employed by Quest Diagnostics. The disbursement endpoint reported 23 itemized disbursement records; visible examples included a March 11, 2026 consulting-fee payment of $602.63 to Clear Creek Solutions in Kansas and a Feb. 25, 2026 donation-related disbursement of $606.19.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:149
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-01520] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2138
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-01557] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2223
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-01862] Koch Industries was the biggest overall corporate donor to GOP spending groups ($13.75M total) -- strong Kansas connection
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2647
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-02162] Senate Budget Committee
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3072
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-anne-parelkar-01731] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2476
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-01180] Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-02316] [Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)
+  - Source: https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-02700] [Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)
+  - Source: https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-00178] Rewrite tax, trade, and procurement policies away from global monopolies.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:258
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00249] The local-communities page calls for antitrust/tax/regulatory support for local businesses, simplified federal grants and technical help, revitalization for struggling areas, cooperative grants for local media, and flexibility for towns and counties in federal programs.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:401
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00429] Property tax stance could appeal to rural/suburban voters across party lines
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:199
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0302] The local-communities page calls for antitrust/tax/regulatory support for local businesses, simplified federal grants and technical help, revitalization for struggling areas, cooperative grants for local media, and flexibility for towns and counties in federal programs.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0303] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-anne-parelkar-0304] Foreign policy: campaign issue index includes "Responsible foreign policy, not more forever wars"; Bluesky posts mention Iran, Gaza/Palestinians, Israel weapons funding, and child-care vs. war spending.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-anne-parelkar-0305] "text": "The campaign issue index lists responsible foreign policy and opposition to more forever wars. Parelkar's Bluesky posts include comments on Iran, Gaza/Palestinians, U.S. weapons to Israel, and child-care spending in contrast with war spending.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0306] "A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 6. Economy / jobs / labor
+
+Economy / jobs / labor: 29 selected evidence items from 78 mapped rows. Public URL-backed rows: 8.
+
+### Evidence
+- **candidate-stated** [em-anne-parelkar-00217] The workers page supports the PRO Act, wage-theft enforcement, labor standards for multinational companies, Job Corps/retraining programs, and transportation support for people without reliable access to jobs. The immigration page connects work-visa reform to local wages, domestic recruitment, and critical shortages such as rural healthcare.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:332
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-02262] Small business: Supports reducing costs for working families and small businesses
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3214
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00033] | s-campaign-immigration | primary | https://www.anneforkansas.com/immigration | accessed 2026-05-19 | Border enforcement, processing, lawful pathways, ICE review, work visas | immigration, labor |
+  - Source: https://www.anneforkansas.com/immigration
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00037] | s-campaign-workers | primary | https://www.anneforkansas.com/workers | accessed 2026-05-19 | PRO Act, wage theft, labor standards, Job Corps/retraining, transportation support | labor |
+  - Source: https://www.anneforkansas.com/workers
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00040] | s-campaign-local | primary | https://www.anneforkansas.com/localcommunities | accessed 2026-05-19 | Local business competition, grants, revitalization, local media, local flexibility | local communities |
+  - Source: https://www.anneforkansas.com/localcommunities
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00159] 2026 campaign issue page: candidate-controlled platform calls for enforcement, processing, lawful pathways, ICE review, and work-visa wage protections. Source: s-campaign-immigration.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:219
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00774] Individual candidate property/business/court records -- requires deeper public records investigation per candidate
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:783
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-01089] Retired Ameriprise financial executive with 40 years in business, an economics degree from University of Chicago, and an MBA from Northwestern. The money candidate -- has made 120+ donations to Democratic candidates and organizations. Brings corporate-world gravitas but zero political experience.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1303
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-01248] Associate degree in Business, Hutchison Community College (1981)
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:477
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-01252] 30+ years in the insurance business, specializing in employee benefits
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:482
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-00219] Gap: No union endorsements or labor-scorecard ratings were found.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:336
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-01557] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2223
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-02159] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3068
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-03051] Any campaign PAC endorsements, union endorsements, organizational ratings, or major-party committee expenditures specifically for Parelkar.
+  - Source: memory/candidates/anne-parelkar/sleuth-pass.md:64
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-anne-parelkar-00006] On national and foreign-policy questions, Parelkar posts less often than she posts about campaign events and public access, but the captured feed includes immigration enforcement, voting, Russia, Iran, Gaza, federal labor policy, and the government shutdown. On March 1, 2026, she wrote, "Politicians fight and we the people pay the price. #Trump #Iran" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mfxk5laymk2i)). On November 29, 2025, she posted, "Today is the International Day of Solidarity with the Palestinian People. No child should be bombed, starved, or treated as collateral. Not once, not ever." ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m6rvxtlpms2g)). Her immigration-law posts include a February 17, 2026 note that she joined Women for Kansas to give "a presentation on #immigration law" ([source](https://bsky.app/profile/anneforkansas.b…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mfxk5laymk2i
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-00007] For Kansas-specific policy, Parelkar's feed combines statewide stops with issue planks on agriculture, health care, public schools, local communities, and worker protections. On March 25, 2026, she posted, "Happy #NationalAgDay, everyone. I hear politicians talk a lot about supporting farmers. I say, enough talk. We need action. It's time to break the corporate stranglehold on agriculture and put power back in the hands of family farms." ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c)). Her campaign website's issue page says, "In Washington, Anne will fight for parity pricing, cooperative strength, and a fair marketplace that rewards the people who feed our nation" ([source](https://www.anneforkansas.com/issues)). The campaign's health-care page says, "Guarantee Medicare for all children as the first incremental step toward a universal system that puts f…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-00008] Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked campaign agriculture plank, but no detailed Farm Bill post. Veterans appear in a Veterans Day post, "Our Veterans served us selflessly. Now it's our turn to serve them" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b)), but the captured feed contains no detailed post about veterans' health care, military housing, or base operations. Parelkar's issue pages address public education, environmental cleanup, local media, health care, immigration, labor, and government reform ([source](https://www.anneforkansas.com/issues)).
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03151] 2026-02-25 — "If the state of the union is strong, why are so many Kansas families working harder than ever and still falling behind? #AnneForKansas #StateoftheUnion"
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:168
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03153] Topic: Cost of living
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:171
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03184] 2025-12-13 — "I had the pleasure of meeting Ms. Carole Blackwood, social worker with the KC Indian Center yesterday. We had a great conversation about Native American history and current issues and I look forward to collaborating with her more closely on how we can best work together for the good of us all."
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:242
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03205] Topic: Workers / labor
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:279
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03265] Campaign issue page index lists Labor, Agriculture, Health Care Access, Government Accountability, Public Education, Immigration, and Transparency.
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:382
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-anne-parelkar-01289] Education: B.A. in Business Administration, Trevecca Nazarene University (1999) -- *note: Trevecca is a Church of the Nazarene university in Nashville, TN, suggesting a faith background*
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1708
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00057] | s-kc-star-profile | secondary | https://www.kansascity.com/news/politics-government/article312162551.html | 2025-09-30 update; accessed 2026-05-19 via search snippet | Profile, town hall, cost-of-living concerns, law-practice winddown | biography, cost of living |
+  - Source: https://www.kansascity.com/news/politics-government/article312162551.html
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-02583] [Nex-Tech: Shaun](https://www.nex-tech.com/business/shaun/)
+  - Source: https://www.nex-tech.com/business/shaun/
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-00153] Focus visas on critical shortages such as rural healthcare while preventing replacement of American workers with cheaper labor.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:209
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00215] Issue Area 6 - Labor, Workers, and Economic Mobility
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:326
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00281] Health care, labor, child care, consumer costs, agriculture, and veterans: 8 posts / 16%.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:456
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00346] Career: Business administrator
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1575
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak Bluesky post** [soc-anne-parelkar-0011] Approximate Bluesky topic distribution among the 51 cataloged originals: local outreach and public access — 22 posts (43%); government accountability, unity, campaign finance, and party independence — 10 posts (20%); health care, labor, child care, consumer costs, agriculture, and veterans — 8 posts (16%); immigration, LGBTQ policy, voting, and civil rights — 6 posts (12%); foreign policy, war, Russia, Iran, and Palestinians — 4 posts (8%); personal faith reference — 1 post (2%). Percentages are rounded.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-anne-parelkar-0012] Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked campaign agriculture plank, but no detailed Farm Bill post. Veterans appear in a Veterans Day post, "Our Veterans served us selflessly. Now it's our turn to serve them" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b)), but the captured feed contains no detailed post about veterans' health care, military housing, or base operations. Parelkar's issue pages address public education, environmental cleanup, local media, health care, immigration, labor, and government reform ([source](https://www.anneforkansas.com/issues)).
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0013] Campaign issue page index lists Labor, Agriculture, Health Care Access, Government Accountability, Public Education, Immigration, and Transparency.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-anne-parelkar-0018] On national and foreign-policy questions, Parelkar posts less often than she posts about campaign events and public access, but the captured feed includes immigration enforcement, voting, Russia, Iran, Gaza, federal labor policy, and the government shutdown. On March 1, 2026, she wrote, "Politicians fight and we the people pay the price. #Trump #Iran" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mfxk5laymk2i)). On November 29, 2025, she posted, "Today is the International Day of Solidarity with the Palestinian People. No child should be bombed, starved, or treated as collateral. Not once, not ever." ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m6rvxtlpms2g)). Her immigration-law posts include a February 17, 2026 note that she joined Women for Kansas to give "a presentation on #immigration law" ([source](https://bsky.app/profile/anneforkansas.b…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mfxk5laymk2i
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong Bluesky post** [soc-anne-parelkar-0019] For Kansas-specific policy, Parelkar's feed combines statewide stops with issue planks on agriculture, health care, public schools, local communities, and worker protections. On March 25, 2026, she posted, "Happy #NationalAgDay, everyone. I hear politicians talk a lot about supporting farmers. I say, enough talk. We need action. It's time to break the corporate stranglehold on agriculture and put power back in the hands of family farms." ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c)). Her campaign website's issue page says, "In Washington, Anne will fight for parity pricing, cooperative strength, and a fair marketplace that rewards the people who feed our nation" ([source](https://www.anneforkansas.com/issues)). The campaign's health-care page says, "Guarantee Medicare for all children as the first incremental step toward a universal system that puts f…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0020] 2026-02-25 — "If the state of the union is strong, why are so many Kansas families working harder than ever and still falling behind? #AnneForKansas #StateoftheUnion"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0021] Topic: Cost of living
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0022] 2025-12-13 — "I had the pleasure of meeting Ms. Carole Blackwood, social worker with the KC Indian Center yesterday. We had a great conversation about Native American history and current issues and I look forward to collaborating with her more closely on how we can best work together for the good of us all."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0023] Topic: Workers / labor
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-anne-parelkar-0296] "observation": "Approximate Bluesky topic distribution among the 51 cataloged originals: local outreach and public access — 22 posts (43%); government accountability, unity, campaign finance, and party independence — 10 posts (20%); health care, labor, child care, consumer costs, agriculture, and veterans — 8 posts (16%); immigration, LGBTQ policy, voting, and civil rights — 6 posts (12%); foreign policy, war, Russia, Iran, and...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 7. Guns / Second Amendment
+
+Guns / Second Amendment: 21 selected evidence items from 30 mapped rows. Public URL-backed rows: 1.
+
+### Evidence
+- **documented-record** [em-anne-parelkar-00558] Friendly to the Second Amendment
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:430
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-01246] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:472
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-01757] Gun / Second Amendment Votes
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2510
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-01758] Voted AGAINST the Bipartisan Safer Communities Act (June 2022) -- the gun reform bill that passed after Uvalde
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2511
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-01759] Called red flag laws provisions a "gun-grabbing scheme" that "violate the Second Amendment" and are "begging to be abused"
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2512
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-01761] Introduced pro-2A legislation:
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2514
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-01887] Second Amendment
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2681
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-02179] Gun Vote -- Voted against bipartisan gun safety bill after Uvalde school shooting
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3094
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-02182] Very few vulnerabilities from the right; Heritage Action 89-94%, pro-life 100%, NRA-aligned, Trump-endorsed
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3098
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-anne-parelkar-00008] Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked campaign agriculture plank, but no detailed Farm Bill post. Veterans appear in a Veterans Day post, "Our Veterans served us selflessly. Now it's our turn to serve them" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b)), but the captured feed contains no detailed post about veterans' health care, military housing, or base operations. Parelkar's issue pages address public education, environmental cleanup, local media, health care, immigration, labor, and government reform ([source](https://www.anneforkansas.com/issues)).
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03292] Across the captured period the Bluesky feed contains no standalone posts centered on gun policy.
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:420
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-anne-parelkar-00291] Any candidate-controlled statements on gun policy, marijuana/drug policy, current church membership, or detailed Fort Riley/Ogallala/water policy.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:471
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-anne-parelkar-00571] Self-described as "white, male, Christian, hetero, 2A-friendly, LEO-friendly" -- consciously positions himself as electable in red Kansas
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:447
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-anne-parelkar-00582] Described himself as "white, male, Christian, hetero, 2A-friendly, LEO-friendly, and very clearly anti-pedo" as reasons he's the best Democratic candidate. (Kansas Reflector)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:462
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-anne-parelkar-00697] Hart has explicitly positioned himself as the most electable Democrat ("white, male, Christian, hetero, 2A-friendly, LEO-friendly"). This electability-vs-values tension will define the primary.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:673
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00570] Pro-2A, pro-law enforcement positioning is unusual for a Democrat and could attract crossover voters
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:446
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-01264] Website headline: "PRO-LIFE. PRO-GUN. PRO-TRUMP."
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1661
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-01279] *"PRO-LIFE. PRO-GUN. PRO-TRUMP."* (hawkinsforinsurance.com)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1684
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-01349] | Branding | "Pro-Life. Pro-Gun. Pro-Trump." | Consumer champion; anti-industry |
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1795
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-01763] Fire Arms Safety Act -- tax credit for firearms safety courses or purchasing gun safes
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2516
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-01765] ATF Transparency Act -- speed up application processes for gun owners
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2518
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **strong Bluesky post** [soc-anne-parelkar-0012] Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked campaign agriculture plank, but no detailed Farm Bill post. Veterans appear in a Veterans Day post, "Our Veterans served us selflessly. Now it's our turn to serve them" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b)), but the captured feed contains no detailed post about veterans' health care, military housing, or base operations. Parelkar's issue pages address public education, environmental cleanup, local media, health care, immigration, labor, and government reform ([source](https://www.anneforkansas.com/issues)).
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky post** [soc-anne-parelkar-0024] Across the captured period the Bluesky feed contains no standalone posts centered on gun policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0290] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0310] Guns / Second Amendment: Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-anne-parelkar-0311] Guns and marijuana/drug policy: no candidate-controlled issue plank or standalone Bluesky post found in reviewed materials.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-anne-parelkar-0312] "observation": "Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked campaign agriculture plank, but no detailed Farm Bill post. Veterans appear in a Veterans Day post, \"Our Veterans served us selflessly. Now it's our turn to serve them\" (source), but the captured...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-anne-parelkar-0313] "observation": "Across the captured period the Bluesky feed contains no standalone posts centered on gun policy.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-anne-parelkar-0314] "Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed conta"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 8. Immigration / border
+
+Immigration / border: 34 selected evidence items from 148 mapped rows. Public URL-backed rows: 21.
+
+### Evidence
+- **candidate-stated** [em-anne-parelkar-00154] Kansas Reflector's 2025 profile identifies immigration as both professional and personal context for Parelkar and quotes her describing a major immigration problem in the country. A Feb. 17, 2026 Bluesky post says she joined Women for Kansas to give a presentation on immigration law.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:211
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-00217] The workers page supports the PRO Act, wage-theft enforcement, labor standards for multinational companies, Job Corps/retraining programs, and transportation support for people without reliable access to jobs. The immigration page connects work-visa reform to local wages, domestic recruitment, and critical shortages such as rural healthcare.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:332
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01920] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2728
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01931] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2743
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01949] Platform: Consolidated children's healthcare program (replace Medicaid/CHIP patchwork), stronger antitrust and consumer protection laws, immigration reform
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2767
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-02854] Works on immigration law and has used that expertise as the centerpiece of her platform.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:4179
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-02909] Parelkar has never held elected office. Her public biography is that of a lawyer and mother of two who says she sees the country's immigration machinery up close and believes Washington is failing both families and employers. In a crowded Democratic field, that professional specialty makes her more distinct than many first-time candidates.
+  - Source: memory/candidates/anne-parelkar/site-profile.md:6
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00033] | s-campaign-immigration | primary | https://www.anneforkansas.com/immigration | accessed 2026-05-19 | Border enforcement, processing, lawful pathways, ICE review, work visas | immigration, labor |
+  - Source: https://www.anneforkansas.com/immigration
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00062] | s-aila-profile | secondary | https://ailalawyer.com/english/AttorneyDetail.aspx?A=148708&P=74382 | accessed 2026-05-19 | AILA lawyer directory: Parelkar Immigration Law, bar admissions, case types, AILA member since 2016 | professional |
+  - Source: https://ailalawyer.com/english/AttorneyDetail.aspx?A=148708&P=74382
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00502] [Within Reason with Mike Matson (News Radio KMAN, March 2026)](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)
+  - Source: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00513] [Kansas Reflector - Announcement (Aug 2025)](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00747] [Anne Parelkar Announcement (Aug 25, 2025)](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00755] [KMAN Radio - Anne Parelkar Interview (Mar 2026)](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)
+  - Source: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-01609] [CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)
+  - Source: https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00141] AILA lawyer directory identifies Ms. Anne Lea Parelkar with Parelkar Immigration Law LLC, an Overland Park address, AILA member since 2016, bar admissions in Arkansas, Missouri, and Kansas, and case types including family, general, and naturalization. ImmiRail similarly lists Parelkar Immigration Law LLC, an Overland Park address, Arkansas/Missouri/Kansas bar admission, English language, and family/general/naturalization practice areas. Avvo lists Kansas licensure acquired in 2013, Missouri in 2012, Arkansas in 2011, and says no misconduct found in that directory listing.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:189
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-00703] Five candidates spoke to 150+ attendees: Hart, Davis, Spidel Neumann, Parelkar, Murray. This was the first major joint appearance. Issues raised: education, immigration, healthcare, tariffs, reproductive rights.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-02448] Parelkar is the only immigration attorney in the field, giving her unique professional credibility on an issue that dominates Kansas politics. However, she's not from Kansas -- born and raised in Arkansas, moved to Kansas through marriage. In a field where "5th-generation Kansan" and "6th-generation Kansan" are common descriptors, her transplant status is a weakness. Her children's healthcare consolidation proposal is the most specific policy proposal from any Democratic candidate. The Overland Park base puts her in the same Johnson County lane as Spidel Neumann and Murray.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3555
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-02908] Anne Parelkar is an Overland Park immigration attorney running in the 2026 Democratic primary for the U.S. Senate seat held by Roger Marshall. She was born in Pine Bluff, Arkansas, raised in White Hall, and studied at Lyon College before earning her law degree at the University of Arkansas at Little Rock in 2011. She later moved to Kansas through marriage and built a practice focused on immigration law.
+  - Source: memory/candidates/anne-parelkar/site-profile.md:4
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-03783] "whoTheyAre": "Anne Parelkar is an Overland Park immigration attorney running in the 2026 Democratic primary for the U.S. Senate seat held by Roger Marshall. She was born in Pine Bluff, Arkansas, raised in White Hall, and studied at Lyon College before earning her law degree at the University of Arkansas at Little Rock in 2011. She later moved to Kansas through marriage and built a practice focused on immigration law. Parelkar has never held elected office. Her public biography is that of a lawyer and mother of two who says she sees the country's immigration machinery up close and believes Washington is failing both families and employers. In a crowded Democratic field, that professional specialty makes her more distinct than many first-time candidates.",
+  - Source: ui/src/data/candidates.ts:6980
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-anne-parelkar-00004] Parelkar's public alignment network centers on county Democratic organizations, Kansas civic events, and campaign-controlled media. She tagged the Miami County Democratic Party account in an April 6, 2026 post: "See you tonight, Miami County! 💙 Join us at the @miamicoksdems.org meeting or watch online at miamicoksdems.org" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3miu5xsa5ik22)). She also posted appearances with the Riley County Democratic Party ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mg6vmtz4ek2h)), Saline County Democratic Women, Kansas House candidate Cheri Koochel ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3md22ycezhc2o)), the Kansas Democratic Party candidate forum ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m6ftcfo33o2t)), and Women for Kansas in Lawrence, where she said she gave a p…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3miu5xsa5ik22
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-00006] On national and foreign-policy questions, Parelkar posts less often than she posts about campaign events and public access, but the captured feed includes immigration enforcement, voting, Russia, Iran, Gaza, federal labor policy, and the government shutdown. On March 1, 2026, she wrote, "Politicians fight and we the people pay the price. #Trump #Iran" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mfxk5laymk2i)). On November 29, 2025, she posted, "Today is the International Day of Solidarity with the Palestinian People. No child should be bombed, starved, or treated as collateral. Not once, not ever." ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m6rvxtlpms2g)). Her immigration-law posts include a February 17, 2026 note that she joined Women for Kansas to give "a presentation on #immigration law" ([source](https://bsky.app/profile/anneforkansas.b…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mfxk5laymk2i
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-00008] Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked campaign agriculture plank, but no detailed Farm Bill post. Veterans appear in a Veterans Day post, "Our Veterans served us selflessly. Now it's our turn to serve them" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b)), but the captured feed contains no detailed post about veterans' health care, military housing, or base operations. Parelkar's issue pages address public education, environmental cleanup, local media, health care, immigration, labor, and government reform ([source](https://www.anneforkansas.com/issues)).
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-00053] | s-bsky-2026-02-17-immigration | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3mf37k7cpxc25 | posted 2026-02-17; accessed 2026-05-19 | Women for Kansas immigration-law presentation | immigration, public engagement |
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mf37k7cpxc25
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03155] 2026-02-17 — "Last weekend we took our roundtable tour to #Lawrence! I had a lovely time meeting everyone, and on Saturday morning I joined #WomenForKansas to give a presentation on #immigration law, which is now up on YouTube so please check it out! www.youtube.com/watch?v=6TLY..."
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:176
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03156] Topic: Immigration / local outreach
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:179
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03229] Topic: Immigration / due process
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:321
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03261] 2025-03-20 — "I would say everything in immigration law is case by case,"
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:374
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-anne-parelkar-01731] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2476
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00024] https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-00063] | s-immirail-profile | secondary | https://immirail.com/profile-anne-lea-parelkar | accessed 2026-05-19 | Immigration-law directory: Parelkar Immigration Law, Overland Park, bar admissions | professional |
+  - Source: https://immirail.com/profile-anne-lea-parelkar
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-01360] [Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/) (Aug 25, 2025)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-02449] [Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-02452] [KMAN Radio: Within Reason interview](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)
+  - Source: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-02858] "We have a very big problem with immigration in our country right now." - Kansas Reflector, Aug. 25, 2025, https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/ (immigration)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **weak Bluesky post** [soc-anne-parelkar-0011] Approximate Bluesky topic distribution among the 51 cataloged originals: local outreach and public access — 22 posts (43%); government accountability, unity, campaign finance, and party independence — 10 posts (20%); health care, labor, child care, consumer costs, agriculture, and veterans — 8 posts (16%); immigration, LGBTQ policy, voting, and civil rights — 6 posts (12%); foreign policy, war, Russia, Iran, and Palestinians — 4 posts (8%); personal faith reference — 1 post (2%). Percentages are rounded.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-anne-parelkar-0012] Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked campaign agriculture plank, but no detailed Farm Bill post. Veterans appear in a Veterans Day post, "Our Veterans served us selflessly. Now it's our turn to serve them" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b)), but the captured feed contains no detailed post about veterans' health care, military housing, or base operations. Parelkar's issue pages address public education, environmental cleanup, local media, health care, immigration, labor, and government reform ([source](https://www.anneforkansas.com/issues)).
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0013] Campaign issue page index lists Labor, Agriculture, Health Care Access, Government Accountability, Public Education, Immigration, and Transparency.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-anne-parelkar-0018] On national and foreign-policy questions, Parelkar posts less often than she posts about campaign events and public access, but the captured feed includes immigration enforcement, voting, Russia, Iran, Gaza, federal labor policy, and the government shutdown. On March 1, 2026, she wrote, "Politicians fight and we the people pay the price. #Trump #Iran" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mfxk5laymk2i)). On November 29, 2025, she posted, "Today is the International Day of Solidarity with the Palestinian People. No child should be bombed, starved, or treated as collateral. Not once, not ever." ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m6rvxtlpms2g)). Her immigration-law posts include a February 17, 2026 note that she joined Women for Kansas to give "a presentation on #immigration law" ([source](https://bsky.app/profile/anneforkansas.b…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mfxk5laymk2i
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate Bluesky share/repost** [soc-anne-parelkar-0025] Parelkar's public alignment network centers on county Democratic organizations, Kansas civic events, and campaign-controlled media. She tagged the Miami County Democratic Party account in an April 6, 2026 post: "See you tonight, Miami County! 💙 Join us at the @miamicoksdems.org meeting or watch online at miamicoksdems.org" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3miu5xsa5ik22)). She also posted appearances with the Riley County Democratic Party ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mg6vmtz4ek2h)), Saline County Democratic Women, Kansas House candidate Cheri Koochel ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3md22ycezhc2o)), the Kansas Democratic Party candidate forum ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m6ftcfo33o2t)), and Women for Kansas in Lawrence, where she said she gave a p…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3miu5xsa5ik22
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-anne-parelkar-0026] | s-bsky-2026-02-17-immigration | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3mf37k7cpxc25 | posted 2026-02-17; accessed 2026-05-19 | Women for Kansas immigration-law presentation | immigration, public engagement |
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mf37k7cpxc25
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak YouTube post** [soc-anne-parelkar-0027] 2026-02-17 — "Last weekend we took our roundtable tour to #Lawrence! I had a lovely time meeting everyone, and on Saturday morning I joined #WomenForKansas to give a presentation on #immigration law, which is now up on YouTube so please check it out! www.youtube.com/watch?v=6TLY..."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0028] Topic: Immigration / local outreach
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0029] Topic: Immigration / due process
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0030] 2025-03-20 — "I would say everything in immigration law is case by case,"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 9. Health care / insurance / Medicaid
+
+Health care / insurance / Medicaid: 38 selected evidence items from 200 mapped rows. Public URL-backed rows: 12.
+
+### Evidence
+- **candidate-stated** [em-anne-parelkar-00217] The workers page supports the PRO Act, wage-theft enforcement, labor standards for multinational companies, Job Corps/retraining programs, and transportation support for people without reliable access to jobs. The immigration page connects work-visa reform to local wages, domestic recruitment, and critical shortages such as rural healthcare.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:332
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01082] Said she wants to restore funding for Medicaid, special education and affordable housing programs (KCUR, Dec 30, 2025)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1285
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01333] On her insurance commissioner platform: Focused on *"lowering costs, consumer protection and holding big insurance companies accountable."* (Kansas Reflector, January 2026)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1768
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01788] Has said: "I came to Congress to fix the cost of health care"
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2544
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01789] Called Obamacare a "miserable failure" -- said premiums doubled and average family deductible is $7,000-$9,000
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2545
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01793] Supports health ministry plans and association healthcare plans as alternatives
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2549
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01795] Promised healthcare vote before end of 2025
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2551
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01931] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2743
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00032] | s-campaign-healthcare | primary | https://www.anneforkansas.com/healthcare | accessed 2026-05-19 | Child health coverage, universal-care path, surprise billing, price transparency, prevention, reproductive care | healthcare, abortion/reproductive care |
+  - Source: https://www.anneforkansas.com/healthcare
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-01364] [Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/) (May 13, 2025)
+  - Source: https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-01374] [Ballotpedia: Kansas Insurance Commissioner Election 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-02972] [Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/)
+  - Source: https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00162] The campaign healthcare page says healthcare should be "dependable, available, and built step by step for the people." Planks include:
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:229
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00463] Reversing Medicaid cuts (called the "big abomination of a bill")
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:255
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00477] Key Quote: Called Medicaid cuts "the big abomination of a bill" and said reversing them "would be a good first step because health care is a significant concern in rural Kansas." (Kansas Reflector)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:275
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00489] Juris Doctor, William H. Bowen School of Law (University of Arkansas at Little Rock) (2011; passed Arkansas Bar Exam same year)
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:294
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-00703] Five candidates spoke to 150+ attendees: Hart, Davis, Spidel Neumann, Parelkar, Murray. This was the first major joint appearance. Issues raised: education, immigration, healthcare, tariffs, reproductive rights.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-01273] Ordered SB 360 transferred between the House Insurance Committee and Health Committee four times since February 25, 2026
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1674
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-01346] | Fundraising | ~$384K cash on hand (end of 2025) | Unknown; pledged no insurance industry money |
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1792
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-01520] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2138
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-01858] | Health/medical industry | Sector | Major donor category given his background |
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2642
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-02159] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3068
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-anne-parelkar-00005] Audience response on Parelkar's measurable Bluesky feed is small and concentrated around party independence, health care, and campaign-media clips. Her highest-engagement Parelkar-authored Bluesky post in the captured set was a June 24, 2025 post with 6 likes, 1 repost, 1 reply, and 0 quotes as of May 11, 2026: "Pro Tip: You owe loyalty to no political party or political figure. Not now. Not ever. If your party demands your loyalty, it is antithetical to the values of the USA. We the People, not We the Party, not We the Politicians, not We the Billionaires, not We the Corporations. WE THE PEOPLE." ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3lscxyycowc2a)). Her most-reposted captured post was a November 17, 2025 health-care post with 2 likes, 4 reposts, 0 replies, and 0 quotes as of May 11, 2026: "Don't let Roger Marshall fool you... As a doctor, he knows exactly h…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3lscxyycowc2a
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-00007] For Kansas-specific policy, Parelkar's feed combines statewide stops with issue planks on agriculture, health care, public schools, local communities, and worker protections. On March 25, 2026, she posted, "Happy #NationalAgDay, everyone. I hear politicians talk a lot about supporting farmers. I say, enough talk. We need action. It's time to break the corporate stranglehold on agriculture and put power back in the hands of family farms." ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c)). Her campaign website's issue page says, "In Washington, Anne will fight for parity pricing, cooperative strength, and a fair marketplace that rewards the people who feed our nation" ([source](https://www.anneforkansas.com/issues)). The campaign's health-care page says, "Guarantee Medicare for all children as the first incremental step toward a universal system that puts f…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-00008] Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked campaign agriculture plank, but no detailed Farm Bill post. Veterans appear in a Veterans Day post, "Our Veterans served us selflessly. Now it's our turn to serve them" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b)), but the captured feed contains no detailed post about veterans' health care, military housing, or base operations. Parelkar's issue pages address public education, environmental cleanup, local media, health care, immigration, labor, and government reform ([source](https://www.anneforkansas.com/issues)).
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-00055] | s-bsky-2025-11-17-aca | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3m5uak52jlk2s | posted 2025-11-17; local capture 2026-05-11 | ACA subsidy / shutdown post, most-reposted local harvest item | healthcare |
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3m5uak52jlk2s
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03209] Topic: Health care / incumbent contrast
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:285
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03254] Topic: Health care / ACA subsidies
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:364
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03265] Campaign issue page index lists Labor, Agriculture, Health Care Access, Government Accountability, Public Education, Immigration, and Transparency.
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:382
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03266] Health care page says: "Guarantee Medicare for all children as the first incremental step toward a universal system that puts families ahead of insurance company profits."
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:384
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-anne-parelkar-01731] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2476
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-anne-parelkar-00171] The local 2026-05-11 Bluesky harvest identified a Nov. 17, 2025 ACA subsidy/shutdown post as the most-reposted Parelkar-authored post in the captured set: 2 likes, 4 reposts, 0 replies, 0 quotes at capture. The post criticized Roger Marshall over ACA subsidized healthcare in the shutdown context.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:242
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-01362] [Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker](https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/) (Jan 10, 2026)
+  - Source: https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-01635] [Ballotpedia: Kansas Insurance Commissioner 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-02859] "a single consolidated program" - Kansas Reflector, Aug. 25, 2025, https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/ (children's healthcare)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-02970] [Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker](https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/)
+  - Source: https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-00153] Focus visas on critical shortages such as rural healthcare while preventing replacement of American workers with cheaper labor.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:209
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00160] Issue Area 2 - Healthcare, Children, and Reproductive Care
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:223
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak Bluesky post** [soc-anne-parelkar-0011] Approximate Bluesky topic distribution among the 51 cataloged originals: local outreach and public access — 22 posts (43%); government accountability, unity, campaign finance, and party independence — 10 posts (20%); health care, labor, child care, consumer costs, agriculture, and veterans — 8 posts (16%); immigration, LGBTQ policy, voting, and civil rights — 6 posts (12%); foreign policy, war, Russia, Iran, and Palestinians — 4 posts (8%); personal faith reference — 1 post (2%). Percentages are rounded.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-anne-parelkar-0012] Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked campaign agriculture plank, but no detailed Farm Bill post. Veterans appear in a Veterans Day post, "Our Veterans served us selflessly. Now it's our turn to serve them" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b)), but the captured feed contains no detailed post about veterans' health care, military housing, or base operations. Parelkar's issue pages address public education, environmental cleanup, local media, health care, immigration, labor, and government reform ([source](https://www.anneforkansas.com/issues)).
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0013] Campaign issue page index lists Labor, Agriculture, Health Care Access, Government Accountability, Public Education, Immigration, and Transparency.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-anne-parelkar-0019] For Kansas-specific policy, Parelkar's feed combines statewide stops with issue planks on agriculture, health care, public schools, local communities, and worker protections. On March 25, 2026, she posted, "Happy #NationalAgDay, everyone. I hear politicians talk a lot about supporting farmers. I say, enough talk. We need action. It's time to break the corporate stranglehold on agriculture and put power back in the hands of family farms." ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c)). Her campaign website's issue page says, "In Washington, Anne will fight for parity pricing, cooperative strength, and a fair marketplace that rewards the people who feed our nation" ([source](https://www.anneforkansas.com/issues)). The campaign's health-care page says, "Guarantee Medicare for all children as the first incremental step toward a universal system that puts f…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate Bluesky comment** [soc-anne-parelkar-0034] Audience response on Parelkar's measurable Bluesky feed is small and concentrated around party independence, health care, and campaign-media clips. Her highest-engagement Parelkar-authored Bluesky post in the captured set was a June 24, 2025 post with 6 likes, 1 repost, 1 reply, and 0 quotes as of May 11, 2026: "Pro Tip: You owe loyalty to no political party or political figure. Not now. Not ever. If your party demands your loyalty, it is antithetical to the values of the USA. We the People, not We the Party, not We the Politicians, not We the Billionaires, not We the Corporations. WE THE PEOPLE." ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3lscxyycowc2a)). Her most-reposted captured post was a November 17, 2025 health-care post with 2 likes, 4 reposts, 0 replies, and 0 quotes as of May 11, 2026: "Don't let Roger Marshall fool you... As a doctor, he knows exactly h…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3lscxyycowc2a
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-anne-parelkar-0035] | s-bsky-2025-11-17-aca | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3m5uak52jlk2s | posted 2025-11-17; local capture 2026-05-11 | ACA subsidy / shutdown post, most-reposted local harvest item | healthcare |
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3m5uak52jlk2s
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0036] Topic: Health care / incumbent contrast
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0037] Topic: Health care / ACA subsidies
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0038] Health care page says: "Guarantee Medicare for all children as the first incremental step toward a universal system that puts families ahead of insurance company profits."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0039] Context: children's health coverage proposal.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 10. Election integrity / voting / courts
+
+Election integrity / voting / courts: 33 selected evidence items from 877 mapped rows. Public URL-backed rows: 150.
+
+### Evidence
+- **candidate-stated** [em-anne-parelkar-01455] Right now, the Kansas Constitution says: "Every citizen of the United States who has attained the age of eighteen years and who resides in the voting area in which he or she seeks to vote shall be deemed a qualified elector."
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1994
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01741] He called it "a decision from my heart" and said he was "concerned then and I still am today that six states broke their own laws or their own constitution."
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2492
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01795] Promised healthcare vote before end of 2025
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2551
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00009] Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts ([source](https://www.anneforkansas.com/)); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 ([source](https://bsky.app/profile/anneforkansas.bsky.social)). The captured pass found no campaign X account, no Truth Social account, no Gab account, no Gettr account, no candidate-controlled Reddit account, and no confirmed official campaign Substack. A LinkedIn profile exists in the candidate source file, but no public activity was harvested from LinkedIn.
+  - Source: https://www.anneforkansas.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00028] | s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, offices up in 2026, filing fees | ballot status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-anne-parelkar-00029] | s-campaign-home | primary | https://www.anneforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, values, social links | biography, governance |
+  - Source: https://www.anneforkansas.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00031] | s-campaign-issues | primary | https://www.anneforkansas.com/issues | accessed 2026-05-19 | Issue index / "The People's Deal" | platform overview |
+  - Source: https://www.anneforkansas.com/issues
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00032] | s-campaign-healthcare | primary | https://www.anneforkansas.com/healthcare | accessed 2026-05-19 | Child health coverage, universal-care path, surprise billing, price transparency, prevention, reproductive care | healthcare, abortion/reproductive care |
+  - Source: https://www.anneforkansas.com/healthcare
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00033] | s-campaign-immigration | primary | https://www.anneforkansas.com/immigration | accessed 2026-05-19 | Border enforcement, processing, lawful pathways, ICE review, work visas | immigration, labor |
+  - Source: https://www.anneforkansas.com/immigration
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00034] | s-campaign-farmers | primary | https://www.anneforkansas.com/farmers | accessed 2026-05-19 | Antitrust in farm markets, producer prices, contracts, local processing, credit/disaster support | agriculture |
+  - Source: https://www.anneforkansas.com/farmers
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00035] | s-campaign-govreform | primary | https://www.anneforkansas.com/governmentreform | accessed 2026-05-19 | Antitrust, lobbying/stock trading, tariff authority, Citizens United, public financing, House expansion | governance, campaign finance |
+  - Source: https://www.anneforkansas.com/governmentreform
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-anne-parelkar-00059] | s-greenpapers-ks2026 | secondary | https://www.thegreenpapers.com/G26/KS | accessed 2026-05-19 | Kansas 2026 candidate list said to be from Kansas SOS; lists Parelkar and Q1 FEC totals | ballot-status lead, race field |
+  - Source: https://www.thegreenpapers.com/G26/KS
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-anne-parelkar-00481] [FEC Filing](https://www.fec.gov/data/committee/C00913293/?cycle=2026)
+  - Source: https://www.fec.gov/data/committee/C00913293/?cycle=2026
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-anne-parelkar-00706] FEC Race Page: [2026 Election - U.S. Senate - Kansas](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-anne-parelkar-01369] [FEC: 2026 Kansas Senate Election](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-anne-parelkar-02495] FEC Filing: [FEC Candidate H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/)
+  - Source: https://www.fec.gov/data/candidate/H6KS03258/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-anne-parelkar-03692] https://www.fec.gov/data/elections/senate/KS/2026/ -- FEC filing data -- accessed 2026-03-30
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **social-online-signal** [em-anne-parelkar-00006] On national and foreign-policy questions, Parelkar posts less often than she posts about campaign events and public access, but the captured feed includes immigration enforcement, voting, Russia, Iran, Gaza, federal labor policy, and the government shutdown. On March 1, 2026, she wrote, "Politicians fight and we the people pay the price. #Trump #Iran" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mfxk5laymk2i)). On November 29, 2025, she posted, "Today is the International Day of Solidarity with the Palestinian People. No child should be bombed, starved, or treated as collateral. Not once, not ever." ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m6rvxtlpms2g)). Her immigration-law posts include a February 17, 2026 note that she joined Women for Kansas to give "a presentation on #immigration law" ([source](https://bsky.app/profile/anneforkansas.b…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mfxk5laymk2i
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03076] Bio text: "Patriot. Mother. Wife. Sister. Daughter. Attorney licensed in Kansas, Arkansas, Missouri. Animal lover. Candidate for US Senate 2026. Believer in the Constitution. Believer in human rights. Believer in the good in the world. AnneForKansas.com"
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:26
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03115] 2026-03-25 — "We’re flipping seats all over the country! Let’s keep up the momentum. Get out for the primaries to help keep the #Kansas Constitution, and Kansan rights safe! And vote for the US Senate candidate who will know when to compromise and when to stand strong 💙 #anneparelkar Thank you for your support!"
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:92
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03117] Topic: Election / state constitution
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:95
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03224] 2025-04-09 — "Monday Night Live Video on the SAVE Act, Voting History in America:
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:310
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03226] Topic: Voting / national policy
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:315
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03257] 2025-04-09 — "I talk about the SAVE Act, the history of voting (and oppression of the same) in the United States, and I give ideas about how we can more fairly enact this legislation if the powers that be insist upon doing so."
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:368
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03258] Topic: Voting / SAVE Act
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:370
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-anne-parelkar-01731] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2476
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-anne-parelkar-01275] Advocates accused him of "desperately maneuvering to sabotage" the vote
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1676
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00928] [Vote No Kansas 2026](https://www.votenokansas.org/)
+  - Source: https://www.votenokansas.org/
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-01324] Full voting record available at [kslegislature.gov](https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/)
+  - Source: https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/
+  - Confidence/use: confirmed / use
+- **background-context** [em-anne-parelkar-01589] Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/
+  - Source: https://myvoteinfo.voteks.org/
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-01607] [NPR: Judge tosses Kansas proof-of-citizenship voter law](https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba)
+  - Source: https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-01611] [PBS: Kansas hopes to resurrect proof-of-citizenship law](https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law)
+  - Source: https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-01610] [Prism News: Kansas law blocked 31,000 eligible voters](https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000)
+  - Source: https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-anne-parelkar-0001] Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts ([source](https://www.anneforkansas.com/)); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 ([source](https://bsky.app/profile/anneforkansas.bsky.social)). The captured pass found no campaign X account, no Truth Social account, no Gab account, no Gettr account, no candidate-controlled Reddit account, and no confirmed official campaign Substack. A LinkedIn profile exists in the candidate source file, but no public activity was harvested from LinkedIn.
+  - Source: https://www.anneforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous anneforkansas.com online-reference** [soc-anne-parelkar-0002] | s-campaign-home | primary | https://www.anneforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, values, social links | biography, governance |
+  - Source: https://www.anneforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous anneforkansas.com online-reference** [soc-anne-parelkar-0003] | s-campaign-issues | primary | https://www.anneforkansas.com/issues | accessed 2026-05-19 | Issue index / "The People's Deal" | platform overview |
+  - Source: https://www.anneforkansas.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-anne-parelkar-0004] Campaign website: https://www.anneforkansas.com/ is active and links Facebook, Instagram, Bluesky, TikTok, and YouTube as campaign accounts. The site also uses NationBuilder for events, volunteer, contact, and donate flows.
+  - Source: https://www.anneforkansas.com/`
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-anne-parelkar-0005] "ownWordsNarrative": "official_accounts: platform: Campaign website; url: https://www.anneforkansas.com/; evidence: Active campaign website with campaign-paid footer and links to Facebook, Instagram, Bluesky, TikTok, and YouTube.; sourceIds: s-campaign-home; platform: Bluesky; url: https://bsky.app/profile/anneforkansas.bsky.social; evidence: Public API on 2026-05-19 showed 109 followers, 35 follows, 131 posts, and account created 2025-03-26.; sourceIds: s-bsky-profile; platform: Facebook; url: https://www.facebook.com/AnneForKansas/; evidence: Linked from campaign footer; direct logged-out post metrics not captured.; sourceIds: s-campaign-home; platform: Instagram; url: https://www.instagram.com/anneforkansas; evidence: Linked from campaign footer; direct logged-out post metrics not captured.; sourceIds: s-campaign-home; platform: TikTok; url: https://www.tiktok.com/@anneforkansas; evi…
+  - Source: https://www.anneforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-anne-parelkar-0011] Approximate Bluesky topic distribution among the 51 cataloged originals: local outreach and public access — 22 posts (43%); government accountability, unity, campaign finance, and party independence — 10 posts (20%); health care, labor, child care, consumer costs, agriculture, and veterans — 8 posts (16%); immigration, LGBTQ policy, voting, and civil rights — 6 posts (12%); foreign policy, war, Russia, Iran, and Palestinians — 4 posts (8%); personal faith reference — 1 post (2%). Percentages are rounded.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-anne-parelkar-0018] On national and foreign-policy questions, Parelkar posts less often than she posts about campaign events and public access, but the captured feed includes immigration enforcement, voting, Russia, Iran, Gaza, federal labor policy, and the government shutdown. On March 1, 2026, she wrote, "Politicians fight and we the people pay the price. #Trump #Iran" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mfxk5laymk2i)). On November 29, 2025, she posted, "Today is the International Day of Solidarity with the Palestinian People. No child should be bombed, starved, or treated as collateral. Not once, not ever." ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m6rvxtlpms2g)). Her immigration-law posts include a February 17, 2026 note that she joined Women for Kansas to give "a presentation on #immigration law" ([source](https://bsky.app/profile/anneforkansas.b…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mfxk5laymk2i
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0041] Bio text: "Patriot. Mother. Wife. Sister. Daughter. Attorney licensed in Kansas, Arkansas, Missouri. Animal lover. Candidate for US Senate 2026. Believer in the Constitution. Believer in human rights. Believer in the good in the world. AnneForKansas.com"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0042] 2026-03-25 — "We’re flipping seats all over the country! Let’s keep up the momentum. Get out for the primaries to help keep the #Kansas Constitution, and Kansan rights safe! And vote for the US Senate candidate who will know when to compromise and when to stand strong 💙 #anneparelkar Thank you for your support!"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0043] Topic: Election / state constitution
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 11. Public safety / law enforcement / criminal justice
+
+Public safety / law enforcement / criminal justice: 16 selected evidence items from 240 mapped rows. Public URL-backed rows: 29.
+
+### Evidence
+- **candidate-stated** [em-anne-parelkar-01034] The January 2026 killing of Alex Pretti by federal agents in Minneapolis was the catalyst. As a career federal law enforcement official, Hart said this event -- and the broader direction of the federal government -- compelled him to leave his career and enter politics for the first time.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1208
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00060] | s-senate-ethics-disclosure | primary | https://www.ethics.senate.gov/public/index.cfm/financialdisclosure | accessed 2026-05-19 | Senate candidate financial-disclosure requirements | disclosure rules |
+  - Source: https://www.ethics.senate.gov/public/index.cfm/financialdisclosure
+  - Confidence/use: confirmed / use
+- **documented-record** [em-anne-parelkar-00061] | s-nrsc-complaint | secondary | https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/ | 2026-03-11; accessed 2026-05-19 | Partisan complaint alleging late personal financial disclosures by four Democratic candidates including Parelkar | disclosure controversy |
+  - Source: https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00062] | s-aila-profile | secondary | https://ailalawyer.com/english/AttorneyDetail.aspx?A=148708&P=74382 | accessed 2026-05-19 | AILA lawyer directory: Parelkar Immigration Law, bar admissions, case types, AILA member since 2016 | professional |
+  - Source: https://ailalawyer.com/english/AttorneyDetail.aspx?A=148708&P=74382
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00502] [Within Reason with Mike Matson (News Radio KMAN, March 2026)](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)
+  - Source: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00503] [Kansas Reflector podcast interview](https://kansasreflector.com/podcasts/anne-parelkar-latest-democrat-running-for-kansas-u-s-senate-seat/)
+  - Source: https://kansasreflector.com/podcasts/anne-parelkar-latest-democrat-running-for-kansas-u-s-senate-seat/
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00513] [Kansas Reflector - Announcement (Aug 2025)](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00514] [Anne Parelkar - Ballotpedia](https://ballotpedia.org/Anne_Parelkar)
+  - Source: https://ballotpedia.org/Anne_Parelkar
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00739] [KCUR - "Who's running to represent Kansas in the U.S. Senate in 2026?" (Dec 30, 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **faith-community-record** [em-anne-parelkar-02273] Hart is the most unconventional candidate in the Democratic primary. A career federal prosecutor who switched parties twice in one month, running on a blunt "electability" argument centered on his identity as a straight white Christian male in Kansas. His wife's quip has become his most quoted line. His lack of political experience or campaign infrastructure is either refreshingly authentic or dangerously unprepared -- depends on the voter. His 21-year record prosecuting child predators is his strongest credential.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3233
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00557] Pro-law enforcement
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:429
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00569] 16 years as federal prosecutor gives instant credibility on rule of law
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:445
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00570] Pro-2A, pro-law enforcement positioning is unusual for a Democrat and could attract crossover voters
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:446
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00971] Ellis County Sheriff primary (if on cycle -- VERIFY)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1108
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00984] Ellis County Sheriff (if on cycle -- VERIFY)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1122
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-01023] Career: 21+ years in public service as a prosecutor
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1196
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0290] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0306] "A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0317] Weaknesses: Lost her only previous campaign (2020 KS-1 primary). The USDA role ties her directly to Biden, which is a liability in Kansas. Immigration platform (pathway to citizenship) may be too progressive for Kansas general election voters. The NRSC disclosure complaint, while procedural, gives opponents ammunition.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0353] Platform / Key Positions:
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-anne-parelkar-0354] Platform
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 12. Agriculture / rural economy / water
+
+Agriculture / rural economy / water: 35 selected evidence items from 137 mapped rows. Public URL-backed rows: 9.
+
+### Evidence
+- **candidate-stated** [em-anne-parelkar-00217] The workers page supports the PRO Act, wage-theft enforcement, labor standards for multinational companies, Job Corps/retraining programs, and transportation support for people without reliable access to jobs. The immigration page connects work-visa reform to local wages, domestic recruitment, and critical shortages such as rural healthcare.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:332
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01078] Tariffs: Opposes Trump tariffs, says they cause instability for farmers and rural communities
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1279
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01783] Opposes federal control over cattle markets
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2538
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01931] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2743
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-02372] Opposes Medicaid cuts threatening rural hospitals
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3408
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00034] | s-campaign-farmers | primary | https://www.anneforkansas.com/farmers | accessed 2026-05-19 | Antitrust in farm markets, producer prices, contracts, local processing, credit/disaster support | agriculture |
+  - Source: https://www.anneforkansas.com/farmers
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00041] | s-campaign-environment | primary | https://www.anneforkansas.com/environment | accessed 2026-05-19 | Cleanup, polluter bonds, conservation payments, drought/flood/grid resilience | environment, agriculture |
+  - Source: https://www.anneforkansas.com/environment
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00198] Gap: No detailed Farm Bill plank, water/Ogallala-specific plank, or crop-by-crop Kansas agriculture position was found beyond the campaign farmers and environment pages.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:294
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00337] Failure to pass Farm Bill cited by multiple challengers
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:64
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00464] Passing a Farm Bill
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:256
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00477] Key Quote: Called Medicaid cuts "the big abomination of a bill" and said reversing them "would be a good first step because health care is a significant concern in rural Kansas." (Kansas Reflector)
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:275
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00941] The City of Hays manages its own water utility through the city commission
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1053
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00944] Confidence: MEDIUM -- Library board confirmed as appointed. Hospital/water district status based on available information; recommend confirming with the Ellis County Clerk.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1058
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-00392] Based in very rural Chase County -- small donor/volunteer base
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:142
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-01520] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2138
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-01557] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2223
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-01777] Serves on Senate Agriculture Committee -- a pillar of his identity
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2532
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-01855] | Kansas Farm Bureau | Endorsement + support | Agricultural sector backing |
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2639
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-01857] | Agriculture industry | Sector | Major donor category |
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2641
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-anne-parelkar-00007] For Kansas-specific policy, Parelkar's feed combines statewide stops with issue planks on agriculture, health care, public schools, local communities, and worker protections. On March 25, 2026, she posted, "Happy #NationalAgDay, everyone. I hear politicians talk a lot about supporting farmers. I say, enough talk. We need action. It's time to break the corporate stranglehold on agriculture and put power back in the hands of family farms." ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c)). Her campaign website's issue page says, "In Washington, Anne will fight for parity pricing, cooperative strength, and a fair marketplace that rewards the people who feed our nation" ([source](https://www.anneforkansas.com/issues)). The campaign's health-care page says, "Guarantee Medicare for all children as the first incremental step toward a universal system that puts f…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-00008] Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked campaign agriculture plank, but no detailed Farm Bill post. Veterans appear in a Veterans Day post, "Our Veterans served us selflessly. Now it's our turn to serve them" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b)), but the captured feed contains no detailed post about veterans' health care, military housing, or base operations. Parelkar's issue pages address public education, environmental cleanup, local media, health care, immigration, labor, and government reform ([source](https://www.anneforkansas.com/issues)).
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-00051] | s-bsky-2026-03-25-ag | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c | posted 2026-03-25; accessed 2026-05-19 | Agriculture / corporate concentration post | agriculture |
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03118] 2026-03-25 — "Happy #NationalAgDay, everyone. I hear politicians talk a lot about supporting farmers. I say, enough talk. We need action. It's time to break the corporate stranglehold on agriculture and put power back in the hands of family farms.
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:96
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03120] AnneForKansas #agriculture"
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:100
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03122] Topic: Agriculture
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:103
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03265] Campaign issue page index lists Labor, Agriculture, Health Care Access, Government Accountability, Public Education, Immigration, and Transparency.
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:382
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03270] Environment page says: "Expand conservation payments for cover crops, topsoil rebuilding, and runoff reduction. Support real stewardship that boosts yields and protects water."
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:392
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-anne-parelkar-00291] Any candidate-controlled statements on gun policy, marijuana/drug policy, current church membership, or detailed Fort Riley/Ogallala/water policy.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:471
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-anne-parelkar-01731] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2476
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-02351] [USDA: KS State Director announcement](https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas)
+  - Source: https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas
+  - Confidence/use: confirmed / use
+- **background-context** [em-anne-parelkar-02666] [Municipal Water Leader Magazine](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)
+  - Source: https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-02667] [KWCH: $15M grant](https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/)
+  - Source: https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-02668] [E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)
+  - Source: https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-00153] Focus visas on critical shortages such as rural healthcare while preventing replacement of American workers with cheaper labor.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:209
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00188] Issue Area 4 - Agriculture, Consolidation, and Rural Economic Power
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:276
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak Bluesky post** [soc-anne-parelkar-0011] Approximate Bluesky topic distribution among the 51 cataloged originals: local outreach and public access — 22 posts (43%); government accountability, unity, campaign finance, and party independence — 10 posts (20%); health care, labor, child care, consumer costs, agriculture, and veterans — 8 posts (16%); immigration, LGBTQ policy, voting, and civil rights — 6 posts (12%); foreign policy, war, Russia, Iran, and Palestinians — 4 posts (8%); personal faith reference — 1 post (2%). Percentages are rounded.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-anne-parelkar-0012] Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked campaign agriculture plank, but no detailed Farm Bill post. Veterans appear in a Veterans Day post, "Our Veterans served us selflessly. Now it's our turn to serve them" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b)), but the captured feed contains no detailed post about veterans' health care, military housing, or base operations. Parelkar's issue pages address public education, environmental cleanup, local media, health care, immigration, labor, and government reform ([source](https://www.anneforkansas.com/issues)).
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0013] Campaign issue page index lists Labor, Agriculture, Health Care Access, Government Accountability, Public Education, Immigration, and Transparency.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-anne-parelkar-0019] For Kansas-specific policy, Parelkar's feed combines statewide stops with issue planks on agriculture, health care, public schools, local communities, and worker protections. On March 25, 2026, she posted, "Happy #NationalAgDay, everyone. I hear politicians talk a lot about supporting farmers. I say, enough talk. We need action. It's time to break the corporate stranglehold on agriculture and put power back in the hands of family farms." ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c)). Her campaign website's issue page says, "In Washington, Anne will fight for parity pricing, cooperative strength, and a fair marketplace that rewards the people who feed our nation" ([source](https://www.anneforkansas.com/issues)). The campaign's health-care page says, "Guarantee Medicare for all children as the first incremental step toward a universal system that puts f…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong Bluesky post** [soc-anne-parelkar-0048] | s-bsky-2026-03-25-ag | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c | posted 2026-03-25; accessed 2026-05-19 | Agriculture / corporate concentration post | agriculture |
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0049] 2026-03-25 — "Happy #NationalAgDay, everyone. I hear politicians talk a lot about supporting farmers. I say, enough talk. We need action. It's time to break the corporate stranglehold on agriculture and put power back in the hands of family farms.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0050] AnneForKansas #agriculture"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0051] Topic: Agriculture
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0052] Environment page says: "Expand conservation payments for cover crops, topsoil rebuilding, and runoff reduction. Support real stewardship that boosts yields and protects water."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-anne-parelkar-0053] Across the captured period the Bluesky feed contains no posts about water policy or the Ogallala Aquifer.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 13. Local governance / transparency / ethics
+
+Local governance / transparency / ethics: 40 selected evidence items from 1030 mapped rows. Public URL-backed rows: 163.
+
+### Evidence
+- **candidate-stated** [em-anne-parelkar-00217] The workers page supports the PRO Act, wage-theft enforcement, labor standards for multinational companies, Job Corps/retraining programs, and transportation support for people without reliable access to jobs. The immigration page connects work-visa reform to local wages, domestic recruitment, and critical shortages such as rural healthcare.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:332
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01034] The January 2026 killing of Alex Pretti by federal agents in Minneapolis was the catalyst. As a career federal law enforcement official, Hart said this event -- and the broader direction of the federal government -- compelled him to leave his career and enter politics for the first time.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1208
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-01920] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2728
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-02686] Hands-on: Pledged to spend 1-2 hours minimum in every county department to assess staffing
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3917
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-02909] Parelkar has never held elected office. Her public biography is that of a lawyer and mother of two who says she sees the country's immigration machinery up close and believes Washington is failing both families and employers. In a crowded Democratic field, that professional specialty makes her more distinct than many first-time candidates.
+  - Source: memory/candidates/anne-parelkar/site-profile.md:6
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-anne-parelkar-03933] "observation": "2026-03-23 — The Iola Register reported that Parelkar spoke to the Allen County Blue Dot Club and said the biggest issue facing the United States was the influence of money in politics.",
+  - Source: ui/src/data/v2/anne-parelkar.ts:178
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00009] Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts ([source](https://www.anneforkansas.com/)); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 ([source](https://bsky.app/profile/anneforkansas.bsky.social)). The captured pass found no campaign X account, no Truth Social account, no Gab account, no Gettr account, no candidate-controlled Reddit account, and no confirmed official campaign Substack. A LinkedIn profile exists in the candidate source file, but no public activity was harvested from LinkedIn.
+  - Source: https://www.anneforkansas.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00028] | s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, offices up in 2026, filing fees | ballot status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-anne-parelkar-00029] | s-campaign-home | primary | https://www.anneforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, values, social links | biography, governance |
+  - Source: https://www.anneforkansas.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00031] | s-campaign-issues | primary | https://www.anneforkansas.com/issues | accessed 2026-05-19 | Issue index / "The People's Deal" | platform overview |
+  - Source: https://www.anneforkansas.com/issues
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00032] | s-campaign-healthcare | primary | https://www.anneforkansas.com/healthcare | accessed 2026-05-19 | Child health coverage, universal-care path, surprise billing, price transparency, prevention, reproductive care | healthcare, abortion/reproductive care |
+  - Source: https://www.anneforkansas.com/healthcare
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00033] | s-campaign-immigration | primary | https://www.anneforkansas.com/immigration | accessed 2026-05-19 | Border enforcement, processing, lawful pathways, ICE review, work visas | immigration, labor |
+  - Source: https://www.anneforkansas.com/immigration
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00034] | s-campaign-farmers | primary | https://www.anneforkansas.com/farmers | accessed 2026-05-19 | Antitrust in farm markets, producer prices, contracts, local processing, credit/disaster support | agriculture |
+  - Source: https://www.anneforkansas.com/farmers
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00035] | s-campaign-govreform | primary | https://www.anneforkansas.com/governmentreform | accessed 2026-05-19 | Antitrust, lobbying/stock trading, tariff authority, Citizens United, public financing, House expansion | governance, campaign finance |
+  - Source: https://www.anneforkansas.com/governmentreform
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-anne-parelkar-00025] | s-fec-candidate | primary | https://www.fec.gov/data/candidate/S6KS00239/?cycle=2026&election_full=false | accessed 2026-05-19 | Candidate ID, office, party, challenger status, statement filed 2025-07-26, Q1 2026 totals | status, campaign finance |
+  - Source: https://www.fec.gov/data/candidate/S6KS00239/?cycle=2026&election_full=false
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-anne-parelkar-00026] | s-fec-committee | primary | https://www.fec.gov/data/committee/C00913293/?cycle=2026 | accessed 2026-05-19 | Active principal committee, registration date, treasurer, authorizing candidate, Q1 2026 totals | status, campaign finance |
+  - Source: https://www.fec.gov/data/committee/C00913293/?cycle=2026
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-anne-parelkar-00027] | s-fec-form1 | primary | https://docquery.fec.gov/pdf/572/202509309790404572/202509309790404572.pdf | filed 2025-09-30; accessed 2026-05-19 | Amended statement of organization for Anne for Kansas | campaign finance, committee structure |
+  - Source: https://docquery.fec.gov/pdf/572/202509309790404572/202509309790404572.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-anne-parelkar-00059] | s-greenpapers-ks2026 | secondary | https://www.thegreenpapers.com/G26/KS | accessed 2026-05-19 | Kansas 2026 candidate list said to be from Kansas SOS; lists Parelkar and Q1 FEC totals | ballot-status lead, race field |
+  - Source: https://www.thegreenpapers.com/G26/KS
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-anne-parelkar-00481] [FEC Filing](https://www.fec.gov/data/committee/C00913293/?cycle=2026)
+  - Source: https://www.fec.gov/data/committee/C00913293/?cycle=2026
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-anne-parelkar-00706] FEC Race Page: [2026 Election - U.S. Senate - Kansas](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **social-online-signal** [em-anne-parelkar-00003] Across the [51 Parelkar-authored Bluesky posts cataloged in the harvest](social-harvest.md), her most frequent subject is in-person contact with Kansans: roundtables, coffee meetings, county Democratic gatherings, candidate forums, and listening-tour stops account for 22 posts, or 43 percent of the cataloged Bluesky originals. On April 9, 2026, she posted, "We'll be in #GardenCity this Sunday for another roundtable! Hope to see you there! Doesn't matter what party you are, bring a friend, come say hi, and let's talk about what we can do to make this government work for We the People. #AnneForKansas" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mj3d3l447c2u)). On January 23, 2026, she wrote, "Last year I traveled all across #KS & got to hear from so many of you. And next week we will be back on the road for the #afkRoundtableTour!" ([source](https://bsky.app/profile…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mj3d3l447c2u
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-00004] Parelkar's public alignment network centers on county Democratic organizations, Kansas civic events, and campaign-controlled media. She tagged the Miami County Democratic Party account in an April 6, 2026 post: "See you tonight, Miami County! 💙 Join us at the @miamicoksdems.org meeting or watch online at miamicoksdems.org" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3miu5xsa5ik22)). She also posted appearances with the Riley County Democratic Party ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mg6vmtz4ek2h)), Saline County Democratic Women, Kansas House candidate Cheri Koochel ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3md22ycezhc2o)), the Kansas Democratic Party candidate forum ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m6ftcfo33o2t)), and Women for Kansas in Lawrence, where she said she gave a p…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3miu5xsa5ik22
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-00007] For Kansas-specific policy, Parelkar's feed combines statewide stops with issue planks on agriculture, health care, public schools, local communities, and worker protections. On March 25, 2026, she posted, "Happy #NationalAgDay, everyone. I hear politicians talk a lot about supporting farmers. I say, enough talk. We need action. It's time to break the corporate stranglehold on agriculture and put power back in the hands of family farms." ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c)). Her campaign website's issue page says, "In Washington, Anne will fight for parity pricing, cooperative strength, and a fair marketplace that rewards the people who feed our nation" ([source](https://www.anneforkansas.com/issues)). The campaign's health-care page says, "Guarantee Medicare for all children as the first incremental step toward a universal system that puts f…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-00008] Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked campaign agriculture plank, but no detailed Farm Bill post. Veterans appear in a Veterans Day post, "Our Veterans served us selflessly. Now it's our turn to serve them" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b)), but the captured feed contains no detailed post about veterans' health care, military housing, or base operations. Parelkar's issue pages address public education, environmental cleanup, local media, health care, immigration, labor, and government reform ([source](https://www.anneforkansas.com/issues)).
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-00047] | s-bsky-2026-05-12-coffee | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3mlodg6je7s2q | posted 2026-05-12; accessed 2026-05-19 | Johnson County coffee meetup | constituent access |
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mlodg6je7s2q
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-00055] | s-bsky-2025-11-17-aca | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3m5uak52jlk2s | posted 2025-11-17; local capture 2026-05-11 | ACA subsidy / shutdown post, most-reposted local harvest item | healthcare |
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3m5uak52jlk2s
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-02556] Facebook (Official): [musilcomish](https://www.facebook.com/musilcomish/)
+  - Source: https://www.facebook.com/musilcomish/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-anne-parelkar-03060] Campaign website: https://www.anneforkansas.com/ — active. The footer links Facebook, Instagram, Bluesky, TikTok, and YouTube as official campaign accounts.
+  - Source: https://www.anneforkansas.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-anne-parelkar-02718] Board involvement: Assigned to present for TMP schools during scholarship award presentations as a county commissioner, suggesting ongoing connection to the Catholic school community.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3970
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-anne-parelkar-02800] | Official | Church/Faith | Confidence |
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:4100
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-anne-parelkar-03587] "observation": "On April 6, 2026, Parelkar posted an Easter/faith reference; local harvest recorded 1 like, 0 reposts, 0 replies, and 0 quotes as of May 11, 2026.",
+  - Source: ui/src/data/v2/anne-parelkar.ts:495
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-anne-parelkar-00171] The local 2026-05-11 Bluesky harvest identified a Nov. 17, 2025 ACA subsidy/shutdown post as the most-reposted Parelkar-authored post in the captured set: 2 likes, 4 reposts, 0 replies, 0 quotes at capture. The post criticized Roger Marshall over ACA subsidized healthcare in the shutdown context.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:242
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-anne-parelkar-01135] Kansas City commercial real estate developer behind a nearly $1 billion redevelopment project in Wyandotte County. First-time candidate who grew up in KCK, left for USC and a decade in Oakland/San Francisco, then returned in 2023. Has a significant controversy flagged by the Washington Free Beacon.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1408
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-anne-parelkar-01729] Criticism: The Kansas City Star editorial board criticized the newsletter as being used primarily to attack Democrats (Biden/Harris) rather than to help Kansans, calling it partisan rather than informative.
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:2473
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00867] [Hays Post: Ellis County Canvass 2025](https://hayspost.com/posts/5de6670c-0b28-4836-820e-a80866aa4e94)
+  - Source: https://hayspost.com/posts/5de6670c-0b28-4836-820e-a80866aa4e94
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-00992] | City of Hays | 785-628-7320 | [haysusa.com](https://haysusa.com) |
+  - Source: https://haysusa.com
+  - Confidence/use: confirmed / use
+- **background-context** [em-anne-parelkar-01586] Registration deadline: Check with the Ellis County Clerk's office or visit https://www.kdor.ks.gov/Apps/VoterReg/
+  - Source: https://www.kdor.ks.gov/Apps/VoterReg/
+  - Confidence/use: confirmed / use
+- **background-context** [em-anne-parelkar-01589] Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/
+  - Source: https://myvoteinfo.voteks.org/
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-01638] [Ballotpedia: KS House District 111](https://ballotpedia.org/Kansas_House_of_Representatives_District_111)
+  - Source: https://ballotpedia.org/Kansas_House_of_Representatives_District_111
+  - Confidence/use: likely / use
+- **background-context** [em-anne-parelkar-02382] [Johnson County Post photo](https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/)
+  - Source: https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-anne-parelkar-0001] Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts ([source](https://www.anneforkansas.com/)); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 ([source](https://bsky.app/profile/anneforkansas.bsky.social)). The captured pass found no campaign X account, no Truth Social account, no Gab account, no Gettr account, no candidate-controlled Reddit account, and no confirmed official campaign Substack. A LinkedIn profile exists in the candidate source file, but no public activity was harvested from LinkedIn.
+  - Source: https://www.anneforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous anneforkansas.com online-reference** [soc-anne-parelkar-0002] | s-campaign-home | primary | https://www.anneforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, values, social links | biography, governance |
+  - Source: https://www.anneforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous anneforkansas.com online-reference** [soc-anne-parelkar-0003] | s-campaign-issues | primary | https://www.anneforkansas.com/issues | accessed 2026-05-19 | Issue index / "The People's Deal" | platform overview |
+  - Source: https://www.anneforkansas.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-anne-parelkar-0004] Campaign website: https://www.anneforkansas.com/ is active and links Facebook, Instagram, Bluesky, TikTok, and YouTube as campaign accounts. The site also uses NationBuilder for events, volunteer, contact, and donate flows.
+  - Source: https://www.anneforkansas.com/`
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-anne-parelkar-0005] "ownWordsNarrative": "official_accounts: platform: Campaign website; url: https://www.anneforkansas.com/; evidence: Active campaign website with campaign-paid footer and links to Facebook, Instagram, Bluesky, TikTok, and YouTube.; sourceIds: s-campaign-home; platform: Bluesky; url: https://bsky.app/profile/anneforkansas.bsky.social; evidence: Public API on 2026-05-19 showed 109 followers, 35 follows, 131 posts, and account created 2025-03-26.; sourceIds: s-bsky-profile; platform: Facebook; url: https://www.facebook.com/AnneForKansas/; evidence: Linked from campaign footer; direct logged-out post metrics not captured.; sourceIds: s-campaign-home; platform: Instagram; url: https://www.instagram.com/anneforkansas; evidence: Linked from campaign footer; direct logged-out post metrics not captured.; sourceIds: s-campaign-home; platform: TikTok; url: https://www.tiktok.com/@anneforkansas; evi…
+  - Source: https://www.anneforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-anne-parelkar-0011] Approximate Bluesky topic distribution among the 51 cataloged originals: local outreach and public access — 22 posts (43%); government accountability, unity, campaign finance, and party independence — 10 posts (20%); health care, labor, child care, consumer costs, agriculture, and veterans — 8 posts (16%); immigration, LGBTQ policy, voting, and civil rights — 6 posts (12%); foreign policy, war, Russia, Iran, and Palestinians — 4 posts (8%); personal faith reference — 1 post (2%). Percentages are rounded.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-anne-parelkar-0012] Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked campaign agriculture plank, but no detailed Farm Bill post. Veterans appear in a Veterans Day post, "Our Veterans served us selflessly. Now it's our turn to serve them" ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b)), but the captured feed contains no detailed post about veterans' health care, military housing, or base operations. Parelkar's issue pages address public education, environmental cleanup, local media, health care, immigration, labor, and government reform ([source](https://www.anneforkansas.com/issues)).
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3m5efumlyih2b
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0013] Campaign issue page index lists Labor, Agriculture, Health Care Access, Government Accountability, Public Education, Immigration, and Transparency.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-anne-parelkar-0019] For Kansas-specific policy, Parelkar's feed combines statewide stops with issue planks on agriculture, health care, public schools, local communities, and worker protections. On March 25, 2026, she posted, "Happy #NationalAgDay, everyone. I hear politicians talk a lot about supporting farmers. I say, enough talk. We need action. It's time to break the corporate stranglehold on agriculture and put power back in the hands of family farms." ([source](https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c)). Her campaign website's issue page says, "In Washington, Anne will fight for parity pricing, cooperative strength, and a fair marketplace that rewards the people who feed our nation" ([source](https://www.anneforkansas.com/issues)). The campaign's health-care page says, "Guarantee Medicare for all children as the first incremental step toward a universal system that puts f…
+  - Source: https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0022] 2025-12-13 — "I had the pleasure of meeting Ms. Carole Blackwood, social worker with the KC Indian Center yesterday. We had a great conversation about Native American history and current issues and I look forward to collaborating with her more closely on how we can best work together for the good of us all."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 14. Environment / energy / land use
+
+Environment / energy / land use: 17 selected evidence items from 27 mapped rows. Public URL-backed rows: 1.
+
+### Evidence
+- **documented-record** [em-anne-parelkar-00041] | s-campaign-environment | primary | https://www.anneforkansas.com/environment | accessed 2026-05-19 | Cleanup, polluter bonds, conservation payments, drought/flood/grid resilience | environment, agriculture |
+  - Source: https://www.anneforkansas.com/environment
+  - Confidence/use: likely / use
+- **documented-record** [em-anne-parelkar-00198] Gap: No detailed Farm Bill plank, water/Ogallala-specific plank, or crop-by-crop Kansas agriculture position was found beyond the campaign farmers and environment pages.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:294
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00511] First-generation immigrant spouse could become a liability in anti-immigration political climate
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:328
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-00941] The City of Hays manages its own water utility through the city commission
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1053
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-03012] Kansas filing/ballot caveat: Kansas SOS candidate-information page says national candidates file with the Secretary of State and are not considered filed until the declaration or petition and fee are received. The primary filing deadline is noon Monday, June 1, 2026. The live SOS candidate-list endpoint is blocked or not machine-readable in this environment; The Green Papers says its Kansas 2026 page is using the SOS candidate list and includes Parelkar, but final direct official table readback was not confirmed here.
+  - Source: memory/candidates/anne-parelkar/sleuth-pass.md:15
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-03021] Campaign issue pages: healthcare, immigration, agriculture, government reform, education, labor, consumer pricing, right to repair/ownership, local communities, environment.
+  - Source: memory/candidates/anne-parelkar/sleuth-pass.md:26
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-03042] Direct Kansas SOS candidate-list readback for Parelkar could not be completed because the live candidate-list endpoint returned only a blocked/minimal response in this environment.
+  - Source: memory/candidates/anne-parelkar/sleuth-pass.md:53
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-anne-parelkar-03311] "Final Kansas ballot language needs caution: the SOS candidate-information page is accessible, but the live candidate-list row for Parelkar could not be directly read in this environment and the filing deadline is June 1, 2026."
+  - Source: memory/candidates/anne-parelkar/v2-issues.yaml:9
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-00020] Kansas SOS confirms the filing framework, but not a directly readable candidate-table row in this environment. The SOS candidate-information page says Democratic and Republican candidates run in the primary, national/state candidates file with the Secretary of State, and a candidate is not considered filed until petition/declaration and fee are received. The primary filing deadline is noon Monday, June 1, 2026. The Green Papers says its Kansas 2026 page uses the SOS candidate list and lists Parelkar among the U.S. Senate candidates. Treat her as an active FEC-filed candidate with a campaign and secondary SOS-list readback, while noting that final direct official ballot certification is pending.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:15
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-anne-parelkar-03661] description: "Direct Kansas SOS live candidate-list row for Parelkar could not be read; the endpoint was blocked/minimal in this environment. Use FEC status and SOS filing rules plus secondary Green Papers/KDP list until direct readback is possible."
+  - Source: memory/candidates/anne-parelkar/v2-issues.yaml:730
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-anne-parelkar-03270] Environment page says: "Expand conservation payments for cover crops, topsoil rebuilding, and runoff reduction. Support real stewardship that boosts yields and protects water."
+  - Source: memory/candidates/anne-parelkar/social-harvest.md:392
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-anne-parelkar-00246] Issue Area 10 - Environment, Land, Water, and Local Communities
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:393
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00248] The environment page calls for cleaning abandoned mines, toxic industrial sites, and polluted waterways; requiring cleanup bonds before drilling/mining/dumping; conservation payments for cover crops, topsoil rebuilding, and runoff reduction; drought/flood/wildfire/grid resilience; and domestic manufacturing for power components.
+  - Source: memory/candidates/anne-parelkar/raw-dump-v2.md:399
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-00939] Water District / Utility Boards
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:1051
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-02156] Member, Subcommittee on Energy, Natural Resources, and Infrastructure
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3064
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-02398] Eastside Innovation LLC (Kansas City, KS, 2023) -- Founded to bring clean energy to low-income communities in KCK
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3457
+  - Confidence/use: unknown / background-only
+- **background-context** [em-anne-parelkar-02647] R9 Ranch Pipeline -- The Defining Project
+  - Source: memory/candidates/anne-parelkar/raw-dump.md:3861
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak Public web / internal harvest post** [soc-anne-parelkar-0052] Environment page says: "Expand conservation payments for cover crops, topsoil rebuilding, and runoff reduction. Support real stewardship that boosts yields and protects water."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.

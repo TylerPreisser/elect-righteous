@@ -1,0 +1,723 @@
+{
+  "candidateSlug": "adam-hamilton",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceFiles": [
+    "memory/candidates/adam-hamilton/social-harvest.md",
+    "memory/candidates/adam-hamilton/evidence-matrix.json"
+  ],
+  "platformPresence": [],
+  "signals": [
+    {
+      "id": "soc-adam-hamilton-0001",
+      "evidenceRowId": "em-adam-hamilton-00013",
+      "platform": "Public web / internal harvest",
+      "actionType": "share/repost",
+      "target": "memory/candidates/adam-hamilton/social-harvest.md:20",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9,
+        12,
+        14
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid",
+        "Agriculture / rural economy / water",
+        "Environment / energy / land use"
+      ],
+      "signalStrength": "moderate",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Where they stand on big issues: Hamilton's campaign says he is focused on listening to Kansans, addressing high costs for food, energy, and health care, building bridges across party lines, and restoring decency and shared humanity in government.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/social-harvest.md:20",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-in-their-own-words-md-l20",
+        "mem-memory-candidates-adam-hamilton-raw-dump-v2-md-l20",
+        "mem-memory-candidates-adam-hamilton-sleuth-pass-md-l20",
+        "mem-memory-candidates-adam-hamilton-social-harvest-md-l20"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0002",
+      "evidenceRowId": "em-adam-hamilton-00005",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/adam-hamilton/social-harvest.md:8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "This artifact was created because the candidate-completeness audit found Adam Hamilton in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/social-harvest.md:8",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-in-their-own-words-md-l8",
+        "mem-memory-candidates-adam-hamilton-raw-dump-v2-md-l8",
+        "mem-memory-candidates-adam-hamilton-sleuth-pass-md-l8",
+        "mem-memory-candidates-adam-hamilton-social-harvest-md-l8"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0003",
+      "evidenceRowId": "em-adam-hamilton-00012",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/adam-hamilton/social-harvest.md:19",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Ballot / filing status: Hamilton's campaign site presents him as a U.S. Senate candidate, and FEC candidate data identifies him as a Democratic candidate for Kansas Senate.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/social-harvest.md:19",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-in-their-own-words-md-l19",
+        "mem-memory-candidates-adam-hamilton-raw-dump-v2-md-l19",
+        "mem-memory-candidates-adam-hamilton-sleuth-pass-md-l19",
+        "mem-memory-candidates-adam-hamilton-social-harvest-md-l19"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0004",
+      "evidenceRowId": "em-adam-hamilton-00014",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/adam-hamilton/social-harvest.md:21",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Donor / funding information: Hamilton's campaign site links ActBlue donation flows. This pass did not capture a processed FEC financial summary for the committee.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/social-harvest.md:21",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-in-their-own-words-md-l21",
+        "mem-memory-candidates-adam-hamilton-raw-dump-v2-md-l21",
+        "mem-memory-candidates-adam-hamilton-sleuth-pass-md-l21",
+        "mem-memory-candidates-adam-hamilton-social-harvest-md-l21"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0005",
+      "evidenceRowId": "em-adam-hamilton-00016",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/adam-hamilton/social-harvest.md:25",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/social-harvest.md:25",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-in-their-own-words-md-l25",
+        "mem-memory-candidates-adam-hamilton-raw-dump-v2-md-l25",
+        "mem-memory-candidates-adam-hamilton-sleuth-pass-md-l25",
+        "mem-memory-candidates-adam-hamilton-social-harvest-md-l25"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0006",
+      "evidenceRowId": "em-adam-hamilton-00019",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/adam-hamilton/social-harvest.md:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Adam Hamilton - social harvest",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/social-harvest.md:1",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-social-harvest-md-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0007",
+      "evidenceRowId": "em-adam-hamilton-00020",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/adam-hamilton/social-harvest.md:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Generated: 2026-05-20",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/social-harvest.md:3",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-social-harvest-md-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0008",
+      "evidenceRowId": "em-adam-hamilton-00021",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/adam-hamilton/social-harvest.md:6",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Scope",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/social-harvest.md:6",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-social-harvest-md-l6"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0009",
+      "evidenceRowId": "em-adam-hamilton-00022",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/adam-hamilton/social-harvest.md:10",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Current profile status",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/social-harvest.md:10",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-social-harvest-md-l10"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0010",
+      "evidenceRowId": "em-adam-hamilton-00023",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/adam-hamilton/social-harvest.md:12",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Slug: adam-hamilton",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/social-harvest.md:12",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-social-harvest-md-l12"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0011",
+      "evidenceRowId": "em-adam-hamilton-00025",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/adam-hamilton/social-harvest.md:17",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Evidence summary",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/social-harvest.md:17",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-social-harvest-md-l17"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0012",
+      "evidenceRowId": "em-adam-hamilton-00091",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/adam-hamilton/v2-issues.yaml:134",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/v2-issues.yaml:134",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-v2-issues-yaml-l134"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0013",
+      "evidenceRowId": "em-adam-hamilton-00112",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/elections.ts:51",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Health care / insurance / Medicaid",
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/elections.ts:51",
+      "sourceIds": [
+        "mem-ui-src-data-elections-ts-l51"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0014",
+      "evidenceRowId": "em-adam-hamilton-00040",
+      "platform": "Public web / internal harvest",
+      "actionType": "share/repost",
+      "target": "memory/candidates/adam-hamilton/v2-issues.yaml:18",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/v2-issues.yaml:18",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-v2-issues-yaml-l18"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0015",
+      "evidenceRowId": "em-adam-hamilton-00150",
+      "platform": "Public web / internal harvest",
+      "actionType": "share/repost",
+      "target": "ui/src/data/v2/adam-hamilton.ts:137",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/adam-hamilton.ts:137",
+      "sourceIds": [
+        "mem-ui-src-data-v2-adam-hamilton-ts-l137"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0016",
+      "evidenceRowId": "em-adam-hamilton-00134",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/adam-hamilton.ts:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/adam-hamilton.ts:1",
+      "sourceIds": [
+        "mem-ui-src-data-v2-adam-hamilton-ts-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0017",
+      "evidenceRowId": "em-adam-hamilton-00136",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/adam-hamilton.ts:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "node scripts/hydrate-v2-social-signals.mjs",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/adam-hamilton.ts:3",
+      "sourceIds": [
+        "mem-ui-src-data-v2-adam-hamilton-ts-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0018",
+      "evidenceRowId": "em-adam-hamilton-00141",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/adam-hamilton.ts:50",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Public web\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/adam-hamilton.ts:50",
+      "sourceIds": [
+        "mem-ui-src-data-v2-adam-hamilton-ts-l50",
+        "mem-ui-src-data-v2-adam-hamilton-ts-l82",
+        "mem-ui-src-data-v2-adam-hamilton-ts-l115"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0019",
+      "evidenceRowId": "em-adam-hamilton-00009",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/adam-hamilton/social-harvest.md:14",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Election grouping: us-senate-2026",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/social-harvest.md:14",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-in-their-own-words-md-l14",
+        "mem-memory-candidates-adam-hamilton-raw-dump-v2-md-l14",
+        "mem-memory-candidates-adam-hamilton-sleuth-pass-md-l14",
+        "mem-memory-candidates-adam-hamilton-social-harvest-md-l14"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0020",
+      "evidenceRowId": "em-adam-hamilton-00003",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/adam-hamilton/social-harvest.md:4",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Agent: codex candidate-completeness generator",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/social-harvest.md:4",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-in-their-own-words-md-l4",
+        "mem-memory-candidates-adam-hamilton-raw-dump-v2-md-l4",
+        "mem-memory-candidates-adam-hamilton-sleuth-pass-md-l4",
+        "mem-memory-candidates-adam-hamilton-social-harvest-md-l4",
+        "mem-memory-candidates-adam-hamilton-v2-issues-yaml-l4"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0021",
+      "evidenceRowId": "em-adam-hamilton-00008",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/adam-hamilton/social-harvest.md:13",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Position: U.S. Senate candidate, Kansas",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/social-harvest.md:13",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-in-their-own-words-md-l13",
+        "mem-memory-candidates-adam-hamilton-raw-dump-v2-md-l13",
+        "mem-memory-candidates-adam-hamilton-sleuth-pass-md-l13",
+        "mem-memory-candidates-adam-hamilton-social-harvest-md-l13",
+        "mem-memory-candidates-adam-hamilton-v2-issues-yaml-l9",
+        "mem-ui-src-data-v2-adam-hamilton-ts-l13"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0022",
+      "evidenceRowId": "em-adam-hamilton-00024",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/adam-hamilton/social-harvest.md:15",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Incumbent: no",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/social-harvest.md:15",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-social-harvest-md-l15"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0023",
+      "evidenceRowId": "em-adam-hamilton-00026",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/adam-hamilton/social-harvest.md:23",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Source handling",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/social-harvest.md:23",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-social-harvest-md-l23"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0024",
+      "evidenceRowId": "em-adam-hamilton-00072",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/adam-hamilton/v2-issues.yaml:76",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"socialSignals\": []",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/v2-issues.yaml:76",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-v2-issues-yaml-l76",
+        "mem-memory-candidates-adam-hamilton-v2-issues-yaml-l97",
+        "mem-memory-candidates-adam-hamilton-v2-issues-yaml-l119",
+        "mem-ui-src-data-v2-adam-hamilton-ts-l47",
+        "mem-ui-src-data-v2-adam-hamilton-ts-l79",
+        "mem-ui-src-data-v2-adam-hamilton-ts-l112"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-adam-hamilton-0025",
+      "evidenceRowId": "em-adam-hamilton-00076",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/adam-hamilton/v2-issues.yaml:89",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"a-platform-summary\",",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/adam-hamilton/v2-issues.yaml:89",
+      "sourceIds": [
+        "mem-memory-candidates-adam-hamilton-v2-issues-yaml-l89",
+        "mem-ui-src-data-v2-adam-hamilton-ts-l71"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    }
+  ],
+  "issueCoverage": {
+    "1": {
+      "issue": "Abortion / life",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "2": {
+      "issue": "LGBT / gender / parental rights",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "3": {
+      "issue": "Education / curriculum / schools",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "4": {
+      "issue": "Religious liberty / church / civic morality",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "5": {
+      "issue": "Taxes / spending / debt",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "6": {
+      "issue": "Economy / jobs / labor",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "7": {
+      "issue": "Guns / Second Amendment",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "8": {
+      "issue": "Immigration / border",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "9": {
+      "issue": "Health care / insurance / Medicaid",
+      "total": 2,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "10": {
+      "issue": "Election integrity / voting / courts",
+      "total": 6,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 2,
+      "ambiguous": 3
+    },
+    "11": {
+      "issue": "Public safety / law enforcement / criminal justice",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "12": {
+      "issue": "Agriculture / rural economy / water",
+      "total": 2,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "13": {
+      "issue": "Local governance / transparency / ethics",
+      "total": 6,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 3,
+      "ambiguous": 3
+    },
+    "14": {
+      "issue": "Environment / energy / land use",
+      "total": 1,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 0,
+      "ambiguous": 0
+    }
+  },
+  "caveats": [
+    "Social evidence is signal, not fact. A follow, like, share, or platform absence is not treated as a belief or policy position.",
+    "Candidate-controlled posts and campaign pages may be used as stated positions only when the text itself says the position.",
+    "Login-walled, blocked, or inaccessible platform content is documented as a capture limitation, not as evidence of silence."
+  ]
+}

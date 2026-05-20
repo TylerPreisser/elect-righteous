@@ -1,0 +1,4399 @@
+{
+  "candidateSlug": "marty-tuley",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 142,
+  "sources": [
+    {
+      "sourceId": "src-marty-tuley-0001",
+      "url": "https://www.usd489.com/page/board-of-education",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1042",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00816"
+      ],
+      "claimsAnchored": [
+        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0002",
+      "url": "https://www.haysusa.com/335/Public-Library-Board",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1169",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00881"
+      ],
+      "claimsAnchored": [
+        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0003",
+      "url": "https://www.usd489.com",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1246",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00945",
+        "em-marty-tuley-01017"
+      ],
+      "claimsAnchored": [
+        "| Hays USD 489 | 785-623-2400 | [usd489.com](https://www.usd489.com) |",
+        "[usd489.com](https://www.usd489.com)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0004",
+      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump-v2.md:25",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00027"
+      ],
+      "claimsAnchored": [
+        "| s-sos-candidate-info-2026 | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing framework; Governor/Lt. Governor office up in 2026; primary filing deadline June 1, 2026; candidate not filed until petiti"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0005",
+      "url": "https://www.sos.ks.gov/elections/important-election-dates.html",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump-v2.md:26",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00028",
+        "em-marty-tuley-01164"
+      ],
+      "claimsAnchored": [
+        "| s-sos-election-dates-2026 | primary | https://www.sos.ks.gov/elections/important-election-dates.html | accessed 2026-05-19 | June 1, 2026 filing deadline; August 4 primary; November 3 general; certification dates | official status |"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0006",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01MT_202601.pdf",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:25",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-marty-tuley-00217",
+        "em-marty-tuley-00240",
+        "em-marty-tuley-00996",
+        "em-marty-tuley-00032"
+      ],
+      "claimsAnchored": [
+        "Kansas Ethics filing: [SW01MT_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01MT_202601.pdf)",
+        "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01MT_202601.pdf",
+        "[SW01MT_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01MT_202601.pdf)",
+        "| s-kpdc-202601 | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01MT_202601.pdf | filed 2026-01-12; accessed 2026-05-19 | 2025 year-end receipts, expenditures, cash-on-hand, itemized contributors, itemized disbursements | fin"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0007",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:82",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-marty-tuley-00252",
+        "em-marty-tuley-00998",
+        "em-marty-tuley-00030"
+      ],
+      "claimsAnchored": [
+        "Kansas Ethics filing index: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
+        "[SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
+        "| s-kpdc-statewide-2026 | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm | accessed 2026-05-19 | KPDC statewide index lists Tuley under gubernatorial candidates and links AT/202601 forms; page last updated January 22,"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0008",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01MT_AT.pdf",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:83",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-marty-tuley-00253",
+        "em-marty-tuley-00999",
+        "em-marty-tuley-01183",
+        "em-marty-tuley-00031"
+      ],
+      "claimsAnchored": [
+        "2026 filing PDF: [SW01MT_AT.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01MT_AT.pdf)",
+        "[SW01MT_AT.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01MT_AT.pdf)",
+        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01MT_AT.pdf\",",
+        "| s-kpdc-treasurer | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01MT_AT.pdf | executed 2025-05-30; accessed 2026-05-19 | Candidate name, office sought Governor, Douglas County, treasurer Marcie Wainright, appointment/e"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0009",
+      "url": "https://www.ellisco.net/425/Election",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1019",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00803",
+        "em-marty-tuley-00942"
+      ],
+      "claimsAnchored": [
+        "[Ellis County Election Page](https://www.ellisco.net/425/Election)",
+        "| Ellis County Clerk (Election Office) | 785-628-9410 | [ellisco.net/425/Election](https://www.ellisco.net/425/Election) |"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0010",
+      "url": "https://www.ellisco.net/626/Candidate-Filings",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1020",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-marty-tuley-00804",
+        "em-marty-tuley-00956",
+        "em-marty-tuley-01014",
+        "em-marty-tuley-00802"
+      ],
+      "claimsAnchored": [
+        "[Ellis County Candidate Filings](https://www.ellisco.net/626/Candidate-Filings)",
+        "Recommended action: Call the Ellis County Clerk at 785-628-9410 or check [ellisco.net/626/Candidate-Filings](https://www.ellisco.net/626/Candidate-Filings) after June 1, 2026 for the definitive candidate list.",
+        "[ellisco.net/626](https://www.ellisco.net/626/Candidate-Filings)",
+        "IMPORTANT CAVEAT: Contact the Ellis County Clerk (785-628-9410) to confirm exactly which offices appear on the 2026 ballot. The Candidate Filings page at [ellisco.net/626](https://www.ellisco.net/626/Candidate-Filings) will show declared candidates once filing"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0011",
+      "url": "https://sos.ks.gov/elections/important-election-dates.html",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1199",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00910",
+        "em-marty-tuley-01479"
+      ],
+      "claimsAnchored": [
+        "[Kansas Secretary of State: Important Election Dates](https://sos.ks.gov/elections/important-election-dates.html)",
+        "https://sos.ks.gov/elections/important-election-dates.html -- Official election dates -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0012",
+      "url": "https://www.haysusa.com/269/City-Commission",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:949",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00759"
+      ],
+      "claimsAnchored": [
+        "[Hays City Commission Official Page](https://www.haysusa.com/269/City-Commission)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0013",
+      "url": "https://www.ellisco.net/120/County-Commission",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:979",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00778",
+        "em-marty-tuley-01515"
+      ],
+      "claimsAnchored": [
+        "[Ellis County Commission Page](https://www.ellisco.net/120/County-Commission)",
+        "\"url\": \"https://www.ellisco.net/120/County-Commission\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0014",
+      "url": "https://haysusa.com",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1244",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00943",
+        "em-marty-tuley-01015"
+      ],
+      "claimsAnchored": [
+        "| City of Hays | 785-628-7320 | [haysusa.com](https://haysusa.com) |",
+        "[haysusa.com](https://haysusa.com)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0015",
+      "url": "https://www.tuley4gov2026.com/",
+      "sourceFile": "ui/src/data/candidates.ts:20615",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "ballot status",
+        "donor/funding",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 8,
+      "rowIds": [
+        "em-marty-tuley-01565",
+        "em-marty-tuley-00003",
+        "em-marty-tuley-00007",
+        "em-marty-tuley-00247",
+        "em-marty-tuley-00249",
+        "em-marty-tuley-00033",
+        "em-marty-tuley-01085",
+        "em-marty-tuley-01097"
+      ],
+      "claimsAnchored": [
+        "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press ",
+        "Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and",
+        "Tuley's economic message is less technocratic than investment-oriented. His campaign home page says Kansas should attract businesses by investing in education, workforce development, and local growth rather than relying on corporate giveaways ([source](https:/",
+        "\"a campaign built on common sense, Kansas values, and bold solutions\" - campaign site, 2026-04-01, https://www.tuley4gov2026.com/ - topic: campaign framing.",
+        "\"common sense\" - campaign site language, 2026-04-01, https://www.tuley4gov2026.com/ - topic: tone.",
+        "| s-campaign-home | primary | https://www.tuley4gov2026.com/ | accessed 2026-05-19 | Active campaign homepage, campaign identity, broad platform preview, donation/support language | biography, status, platform |",
+        "| Campaign site | [tuley4gov2026.com](https://www.tuley4gov2026.com/) | Active official campaign site. Footer links to Facebook, TikTok, Instagram, and YouTube. |",
+        "The campaign home page presents Tuley's message as \"Building a Kansas Worth Investing In\" and frames the race around schools, healthier communities, workforce investment, transparent government, infrastructure, clean energy, and local economic growth ([source]"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0016",
+      "url": "https://www.tuley4gov2026.com/to-do-list",
+      "sourceFile": "memory/candidates/marty-tuley/in-their-own-words.md:13",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "campaign statement",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 6,
+      "rowIds": [
+        "em-marty-tuley-00006",
+        "em-marty-tuley-00004",
+        "em-marty-tuley-00005",
+        "em-marty-tuley-00037",
+        "em-marty-tuley-01086",
+        "em-marty-tuley-01118"
+      ],
+      "claimsAnchored": [
+        "On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls ([source](https://www.tuley4gov2026.com/to-do-list)). T",
+        "Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy meals per day for public school students, no cell phones d",
+        "Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and ",
+        "| s-campaign-todo-old | primary | https://www.tuley4gov2026.com/to-do-list | accessed 2026-05-19 | Still-live older platform page; detailed bullet list including transgender-rights/sports language and electronic voting options | platform, website-version cavea",
+        "| Campaign platform | [tuley4gov2026.com/to-do-list](https://www.tuley4gov2026.com/to-do-list) and [public schools page](https://www.tuley4gov2026.com/public-schools) | Candidate-controlled platform text indexed publicly; detailed education, health, tax, energ",
+        "The most detailed candidate-controlled issue record is the campaign platform indexed at [tuley4gov2026.com/to-do-list](https://www.tuley4gov2026.com/to-do-list). The indexed page groups 27 bullet-level positions into five clusters:"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0017",
+      "url": "https://www.tuley4gov2026.com/meet-marty",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump-v2.md:32",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-marty-tuley-00034",
+        "em-marty-tuley-00008",
+        "em-marty-tuley-01103"
+      ],
+      "claimsAnchored": [
+        "| s-campaign-meet | primary | https://www.tuley4gov2026.com/meet-marty | accessed 2026-05-19 | Current-nav biography page: practical leadership, listening, economy, education, safety, accountability, family/community | biography, governance |",
+        "The campaign's governance language emphasizes practicality, transparency, and limits on political theater. The \"Meet Marty\" page says he is running to bring practical leadership and real solutions to Kansas, with a focus on showing up, listening, and avoiding ",
+        "The campaign's \"Meet Marty\" page describes him as a candidate focused on practical leadership, listening, accountability, transparency, local business, education, public safety, family, and community ([source](https://www.tuley4gov2026.com/meet-marty))."
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0018",
+      "url": "https://www.tuley4gov2026.com/platform",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump-v2.md:33",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00035"
+      ],
+      "claimsAnchored": [
+        "| s-campaign-platform | primary | https://www.tuley4gov2026.com/platform | accessed 2026-05-19 | Current-nav platform page: education, health, economy, infrastructure/energy, accountable leadership | platform |"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0019",
+      "url": "https://www.tuley4gov2026.com/public-schools",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump-v2.md:36",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00038",
+        "em-marty-tuley-01125"
+      ],
+      "claimsAnchored": [
+        "| s-campaign-public-schools-old | primary | https://www.tuley4gov2026.com/public-schools | accessed 2026-05-19 | Still-live older public-schools page: teacher pay, meals, tuition, support staff, no vouchers/private-school tax breaks | education |",
+        "The campaign's [public schools page](https://www.tuley4gov2026.com/public-schools) repeats and condenses the education agenda: top-25 national teacher pay, improved benefits, meals, junior college and technical school tuition, administrative-bloat reduction, s"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0020",
+      "url": "https://www.wibw.com/2025/07/28/democrat-marty-tuley-announces-candidacy-2026-kansas-governor/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump-v2.md:38",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat",
+        "source-only"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-marty-tuley-00040",
+        "em-marty-tuley-01128",
+        "em-marty-tuley-00436",
+        "em-marty-tuley-00688"
+      ],
+      "claimsAnchored": [
+        "| s-wibw-launch | secondary | https://www.wibw.com/2025/07/28/democrat-marty-tuley-announces-candidacy-2026-kansas-governor/ | published/updated 2025-07-28; accessed 2026-05-19 | Launch coverage; Tuley described as Lawrence Democrat/educator/parent/lifelong Ka",
+        "WIBW reported on 2025-07-28 that Tuley announced as a Democratic candidate from Lawrence and summarized his priorities as teacher pay, school meals, legal cannabis revenue for schools, opposition to private-school public funding and public/private athletic com",
+        "-- [WIBW, July 28, 2025](https://www.wibw.com/2025/07/28/democrat-marty-tuley-announces-candidacy-2026-kansas-governor/)",
+        "[WIBW: Tuley announces (July 28, 2025)](https://www.wibw.com/2025/07/28/democrat-marty-tuley-announces-candidacy-2026-kansas-governor/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0021",
+      "url": "https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1043",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00817"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Hays USD 489 Elections](https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0022",
+      "url": "https://www.kansascatholic.org/current-news/election-2026",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:903",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "church/worship"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00734"
+      ],
+      "claimsAnchored": [
+        "[Kansas Catholic Conference: Election 2026](https://www.kansascatholic.org/current-news/election-2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0023",
+      "url": "https://www.realmediakc.com/podcast/philip-sarnecki-for-kansas-governor-faith-business-outsider-vision/",
+      "sourceFile": "ui/src/data/candidates.ts:12302",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "church/worship"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-01527",
+        "em-marty-tuley-00728"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.realmediakc.com/podcast/philip-sarnecki-for-kansas-governor-faith-business-outsider-vision/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0024",
+      "url": "https://www.tuley4gov2026.com/about-marty",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump-v2.md:34",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 8,
+      "rowIds": [
+        "em-marty-tuley-00036",
+        "em-marty-tuley-00223",
+        "em-marty-tuley-00221",
+        "em-marty-tuley-00222",
+        "em-marty-tuley-00988",
+        "em-marty-tuley-01559",
+        "em-marty-tuley-00997",
+        "em-marty-tuley-01536"
+      ],
+      "claimsAnchored": [
+        "| s-campaign-about-old | primary | https://www.tuley4gov2026.com/about-marty | accessed 2026-05-19 | Still-live older biography page; fourth-generation Kansan; farmers/teachers/working family; public schools/local economy/freedoms | biography |",
+        "\"I believe in strong public schools, growing our local economy, and protecting personal freedoms.\" - campaign about page, 2026-04-01, [tuley4gov2026.com/about-marty](https://www.tuley4gov2026.com/about-marty) - topic: platform.",
+        "\"I'm a fourth-generation Kansan with deep roots in our state's soil and values.\" - campaign about page, 2026-04-01, [tuley4gov2026.com/about-marty](https://www.tuley4gov2026.com/about-marty) - topic: identity.",
+        "\"I'm not here to play party politics. I'm here to lead - with common sense, straight talk, and Kansas values.\" - campaign about page, 2026-04-01, [tuley4gov2026.com/about-marty](https://www.tuley4gov2026.com/about-marty) - topic: campaign message.",
+        "> -- Tuley campaign about page, April 1, 2026, https://www.tuley4gov2026.com/about-marty",
+        "\"source\": \"Tuley campaign about page, April 1, 2026, https://www.tuley4gov2026.com/about-marty\",",
+        "[tuley4gov2026.com/about-marty](https://www.tuley4gov2026.com/about-marty)",
+        "\"campaignWebsite\": \"https://www.tuley4gov2026.com/about-marty\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0025",
+      "url": "https://www.einpresswire.com/article/824455910/invest-in-kansas-tuley-s-platform-to-rebuild-schools-health-and-economy",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump-v2.md:37",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "campaign statement",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-marty-tuley-00039",
+        "em-marty-tuley-01218",
+        "em-marty-tuley-01126"
+      ],
+      "claimsAnchored": [
+        "| s-ein-launch | primary | https://www.einpresswire.com/article/824455910/invest-in-kansas-tuley-s-platform-to-rebuild-schools-health-and-economy | published 2025-06-30; accessed 2026-05-19 | Campaign-distributed release with platform bullets, media contact, a",
+        "\"url\": \"https://www.einpresswire.com/article/824455910/invest-in-kansas-tuley-s-platform-to-rebuild-schools-health-and-economy\",",
+        "The campaign launch release distributed through EIN Presswire on 2025-06-30 lists many of the same platform priorities and identifies Tuley as an educator, parent, and lifelong Kansan running for governor ([source](https://www.einpresswire.com/article/82445591"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0026",
+      "url": "https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump-v2.md:40",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-marty-tuley-00042",
+        "em-marty-tuley-00319",
+        "em-marty-tuley-00667",
+        "em-marty-tuley-01129"
+      ],
+      "claimsAnchored": [
+        "| s-kansas-reflector-debate | secondary | https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/ | published 2026-03-08; accessed 2026-05-19 | Democratic governor forum coverage;",
+        "> -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)",
+        "[Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)",
+        "Kansas Reflector covered the March 8, 2026 Democratic governor forum and described Tuley as acknowledging he was a \"third wheel\" against two legislative candidates while presenting himself as a different kind of Democrat with a nontraditional background ([sour"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0027",
+      "url": "https://www.tuley4gov2026.com/`",
+      "sourceFile": "memory/candidates/marty-tuley/sleuth-pass.md:31",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-01039",
+        "em-marty-tuley-01028"
+      ],
+      "claimsAnchored": [
+        "Campaign website: Active at https://www.tuley4gov2026.com/. The current home page says the campaign is about \"Building a Kansas Worth Investing In\" and links social icons. Earlier still-live pages at /about-marty, /to-do-list, /public-schools, /health-and-fitn",
+        "Campaign site active: https://www.tuley4gov2026.com/ is active and identifies the campaign as \"Tuley for Governor 2026.\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0028",
+      "url": "https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump-v2.md:39",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-marty-tuley-00041",
+        "em-marty-tuley-00709",
+        "em-marty-tuley-01477",
+        "em-marty-tuley-01130"
+      ],
+      "claimsAnchored": [
+        "| s-kcur-guide | secondary | https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates | published 2025-07-24; accessed 2026-05-19 | Kansas News Service/KCUR candidate guide; Tuley described as author/perso",
+        "[KCUR: Kansas governor 2026 guide (July 24, 2025)](https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates)",
+        "https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates -- KCUR candidate guide -- accessed 2026-03-30",
+        "KCUR / Kansas News Service's governor race guide described Tuley as an author and personal trainer in Lawrence and summarized his platform around recreational cannabis, education and health revenue, corporate incentives, daily physical education, and banning p"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0029",
+      "url": "https://www.tuley4gov2026.com",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:408",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00206"
+      ],
+      "claimsAnchored": [
+        "Campaign Website: [tuley4gov2026.com](https://www.tuley4gov2026.com)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0030",
+      "url": "https://ethanforkansas.com",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:129",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00275",
+        "em-marty-tuley-00677"
+      ],
+      "claimsAnchored": [
+        "Campaign Website: [ethanforkansas.com](https://ethanforkansas.com)",
+        "[ethanforkansas.com](https://ethanforkansas.com)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0031",
+      "url": "https://cindyforkansas.com",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:232",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00346",
+        "em-marty-tuley-00685"
+      ],
+      "claimsAnchored": [
+        "Campaign Website: [cindyforkansas.com](https://cindyforkansas.com)",
+        "[cindyforkansas.com](https://cindyforkansas.com)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0032",
+      "url": "https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:286",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-marty-tuley-00379",
+        "em-marty-tuley-00382",
+        "em-marty-tuley-01586",
+        "em-marty-tuley-00682"
+      ],
+      "claimsAnchored": [
+        "> -- [Johnson County Post, March 13, 2023](https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/)",
+        "> -- [Johnson County Post, 2023](https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/)",
+        "\"url\": \"https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0033",
+      "url": "https://kansasreflector.com/2025/08/01/kansas-governor-candidate-cindy-holscher-objects-to-alleged-pressure-campaign-by-kellys-staff/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:305",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00390",
+        "em-marty-tuley-00680"
+      ],
+      "claimsAnchored": [
+        "> -- [Kansas Reflector, August 1, 2025](https://kansasreflector.com/2025/08/01/kansas-governor-candidate-cindy-holscher-objects-to-alleged-pressure-campaign-by-kellys-staff/)",
+        "[Kansas Reflector: Kelly staff pressure (Aug 1, 2025)](https://kansasreflector.com/2025/08/01/kansas-governor-candidate-cindy-holscher-objects-to-alleged-pressure-campaign-by-kellys-staff/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0034",
+      "url": "https://www.cindyforsenateks.com/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:342",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00406",
+        "em-marty-tuley-01004"
+      ],
+      "claimsAnchored": [
+        "Campaign Senate page: [cindyforsenateks.com](https://www.cindyforsenateks.com/)",
+        "[cindyforsenateks.com](https://www.cindyforsenateks.com/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0035",
+      "url": "https://oharaforkansas.com",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:434",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-marty-tuley-00449",
+        "em-marty-tuley-00498",
+        "em-marty-tuley-00704"
+      ],
+      "claimsAnchored": [
+        "Campaign Website: [oharaforkansas.com](https://oharaforkansas.com)",
+        "Campaign Website: [oharaforkansas.com](https://oharaforkansas.com) -- includes extensive columns and policy positions",
+        "[oharaforkansas.com](https://oharaforkansas.com)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0036",
+      "url": "https://kansasreflector.com/2025/11/28/its-an-honesty-dozens-of-columns-voice-the-politics-of-one-candidate-for-kansas-governor/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:496",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00488",
+        "em-marty-tuley-00698"
+      ],
+      "claimsAnchored": [
+        "> -- [Kansas Reflector, November 28, 2025](https://kansasreflector.com/2025/11/28/its-an-honesty-dozens-of-columns-voice-the-politics-of-one-candidate-for-kansas-governor/)",
+        "[Kansas Reflector: Dozens of columns (Nov 28, 2025)](https://kansasreflector.com/2025/11/28/its-an-honesty-dozens-of-columns-voice-the-politics-of-one-candidate-for-kansas-governor/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0037",
+      "url": "https://kansasreflector.com/2026/02/16/kansas-gop-candidate-for-governor-says-state-needs-a-true-conservative/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:502",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00491",
+        "em-marty-tuley-00697"
+      ],
+      "claimsAnchored": [
+        "> -- [Kansas Reflector, February 16, 2026](https://kansasreflector.com/2026/02/16/kansas-gop-candidate-for-governor-says-state-needs-a-true-conservative/)",
+        "[Kansas Reflector: O'Hara \"true conservative\" (Feb 16, 2026)](https://kansasreflector.com/2026/02/16/kansas-gop-candidate-for-governor-says-state-needs-a-true-conservative/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0038",
+      "url": "https://stacyrogersforks.com",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:527",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00501",
+        "em-marty-tuley-00712"
+      ],
+      "claimsAnchored": [
+        "Campaign Website: [stacyrogersforks.com](https://stacyrogersforks.com)",
+        "[stacyrogersforks.com](https://stacyrogersforks.com)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0039",
+      "url": "https://www.kansascomeback.com",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:592",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00536",
+        "em-marty-tuley-00720"
+      ],
+      "claimsAnchored": [
+        "Campaign Website: [kansascomeback.com](https://www.kansascomeback.com)",
+        "[kansascomeback.com](https://www.kansascomeback.com)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0040",
+      "url": "https://www.ksn.com/news/your-local-election-hq/joy-eakins-announces-bid-for-kansas-governor/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:641",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00567",
+        "em-marty-tuley-00715"
+      ],
+      "claimsAnchored": [
+        "> -- [KSN News](https://www.ksn.com/news/your-local-election-hq/joy-eakins-announces-bid-for-kansas-governor/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0041",
+      "url": "https://philipsarnecki.org",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:755",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00579",
+        "em-marty-tuley-00730"
+      ],
+      "claimsAnchored": [
+        "Campaign Website: [philipsarnecki.org](https://philipsarnecki.org)",
+        "[philipsarnecki.org](https://philipsarnecki.org)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0042",
+      "url": "https://kansasreflector.com/2026/01/09/latest-kansas-campaign-finance-reports-schwab-takes-in-1-3m-corson-receives-900k/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:824",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00668"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Campaign finance reports (Jan 9, 2026)](https://kansasreflector.com/2026/01/09/latest-kansas-campaign-finance-reports-schwab-takes-in-1-3m-corson-receives-900k/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0043",
+      "url": "https://kansasreflector.com/2025/10/06/kansas-senator-leans-into-bipartisan-allure-in-campaign-for-kansas-governor/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:838",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00681"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Bipartisan allure (Oct 6, 2025)](https://kansasreflector.com/2025/10/06/kansas-senator-leans-into-bipartisan-allure-in-campaign-for-kansas-governor/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0044",
+      "url": "https://johnsoncountypost.com/2024/11/05/county-commission-races-2024-general-246243/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:862",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00701"
+      ],
+      "claimsAnchored": [
+        "[Johnson County Post: 2024 election results (Nov 5, 2024)](https://johnsoncountypost.com/2024/11/05/county-commission-races-2024-general-246243/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0045",
+      "url": "https://www.ksn.com/news/your-local-election-hq/republican-woman-wants-to-be-next-kansas-governor/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:869",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00707"
+      ],
+      "claimsAnchored": [
+        "[KSN: Republican woman for governor](https://www.ksn.com/news/your-local-election-hq/republican-woman-wants-to-be-next-kansas-governor/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0046",
+      "url": "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:901",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-marty-tuley-00732",
+        "em-marty-tuley-00863",
+        "em-marty-tuley-01475"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: 2026 Kansas gubernatorial election](https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026)",
+        "[Ballotpedia: KS Governor 2026](https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026)",
+        "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026 -- Full candidate list, election timeline -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0047",
+      "url": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:902",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-marty-tuley-00733",
+        "em-marty-tuley-00864",
+        "em-marty-tuley-01476"
+      ],
+      "claimsAnchored": [
+        "[Wikipedia: 2026 Kansas gubernatorial election](https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election)",
+        "[Wikipedia: 2026 KS Gubernatorial](https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election)",
+        "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election -- Candidate details and background -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0048",
+      "url": "https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:951",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00761"
+      ],
+      "claimsAnchored": [
+        "[Hays Post: 2025 Election Results](https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0049",
+      "url": "https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:981",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00780",
+        "em-marty-tuley-00805"
+      ],
+      "claimsAnchored": [
+        "[Hays Post: 2024 Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
+        "[Hays Post: 2024 General Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0050",
+      "url": "https://ballotpedia.org/Kansas_2026_ballot_measures",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1140",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00877"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: KS 2026 Ballot Measures](https://ballotpedia.org/Kansas_2026_ballot_measures)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0051",
+      "url": "https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1141",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00878"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0052",
+      "url": "https://www.votenokansas.org/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1142",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00879",
+        "em-marty-tuley-01487"
+      ],
+      "claimsAnchored": [
+        "[Vote No Kansas 2026](https://www.votenokansas.org/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0053",
+      "url": "https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:825",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00669",
+        "em-marty-tuley-00689"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Rural voter appeal (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)",
+        "[Kansas Reflector: Rural voters (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0054",
+      "url": "https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:872",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00710"
+      ],
+      "claimsAnchored": [
+        "[Schooley Mitchell: Eberly Farm / Kids Closet story](https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0055",
+      "url": "https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:637",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-marty-tuley-00564",
+        "em-marty-tuley-00714",
+        "em-marty-tuley-01498"
+      ],
+      "claimsAnchored": [
+        "> -- [Kansas Reflector, January 19, 2026](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
+        "[Kansas Reflector: Millionaire candidates (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
+        "\"url\": \"https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0056",
+      "url": "https://johnsoncountypost.com/2025/03/10/charlotte-ohara-kansas-governor-bid-254803/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:861",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00700"
+      ],
+      "claimsAnchored": [
+        "[Johnson County Post: O'Hara governor bid (March 10, 2025)](https://johnsoncountypost.com/2025/03/10/charlotte-ohara-kansas-governor-bid-254803/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0057",
+      "url": "https://trendingpoliticsnews.com/new-frontrunner-emerges-in-key-race-as-gop-candidate-shatters-fundraising-records-mace/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:891",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00724"
+      ],
+      "claimsAnchored": [
+        "[Trending Politics: Frontrunner emerges](https://trendingpoliticsnews.com/new-frontrunner-emerges-in-key-race-as-gop-candidate-shatters-fundraising-records-mace/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0058",
+      "url": "https://hayspost.com/posts/eb1182bd-00f4-4751-912d-03481e2570d8",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:950",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00760"
+      ],
+      "claimsAnchored": [
+        "[Hays Post: Commission Sworn In](https://hayspost.com/posts/eb1182bd-00f4-4751-912d-03481e2570d8)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0059",
+      "url": "https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:982",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00781"
+      ],
+      "claimsAnchored": [
+        "[Hays Post: Commission Salary Adjustments 2026](https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0060",
+      "url": "https://hayspost.com/posts/5de6670c-0b28-4836-820e-a80866aa4e94",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1044",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00818"
+      ],
+      "claimsAnchored": [
+        "[Hays Post: Ellis County Canvass 2025](https://hayspost.com/posts/5de6670c-0b28-4836-820e-a80866aa4e94)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0061",
+      "url": "https://ballotpedia.org/Kansas_State_Senate_District_38",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1070",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00835"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: KS Senate District 38](https://ballotpedia.org/Kansas_State_Senate_District_38)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0062",
+      "url": "https://haysmedfoundation.org/board/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1170",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00896"
+      ],
+      "claimsAnchored": [
+        "[HaysMed Foundation Board](https://haysmedfoundation.org/board/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0063",
+      "url": "https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:893",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00726"
+      ],
+      "claimsAnchored": [
+        "[NOLN: Strickland Brothers franchise owner](https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0064",
+      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump-v2.md:27",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00029"
+      ],
+      "claimsAnchored": [
+        "| s-sos-candidate-list-blocked | primary | https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx | attempted 2026-05-19 | Official candidate-list endpoint returned CloudFront 403 in this environment | blocker |"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0065",
+      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx`",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump-v2.md:58",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00053"
+      ],
+      "claimsAnchored": [
+        "Blocked: s-sos-candidate-list-blocked. Direct curl readback of https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx returned HTTP 403 from CloudFront. No direct SOS candidate-table row was captured."
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0066",
+      "url": null,
+      "sourceFile": "memory/candidates/marty-tuley/social-harvest.md:104",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social post",
+        "public absence",
+        "social follow"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 41,
+      "rowIds": [
+        "em-marty-tuley-01137",
+        "em-marty-tuley-01120",
+        "em-marty-tuley-01122",
+        "em-marty-tuley-01123",
+        "em-marty-tuley-01124",
+        "em-marty-tuley-01121",
+        "em-marty-tuley-01080",
+        "em-marty-tuley-01096",
+        "em-marty-tuley-01098",
+        "em-marty-tuley-01141",
+        "em-marty-tuley-01142",
+        "em-marty-tuley-01076",
+        "em-marty-tuley-01077",
+        "em-marty-tuley-01078",
+        "em-marty-tuley-01079",
+        "em-marty-tuley-01081",
+        "em-marty-tuley-01082",
+        "em-marty-tuley-01083",
+        "em-marty-tuley-01084",
+        "em-marty-tuley-01092",
+        "em-marty-tuley-01093",
+        "em-marty-tuley-01094",
+        "em-marty-tuley-01095",
+        "em-marty-tuley-01105",
+        "em-marty-tuley-01106",
+        "em-marty-tuley-01107",
+        "em-marty-tuley-01108",
+        "em-marty-tuley-01109",
+        "em-marty-tuley-01110",
+        "em-marty-tuley-01111",
+        "em-marty-tuley-01112",
+        "em-marty-tuley-01117",
+        "em-marty-tuley-01119",
+        "em-marty-tuley-01127",
+        "em-marty-tuley-01132",
+        "em-marty-tuley-01135",
+        "em-marty-tuley-01136",
+        "em-marty-tuley-01138",
+        "em-marty-tuley-01139",
+        "em-marty-tuley-01140",
+        "em-marty-tuley-01143"
+      ],
+      "claimsAnchored": [
+        "Across candidate-controlled site/platform text and indexed public coverage, no detailed candidate-controlled statements were captured on abortion, gun policy, religious liberty, Medicaid expansion, rural hospitals, water policy, the Ogallala Aquifer, property ",
+        "| Education and public schools | 10 | Teacher pay, teacher benefits, junior college and technical school tuition, two school meals, cell phone limits, transgender-rights language paired with opposition to transgender girls competing with biological girls, admi",
+        "| Economic and tax policy | 4 | Marijuana legalization with revenue for education and health, corporate tax-code reform, Kansas-grown businesses, opposition to tax cuts as a political tool. |",
+        "| Infrastructure and energy | 3 | Infrastructure built with Kansas labor, wind and solar, reduced plastic use, paperless state government. |",
+        "| Governance and values | 4 | Restraint on executive orders and pardons, easier voting including electronic options, secure but accessible border, prosperity through investment rather than austerity. |",
+        "| Health and fitness | 6 | Daily PE, no padded football under age 13, farm-to-table food, obesity prevention, personal health-care freedom, culture of wellness. |",
+        "Election slug: kansas-governor-2026",
+        "Official Campaign Site And Social Links",
+        "The official campaign site footer links to:",
+        "Platforms checked: campaign website, campaign platform pages, Facebook, TikTok, Instagram, YouTube, X, LinkedIn, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, Reddit, and broad web/news search. Sources also checked included WIBW, Kansas Reflector, KCUR",
+        "Candidate-controlled items examined: official campaign home page, meet page, platform/to-do-list page, public schools page, official social links, TikTok account metadata, Facebook page shell, Instagram page shell, YouTube channel shell, X profile state, and c",
+        "Social Harvest - Marty Tuley"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-marty-tuley-0067",
+      "url": "https://player.kmaj1440.com/2025/08/01/who-is-running-for-governor-in-kansas-for-2026/",
+      "sourceFile": "memory/candidates/marty-tuley/social-harvest.md:92",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-01131"
+      ],
+      "claimsAnchored": [
+        "KSNT's candidate guide characterized Tuley as a moderate Democrat and summarized his visible issue set as teacher pay, farm-to-table public health, transgender girls' sports, cannabis revenue for schools and health programs, and opposition to large tax breaks "
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0068",
+      "url": "https://www.tiktok.com/@tuley_for_gov",
+      "sourceFile": "memory/candidates/marty-tuley/in-their-own-words.md:19",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social follow",
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 6,
+      "rowIds": [
+        "em-marty-tuley-00009",
+        "em-marty-tuley-01104",
+        "em-marty-tuley-00045",
+        "em-marty-tuley-01088",
+        "em-marty-tuley-01100",
+        "em-marty-tuley-01133"
+      ],
+      "claimsAnchored": [
+        "The public social footprint is broad enough to confirm official channels, but uneven in what it exposes. The campaign site links Facebook, TikTok, Instagram, and YouTube ([harvest](social-harvest.md#official-campaign-site-and-social-links)). TikTok is the stro",
+        "TikTok was the strongest account-level public social signal in the harvest. The official campaign-linked profile [@tuley_for_gov](https://www.tiktok.com/@tuley_for_gov) exposed:",
+        "| s-tiktok | social | https://www.tiktok.com/@tuley_for_gov | captured locally 2026-05-11; reviewed 2026-05-19 | Campaign-linked TikTok account metadata: followers/following/likes/video count; post-level text unavailable | social presence |",
+        "| TikTok | [@tuley_for_gov](https://www.tiktok.com/@tuley_for_gov) | Officially linked from campaign site. Public metadata captured 1,936 followers, 132 following, 10.4K likes, and 185 videos. Bio/signature: \"Hi, my name is Martin Tuley, and I'm fighting for K",
+        "[TikTok: @tuley_for_gov](https://www.tiktok.com/@tuley_for_gov)",
+        "The highest measurable public engagement signal found on candidate-controlled social was TikTok account-level engagement: 10.4K likes across 185 videos on [@tuley_for_gov](https://www.tiktok.com/@tuley_for_gov), captured 2026-05-11. No post-level TikTok, Faceb"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0069",
+      "url": "https://x.com/TuleyMarty",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump-v2.md:46",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "public absence",
+        "social post",
+        "social follow"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-marty-tuley-00048",
+        "em-marty-tuley-00010",
+        "em-marty-tuley-01091",
+        "em-marty-tuley-01134"
+      ],
+      "claimsAnchored": [
+        "| s-x-adjacent | social | https://x.com/TuleyMarty | captured locally 2026-05-11; reviewed 2026-05-19 | Identity-adjacent X profile not linked from campaign site; local capture showed 0 statuses | social absence |",
+        "Audience response can only be measured at the account level from the accessible public data. The highest visible engagement signal was TikTok's 10.4K account likes across 185 videos as of May 11, 2026 ([harvest](social-harvest.md#highest-visible-engagement)). ",
+        "| X / Twitter | [@TuleyMarty](https://x.com/TuleyMarty) | Not linked from campaign site. Public X state showed display name \"Marty Tuley,\" 7 followers, 9 following, 0 statuses, created 2022-08-21. Treated as identity-adjacent, not a current campaign channel. |",
+        "The X account [@TuleyMarty](https://x.com/TuleyMarty), not linked from the campaign site, showed 0 statuses and therefore no visible campaign engagement."
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0070",
+      "url": "https://www.facebook.com/martytuley/",
+      "sourceFile": "memory/candidates/marty-tuley/social-harvest.md:56",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-marty-tuley-01113",
+        "em-marty-tuley-01114",
+        "em-marty-tuley-00044",
+        "em-marty-tuley-01087",
+        "em-marty-tuley-01099"
+      ],
+      "claimsAnchored": [
+        "The official campaign site links to [facebook.com/martytuley](https://www.facebook.com/martytuley/). Logged-out page capture confirmed the title/profile name \"Marty Tuley,\" but Facebook returned browser and login walls for post access. No reliable public post ",
+        "Older project data and candidate registry sources also list a Facebook profile id URL, but the current campaign site link is the clearer official link: [facebook.com/martytuley](https://www.facebook.com/martytuley/).",
+        "| s-facebook | social | https://www.facebook.com/martytuley/ | captured locally 2026-05-11; reviewed 2026-05-19 | Campaign-linked Facebook page shell; post-level content blocked/gated | social presence |",
+        "| Facebook | [facebook.com/martytuley](https://www.facebook.com/martytuley/) | Officially linked from campaign site. Logged-out capture confirmed page title/profile name \"Marty Tuley,\" but Facebook blocked post harvest behind browser/login controls. |",
+        "[Facebook: martytuley](https://www.facebook.com/martytuley/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0071",
+      "url": "https://www.instagram.com/tuley_for_gov",
+      "sourceFile": "memory/candidates/marty-tuley/social-harvest.md:62",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-marty-tuley-01115",
+        "em-marty-tuley-00046",
+        "em-marty-tuley-00993",
+        "em-marty-tuley-01089",
+        "em-marty-tuley-01101"
+      ],
+      "claimsAnchored": [
+        "The official campaign site links to [@tuley_for_gov](https://www.instagram.com/tuley_for_gov). Logged-out public HTML confirmed the username. Instagram did not expose a reliable profile biography, post count, post captions, dates, likes, comments, or follower ",
+        "| s-instagram | social | https://www.instagram.com/tuley_for_gov | captured locally 2026-05-11; reviewed 2026-05-19 | Campaign-linked Instagram username; post-level content unavailable | social presence |",
+        "[Instagram](https://www.instagram.com/tuley_for_gov)",
+        "| Instagram | [@tuley_for_gov](https://www.instagram.com/tuley_for_gov) | Officially linked from campaign site. Logged-out HTML confirmed username only; post count, biography, captions, and engagement were not available in the public capture. |",
+        "[Instagram: @tuley_for_gov](https://www.instagram.com/tuley_for_gov)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0072",
+      "url": "https://www.youtube.com/@MartyTuley",
+      "sourceFile": "memory/candidates/marty-tuley/social-harvest.md:66",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-marty-tuley-01116",
+        "em-marty-tuley-00047",
+        "em-marty-tuley-00994",
+        "em-marty-tuley-01090",
+        "em-marty-tuley-01102"
+      ],
+      "claimsAnchored": [
+        "The official campaign site links to [@MartyTuley](https://www.youtube.com/@MartyTuley). The YouTube page shell resolved to channel id UCpnusTotgwhGo_9_wH8soHg, but the public logged-out capture did not expose usable video titles, dates, views, or descriptions.",
+        "| s-youtube | social | https://www.youtube.com/@MartyTuley | captured locally 2026-05-11; reviewed 2026-05-19 | Campaign-linked YouTube shell/channel lead; post-level video metadata unavailable | social presence |",
+        "[YouTube](https://www.youtube.com/@MartyTuley)",
+        "| YouTube | [@MartyTuley](https://www.youtube.com/@MartyTuley) | Officially linked from campaign site. Public channel shell confirmed channel id UCpnusTotgwhGo_9_wH8soHg; post-level video list was not exposed in the capture. Third-party index [IDCrawl](https:/",
+        "[YouTube: @MartyTuley](https://www.youtube.com/@MartyTuley)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0073",
+      "url": null,
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump-v2.md:340",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "legal/court",
+        "ballot status",
+        "campaign statement",
+        "voting record",
+        "church/worship",
+        "donor/funding",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 159,
+      "rowIds": [
+        "em-marty-tuley-00180",
+        "em-marty-tuley-00167",
+        "em-marty-tuley-00191",
+        "em-marty-tuley-00127",
+        "em-marty-tuley-00129",
+        "em-marty-tuley-00130",
+        "em-marty-tuley-00131",
+        "em-marty-tuley-00132",
+        "em-marty-tuley-00160",
+        "em-marty-tuley-00184",
+        "em-marty-tuley-00099",
+        "em-marty-tuley-00100",
+        "em-marty-tuley-00104",
+        "em-marty-tuley-00107",
+        "em-marty-tuley-00108",
+        "em-marty-tuley-00110",
+        "em-marty-tuley-00111",
+        "em-marty-tuley-00113",
+        "em-marty-tuley-00116",
+        "em-marty-tuley-00117",
+        "em-marty-tuley-00119",
+        "em-marty-tuley-00123",
+        "em-marty-tuley-00125",
+        "em-marty-tuley-00161",
+        "em-marty-tuley-00163",
+        "em-marty-tuley-00164",
+        "em-marty-tuley-00169",
+        "em-marty-tuley-00190",
+        "em-marty-tuley-00022",
+        "em-marty-tuley-00052",
+        "em-marty-tuley-00121",
+        "em-marty-tuley-00124",
+        "em-marty-tuley-00126",
+        "em-marty-tuley-00136",
+        "em-marty-tuley-00192",
+        "em-marty-tuley-00168",
+        "em-marty-tuley-00144",
+        "em-marty-tuley-00146",
+        "em-marty-tuley-00148",
+        "em-marty-tuley-00150",
+        "em-marty-tuley-00114",
+        "em-marty-tuley-00118",
+        "em-marty-tuley-00120",
+        "em-marty-tuley-00162",
+        "em-marty-tuley-00170",
+        "em-marty-tuley-00183",
+        "em-marty-tuley-00015",
+        "em-marty-tuley-00016",
+        "em-marty-tuley-00023",
+        "em-marty-tuley-00043"
+      ],
+      "claimsAnchored": [
+        "Website Versioning / Source Conflict Notes",
+        "Abortion / reproductive policy.",
+        "Candidate-controlled detailed positions on abortion, gun policy, Medicaid expansion, rural hospitals, water/Ogallala, property taxes, child care, foster care, policing/prisons, tribal issues, or Kansas Supreme Court selection.",
+        "Issue Area 4 - School Athletics and LGBTQ Policy",
+        "The older still-live to-do-list page states: \"Support transgender rights but oppose transgender girls competing in sports with biological girls.\" The campaign-distributed release states opposition to transgender girls competing in girls' sports and frames the ",
+        "The newer current-nav platform page uses less specific wording, listing \"Ensure fair and consistent standards in school athletics\" under education key priorities. Both pages are active, so downstream language should identify which source is being used and shou",
+        "2025-06-30: Campaign-distributed release included opposition to transgender girls competing in girls' sports. Sources: s-ein-launch.",
+        "2025-07-28: WIBW launch coverage included opposition to transgender girls competing in girls' sports among Tuley's stated priorities. Sources: s-wibw-launch.",
+        "WIBW reported on July 28, 2025 that Tuley, a Democrat from Lawrence, announced his candidacy for Kansas governor. The article described him as an educator, parent, and lifelong Kansan and summarized priorities including teacher pay, school meals, legal cannabi",
+        "Both sets are candidate-controlled and accessible on May 19, 2026. They are broadly consistent on education, health, economic investment, cannabis revenue, and government accountability, but they do not use identical wording. The older /to-do-list page is more",
+        "The campaign home page identifies the campaign as \"Tuley for Governor 2026\" and frames the campaign around \"Building a Kansas Worth Investing In.\" The current meet-marty page says Tuley is running for Governor to bring practical leadership and real solutions, ",
+        "The older still-live about-marty page supplies the fuller biographical language: Tuley describes himself as a fourth-generation Kansan with family roots in farming, public-school teaching, and working people. It says he was not born into politics and built a l"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-marty-tuley-0074",
+      "url": "https://sos.ks.gov/elections/elections.html",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1245",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00944",
+        "em-marty-tuley-01016"
+      ],
+      "claimsAnchored": [
+        "| Kansas Secretary of State | 785-296-4564 | [sos.ks.gov/elections](https://sos.ks.gov/elections/elections.html) |",
+        "[sos.ks.gov/elections](https://sos.ks.gov/elections/elections.html)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0075",
+      "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_corson_ethan_1/",
+      "sourceFile": "ui/src/data/candidates.ts:12182",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-01179",
+        "em-marty-tuley-00676"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.kslegislature.gov/li/b2025_26/members/sen_corson_ethan_1/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0076",
+      "url": "https://ministryofinfluence.org/candidates/martin-tuley/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:93",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-marty-tuley-00026",
+        "em-marty-tuley-00248",
+        "em-marty-tuley-01018"
+      ],
+      "claimsAnchored": [
+        "https://ministryofinfluence.org/candidates/martin-tuley/",
+        "\"Kansas works best when it works for everyone\" - Ministry of Influence profile, 2026-04-01, https://ministryofinfluence.org/candidates/martin-tuley/ - topic: governing philosophy.",
+        "[ministryofinfluence.org](https://ministryofinfluence.org/candidates/martin-tuley/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0077",
+      "url": "https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:507",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-marty-tuley-00495",
+        "em-marty-tuley-00699",
+        "em-marty-tuley-01478"
+      ],
+      "claimsAnchored": [
+        "> -- [Kansas Reflector, January 30, 2026](https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/)",
+        "[Kansas Reflector: GOP debate (Jan 30, 2026)](https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/)",
+        "https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/ -- GOP debate coverage (Jan 2026) -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0078",
+      "url": "https://cindyforkansas.com/endorsements/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:844",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00686"
+      ],
+      "claimsAnchored": [
+        "[cindyforkansas.com/endorsements](https://cindyforkansas.com/endorsements/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0079",
+      "url": "https://www.amazon.com/Get-Off-Your-Ass-Definitive/dp/1591201292",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:850",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00690"
+      ],
+      "claimsAnchored": [
+        "[Amazon: Get Off Your Ass!](https://www.amazon.com/Get-Off-Your-Ass-Definitive/dp/1591201292)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0080",
+      "url": "https://www.amazon.com/Busting-Your-Butt-Gut-Minimizing/dp/1591202086",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:851",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00691"
+      ],
+      "claimsAnchored": [
+        "[Amazon: Busting Your Butt and Gut](https://www.amazon.com/Busting-Your-Butt-Gut-Minimizing/dp/1591202086)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0081",
+      "url": "https://www.readhowyouwant.com/authors/details/Marty-Tuley/6407",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:852",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00692"
+      ],
+      "claimsAnchored": [
+        "[ReadHowYouWant: Tuley biography](https://www.readhowyouwant.com/authors/details/Marty-Tuley/6407)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0082",
+      "url": "https://www2.ljworld.com/news/2003/mar/27/legal_battles_weigh/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:853",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00693"
+      ],
+      "claimsAnchored": [
+        "[Lawrence Journal-World: Total Fitness legal battles (2003)](https://www2.ljworld.com/news/2003/mar/27/legal_battles_weigh/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0083",
+      "url": "https://openpowerlifting.org/u/martytuley",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:854",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00694"
+      ],
+      "claimsAnchored": [
+        "[Open Powerlifting: Marty Tuley](https://openpowerlifting.org/u/martytuley)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0084",
+      "url": "https://www.tuley4gov2026.com/contact",
+      "sourceFile": "memory/candidates/marty-tuley/site-profile.md:186",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00695"
+      ],
+      "claimsAnchored": [
+        "[tuley4gov2026.com](https://www.tuley4gov2026.com/contact)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0085",
+      "url": "https://cornerstonedata.com/about-us/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:882",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00718"
+      ],
+      "claimsAnchored": [
+        "[Cornerstone Data: About Us](https://cornerstonedata.com/about-us/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0086",
+      "url": "https://wltreport.com/2026/03/18/meet-republican-businessman-outsider-running-kansas-governor-gaining/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:890",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00723"
+      ],
+      "claimsAnchored": [
+        "[WLT Report: Meet the Republican businessman outsider (March 18, 2026)](https://wltreport.com/2026/03/18/meet-republican-businessman-outsider-running-kansas-governor-gaining/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0087",
+      "url": "https://hayspost.com/posts/7bf9c6e7-b64c-4412-ba77-c1174d969816",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1022",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00806"
+      ],
+      "claimsAnchored": [
+        "[Hays Post: Harbin Retires](https://hayspost.com/posts/7bf9c6e7-b64c-4412-ba77-c1174d969816)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0088",
+      "url": "https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1094",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00848"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: KS US Senate 2026](https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0089",
+      "url": "https://ballotpedia.org/Kansas",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1095",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00849"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: KS-01 2026](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0090",
+      "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1096",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00850"
+      ],
+      "claimsAnchored": [
+        "[KCUR: Senate Candidates Guide](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0091",
+      "url": "https://kansasreflector.com/2025/11/17/gov-laura-kelly-offers-formal-endorsement-of-democratic-sen-ethan-corson-for-governor/",
+      "sourceFile": "ui/src/data/candidates.ts:12142",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "endorsement"
+      ],
+      "useDecisions": [
+        "source-only",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-01503",
+        "em-marty-tuley-00665"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://kansasreflector.com/2025/11/17/gov-laura-kelly-offers-formal-endorsement-of-democratic-sen-ethan-corson-for-governor/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0092",
+      "url": "https://www.facebook.com/profile.php?id=100088545015076",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:14",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-marty-tuley-00209",
+        "em-marty-tuley-00239",
+        "em-marty-tuley-00992"
+      ],
+      "claimsAnchored": [
+        "The site links public social accounts on [Facebook](https://www.facebook.com/profile.php?id=100088545015076), [Instagram](https://www.instagram.com/tuley_for_gov), [YouTube](https://www.youtube.com/@MartyTuley), and [TikTok](http://www.tiktok.com/@tuley_for_go",
+        "https://www.facebook.com/profile.php?id=100088545015076",
+        "[Facebook](https://www.facebook.com/profile.php?id=100088545015076)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0093",
+      "url": "https://www.instagram.com/ethanforkansas/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:219",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00340",
+        "em-marty-tuley-01001"
+      ],
+      "claimsAnchored": [
+        "Instagram: [@ethanforkansas](https://www.instagram.com/ethanforkansas/) (331 followers reported)",
+        "[@ethanforkansas](https://www.instagram.com/ethanforkansas/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0094",
+      "url": "https://www.linkedin.com/in/ethancorson/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:221",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00342",
+        "em-marty-tuley-01002"
+      ],
+      "claimsAnchored": [
+        "LinkedIn: [linkedin.com/in/ethancorson](https://www.linkedin.com/in/ethancorson/)",
+        "[linkedin.com/in/ethancorson](https://www.linkedin.com/in/ethancorson/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0095",
+      "url": "https://www.facebook.com/oharaforjoco/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:515",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00497",
+        "em-marty-tuley-01005"
+      ],
+      "claimsAnchored": [
+        "Facebook: [O'Hara for JoCo](https://www.facebook.com/oharaforjoco/) (previously her commissioner page, now repurposed)",
+        "[O'Hara for JoCo](https://www.facebook.com/oharaforjoco/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0096",
+      "url": "https://www.facebook.com/JoyforKS/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:659",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00573",
+        "em-marty-tuley-01008"
+      ],
+      "claimsAnchored": [
+        "Facebook: [Joy for KS](https://www.facebook.com/JoyforKS/)",
+        "[Joy for KS](https://www.facebook.com/JoyforKS/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0097",
+      "url": "https://x.com/JoyforKS",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:660",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00574",
+        "em-marty-tuley-01009"
+      ],
+      "claimsAnchored": [
+        "Twitter/X: [@JoyforKS](https://x.com/JoyforKS)",
+        "[@JoyforKS](https://x.com/JoyforKS)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0098",
+      "url": "http://www.tiktok.com/@tuley_for_gov",
+      "sourceFile": "memory/candidates/marty-tuley/site-profile.md:76",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00995"
+      ],
+      "claimsAnchored": [
+        "[TikTok](http://www.tiktok.com/@tuley_for_gov)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0099",
+      "url": "https://www.facebook.com/martytuley/`",
+      "sourceFile": "memory/candidates/marty-tuley/sleuth-pass.md:32",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-01040"
+      ],
+      "claimsAnchored": [
+        "Facebook: Campaign-linked/public page lead is https://www.facebook.com/martytuley/. Logged-out harvesting confirmed page presence but did not expose reliable post bodies, dates, reactions, or follower counts."
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0100",
+      "url": "https://www.facebook.com/p/Philip-Sarnecki-For-Governor-61579950041528/",
+      "sourceFile": "ui/src/data/candidates.ts:12130",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-marty-tuley-01494",
+        "em-marty-tuley-00623",
+        "em-marty-tuley-01011"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.facebook.com/p/Philip-Sarnecki-For-Governor-61579950041528/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0101",
+      "url": null,
+      "sourceFile": "memory/candidates/marty-tuley/in-their-own-words.md:23",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court",
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-marty-tuley-00011",
+        "em-marty-tuley-00002",
+        "em-marty-tuley-00012",
+        "em-marty-tuley-00001",
+        "em-marty-tuley-00013"
+      ],
+      "claimsAnchored": [
+        "Several issue areas remain absent or thin in the captured public record. Across the campaign site, indexed platform text, public campaign release, and accessible social metadata, the harvest did not capture detailed candidate-controlled statements on abortion,",
+        "*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, Tik",
+        "Methodology: Date range covered: May 30, 2025 to May 11, 2026 for visible account metadata, with campaign-controlled and indexed public statements from June 30, 2025 through May 11, 2026. Platforms surveyed: campaign website, Facebook, TikTok, Instagram, YouTu",
+        "In Their Own Words - Marty Tuley",
+        "*We report patterns; we do not interpret intent.*"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-marty-tuley-0102",
+      "url": null,
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:278",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "campaign statement",
+        "donor/funding",
+        "meeting record",
+        "biography",
+        "voting record",
+        "church/worship",
+        "ballot status",
+        "legal/court",
+        "controversy",
+        "endorsement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 604,
+      "rowIds": [
+        "em-marty-tuley-00374",
+        "em-marty-tuley-00431",
+        "em-marty-tuley-00446",
+        "em-marty-tuley-00559",
+        "em-marty-tuley-00607",
+        "em-marty-tuley-00207",
+        "em-marty-tuley-00280",
+        "em-marty-tuley-00281",
+        "em-marty-tuley-00282",
+        "em-marty-tuley-00284",
+        "em-marty-tuley-00291",
+        "em-marty-tuley-00308",
+        "em-marty-tuley-00311",
+        "em-marty-tuley-00350",
+        "em-marty-tuley-00352",
+        "em-marty-tuley-00356",
+        "em-marty-tuley-00372",
+        "em-marty-tuley-00377",
+        "em-marty-tuley-00378",
+        "em-marty-tuley-00380",
+        "em-marty-tuley-00381",
+        "em-marty-tuley-00383",
+        "em-marty-tuley-00400",
+        "em-marty-tuley-00412",
+        "em-marty-tuley-00425",
+        "em-marty-tuley-00427",
+        "em-marty-tuley-00428",
+        "em-marty-tuley-00430",
+        "em-marty-tuley-00453",
+        "em-marty-tuley-00504",
+        "em-marty-tuley-00507",
+        "em-marty-tuley-00509",
+        "em-marty-tuley-00526",
+        "em-marty-tuley-00535",
+        "em-marty-tuley-00549",
+        "em-marty-tuley-00582",
+        "em-marty-tuley-00740",
+        "em-marty-tuley-00807",
+        "em-marty-tuley-00812",
+        "em-marty-tuley-00815",
+        "em-marty-tuley-00895",
+        "em-marty-tuley-00939",
+        "em-marty-tuley-00214",
+        "em-marty-tuley-00215",
+        "em-marty-tuley-00235",
+        "em-marty-tuley-00250",
+        "em-marty-tuley-00251",
+        "em-marty-tuley-00353",
+        "em-marty-tuley-00413",
+        "em-marty-tuley-00454"
+      ],
+      "claimsAnchored": [
+        "Reproductive Rights: Supports reproductive freedom",
+        "Transgender Athletes: OPPOSES transgender girls competing in girls' sports (unusual for a Democrat)",
+        "Tuley is a political novice with no realistic path to the nomination. However, his candidacy is interesting because he breaks the Democratic mold on transgender athletes -- a position that could theoretically appeal to moderate Kansas voters but will alienate ",
+        "Education/Parental Rights: Fought for \"parents' rights, fiscal responsibility\" on school board",
+        "Education: Restore parental rights in education",
+        "The about page says he is a fourth-generation Kansan with roots in farming, football, and classroom learning.",
+        "Education:",
+        "Shawnee Mission South High School (Johnson County native)",
+        "Garden City Community College -- played baseball (left-handed pitcher), Academic All-American",
+        "Washington University School of Law -- Juris Doctor",
+        "Garden City Community College -- baseball pitcher, Academic All-American",
+        "Notable Legislative Focus Areas: Education funding, lowering cost of living, workforce development, small business support, rural healthcare access. Specific bill-by-bill voting record available at kslegislature.gov but not extractable in bulk from search."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-marty-tuley-0103",
+      "url": null,
+      "sourceFile": "memory/candidates/marty-tuley/site-profile.md:19",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "campaign statement",
+        "ballot status",
+        "church/worship",
+        "biography",
+        "voting record",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 34,
+      "rowIds": [
+        "em-marty-tuley-00966",
+        "em-marty-tuley-00963",
+        "em-marty-tuley-00967",
+        "em-marty-tuley-00971",
+        "em-marty-tuley-00978",
+        "em-marty-tuley-00958",
+        "em-marty-tuley-00973",
+        "em-marty-tuley-00968",
+        "em-marty-tuley-00982",
+        "em-marty-tuley-00983",
+        "em-marty-tuley-00984",
+        "em-marty-tuley-00972",
+        "em-marty-tuley-00964",
+        "em-marty-tuley-00990",
+        "em-marty-tuley-00969",
+        "em-marty-tuley-00970",
+        "em-marty-tuley-00960",
+        "em-marty-tuley-00962",
+        "em-marty-tuley-00974",
+        "em-marty-tuley-00977",
+        "em-marty-tuley-00959",
+        "em-marty-tuley-00975",
+        "em-marty-tuley-00976",
+        "em-marty-tuley-00979",
+        "em-marty-tuley-00980",
+        "em-marty-tuley-00981",
+        "em-marty-tuley-00985",
+        "em-marty-tuley-00986",
+        "em-marty-tuley-00991",
+        "em-marty-tuley-00957",
+        "em-marty-tuley-00961",
+        "em-marty-tuley-00965",
+        "em-marty-tuley-00987",
+        "em-marty-tuley-00989"
+      ],
+      "claimsAnchored": [
+        "Abortion / Sanctity of Life: Runs as a Democrat. The Kansas Democratic Party platform supports reproductive freedom and access to abortion. No specific personal statement found in public sources. on abortion in available materials.",
+        "His clearest break with the rest of the Democratic field is on transgender athletes in girls' sports. Tuley opposes allowing transgender girls to compete in girls' sports, a position that is unusual in a Democratic gubernatorial primary and one of the few issu",
+        "Marriage & Family / LGBTQ+ Policy: Opposes allowing transgender girls to compete in girls' sports. This is an unusual position for a Democrat in a gubernatorial primary and one of his most politically distinctive stances.",
+        "School Choice / Parental Rights in Education: Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources.",
+        "His opposition to transgender girls competing in girls' sports is one of the most specific and politically distinctive positions in his campaign.",
+        "Marty Tuley is a Lawrence-area Democrat running for governor in 2026. He presents himself as a fourth-generation Kansan whose family roots run through farming, football, and public education, and his campaign biography says his people are \"farmers, teachers, a",
+        "Public Schools: Tuley supports strong public school funding, wants to raise teacher pay, and wants two healthy meals a day for every Kansas public school child. He opposes school vouchers, saying they funnel taxpayer dollars to private schools while 60 Kansas ",
+        "Religious Liberty: Runs as a Democrat. No specific personal statement found in public sources.",
+        "Public sources do not identify a current church affiliation.",
+        "Where They Worship",
+        "Public sources do not identify a current church affiliation for Tuley. His campaign language leans heavily on values, family, and Kansas roots, but the available public record does not name a congregation or denomination.",
+        "Marijuana / Drug Policy: Supports legalizing marijuana in Kansas, with tax revenue invested in public schools."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-marty-tuley-0104",
+      "url": null,
+      "sourceFile": "memory/candidates/marty-tuley/sleuth-pass.md:50",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court",
+        "campaign statement",
+        "ballot status",
+        "church/worship",
+        "meeting record",
+        "biography",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 52,
+      "rowIds": [
+        "em-marty-tuley-01056",
+        "em-marty-tuley-01075",
+        "em-marty-tuley-01049",
+        "em-marty-tuley-01048",
+        "em-marty-tuley-01050",
+        "em-marty-tuley-01051",
+        "em-marty-tuley-01068",
+        "em-marty-tuley-01052",
+        "em-marty-tuley-01069",
+        "em-marty-tuley-01054",
+        "em-marty-tuley-01055",
+        "em-marty-tuley-01029",
+        "em-marty-tuley-01030",
+        "em-marty-tuley-01032",
+        "em-marty-tuley-01036",
+        "em-marty-tuley-01037",
+        "em-marty-tuley-01041",
+        "em-marty-tuley-01042",
+        "em-marty-tuley-01043",
+        "em-marty-tuley-01044",
+        "em-marty-tuley-01045",
+        "em-marty-tuley-01046",
+        "em-marty-tuley-01053",
+        "em-marty-tuley-01063",
+        "em-marty-tuley-01064",
+        "em-marty-tuley-01065",
+        "em-marty-tuley-01074",
+        "em-marty-tuley-01022",
+        "em-marty-tuley-01024",
+        "em-marty-tuley-01025",
+        "em-marty-tuley-01026",
+        "em-marty-tuley-01027",
+        "em-marty-tuley-01033",
+        "em-marty-tuley-01034",
+        "em-marty-tuley-01035",
+        "em-marty-tuley-01057",
+        "em-marty-tuley-01058",
+        "em-marty-tuley-01059",
+        "em-marty-tuley-01060",
+        "em-marty-tuley-01061",
+        "em-marty-tuley-00060",
+        "em-marty-tuley-01019",
+        "em-marty-tuley-01023",
+        "em-marty-tuley-01031",
+        "em-marty-tuley-01038",
+        "em-marty-tuley-01047",
+        "em-marty-tuley-01062",
+        "em-marty-tuley-01066",
+        "em-marty-tuley-01067",
+        "em-marty-tuley-01070"
+      ],
+      "claimsAnchored": [
+        "Abortion, gun policy, religious liberty, child care, foster care, policing/prisons, water/Ogallala, property taxes, tribal issues, Kansas Supreme Court selection: No detailed candidate-controlled statements were confirmed in the reviewed campaign pages, local ",
+        "Candidate-controlled positions on abortion, gun policy, religious liberty, Medicaid expansion, rural hospitals, water policy, property taxes, child care, foster care, policing/prisons, tribal issues, or Kansas Supreme Court selection beyond broad platform lang",
+        "School athletics / LGBTQ policy: The older still-live /to-do-list page explicitly says \"Support transgender rights but oppose transgender girls competing in sports with biological girls.\" The newer /platform page uses broader wording: \"Ensure fair and consiste",
+        "Public education / school funding: Strongest issue cluster. Candidate-controlled pages call for top-25 teacher pay, improved teacher benefits, fully funded junior college and technical-school tuition, two healthy meals daily for public-school students, no cell",
+        "Health and fitness: Candidate-controlled pages and launch release emphasize daily physical education, eliminating padded football under age 13, farm-to-table school nutrition, obesity prevention, personal freedom in healthcare decisions, and a culture of healt",
+        "Economic and tax policy: Candidate-controlled pages call for legalizing marijuana with tax revenue for education and health programs, reforming corporate tax incentives for out-of-state corporations, prioritizing Kansas-based businesses, and opposing tax cuts ",
+        "No current church affiliation, denomination, or religious-liberty policy statement was confirmed.",
+        "Infrastructure and energy: Candidate-controlled pages support infrastructure projects using Kansas labor, wind and solar energy development, reduced plastic use, and paperless state government operations.",
+        "No court, property, bankruptcy, business-entity, or professional-license sweep was completed in this Phase 2 deepening pass.",
+        "Immigration / border: Candidate-controlled pages use broad language supporting secure but accessible/practical/humane border policy for hardworking individuals and families. No detailed implementation plan was found.",
+        "Rural hospitals / Medicaid expansion: Kansas Reflector debate coverage reported Tuley discussing a southwest Kansas hospital official and rural hospital profitability since 2017. No candidate-controlled detailed Medicaid-expansion or rural-hospital platform pl",
+        "SOS ballot caveat: Kansas SOS candidate-information page confirms Governor/Lt. Governor is up in 2026, statewide candidates file with the Secretary of State, and the primary filing deadline is noon Monday, June 1, 2026. The live SOS candidate-list endpoint ret"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-marty-tuley-0105",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/marty-tuley.ts:455",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "legal/court",
+        "campaign statement",
+        "church/worship",
+        "voting record",
+        "meeting record",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 229,
+      "rowIds": [
+        "em-marty-tuley-01376",
+        "em-marty-tuley-01380",
+        "em-marty-tuley-01381",
+        "em-marty-tuley-01637",
+        "em-marty-tuley-01338",
+        "em-marty-tuley-01339",
+        "em-marty-tuley-01341",
+        "em-marty-tuley-01343",
+        "em-marty-tuley-01345",
+        "em-marty-tuley-01347",
+        "em-marty-tuley-01348",
+        "em-marty-tuley-01647",
+        "em-marty-tuley-01654",
+        "em-marty-tuley-01664",
+        "em-marty-tuley-01671",
+        "em-marty-tuley-01299",
+        "em-marty-tuley-01300",
+        "em-marty-tuley-01308",
+        "em-marty-tuley-01311",
+        "em-marty-tuley-01314",
+        "em-marty-tuley-01317",
+        "em-marty-tuley-01320",
+        "em-marty-tuley-01326",
+        "em-marty-tuley-01328",
+        "em-marty-tuley-01332",
+        "em-marty-tuley-01633",
+        "em-marty-tuley-01649",
+        "em-marty-tuley-01650",
+        "em-marty-tuley-01653",
+        "em-marty-tuley-01656",
+        "em-marty-tuley-01667",
+        "em-marty-tuley-01389",
+        "em-marty-tuley-01390",
+        "em-marty-tuley-01331",
+        "em-marty-tuley-01334",
+        "em-marty-tuley-01336",
+        "em-marty-tuley-01651",
+        "em-marty-tuley-01666",
+        "em-marty-tuley-01238",
+        "em-marty-tuley-01352",
+        "em-marty-tuley-01383",
+        "em-marty-tuley-01384",
+        "em-marty-tuley-01386",
+        "em-marty-tuley-01387",
+        "em-marty-tuley-01362",
+        "em-marty-tuley-01369",
+        "em-marty-tuley-01370",
+        "em-marty-tuley-01374",
+        "em-marty-tuley-01258",
+        "em-marty-tuley-01319"
+      ],
+      "claimsAnchored": [
+        "\"title\": \"Abortion / Sanctity of Life\",",
+        "\"observation\": \"The local harvest and current verification found no detailed candidate-controlled statement on abortion or reproductive policy.\",",
+        "\"mappedToIssueId\": \"i-abortion-sanctity-of-life\"",
+        "\"observation\": \"Across candidate-controlled site/platform text and indexed public coverage, no detailed candidate-controlled statements were captured on abortion, gun policy, religious liberty, Medicaid expansion, rural hospitals, water policy, the Ogallala Aq",
+        "\"title\": \"School Athletics / LGBTQ Policy\",",
+        "\"text\": \"The older still-live campaign to-do-list page says Tuley supports transgender rights but opposes transgender girls competing in sports with biological girls. The campaign-distributed release and WIBW launch coverage also reported opposition to transge",
+        "\"body\": \"The campaign-distributed release listed opposition to transgender girls competing in girls' sports as a platform priority.\",",
+        "\"body\": \"WIBW launch coverage included opposition to transgender girls competing in girls' sports among Tuley's stated priorities.\",",
+        "\"observation\": \"Two active campaign pages use different wording: the older to-do-list page is explicit about transgender rights and girls' sports, while the newer platform page says fair and consistent standards in school athletics.\",",
+        "\"mappedToIssueId\": \"i-school-athletics-lgbtq-policy\"",
+        "\"summary\": \"The campaign's still-live pages are not identical on this issue: the older page states the transgender-rights/sports position explicitly, while the newer platform page uses broader school-athletics wording.\",",
+        "\"observation\": \"KSNT's candidate guide characterized Tuley as a moderate Democrat and summarized his visible issue set as teacher pay, farm-to-table public health, transgender girls' sports, cannabis revenue for schools and health programs, and opposition to l"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-marty-tuley-0106",
+      "url": null,
+      "sourceFile": "memory/candidates/marty-tuley/v2-issues.yaml:600",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court",
+        "campaign statement",
+        "ballot status",
+        "biography",
+        "church/worship",
+        "donor/funding",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 139,
+      "rowIds": [
+        "em-marty-tuley-01460",
+        "em-marty-tuley-01232",
+        "em-marty-tuley-01241",
+        "em-marty-tuley-01250",
+        "em-marty-tuley-01212",
+        "em-marty-tuley-01216",
+        "em-marty-tuley-01220",
+        "em-marty-tuley-01221",
+        "em-marty-tuley-01222",
+        "em-marty-tuley-01223",
+        "em-marty-tuley-01227",
+        "em-marty-tuley-01231",
+        "em-marty-tuley-01236",
+        "em-marty-tuley-01256",
+        "em-marty-tuley-01458",
+        "em-marty-tuley-01459",
+        "em-marty-tuley-01171",
+        "em-marty-tuley-01228",
+        "em-marty-tuley-01262",
+        "em-marty-tuley-01071",
+        "em-marty-tuley-01072",
+        "em-marty-tuley-01148",
+        "em-marty-tuley-01149",
+        "em-marty-tuley-01150",
+        "em-marty-tuley-01151",
+        "em-marty-tuley-01152",
+        "em-marty-tuley-01153",
+        "em-marty-tuley-01154",
+        "em-marty-tuley-01170",
+        "em-marty-tuley-01172",
+        "em-marty-tuley-01174",
+        "em-marty-tuley-01175",
+        "em-marty-tuley-01176",
+        "em-marty-tuley-01177",
+        "em-marty-tuley-01181",
+        "em-marty-tuley-01192",
+        "em-marty-tuley-01199",
+        "em-marty-tuley-01210",
+        "em-marty-tuley-01211",
+        "em-marty-tuley-01233",
+        "em-marty-tuley-01242",
+        "em-marty-tuley-01269",
+        "em-marty-tuley-01272",
+        "em-marty-tuley-01284",
+        "em-marty-tuley-01407",
+        "em-marty-tuley-01439",
+        "em-marty-tuley-01443",
+        "em-marty-tuley-01445",
+        "em-marty-tuley-01448",
+        "em-marty-tuley-01451"
+      ],
+      "claimsAnchored": [
+        "\"No detailed candidate-controlled statements were confirmed on abortion, gun policy, Medicaid expansion, water/Ogallala, property taxes, child care, foster care, policing/prisons, tribal issues, or Kansas Supreme Court selection.\"",
+        "\"Page says Tuley supports transgender rights but opposes transgender girls competing in sports with biological girls\"",
+        "\"Campaign-distributed release lists education, cannabis, private-school funding, rural economy, border, obesity, tax, energy, voting, transgender-athlete sports, and investment priorities\"",
+        "\"WIBW summarized campaign priorities including teacher pay, school meals, cannabis revenue, private-school funding, obesity, and transgender girls' sports\"",
+        "\"Home page previews education, accountable leadership, health, infrastructure, clean energy, and local economic growth\"",
+        "\"Page emphasizes practical leadership, listening, local businesses, education, safety, accountability, transparency, family, and community\"",
+        "\"Current-nav platform page states education, health, economic, infrastructure/energy, governance, voting, and immigration priorities\"",
+        "\"Page says public dollars should stay in public schools with no vouchers, privatization, or private-school tax breaks\"",
+        "\"Page calls for legal marijuana with revenue for education and health programs\"",
+        "\"Page uses broad language on fair and consistent standards in school athletics\"",
+        "\"Page says his family includes farmers, public school teachers, and working people\"",
+        "\"Still-live older platform page lists detailed bullets on education, health and fitness, economics and tax policy, infrastructure and energy, and governance\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-marty-tuley-0107",
+      "url": null,
+      "sourceFile": "ui/src/data/candidates.ts:20541",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "campaign statement",
+        "church/worship",
+        "voting record",
+        "donor/funding",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 105,
+      "rowIds": [
+        "em-marty-tuley-01540",
+        "em-marty-tuley-01538",
+        "em-marty-tuley-01542",
+        "em-marty-tuley-01543",
+        "em-marty-tuley-01547",
+        "em-marty-tuley-01537",
+        "em-marty-tuley-01551",
+        "em-marty-tuley-01544",
+        "em-marty-tuley-01557",
+        "em-marty-tuley-01549",
+        "em-marty-tuley-01563",
+        "em-marty-tuley-01545",
+        "em-marty-tuley-01546",
+        "em-marty-tuley-01552",
+        "em-marty-tuley-01553",
+        "em-marty-tuley-01158",
+        "em-marty-tuley-01534",
+        "em-marty-tuley-01535",
+        "em-marty-tuley-01555",
+        "em-marty-tuley-01567",
+        "em-marty-tuley-01573",
+        "em-marty-tuley-01578",
+        "em-marty-tuley-01579",
+        "em-marty-tuley-00220",
+        "em-marty-tuley-01144",
+        "em-marty-tuley-01155",
+        "em-marty-tuley-01157",
+        "em-marty-tuley-01408",
+        "em-marty-tuley-01409",
+        "em-marty-tuley-01413",
+        "em-marty-tuley-01415",
+        "em-marty-tuley-01418",
+        "em-marty-tuley-01489",
+        "em-marty-tuley-01490",
+        "em-marty-tuley-01491",
+        "em-marty-tuley-01492",
+        "em-marty-tuley-01493",
+        "em-marty-tuley-01495",
+        "em-marty-tuley-01496",
+        "em-marty-tuley-01497",
+        "em-marty-tuley-01499",
+        "em-marty-tuley-01500",
+        "em-marty-tuley-01501",
+        "em-marty-tuley-01502",
+        "em-marty-tuley-01504",
+        "em-marty-tuley-01505",
+        "em-marty-tuley-01506",
+        "em-marty-tuley-01507",
+        "em-marty-tuley-01508",
+        "em-marty-tuley-01509"
+      ],
+      "claimsAnchored": [
+        "\"issue\": \"Abortion / Sanctity of Life\",",
+        "\"theirRecord\": \"Tuley does not bring an elected-office record into the governor's race. What voters have instead is a campaign platform centered on public schools, health and fitness, marijuana legalization, economic growth, and what he describes as common-sen",
+        "\"issue\": \"Marriage & Family / LGBTQ+ Policy\",",
+        "\"stance\": \"Opposes allowing transgender girls to compete in girls' sports. This is an unusual position for a Democrat in a gubernatorial primary and one of his most politically distinctive stances.\"",
+        "\"issue\": \"School Choice / Parental Rights in Education\",",
+        "\"whoTheyAre\": \"Marty Tuley is a Lawrence-area Democrat running for governor in 2026. He presents himself as a fourth-generation Kansan whose family roots run through farming, football, and public education, and his campaign biography says his people are \\\"farm",
+        "\"stance\": \"Tuley supports strong public school funding, wants to raise teacher pay, and wants two healthy meals a day for every Kansas public school child. He opposes school vouchers, saying they funnel taxpayer dollars to private schools while 60 Kansas count",
+        "\"issue\": \"Religious Liberty\",",
+        "\"whereTheyWorship\": \"Public sources do not identify a current church affiliation for Tuley. His campaign language leans heavily on values, family, and Kansas roots, but the available public record does not name a congregation or denomination.\",",
+        "\"stance\": \"Supports legalizing marijuana in Kansas, with tax revenue invested in public schools.\"",
+        "\"text\": \"I believe in strong public schools, growing our local economy, and protecting personal freedoms.\",",
+        "\"issue\": \"Guns / Second Amendment\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-marty-tuley-0108",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:109",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "donor/funding",
+        "legal/court",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 29,
+      "rowIds": [
+        "em-marty-tuley-01604",
+        "em-marty-tuley-01606",
+        "em-marty-tuley-01600",
+        "em-marty-tuley-01602",
+        "em-marty-tuley-01613",
+        "em-marty-tuley-01618",
+        "em-marty-tuley-01619",
+        "em-marty-tuley-01594",
+        "em-marty-tuley-01599",
+        "em-marty-tuley-01601",
+        "em-marty-tuley-01603",
+        "em-marty-tuley-01605",
+        "em-marty-tuley-01607",
+        "em-marty-tuley-01608",
+        "em-marty-tuley-01609",
+        "em-marty-tuley-01610",
+        "em-marty-tuley-01611",
+        "em-marty-tuley-01612",
+        "em-marty-tuley-01614",
+        "em-marty-tuley-01620",
+        "em-marty-tuley-01621",
+        "em-marty-tuley-01617",
+        "em-marty-tuley-01593",
+        "em-marty-tuley-01595",
+        "em-marty-tuley-01596",
+        "em-marty-tuley-01597",
+        "em-marty-tuley-01598",
+        "em-marty-tuley-01615",
+        "em-marty-tuley-01616"
+      ],
+      "claimsAnchored": [
+        "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+        "\"The governor is the boss of Kansas state government. They sign or veto every law the legislature passes, write the state budget, appoint the heads of state agencies, and set the direction on taxes, schools, roads, and healthcare. When there's a disaster, a cr",
+        "\"With Laura Kelly term-limited, both parties and multiple campaign-account holders are building a large field for one of the most important open-seat races in Kansas politics.\",",
+        "\"Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.\",",
+        "status: \"Incumbent Running\",",
+        "\"This office decides which lawsuits Kansas joins, which criminal or civil fights get statewide attention, and how aggressively state law is enforced in court.\",",
+        "\"The attorney general is Kansas's top lawyer. They decide which lawsuits the state files or joins, prosecute major crimes that cross county lines, protect consumers from scams, and defend or challenge state laws in court. If a company rips off Kansans, if ther",
+        "\"charlotte-ohara\",",
+        "description:",
+        "plainEnglish:",
+        "whyItMatters:",
+        "jobDescription:"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-marty-tuley-0109",
+      "url": null,
+      "sourceFile": "memory/elections/2026-11-03-kansas-governor.md:51",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 16,
+      "rowIds": [
+        "em-marty-tuley-01484",
+        "em-marty-tuley-01480",
+        "em-marty-tuley-01481",
+        "em-marty-tuley-01482",
+        "em-marty-tuley-01469",
+        "em-marty-tuley-01432",
+        "em-marty-tuley-01467",
+        "em-marty-tuley-01468",
+        "em-marty-tuley-01470",
+        "em-marty-tuley-01471",
+        "em-marty-tuley-01474",
+        "em-marty-tuley-01473",
+        "em-marty-tuley-01466",
+        "em-marty-tuley-01465",
+        "em-marty-tuley-01472",
+        "em-marty-tuley-01483"
+      ],
+      "claimsAnchored": [
+        "The winner will have significant power over Kansas policy including Medicaid expansion (which Kelly championed but legislature blocked).",
+        "This is a WIDE-OPEN race with no incumbent. Laura Kelly (D) is term-limited.",
+        "The Republican primary is extremely crowded (8-10 candidates) and will be the most competitive race on the ballot.",
+        "The six-candidate GOP debate in January 2026 suggests a highly competitive primary.",
+        "Dayton Moore -- Former Kansas City Royals executive. Exploring.",
+        "Notes",
+        "Ron Estes -- U.S. Representative (KS-04, Wichita area). Exploring/declared.",
+        "Jake LaTurner -- U.S. Representative (KS-02, eastern Kansas). Exploring/declared.",
+        "Mark Steffen -- Former state senator.",
+        "Democratic Primary",
+        "Marty Tuley -- From Lawrence. Limited public profile information available."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-marty-tuley-0110",
+      "url": null,
+      "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:198",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 15,
+      "rowIds": [
+        "em-marty-tuley-00854",
+        "em-marty-tuley-00855",
+        "em-marty-tuley-00862",
+        "em-marty-tuley-00871",
+        "em-marty-tuley-00874",
+        "em-marty-tuley-00875",
+        "em-marty-tuley-00883",
+        "em-marty-tuley-01485",
+        "em-marty-tuley-01488",
+        "em-marty-tuley-00859",
+        "em-marty-tuley-00861",
+        "em-marty-tuley-00856",
+        "em-marty-tuley-00857",
+        "em-marty-tuley-00858",
+        "em-marty-tuley-01486"
+      ],
+      "claimsAnchored": [
+        "| Governor | Laura Kelly | D | TERM-LIMITED -- Open seat |",
+        "| Lt. Governor | (runs on ticket with Governor) | -- | Open |",
+        "Democratic primary: Ethan Corson, Cindy Holscher, Marty Tuley",
+        "Referred by the Kansas Legislature (requires 2/3 vote)",
+        "Would amend the Kansas Constitution to state that only U.S. citizens may vote",
+        "Text: \"No person shall be deemed a qualified elector unless such person: (1) Is a citizen of the United States...\"",
+        "7 voting members, 4-year terms, max 2 consecutive terms",
+        "|---|---|---|---|",
+        "SPECIAL DISTRICT BOARDS"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-marty-tuley-0111",
+      "url": "https://www.kslegislature.gov/li_2024/b2023_24/members/rep_wasinger_barbara_1/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1069",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00834"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0112",
+      "url": "https://www.wichitachamber.org/blog/2023/01/04/wichita-chamber-business-accelerator/faithful-investment-in-people-episode-104-wichita-chamber-business-accelerator-joy-eakins/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:881",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00717"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0113",
+      "url": "https://kansasreflector.com/2025/07/22/kansas-sen-ethan-corson-enters-race-for-democratic-partys-nomination-for-governor/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:820",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00664"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0114",
+      "url": "https://kansasreflector.com/briefs/former-kansas-gov-kathleen-sebelius-endorses-sen-ethan-corson-in-democratic-race-for-governor/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:822",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00666"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0115",
+      "url": "https://johnsoncountypost.com/2025/07/22/ethan-corson-governor-264717/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:831",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00675"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0116",
+      "url": "https://kansasreflector.com/2025/06/12/democrat-steps-forward-in-race-for-kansas-governor-focuses-on-schools-and-kitchen-table-issues/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:836",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00679"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0117",
+      "url": "https://rileyks.gop/2025/01/23/meet-gubernatorial-candidate-stacy-rogers-in-randolph/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:873",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00711"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0118",
+      "url": "https://kansasreflector.com/briefs/johnson-county-businessman-launches-campaign-to-win-gop-nomination-for-governor/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:887",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00722"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0119",
+      "url": "https://www.wibw.com/2025/09/02/kansas-businessman-announces-campaign-governor/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:892",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00725"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0120",
+      "url": "https://bottradionetwork.com/ministry/encounter-special-edition/2025-10-03-philip-sarnecki-on-leadership-and-the-kansas-governors-race/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:894",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00727"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0121",
+      "url": "https://hayspost.com/posts/8400acf8-32ea-486a-b087-8423d8f728e0",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:980",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00779"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0122",
+      "url": "https://www.kcjc.com/index.php/current-news/latest-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:826",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00670"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0123",
+      "url": "https://www.kake.com/news/joy-eakins-discusses-her-run-for-the-governors-office/article_7947e2be-8651-4a43-963e-5ee064c2d6c5.html",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:880",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00716"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0124",
+      "url": "https://barbforkansas.com/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:1068",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00833"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0125",
+      "url": "https://www.imdb.com/name/nm3671154/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:754",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-marty-tuley-00625",
+        "em-marty-tuley-00729",
+        "em-marty-tuley-01013"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0126",
+      "url": "https://en.wikipedia.org/wiki/Ethan_Corson",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:827",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00671"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0127",
+      "url": "https://ballotpedia.org/Ethan_Corson",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:828",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00672"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0128",
+      "url": "https://www.kssenatedems.org/ethan-corson",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:829",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00673"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0129",
+      "url": "https://doleinstitute.org/about/fellows/ethan-corson/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:830",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00674"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0130",
+      "url": "https://en.wikipedia.org/wiki/Cindy_Holscher",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:841",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00683"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0131",
+      "url": "https://ballotpedia.org/Cindy_Holscher",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:842",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00684"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0132",
+      "url": "https://en.wikipedia.org/wiki/Charlotte_O",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:863",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00702"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0133",
+      "url": "https://ballotpedia.org/Charlotte_O",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:864",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00703"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0134",
+      "url": "https://www.kake.com/news/wichitan-stacy-rogers-announces-candidacy-for-kansas-governor/article_8298d24e-ea47-11ef-aa00-ab042b86252d.html",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:868",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00706"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0135",
+      "url": "https://ballotpedia.org/Stacy_Rogers",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:870",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00708"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0136",
+      "url": "https://ballotpedia.org/Joy_Eakins",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:883",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-marty-tuley-00719"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0137",
+      "url": "https://www.facebook.com/ethanforkansas",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:218",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00339",
+        "em-marty-tuley-01000"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0138",
+      "url": "https://www.facebook.com/cindyforkansas/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:341",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00405",
+        "em-marty-tuley-01003"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0139",
+      "url": "https://www.facebook.com/StacyHepnerRogers/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:575",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00530",
+        "em-marty-tuley-01006"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0140",
+      "url": "https://www.linkedin.com/in/stacy-rogers-for-kansas/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:576",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00531",
+        "em-marty-tuley-01007"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0141",
+      "url": "https://www.linkedin.com/in/joyeakins/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:661",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00575",
+        "em-marty-tuley-01010"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-marty-tuley-0142",
+      "url": "https://www.linkedin.com/in/philipsarnecki/",
+      "sourceFile": "memory/candidates/marty-tuley/raw-dump.md:753",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-marty-tuley-00624",
+        "em-marty-tuley-01012"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    }
+  ]
+}

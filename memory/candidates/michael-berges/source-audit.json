@@ -1,0 +1,2056 @@
+{
+  "candidateSlug": "michael-berges",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 53,
+  "sources": [
+    {
+      "sourceId": "src-michael-berges-0001",
+      "url": "https://www.ellisco.net/120/County-Commission",
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:128",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-michael-berges-00714",
+        "em-michael-berges-01026"
+      ],
+      "claimsAnchored": [
+        "[Ellis County Commission Official Page](https://www.ellisco.net/120/County-Commission)",
+        "[Ellis County Commission Page](https://www.ellisco.net/120/County-Commission)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0002",
+      "url": "https://www.ellisco.net/566/Treasury",
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:630",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00809"
+      ],
+      "claimsAnchored": [
+        "[Ellis County Treasury Official Page](https://www.ellisco.net/566/Treasury)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0003",
+      "url": "https://www.ellisco.net/425/Election",
+      "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:111",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-01051"
+      ],
+      "claimsAnchored": [
+        "[Ellis County Election Page](https://www.ellisco.net/425/Election)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0004",
+      "url": "https://www.ellisco.net/626/Candidate-Filings",
+      "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:112",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-michael-berges-01052",
+        "em-michael-berges-01050"
+      ],
+      "claimsAnchored": [
+        "[Ellis County Candidate Filings](https://www.ellisco.net/626/Candidate-Filings)",
+        "IMPORTANT CAVEAT: Contact the Ellis County Clerk (785-628-9410) to confirm exactly which offices appear on the 2026 ballot. The Candidate Filings page at [ellisco.net/626](https://www.ellisco.net/626/Candidate-Filings) will show declared candidates once filing"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0005",
+      "url": "https://www.haysusa.com/269/City-Commission",
+      "sourceFile": "ui/src/data/candidates.ts:32339",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-michael-berges-01184",
+        "em-michael-berges-01212"
+      ],
+      "claimsAnchored": [
+        "\"campaignWebsite\": \"https://www.haysusa.com/269/City-Commission\",",
+        "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from Dece"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0006",
+      "url": "https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31",
+      "sourceFile": "reports/faith-church-investigation-2026-03-31.md:73",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "church/worship",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-michael-berges-00869",
+        "em-michael-berges-01003"
+      ],
+      "claimsAnchored": [
+        "[HaysPost: Hays city commission incumbents re-elected](https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31)",
+        "[Hays Post: Incumbents re-elected](https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0007",
+      "url": "https://tigermedianet.com/?p=75270",
+      "sourceFile": "reports/faith-church-investigation-2026-03-31.md:74",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "church/worship",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-michael-berges-00870",
+        "em-michael-berges-01000"
+      ],
+      "claimsAnchored": [
+        "[Tiger Media Network: Get to know the Hays City Commission candidates](https://tigermedianet.com/?p=75270)",
+        "[Tiger Media Network: Get to know candidates](https://tigermedianet.com/?p=75270)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0008",
+      "url": "https://hayspost.com/posts/8400acf8-32ea-486a-b087-8423d8f728e0",
+      "sourceFile": "reports/faith-church-investigation-2026-03-31.md:271",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "church/worship",
+        "legal/court",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-michael-berges-00896",
+        "em-michael-berges-00748",
+        "em-michael-berges-01027"
+      ],
+      "claimsAnchored": [
+        "[HaysPost Candidate Profile: Michael Berges](https://hayspost.com/posts/8400acf8-32ea-486a-b087-8423d8f728e0)",
+        "[Candidate Profile -- Hays Post](https://hayspost.com/posts/8400acf8-32ea-486a-b087-8423d8f728e0)",
+        "[Hays Post: Berges Candidate Profile](https://hayspost.com/posts/8400acf8-32ea-486a-b087-8423d8f728e0)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0009",
+      "url": "https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593c85db69",
+      "sourceFile": "reports/hays-city-commission-deep-investigation-2026-03-30.md:122",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-01004"
+      ],
+      "claimsAnchored": [
+        "[Hays Post: 2026 budget](https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593c85db69)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0010",
+      "url": "https://hayspost.com/posts/6e260438-27db-4402-bf8e-e8df621996d4",
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:125",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00711"
+      ],
+      "claimsAnchored": [
+        "[Berges, Leiker Presumptive New Commissioners -- Hays Post](https://hayspost.com/posts/6e260438-27db-4402-bf8e-e8df621996d4)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0011",
+      "url": "https://www.manta.com/c/mhxwpdc/l5-farms-inc",
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:127",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00713"
+      ],
+      "claimsAnchored": [
+        "[L5 Farms -- Manta](https://www.manta.com/c/mhxwpdc/l5-farms-inc)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0012",
+      "url": "https://hayspost.com/posts/cc38c04a-09f2-41be-8708-04cc33013376",
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:186",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00749"
+      ],
+      "claimsAnchored": [
+        "[Hays Commissioner Announces County Run -- Hays Post](https://hayspost.com/posts/cc38c04a-09f2-41be-8708-04cc33013376)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0013",
+      "url": "https://www.zoominfo.com/p/Vernon-Ruder/2569532965",
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:618",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00803"
+      ],
+      "claimsAnchored": [
+        "[ZoomInfo profile](https://www.zoominfo.com/p/Vernon-Ruder/2569532965) -- limited info"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0014",
+      "url": "https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494",
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:627",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00806"
+      ],
+      "claimsAnchored": [
+        "[Motor Vehicle Fees -- Hays Post](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0015",
+      "url": "https://haysmedfoundation.org/foundation-elects-new-officers-and-board-members/",
+      "sourceFile": "reports/hays-city-commission-deep-investigation-2026-03-30.md:120",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-01002"
+      ],
+      "claimsAnchored": [
+        "[HaysMed Foundation: New officers](https://haysmedfoundation.org/foundation-elects-new-officers-and-board-members/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0016",
+      "url": "https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
+      "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:73",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-michael-berges-01028",
+        "em-michael-berges-01053"
+      ],
+      "claimsAnchored": [
+        "[Hays Post: 2024 Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
+        "[Hays Post: 2024 General Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0017",
+      "url": "https://hayspost.com/posts/7bf9c6e7-b64c-4412-ba77-c1174d969816",
+      "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:114",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-01054"
+      ],
+      "claimsAnchored": [
+        "[Hays Post: Harbin Retires](https://hayspost.com/posts/7bf9c6e7-b64c-4412-ba77-c1174d969816)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0018",
+      "url": "https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6",
+      "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:74",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-michael-berges-01029",
+        "em-michael-berges-00821"
+      ],
+      "claimsAnchored": [
+        "[Hays Post: Commission Salary Adjustments 2026](https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0019",
+      "url": "https://www.facebook.com/EllisCountyDistrict1/`",
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:320",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00178"
+      ],
+      "claimsAnchored": [
+        "Source/lead URLs: https://www.facebook.com/EllisCountyDistrict1/ (lead only); https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/ (lead only)."
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0020",
+      "url": "https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/",
+      "sourceFile": "ui/src/data/candidates.ts:31010",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post",
+        "social comment"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-michael-berges-00662",
+        "em-michael-berges-00750"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/\"",
+        "[Hays Daily News -- Berges Commission Comment](https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0021",
+      "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
+      "sourceFile": "reports/senate-challengers-local-officials-complete.md:489",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-01103"
+      ],
+      "claimsAnchored": [
+        "[KCUR: Guide to candidates](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0022",
+      "url": "https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055",
+      "sourceFile": "ui/src/data/candidates.ts:32368",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-01204"
+      ],
+      "claimsAnchored": [
+        "\"source\": \"Hays Post, October 25, 2023, https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0023",
+      "url": "https://www.linkedin.com/in/nathan-leiker-1236bb276",
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:126",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00712"
+      ],
+      "claimsAnchored": [
+        "[LinkedIn Profile](https://www.linkedin.com/in/nathan-leiker-1236bb276)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0024",
+      "url": "https://www.facebook.com/EllisCountyDistrict1/",
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:184",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00747"
+      ],
+      "claimsAnchored": [
+        "[Facebook Page](https://www.facebook.com/EllisCountyDistrict1/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0025",
+      "url": null,
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:204",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "church/worship",
+        "voting record",
+        "meeting record",
+        "campaign statement",
+        "controversy",
+        "donor/funding",
+        "ballot status",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 258,
+      "rowIds": [
+        "em-michael-berges-00118",
+        "em-michael-berges-00109",
+        "em-michael-berges-00200",
+        "em-michael-berges-00206",
+        "em-michael-berges-00033",
+        "em-michael-berges-00035",
+        "em-michael-berges-00050",
+        "em-michael-berges-00057",
+        "em-michael-berges-00061",
+        "em-michael-berges-00065",
+        "em-michael-berges-00068",
+        "em-michael-berges-00071",
+        "em-michael-berges-00098",
+        "em-michael-berges-00114",
+        "em-michael-berges-00115",
+        "em-michael-berges-00117",
+        "em-michael-berges-00119",
+        "em-michael-berges-00127",
+        "em-michael-berges-00129",
+        "em-michael-berges-00130",
+        "em-michael-berges-00132",
+        "em-michael-berges-00134",
+        "em-michael-berges-00136",
+        "em-michael-berges-00140",
+        "em-michael-berges-00142",
+        "em-michael-berges-00143",
+        "em-michael-berges-00185",
+        "em-michael-berges-00193",
+        "em-michael-berges-00195",
+        "em-michael-berges-00198",
+        "em-michael-berges-00213",
+        "em-michael-berges-00214",
+        "em-michael-berges-00215",
+        "em-michael-berges-00216",
+        "em-michael-berges-00218",
+        "em-michael-berges-00227",
+        "em-michael-berges-00235",
+        "em-michael-berges-00237",
+        "em-michael-berges-00014",
+        "em-michael-berges-00154",
+        "em-michael-berges-00169",
+        "em-michael-berges-00170",
+        "em-michael-berges-00172",
+        "em-michael-berges-00203",
+        "em-michael-berges-00254",
+        "em-michael-berges-00002",
+        "em-michael-berges-00003",
+        "em-michael-berges-00004",
+        "em-michael-berges-00010",
+        "em-michael-berges-00011"
+      ],
+      "claimsAnchored": [
+        "Cooperation: He discussed Ellis road/bridge needs, 41st Street, 13th Street near Hays High/Commerce Parkway, USD 489/city/county coordination, and infrastructure-grant coalitions.",
+        "Article identifies him then as employed by Development Services of Northwest Kansas, treasurer for ARC of Central Plains, chair of Tiger Takedown Club, Hays vice-mayor, member of St. Joseph Catholic Church, and participant at First United Methodist Church wher",
+        "Findings: Hays Post's 2022 announcement says Berges was a member of St. Joseph Catholic Church and participated at First United Methodist Church where his wife was a member. It also listed treasurer of ARC of Central Plains and chair of Tiger Takedown Club at ",
+        "Findings: No 2026 endorsements surfaced. 2022 Hays Post announcement says Berges stated he was encouraged to run by many who knew his interest in community/county issues; no endorsing individuals or organizations are listed. His professional/community network ",
+        "s-ellis-2024-budget-book",
+        "Relevant excerpt/paraphrase: County budget book says commissioners serve four-year overlapping terms and lists Michael Berges, District I, term expiring January 2027. It also describes commission responsibilities: budgets, levies, roads, contracts for public h",
+        "Agenda item: \"2026 Mill Levy Discussion (Michael Berges, County Commissioner).\"",
+        "Motion: Berges; Second: Younger. Motion authorized the county clerk to publish the 2026 Ellis County General Fund and Fire District budgets for the September 9 budget hearings. Disposition: passed 3-0.",
+        "ActionEvidence candidates: budget publication motion; subdivision-road discussion; City of Ellis road grant support letter.",
+        "Public comments on the budget were recorded from Mark Hess, John Pyle, Adam Pray, and Ken Kennedy.",
+        "Resolution 2025-14 says Ellis County will levy property-tax rates exceeding the Revenue Neutral Rate for the General Fund and Fire District #1.",
+        "ActionEvidence candidate: Berges voted yes by named roll call for 2026 budget/RNR resolution."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-michael-berges-0026",
+      "url": null,
+      "sourceFile": "memory/candidates/michael-berges/sleuth-pass.md:94",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status",
+        "church/worship",
+        "meeting record",
+        "voting record",
+        "biography",
+        "legal/court",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 68,
+      "rowIds": [
+        "em-michael-berges-00314",
+        "em-michael-berges-00332",
+        "em-michael-berges-00271",
+        "em-michael-berges-00278",
+        "em-michael-berges-00279",
+        "em-michael-berges-00284",
+        "em-michael-berges-00297",
+        "em-michael-berges-00301",
+        "em-michael-berges-00313",
+        "em-michael-berges-00286",
+        "em-michael-berges-00288",
+        "em-michael-berges-00322",
+        "em-michael-berges-00328",
+        "em-michael-berges-00270",
+        "em-michael-berges-00272",
+        "em-michael-berges-00276",
+        "em-michael-berges-00283",
+        "em-michael-berges-00289",
+        "em-michael-berges-00290",
+        "em-michael-berges-00291",
+        "em-michael-berges-00293",
+        "em-michael-berges-00298",
+        "em-michael-berges-00305",
+        "em-michael-berges-00308",
+        "em-michael-berges-00310",
+        "em-michael-berges-00311",
+        "em-michael-berges-00318",
+        "em-michael-berges-00319",
+        "em-michael-berges-00321",
+        "em-michael-berges-00324",
+        "em-michael-berges-00326",
+        "em-michael-berges-00327",
+        "em-michael-berges-00330",
+        "em-michael-berges-00331",
+        "em-michael-berges-00267",
+        "em-michael-berges-00268",
+        "em-michael-berges-00269",
+        "em-michael-berges-00277",
+        "em-michael-berges-00280",
+        "em-michael-berges-00281",
+        "em-michael-berges-00282",
+        "em-michael-berges-00287",
+        "em-michael-berges-00294",
+        "em-michael-berges-00302",
+        "em-michael-berges-00304",
+        "em-michael-berges-00320",
+        "em-michael-berges-00325",
+        "em-michael-berges-00264",
+        "em-michael-berges-00273",
+        "em-michael-berges-00274"
+      ],
+      "claimsAnchored": [
+        "What was observed: In the 2022 Hays Post candidate profile, Berges supported earmarking sales-tax revenue for infrastructure upkeep, named bridges and roads, described sales-tax extension/permanent-sales-tax questions as future options, identified sheriff/jail",
+        "Sensitivity review: Not triggered. Social and family/church references are treated only where already public and relevant to identity/context; no belief inference is made.",
+        "Term-cycle anchor: Ellis County's 2024 budget book lists Berges, District I, with term expiring January 2027; county commissioners serve four-year overlapping terms. That aligns with a November 2026 election.",
+        "| 2026 budget exceeding RNR | September 9, 2025 Ellis County Commission minutes | County budget, taxes, service levels |",
+        "| Budget publication | August 19, 2025 Ellis County Commission minutes | Budget process and public hearing pathway |",
+        "| 2022 candidate Q&A | Hays Post candidate profile (candidate answers) | Stated positions on sales tax, infrastructure, sheriff/jail, Grow Hays, cooperation |",
+        "Observation 2 - Voted yes on 2026 budget exceeding revenue-neutral rate",
+        "Observation 3 - Advanced the 2026 budget to public hearing and framed subdivision road work",
+        "Observation 7 - Candidate-attested 2022 platform centered infrastructure, budget stabilization, sheriff/jail, Grow Hays, and intergovernmental cooperation",
+        "Facebook: Search surfaced references to a public facebook.com/EllisCountyDistrict1/ page in another candidate's sleuth pass, but this pass could not verify page content or candidate-controlled post history from logged-out browser/search results. Do not treat t",
+        "LinkedIn / professional web: No verified candidate-controlled LinkedIn profile surfaced in search results. The strongest professional identity source is the Northwest Kansas Economic Innovation Center staff page, which lists Berges as Business Services Directo",
+        "No court/legal, property, or business-entity issues were confirmed. This pass did not find public-record adverse material; absence should be stated as \"not found in targeted searches,\" not as a clean-record certification."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-michael-berges-0027",
+      "url": null,
+      "sourceFile": "memory/candidates/michael-berges/v2-issues.yaml:172",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "church/worship",
+        "voting record",
+        "meeting record",
+        "campaign statement",
+        "ballot status",
+        "donor/funding",
+        "legal/court",
+        "controversy"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 252,
+      "rowIds": [
+        "em-michael-berges-00419",
+        "em-michael-berges-00412",
+        "em-michael-berges-00366",
+        "em-michael-berges-00369",
+        "em-michael-berges-00381",
+        "em-michael-berges-00392",
+        "em-michael-berges-00407",
+        "em-michael-berges-00415",
+        "em-michael-berges-00416",
+        "em-michael-berges-00420",
+        "em-michael-berges-00427",
+        "em-michael-berges-00428",
+        "em-michael-berges-00432",
+        "em-michael-berges-00436",
+        "em-michael-berges-00437",
+        "em-michael-berges-00456",
+        "em-michael-berges-00457",
+        "em-michael-berges-00460",
+        "em-michael-berges-00461",
+        "em-michael-berges-00477",
+        "em-michael-berges-00493",
+        "em-michael-berges-00494",
+        "em-michael-berges-00500",
+        "em-michael-berges-00501",
+        "em-michael-berges-00512",
+        "em-michael-berges-00565",
+        "em-michael-berges-00577",
+        "em-michael-berges-00585",
+        "em-michael-berges-00614",
+        "em-michael-berges-00629",
+        "em-michael-berges-00444",
+        "em-michael-berges-00579",
+        "em-michael-berges-00594",
+        "em-michael-berges-00599",
+        "em-michael-berges-00600",
+        "em-michael-berges-00669",
+        "em-michael-berges-00611",
+        "em-michael-berges-00621",
+        "em-michael-berges-00339",
+        "em-michael-berges-00340",
+        "em-michael-berges-00342",
+        "em-michael-berges-00344",
+        "em-michael-berges-00355",
+        "em-michael-berges-00356",
+        "em-michael-berges-00358",
+        "em-michael-berges-00360",
+        "em-michael-berges-00371",
+        "em-michael-berges-00372",
+        "em-michael-berges-00373",
+        "em-michael-berges-00377"
+      ],
+      "claimsAnchored": [
+        "\"Berges discussed intergovernmental cooperation with Ellis, Hays, Victoria, USD 489, and grant coalitions\"",
+        "\"The article identified Berges as Hays vice-mayor, Development Services of Northwest Kansas employee, ARC of Central Plains treasurer, Tiger Takedown Club chair, St. Joseph Catholic Church member, and participant at First United Methodist Church\"",
+        "title: \"Ellis County 2024 Budget Book\"",
+        "\"County commission duties include budgets, tax levies, roads, contracts for public health and welfare, appointments, facilities, and local legislation\"",
+        "\"2026 Mill Levy Discussion was presented by Michael Berges\"",
+        "\"Budget approval passed 3-0 by named roll call: Berges yes, Younger yes, Leiker yes\"",
+        "\"Retreat discussion included possible transient guest tax, fairgrounds/Historical Society funding, motor-vehicle fee, and sheriff staffing\"",
+        "\"Berges discussed sales-tax sunset options, including cuts, mill-levy offset, voter-approved extension, or permanent sales tax\"",
+        "\"Berges said he supported earmarking sales-tax revenue for infrastructure upkeep\"",
+        "\"Berges cited city commission budget cycles, financial-advice experience, nonprofit grant writing, and public-service experience\"",
+        "\"The 2025 budget reduced the mill levy by 0.639 mills while exceeding the revenue-neutral rate\"",
+        "\"Berges connected budget increases to employee wages and benefits\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-michael-berges-0028",
+      "url": null,
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:34",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 170,
+      "rowIds": [
+        "em-michael-berges-00698",
+        "em-michael-berges-00719",
+        "em-michael-berges-00736",
+        "em-michael-berges-00777",
+        "em-michael-berges-00778",
+        "em-michael-berges-00779",
+        "em-michael-berges-00825",
+        "em-michael-berges-00841",
+        "em-michael-berges-00707",
+        "em-michael-berges-00737",
+        "em-michael-berges-00804",
+        "em-michael-berges-00706",
+        "em-michael-berges-00722",
+        "em-michael-berges-00723",
+        "em-michael-berges-00786",
+        "em-michael-berges-00830",
+        "em-michael-berges-00776",
+        "em-michael-berges-00672",
+        "em-michael-berges-00673",
+        "em-michael-berges-00674",
+        "em-michael-berges-00675",
+        "em-michael-berges-00676",
+        "em-michael-berges-00679",
+        "em-michael-berges-00685",
+        "em-michael-berges-00686",
+        "em-michael-berges-00688",
+        "em-michael-berges-00689",
+        "em-michael-berges-00690",
+        "em-michael-berges-00691",
+        "em-michael-berges-00692",
+        "em-michael-berges-00693",
+        "em-michael-berges-00694",
+        "em-michael-berges-00695",
+        "em-michael-berges-00696",
+        "em-michael-berges-00697",
+        "em-michael-berges-00699",
+        "em-michael-berges-00700",
+        "em-michael-berges-00702",
+        "em-michael-berges-00703",
+        "em-michael-berges-00704",
+        "em-michael-berges-00705",
+        "em-michael-berges-00708",
+        "em-michael-berges-00709",
+        "em-michael-berges-00710",
+        "em-michael-berges-00715",
+        "em-michael-berges-00716",
+        "em-michael-berges-00717",
+        "em-michael-berges-00718",
+        "em-michael-berges-00720",
+        "em-michael-berges-00721"
+      ],
+      "claimsAnchored": [
+        "No college degree information found in public records",
+        "Background & Education",
+        "School Safety: Supported mapping project allowing first responders to see school floor plans in case of emergency",
+        "Education",
+        "Victoria High School graduate (Victoria, KS -- small town in Ellis County)",
+        "Barton County Community College (Great Bend, KS)",
+        "Father, mother, and son each hold separate elected positions at county, school district, and city levels",
+        "| Position | County | City of Hays | School Board |",
+        "Fiscal Conservatism: Identified \"Ellis County spending too much money\" as a top concern during 2020 campaign.",
+        "Budget: Voted for 2026 budget with mill levy increase",
+        "$2.50 fee implementation drew some attention but was legal and resulted in taxpayer savings overall",
+        "Economic Development: Favors proactive county role in economic development. Stated he would \"work with the city of Hays to get more water to Hays and higher-paying jobs.\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-michael-berges-0029",
+      "url": null,
+      "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:118",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "meeting record",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 40,
+      "rowIds": [
+        "em-michael-berges-01055",
+        "em-michael-berges-01009",
+        "em-michael-berges-01011",
+        "em-michael-berges-01012",
+        "em-michael-berges-01013",
+        "em-michael-berges-01014",
+        "em-michael-berges-01017",
+        "em-michael-berges-01019",
+        "em-michael-berges-01020",
+        "em-michael-berges-01021",
+        "em-michael-berges-01022",
+        "em-michael-berges-01023",
+        "em-michael-berges-01024",
+        "em-michael-berges-01030",
+        "em-michael-berges-01031",
+        "em-michael-berges-01032",
+        "em-michael-berges-01033",
+        "em-michael-berges-01034",
+        "em-michael-berges-01036",
+        "em-michael-berges-01037",
+        "em-michael-berges-01044",
+        "em-michael-berges-01045",
+        "em-michael-berges-01046",
+        "em-michael-berges-01047",
+        "em-michael-berges-01048",
+        "em-michael-berges-01008",
+        "em-michael-berges-01010",
+        "em-michael-berges-01056",
+        "em-michael-berges-01015",
+        "em-michael-berges-01016",
+        "em-michael-berges-01018",
+        "em-michael-berges-01025",
+        "em-michael-berges-01035",
+        "em-michael-berges-01038",
+        "em-michael-berges-01039",
+        "em-michael-berges-01040",
+        "em-michael-berges-01041",
+        "em-michael-berges-01042",
+        "em-michael-berges-01043",
+        "em-michael-berges-01049"
+      ],
+      "claimsAnchored": [
+        "HAYS USD 489 SCHOOL BOARD",
+        "Structure",
+        "Current Commissioners",
+        "| Commissioner | District | Elected | Term Expires | Next Election |",
+        "|---|---|---|---|---|",
+        "| Michael Berges | District 1 (NW Ellis Co. + part of Hays) | 2022 | January 2027 | November 2026 |",
+        "UPCOMING: District 1 Commissioner Election -- November 3, 2026",
+        "Filing deadline: Noon, June 1, 2026",
+        "Primary: August 4, 2026 (if contested within a party)",
+        "General: November 3, 2026",
+        "Declared candidates: Not yet confirmed -- filing period has not closed",
+        "District covers: Northwestern portion of Ellis County including part of Hays and the city of Ellis"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-michael-berges-0030",
+      "url": null,
+      "sourceFile": "ui/src/data/candidates.ts:32338",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "church/worship",
+        "meeting record",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 63,
+      "rowIds": [
+        "em-michael-berges-01183",
+        "em-michael-berges-01201",
+        "em-michael-berges-01192",
+        "em-michael-berges-01208",
+        "em-michael-berges-01185",
+        "em-michael-berges-01196",
+        "em-michael-berges-01199",
+        "em-michael-berges-00348",
+        "em-michael-berges-01220",
+        "em-michael-berges-01222",
+        "em-michael-berges-01223",
+        "em-michael-berges-01188",
+        "em-michael-berges-01198",
+        "em-michael-berges-01207",
+        "em-michael-berges-01180",
+        "em-michael-berges-01181",
+        "em-michael-berges-01197",
+        "em-michael-berges-01214",
+        "em-michael-berges-01225",
+        "em-michael-berges-00351",
+        "em-michael-berges-01163",
+        "em-michael-berges-01164",
+        "em-michael-berges-01165",
+        "em-michael-berges-01166",
+        "em-michael-berges-01167",
+        "em-michael-berges-01168",
+        "em-michael-berges-01169",
+        "em-michael-berges-01170",
+        "em-michael-berges-01171",
+        "em-michael-berges-01172",
+        "em-michael-berges-01173",
+        "em-michael-berges-01174",
+        "em-michael-berges-01175",
+        "em-michael-berges-01176",
+        "em-michael-berges-01177",
+        "em-michael-berges-01179",
+        "em-michael-berges-01182",
+        "em-michael-berges-01187",
+        "em-michael-berges-01190",
+        "em-michael-berges-01191",
+        "em-michael-berges-01194",
+        "em-michael-berges-01200",
+        "em-michael-berges-01202",
+        "em-michael-berges-01203",
+        "em-michael-berges-01205",
+        "em-michael-berges-01206",
+        "em-michael-berges-01211",
+        "em-michael-berges-01213",
+        "em-michael-berges-01215",
+        "em-michael-berges-01216"
+      ],
+      "claimsAnchored": [
+        "\"education\": \"RN (Registered Nurse) credential -- school not confirmed\",",
+        "\"whereTheyWorship\": \"Public sources do not identify a current church affiliation.\",",
+        "\"issue\": \"City Services and Budget\",",
+        "\"text\": \"You (staff) brought us a constrained budget which is what we asked for.\",",
+        "\"whoTheyAre\": \"Alaina Cunningham is a Hays city commissioner and, since January 2026, the city's vice mayor. Public profiles describe her as a registered nurse and ACE-certified group fitness instructor at HaysMed's Center for Health Improvement. She moved to ",
+        "\"Her day job is in health and wellness at HaysMed, where she works as a registered nurse and group fitness instructor\",",
+        "\"Her local profile is built heavily around healthcare and nonprofit board service\",",
+        "\"incumbent\": true,",
+        "\"narrative\": \"No campaign finance data was available online.\",",
+        "\"name\": \"Campaign finance data\",",
+        "\"amount\": \"No campaign finance data available online\"",
+        "\"issue\": \"Water\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-michael-berges-0031",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:302",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "voting record",
+        "ballot status",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 37,
+      "rowIds": [
+        "em-michael-berges-01263",
+        "em-michael-berges-01264",
+        "em-michael-berges-01243",
+        "em-michael-berges-01245",
+        "em-michael-berges-01261",
+        "em-michael-berges-01228",
+        "em-michael-berges-01229",
+        "em-michael-berges-01234",
+        "em-michael-berges-01239",
+        "em-michael-berges-01241",
+        "em-michael-berges-01247",
+        "em-michael-berges-01230",
+        "em-michael-berges-01232",
+        "em-michael-berges-01246",
+        "em-michael-berges-01231",
+        "em-michael-berges-01233",
+        "em-michael-berges-01235",
+        "em-michael-berges-01236",
+        "em-michael-berges-01237",
+        "em-michael-berges-01238",
+        "em-michael-berges-01240",
+        "em-michael-berges-01242",
+        "em-michael-berges-01244",
+        "em-michael-berges-01248",
+        "em-michael-berges-01249",
+        "em-michael-berges-01250",
+        "em-michael-berges-01251",
+        "em-michael-berges-01262",
+        "em-michael-berges-01259",
+        "em-michael-berges-01260",
+        "em-michael-berges-01252",
+        "em-michael-berges-01253",
+        "em-michael-berges-01254",
+        "em-michael-berges-01255",
+        "em-michael-berges-01256",
+        "em-michael-berges-01257",
+        "em-michael-berges-01258"
+      ],
+      "claimsAnchored": [
+        "slug: \"usd-489-current\",",
+        "name: \"USD 489 School Leadership\",",
+        "\"County commissioners set the county budget, approve road projects, decide on jail funding and mental health services, and make land-use decisions that shape Ellis County for years.\",",
+        "\"Ellis County commissioners are the three-person board that runs county government. They set property tax mill levies, approve the county budget, vote on zoning and road projects, oversee the jail and mental health programs, and hire key county staff. District",
+        "\"The people running county law enforcement, elections, property records, and tax collection are in office right now and making decisions that affect you, even though you will not vote on them again until 2028. Knowing who holds these positions — and what they ",
+        "slug: \"ellis-county-2026-ballot\",",
+        "name: \"Ellis County Commission — 2026 Ballot\",",
+        "status: \"Incumbent Running\",",
+        "\"The current Ellis County 2026 candidate filing PDF lists Commission District 1 with Michael Berges. Nathan Leiker is a current District 3 commissioner but is not listed in that 2026 filing PDF.\",",
+        "\"Ellis County's current 2026 filing PDF shows Michael Berges for Commission District 1. Leiker stays on the site as a current county commissioner profile, but he is no longer shown as a 2026 ballot candidate unless the county filing list changes.\",",
+        "name: \"Ellis County Officials — Not on 2026 Ballot\",",
+        "level: \"Local\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-michael-berges-0032",
+      "url": null,
+      "sourceFile": "reports/faith-church-investigation-2026-03-31.md:57",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 108,
+      "rowIds": [
+        "em-michael-berges-00857",
+        "em-michael-berges-00858",
+        "em-michael-berges-00859",
+        "em-michael-berges-00860",
+        "em-michael-berges-00861",
+        "em-michael-berges-00862",
+        "em-michael-berges-00863",
+        "em-michael-berges-00864",
+        "em-michael-berges-00865",
+        "em-michael-berges-00866",
+        "em-michael-berges-00867",
+        "em-michael-berges-00872",
+        "em-michael-berges-00873",
+        "em-michael-berges-00874",
+        "em-michael-berges-00875",
+        "em-michael-berges-00876",
+        "em-michael-berges-00877",
+        "em-michael-berges-00881",
+        "em-michael-berges-00885",
+        "em-michael-berges-00886",
+        "em-michael-berges-00887",
+        "em-michael-berges-00888",
+        "em-michael-berges-00889",
+        "em-michael-berges-00890",
+        "em-michael-berges-00891",
+        "em-michael-berges-00892",
+        "em-michael-berges-00893",
+        "em-michael-berges-00894",
+        "em-michael-berges-00895",
+        "em-michael-berges-00898",
+        "em-michael-berges-00899",
+        "em-michael-berges-00900",
+        "em-michael-berges-00901",
+        "em-michael-berges-00902",
+        "em-michael-berges-00903",
+        "em-michael-berges-00906",
+        "em-michael-berges-00907",
+        "em-michael-berges-00908",
+        "em-michael-berges-00918",
+        "em-michael-berges-00941",
+        "em-michael-berges-00942",
+        "em-michael-berges-00944",
+        "em-michael-berges-00945",
+        "em-michael-berges-00948",
+        "em-michael-berges-00954",
+        "em-michael-berges-00955",
+        "em-michael-berges-00957",
+        "em-michael-berges-00958",
+        "em-michael-berges-00964",
+        "em-michael-berges-00966"
+      ],
+      "claimsAnchored": [
+        "Confidence: NO PUBLIC RECORD",
+        "| Field | Detail |",
+        "|---|----------|----------|--------|-------------|------------|-------------|",
+        "| Church | Not found in public record |",
+        "| Denomination | Unknown |",
+        "Evidence:",
+        "A nurse and fitness instructor who has lived in Hays for 13+ years",
+        "No faith or church references found in her candidate profiles, HaysPost Q&As, or social media",
+        "Appointed to fill Michael Berges' unexpired term when he moved to Ellis County Commission",
+        "Her community involvement centers on healthcare, fitness, and civic engagement",
+        "Assessment: The complete absence of faith references in any public profile is notable. This does not mean she is not a churchgoer -- many local officials simply do not publicize their church life. However, in a community as church-centric as Hays, the silence ",
+        "53 years old, lived in Hays 30 years, works for Nex-Tech"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-michael-berges-0033",
+      "url": null,
+      "sourceFile": "reports/senate-challengers-local-officials-complete.md:528",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "biography",
+        "legal/court",
+        "ballot status",
+        "meeting record",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 58,
+      "rowIds": [
+        "em-michael-berges-01127",
+        "em-michael-berges-01128",
+        "em-michael-berges-01111",
+        "em-michael-berges-01116",
+        "em-michael-berges-01145",
+        "em-michael-berges-01154",
+        "em-michael-berges-01106",
+        "em-michael-berges-01105",
+        "em-michael-berges-01109",
+        "em-michael-berges-01110",
+        "em-michael-berges-01112",
+        "em-michael-berges-01126",
+        "em-michael-berges-01140",
+        "em-michael-berges-01146",
+        "em-michael-berges-00275",
+        "em-michael-berges-01108",
+        "em-michael-berges-01113",
+        "em-michael-berges-01114",
+        "em-michael-berges-01117",
+        "em-michael-berges-01118",
+        "em-michael-berges-01121",
+        "em-michael-berges-01122",
+        "em-michael-berges-01123",
+        "em-michael-berges-01124",
+        "em-michael-berges-01125",
+        "em-michael-berges-01129",
+        "em-michael-berges-01151",
+        "em-michael-berges-01153",
+        "em-michael-berges-01130",
+        "em-michael-berges-01132",
+        "em-michael-berges-01134",
+        "em-michael-berges-01139",
+        "em-michael-berges-01160",
+        "em-michael-berges-01155",
+        "em-michael-berges-01161",
+        "em-michael-berges-01162",
+        "em-michael-berges-01141",
+        "em-michael-berges-01157",
+        "em-michael-berges-01107",
+        "em-michael-berges-01115",
+        "em-michael-berges-01137",
+        "em-michael-berges-01138",
+        "em-michael-berges-01142",
+        "em-michael-berges-01143",
+        "em-michael-berges-01147",
+        "em-michael-berges-01156",
+        "em-michael-berges-01119",
+        "em-michael-berges-01120",
+        "em-michael-berges-01131",
+        "em-michael-berges-01133"
+      ],
+      "claimsAnchored": [
+        "Church/Faith",
+        "Not identified in any public record searched. No church membership, no faith statements found. The Salina Diocese Catholic Register PDF appeared in search results for her name, but the connection (if any) could not be confirmed.",
+        "Day Job: Registered Nurse (RN) and ACE Certified Group Fitness Instructor, HaysMed Center for Health Improvement",
+        "INVESTIGATION STATUS: Strong circumstantial evidence of spousal relationship, but NOT confirmed in any public record.",
+        "APPENDIX: NRSC ETHICS INVESTIGATION (March 2026)",
+        "| Candidate | Strength | Weakness | Kansas Roots | Money (Est.) |",
+        "NOTE: Mason Ruder (Mayor), Reese Barrick (former commissioner), Michael Berges (Ellis County Commissioner), Scott Braun (Sheriff), Aaron Cunningham (County Attorney), and Vernon Ruder Jr. (County Treasurer) were fully profiled in previous reports. The followin",
+        "PART II: REMAINING HAYS/ELLIS COUNTY LOCAL OFFICIALS",
+        "Age: ~45 (estimated from public records showing previous address in Dodge City area)",
+        "Title: Vice Mayor, City of Hays (elected by commission January 2026)",
+        "Hometown: Dodge City, Kansas",
+        "Bottom line: They may be married, but it could also be coincidence. A county marriage record search would resolve this definitively. If they are married, it means the City Vice Mayor and the County Attorney are spouses -- a notable power dynamic in a community"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-michael-berges-0034",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/michael-berges.ts:298",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "meeting record",
+        "biography",
+        "ballot status",
+        "controversy",
+        "campaign statement",
+        "donor/funding",
+        "voting record",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 157,
+      "rowIds": [
+        "em-michael-berges-01314",
+        "em-michael-berges-00426",
+        "em-michael-berges-00431",
+        "em-michael-berges-00435",
+        "em-michael-berges-00453",
+        "em-michael-berges-00507",
+        "em-michael-berges-01274",
+        "em-michael-berges-01276",
+        "em-michael-berges-01279",
+        "em-michael-berges-01284",
+        "em-michael-berges-01287",
+        "em-michael-berges-01290",
+        "em-michael-berges-01291",
+        "em-michael-berges-01292",
+        "em-michael-berges-01297",
+        "em-michael-berges-01299",
+        "em-michael-berges-01300",
+        "em-michael-berges-01307",
+        "em-michael-berges-01308",
+        "em-michael-berges-01317",
+        "em-michael-berges-01282",
+        "em-michael-berges-01310",
+        "em-michael-berges-01311",
+        "em-michael-berges-01313",
+        "em-michael-berges-01315",
+        "em-michael-berges-01319",
+        "em-michael-berges-01316",
+        "em-michael-berges-01318",
+        "em-michael-berges-00349",
+        "em-michael-berges-00353",
+        "em-michael-berges-00606",
+        "em-michael-berges-01275",
+        "em-michael-berges-01277",
+        "em-michael-berges-01278",
+        "em-michael-berges-01293",
+        "em-michael-berges-01302",
+        "em-michael-berges-01303",
+        "em-michael-berges-01304",
+        "em-michael-berges-01306",
+        "em-michael-berges-01321",
+        "em-michael-berges-01323",
+        "em-michael-berges-01324",
+        "em-michael-berges-01326",
+        "em-michael-berges-01327",
+        "em-michael-berges-01328",
+        "em-michael-berges-00544",
+        "em-michael-berges-01305",
+        "em-michael-berges-00375",
+        "em-michael-berges-00380",
+        "em-michael-berges-00384"
+      ],
+      "claimsAnchored": [
+        "\"observation\": \"Findings: No 2026 endorsements surfaced. 2022 Hays Post announcement says Berges stated he was encouraged to run by many who knew his interest in community/county issues; no endorsing individuals or organizations are listed. His professional/co",
+        "\"title\": \"Ellis County Commission approves 2025 budget with reduction in mill levy\",",
+        "\"title\": \"Ellis County Commission discuss final budget draft with mill levy increase\",",
+        "\"title\": \"Ellis County Commission approves 2026 budget, mill levy increase\",",
+        "\"title\": \"County budget, taxes, employee pay, and service levels\",",
+        "\"a-2026-budget-rnr-2025\",",
+        "\"text\": \"Berges's 2022 candidate answers treated the county sales-tax sunset\\nas a long-range budget question rather than a fixed promise. He said\\nfuture options could include cutting services, cutting employees,\\noffsetting with mill-levy increases, asking v",
+        "\"body\": \"Moved to allow the County Clerk to publish the 2026 Ellis County\\nGeneral Fund and Fire District budgets for the September 9 budget\\nhearings. The motion passed 3-0.\",",
+        "\"body\": \"In coverage of the 2025 county budget, which reduced the mill levy\\nwhile exceeding revenue neutral, Berges connected budget increases\\nmainly to employee wages and benefits and criticized treating\\nrevenue neutral as a simple taxpayer protection.\",",
+        "\"mappedToIssueId\": \"i-budget-taxes-services\"",
+        "\"observation\": \"Observation 7 - Candidate-attested 2022 platform centered infrastructure, budget stabilization, sheriff/jail, Grow Hays, and intergovernmental cooperation\",",
+        "\"observation\": \"What was observed: In the 2022 Hays Post candidate profile, Berges supported earmarking sales-tax revenue for infrastructure upkeep, named bridges and roads, described sales-tax extension/permanent-sales-tax questions as future options, identif"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-michael-berges-0035",
+      "url": null,
+      "sourceFile": "reports/hays-city-commission-deep-investigation-2026-03-30.md:99",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 29,
+      "rowIds": [
+        "em-michael-berges-00985",
+        "em-michael-berges-00988",
+        "em-michael-berges-00974",
+        "em-michael-berges-00972",
+        "em-michael-berges-00973",
+        "em-michael-berges-00975",
+        "em-michael-berges-00976",
+        "em-michael-berges-00977",
+        "em-michael-berges-00978",
+        "em-michael-berges-00979",
+        "em-michael-berges-00980",
+        "em-michael-berges-00981",
+        "em-michael-berges-00982",
+        "em-michael-berges-00983",
+        "em-michael-berges-00984",
+        "em-michael-berges-00986",
+        "em-michael-berges-00987",
+        "em-michael-berges-00989",
+        "em-michael-berges-00990",
+        "em-michael-berges-00991",
+        "em-michael-berges-00992",
+        "em-michael-berges-00993",
+        "em-michael-berges-00994",
+        "em-michael-berges-00995",
+        "em-michael-berges-00997",
+        "em-michael-berges-00996",
+        "em-michael-berges-00998",
+        "em-michael-berges-00999",
+        "em-michael-berges-01007"
+      ],
+      "claimsAnchored": [
+        "Fiscal restraint: During 2026 budget discussions, said: \"You (staff) brought us a constrained budget which is what we asked for.\"",
+        "Budget: Self-described focus on \"fiscal responsibility and sustainable growth\"",
+        "HaysMed / The Center for Health Improvement -- Group Fitness Instructor and practicing RN",
+        "ACE (American Council on Exercise) Group Fitness certification",
+        "Career",
+        "HaysMed Foundation Board -- Served 8+ years, elected President by unanimous vote",
+        "Downtown Hays Development Corporation Board -- Past board member/officer",
+        "Hays High Academic Booster Club -- Current member",
+        "O'Loughlin PTA -- Past officer (all three children attended)",
+        "Political Career",
+        "Appointed: ~Late 2022 to fill the unexpired term of Michael Berges, who left to run for Ellis County Commission (won Republican primary Aug 2022, won general Nov 2022)",
+        "Elected: November 2023 -- received 27% of the vote, four-year term"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-michael-berges-0036",
+      "url": null,
+      "sourceFile": "reports/mason-ruder-complete-dossier.md:127",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "meeting record",
+        "voting record",
+        "ballot status",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 44,
+      "rowIds": [
+        "em-michael-berges-01097",
+        "em-michael-berges-01099",
+        "em-michael-berges-01100",
+        "em-michael-berges-01090",
+        "em-michael-berges-01094",
+        "em-michael-berges-01071",
+        "em-michael-berges-01074",
+        "em-michael-berges-01057",
+        "em-michael-berges-01058",
+        "em-michael-berges-01063",
+        "em-michael-berges-01065",
+        "em-michael-berges-01073",
+        "em-michael-berges-01075",
+        "em-michael-berges-01076",
+        "em-michael-berges-01095",
+        "em-michael-berges-01079",
+        "em-michael-berges-01081",
+        "em-michael-berges-01082",
+        "em-michael-berges-01085",
+        "em-michael-berges-01061",
+        "em-michael-berges-01068",
+        "em-michael-berges-01069",
+        "em-michael-berges-01083",
+        "em-michael-berges-01086",
+        "em-michael-berges-01060",
+        "em-michael-berges-01062",
+        "em-michael-berges-01064",
+        "em-michael-berges-01066",
+        "em-michael-berges-01067",
+        "em-michael-berges-01070",
+        "em-michael-berges-01088",
+        "em-michael-berges-01091",
+        "em-michael-berges-01092",
+        "em-michael-berges-01093",
+        "em-michael-berges-01096",
+        "em-michael-berges-01072",
+        "em-michael-berges-01077",
+        "em-michael-berges-01087",
+        "em-michael-berges-01059",
+        "em-michael-berges-01084",
+        "em-michael-berges-01098",
+        "em-michael-berges-01078",
+        "em-michael-berges-01080",
+        "em-michael-berges-01089"
+      ],
+      "claimsAnchored": [
+        "Economic development incentive: sales tax exemption on construction purchases via IRB issuance",
+        "2025 Budget",
+        "Commission approved 2025 budget with mill levy remaining the same (no tax increase)",
+        "Approved multiple housing and business development projects",
+        "Chick-fil-A / Business Development",
+        "COVID-19 Mask Mandate (2020) -- CONSISTENT DISSENTER",
+        "| July 2020 | AGAINST initial mandatory face mask ordinance | Passed 3-1 or 3-2 | Said he will wear a mask as recommended by his doctor but \"believes the decision should not be a mandate\" |",
+        "First elected mayor by commission vote in January 2024 (commission selects mayor from among its members annually)",
+        "Re-elected mayor by unanimous commission vote on January 8, 2026",
+        "Led all vote-getters with 1,834 votes (31% of ballots)",
+        "Described as the youngest City Commissioner in Hays history at time of election",
+        "| Date | Vote | Result | Notes |"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-michael-berges-0037",
+      "url": "https://haysusa.com/273/Shaun-Musil",
+      "sourceFile": "reports/faith-church-investigation-2026-03-31.md:97",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "church/worship"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00878"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0038",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5378/2024-Budget-Book-Final",
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:55",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00034"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0039",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings",
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:39",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00018"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0040",
+      "url": "https://www.fec.gov/data/candidate/H6KS03258/",
+      "sourceFile": "reports/senate-challengers-local-officials-complete.md:488",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-01102"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0041",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07012025-681",
+      "sourceFile": "memory/candidates/michael-berges/raw-dump-v2.md:71",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00029"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0042",
+      "url": "https://hayspost.com/posts/49060a66-e8fc-4755-a296-382a14c00a3d",
+      "sourceFile": "reports/faith-church-investigation-2026-03-31.md:98",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "church/worship"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00879"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0043",
+      "url": "https://hayspost.com/posts/08825e68-f663-4a03-96f4-0b2c6f0b4ec7",
+      "sourceFile": "reports/faith-church-investigation-2026-03-31.md:247",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "church/worship"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00884"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0044",
+      "url": "https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd",
+      "sourceFile": "reports/faith-church-investigation-2026-03-31.md:294",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "church/worship"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00904"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0045",
+      "url": "https://www.hdnews.net/city-commissioners-sworn-in-ruder-elected-mayor-cunningham-vice-mayor/",
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:628",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00807"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0046",
+      "url": "https://kspress.com/news/2025/09/20/forgetting-the-lesson-of-911-is-the-danger-we-face-now-says-ruder",
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:629",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00808"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0047",
+      "url": "https://www.haysmed.com/the-center/alaina-cunningham/",
+      "sourceFile": "reports/hays-city-commission-deep-investigation-2026-03-30.md:119",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-01001"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0048",
+      "url": "https://ballotpedia.org/Chase_LaPorte",
+      "sourceFile": "reports/senate-challengers-local-officials-complete.md:487",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-01101"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0049",
+      "url": "https://www.opencampaign.com/politicians-in-united-states/197957/chase-laporte/issue-positions",
+      "sourceFile": "reports/senate-challengers-local-officials-complete.md:490",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-01104"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0050",
+      "url": "https://www.ksn.com/news/state-regional/kansas-us-senate-candidates-under-scrutiny-over-missing-financial-disclosures/",
+      "sourceFile": "reports/senate-challengers-local-officials-complete.md:967",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-01152"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0051",
+      "url": "https://www.linkedin.com/in/scott-braun-cpm-62833366/",
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:197",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-00756"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0052",
+      "url": "https://www.linkedin.com/in/alaina-cunningham-4436ba1/",
+      "sourceFile": "reports/senate-challengers-local-officials-complete.md:510",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-01005"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-michael-berges-0053",
+      "url": "https://www.facebook.com/alaina.cunningham.9/",
+      "sourceFile": "reports/senate-challengers-local-officials-complete.md:509",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-michael-berges-01006"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    }
+  ]
+}

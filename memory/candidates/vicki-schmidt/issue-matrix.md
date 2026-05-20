@@ -1,0 +1,1584 @@
+# Fixed 14-Issue Matrix — vicki-schmidt — 2026-05-20
+
+This matrix is built from `evidence-matrix.json`, `social-evidence-matrix.json`, and `source-audit.json`. It is a candidate-rebuild input, not final public prose.
+
+## 1. Abortion / life
+
+Abortion / life: 24 selected evidence items from 94 mapped rows. Public URL-backed rows: 6.
+
+### Evidence
+- **candidate-stated** [em-vicki-schmidt-02879] Schmidt supports the Dobbs decision returning abortion regulation to the states. She opposes abortion on demand but supports "reasonable exceptions."
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:4711
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-04055] "stance": "Opposes abortion. He participated in the January 2026 GOP gubernatorial debate where all six Republican candidates found unity on abortion opposition."
+  - Source: ui/src/data/candidates.ts:23357
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-04177] "action-abortion-interview-statement"
+  - Source: ui/src/data/v2/vicki-schmidt.ts:343
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-00007] Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, "It is a vote I regret." On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in "abortion on demand," and said she does believe in reasonable exceptions. On leadership, she said it is important for a governor to tell the truth, and that sometimes leaders have to deliver hard news. ([source](https://kansasreflector.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/))
+  - Source: https://kansasreflector.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00044] | s-campaign-reflector-tax-abortion | primary | https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/ | campaign repost published 2025-07-21; accessed 2026-05-19 | campaign-amplified interview on tax-vote regret, abortion, leadership | taxes, abortion |
+  - Source: https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-03890] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **documented-record** [em-vicki-schmidt-00090] The campaign-amplified July 21, 2025 Kansas Reflector interview/article is the clearest captured current-cycle source. It reports Schmidt saying the U.S. Supreme Court was right to return abortion to the states, that she does not believe in "abortion on demand," and that she believes in reasonable exceptions.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:142
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-00091] The local social harvest did not find abortion as a dominant visible campaign theme. It counted abortion and tax-record accountability together as 2 of 17 accessible campaign/profile/public-record/news items in the reviewed set.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:144
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-00093] Evidence caution: Use the Kansas Reflector article or campaign repost directly for the quote. No current campaign issues page centered abortion was found.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:148
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-00544] Signed abortion restriction legislation
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:876
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-01289] > "How do we defend innocent life? I think this is one of the civil rights issues of our time. We have a Supreme Court that has found this right to abortion that is nowhere found in that constitution. It's our fastest-growing industry in the state of Kansas."
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1997
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-03978] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-vicki-schmidt-03323] Campaign-site July 21, 2025 repost of Kansas Reflector article on taxes and abortion. The page includes Schmidt's quote on the 2012 Brownback tax vote: "It is a vote I regret." ([source](https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/))
+  - Source: https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03325] Kansas Reflector July 21, 2025 candidate interview/article. Accessible quotes include her abortion position, the need for governors to tell the truth, and her plan to run on her record. ([source](https://kansasreflector.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/))
+  - Source: https://kansasreflector.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03345] | Abortion and tax-record accountability | 2 | 12% |
+  - Source: memory/candidates/vicki-schmidt/social-harvest.md:80
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03352] The campaign site amplifies three Kansas Reflector pieces in its News section: a July 21 interview item, a July 21 article on her record/taxes/abortion, and a July 25 early race analysis. The office LinkedIn page amplifies NASAA content, NAIC participation, K-State financial-education work, Department news releases, and consumer-protection resources. Logged-out X and Facebook capture did not expose a reliable repost/share inventory, so no campaign repost totals are reported.
+  - Source: memory/candidates/vicki-schmidt/social-harvest.md:93
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-vicki-schmidt-01220] His faith is expressed more through action (humanitarian service, pro-life positions, protecting faith-based organizations) than through verbal testimony
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1891
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-vicki-schmidt-02799] Abortion Votes -- THE KEY CONTROVERSY
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:4572
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00088] Issue Area 5 - Abortion and Life Issues
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:138
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-01161] Abortion:
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1801
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-01162] Described abortion as "one of the civil rights issues of our time"
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1802
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-01163] Kansas should shed its status as "Midwest magnet for abortion"
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1803
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-01288] On Abortion:
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1996
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-01303] All six candidates found unity on: abortion opposition, marijuana legalization opposition, judicial bias concerns, and praise for President Trump
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2017
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-vicki-schmidt-0007] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-vicki-schmidt-0008] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate vickiforgovernor.com share/repost** [soc-vicki-schmidt-0009] Campaign-site July 21, 2025 repost of Kansas Reflector article on taxes and abortion. The page includes Schmidt's quote on the 2012 Brownback tax vote: "It is a vote I regret." ([source](https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/))
+  - Source: https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong kansasreflector.com post** [soc-vicki-schmidt-0010] Kansas Reflector July 21, 2025 candidate interview/article. Accessible quotes include her abortion position, the need for governors to tell the truth, and her plan to run on her record. ([source](https://kansasreflector.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/))
+  - Source: https://kansasreflector.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-vicki-schmidt-0011] | Abortion and tax-record accountability | 2 | 12% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-vicki-schmidt-0012] The campaign site amplifies three Kansas Reflector pieces in its News section: a July 21 interview item, a July 21 article on her record/taxes/abortion, and a July 25 early race analysis. The office LinkedIn page amplifies NASAA content, NAIC participation, K-State financial-education work, Department news releases, and consumer-protection resources. Logged-out X and Facebook capture did not expose a reliable repost/share inventory, so no campaign repost totals are reported.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0118] The local social harvest did not find abortion as a dominant visible campaign theme. It counted abortion and tax-record accountability together as 2 of 17 accessible campaign/profile/public-record/news items in the reviewed set.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0119] *"In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0120] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest share/repost** [soc-vicki-schmidt-0121] Abortion and life issues: The campaign reposted a July 21, 2025 Kansas Reflector interview/article in which Schmidt discussed abortion and reasonable exceptions. Use as candidate-controlled amplification of secondary reporting unless the original interview is cited directly. No current campaign platform page making abortion central was found.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 2. LGBT / gender / parental rights
+
+LGBT / gender / parental rights: 14 selected evidence items from 16 mapped rows. Public URL-backed rows: 2.
+
+### Evidence
+- **candidate-stated** [em-vicki-schmidt-03138] Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.
+  - Source: memory/candidates/vicki-schmidt/site-profile.md:17
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-03142] School Choice / Parental Rights in Education: Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources.
+  - Source: memory/candidates/vicki-schmidt/site-profile.md:25
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-04057] "stance": "Supports restoring parental rights in education."
+  - Source: ui/src/data/candidates.ts:23377
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-03890] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **documented-record** [em-vicki-schmidt-02077] Why this matters: The Board of Education has been a battleground over science standards (evolution vs. intelligent design), sex education, school library books, and transgender student policies. In recent years, conservative and moderate factions have fought for control. The 2026 elections could shift the balance of power on the board.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3426
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-03978] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-vicki-schmidt-03354] Across the accessible public set reviewed, no reviewed item centered guns, immigration/border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing affordability, road and bridge funding, broadband, water policy, or Ogallala aquifer policy. Those absences are limited to the accessible material reviewed and should not be read as proof that Schmidt has no position.
+  - Source: memory/candidates/vicki-schmidt/social-harvest.md:97
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-vicki-schmidt-01098] May 2018: Signed Senate Bill 284 granting legal protections to faith-based adoption agencies that cite religious beliefs for not placing children in LGBTQ+ homes
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1711
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00014] Several issue areas were not visible in the accessible material reviewed. The public set did not include reviewed items centered on guns, immigration or border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing, road and bridge funding, broadband, water policy, or the Ogallala aquifer. The available record is therefore strongest on insurance regulation, consumer assistance, health biography, cost reduction, and record-of-service campaigning, and weaker on those absent policy areas.
+  - Source: memory/candidates/vicki-schmidt/in-their-own-words.md:27
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00543] Signed the Adoption Protection Act as governor (allows religious adoption agencies to refuse placements to same-sex couples)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:875
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-02364] LGBTQ Rights: Supported restrictions on LGBTQ rights
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3861
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-03037] Schmidt was among the first Kansas Republicans to publicly condemn Alex Dwyer (chair) and William Hendrix (vice chair) of the Kansas Young Republicans after Politico exposed racist, violent messages in an encrypted Telegram chat. Hendrix had used racial slurs and praised anti-LGBTQ+ positions.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:5023
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-03869] "issue": "Marriage & Family / LGBTQ+ Policy",
+  - Source: ui/src/data/candidates.ts:13352
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-03875] "issue": "School Choice / Parental Rights in Education",
+  - Source: ui/src/data/candidates.ts:13368
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-vicki-schmidt-0007] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-vicki-schmidt-0008] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-vicki-schmidt-0013] Across the accessible public set reviewed, no reviewed item centered guns, immigration/border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing affordability, road and bridge funding, broadband, water policy, or Ogallala aquifer policy. Those absences are limited to the accessible material reviewed and should not be read as proof that Schmidt has no position.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0128] Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0129] School Choice / Parental Rights in Education: Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 3. Education / curriculum / schools
+
+Education / curriculum / schools: 36 selected evidence items from 160 mapped rows. Public URL-backed rows: 17.
+
+### Evidence
+- **candidate-stated** [em-vicki-schmidt-00069] The Nov. 20, 2025 Department release says Schmidt announced a 2026 fee schedule that would reduce fees by an estimated $1.1 million. It says this is the seventh year of lowering costs at the Department and says consumers will see reductions in specific producer, agency, and continuing-education fees.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:94
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-00084] In an April 23, 2026 KVOE interview, Schmidt identified property taxes as a top issue and said education funding and local government funding were contributing factors. KVOE also reported her saying business development and housing would be economic priorities, and that she supports reviewing Medicaid expansion but prefers a Kansas-driven solution.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:128
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-00210] STRONG INDICATOR = Family/school ties strongly suggest affiliation but no direct membership statement found
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:125
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-01571] Said she wants to restore funding for Medicaid, special education and affordable housing programs (KCUR, Dec 30, 2025)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2460
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-03142] School Choice / Parental Rights in Education: Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources.
+  - Source: memory/candidates/vicki-schmidt/site-profile.md:25
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-03505] outcome: "Department release says consumers will see reductions across listed producer, agency, and education fees."
+  - Source: memory/candidates/vicki-schmidt/v2-issues.yaml:253
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-04057] "stance": "Supports restoring parental rights in education."
+  - Source: ui/src/data/candidates.ts:23377
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-00376] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00721] [Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)
+  - Source: https://www.usd489.com/page/board-of-education
+  - Confidence/use: confirmed / use
+- **documented-record** [em-vicki-schmidt-00785] [Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)
+  - Source: https://www.haysusa.com/335/Public-Library-Board
+  - Confidence/use: confirmed / use
+- **documented-record** [em-vicki-schmidt-02144] [Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-02145] [Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)
+  - Source: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+  - Confidence/use: confirmed / use
+- **documented-record** [em-vicki-schmidt-02146] [Kansas Reflector: Board races could shift power to conservative bloc](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)
+  - Source: https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-03809] "url": "https://www.usd489.com/page/board-of-education"
+  - Source: https://www.usd489.com/page/board-of-education
+  - Confidence/use: confirmed / use
+- **documented-record** [em-vicki-schmidt-04181] "ownWordsNarrative": "candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; native post inventory was login/script-limited.; platform: X/Twitter; status: identified, post-level content limited; url: https://x.com/VickiSchmidtKS; notes: Campaign site links account; direct timeline was not reliably captured logged out.; officialOffice: platform: Kansas.gov social directory / Department website; status: official office channels identified; url: https://portal.kansas.gov/social-media/; notes: Office Facebook, X, Instagram, and LinkedIn identified through offi…
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-vicki-schmidt-03978] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-vicki-schmidt-00050] The Kansas Insurance Department biography identifies Schmidt as the 27th Kansas Insurance Commissioner, first elected in 2018 and reelected in 2022. It says she was born and raised in Wichita, graduated from the University of Kansas School of Pharmacy, worked as a local pharmacist for more than 40 years, served in the Kansas Senate for 14 years, and is the first pharmacist to hold statewide elected office in Kansas.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:52
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-00140] Schmidt was born and raised in Wichita, graduated from KU's School of Pharmacy, and spent decades as a local pharmacist.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:15
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-00429] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:653
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-01211] Raised Catholic in Hays -- attended Thomas More Prep-Marian, a Catholic high school
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1881
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-01632] Born/Raised: Kansas City, Kansas. Attended Sumner Academy (magnet high school).
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2588
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-vicki-schmidt-00010] The Department LinkedIn page gives the clearest view of ongoing social-content priorities. Visible posts centered hiring, real-life scam education, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claim assistance, and National Consumer Protection Week. A visible PBM reform post quoted Schmidt saying, "This week, the Kansas Legislature chose to put patients over politics and profits," and argued PBMs should not threaten patients, local businesses, or rural communities. The highest visible post-level engagement in the accessible LinkedIn module was 45 likes and 1 comment on a post about Schmidt joining regulators at the 2026 NAIC Spring National Meeting. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03319] The office LinkedIn page was the richest accessible social feed. It listed 623 followers and a government-administration profile for the Kansas Department of Insurance. Visible updates emphasized hiring, fraud and scam prevention, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claims, and consumer-protection resources. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03341] | Insurance consumer assistance, recoveries, claims help, storm damage, fraud/scam prevention, and securities education | 7 | 41% |
+  - Source: memory/candidates/vicki-schmidt/social-harvest.md:76
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03352] The campaign site amplifies three Kansas Reflector pieces in its News section: a July 21 interview item, a July 21 article on her record/taxes/abortion, and a July 25 early race analysis. The office LinkedIn page amplifies NASAA content, NAIC participation, K-State financial-education work, Department news releases, and consumer-protection resources. Logged-out X and Facebook capture did not expose a reliable repost/share inventory, so no campaign repost totals are reported.
+  - Source: memory/candidates/vicki-schmidt/social-harvest.md:93
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03354] Across the accessible public set reviewed, no reviewed item centered guns, immigration/border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing affordability, road and bridge funding, broadband, water policy, or Ogallala aquifer policy. Those absences are limited to the accessible material reviewed and should not be read as proof that Schmidt has no position.
+  - Source: memory/candidates/vicki-schmidt/social-harvest.md:97
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-vicki-schmidt-00353] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **faith-community-record** [em-vicki-schmidt-00211] INFERRED = Circumstantial evidence only (German-Catholic surname, attended Catholic school, etc.)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:126
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-vicki-schmidt-00222] 2010 graduate of Thomas More Prep-Marian (Catholic high school, Diocese of Salina)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:147
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-vicki-schmidt-00223] Works professionally FOR the Catholic school system in Hays (HCS Advancement Director)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:148
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00433] [HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-00722] [Ballotpedia: Hays USD 489 Elections](https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections)
+  - Source: https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-00849] | Hays USD 489 | 785-623-2400 | [usd489.com](https://www.usd489.com) |
+  - Source: https://www.usd489.com
+  - Confidence/use: confirmed / use
+- **background-context** [em-vicki-schmidt-03108] [KU News: Vicki Schmidt earns pharmacy school's top honor (April 2019)](https://news.ku.edu/news/article/vicki-schmidt-earns-schools-top-honor)
+  - Source: https://news.ku.edu/news/article/vicki-schmidt-earns-schools-top-honor
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-00014] Several issue areas were not visible in the accessible material reviewed. The public set did not include reviewed items centered on guns, immigration or border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing, road and bridge funding, broadband, water policy, or the Ogallala aquifer. The available record is therefore strongest on insurance regulation, consumer assistance, health biography, cost reduction, and record-of-service campaigning, and weaker on those absent policy areas.
+  - Source: memory/candidates/vicki-schmidt/in-their-own-words.md:27
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00064] The local social harvest found that insurance consumer assistance, recoveries, claims help, storm-damage guidance, fraud/scam prevention, and securities education were the dominant accessible official-channel topics.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:82
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-vicki-schmidt-0004] "ownWordsNarrative": "candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; native post inventory was login/script-limited.; platform: X/Twitter; status: identified, post-level content limited; url: https://x.com/VickiSchmidtKS; notes: Campaign site links account; direct timeline was not reliably captured logged out.; officialOffice: platform: Kansas.gov social directory / Department website; status: official office channels identified; url: https://portal.kansas.gov/social-media/; notes: Office Facebook, X, Instagram, and LinkedIn identified through offi…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-vicki-schmidt-0007] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-vicki-schmidt-0008] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-vicki-schmidt-0012] The campaign site amplifies three Kansas Reflector pieces in its News section: a July 21 interview item, a July 21 article on her record/taxes/abortion, and a July 25 early race analysis. The office LinkedIn page amplifies NASAA content, NAIC participation, K-State financial-education work, Department news releases, and consumer-protection resources. Logged-out X and Facebook capture did not expose a reliable repost/share inventory, so no campaign repost totals are reported.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-vicki-schmidt-0013] Across the accessible public set reviewed, no reviewed item centered guns, immigration/border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing affordability, road and bridge funding, broadband, water policy, or Ogallala aquifer policy. Those absences are limited to the accessible material reviewed and should not be read as proof that Schmidt has no position.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate LinkedIn comment** [soc-vicki-schmidt-0014] The Department LinkedIn page gives the clearest view of ongoing social-content priorities. Visible posts centered hiring, real-life scam education, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claim assistance, and National Consumer Protection Week. A visible PBM reform post quoted Schmidt saying, "This week, the Kansas Legislature chose to put patients over politics and profits," and argued PBMs should not threaten patients, local businesses, or rural communities. The highest visible post-level engagement in the accessible LinkedIn module was 45 likes and 1 comment on a post about Schmidt joining regulators at the 2026 NAIC Spring National Meeting. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong LinkedIn post** [soc-vicki-schmidt-0015] The office LinkedIn page was the richest accessible social feed. It listed 623 followers and a government-administration profile for the Kansas Department of Insurance. Visible updates emphasized hiring, fraud and scam prevention, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claims, and consumer-protection resources. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-vicki-schmidt-0016] | Insurance consumer assistance, recoveries, claims help, storm damage, fraud/scam prevention, and securities education | 7 | 41% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0119] *"In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-vicki-schmidt-0125] "observation": "The campaign site amplifies three Kansas Reflector pieces in its News section: a July 21 interview item, a July 21 article on her record/taxes/abortion, and a July 25 early race analysis. The office LinkedIn page amplifies NASAA content, NAIC participation, K-State financial-education work, Department news releases, and consumer-protection resources. Logged-out X and Facebook capture did not expose a reliable...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 4. Religious liberty / church / civic morality
+
+Religious liberty / church / civic morality: 17 selected evidence items from 253 mapped rows. Public URL-backed rows: 19.
+
+### Evidence
+- **candidate-stated** [em-vicki-schmidt-03139] Religious Liberty: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources.
+  - Source: memory/candidates/vicki-schmidt/site-profile.md:19
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-03890] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **documented-record** [em-vicki-schmidt-00445] Introduced resolution to authorize use of the Capitol Rotunda for prayer events
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:685
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-03978] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-vicki-schmidt-00429] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:653
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-02749] Vicki (maiden name Greene per WikiTree records) was born and raised in Wichita. She and Mike both attended Wichita South High School. Their families lived two blocks from each other and "shared similar upbringings focused on hard work, honesty, and faith." They went to the University of Kansas together and married in 1974. They have resided in Topeka for over 40 years, where they raised their two sons.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:4479
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-vicki-schmidt-03354] Across the accessible public set reviewed, no reviewed item centered guns, immigration/border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing affordability, road and bridge funding, broadband, water policy, or Ogallala aquifer policy. Those absences are limited to the accessible material reviewed and should not be read as proof that Schmidt has no position.
+  - Source: memory/candidates/vicki-schmidt/social-harvest.md:97
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-vicki-schmidt-00183] "hard work, honesty and faith" - Vicki Schmidt campaign bio, 2026-04-01, https://vickischmidt.org/meet-vicki/ - topic: personal values.
+  - Source: https://vickischmidt.org/meet-vicki/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-vicki-schmidt-00228] [Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)
+  - Source: https://www.hfehays.org/o/hfe/article/923439
+  - Confidence/use: likely / use
+- **faith-community-record** [em-vicki-schmidt-00229] [Immaculate Heart of Mary Parish](https://www.ihm-church.com/)
+  - Source: https://www.ihm-church.com/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-vicki-schmidt-00353] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-00014] Several issue areas were not visible in the accessible material reviewed. The public set did not include reviewed items centered on guns, immigration or border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing, road and bridge funding, broadband, water policy, or the Ogallala aquifer. The available record is therefore strongest on insurance regulation, consumer assistance, health biography, cost reduction, and record-of-service campaigning, and weaker on those absent policy areas.
+  - Source: memory/candidates/vicki-schmidt/in-their-own-words.md:27
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00439] | Notable Roles | Co-Chair, National Prayer Breakfast (2023 & 2024) |
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:677
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00441] Co-chaired the 2023 AND 2024 National Prayer Breakfast in Washington, DC
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:681
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00443] Read scripture publicly at the National Prayer Breakfast
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:683
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-03871] "issue": "Religious Liberty",
+  - Source: ui/src/data/candidates.ts:13356
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-04070] "religion": "Evangelical / Non-denominational (affiliated with Morning Star International, Nashville)",
+  - Source: ui/src/data/candidates.ts:24365
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-vicki-schmidt-0007] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-vicki-schmidt-0008] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-vicki-schmidt-0013] Across the accessible public set reviewed, no reviewed item centered guns, immigration/border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing affordability, road and bridge funding, broadband, water policy, or Ogallala aquifer policy. Those absences are limited to the accessible material reviewed and should not be read as proof that Schmidt has no position.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0135] No faith or church references found in her candidate profiles, HaysPost Q&As, or social media
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-vicki-schmidt-0136] X/Twitter (@ScottSchwabKS): Mix of official duties, campaign messaging, and personal reflections. Posts about election security, office achievements, policy positions. References faith directly. Example post included a quote about faith in the context of his work.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0137] Religious Liberty: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 5. Taxes / spending / debt
+
+Taxes / spending / debt: 34 selected evidence items from 142 mapped rows. Public URL-backed rows: 15.
+
+### Evidence
+- **candidate-stated** [em-vicki-schmidt-00005] Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a "fiscal hawk," delivering more efficient, accessible, and less expensive services. The same release said the Department had lowered fees and reduced the cost of doing business by more than $76 million under her leadership. ([source](https://www.insurance.kansas.gov/Home/Components/News/News/70/16))
+  - Source: https://www.insurance.kansas.gov/Home/Components/News/News/70/16
+  - Confidence/use: confirmed / use
+- **candidate-stated** [em-vicki-schmidt-03334] Department Nov. 20, 2025 release: Schmidt announced a 2026 fee schedule reducing fees by an estimated $1.1 million and said Kansans know she is a "fiscal hawk." ([source](https://www.insurance.kansas.gov/Home/Components/News/News/70/16))
+  - Source: https://www.insurance.kansas.gov/Home/Components/News/News/70/16
+  - Confidence/use: confirmed / use
+- **candidate-stated** [em-vicki-schmidt-00069] The Nov. 20, 2025 Department release says Schmidt announced a 2026 fee schedule that would reduce fees by an estimated $1.1 million. It says this is the seventh year of lowering costs at the Department and says consumers will see reductions in specific producer, agency, and continuing-education fees.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:94
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-00084] In an April 23, 2026 KVOE interview, Schmidt identified property taxes as a top issue and said education funding and local government funding were contributing factors. KVOE also reported her saying business development and housing would be economic priorities, and that she supports reviewing Medicaid expansion but prefers a Kansas-driven solution.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:128
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-00097] The Meet Joe page says Newland operates Newland Farms with his family, has spent 35 years farming and ranching, has served as president of the Kansas Farm Bureau since 2022, and has worked on water, energy, and rural affordability topics. It quotes Newland saying rural Kansas faces pressure from property taxes, energy costs, and shrinking access to services.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:158
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-01642] Described the disconnect *"between what capital wants and what community wants"* as his motivation. Said *"politician-created problems"* such as tariffs and tax policies that benefit billionaires *"are tearing apart the fabric of our communities."*
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2601
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-01646] Opportunity Zones: Supports federal tax incentive programs for investment in economically distressed areas
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2613
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-03248] Kansas Insurance Department Nov. 20, 2025 release: says Schmidt announced a 2026 fee schedule reducing fees by an estimated $1.1 million.
+  - Source: memory/candidates/vicki-schmidt/sleuth-pass.md:28
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-00007] Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, "It is a vote I regret." On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in "abortion on demand," and said she does believe in reasonable exceptions. On leadership, she said it is important for a governor to tell the truth, and that sometimes leaders have to deliver hard news. ([source](https://kansasreflector.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/))
+  - Source: https://kansasreflector.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00040] | s-hb2050 | primary | https://www.kslegislature.gov/li/b2025_26/measures/hb2050/ | accessed 2026-05-19 | Department fee modernization bill; requested by KDOI; approved by governor Apr. 23, 2025 | fees, agency administration |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/hb2050/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-vicki-schmidt-00044] | s-campaign-reflector-tax-abortion | primary | https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/ | campaign repost published 2025-07-21; accessed 2026-05-19 | campaign-amplified interview on tax-vote regret, abortion, leadership | taxes, abortion |
+  - Source: https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-02103] [Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)
+  - Source: https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-02104] [PBS Wisconsin: $100M+ spending on 2025 race](https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/)
+  - Source: https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-02644] [Kansas Reflector: Property tax reform campaign](https://kansasreflector.com/briefs/scott-schwab-aims-gop-gubernatorial-campaign-at-property-tax-reform/)
+  - Source: https://kansasreflector.com/briefs/scott-schwab-aims-gop-gubernatorial-campaign-at-property-tax-reform/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-03890] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **documented-record** [em-vicki-schmidt-00025] Official ballot wording needs caution. The Kansas Secretary of State candidate-information page says candidates for national, state, legislative, and judicial offices must file with the Secretary of State and are not considered filed until their petition or declaration and fee are received. It lists the 2026 primary filing deadline as 12:00 p.m. Monday, June 1, 2026. The official SOS candidate-list endpoint returned a JavaScript/robot-verification page in text capture. Schmidt's May 18, 2026 campaign announcement says she and running mate Joe Newland "will officially file for office together on June 1." Treat her as an active gubernatorial campaign/finance filer with final SOS candidate-list/ballot status pending official readback.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:17
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-03978] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-vicki-schmidt-02022] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3313
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-02060] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3398
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-02366] Taxes: Served on Taxation Committee as vice-chair; consistent advocate for lower taxes
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3863
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-02796] > "It is a vote I regret. [...] The GOP strategy in the Senate was to place the tax bill in the hands of a House-Senate negotiating committee so a more balanced reform plan could be drafted. Instead of revisions, the House concurred with the Senate and Brownback signed the bill into law."
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:4567
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-02963] | Maggie's List | National women's organization | "Principles of fiscal responsibility, limited government, and strong national security." Endorsed Schmidt over three other Republican women in the race (Eakins, O'Hara, Rogers). |
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:4868
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-vicki-schmidt-03321] Campaign homepage and about text, captured 2026-05-11. Key signals: hardworking governor frame; pharmacist identity; Medicaid rebate recoveries; autism coverage; cancer-care access; insurance recoveries; fee/cost reductions; breast-cancer survivor narrative. ([source](https://vickiforgovernor.com/))
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03323] Campaign-site July 21, 2025 repost of Kansas Reflector article on taxes and abortion. The page includes Schmidt's quote on the 2012 Brownback tax vote: "It is a vote I regret." ([source](https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/))
+  - Source: https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03343] | Cost reduction, fees, fiscal efficiency, Medicaid rebate recovery, and administrative competence | 4 | 24% |
+  - Source: memory/candidates/vicki-schmidt/social-harvest.md:78
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03345] | Abortion and tax-record accountability | 2 | 12% |
+  - Source: memory/candidates/vicki-schmidt/social-harvest.md:80
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03352] The campaign site amplifies three Kansas Reflector pieces in its News section: a July 21 interview item, a July 21 article on her record/taxes/abortion, and a July 25 early race analysis. The office LinkedIn page amplifies NASAA content, NAIC participation, K-State financial-education work, Department news releases, and consumer-protection resources. Logged-out X and Facebook capture did not expose a reliable repost/share inventory, so no campaign repost totals are reported.
+  - Source: memory/candidates/vicki-schmidt/social-harvest.md:93
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **public-controversy** [em-vicki-schmidt-02237] Criticized the 2025 Legislature and Governor Laura Kelly for delivering only "$25.88 property tax break for the owner of a $150,000 home"
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3675
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00039] | s-kdoi-fee-2026 | primary | https://www.insurance.kansas.gov/Home/Components/News/News/70/16 | published 2025-11-20; accessed 2026-05-19 | 2026 fee schedule; $1.1M estimated fee reduction; fiscal-hawk quote | fees, government efficiency |
+  - Source: https://www.insurance.kansas.gov/Home/Components/News/News/70/16
+  - Confidence/use: confirmed / use
+- **background-context** [em-vicki-schmidt-00043] | s-kvoe-interview | secondary | https://kvoe.com/2026/04/23/kansas-insurance-commissioner-vicki-schmidt-details-run-for-governor-during-kvoe-news-interview/ | published 2026-04-23; accessed 2026-05-19 | property tax, Medicaid expansion, business recruitment interview context | taxes, health care |
+  - Source: https://kvoe.com/2026/04/23/kansas-insurance-commissioner-vicki-schmidt-details-run-for-governor-during-kvoe-news-interview/
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-01674] Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-00081] Issue Area 4 - Taxes, Property Taxes, Affordability, and Fiscal Framing
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:122
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00328] Policy focus: county spending, transparency
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:393
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00962] Referenced his Hays roots prominently in that speech, noting the $500 million deficit he inherited and the $800 million surplus he left
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1512
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-vicki-schmidt-0007] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-vicki-schmidt-0008] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate vickiforgovernor.com share/repost** [soc-vicki-schmidt-0009] Campaign-site July 21, 2025 repost of Kansas Reflector article on taxes and abortion. The page includes Schmidt's quote on the 2012 Brownback tax vote: "It is a vote I regret." ([source](https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/))
+  - Source: https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-vicki-schmidt-0011] | Abortion and tax-record accountability | 2 | 12% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-vicki-schmidt-0012] The campaign site amplifies three Kansas Reflector pieces in its News section: a July 21 interview item, a July 21 article on her record/taxes/abortion, and a July 25 early race analysis. The office LinkedIn page amplifies NASAA content, NAIC participation, K-State financial-education work, Department news releases, and consumer-protection resources. Logged-out X and Facebook capture did not expose a reliable repost/share inventory, so no campaign repost totals are reported.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong vickiforgovernor.com post** [soc-vicki-schmidt-0017] Campaign homepage and about text, captured 2026-05-11. Key signals: hardworking governor frame; pharmacist identity; Medicaid rebate recoveries; autism coverage; cancer-care access; insurance recoveries; fee/cost reductions; breast-cancer survivor narrative. ([source](https://vickiforgovernor.com/))
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-vicki-schmidt-0018] | Cost reduction, fees, fiscal efficiency, Medicaid rebate recovery, and administrative competence | 4 | 24% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0118] The local social harvest did not find abortion as a dominant visible campaign theme. It counted abortion and tax-record accountability together as 2 of 17 accessible campaign/profile/public-record/news items in the reviewed set.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0122] "Campaign-controlled sources anchor stated biography, executive-record framing, Joe Newland running-mate selection, and campaign-amplified tax/abortion interview material."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-vicki-schmidt-0125] "observation": "The campaign site amplifies three Kansas Reflector pieces in its News section: a July 21 interview item, a July 21 article on her record/taxes/abortion, and a July 25 early race analysis. The office LinkedIn page amplifies NASAA content, NAIC participation, K-State financial-education work, Department news releases, and consumer-protection resources. Logged-out X and Facebook capture did not expose a reliable...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 6. Economy / jobs / labor
+
+Economy / jobs / labor: 29 selected evidence items from 73 mapped rows. Public URL-backed rows: 8.
+
+### Evidence
+- **candidate-stated** [em-vicki-schmidt-00005] Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a "fiscal hawk," delivering more efficient, accessible, and less expensive services. The same release said the Department had lowered fees and reduced the cost of doing business by more than $76 million under her leadership. ([source](https://www.insurance.kansas.gov/Home/Components/News/News/70/16))
+  - Source: https://www.insurance.kansas.gov/Home/Components/News/News/70/16
+  - Confidence/use: confirmed / use
+- **candidate-stated** [em-vicki-schmidt-00084] In an April 23, 2026 KVOE interview, Schmidt identified property taxes as a top issue and said education funding and local government funding were contributing factors. KVOE also reported her saying business development and housing would be economic priorities, and that she supports reviewing Medicaid expansion but prefers a Kansas-driven solution.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:128
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-03144] Healthcare / Insurance: This is her signature issue. As insurance commissioner, she says her office returned over $206 million to Kansas families and lowered the cost of doing business by over $96 million. As a state senator, she championed autism coverage and cancer-care access.
+  - Source: memory/candidates/vicki-schmidt/site-profile.md:29
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-03878] "stance": "This is her signature issue. As insurance commissioner, she says her office returned over $206 million to Kansas families and lowered the cost of doing business by over $96 million. As a state senator, she championed autism coverage and cancer-care access."
+  - Source: ui/src/data/candidates.ts:13377
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-04170] "observation": "Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a \"fiscal hawk,\" delivering more efficient, accessible, and less expensive services. The same release said the Department had lowered fees and reduced the cost of doing business by more than $76 million...",
+  - Source: ui/src/data/v2/vicki-schmidt.ts:266
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-00003] Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, "It's time Kansans have a governor that works as hard as they do," and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says that as insurance commissioner she has returned more than $206 million to Kansas families and lowered the cost of doing business by more than $96 million. ([source](https://vickiforgovernor.com/))
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-03890] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **documented-record** [em-vicki-schmidt-00063] The campaign site makes the same competence argument in broader campaign terms. It says Schmidt found errors in the Kansas Medical Assistance Program that produced more than $391 million in recouped dollars for the state, returned over $206 million to Kansas families as insurance commissioner, and lowered the cost of doing business by more than $96 million.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:80
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-00071] The campaign site frames this as part of Schmidt's case for government efficiency and reduced business costs.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:98
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-00166] The campaign cites her consumer return totals and doing-business savings as a central governing credential.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:47
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-01395] | Jobs for America's Graduates (JAG) | Honorary Board Member |
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2190
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-01578] Retired Ameriprise financial executive with 40 years in business, an economics degree from University of Chicago, and an MBA from Northwestern. The money candidate -- has made 120+ donations to Democratic candidates and organizations. Brings corporate-world gravitas but zero political experience.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2478
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-01748] Associate degree in Business, Hutchison Community College (1981)
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:477
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-03978] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-vicki-schmidt-00111] Caveat: The donor universe is 104 pages. This pass did not complete full donor-industry coding or determine whether any donor had business pending before the Insurance Department.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:184
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-00128] Whether any donor had specific pending business before the Kansas Insurance Department.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:214
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-02060] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3398
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-02348] | Vice Chairman, Commerce and Labor Committee | During House tenure |
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3833
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-03283] Full donor industry clusters or whether any donor has specific business pending before the Kansas Insurance Department.
+  - Source: memory/candidates/vicki-schmidt/sleuth-pass.md:75
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-vicki-schmidt-03312] The campaign website frames Schmidt as a lifelong Kansan, Republican, pharmacist, former state senator, breast-cancer survivor, and sitting insurance commissioner. Its lead line says, "It's time Kansans have a governor that works as hard as they do." It emphasizes finding Medicaid drug-rebate errors that led to more than $391 million recouped for the state, autism coverage, cancer-care access, more than $206 million returned to Kansas families as insurance commissioner, and more than $96 million in lowered cost of doing business. ([source](https://vickiforgovernor.com/))
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-vicki-schmidt-03794] "url": "https://www.realmediakc.com/podcast/philip-sarnecki-for-kansas-governor-faith-business-outsider-vision/",
+  - Source: https://www.realmediakc.com/podcast/philip-sarnecki-for-kansas-governor-faith-business-outsider-vision/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-vicki-schmidt-00444] Introduced the FAITH in Small Business Act (ensures faith-based businesses can participate in SBA loans)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:684
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-vicki-schmidt-01789] Education: B.A. in Business Administration, Trevecca Nazarene University (1999) -- *note: Trevecca is a Church of the Nazarene university in Nashville, TN, suggesting a faith background*
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2883
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00043] | s-kvoe-interview | secondary | https://kvoe.com/2026/04/23/kansas-insurance-commissioner-vicki-schmidt-details-run-for-governor-during-kvoe-news-interview/ | published 2026-04-23; accessed 2026-05-19 | property tax, Medicaid expansion, business recruitment interview context | taxes, health care |
+  - Source: https://kvoe.com/2026/04/23/kansas-insurance-commissioner-vicki-schmidt-details-run-for-governor-during-kvoe-news-interview/
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-01462] [Jobs for America's Graduates - Bio](https://jag.org/dipl-team-member/jeff-colyer/)
+  - Source: https://jag.org/dipl-team-member/jeff-colyer/
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-00145] As insurance commissioner, she has emphasized consumer refunds and lowering the cost of doing business.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:21
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00368] 55 years old, rancher/farmer, K-Lawn business partner
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:489
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00380] Bank Vice President (Golden Plains Credit Union, 30+ years)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:514
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00883] PROPERTY, BUSINESS & FINANCIAL {#17-property-business-financial}
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1927
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-vicki-schmidt-0007] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-vicki-schmidt-0008] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong vickiforgovernor.com post** [soc-vicki-schmidt-0019] The campaign website frames Schmidt as a lifelong Kansan, Republican, pharmacist, former state senator, breast-cancer survivor, and sitting insurance commissioner. Its lead line says, "It's time Kansans have a governor that works as hard as they do." It emphasizes finding Medicaid drug-rebate errors that led to more than $391 million recouped for the state, autism coverage, cancer-care access, more than $206 million returned to Kansas families as insurance commissioner, and more than $96 million in lowered cost of doing business. ([source](https://vickiforgovernor.com/))
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **ambiguous Public web / internal harvest share/repost** [soc-vicki-schmidt-0134] "text": "Schmidt's campaign emphasizes efficient government more than a detailed tax platform. The campaign reposted a 2025 Kansas Reflector interview/article in which Schmidt said her 2012 Brownback-era tax vote was a vote she regrets. In 2026 KVOE coverage, she identified property taxes as a top issue and linked affordability to education finance, local government funding, business development, and housing.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 7. Guns / Second Amendment
+
+Guns / Second Amendment: 17 selected evidence items from 18 mapped rows. Public URL-backed rows: 1.
+
+### Evidence
+- **documented-record** [em-vicki-schmidt-03890] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **documented-record** [em-vicki-schmidt-01746] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:472
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-02255] Second Amendment
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3700
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-02256] "We will protect our Second Amendment rights"
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3701
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-02699] Pro-Second Amendment
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:4402
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-03140] Guns / Second Amendment: Runs as a Republican. The Kansas Republican Party platform supports Second Amendment rights without restrictions. No specific personal statement found in public sources. on gun policy in her current campaign.
+  - Source: memory/candidates/vicki-schmidt/site-profile.md:21
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-03872] "issue": "Guns / Second Amendment",
+  - Source: ui/src/data/candidates.ts:13360
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-02365] Guns: Pro-Second Amendment, specific NRA rating not publicly available in search results
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3862
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-02496] Specific formal endorsements (NRA rating, Kansas Right to Life, Kansas Farm Bureau, etc.) were not comprehensively documented in publicly available reporting at time of investigation. The Kansas Ethics Commission filings may contain PAC contribution details that indicate organizational support.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:4078
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-02968] | NRA | Unknown | No endorsement data found |
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:4876
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-vicki-schmidt-03354] Across the accessible public set reviewed, no reviewed item centered guns, immigration/border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing affordability, road and bridge funding, broadband, water policy, or Ogallala aquifer policy. Those absences are limited to the accessible material reviewed and should not be read as proof that Schmidt has no position.
+  - Source: memory/candidates/vicki-schmidt/social-harvest.md:97
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-vicki-schmidt-00014] Several issue areas were not visible in the accessible material reviewed. The public set did not include reviewed items centered on guns, immigration or border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing, road and bridge funding, broadband, water policy, or the Ogallala aquifer. The available record is therefore strongest on insurance regulation, consumer assistance, health biography, cost reduction, and record-of-service campaigning, and weaker on those absent policy areas.
+  - Source: memory/candidates/vicki-schmidt/in-their-own-words.md:27
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-01333] Gun Rights
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2067
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-01764] Website headline: "PRO-LIFE. PRO-GUN. PRO-TRUMP."
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2836
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-01779] *"PRO-LIFE. PRO-GUN. PRO-TRUMP."* (hawkinsforinsurance.com)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2859
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-01849] | Branding | "Pro-Life. Pro-Gun. Pro-Trump." | Consumer champion; anti-industry |
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2970
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-02491] | Guns | Pro-2A, protect rights | Standard GOP |
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:4071
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-vicki-schmidt-0007] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-vicki-schmidt-0013] Across the accessible public set reviewed, no reviewed item centered guns, immigration/border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing affordability, road and bridge funding, broadband, water policy, or Ogallala aquifer policy. Those absences are limited to the accessible material reviewed and should not be read as proof that Schmidt has no position.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0120] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0139] Guns / Second Amendment: Runs as a Republican. The Kansas Republican Party platform supports Second Amendment rights without restrictions. No specific personal statement found in public sources. on gun policy in her current campaign.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 8. Immigration / border
+
+Immigration / border: 17 selected evidence items from 39 mapped rows. Public URL-backed rows: 4.
+
+### Evidence
+- **candidate-stated** [em-vicki-schmidt-01619] Immigration Reform: *"We have a very big problem with immigration in our country right now, in the sense that there's a lot of confusion over it."* Supports reform that is "a solution, not another problem."
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2559
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-02112] [CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)
+  - Source: https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-03890] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **documented-record** [em-vicki-schmidt-01573] Weaknesses: Lost her only previous campaign (2020 KS-1 primary). The USDA role ties her directly to Biden, which is a liability in Kansas. Immigration platform (pathway to citizenship) may be too progressive for Kansas general election voters. The NRSC disclosure complaint, while procedural, gives opponents ammunition.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2464
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-01623] Called for a full investigation of federal immigration enforcement actions (KCUR, Dec 30, 2025)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2565
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-01972] Their argument is straightforward: Voting should be exclusively for citizens, and the Constitution should say so clearly and forcefully. They point out that similar amendments passed in all 8 states where they appeared on the 2024 ballot, often with 65-80% of the vote. It is a matter of principle, even if non-citizen voting is not currently a problem.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3205
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-01981] FACT 1: Non-citizen voting is already illegal. This amendment does not make anything new illegal.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3227
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-02484] Campaign language: "We will work with the Trump administration on enforcing our immigration laws"
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:4061
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-03141] Immigration / Border: Has not made immigration a visible part of her campaign platform. Schmidt's campaign is built around health-care credentials and consumer protection rather than the culture-war issues that dominate other Republican campaigns. Among the GOP gubernatorial candidates, she has the least ideological public profile.
+  - Source: memory/candidates/vicki-schmidt/site-profile.md:23
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-01353] Endorsed Trump stating he would "protect Medicare, lower health care and drug prices, speed development of medical treatments and address the overdose epidemic." Also argued Trump would "close the southern U.S. border with Mexico to drug traffickers" and that America deserved "a president dedicated to securing our borders, stopping the drug traffickers and saving American lives."
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2116
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-vicki-schmidt-03354] Across the accessible public set reviewed, no reviewed item centered guns, immigration/border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing affordability, road and bridge funding, broadband, water policy, or Ogallala aquifer policy. Those absences are limited to the accessible material reviewed and should not be read as proof that Schmidt has no position.
+  - Source: memory/candidates/vicki-schmidt/social-harvest.md:97
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-vicki-schmidt-01860] [Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/) (Aug 25, 2025)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-03201] [Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-00014] Several issue areas were not visible in the accessible material reviewed. The public set did not include reviewed items centered on guns, immigration or border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing, road and bridge funding, broadband, water policy, or the Ogallala aquifer. The available record is therefore strongest on insurance regulation, consumer assistance, health biography, cost reduction, and record-of-service campaigning, and weaker on those absent policy areas.
+  - Source: memory/candidates/vicki-schmidt/in-their-own-words.md:27
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00542] Extensive international humanitarian medical work with International Medical Corps -- 20+ countries since 1985 (Afghanistan, Iraq, Kosovo, South Sudan, Cameroon, Syria border, Ukraine)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:874
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00985] | ~2012+ | Syrian border | Syrian Civil War | Provided medical care to refugees/casualties |
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1553
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-01158] Immigration:
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1797
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-vicki-schmidt-0007] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-vicki-schmidt-0013] Across the accessible public set reviewed, no reviewed item centered guns, immigration/border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing affordability, road and bridge funding, broadband, water policy, or Ogallala aquifer policy. Those absences are limited to the accessible material reviewed and should not be read as proof that Schmidt has no position.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0140] Weaknesses: Lost her only previous campaign (2020 KS-1 primary). The USDA role ties her directly to Biden, which is a liability in Kansas. Immigration platform (pathway to citizenship) may be too progressive for Kansas general election voters. The NRSC disclosure complaint, while procedural, gives opponents ammunition.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0141] Immigration / Border: Has not made immigration a visible part of her campaign platform. Schmidt's campaign is built around health-care credentials and consumer protection rather than the culture-war issues that dominate other Republican campaigns. Among the GOP gubernatorial candidates, she has the least ideological public profile.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0142] "stance": "Has not made immigration a visible part of her campaign platform. Schmidt's campaign is built around health-care credentials and consumer protection rather than the culture-war issues that dominate other Republican campaigns. Among the GOP gubernatorial candidates, she has the least ideological public profile."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 9. Health care / insurance / Medicaid
+
+Health care / insurance / Medicaid: 40 selected evidence items from 340 mapped rows. Public URL-backed rows: 62.
+
+### Evidence
+- **candidate-stated** [em-vicki-schmidt-00004] The dominant official-channel signal is consumer protection through the Kansas Department of Insurance. On Jan. 15, 2026, the Department announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since Schmidt took office in 2019. Schmidt said, "The work we do consistently puts more money back in the pockets of Kansans," and added that when Kansans call the department, "we're not just going to answer the phone; we're going to help." ([source](https://www.insurance.kansas.gov/Home/Components/News/News/226/16))
+  - Source: https://www.insurance.kansas.gov/Home/Components/News/News/226/16
+  - Confidence/use: confirmed / use
+- **candidate-stated** [em-vicki-schmidt-00005] Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a "fiscal hawk," delivering more efficient, accessible, and less expensive services. The same release said the Department had lowered fees and reduced the cost of doing business by more than $76 million under her leadership. ([source](https://www.insurance.kansas.gov/Home/Components/News/News/70/16))
+  - Source: https://www.insurance.kansas.gov/Home/Components/News/News/70/16
+  - Confidence/use: confirmed / use
+- **candidate-stated** [em-vicki-schmidt-00011] Cancer and mammography are recurring personal and policy-adjacent themes. Kansas Reflector reported Schmidt's June 2023 social-media statement announcing her breast-cancer diagnosis. She asked Kansans to schedule yearly mammograms or encourage women in their lives to do so, saying she was proof the procedure can save lives. She also said cancer patients' stories, determination, and strength were the foundation on which she faced the fight, and added, "I'm not a very good patient." ([source](https://kansasreflector.com/briefs/kansas-insurance-commissioner-has-breast-cancer-expects-full-recovery/))
+  - Source: https://kansasreflector.com/briefs/kansas-insurance-commissioner-has-breast-cancer-expects-full-recovery/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-vicki-schmidt-00012] In an Oct. 17, 2023 WIBW interview after treatment, Schmidt said, "I'm very thankful to be on this side of the journey and I'm really doing well." She said going public was difficult but the right decision because she knew people who got mammograms afterward and were diagnosed. She also connected the experience to insurance administration, saying medical billing and coverage processes can be hard for consumers to understand and that patients should not be overly burdened while trying to recover. ([source](https://www.wibw.com/2023/10/17/its-humbling-ks-insurance-commissioner-discusses-breast-cancer-journey/))
+  - Source: https://www.wibw.com/2023/10/17/its-humbling-ks-insurance-commissioner-discusses-breast-cancer-journey/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-vicki-schmidt-03095] [Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023)](https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/)
+  - Source: https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-vicki-schmidt-03097] [KFL PAC Statement on Schmidt (Oct 27, 2025)](https://kflpac.org/kfl-pac-releases-statement-on-insurance-commissioner-vicki-schmidt-seeking-the-republican-nomination-for-governor/)
+  - Source: https://kflpac.org/kfl-pac-releases-statement-on-insurance-commissioner-vicki-schmidt-seeking-the-republican-nomination-for-governor/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-vicki-schmidt-03333] Department Jan. 15, 2026 release: Schmidt announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since 2019; she said the office does not just answer the phone, "we're going to help." ([source](https://www.insurance.kansas.gov/Home/Components/News/News/226/16))
+  - Source: https://www.insurance.kansas.gov/Home/Components/News/News/226/16
+  - Confidence/use: confirmed / use
+- **candidate-stated** [em-vicki-schmidt-03334] Department Nov. 20, 2025 release: Schmidt announced a 2026 fee schedule reducing fees by an estimated $1.1 million and said Kansans know she is a "fiscal hawk." ([source](https://www.insurance.kansas.gov/Home/Components/News/News/70/16))
+  - Source: https://www.insurance.kansas.gov/Home/Components/News/News/70/16
+  - Confidence/use: confirmed / use
+- **documented-record** [em-vicki-schmidt-00003] Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, "It's time Kansans have a governor that works as hard as they do," and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says that as insurance commissioner she has returned more than $206 million to Kansas families and lowered the cost of doing business by more than $96 million. ([source](https://vickiforgovernor.com/))
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00006] Her campaign biography uses the same governing frame. It says she found errors in the Kansas Medical Assistance Program that were costing the state millions and implemented a plan that produced more than $391 million in recouped dollars for the state. It also says she fought in the Senate for insurance coverage for children diagnosed with autism and helped bring cancer care to Kansas. ([source](https://vickiforgovernor.com/))
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00518] [Kansas Reflector: Vicki Schmidt initiates campaign for governor](https://kansasreflector.com/2025/07/09/kansas-insurance-commissioner-vicki-schmidt-initiates-republican-campaign-for-governor/)
+  - Source: https://kansasreflector.com/2025/07/09/kansas-insurance-commissioner-vicki-schmidt-initiates-republican-campaign-for-governor/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-01864] [Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/) (May 13, 2025)
+  - Source: https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-01874] [Ballotpedia: Kansas Insurance Commissioner Election 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-02753] | Prior Campaign Site | [vickischmidt.org](https://vickischmidt.org/) | Insurance Commissioner campaign site |
+  - Source: https://vickischmidt.org/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-03086] [Schmidt initiates Republican campaign for governor (July 9, 2025)](https://kansasreflector.com/2025/07/09/kansas-insurance-commissioner-vicki-schmidt-initiates-republican-campaign-for-governor/)
+  - Source: https://kansasreflector.com/2025/07/09/kansas-insurance-commissioner-vicki-schmidt-initiates-republican-campaign-for-governor/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-03087] [Schmidt blends personal experience, advocacy on breast cancer bill (Feb 3, 2026)](https://kansasreflector.com/2026/02/03/kansas-insurance-commissioner-blends-personal-experience-advocacy-on-breast-cancer-bill/)
+  - Source: https://kansasreflector.com/2026/02/03/kansas-insurance-commissioner-blends-personal-experience-advocacy-on-breast-cancer-bill/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-vicki-schmidt-00045] | s-bloomberg-boehly | secondary | https://www.bloomberg.com/news/articles/2026-01-12/boehly-s-allies-donate-heavily-to-kansas-insurance-regulator-schmidt | published 2026-01-12; accessed 2026-05-19 | secondary report on Boehly allies and late donor pattern | campaign finance |
+  - Source: https://www.bloomberg.com/news/articles/2026-01-12/boehly-s-allies-donate-heavily-to-kansas-insurance-regulator-schmidt
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-vicki-schmidt-03978] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-vicki-schmidt-00050] The Kansas Insurance Department biography identifies Schmidt as the 27th Kansas Insurance Commissioner, first elected in 2018 and reelected in 2022. It says she was born and raised in Wichita, graduated from the University of Kansas School of Pharmacy, worked as a local pharmacist for more than 40 years, served in the Kansas Senate for 14 years, and is the first pharmacist to hold statewide elected office in Kansas.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:52
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-00076] On Feb. 12, 2026, the Department said Schmidt testified before the Senate Financial Institutions and Insurance Committee in support of SB 360, described as PBM reform. The release quotes Schmidt saying PBMs should not threaten patients, local businesses, or rural communities and that lawmakers should protect Kansas patients and independent pharmacists.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:110
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-00077] The official SB 360 page says the bill would enact the Community Pharmacy Protection Act and amend law on pharmacy benefits managers. It records Senate passage 32-8 on Feb. 26, 2026, House referral to Insurance, House committee report recommending passage, and later rereferral to Health and Human Services.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:112
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-00110] Visible Schedule A entries include numerous $4,000 contributions near the end of December 2025 from Eldridge-associated entities and individuals/companies with addresses in Greenwich, New York, Miami, Topeka, and elsewhere. Visible insurance-sector or insurance-adjacent entries include Blue Cross Blue Shield of Kansas, Security Benefit Life Insurance PAC, Everly Life Insurance Co., First Security Benefit Life, NAIFA Kansas PAC, and individual insurance brokers/agents. Bloomberg reported on Jan. 12, 2026 that billionaire Todd Boehly's allies donated heavily to Schmidt and described Schmidt as regulating Security Benefit, a Kansas insurer tied to Boehly. That article is secondary context; the verified dollar amounts and names should come from the KPDC filing.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:182
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-vicki-schmidt-00009] The office footprint is broader than the campaign footprint. Kansas.gov lists official Insurance Commissioner Facebook and X accounts, while the Department website footer links Instagram, Facebook, X, and LinkedIn. The office Facebook page showed 1,960 likes and 33 talking about this; the office Instagram profile [@kansasdoi](https://www.instagram.com/kansasdoi/) showed 21 followers, 62 following, and 67 posts; and the office LinkedIn page showed 623 followers. ([Kansas.gov source](https://portal.kansas.gov/social-media/), [Department source](https://www.insurance.kansas.gov/Home/Components/News/News/226/16), [Instagram source](https://www.instagram.com/kansasdoi/), [LinkedIn source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.instagram.com/kansasdoi/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-00010] The Department LinkedIn page gives the clearest view of ongoing social-content priorities. Visible posts centered hiring, real-life scam education, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claim assistance, and National Consumer Protection Week. A visible PBM reform post quoted Schmidt saying, "This week, the Kansas Legislature chose to put patients over politics and profits," and argued PBMs should not threaten patients, local businesses, or rural communities. The highest visible post-level engagement in the accessible LinkedIn module was 45 likes and 1 comment on a post about Schmidt joining regulators at the 2026 NAIC Spring National Meeting. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-02756] | LinkedIn | [vicki-schmidt-50b11810](https://www.linkedin.com/in/vicki-schmidt-50b11810/) | Listed as "Insurance Commissioner - State of Kansas" |
+  - Source: https://www.linkedin.com/in/vicki-schmidt-50b11810/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03301] | Office LinkedIn | https://www.linkedin.com/company/kansas-department-of-insurance | FOUND | Public page and recent updates accessible logged out: 623 followers; visible post-level likes on some updates. |
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03312] The campaign website frames Schmidt as a lifelong Kansan, Republican, pharmacist, former state senator, breast-cancer survivor, and sitting insurance commissioner. Its lead line says, "It's time Kansans have a governor that works as hard as they do." It emphasizes finding Medicaid drug-rebate errors that led to more than $391 million recouped for the state, autism coverage, cancer-care access, more than $206 million returned to Kansas families as insurance commissioner, and more than $96 million in lowered cost of doing business. ([source](https://vickiforgovernor.com/))
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03317] The office Facebook page metadata captured publicly on 2026-05-11 listed 1,960 likes, 33 talking about this, and 115 check-ins for "Kansas Insurance Department, Topeka." ([source](https://www.facebook.com/KSinsurancedept/))
+  - Source: https://www.facebook.com/KSinsurancedept/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03319] The office LinkedIn page was the richest accessible social feed. It listed 623 followers and a government-administration profile for the Kansas Department of Insurance. Visible updates emphasized hiring, fraud and scam prevention, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claims, and consumer-protection resources. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03321] Campaign homepage and about text, captured 2026-05-11. Key signals: hardworking governor frame; pharmacist identity; Medicaid rebate recoveries; autism coverage; cancer-care access; insurance recoveries; fee/cost reductions; breast-cancer survivor narrative. ([source](https://vickiforgovernor.com/))
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-vicki-schmidt-00402] No faith or church references in any professional profiles, medical directories, or candidate information
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:564
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-vicki-schmidt-00512] Kansas Insurance Commissioner since 2018, former state senator (14 years)
+  - Source: reports/faith-church-investigation-2026-03-31.md:714
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-vicki-schmidt-00546] International Medical Corps is a SECULAR humanitarian organization (not faith-based like Samaritan's Purse or Catholic Relief Services)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:878
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-vicki-schmidt-03040] As Insurance Commissioner, Schmidt has called for PBM reform -- an issue directly tied to her pharmacy background. PBMs are intermediaries that manage prescription drug benefits and have been criticized for opaque pricing practices.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:5029
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00028] https://insurance.kansas.gov/about-us/
+  - Source: https://insurance.kansas.gov/about-us/
+  - Confidence/use: confirmed / use
+- **background-context** [em-vicki-schmidt-00034] | s-kdoi-about | primary | https://insurance.kansas.gov/about-us/ | accessed 2026-05-19 | official biography, current office, public-service record, pharmacist identity | biography, office |
+  - Source: https://insurance.kansas.gov/about-us/
+  - Confidence/use: confirmed / use
+- **background-context** [em-vicki-schmidt-00038] | s-kdoi-2025-recoveries | primary | https://www.insurance.kansas.gov/Home/Components/News/News/226/16 | published 2026-01-15; accessed 2026-05-19 | $56.7M recovered in 2025; $202.7M since 2019; consumer-help quote | insurance consumer protection |
+  - Source: https://www.insurance.kansas.gov/Home/Components/News/News/226/16
+  - Confidence/use: confirmed / use
+- **background-context** [em-vicki-schmidt-00039] | s-kdoi-fee-2026 | primary | https://www.insurance.kansas.gov/Home/Components/News/News/70/16 | published 2025-11-20; accessed 2026-05-19 | 2026 fee schedule; $1.1M estimated fee reduction; fiscal-hawk quote | fees, government efficiency |
+  - Source: https://www.insurance.kansas.gov/Home/Components/News/News/70/16
+  - Confidence/use: confirmed / use
+- **background-context** [em-vicki-schmidt-00041] | s-kdoi-pbm | primary | https://www.insurance.kansas.gov/Home/Components/News/News/233/16?widgetId=41 | published 2026-02-12; accessed 2026-05-19 | Schmidt testimony supporting SB 360 PBM reform | prescription drug costs |
+  - Source: https://www.insurance.kansas.gov/Home/Components/News/News/233/16?widgetId=41
+  - Confidence/use: confirmed / use
+- **background-context** [em-vicki-schmidt-00043] | s-kvoe-interview | secondary | https://kvoe.com/2026/04/23/kansas-insurance-commissioner-vicki-schmidt-details-run-for-governor-during-kvoe-news-interview/ | published 2026-04-23; accessed 2026-05-19 | property tax, Medicaid expansion, business recruitment interview context | taxes, health care |
+  - Source: https://kvoe.com/2026/04/23/kansas-insurance-commissioner-vicki-schmidt-details-run-for-governor-during-kvoe-news-interview/
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous Facebook online-reference** [soc-vicki-schmidt-0001] | Official Kansas.gov social directory | https://portal.kansas.gov/social-media/ | FOUND | Lists Insurance Commissioner Vicki Schmidt with official Facebook and Twitter/X links. |
+  - Source: https://portal.kansas.gov/social-media/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-vicki-schmidt-0002] Kansas.gov's social-media directory lists Insurance Commissioner Vicki Schmidt with official Facebook and Twitter/X links. The Department's website footer also links official Instagram, Facebook, X, and LinkedIn accounts. ([Kansas.gov source](https://portal.kansas.gov/social-media/), [Department source](https://www.insurance.kansas.gov/Home/Components/News/News/226/16))
+  - Source: https://portal.kansas.gov/social-media/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-vicki-schmidt-0003] Kansas.gov social directory, captured 2026-05-11: official Insurance Commissioner Facebook and X links. ([source](https://portal.kansas.gov/social-media/))
+  - Source: https://portal.kansas.gov/social-media/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-vicki-schmidt-0004] "ownWordsNarrative": "candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; native post inventory was login/script-limited.; platform: X/Twitter; status: identified, post-level content limited; url: https://x.com/VickiSchmidtKS; notes: Campaign site links account; direct timeline was not reliably captured logged out.; officialOffice: platform: Kansas.gov social directory / Department website; status: official office channels identified; url: https://portal.kansas.gov/social-media/; notes: Office Facebook, X, Instagram, and LinkedIn identified through offi…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kansasreflector.com online-reference** [soc-vicki-schmidt-0005] Cancer and mammography are recurring personal and policy-adjacent themes. Kansas Reflector reported Schmidt's June 2023 social-media statement announcing her breast-cancer diagnosis. She asked Kansans to schedule yearly mammograms or encourage women in their lives to do so, saying she was proof the procedure can save lives. She also said cancer patients' stories, determination, and strength were the foundation on which she faced the fight, and added, "I'm not a very good patient." ([source](https://kansasreflector.com/briefs/kansas-insurance-commissioner-has-breast-cancer-expects-full-recovery/))
+  - Source: https://kansasreflector.com/briefs/kansas-insurance-commissioner-has-breast-cancer-expects-full-recovery/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-vicki-schmidt-0007] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-vicki-schmidt-0008] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate LinkedIn comment** [soc-vicki-schmidt-0014] The Department LinkedIn page gives the clearest view of ongoing social-content priorities. Visible posts centered hiring, real-life scam education, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claim assistance, and National Consumer Protection Week. A visible PBM reform post quoted Schmidt saying, "This week, the Kansas Legislature chose to put patients over politics and profits," and argued PBMs should not threaten patients, local businesses, or rural communities. The highest visible post-level engagement in the accessible LinkedIn module was 45 likes and 1 comment on a post about Schmidt joining regulators at the 2026 NAIC Spring National Meeting. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong LinkedIn post** [soc-vicki-schmidt-0015] The office LinkedIn page was the richest accessible social feed. It listed 623 followers and a government-administration profile for the Kansas Department of Insurance. Visible updates emphasized hiring, fraud and scam prevention, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claims, and consumer-protection resources. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-vicki-schmidt-0016] | Insurance consumer assistance, recoveries, claims help, storm damage, fraud/scam prevention, and securities education | 7 | 41% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 10. Election integrity / voting / courts
+
+Election integrity / voting / courts: 32 selected evidence items from 806 mapped rows. Public URL-backed rows: 149.
+
+### Evidence
+- **candidate-stated** [em-vicki-schmidt-01957] Right now, the Kansas Constitution says: "Every citizen of the United States who has attained the age of eighteen years and who resides in the voting area in which he or she seeks to vote shall be deemed a qualified elector."
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3169
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-02747] NOTE ON BIRTH YEAR: The user suggested born April 26, 1969 -- this is INCORRECT. Multiple authoritative sources (Wikipedia, Ballotpedia, WikiTree, prabook.com, Vote Smart) confirm Vicki Schmidt was born September 15, 1955. She is 70 years old, not 56. She married Mike in 1974 (she would have been 5 years old in 1969 if born that year -- impossible). The 1955 date is confirmed by her 1978 KU pharmacy graduation, her "over 40 years as a pharmacist" claim, and her "married over 50 years" statement.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:4475
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-03276] No official roll-call citation was captured for the 2012 Brownback-era tax vote Schmidt says she regrets.
+  - Source: memory/candidates/vicki-schmidt/sleuth-pass.md:64
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-04173] "action-tax-vote-regret-statement"
+  - Source: ui/src/data/v2/vicki-schmidt.ts:287
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-00003] Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, "It's time Kansans have a governor that works as hard as they do," and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says that as insurance commissioner she has returned more than $206 million to Kansas families and lowered the cost of doing business by more than $96 million. ([source](https://vickiforgovernor.com/))
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00006] Her campaign biography uses the same governing frame. It says she found errors in the Kansas Medical Assistance Program that were costing the state millions and implemented a plan that produced more than $391 million in recouped dollars for the state. It also says she fought in the Senate for insurance coverage for children diagnosed with autism and helped bring cancer care to Kansas. ([source](https://vickiforgovernor.com/))
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00007] Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, "It is a vote I regret." On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in "abortion on demand," and said she does believe in reasonable exceptions. On leadership, she said it is important for a governor to tell the truth, and that sometimes leaders have to deliver hard news. ([source](https://kansasreflector.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/))
+  - Source: https://kansasreflector.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00029] | s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | 2026 offices, filing deadline, filed-candidate rule | election status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-vicki-schmidt-00035] | s-campaign-home | primary | https://vickiforgovernor.com/ | accessed 2026-05-19 | campaign identity, issue framing, Newland link, social links | stated platform |
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00036] | s-campaign-newland | primary | https://vickiforgovernor.com/2026/05/18/vicki-schmidt-selects-kansas-farm-bureau-president-joe-newland-as-her-lieutenant-governor/ | published 2026-05-18; accessed 2026-05-19 | Joe Newland running-mate selection, June 1 filing statement, rural/agriculture framing | rural/agriculture, status |
+  - Source: https://vickiforgovernor.com/2026/05/18/vicki-schmidt-selects-kansas-farm-bureau-president-joe-newland-as-her-lieutenant-governor/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00037] | s-campaign-meet-joe | primary | https://vickiforgovernor.com/meet-joe/ | accessed 2026-05-19 | running-mate biography, Kansas Farm Bureau, farming/ranching, water and energy language | rural/agriculture |
+  - Source: https://vickiforgovernor.com/meet-joe/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00040] | s-hb2050 | primary | https://www.kslegislature.gov/li/b2025_26/measures/hb2050/ | accessed 2026-05-19 | Department fee modernization bill; requested by KDOI; approved by governor Apr. 23, 2025 | fees, agency administration |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/hb2050/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-vicki-schmidt-01869] [FEC: 2026 Kansas Senate Election](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-vicki-schmidt-03978] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-vicki-schmidt-00110] Visible Schedule A entries include numerous $4,000 contributions near the end of December 2025 from Eldridge-associated entities and individuals/companies with addresses in Greenwich, New York, Miami, Topeka, and elsewhere. Visible insurance-sector or insurance-adjacent entries include Blue Cross Blue Shield of Kansas, Security Benefit Life Insurance PAC, Everly Life Insurance Co., First Security Benefit Life, NAIFA Kansas PAC, and individual insurance brokers/agents. Bloomberg reported on Jan. 12, 2026 that billionaire Todd Boehly's allies donated heavily to Schmidt and described Schmidt as regulating Security Benefit, a Kansas insurer tied to Boehly. That article is secondary context; the verified dollar amounts and names should come from the KPDC filing.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:182
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-02353] Election Integrity: Championed the Secure and Fair Elections (SAFE) Act requiring voter ID (signed into law 2011). This was his signature legislative achievement as Elections Committee Chairman.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3843
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-02365] Guns: Pro-Second Amendment, specific NRA rating not publicly available in search results
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3862
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-02383] The detailed itemized donor list is available through the Kansas Ethics Commission 2026 election cycle filings:
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3891
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-vicki-schmidt-03323] Campaign-site July 21, 2025 repost of Kansas Reflector article on taxes and abortion. The page includes Schmidt's quote on the 2012 Brownback tax vote: "It is a vote I regret." ([source](https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/))
+  - Source: https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03289] Election slug: kansas-governor-2026
+  - Source: memory/candidates/vicki-schmidt/social-harvest.md:6
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-vicki-schmidt-00350] Spoke at TMP about the importance of voting (invited as elected official to Catholic school)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:439
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-vicki-schmidt-00530] Pushed the judicial selection amendment -- faith motivation was part of the framing
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:850
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-vicki-schmidt-02220] X/Twitter (@ScottSchwabKS): Mix of official duties, campaign messaging, and personal reflections. Posts about election security, office achievements, policy positions. References faith directly. Example post included a quote about faith in the context of his work.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3647
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-vicki-schmidt-02765] The announcement video is notable for its tone -- lighthearted and self-aware. It opens with people in various settings (grocery store, church, pickleball court, hairdresser, her husband at home) asking "Are you running for governor?" Schmidt responds with knowing smiles before finally declaring "Yes, I'm running."
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:4507
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-vicki-schmidt-01775] Advocates accused him of "desperately maneuvering to sabotage" the vote
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2851
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-vicki-schmidt-02704] Accused by ACLU and voting rights groups of voter suppression
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:4409
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00783] [Vote No Kansas 2026](https://www.votenokansas.org/)
+  - Source: https://www.votenokansas.org/
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-01824] Full voting record available at [kslegislature.gov](https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/)
+  - Source: https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/
+  - Confidence/use: confirmed / use
+- **background-context** [em-vicki-schmidt-02092] Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/
+  - Source: https://myvoteinfo.voteks.org/
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-02110] [NPR: Judge tosses Kansas proof-of-citizenship voter law](https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba)
+  - Source: https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-02114] [PBS: Kansas hopes to resurrect proof-of-citizenship law](https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law)
+  - Source: https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-02674] [NPR: Judge dismisses murder charges](https://www.npr.org/2019/02/25/697647804/judge-dismisses-murder-charges-over-boys-death-on-kansas-waterslide)
+  - Source: https://www.npr.org/2019/02/25/697647804/judge-dismisses-murder-charges-over-boys-death-on-kansas-waterslide
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-vicki-schmidt-0004] "ownWordsNarrative": "candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; native post inventory was login/script-limited.; platform: X/Twitter; status: identified, post-level content limited; url: https://x.com/VickiSchmidtKS; notes: Campaign site links account; direct timeline was not reliably captured logged out.; officialOffice: platform: Kansas.gov social directory / Department website; status: official office channels identified; url: https://portal.kansas.gov/social-media/; notes: Office Facebook, X, Instagram, and LinkedIn identified through offi…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous vickiforgovernor.com online-reference** [soc-vicki-schmidt-0006] | s-campaign-home | primary | https://vickiforgovernor.com/ | accessed 2026-05-19 | campaign identity, issue framing, Newland link, social links | stated platform |
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-vicki-schmidt-0007] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-vicki-schmidt-0008] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate vickiforgovernor.com share/repost** [soc-vicki-schmidt-0009] Campaign-site July 21, 2025 repost of Kansas Reflector article on taxes and abortion. The page includes Schmidt's quote on the 2012 Brownback tax vote: "It is a vote I regret." ([source](https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/))
+  - Source: https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-vicki-schmidt-0028] Election slug: kansas-governor-2026
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0118] The local social harvest did not find abortion as a dominant visible campaign theme. It counted abortion and tax-record accountability together as 2 of 17 accessible campaign/profile/public-record/news items in the reviewed set.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0120] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest share/repost** [soc-vicki-schmidt-0121] Abortion and life issues: The campaign reposted a July 21, 2025 Kansas Reflector interview/article in which Schmidt discussed abortion and reasonable exceptions. Use as candidate-controlled amplification of secondary reporting unless the original interview is cited directly. No current campaign platform page making abortion central was found.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0122] "Campaign-controlled sources anchor stated biography, executive-record framing, Joe Newland running-mate selection, and campaign-amplified tax/abortion interview material."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 11. Public safety / law enforcement / criminal justice
+
+Public safety / law enforcement / criminal justice: 17 selected evidence items from 154 mapped rows. Public URL-backed rows: 31.
+
+### Evidence
+- **candidate-stated** [em-vicki-schmidt-01520] The January 2026 killing of Alex Pretti by federal agents in Minneapolis was the catalyst. As a career federal law enforcement official, Hart said this event -- and the broader direction of the federal government -- compelled him to leave his career and enter politics for the first time.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2383
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-00007] Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, "It is a vote I regret." On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in "abortion on demand," and said she does believe in reasonable exceptions. On leadership, she said it is important for a governor to tell the truth, and that sometimes leaders have to deliver hard news. ([source](https://kansasreflector.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/))
+  - Source: https://kansasreflector.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00151] Kansas Ethics filing: [SW01VS_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01VS_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01VS_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-vicki-schmidt-00174] https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01VS_202601.pdf
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01VS_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-vicki-schmidt-00188] Kansas Ethics filing index: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+  - Confidence/use: confirmed / use
+- **documented-record** [em-vicki-schmidt-00189] 2026 filing PDF: [SW01VS_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01VS_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01VS_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-vicki-schmidt-00376] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00782] [Ballotpedia: Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))
+  - Source: https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-01479] [Kansas Ethics Commission - 2026 Election Cycle Filing](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-vicki-schmidt-03978] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-vicki-schmidt-00262] Assessment: The "core values" language is suggestive but not conclusive. His background is law enforcement and military -- both communities where faith can be deeply held but not publicly displayed. No specific church identified. Recommend direct inquiry.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:244
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00258] Retired Hays Police officer (19 years HPD + military police = 22 years total)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:239
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00282] FHSU graduate, 24 years law enforcement
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:295
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00826] Ellis County Sheriff primary (if on cycle -- VERIFY)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1338
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00839] Ellis County Sheriff (if on cycle -- VERIFY)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1352
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-01509] Career: 21+ years in public service as a prosecutor
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2371
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-01527] Frames himself as a nonpartisan law enforcement veteran who served under both Democratic and Republican administrations
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2394
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-vicki-schmidt-0007] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-vicki-schmidt-0008] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0120] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest share/repost** [soc-vicki-schmidt-0123] "text": "Abortion was not a dominant visible topic in the accessible campaign and social set. The clearest current-cycle source is the campaign repost of a July 2025 Kansas Reflector interview/article, which reports Schmidt saying the U.S. Supreme Court was right to return abortion to the states, that she does not believe in abortion on demand, and that she believes in reasonable exceptions.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0140] Weaknesses: Lost her only previous campaign (2020 KS-1 primary). The USDA role ties her directly to Biden, which is a liability in Kansas. Immigration platform (pathway to citizenship) may be too progressive for Kansas general election voters. The NRSC disclosure complaint, while procedural, gives opponents ammunition.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 12. Agriculture / rural economy / water
+
+Agriculture / rural economy / water: 28 selected evidence items from 76 mapped rows. Public URL-backed rows: 10.
+
+### Evidence
+- **candidate-stated** [em-vicki-schmidt-00097] The Meet Joe page says Newland operates Newland Farms with his family, has spent 35 years farming and ranching, has served as president of the Kansas Farm Bureau since 2022, and has worked on water, energy, and rural affordability topics. It quotes Newland saying rural Kansas faces pressure from property taxes, energy costs, and shrinking access to services.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:158
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-01567] Tariffs: Opposes Trump tariffs, says they cause instability for farmers and rural communities
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2454
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-00036] | s-campaign-newland | primary | https://vickiforgovernor.com/2026/05/18/vicki-schmidt-selects-kansas-farm-bureau-president-joe-newland-as-her-lieutenant-governor/ | published 2026-05-18; accessed 2026-05-19 | Joe Newland running-mate selection, June 1 filing statement, rural/agriculture framing | rural/agriculture, status |
+  - Source: https://vickiforgovernor.com/2026/05/18/vicki-schmidt-selects-kansas-farm-bureau-president-joe-newland-as-her-lieutenant-governor/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00037] | s-campaign-meet-joe | primary | https://vickiforgovernor.com/meet-joe/ | accessed 2026-05-19 | running-mate biography, Kansas Farm Bureau, farming/ranching, water and energy language | rural/agriculture |
+  - Source: https://vickiforgovernor.com/meet-joe/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-03890] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **documented-record** [em-vicki-schmidt-00057] On May 18, 2026, the campaign announced Kansas Farm Bureau President Joe Newland as lieutenant-governor selection. The release says the Schmidt/Newland ticket will officially file together on June 1.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:66
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-00096] Schmidt's May 18, 2026 running-mate announcement selected Joe Newland, identified by the campaign as Kansas Farm Bureau president, a lifelong farmer/rancher, and former state representative from Wilson County. The release presents the ticket as pairing Schmidt's executive experience with Newland's rural and agriculture experience.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:156
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-00796] The City of Hays manages its own water utility through the city commission
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1283
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-00799] Confidence: MEDIUM -- Library board confirmed as appointed. Hospital/water district status based on available information; recommend confirming with the Ellis County Clerk.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1288
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-01543] Fifth-generation Kansan and former Biden USDA Rural Development director who has been running the longest, filed the earliest, and has the deepest rural Kansas credentials in the field. The first Democrat to declare for this race (August 2025).
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2419
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-03978] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-vicki-schmidt-00076] On Feb. 12, 2026, the Department said Schmidt testified before the Senate Financial Institutions and Insurance Committee in support of SB 360, described as PBM reform. The release quotes Schmidt saying PBMs should not threaten patients, local businesses, or rural communities and that lawmakers should protect Kansas patients and independent pharmacists.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:110
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-00429] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:653
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-02022] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3313
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-02060] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3398
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-02496] Specific formal endorsements (NRA rating, Kansas Right to Life, Kansas Farm Bureau, etc.) were not comprehensively documented in publicly available reporting at time of investigation. The Kansas Ethics Commission filings may contain PAC contribution details that indicate organizational support.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:4078
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-vicki-schmidt-00010] The Department LinkedIn page gives the clearest view of ongoing social-content priorities. Visible posts centered hiring, real-life scam education, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claim assistance, and National Consumer Protection Week. A visible PBM reform post quoted Schmidt saying, "This week, the Kansas Legislature chose to put patients over politics and profits," and argued PBMs should not threaten patients, local businesses, or rural communities. The highest visible post-level engagement in the accessible LinkedIn module was 45 likes and 1 comment on a post about Schmidt joining regulators at the 2026 NAIC Spring National Meeting. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03319] The office LinkedIn page was the richest accessible social feed. It listed 623 followers and a government-administration profile for the Kansas Department of Insurance. Visible updates emphasized hiring, fraud and scam prevention, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claims, and consumer-protection resources. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03354] Across the accessible public set reviewed, no reviewed item centered guns, immigration/border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing affordability, road and bridge funding, broadband, water policy, or Ogallala aquifer policy. Those absences are limited to the accessible material reviewed and should not be read as proof that Schmidt has no position.
+  - Source: memory/candidates/vicki-schmidt/social-harvest.md:97
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-vicki-schmidt-02440] Caleb had attended church with his family hours before his death that Sunday morning. The family went from church to the waterpark for what was supposed to be a fun family outing. Source: [Christian Post article](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)
+  - Source: https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html
+  - Confidence/use: likely / use
+- **faith-community-record** [em-vicki-schmidt-02675] [Christian Post: Caleb attended church hours before death](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)
+  - Source: https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html
+  - Confidence/use: likely / use
+- **faith-community-record** [em-vicki-schmidt-00620] This is not surprising -- Ellis County was settled by German-Catholic Volga Germans in the 1870s, and Catholicism remains the dominant faith tradition. The three Catholic parishes in Hays (St. Joseph, Immaculate Heart of Mary, St. Nicholas of Myra) plus the surrounding rural parishes form the backbone of the local power structure.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:992
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-02668] [ABC News: Family of boy killed on water slide speaks out](https://abcnews.go.com/US/family-boy-killed-waterslide-speaks-hurting/story?id=45445546)
+  - Source: https://abcnews.go.com/US/family-boy-killed-waterslide-speaks-hurting/story?id=45445546
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-02676] [TIME: What we know about the water slide death](https://time.com/4444447/caleb-schwab-verruckt-water-slide-death/)
+  - Source: https://time.com/4444447/caleb-schwab-verruckt-water-slide-death/
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-00014] Several issue areas were not visible in the accessible material reviewed. The public set did not include reviewed items centered on guns, immigration or border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing, road and bridge funding, broadband, water policy, or the Ogallala aquifer. The available record is therefore strongest on insurance regulation, consumer assistance, health biography, cost reduction, and record-of-service campaigning, and weaker on those absent policy areas.
+  - Source: memory/candidates/vicki-schmidt/in-their-own-words.md:27
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00094] Issue Area 6 - Rural Kansas, Agriculture, Water, and Running-Mate Signal
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:152
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00109] Schedule B lists two in-kind entries: BEKC, LLC dba The Mint for facility rental valued at $1,100.00, and Mary Birch for facility rental, food, and drinks valued at $3,127.95.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:180
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00246] His identified priorities: water, population growth, economic development
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:197
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-vicki-schmidt-0007] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-vicki-schmidt-0008] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-vicki-schmidt-0013] Across the accessible public set reviewed, no reviewed item centered guns, immigration/border policy, LGBTQ+ policy, religious liberty, school choice, K-12 finance, higher-education affordability, child care, foster care, housing affordability, road and bridge funding, broadband, water policy, or Ogallala aquifer policy. Those absences are limited to the accessible material reviewed and should not be read as proof that Schmidt has no position.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate LinkedIn comment** [soc-vicki-schmidt-0014] The Department LinkedIn page gives the clearest view of ongoing social-content priorities. Visible posts centered hiring, real-life scam education, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claim assistance, and National Consumer Protection Week. A visible PBM reform post quoted Schmidt saying, "This week, the Kansas Legislature chose to put patients over politics and profits," and argued PBMs should not threaten patients, local businesses, or rural communities. The highest visible post-level engagement in the accessible LinkedIn module was 45 likes and 1 comment on a post about Schmidt joining regulators at the 2026 NAIC Spring National Meeting. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong LinkedIn post** [soc-vicki-schmidt-0015] The office LinkedIn page was the richest accessible social feed. It listed 623 followers and a government-administration profile for the Kansas Department of Insurance. Visible updates emphasized hiring, fraud and scam prevention, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claims, and consumer-protection resources. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 13. Local governance / transparency / ethics
+
+Local governance / transparency / ethics: 41 selected evidence items from 996 mapped rows. Public URL-backed rows: 171.
+
+### Evidence
+- **candidate-stated** [em-vicki-schmidt-00004] The dominant official-channel signal is consumer protection through the Kansas Department of Insurance. On Jan. 15, 2026, the Department announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since Schmidt took office in 2019. Schmidt said, "The work we do consistently puts more money back in the pockets of Kansans," and added that when Kansans call the department, "we're not just going to answer the phone; we're going to help." ([source](https://www.insurance.kansas.gov/Home/Components/News/News/226/16))
+  - Source: https://www.insurance.kansas.gov/Home/Components/News/News/226/16
+  - Confidence/use: confirmed / use
+- **candidate-stated** [em-vicki-schmidt-03333] Department Jan. 15, 2026 release: Schmidt announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since 2019; she said the office does not just answer the phone, "we're going to help." ([source](https://www.insurance.kansas.gov/Home/Components/News/News/226/16))
+  - Source: https://www.insurance.kansas.gov/Home/Components/News/News/226/16
+  - Confidence/use: confirmed / use
+- **candidate-stated** [em-vicki-schmidt-00046] | s-social-harvest-local | social | memory/candidates/vicki-schmidt/social-harvest.md | captured 2026-05-11; read 2026-05-19 | logged-out platform presence, topic share, public metadata, access limits | social/online relevance |
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:42
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-00062] The strongest official record is insurance consumer assistance. The Jan. 15, 2026 Department release says the Department recovered $56.7 million for Kansans in 2025 and more than $202.7 million since Schmidt took office in 2019. Schmidt said, "The work we do consistently puts more money back in the pockets of Kansans," and the release said recoveries came from consumer assistance, market regulation, and anti-fraud work.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:78
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-00084] In an April 23, 2026 KVOE interview, Schmidt identified property taxes as a top issue and said education funding and local government funding were contributing factors. KVOE also reported her saying business development and housing would be economic priorities, and that she supports reviewing Medicaid expansion but prefers a Kansas-driven solution.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:128
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-01520] The January 2026 killing of Alex Pretti by federal agents in Minneapolis was the catalyst. As a career federal law enforcement official, Hart said this event -- and the broader direction of the federal government -- compelled him to leave his career and enter politics for the first time.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2383
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-02476] Kansas requires a Statement of Substantial Interests (SSI) for state officials. These filings are available through the Kansas Secretary of State's office but are not comprehensively digitized for public search online.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:4048
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-vicki-schmidt-02900] | June 14, 2023 | Public announcement via official statement |
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:4752
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-00003] Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, "It's time Kansans have a governor that works as hard as they do," and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says that as insurance commissioner she has returned more than $206 million to Kansas families and lowered the cost of doing business by more than $96 million. ([source](https://vickiforgovernor.com/))
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00006] Her campaign biography uses the same governing frame. It says she found errors in the Kansas Medical Assistance Program that were costing the state millions and implemented a plan that produced more than $391 million in recouped dollars for the state. It also says she fought in the Senate for insurance coverage for children diagnosed with autism and helped bring cancer care to Kansas. ([source](https://vickiforgovernor.com/))
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00029] | s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | 2026 offices, filing deadline, filed-candidate rule | election status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-vicki-schmidt-00035] | s-campaign-home | primary | https://vickiforgovernor.com/ | accessed 2026-05-19 | campaign identity, issue framing, Newland link, social links | stated platform |
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00036] | s-campaign-newland | primary | https://vickiforgovernor.com/2026/05/18/vicki-schmidt-selects-kansas-farm-bureau-president-joe-newland-as-her-lieutenant-governor/ | published 2026-05-18; accessed 2026-05-19 | Joe Newland running-mate selection, June 1 filing statement, rural/agriculture framing | rural/agriculture, status |
+  - Source: https://vickiforgovernor.com/2026/05/18/vicki-schmidt-selects-kansas-farm-bureau-president-joe-newland-as-her-lieutenant-governor/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00037] | s-campaign-meet-joe | primary | https://vickiforgovernor.com/meet-joe/ | accessed 2026-05-19 | running-mate biography, Kansas Farm Bureau, farming/ranching, water and energy language | rural/agriculture |
+  - Source: https://vickiforgovernor.com/meet-joe/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00044] | s-campaign-reflector-tax-abortion | primary | https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/ | campaign repost published 2025-07-21; accessed 2026-05-19 | campaign-amplified interview on tax-vote regret, abortion, leadership | taxes, abortion |
+  - Source: https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-00137] Campaign website: [vickiforgovernor.com](https://vickiforgovernor.com/)
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-vicki-schmidt-00031] | s-kpdc-statewide-index | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm | accessed 2026-05-19 | Schmidt listed under gubernatorial candidates with AT link | campaign finance, status |
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-vicki-schmidt-00033] | s-kpdc-202601-gov | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01VS_202601.pdf | filed 2026-01-09; accessed 2026-05-19 | 2025 governor-campaign receipts, expenditures, cash, in-kind, candidate loans | campaign finance |
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01VS_202601.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-vicki-schmidt-00042] | s-sb360 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb360/ | accessed 2026-05-19 | SB 360 official status, Senate passage, House committee/rereferral posture | prescription drug costs |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/sb360/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-vicki-schmidt-00045] | s-bloomberg-boehly | secondary | https://www.bloomberg.com/news/articles/2026-01-12/boehly-s-allies-donate-heavily-to-kansas-insurance-regulator-schmidt | published 2026-01-12; accessed 2026-05-19 | secondary report on Boehly allies and late donor pattern | campaign finance |
+  - Source: https://www.bloomberg.com/news/articles/2026-01-12/boehly-s-allies-donate-heavily-to-kansas-insurance-regulator-schmidt
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-vicki-schmidt-01270] | Campaign/Donation Site | [colyerforgovernor.com](https://www.colyerforgovernor.com/) |
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-vicki-schmidt-01437] [Kansas Reflector - Millionaire candidates fundraising (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)
+  - Source: https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/
+  - Confidence/use: likely / use
+- **social-online-signal** [em-vicki-schmidt-00008] The accessible campaign footprint is compact. The campaign website links Facebook and X, but not Instagram, YouTube, TikTok, Bluesky, Truth Social, Gab, Gettr, Substack, or Reddit. Public Facebook metadata listed 3,403 likes and 1,496 talking about this on May 11, 2026, with profile text presenting Schmidt as a lifelong Kansan and Republican, mother and grandmother, local pharmacist, and governor candidate. ([source](https://www.facebook.com/VickiSchmidtKS)) Indexed public X metadata for [@VickiSchmidtKS](https://x.com/VickiSchmidtKS) reported roughly 2K followers and 1K following, with the same campaign identity line. ([source](https://w.twstalker.com/MaysAaron))
+  - Source: https://www.facebook.com/VickiSchmidtKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-00009] The office footprint is broader than the campaign footprint. Kansas.gov lists official Insurance Commissioner Facebook and X accounts, while the Department website footer links Instagram, Facebook, X, and LinkedIn. The office Facebook page showed 1,960 likes and 33 talking about this; the office Instagram profile [@kansasdoi](https://www.instagram.com/kansasdoi/) showed 21 followers, 62 following, and 67 posts; and the office LinkedIn page showed 623 followers. ([Kansas.gov source](https://portal.kansas.gov/social-media/), [Department source](https://www.insurance.kansas.gov/Home/Components/News/News/226/16), [Instagram source](https://www.instagram.com/kansasdoi/), [LinkedIn source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.instagram.com/kansasdoi/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-00010] The Department LinkedIn page gives the clearest view of ongoing social-content priorities. Visible posts centered hiring, real-life scam education, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claim assistance, and National Consumer Protection Week. A visible PBM reform post quoted Schmidt saying, "This week, the Kansas Legislature chose to put patients over politics and profits," and argued PBMs should not threaten patients, local businesses, or rural communities. The highest visible post-level engagement in the accessible LinkedIn module was 45 likes and 1 comment on a post about Schmidt joining regulators at the 2026 NAIC Spring National Meeting. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-02214] | X (Twitter) | [@KansasSOS](https://x.com/KansasSOS) | Official Office | Office of Kansas Secretary of State |
+  - Source: https://x.com/KansasSOS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-02216] | Instagram | [@kansassos](https://www.instagram.com/kansassos/) | Official Office | Kansas Secretary of State office account |
+  - Source: https://www.instagram.com/kansassos/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-02754] | Facebook | [@VickiSchmidtKS](https://www.facebook.com/VickiSchmidtKS/) | Bio: "Lifelong Kansan & Republican, Mother & Grandmother, Local Pharmacist, Running for Governor" |
+  - Source: https://www.facebook.com/VickiSchmidtKS/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03296] | Campaign X | https://x.com/VickiSchmidtKS | FOUND | Campaign site links the account. Indexed public profile metadata reported roughly 2K followers and 1K following, with bio: "Lifelong Kansan & Republican, Mother & Grandmother, Local Pharmacist, Running for Governor." Direct feed inventory was not accessible logged out. |
+  - Source: https://x.com/VickiSchmidtKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03298] | Office Facebook | https://www.facebook.com/KSinsurancedept/ | FOUND | Public metadata accessible: 1,960 likes, 33 talking about this, and 115 check-ins on capture. |
+  - Source: https://www.facebook.com/KSinsurancedept/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-vicki-schmidt-00353] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **faith-community-record** [em-vicki-schmidt-00209] CONFIRMED = Named church/denomination found in official profile, news article, or candidate bio
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:124
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-vicki-schmidt-00238] Assessment: The complete absence of faith references in any public profile is notable. This does not mean she is not a churchgoer -- many local officials simply do not publicize their church life. However, in a community as church-centric as Hays, the silence is itself a data point. Recommend direct inquiry.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:175
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-vicki-schmidt-00350] Spoke at TMP about the importance of voting (invited as elected official to Catholic school)
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:439
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-vicki-schmidt-01629] Kansas City commercial real estate developer behind a nearly $1 billion redevelopment project in Wyandotte County. First-time candidate who grew up in KCK, left for USC and a decade in Oakland/San Francisco, then returned in 2023. Has a significant controversy flagged by the Washington Free Beacon.
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:2583
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00034] | s-kdoi-about | primary | https://insurance.kansas.gov/about-us/ | accessed 2026-05-19 | official biography, current office, public-service record, pharmacist identity | biography, office |
+  - Source: https://insurance.kansas.gov/about-us/
+  - Confidence/use: confirmed / use
+- **background-context** [em-vicki-schmidt-00178] Public office bio: [Kansas Insurance Department](https://insurance.kansas.gov/about-us/)
+  - Source: https://insurance.kansas.gov/about-us/
+  - Confidence/use: confirmed / use
+- **background-context** [em-vicki-schmidt-00272] [City Manager's Office - Hays](https://www.haysusa.com/149/City-Managers-Office)
+  - Source: https://www.haysusa.com/149/City-Managers-Office
+  - Confidence/use: confirmed / use
+- **background-context** [em-vicki-schmidt-00284] [Kansas Sheriffs' Association - Ellis County](https://www.kansassheriffs.org/county_map/county/914)
+  - Source: https://www.kansassheriffs.org/county_map/county/914
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-00299] [HaysPost: New Ellis County Attorney](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1)
+  - Source: https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1
+  - Confidence/use: likely / use
+- **background-context** [em-vicki-schmidt-00342] [FHSU: Germans from Russia in Ellis County](https://fhsuguides.fhsu.edu/kansasheritage/elliscounty)
+  - Source: https://fhsuguides.fhsu.edu/kansasheritage/elliscounty
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous Facebook online-reference** [soc-vicki-schmidt-0001] | Official Kansas.gov social directory | https://portal.kansas.gov/social-media/ | FOUND | Lists Insurance Commissioner Vicki Schmidt with official Facebook and Twitter/X links. |
+  - Source: https://portal.kansas.gov/social-media/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-vicki-schmidt-0002] Kansas.gov's social-media directory lists Insurance Commissioner Vicki Schmidt with official Facebook and Twitter/X links. The Department's website footer also links official Instagram, Facebook, X, and LinkedIn accounts. ([Kansas.gov source](https://portal.kansas.gov/social-media/), [Department source](https://www.insurance.kansas.gov/Home/Components/News/News/226/16))
+  - Source: https://portal.kansas.gov/social-media/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-vicki-schmidt-0003] Kansas.gov social directory, captured 2026-05-11: official Insurance Commissioner Facebook and X links. ([source](https://portal.kansas.gov/social-media/))
+  - Source: https://portal.kansas.gov/social-media/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-vicki-schmidt-0004] "ownWordsNarrative": "candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; native post inventory was login/script-limited.; platform: X/Twitter; status: identified, post-level content limited; url: https://x.com/VickiSchmidtKS; notes: Campaign site links account; direct timeline was not reliably captured logged out.; officialOffice: platform: Kansas.gov social directory / Department website; status: official office channels identified; url: https://portal.kansas.gov/social-media/; notes: Office Facebook, X, Instagram, and LinkedIn identified through offi…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous vickiforgovernor.com online-reference** [soc-vicki-schmidt-0006] | s-campaign-home | primary | https://vickiforgovernor.com/ | accessed 2026-05-19 | campaign identity, issue framing, Newland link, social links | stated platform |
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-vicki-schmidt-0007] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-vicki-schmidt-0008] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-vicki-schmidt-0011] | Abortion and tax-record accountability | 2 | 12% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-vicki-schmidt-0012] The campaign site amplifies three Kansas Reflector pieces in its News section: a July 21 interview item, a July 21 article on her record/taxes/abortion, and a July 25 early race analysis. The office LinkedIn page amplifies NASAA content, NAIC participation, K-State financial-education work, Department news releases, and consumer-protection resources. Logged-out X and Facebook capture did not expose a reliable repost/share inventory, so no campaign repost totals are reported.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate LinkedIn comment** [soc-vicki-schmidt-0014] The Department LinkedIn page gives the clearest view of ongoing social-content priorities. Visible posts centered hiring, real-life scam education, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claim assistance, and National Consumer Protection Week. A visible PBM reform post quoted Schmidt saying, "This week, the Kansas Legislature chose to put patients over politics and profits," and argued PBMs should not threaten patients, local businesses, or rural communities. The highest visible post-level engagement in the accessible LinkedIn module was 45 likes and 1 comment on a post about Schmidt joining regulators at the 2026 NAIC Spring National Meeting. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 14. Environment / energy / land use
+
+Environment / energy / land use: 17 selected evidence items from 19 mapped rows. Public URL-backed rows: 6.
+
+### Evidence
+- **candidate-stated** [em-vicki-schmidt-00097] The Meet Joe page says Newland operates Newland Farms with his family, has spent 35 years farming and ranching, has served as president of the Kansas Farm Bureau since 2022, and has worked on water, energy, and rural affordability topics. It quotes Newland saying rural Kansas faces pressure from property taxes, energy costs, and shrinking access to services.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:158
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-00037] | s-campaign-meet-joe | primary | https://vickiforgovernor.com/meet-joe/ | accessed 2026-05-19 | running-mate biography, Kansas Farm Bureau, farming/ranching, water and energy language | rural/agriculture |
+  - Source: https://vickiforgovernor.com/meet-joe/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-04181] "ownWordsNarrative": "candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; native post inventory was login/script-limited.; platform: X/Twitter; status: identified, post-level content limited; url: https://x.com/VickiSchmidtKS; notes: Campaign site links account; direct timeline was not reliably captured logged out.; officialOffice: platform: Kansas.gov social directory / Department website; status: official office channels identified; url: https://portal.kansas.gov/social-media/; notes: Office Facebook, X, Instagram, and LinkedIn identified through offi…
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-vicki-schmidt-03890] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **documented-record** [em-vicki-schmidt-00796] The City of Hays manages its own water utility through the city commission
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1283
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-03559] "text": "Schmidt's clearest current rural/agriculture signal is her May 18, 2026 selection of Joe Newland as lieutenant-governor running mate. Campaign materials identify Newland as Kansas Farm Bureau president, a lifelong farmer and rancher, and a former state representative from Wilson County. The Meet Joe page references water, energy, property taxes, and shrinking rural services.",
+  - Source: ui/src/data/v2/vicki-schmidt.ts:351
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-vicki-schmidt-03571] "summary": "Running-mate selection is evidence of campaign positioning and team composition, not a detailed Schmidt policy plan on water, agriculture, or energy.",
+  - Source: ui/src/data/v2/vicki-schmidt.ts:377
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-vicki-schmidt-03978] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-vicki-schmidt-00010] The Department LinkedIn page gives the clearest view of ongoing social-content priorities. Visible posts centered hiring, real-life scam education, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claim assistance, and National Consumer Protection Week. A visible PBM reform post quoted Schmidt saying, "This week, the Kansas Legislature chose to put patients over politics and profits," and argued PBMs should not threaten patients, local businesses, or rural communities. The highest visible post-level engagement in the accessible LinkedIn module was 45 likes and 1 comment on a post about Schmidt joining regulators at the 2026 NAIC Spring National Meeting. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03319] The office LinkedIn page was the richest accessible social feed. It listed 623 followers and a government-administration profile for the Kansas Department of Insurance. Visible updates emphasized hiring, fraud and scam prevention, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claims, and consumer-protection resources. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-vicki-schmidt-03341] | Insurance consumer assistance, recoveries, claims help, storm damage, fraud/scam prevention, and securities education | 7 | 41% |
+  - Source: memory/candidates/vicki-schmidt/social-harvest.md:76
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-vicki-schmidt-00064] The local social harvest found that insurance consumer assistance, recoveries, claims help, storm-damage guidance, fraud/scam prevention, and securities education were the dominant accessible official-channel topics.
+  - Source: memory/candidates/vicki-schmidt/raw-dump-v2.md:82
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-00794] Water District / Utility Boards
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:1281
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-02402] "Caleb was an incredible young man. He's going to be missed for his energy, for his life, for his smile, for the way he lit up a room."
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:3925
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-02957] Upside: She avoids being attacked on her abortion record in a hostile environment, maintains her "above the fray" positioning, and scores points with voters skeptical of party establishment
+  - Source: memory/candidates/vicki-schmidt/raw-dump.md:4856
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-03256] Official department channels: Kansas.gov and the Department site identify official Insurance Department Facebook, X, Instagram, and LinkedIn presences. The office LinkedIn page was the richest accessible feed in local harvest, with visible posts on hiring, scams, PBM reform, NAIC participation, storm claims, and consumer protection.
+  - Source: memory/candidates/vicki-schmidt/sleuth-pass.md:38
+  - Confidence/use: unknown / background-only
+- **background-context** [em-vicki-schmidt-03420] "Page references water, energy, property taxes, and rural services"
+  - Source: memory/candidates/vicki-schmidt/v2-issues.yaml:108
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-vicki-schmidt-0004] "ownWordsNarrative": "candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; native post inventory was login/script-limited.; platform: X/Twitter; status: identified, post-level content limited; url: https://x.com/VickiSchmidtKS; notes: Campaign site links account; direct timeline was not reliably captured logged out.; officialOffice: platform: Kansas.gov social directory / Department website; status: official office channels identified; url: https://portal.kansas.gov/social-media/; notes: Office Facebook, X, Instagram, and LinkedIn identified through offi…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-vicki-schmidt-0007] narrative: "_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says…
+  - Source: https://vickiforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-vicki-schmidt-0008] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate LinkedIn comment** [soc-vicki-schmidt-0014] The Department LinkedIn page gives the clearest view of ongoing social-content priorities. Visible posts centered hiring, real-life scam education, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claim assistance, and National Consumer Protection Week. A visible PBM reform post quoted Schmidt saying, "This week, the Kansas Legislature chose to put patients over politics and profits," and argued PBMs should not threaten patients, local businesses, or rural communities. The highest visible post-level engagement in the accessible LinkedIn module was 45 likes and 1 comment on a post about Schmidt joining regulators at the 2026 NAIC Spring National Meeting. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong LinkedIn post** [soc-vicki-schmidt-0015] The office LinkedIn page was the richest accessible social feed. It listed 623 followers and a government-administration profile for the Kansas Department of Insurance. Visible updates emphasized hiring, fraud and scam prevention, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claims, and consumer-protection resources. ([source](https://www.linkedin.com/company/kansas-department-of-insurance))
+  - Source: https://www.linkedin.com/company/kansas-department-of-insurance
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-vicki-schmidt-0016] | Insurance consumer assistance, recoveries, claims help, storm damage, fraud/scam prevention, and securities education | 7 | 41% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-vicki-schmidt-0130] The local social harvest found that insurance consumer assistance, recoveries, claims help, storm-damage guidance, fraud/scam prevention, and securities education were the dominant accessible official-channel topics.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous LinkedIn online-reference** [soc-vicki-schmidt-0133] "observation": "Local logged-out harvest found the Department LinkedIn page visibly emphasized consumer protection topics including fraud/scam prevention, storm-damage claims, financial education, and NAIC participation.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-vicki-schmidt-0150] Official department channels: Kansas.gov and the Department site identify official Insurance Department Facebook, X, Instagram, and LinkedIn presences. The office LinkedIn page was the richest accessible feed in local harvest, with visible posts on hiring, scams, PBM reform, NAIC participation, storm claims, and consumer protection.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.

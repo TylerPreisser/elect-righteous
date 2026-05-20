@@ -1,0 +1,1534 @@
+# Fixed 14-Issue Matrix — ethan-corson — 2026-05-20
+
+This matrix is built from `evidence-matrix.json`, `social-evidence-matrix.json`, and `source-audit.json`. It is a candidate-rebuild input, not final public prose.
+
+## 1. Abortion / life
+
+Abortion / life: 19 selected evidence items from 39 mapped rows. Public URL-backed rows: 8.
+
+### Evidence
+- **candidate-stated** [em-ethan-corson-00803] Reproductive Rights: Supports reproductive freedom
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1205
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00032] | s-ksleg-hb2062 | primary | https://www.kslegislature.gov/li/b2025_26/measures/hb2062/ | accessed 2026-05-19 | HB 2062 bill history and short title; child support orders for unborn children and unborn/stillborn tax exemptions; veto override | abortion / family |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/hb2062/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00035] | s-ksleg-hb2729 | primary | https://www.kslegislature.gov/li/b2025_26/measures/hb2729/ | accessed 2026-05-19 | HB 2729 bill page; Woman's-Right-to-Know Act forms/notices; override history | abortion |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/hb2729/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00128] The current campaign-site embedded X feed included the excerpt: "We've defended reproductive rights before and we'll do it again in August and in November. As governor, I..." No standalone detailed abortion platform page was found.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:203
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00129] 2025 vote: Corson voted nay on HB 2062, concerning child support orders for unborn children from conception and unborn/stillborn income-tax exemptions. Source: s-ksleg-hb2062-final.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:207
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00173] Local social harvest captured a candidate-controlled public footprint centered on campaign travel, affordability, schools, business/economic development, healthcare/mental health, and bipartisan governing style. Current campaign-site readback on 2026-05-19 added more recent embedded X excerpts than the May 11 local harvest, including reproductive-rights language, family/basketball, Tallgrass Creek outreach, Shawnee Mission school posts, Garden City/baseball commentary, Harvey County Democrats, and Johnson County Democrats.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:323
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00594] Signed abortion restriction legislation
+  - Source: memory/candidates/ethan-corson/raw-dump.md:871
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-01399] 1. The Abortion Ruling (2019): The Kansas Supreme Court ruled 6-1 that the Kansas Constitution protects a right to "personal autonomy," including the right to decide whether to continue a pregnancy. This made Kansas one of the strongest states for abortion rights -- decided by appointed justices, not elected ones.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2228
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-01402] Kansas Reflector explicitly headlined their coverage: "Kansas Senate adopts plan to elect Supreme Court justices, a step toward overturning abortion rights."
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2234
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-02319] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-02354] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-ethan-corson-01833] The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.
+  - Source: memory/candidates/ethan-corson/social-harvest.md:117
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ethan-corson-00010] Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible candidate-controlled social capture through May 11, 2026 ([harvest](social-harvest.md#visible-absences)). The public biographical record identifies Corson as Jewish, but the captured campaign social material does not make faith a major campaign theme ([harvest](social-harvest.md#visible-absences)).
+  - Source: memory/candidates/ethan-corson/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00033] | s-ksleg-hb2062-final | primary | https://kslegislature.gov/li/b2025_26/measures/vote_view/je_20250312153109_776028/ | accessed 2026-05-19 | Senate final action on HB 2062, March 12, 2025; Corson listed among nay votes | abortion / family |
+  - Source: https://kslegislature.gov/li/b2025_26/measures/vote_view/je_20250312153109_776028/
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-00034] | s-ksleg-hb2062-override | primary | https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20250410143859_534870/ | accessed 2026-05-19 | Senate veto override on HB 2062, April 10, 2025; Corson listed among nay votes | abortion / family |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20250410143859_534870/
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-00036] | s-ksleg-hb2729-final | primary | https://kslegislature.gov/li/b2025_26/measures/vote_view/je_20260319131142_107485/ | accessed 2026-05-19 | Senate final action on HB 2729, March 19, 2026; Corson listed among nay votes | abortion |
+  - Source: https://kslegislature.gov/li/b2025_26/measures/vote_view/je_20260319131142_107485/
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-00037] | s-ksleg-hb2729-override | primary | https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20260409170632_675107/ | accessed 2026-05-19 | Senate veto override on HB 2729, April 9, 2026; Corson listed among nay votes | abortion |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20260409170632_675107/
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-00127] Issue Area 3 - Abortion and Reproductive Policy
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:197
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-01517] Why this matters: The AG interprets and enforces Kansas laws on abortion, voting, immigration, and government transparency. Whoever holds this office shapes which laws get enforced aggressively and which ones gather dust.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2490
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-ethan-corson-0002] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ethan-corson-0008] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0009] The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0120] Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible candidate-controlled social capture through May 11, 2026 ([harvest](social-harvest.md#visible-absences)). The public biographical record identifies Corson as Jewish, but the captured campaign social material does not make faith a major campaign theme ([harvest](social-harvest.md#visible-absences)).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ethan-corson-0121] The current campaign-site embedded X feed included the excerpt: "We've defended reproductive rights before and we'll do it again in August and in November. As governor, I..." No standalone detailed abortion platform page was found.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ethan-corson-0122] Local social harvest captured a candidate-controlled public footprint centered on campaign travel, affordability, schools, business/economic development, healthcare/mental health, and bipartisan governing style. Current campaign-site readback on 2026-05-19 added more recent embedded X excerpts than the May 11 local harvest, including reproductive-rights language, family/basketball, Tallgrass Creek outreach, Shawnee Mission school posts, Garden City/baseball commentary, Harvey County Democrats, and Johnson County Democrats.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0123] Abortion / Sanctity of Life: Has not taken a clear, specific public position in the governor's race, though his Democratic platform and party alignment suggest support for abortion access.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ethan-corson-0124] X / Twitter: @ethancorson is linked from the campaign site and embedded on the homepage. Logged-out direct X did not provide a reliable full timeline, but the campaign embed exposed current post excerpts. Current excerpts included campaign travel, basketball/family, public-school biography, Tallgrass Creek outreach, Garden City Community College/baseball, and reproductive-rights language: "We've defended reproductive rights before and we'll do it again in August and in November. As governor, I..." The embed did not expose reliable engagement counts.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ethan-corson-0125] Abortion / reproductive policy: Current campaign-site embedded X feed includes a reproductive-rights post excerpt. Official vote evidence: Corson voted nay on HB 2062 in 2025, concerning child support for unborn children and unborn/stillborn income-tax exemptions, and nay on HB 2729 in 2026, concerning Woman's-Right-to-Know Act forms and notices. Both measures passed/overrode vetoes. A full issue page or detailed gubernatorial platform page on abortion was not found.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ethan-corson-0126] "text": "A current campaign-site embedded X excerpt says, 'We've defended reproductive rights before and we'll do it again in August and in November. As governor, I...' No standalone detailed abortion platform page was found.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 2. LGBT / gender / parental rights
+
+LGBT / gender / parental rights: 19 selected evidence items from 30 mapped rows. Public URL-backed rows: 5.
+
+### Evidence
+- **candidate-stated** [em-ethan-corson-00861] Transgender Athletes: OPPOSES transgender girls competing in girls' sports (unusual for a Democrat)
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1315
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ethan-corson-01640] Marriage & Family / LGBTQ+ Policy: Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources.
+  - Source: memory/candidates/ethan-corson/site-profile.md:21
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00039] | s-ksleg-sb244 | primary | https://www.kslegislature.gov/b2025_26/bills/SB244/ | accessed 2026-05-19 | Biological sex / public buildings / driver's licenses / birth certificates bill; veto override | LGBTQ / privacy |
+  - Source: https://www.kslegislature.gov/b2025_26/bills/SB244/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00136] 2025 vote: Corson voted nay on SB 63, the Help Not Harm Act, restricting gender-transition care for minors and related state funding. Source: s-ksleg-vote-2025 / s-ksleg-sb63.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:226
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00139] 2025 vote: Corson voted nay on HB 2311 and its veto override, concerning foster-care/custody placement policies and sincerely held religious or moral beliefs related to sexual orientation or gender identity. Source: s-ksleg-vote-2025 / s-ksleg-hb2311.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:229
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00990] Education/Parental Rights: Fought for "parents' rights, fiscal responsibility" on school board
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1556
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-01560] Why this matters: The Board of Education has been a battleground over science standards (evolution vs. intelligent design), sex education, school library books, and transgender student policies. In recent years, conservative and moderate factions have fought for control. The 2026 elections could shift the balance of power on the board.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2576
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-01644] School Choice / Parental Rights in Education: Strengthening investment in public schools is one of his top campaign themes. His slogan includes "Better Schools."
+  - Source: memory/candidates/ethan-corson/site-profile.md:29
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-01717] Marriage, family, and LGBTQ policy: No marriage-specific campaign plank was found. Official vote evidence shows Corson voted nay on SB 63 in 2025, nay on SB 76 in 2025, nay on SB 244 in 2026, and nay on HB 2311 in 2025. These votes map to gender-transition care for minors, school name/pronoun requirements, biological-sex/public-building/private-space rules, and foster-care/religious-or-moral-belief placement policy.
+  - Source: memory/candidates/ethan-corson/sleuth-pass.md:43
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-01898] "Includes votes on election administration, public health, education, LGBTQ policy, reproductive-care-adjacent legislation, public assistance, taxes, courts, and public safety"
+  - Source: memory/candidates/ethan-corson/v2-issues.yaml:85
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-02319] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Confidence/use: likely / use
+- **social-online-signal** [em-ethan-corson-01833] The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.
+  - Source: memory/candidates/ethan-corson/social-harvest.md:117
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ethan-corson-00010] Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible candidate-controlled social capture through May 11, 2026 ([harvest](social-harvest.md#visible-absences)). The public biographical record identifies Corson as Jewish, but the captured campaign social material does not make faith a major campaign theme ([harvest](social-harvest.md#visible-absences)).
+  - Source: memory/candidates/ethan-corson/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00038] | s-ksleg-sb63 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb63/ | accessed 2026-05-19 | Help Not Harm Act; gender-transition care restrictions for minors; veto override | LGBTQ / healthcare |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/sb63/
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-00040] | s-ksleg-sb244-override | primary | https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20260217132754_470460/print/ | accessed 2026-05-19 | Senate override of SB 244, Feb. 17, 2026; Corson listed among nay votes | LGBTQ / privacy |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20260217132754_470460/print/
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-00041] | s-ksleg-hb2311 | primary | https://www.kslegislature.gov/li/b2025_26/measures/hb2311/ | accessed 2026-05-19 | Foster-care/custody placement policy concerning sincerely held religious or moral beliefs related to sexual orientation or gender identity | religious liberty / LGBTQ |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/hb2311/
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-00134] Issue Area 4 - Marriage, Family, LGBTQ Policy, and Religious-Liberty-Adjacent Foster-Care Policy
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:218
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00593] Signed the Adoption Protection Act as governor (allows religious adoption agencies to refuse placements to same-sex couples)
+  - Source: memory/candidates/ethan-corson/raw-dump.md:870
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-01038] Education: Restore parental rights in education
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1646
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-ethan-corson-0002] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0009] The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0120] Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible candidate-controlled social capture through May 11, 2026 ([harvest](social-harvest.md#visible-absences)). The public biographical record identifies Corson as Jewish, but the captured campaign social material does not make faith a major campaign theme ([harvest](social-harvest.md#visible-absences)).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0127] "observation": "The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0128] "observation": "Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0129] Marriage & Family / LGBTQ+ Policy: Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0130] Marriage, family, and LGBTQ policy: No marriage-specific campaign plank was found. Official vote evidence shows Corson voted nay on SB 63 in 2025, nay on SB 76 in 2025, nay on SB 244 in 2026, and nay on HB 2311 in 2025. These votes map to gender-transition care for minors, school name/pronoun requirements, biological-sex/public-building/private-space rules, and foster-care/religious-or-moral-belief placement policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 3. Education / curriculum / schools
+
+Education / curriculum / schools: 33 selected evidence items from 154 mapped rows. Public URL-backed rows: 23.
+
+### Evidence
+- **candidate-stated** [em-ethan-corson-00260] STRONG INDICATOR = Family/school ties strongly suggest affiliation but no direct membership statement found
+  - Source: memory/candidates/ethan-corson/raw-dump.md:120
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ethan-corson-00860] School Vouchers: Opposes private schools receiving taxpayer funds or competing in public school athletics
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1314
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00007] Public schools are both a policy message and a personal biography signal. His campaign site leads with "Better Schools," and indexed campaign snippets refer to mental health services in schools and special education funding ([harvest](social-harvest.md#campaign-website-issue-language)). In a 2019 campaign quote that remains part of his public record, Corson said, "Every opportunity I've had in my life is due to the education I received from attending Shawnee Mission public schools" ([source](https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7)). LinkedIn's public preview also showed him posting about returning to Shawnee Mission South, his old high school, and talking with students ([harvest](social-harvest.md#linkedin-public-preview)).
+  - Source: https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00008] On health care, the visible 2026 gubernatorial material emphasizes access and rural distance rather than a detailed program. At a March 8, 2026 Democratic debate, Corson said, "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor" ([source](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)). The campaign site also surfaced mental-health language, including snippets about school mental-health services and mental health as a concern for "parents to first responders and farmers" ([source](https://ethanforkansas.com/about)). In the captured harvest, health care and mental health appear in 2 of 21 coded artifacts ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00048] | s-ksleg-sb477 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb477/ | accessed 2026-05-19 | Corson-sponsored first responder scholarship program bill; died | public safety / education |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/sb477/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00426] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-01245] [Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)
+  - Source: https://www.usd489.com/page/board-of-education
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-01309] [Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)
+  - Source: https://www.haysusa.com/335/Public-Library-Board
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-01627] [Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-01628] [Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)
+  - Source: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-ethan-corson-00003] Across the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, "It's about kitchen table issues. Better Schools. Lower Taxes." and frames the race around "Opportunities for the next generation of Kansans, so they can build a life right here" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says he was raised on values to "work hard, give back whenever you can and always keep your word" ([source](https://ethanforkansas.com/about)). In the topic-coded harvest, affordability, taxes, and cost of living appear in 5 of 21 visible artifacts, while education and public schools appear in 4 of 21 ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://ethanforkansas.com/about
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-00043] | s-ksleg-sb361-ccr | primary | https://kslegislature.gov/li/b2025_26/measures/vote_view/je_20260327220310_770542/ | accessed 2026-05-19 | Senate SB 361 conference committee report adopted; Corson listed among nay votes | education / school choice |
+  - Source: https://kslegislature.gov/li/b2025_26/measures/vote_view/je_20260327220310_770542/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-ethan-corson-02319] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-02354] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ethan-corson-00479] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/ethan-corson/raw-dump.md:648
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-ethan-corson-00005] The captured X feed embedded on Corson's campaign site shows a candidate physically campaigning across Democratic organizations, counties, and local events in late April and early May 2026. On May 9, 2026, the embedded feed showed posts thanking the Harvey County Democrats and Johnson County Democrats. On May 4, he posted about being in Lyon County at a chili and cinnamon roll event. On April 30, he wrote that April had the campaign "crisscrossing Kansas" with "miles on the road" and "conversations in every corner" ([harvest](social-harvest.md#campaign-site--x-feed-posts)). The campaign-site embed also surfaced a May 7 post tying his Garden City Telegram interview to his college-town biography ([source](https://twitter.com/ethancorson/status/2052514742099439889)).
+  - Source: https://twitter.com/ethancorson/status/2052514742099439889
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01806] Indexed campaign-site snippets also surfaced posts or modules beginning "Cutting mental health services in our schools and failing to fund special education services..." and "From parents to first responders and farmers, mental health is a top concern across Kansas..." ([campaign site](https://ethanforkansas.com/about)).
+  - Source: https://ethanforkansas.com/about
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01811] Democratic forum coverage, November 25, 2025: Corson was described as emphasizing his Kansas public-school path, Garden City Community College, legislative work, and ability to deliver under Republican supermajorities. ([Kansas Reflector](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/))
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01813] 2019 Senate campaign quote: "Every opportunity I've had in my life is due to the education I received from attending Shawnee Mission public schools." ([Kansas City Jewish Chronicle](https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7))
+  - Source: https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01781] 2026-05-07 -- "I had a great chat with the Garden City Telegram when I was back in my college town last month. I'm runnin..."
+  - Source: memory/candidates/ethan-corson/social-harvest.md:42
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01796] LinkedIn's public search preview showed Ethan Corson with 2K followers and 500+ connections. Recent indexed activity emphasized economic development, business outreach, and public-school biography:
+  - Source: memory/candidates/ethan-corson/social-harvest.md:72
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01799] "Last week, I was back at Shawnee Mission South, my old high school. Walking the halls again and talking with students brought back a lot of memories..."
+  - Source: memory/candidates/ethan-corson/social-harvest.md:75
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01820] | Education / public schools / special education | 4 | 19% |
+  - Source: memory/candidates/ethan-corson/social-harvest.md:101
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ethan-corson-00403] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ethan-corson-00261] INFERRED = Circumstantial evidence only (German-Catholic surname, attended Catholic school, etc.)
+  - Source: memory/candidates/ethan-corson/raw-dump.md:121
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ethan-corson-00272] 2010 graduate of Thomas More Prep-Marian (Catholic high school, Diocese of Salina)
+  - Source: memory/candidates/ethan-corson/raw-dump.md:142
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ethan-corson-00273] Works professionally FOR the Catholic school system in Hays (HCS Advancement Director)
+  - Source: memory/candidates/ethan-corson/raw-dump.md:143
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00042] | s-ksleg-sb361 | primary | https://www.kslegislature.gov/b2025_26/bills/SB361/ | accessed 2026-05-19 | Federal scholarship-granting organization tax credit participation; veto overridden | education / school choice |
+  - Source: https://www.kslegislature.gov/b2025_26/bills/SB361/
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-00483] [HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **background-context** [em-ethan-corson-01246] [Ballotpedia: Hays USD 489 Elections](https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections)
+  - Source: https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections
+  - Confidence/use: likely / use
+- **background-context** [em-ethan-corson-01373] | Hays USD 489 | 785-623-2400 | [usd489.com](https://www.usd489.com) |
+  - Source: https://www.usd489.com
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-00108] Issue Area 1 - Public Education and School Funding
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:153
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00194] He is a lifelong Kansan, attended Garden City Community College as a baseball player, then earned degrees from Washington University in St. Louis and Washington University School of Law.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:14
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-ethan-corson-0002] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous ethanforkansas.com online-reference** [soc-ethan-corson-0003] Across the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, "It's about kitchen table issues. Better Schools. Lower Taxes." and frames the race around "Opportunities for the next generation of Kansans, so they can build a life right here" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says he was raised on values to "work hard, give back whenever you can and always keep your word" ([source](https://ethanforkansas.com/about)). In the topic-coded harvest, affordability, taxes, and cost of living appear in 5 of 21 visible artifacts, while education and public schools appear in 4 of 21 ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous LinkedIn online-reference** [soc-ethan-corson-0004] Public schools are both a policy message and a personal biography signal. His campaign site leads with "Better Schools," and indexed campaign snippets refer to mental health services in schools and special education funding ([harvest](social-harvest.md#campaign-website-issue-language)). In a 2019 campaign quote that remains part of his public record, Corson said, "Every opportunity I've had in my life is due to the education I received from attending Shawnee Mission public schools" ([source](https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7)). LinkedIn's public preview also showed him posting about returning to Shawnee Mission South, his old high school, and talking with students ([harvest](social-harvest.md#linkedin-public-preview)).
+  - Source: https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kansasreflector.com online-reference** [soc-ethan-corson-0005] On health care, the visible 2026 gubernatorial material emphasizes access and rural distance rather than a detailed program. At a March 8, 2026 Democratic debate, Corson said, "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor" ([source](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)). The campaign site also surfaced mental-health language, including snippets about school mental-health services and mental health as a concern for "parents to first responders and farmers" ([source](https://ethanforkansas.com/about)). In the captured harvest, health care and mental health appear in 2 of 21 coded artifacts ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ethan-corson-0008] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong X / Twitter post** [soc-ethan-corson-0010] The captured X feed embedded on Corson's campaign site shows a candidate physically campaigning across Democratic organizations, counties, and local events in late April and early May 2026. On May 9, 2026, the embedded feed showed posts thanking the Harvey County Democrats and Johnson County Democrats. On May 4, he posted about being in Lyon County at a chili and cinnamon roll event. On April 30, he wrote that April had the campaign "crisscrossing Kansas" with "miles on the road" and "conversations in every corner" ([harvest](social-harvest.md#campaign-site--x-feed-posts)). The campaign-site embed also surfaced a May 7 post tying his Garden City Telegram interview to his college-town biography ([source](https://twitter.com/ethancorson/status/2052514742099439889)).
+  - Source: https://twitter.com/ethancorson/status/2052514742099439889
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0011] 2026-05-07 -- "I had a great chat with the Garden City Telegram when I was back in my college town last month. I'm runnin..."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak LinkedIn post** [soc-ethan-corson-0012] LinkedIn's public search preview showed Ethan Corson with 2K followers and 500+ connections. Recent indexed activity emphasized economic development, business outreach, and public-school biography:
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0013] "Last week, I was back at Shawnee Mission South, my old high school. Walking the halls again and talking with students brought back a lot of memories..."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong ethanforkansas.com post** [soc-ethan-corson-0014] Indexed campaign-site snippets also surfaced posts or modules beginning "Cutting mental health services in our schools and failing to fund special education services..." and "From parents to first responders and farmers, mental health is a top concern across Kansas..." ([campaign site](https://ethanforkansas.com/about)).
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 4. Religious liberty / church / civic morality
+
+Religious liberty / church / civic morality: 19 selected evidence items from 201 mapped rows. Public URL-backed rows: 15.
+
+### Evidence
+- **candidate-stated** [em-ethan-corson-01641] Religious Liberty: Runs as a Democrat. No specific personal statement found in public sources.
+  - Source: memory/candidates/ethan-corson/site-profile.md:23
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00140] No current candidate-controlled statement was found on marriage policy or religious liberty as a standalone issue. The foster-care vote is relevant to religious-liberty-adjacent public policy, but should not be used to infer personal religious views.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:233
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00495] Introduced resolution to authorize use of the Capitol Rotunda for prayer events
+  - Source: memory/candidates/ethan-corson/raw-dump.md:680
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-01745] Candidate-controlled positions on guns, marijuana, religious liberty, and marriage policy beyond legislative votes or visible absences noted above.
+  - Source: memory/candidates/ethan-corson/sleuth-pass.md:77
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-02149] "Any candidate-controlled position on guns, marijuana, or religious liberty beyond visible absences and action records."
+  - Source: memory/candidates/ethan-corson/v2-issues.yaml:591
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-02481] "observation": "Candidate-controlled positions on guns, marijuana, religious liberty, and marriage policy beyond legislative votes or visible absences noted above.",
+  - Source: ui/src/data/v2/ethan-corson.ts:306
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-02319] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-02354] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ethan-corson-00479] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/ethan-corson/raw-dump.md:648
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-ethan-corson-01834] Faith/religion appeared in external biographical coverage identifying Corson as Jewish, but not as a campaign-message theme in the captured 2025-2026 campaign social material.
+  - Source: memory/candidates/ethan-corson/social-harvest.md:118
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ethan-corson-00278] [Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)
+  - Source: https://www.hfehays.org/o/hfe/article/923439
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ethan-corson-00279] [Immaculate Heart of Mary Parish](https://www.ihm-church.com/)
+  - Source: https://www.ihm-church.com/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ethan-corson-00403] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ethan-corson-00501] [Americans United: National Prayer Breakfast](https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/)
+  - Source: https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/
+  - Confidence/use: likely / use
+- **background-context** [em-ethan-corson-00041] | s-ksleg-hb2311 | primary | https://www.kslegislature.gov/li/b2025_26/measures/hb2311/ | accessed 2026-05-19 | Foster-care/custody placement policy concerning sincerely held religious or moral beliefs related to sexual orientation or gender identity | religious liberty / LGBTQ |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/hb2311/
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-00489] | Notable Roles | Co-Chair, National Prayer Breakfast (2023 & 2024) |
+  - Source: memory/candidates/ethan-corson/raw-dump.md:672
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00491] Co-chaired the 2023 AND 2024 National Prayer Breakfast in Washington, DC
+  - Source: memory/candidates/ethan-corson/raw-dump.md:676
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00493] Read scripture publicly at the National Prayer Breakfast
+  - Source: memory/candidates/ethan-corson/raw-dump.md:678
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-02246] "issue": "Religious Liberty",
+  - Source: ui/src/data/candidates.ts:10598
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-ethan-corson-0002] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ethan-corson-0008] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0018] Faith/religion appeared in external biographical coverage identifying Corson as Jewish, but not as a campaign-message theme in the captured 2025-2026 campaign social material.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0120] Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible candidate-controlled social capture through May 11, 2026 ([harvest](social-harvest.md#visible-absences)). The public biographical record identifies Corson as Jewish, but the captured campaign social material does not make faith a major campaign theme ([harvest](social-harvest.md#visible-absences)).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0136] No faith or church references found in her candidate profiles, HaysPost Q&As, or social media
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0137] Faith: Identifies as a "Child of God" on social media. No specific church or denomination identified, but faith language is prominent in her public profile.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0138] "observation": "Faith/religion appeared in external biographical coverage identifying Corson as Jewish, but not as a campaign-message theme in the captured 2025-2026 campaign social material.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 5. Taxes / spending / debt
+
+Taxes / spending / debt: 24 selected evidence items from 90 mapped rows. Public URL-backed rows: 12.
+
+### Evidence
+- **documented-record** [em-ethan-corson-00026] | s-sos-candidate-info-2026 | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing framework; Governor/Lt. Governor office up in 2026; filing deadline June 1, 2026; candidate not filed until petition/declaration and fee received | official status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00032] | s-ksleg-hb2062 | primary | https://www.kslegislature.gov/li/b2025_26/measures/hb2062/ | accessed 2026-05-19 | HB 2062 bill history and short title; child support orders for unborn children and unborn/stillborn tax exemptions; veto override | abortion / family |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/hb2062/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00049] | s-ksleg-sb215 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb215/ | accessed 2026-05-19 | Corson co-sponsored property-tax/homestead refund bill | taxes / cost of living |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/sb215/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-01586] [Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)
+  - Source: https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-01587] [PBS Wisconsin: $100M+ spending on 2025 race](https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/)
+  - Source: https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00021] Kansas SOS confirms the 2026 filing framework: Governor/Lt. Governor is an office to be elected in 2026; national, state, legislative, and judicial candidates file with the Secretary of State; a candidate is not considered filed until the petition or declaration and fee are received; and the primary filing deadline is noon Monday, June 1, 2026. This pass did not directly capture a readable SOS candidate-list row or final ballot certification.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:15
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00064] Kansas SOS says Democratic and Republican candidates run in the primary for nomination. Candidates for national, state, legislative, and judicial offices must file with the Secretary of State. A candidate is not considered filed until the petition or declaration and fee are received. The 2026 primary filing deadline is 12:00 p.m. Monday, June 1, 2026. Governor/Lt. Governor is one of the offices to be elected in 2026.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:69
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00102] The campaign page says Corson is a lifelong Kansan, grew up with values of hard work, giving back, and keeping one's word, and is running for Governor to create opportunities for the next generation of Kansans. It says he currently serves in the State Senate representing the community where he grew up and is known for a common-sense, bipartisan approach. It describes work with both parties on schools, affordability, lower taxes, and business recruitment.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:139
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-00003] Across the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, "It's about kitchen table issues. Better Schools. Lower Taxes." and frames the race around "Opportunities for the next generation of Kansans, so they can build a life right here" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says he was raised on values to "work hard, give back whenever you can and always keep your word" ([source](https://ethanforkansas.com/about)). In the topic-coded harvest, affordability, taxes, and cost of living appear in 5 of 21 visible artifacts, while education and public schools appear in 4 of 21 ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://ethanforkansas.com/about
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-00210] "Better Schools. Lower Taxes." - campaign donation/banner copy, 2026-04-01, [ethanforkansas.com/about](https://ethanforkansas.com/about/) - topic: governing message.
+  - Source: https://ethanforkansas.com/about/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-02319] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-02354] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ethan-corson-01003] Analysis: The $1M self-loan means 88% of her war chest is her own money. This is not grassroots fundraising -- it is a wealthy candidate buying a seat at the table. Only ~$140K came from actual donors. The low spending ($116K) suggests she is stockpiling for later ad buys.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1582
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-01487] Democratic primary: Senator Ethan Corson (Fairway attorney, emphasizes bipartisan deal-making, helped eliminate the grocery sales tax), Senator Cindy Holscher (Overland Park, farm-raised, led repeal of Brownback tax cuts, founded Bipartisan Women's Caucus).
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2426
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-ethan-corson-01752] Campaign website: [ethanforkansas.com](https://ethanforkansas.com/) -- active. The site's public metadata frames the campaign around "Opportunities for the next generation of Kansans, so they can build a life right here," and the visible homepage/donation copy says "Better Schools. Lower Taxes." The WordPress feed had no article items at capture; the page itself was last modified September 19, 2025.
+  - Source: https://ethanforkansas.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01803] "It's about kitchen table issues. Better Schools. Lower Taxes." ([campaign site](https://ethanforkansas.com/))
+  - Source: https://ethanforkansas.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01802] Visible campaign-site and indexed official-site language repeatedly centers on opportunity, schools, taxes, affordability, business growth, and mental health:
+  - Source: memory/candidates/ethan-corson/social-harvest.md:80
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01819] | Affordability / taxes / cost of living | 5 | 24% |
+  - Source: memory/candidates/ethan-corson/social-harvest.md:100
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-ethan-corson-00042] | s-ksleg-sb361 | primary | https://www.kslegislature.gov/b2025_26/bills/SB361/ | accessed 2026-05-19 | Federal scholarship-granting organization tax credit participation; veto overridden | education / school choice |
+  - Source: https://www.kslegislature.gov/b2025_26/bills/SB361/
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-00119] Issue Area 2 - Taxes, Cost of Living, Labor, and Business Recruitment
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:175
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00378] Policy focus: county spending, transparency
+  - Source: memory/candidates/ethan-corson/raw-dump.md:388
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00742] Taxes: Lower cost of living for working-class families
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1104
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00795] Part of the bipartisan coalition that reversed the Brownback-era tax cuts in 2017
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1193
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00815] > "Politicians are making dangerous cuts to our programs, Medicaid and Social Security. That's hurting us, and with the expiration of ACA tax credits, that's a huge threat."
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1224
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous kslegislature.gov online-reference** [soc-ethan-corson-0001] | s-ksleg-sb215 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb215/ | accessed 2026-05-19 | Corson co-sponsored property-tax/homestead refund bill | taxes / cost of living |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/sb215/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-ethan-corson-0002] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous ethanforkansas.com online-reference** [soc-ethan-corson-0003] Across the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, "It's about kitchen table issues. Better Schools. Lower Taxes." and frames the race around "Opportunities for the next generation of Kansans, so they can build a life right here" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says he was raised on values to "work hard, give back whenever you can and always keep your word" ([source](https://ethanforkansas.com/about)). In the topic-coded harvest, affordability, taxes, and cost of living appear in 5 of 21 visible artifacts, while education and public schools appear in 4 of 21 ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ethan-corson-0008] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong ethanforkansas.com post** [soc-ethan-corson-0019] Campaign website: [ethanforkansas.com](https://ethanforkansas.com/) -- active. The site's public metadata frames the campaign around "Opportunities for the next generation of Kansans, so they can build a life right here," and the visible homepage/donation copy says "Better Schools. Lower Taxes." The WordPress feed had no article items at capture; the page itself was last modified September 19, 2025.
+  - Source: https://ethanforkansas.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0020] Visible campaign-site and indexed official-site language repeatedly centers on opportunity, schools, taxes, affordability, business growth, and mental health:
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong ethanforkansas.com post** [soc-ethan-corson-0021] "It's about kitchen table issues. Better Schools. Lower Taxes." ([campaign site](https://ethanforkansas.com/))
+  - Source: https://ethanforkansas.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0022] | Affordability / taxes / cost of living | 5 | 24% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ethan-corson-0125] Abortion / reproductive policy: Current campaign-site embedded X feed includes a reproductive-rights post excerpt. Official vote evidence: Corson voted nay on HB 2062 in 2025, concerning child support for unborn children and unborn/stillborn income-tax exemptions, and nay on HB 2729 in 2026, concerning Woman's-Right-to-Know Act forms and notices. Both measures passed/overrode vetoes. A full issue page or detailed gubernatorial platform page on abortion was not found.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0139] The campaign says Corson worked with Republican and Democratic colleagues to eliminate the food sales tax, cut property taxes, remove taxes on Social Security, and deliver targeted tax relief for seniors, veterans, and middle-class Kansans. It also says Kansas should be affordable, with lower taxes and thriving new businesses.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 6. Economy / jobs / labor
+
+Economy / jobs / labor: 33 selected evidence items from 65 mapped rows. Public URL-backed rows: 6.
+
+### Evidence
+- **candidate-stated** [em-ethan-corson-01649] Small Business: Says small business is "how we rebuild rural Kansas" and wants to make Kansas more affordable for entrepreneurs.
+  - Source: memory/candidates/ethan-corson/site-profile.md:39
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ethan-corson-02305] "stance": "Says small business is \"how we rebuild rural Kansas\" and wants to make Kansas more affordable for entrepreneurs."
+  - Source: ui/src/data/candidates.ts:18582
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00049] | s-ksleg-sb215 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb215/ | accessed 2026-05-19 | Corson co-sponsored property-tax/homestead refund bill | taxes / cost of living |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/sb215/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00050] | s-ksleg-sb216 | primary | https://www.kslegislature.gov/b2025_26/bills/sb216/ | accessed 2026-05-19 | Corson co-sponsored Kansas paid sick time act; died | labor / affordability |
+  - Source: https://www.kslegislature.gov/b2025_26/bills/sb216/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00236] "lowering cost of living" - Senate campaign / legislative profile, 2026-04-01, https://ethanforkansas.com/ - topic: governing priorities.
+  - Source: https://ethanforkansas.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00006] Corson's economic message combines affordability with business recruitment and local-chamber outreach. The campaign-site X embed included April 27 and April 29 posts on rising costs, including: "Affordability isn't an abstract issue in Kansas, it's the difference between building a stable life and co..." and "From rural communities to our biggest cities, Kansans are feeling the pressure of rising costs and stretched b..." ([harvest](social-harvest.md#campaign-site--x-feed-posts)). LinkedIn's public preview showed posts about meeting Pittsburg city and chamber leadership and the Lawrence Chamber of Commerce, including a line about how as governor he would "support businesses of all sizes and keep growing..." ([harvest](social-harvest.md#linkedin-public-preview)).
+  - Source: memory/candidates/ethan-corson/in-their-own-words.md:13
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00102] The campaign page says Corson is a lifelong Kansan, grew up with values of hard work, giving back, and keeping one's word, and is running for Governor to create opportunities for the next generation of Kansans. It says he currently serves in the State Senate representing the community where he grew up and is known for a common-sense, bipartisan approach. It describes work with both parties on schools, affordability, lower taxes, and business recruitment.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:139
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00125] Campaign biography: Corson connects Commerce/International Trade Administration experience to business recruitment and farmer export markets. Source: s-campaign-home.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:189
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00170] Campaign biography: The campaign says Corson's ITA work informs business recruitment and farmer export markets. Source: s-campaign-home.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:313
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00173] Local social harvest captured a candidate-controlled public footprint centered on campaign travel, affordability, schools, business/economic development, healthcare/mental health, and bipartisan governing style. Current campaign-site readback on 2026-05-19 added more recent embedded X excerpts than the May 11 local harvest, including reproductive-rights language, family/basketball, Tallgrass Creek outreach, Shawnee Mission school posts, Garden City/baseball commentary, Harvey County Democrats, and Johnson County Democrats.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:323
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-00003] Across the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, "It's about kitchen table issues. Better Schools. Lower Taxes." and frames the race around "Opportunities for the next generation of Kansans, so they can build a life right here" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says he was raised on values to "work hard, give back whenever you can and always keep your word" ([source](https://ethanforkansas.com/about)). In the topic-coded harvest, affordability, taxes, and cost of living appear in 5 of 21 visible artifacts, while education and public schools appear in 4 of 21 ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://ethanforkansas.com/about
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-02319] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-02354] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ethan-corson-01543] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2548
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-01635] Corson's record is centered on the Kansas Senate and on policy work outside elected office. Public materials connect him to Senate committee work on judiciary, transportation, taxation, utilities, and oversight, while his campaign has highlighted schools, lower taxes, cost of living, health care access, and agriculture.
+  - Source: memory/candidates/ethan-corson/site-profile.md:11
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-02293] "theirRecord": "Corson's record is centered on the Kansas Senate and on policy work outside elected office. Public materials connect him to Senate committee work on judiciary, transportation, taxation, utilities, and oversight, while his campaign has highlighted schools, lower taxes, cost of living, health care access, and agriculture. His candidacy has also been shaped by establishment support and by fundraising. Kansas Reflector's campaign-finance roundup cited his 2025 year-end total at $902,641.13 raised, with $526,975.81 cash on hand after $375,665.32 in spending. The same reporting described him as drawing support from thousands of contributors, with roughly 70% giving less than $100. Corson's public record also stands out because his Jewish identity is part of the public file. Coverage by the Kansas City Jewish Chronicle and other sources makes that religious background clear, ev…
+  - Source: ui/src/data/candidates.ts:18538
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-ethan-corson-01790] Topic: Affordability / cost of living
+  - Source: memory/candidates/ethan-corson/social-harvest.md:60
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01796] LinkedIn's public search preview showed Ethan Corson with 2K followers and 500+ connections. Recent indexed activity emphasized economic development, business outreach, and public-school biography:
+  - Source: memory/candidates/ethan-corson/social-harvest.md:72
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01800] Topic classification for the three visible LinkedIn preview items: economic development / business outreach (2), public schools / biography (1).
+  - Source: memory/candidates/ethan-corson/social-harvest.md:77
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01802] Visible campaign-site and indexed official-site language repeatedly centers on opportunity, schools, taxes, affordability, business growth, and mental health:
+  - Source: memory/candidates/ethan-corson/social-harvest.md:80
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01819] | Affordability / taxes / cost of living | 5 | 24% |
+  - Source: memory/candidates/ethan-corson/social-harvest.md:100
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01822] | Economic development / business outreach | 2 | 10% |
+  - Source: memory/candidates/ethan-corson/social-harvest.md:103
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01826] Counts overlap when one artifact carried more than one signal. Dominant signal: a disciplined kitchen-table campaign frame built around affordability, public schools, business/economic development, and bipartisan competence, reinforced by statewide travel posts.
+  - Source: memory/candidates/ethan-corson/social-harvest.md:108
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ethan-corson-00494] Introduced the FAITH in Small Business Act (ensures faith-based businesses can participate in SBA loans)
+  - Source: memory/candidates/ethan-corson/raw-dump.md:679
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ethan-corson-00773] Corson is the strongest Democratic candidate by every measurable metric: money, endorsements, and institutional support. His "common sense, common ground" messaging is designed to appeal to moderate Republicans and independents in a red state. His Jewish faith is notable in a heavily Christian state -- he does not appear to foreground it. His labor law background and union representation work will be a double-edged sword: appeals to working families but provides ammunition for Republican attacks. His time at the Kansas Democratic Party gives him deep institutional knowledge of the state's political machinery. The 8,000-mile crisscross of Kansas shows a serious effort to compete in rural areas, which is the Democratic Party's greatest weakness in the state.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1152
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ethan-corson-00837] Holscher has the most compelling personal narrative in the Democratic field -- granddaughter of tenant farmers, daughter of a construction worker and school custodian, first-generation college graduate, single mom who worked her way up through Sprint. Her legislative record is genuinely bipartisan, and her 9 years in the statehouse give her more governing experience than Corson. But the Kelly-endorsed Corson has outflanked her on money and endorsements. Her school voucher critique is razor-sharp and resonates in rural Kansas where there simply are no private schools. Her silence on faith is notable -- in Kansas politics, that is a gap that opponents will exploit. The pressure campaign story is politically damaging to the Democratic establishment more than to Holscher herself.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1274
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ethan-corson-00972] Faith: Theological Studies is part of her academic background. Cornerstone Data company description notes her work is done "in light of the people and organizations that produced it" -- suggesting faith-integrated business philosophy. The company name "Cornerstone" itself has Christian connotations. No specific church identified.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1528
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00119] Issue Area 2 - Taxes, Cost of Living, Labor, and Business Recruitment
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:175
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00418] 55 years old, rancher/farmer, K-Lawn business partner
+  - Source: memory/candidates/ethan-corson/raw-dump.md:484
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00430] Bank Vice President (Golden Plains Credit Union, 30+ years)
+  - Source: memory/candidates/ethan-corson/raw-dump.md:509
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00717] Wife: Jenna Brofsky -- attorney at Husch Blackwell law firm (employment group, advising and litigation). She previously served on the Fairway City Council. Grew up in a New York City suburb, attended a Conservative synagogue.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1072
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00723] Attorney at a firm in Washington, D.C. (7 years) -- worked at Blake & Uhlig P.A., one of the nation's leading labor law firms, representing unions and advancing workers' rights
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1080
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00742] Taxes: Lower cost of living for working-class families
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1104
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous kslegislature.gov online-reference** [soc-ethan-corson-0001] | s-ksleg-sb215 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb215/ | accessed 2026-05-19 | Corson co-sponsored property-tax/homestead refund bill | taxes / cost of living |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/sb215/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-ethan-corson-0002] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous ethanforkansas.com online-reference** [soc-ethan-corson-0003] Across the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, "It's about kitchen table issues. Better Schools. Lower Taxes." and frames the race around "Opportunities for the next generation of Kansans, so they can build a life right here" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says he was raised on values to "work hard, give back whenever you can and always keep your word" ([source](https://ethanforkansas.com/about)). In the topic-coded harvest, affordability, taxes, and cost of living appear in 5 of 21 visible artifacts, while education and public schools appear in 4 of 21 ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ethan-corson-0008] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak LinkedIn post** [soc-ethan-corson-0012] LinkedIn's public search preview showed Ethan Corson with 2K followers and 500+ connections. Recent indexed activity emphasized economic development, business outreach, and public-school biography:
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0020] Visible campaign-site and indexed official-site language repeatedly centers on opportunity, schools, taxes, affordability, business growth, and mental health:
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0022] | Affordability / taxes / cost of living | 5 | 24% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0023] Topic: Affordability / cost of living
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak LinkedIn post** [soc-ethan-corson-0024] Topic classification for the three visible LinkedIn preview items: economic development / business outreach (2), public schools / biography (1).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0025] | Economic development / business outreach | 2 | 10% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 7. Guns / Second Amendment
+
+Guns / Second Amendment: 12 selected evidence items from 18 mapped rows. Public URL-backed rows: 2.
+
+### Evidence
+- **documented-record** [em-ethan-corson-00155] No candidate-controlled gun-policy plank was found. Public safety evidence is stronger for first responders, domestic violence, and controlled-substance harms than for firearms.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:275
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00179] Candidate-controlled gun policy, marijuana policy, detailed immigration policy, or religious-liberty platform.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:334
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-01642] Guns / Second Amendment: Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy.
+  - Source: memory/candidates/ethan-corson/site-profile.md:25
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-01721] Guns / Second Amendment: No candidate-controlled gun-policy plank was found in the reviewed campaign site, current embed, local social harvest, or credible indexed material. Do not infer a position from party label.
+  - Source: memory/candidates/ethan-corson/sleuth-pass.md:47
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-01738] No candidate-controlled gun-policy, marijuana-policy, or detailed immigration platform was confirmed.
+  - Source: memory/candidates/ethan-corson/sleuth-pass.md:68
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-01745] Candidate-controlled positions on guns, marijuana, religious liberty, and marriage policy beyond legislative votes or visible absences noted above.
+  - Source: memory/candidates/ethan-corson/sleuth-pass.md:77
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-02091] "summary": "No candidate-controlled gun-policy plank was found; public-safety evidence is stronger for first responders, domestic violence, and controlled-substance harms.",
+  - Source: ui/src/data/v2/ethan-corson.ts:452
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-02140] "Candidate-controlled gun policy, marijuana policy, detailed immigration policy, and religious-liberty platform were not confirmed."
+  - Source: memory/candidates/ethan-corson/v2-issues.yaml:580
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-02319] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-02354] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-ethan-corson-01833] The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.
+  - Source: memory/candidates/ethan-corson/social-harvest.md:117
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ethan-corson-00010] Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible candidate-controlled social capture through May 11, 2026 ([harvest](social-harvest.md#visible-absences)). The public biographical record identifies Corson as Jewish, but the captured campaign social material does not make faith a major campaign theme ([harvest](social-harvest.md#visible-absences)).
+  - Source: memory/candidates/ethan-corson/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-ethan-corson-0002] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ethan-corson-0008] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0009] The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0120] Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible candidate-controlled social capture through May 11, 2026 ([harvest](social-harvest.md#visible-absences)). The public biographical record identifies Corson as Jewish, but the captured campaign social material does not make faith a major campaign theme ([harvest](social-harvest.md#visible-absences)).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0127] "observation": "The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0128] "observation": "Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0148] Candidate-controlled gun policy, marijuana policy, detailed immigration policy, or religious-liberty platform.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0149] Guns / Second Amendment: Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0150] Guns / Second Amendment: No candidate-controlled gun-policy plank was found in the reviewed campaign site, current embed, local social harvest, or credible indexed material. Do not infer a position from party label.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0151] No candidate-controlled gun-policy, marijuana-policy, or detailed immigration platform was confirmed.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 8. Immigration / border
+
+Immigration / border: 20 selected evidence items from 23 mapped rows. Public URL-backed rows: 4.
+
+### Evidence
+- **candidate-stated** [em-ethan-corson-01643] Immigration / Border: Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources. on immigration.
+  - Source: memory/candidates/ethan-corson/site-profile.md:27
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-01595] [CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)
+  - Source: https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00179] Candidate-controlled gun policy, marijuana policy, detailed immigration policy, or religious-liberty platform.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:334
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-01454] Their argument is straightforward: Voting should be exclusively for citizens, and the Constitution should say so clearly and forcefully. They point out that similar amendments passed in all 8 states where they appeared on the 2024 ballot, often with 65-80% of the vote. It is a matter of principle, even if non-citizen voting is not currently a problem.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2355
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-01463] FACT 1: Non-citizen voting is already illegal. This amendment does not make anything new illegal.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2377
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-01738] No candidate-controlled gun-policy, marijuana-policy, or detailed immigration platform was confirmed.
+  - Source: memory/candidates/ethan-corson/sleuth-pass.md:68
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-02140] "Candidate-controlled gun policy, marijuana policy, detailed immigration policy, and religious-liberty platform were not confirmed."
+  - Source: memory/candidates/ethan-corson/v2-issues.yaml:580
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-02470] "observation": "The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.",
+  - Source: ui/src/data/v2/ethan-corson.ts:224
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-02471] "observation": "Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible...",
+  - Source: ui/src/data/v2/ethan-corson.ts:234
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-00060] | s-kc-star-corecivic | secondary | https://www.kansascity.com/news/politics-government/article315103864.html | published 2026-03-19; accessed via search snippet 2026-05-19 | Reported CoreCivic contribution issue and campaign response | finance / immigration / private detention |
+  - Source: https://www.kansascity.com/news/politics-government/article315103864.html
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-02319] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-02354] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-ethan-corson-01833] The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.
+  - Source: memory/candidates/ethan-corson/social-harvest.md:117
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ethan-corson-00010] Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible candidate-controlled social capture through May 11, 2026 ([harvest](social-harvest.md#visible-absences)). The public biographical record identifies Corson as Jewish, but the captured campaign social material does not make faith a major campaign theme ([harvest](social-harvest.md#visible-absences)).
+  - Source: memory/candidates/ethan-corson/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00592] Extensive international humanitarian medical work with International Medical Corps -- 20+ countries since 1985 (Afghanistan, Iraq, Kosovo, South Sudan, Cameroon, Syria border, Ukraine)
+  - Source: memory/candidates/ethan-corson/raw-dump.md:869
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00909] "Let's end the border war -- keep the Chiefs and Royals in Missouri. Kansas simply can't afford to subsidize them."
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1408
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-01446] Is Non-Citizen Voting Actually a Problem in Kansas?
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2337
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-01451] That is a ratio of roughly 1 non-citizen for every 797 blocked citizens
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2345
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-01456] ACLU of Kansas: "The language in HCR 5004 could be weaponized to justify a return to restrictive voter registration laws, as it explicitly conditions voter eligibility on U.S. citizenship, despite no evidence of noncitizen voting in Kansas elections."
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2363
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-01464] FACT 2: The evidence of non-citizen voting in Kansas is nearly nonexistent. Federal courts examined 20 years of data and found 39 cases, mostly from administrative error.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2379
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-ethan-corson-0002] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ethan-corson-0008] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0009] The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0120] Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible candidate-controlled social capture through May 11, 2026 ([harvest](social-harvest.md#visible-absences)). The public biographical record identifies Corson as Jewish, but the captured campaign social material does not make faith a major campaign theme ([harvest](social-harvest.md#visible-absences)).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0127] "observation": "The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0128] "observation": "Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0148] Candidate-controlled gun policy, marijuana policy, detailed immigration policy, or religious-liberty platform.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0151] No candidate-controlled gun-policy, marijuana-policy, or detailed immigration platform was confirmed.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0152] "Candidate-controlled gun policy, marijuana policy, detailed immigration policy, and religious-liberty platform were not confirmed."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0153] Immigration / Border: Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources. on immigration.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 9. Health care / insurance / Medicaid
+
+Health care / insurance / Medicaid: 29 selected evidence items from 97 mapped rows. Public URL-backed rows: 13.
+
+### Evidence
+- **candidate-stated** [em-ethan-corson-00804] Cannabis: Supports legalization of medical marijuana
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1206
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ethan-corson-01647] Healthcare: Supports expanding healthcare access, especially in rural Kansas. Said "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor."
+  - Source: memory/candidates/ethan-corson/site-profile.md:35
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ethan-corson-02301] "stance": "Supports expanding healthcare access, especially in rural Kansas. Said \"Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor.\""
+  - Source: ui/src/data/candidates.ts:18574
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00007] Public schools are both a policy message and a personal biography signal. His campaign site leads with "Better Schools," and indexed campaign snippets refer to mental health services in schools and special education funding ([harvest](social-harvest.md#campaign-website-issue-language)). In a 2019 campaign quote that remains part of his public record, Corson said, "Every opportunity I've had in my life is due to the education I received from attending Shawnee Mission public schools" ([source](https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7)). LinkedIn's public preview also showed him posting about returning to Shawnee Mission South, his old high school, and talking with students ([harvest](social-harvest.md#linkedin-public-preview)).
+  - Source: https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00008] On health care, the visible 2026 gubernatorial material emphasizes access and rural distance rather than a detailed program. At a March 8, 2026 Democratic debate, Corson said, "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor" ([source](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)). The campaign site also surfaced mental-health language, including snippets about school mental-health services and mental health as a concern for "parents to first responders and farmers" ([source](https://ethanforkansas.com/about)). In the captured harvest, health care and mental health appear in 2 of 21 coded artifacts ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00059] | s-ks-reflector-debate | secondary | https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/ | published 2026-03-08; accessed 2026-05-19 | Democratic debate coverage on affordability, healthcare, rural Kansas | healthcare / rural |
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00749] > -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-01096] [Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-02317] "source": "Kansas Reflector, March 8, 2026, https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00143] The campaign page and indexed snippets emphasize mental health, school services, and access to care. Kansas Reflector debate coverage quoted Corson saying Kansans should be able to get care without going broke or driving hours to see a doctor.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:243
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00146] 2025 vote: Corson voted nay on SB 29, removing local health officers' authority to prohibit public gatherings during infectious-disease control. Source: s-ksleg-vote-2025.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:249
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-02319] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-02354] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ethan-corson-01504] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2463
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-01635] Corson's record is centered on the Kansas Senate and on policy work outside elected office. Public materials connect him to Senate committee work on judiciary, transportation, taxation, utilities, and oversight, while his campaign has highlighted schools, lower taxes, cost of living, health care access, and agriculture.
+  - Source: memory/candidates/ethan-corson/site-profile.md:11
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-02293] "theirRecord": "Corson's record is centered on the Kansas Senate and on policy work outside elected office. Public materials connect him to Senate committee work on judiciary, transportation, taxation, utilities, and oversight, while his campaign has highlighted schools, lower taxes, cost of living, health care access, and agriculture. His candidacy has also been shaped by establishment support and by fundraising. Kansas Reflector's campaign-finance roundup cited his 2025 year-end total at $902,641.13 raised, with $526,975.81 cash on hand after $375,665.32 in spending. The same reporting described him as drawing support from thousands of contributors, with roughly 70% giving less than $100. Corson's public record also stands out because his Jewish identity is part of the public file. Coverage by the Kansas City Jewish Chronicle and other sources makes that religious background clear, ev…
+  - Source: ui/src/data/candidates.ts:18538
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-ethan-corson-01806] Indexed campaign-site snippets also surfaced posts or modules beginning "Cutting mental health services in our schools and failing to fund special education services..." and "From parents to first responders and farmers, mental health is a top concern across Kansas..." ([campaign site](https://ethanforkansas.com/about)).
+  - Source: https://ethanforkansas.com/about
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01812] Debate coverage, March 8, 2026: "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor." ([Kansas Reflector](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/))
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01802] Visible campaign-site and indexed official-site language repeatedly centers on opportunity, schools, taxes, affordability, business growth, and mental health:
+  - Source: memory/candidates/ethan-corson/social-harvest.md:80
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01823] | Health care / mental health access | 2 | 10% |
+  - Source: memory/candidates/ethan-corson/social-harvest.md:104
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ethan-corson-00600] [KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ethan-corson-00452] No faith or church references in any professional profiles, medical directories, or candidate information
+  - Source: memory/candidates/ethan-corson/raw-dump.md:559
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ethan-corson-00596] International Medical Corps is a SECULAR humanitarian organization (not faith-based like Samaritan's Purse or Catholic Relief Services)
+  - Source: memory/candidates/ethan-corson/raw-dump.md:873
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00038] | s-ksleg-sb63 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb63/ | accessed 2026-05-19 | Help Not Harm Act; gender-transition care restrictions for minors; veto override | LGBTQ / healthcare |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/sb63/
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-01621] [Ballotpedia: Kansas Insurance Commissioner 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026
+  - Confidence/use: likely / use
+- **background-context** [em-ethan-corson-00141] Issue Area 5 - Healthcare, Mental Health, and Rural Access
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:237
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00287] Her community involvement centers on healthcare, fitness, and civic engagement
+  - Source: memory/candidates/ethan-corson/raw-dump.md:168
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00453] Assessment: Nothing found. Medical professionals sometimes keep personal beliefs separate from their professional identity. Recommend direct inquiry.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:561
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00562] Kansas Insurance Commissioner since 2018, former state senator (14 years)
+  - Source: memory/candidates/ethan-corson/raw-dump.md:814
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-ethan-corson-0002] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous LinkedIn online-reference** [soc-ethan-corson-0004] Public schools are both a policy message and a personal biography signal. His campaign site leads with "Better Schools," and indexed campaign snippets refer to mental health services in schools and special education funding ([harvest](social-harvest.md#campaign-website-issue-language)). In a 2019 campaign quote that remains part of his public record, Corson said, "Every opportunity I've had in my life is due to the education I received from attending Shawnee Mission public schools" ([source](https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7)). LinkedIn's public preview also showed him posting about returning to Shawnee Mission South, his old high school, and talking with students ([harvest](social-harvest.md#linkedin-public-preview)).
+  - Source: https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kansasreflector.com online-reference** [soc-ethan-corson-0005] On health care, the visible 2026 gubernatorial material emphasizes access and rural distance rather than a detailed program. At a March 8, 2026 Democratic debate, Corson said, "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor" ([source](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)). The campaign site also surfaced mental-health language, including snippets about school mental-health services and mental health as a concern for "parents to first responders and farmers" ([source](https://ethanforkansas.com/about)). In the captured harvest, health care and mental health appear in 2 of 21 coded artifacts ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ethan-corson-0008] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong ethanforkansas.com post** [soc-ethan-corson-0014] Indexed campaign-site snippets also surfaced posts or modules beginning "Cutting mental health services in our schools and failing to fund special education services..." and "From parents to first responders and farmers, mental health is a top concern across Kansas..." ([campaign site](https://ethanforkansas.com/about)).
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0020] Visible campaign-site and indexed official-site language repeatedly centers on opportunity, schools, taxes, affordability, business growth, and mental health:
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong kansasreflector.com post** [soc-ethan-corson-0027] Debate coverage, March 8, 2026: "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor." ([Kansas Reflector](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/))
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0028] | Health care / mental health access | 2 | 10% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ethan-corson-0122] Local social harvest captured a candidate-controlled public footprint centered on campaign travel, affordability, schools, business/economic development, healthcare/mental health, and bipartisan governing style. Current campaign-site readback on 2026-05-19 added more recent embedded X excerpts than the May 11 local harvest, including reproductive-rights language, family/basketball, Tallgrass Creek outreach, Shawnee Mission school posts, Garden City/baseball commentary, Harvey County Democrats, and Johnson County Democrats.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0134] Agriculture / rural economy / trade: Campaign biography connects his Commerce/ITA work to farmers shipping products globally. Campaign/social/news material includes Garden City Community College biography, western Kansas travel, rural health access, affordability in rural communities, and tariff/global-market comments. This is a visible theme, but not yet a full agriculture platform page.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 10. Election integrity / voting / courts
+
+Election integrity / voting / courts: 25 selected evidence items from 577 mapped rows. Public URL-backed rows: 121.
+
+### Evidence
+- **candidate-stated** [em-ethan-corson-01439] Right now, the Kansas Constitution says: "Every citizen of the United States who has attained the age of eighteen years and who resides in the voting area in which he or she seeks to vote shall be deemed a qualified elector."
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2319
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00004] Corson presents himself as a bipartisan, moderate, results-focused Democrat rather than an ideological fighter. In his launch statement, he said, "I'm not interested in the partisan battles you see on cable news. Kansans want leaders who work together, regardless of political party, to get things done" ([source](https://kansasreflector.com/2025/07/22/kansas-sen-ethan-corson-enters-race-for-democratic-partys-nomination-for-governor/)). On the Kansas Reflector podcast, he said Kansas does not need a governor who will move the state "to the right" or "to the left," but one who will "move this state forward" ([source](https://kansasreflector.com/2025/09/02/kansas-senator-makes-common-sense-common-ground-pitch-for-democratic-nomination-for-governor/)). That same interview captured his preferred governing formula as "common sense, common ground moderate leadership" across party lines ([source…
+  - Source: https://kansasreflector.com/2025/07/22/kansas-sen-ethan-corson-enters-race-for-democratic-partys-nomination-for-governor/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00007] Public schools are both a policy message and a personal biography signal. His campaign site leads with "Better Schools," and indexed campaign snippets refer to mental health services in schools and special education funding ([harvest](social-harvest.md#campaign-website-issue-language)). In a 2019 campaign quote that remains part of his public record, Corson said, "Every opportunity I've had in my life is due to the education I received from attending Shawnee Mission public schools" ([source](https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7)). LinkedIn's public preview also showed him posting about returning to Shawnee Mission South, his old high school, and talking with students ([harvest](social-harvest.md#linkedin-public-preview)).
+  - Source: https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00008] On health care, the visible 2026 gubernatorial material emphasizes access and rural distance rather than a detailed program. At a March 8, 2026 Democratic debate, Corson said, "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor" ([source](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)). The campaign site also surfaced mental-health language, including snippets about school mental-health services and mental health as a concern for "parents to first responders and farmers" ([source](https://ethanforkansas.com/about)). In the captured harvest, health care and mental health appear in 2 of 21 coded artifacts ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00026] | s-sos-candidate-info-2026 | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing framework; Governor/Lt. Governor office up in 2026; filing deadline June 1, 2026; candidate not filed until petition/declaration and fee received | official status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00030] | s-ksleg-member | primary | https://www.kslegislature.gov/b2025_26/legislators/sen_corson_ethan_1/ | accessed 2026-05-19 | Senate District 7, Johnson County; Democrat; Senate Caucus Chair; attorney; Senate service 2021-present; committees | officeholder status, record |
+  - Source: https://www.kslegislature.gov/b2025_26/legislators/sen_corson_ethan_1/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00032] | s-ksleg-hb2062 | primary | https://www.kslegislature.gov/li/b2025_26/measures/hb2062/ | accessed 2026-05-19 | HB 2062 bill history and short title; child support orders for unborn children and unborn/stillborn tax exemptions; veto override | abortion / family |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/hb2062/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00035] | s-ksleg-hb2729 | primary | https://www.kslegislature.gov/li/b2025_26/measures/hb2729/ | accessed 2026-05-19 | HB 2729 bill page; Woman's-Right-to-Know Act forms/notices; override history | abortion |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/hb2729/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00039] | s-ksleg-sb244 | primary | https://www.kslegislature.gov/b2025_26/bills/SB244/ | accessed 2026-05-19 | Biological sex / public buildings / driver's licenses / birth certificates bill; veto override | LGBTQ / privacy |
+  - Source: https://www.kslegislature.gov/b2025_26/bills/SB244/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-ethan-corson-02354] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ethan-corson-00097] Kansas City Star reported March 19, 2026 that Corson faced questions over a $1,000 CoreCivic contribution to his 2024 Senate re-election campaign, and that his gubernatorial campaign said the same amount was donated to a Johnson County food bank. The article also reported Corson said he had not accepted and would not accept CoreCivic contributions in the gubernatorial race.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:127
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-00098] This pass searched the accessible text of the 2025 gubernatorial KPDC report, 2024 Senate 202401 report, and 2024 Senate 202410 report for CoreCivic, CORECIVIC, and Core Civic; no clean match was found in extracted text. That does not disprove the news report because the official PDFs have OCR/text-extraction defects and the contribution could appear in another report or malformed text. Treat the CoreCivic item as secondary-source reporting pending manual image-level filing verification.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:129
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-00153] 2026 vote: Corson voted yea on the HB 2479 conference committee report; the bill was later signed by the governor. Source: s-ksleg-hb2479-ccr / s-ksleg-hb2479.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:270
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-00169] 2025 vote: Corson voted yea on HB 2255 conference committee report, which included CREP acreage cap and reporting changes in addition to weights/measures language. Source: s-ksleg-vote-2025.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:312
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-01657] Corson's 2025 year-end report showed $902,641.13 raised, $375,665.32 spent, and $526,975.81 cash on hand, with $43,019 in other transactions also listed in the filing.
+  - Source: memory/candidates/ethan-corson/site-profile.md:54
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-ethan-corson-01779] 2026-05-09 -- "I started the morning with the Johnson County Dems to talk about what's at stake in this election. I've ru..."
+  - Source: memory/candidates/ethan-corson/social-harvest.md:38
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ethan-corson-01163] [Kansas Catholic Conference: Election 2026](https://www.kansascatholic.org/current-news/election-2026)
+  - Source: https://www.kansascatholic.org/current-news/election-2026
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ethan-corson-00400] Spoke at TMP about the importance of voting (invited as elected official to Catholic school)
+  - Source: memory/candidates/ethan-corson/raw-dump.md:434
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ethan-corson-00580] Pushed the judicial selection amendment -- faith motivation was part of the framing
+  - Source: memory/candidates/ethan-corson/raw-dump.md:845
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00031] | s-ksleg-vote-2025 | primary | https://www.kslegislature.gov/li/b2025_26/members/documents/sen_corson_ethan_1_vote_record_2025.html | accessed 2026-05-19 | Corson's official 2025 Senate vote history | action evidence |
+  - Source: https://www.kslegislature.gov/li/b2025_26/members/documents/sen_corson_ethan_1_vote_record_2025.html
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-00045] | s-ksleg-hb2479-final | primary | https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt | accessed 2026-05-19 | Senate final action amended on HB 2479, March 10, 2026; 40 yea, Corson yea | public safety |
+  - Source: https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-01307] [Vote No Kansas 2026](https://www.votenokansas.org/)
+  - Source: https://www.votenokansas.org/
+  - Confidence/use: likely / use
+- **background-context** [em-ethan-corson-01575] Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/
+  - Source: https://myvoteinfo.voteks.org/
+  - Confidence/use: likely / use
+- **background-context** [em-ethan-corson-01593] [NPR: Judge tosses Kansas proof-of-citizenship voter law](https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba)
+  - Source: https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba
+  - Confidence/use: likely / use
+- **background-context** [em-ethan-corson-01597] [PBS: Kansas hopes to resurrect proof-of-citizenship law](https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law)
+  - Source: https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous kslegislature.gov online-reference** [soc-ethan-corson-0001] | s-ksleg-sb215 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb215/ | accessed 2026-05-19 | Corson co-sponsored property-tax/homestead refund bill | taxes / cost of living |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/sb215/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous LinkedIn online-reference** [soc-ethan-corson-0004] Public schools are both a policy message and a personal biography signal. His campaign site leads with "Better Schools," and indexed campaign snippets refer to mental health services in schools and special education funding ([harvest](social-harvest.md#campaign-website-issue-language)). In a 2019 campaign quote that remains part of his public record, Corson said, "Every opportunity I've had in my life is due to the education I received from attending Shawnee Mission public schools" ([source](https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7)). LinkedIn's public preview also showed him posting about returning to Shawnee Mission South, his old high school, and talking with students ([harvest](social-harvest.md#linkedin-public-preview)).
+  - Source: https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kansasreflector.com online-reference** [soc-ethan-corson-0005] On health care, the visible 2026 gubernatorial material emphasizes access and rural distance rather than a detailed program. At a March 8, 2026 Democratic debate, Corson said, "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor" ([source](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)). The campaign site also surfaced mental-health language, including snippets about school mental-health services and mental health as a concern for "parents to first responders and farmers" ([source](https://ethanforkansas.com/about)). In the captured harvest, health care and mental health appear in 2 of 21 coded artifacts ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ethan-corson-0006] | s-campaign-home | primary | https://ethanforkansas.com/ | accessed 2026-05-19 | Candidate-controlled biography, issues, embedded X feed, social links, paid-for line | status, biography, issues, social |
+  - Source: https://ethanforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ethan-corson-0008] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0029] 2026-05-09 -- "I started the morning with the Johnson County Dems to talk about what's at stake in this election. I've ru..."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ethan-corson-0121] The current campaign-site embedded X feed included the excerpt: "We've defended reproductive rights before and we'll do it again in August and in November. As governor, I..." No standalone detailed abortion platform page was found.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ethan-corson-0122] Local social harvest captured a candidate-controlled public footprint centered on campaign travel, affordability, schools, business/economic development, healthcare/mental health, and bipartisan governing style. Current campaign-site readback on 2026-05-19 added more recent embedded X excerpts than the May 11 local harvest, including reproductive-rights language, family/basketball, Tallgrass Creek outreach, Shawnee Mission school posts, Garden City/baseball commentary, Harvey County Democrats, and Johnson County Democrats.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0123] Abortion / Sanctity of Life: Has not taken a clear, specific public position in the governor's race, though his Democratic platform and party alignment suggest support for abortion access.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ethan-corson-0124] X / Twitter: @ethancorson is linked from the campaign site and embedded on the homepage. Logged-out direct X did not provide a reliable full timeline, but the campaign embed exposed current post excerpts. Current excerpts included campaign travel, basketball/family, public-school biography, Tallgrass Creek outreach, Garden City Community College/baseball, and reproductive-rights language: "We've defended reproductive rights before and we'll do it again in August and in November. As governor, I..." The embed did not expose reliable engagement counts.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 11. Public safety / law enforcement / criminal justice
+
+Public safety / law enforcement / criminal justice: 16 selected evidence items from 83 mapped rows. Public URL-backed rows: 25.
+
+### Evidence
+- **documented-record** [em-ethan-corson-00047] | s-ksleg-sb206 | primary | https://www.kslegislature.gov/b2025_26/bills/SB206/ | accessed 2026-05-19 | Bill requested by Sen. Ethan Corson concerning offender registration for certain controlled-substance distribution convictions causing great bodily harm or death | public safety / drugs |
+  - Source: https://www.kslegislature.gov/b2025_26/bills/SB206/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00048] | s-ksleg-sb477 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb477/ | accessed 2026-05-19 | Corson-sponsored first responder scholarship program bill; died | public safety / education |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/sb477/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00051] | s-ksleg-sb313 | primary | https://kslegislature.gov/b2025_26/bills/sb313/ | accessed 2026-05-19 | Corson-sponsored bill prohibiting legislators from trading stocks/securities during legislative sessions; died | ethics |
+  - Source: https://kslegislature.gov/b2025_26/bills/sb313/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00204] Kansas Ethics filing: [SW01EC_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00226] https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00239] Kansas Ethics filing index: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00240] 2026 filing PDF: [SW01EC_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00426] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-00046] | s-ksleg-hb2479-ccr | primary | https://kslegislature.gov/li/b2025_26/measures/vote_view/je_20260326202956_013688/ | accessed 2026-05-19 | Senate adopted HB 2479 conference committee report, March 26, 2026; Corson listed among yea votes | public safety |
+  - Source: https://kslegislature.gov/li/b2025_26/measures/vote_view/je_20260326202956_013688/
+  - Confidence/use: confirmed / use
+- **faith-community-record** [em-ethan-corson-00312] Assessment: The "core values" language is suggestive but not conclusive. His background is law enforcement and military -- both communities where faith can be deeply held but not publicly displayed. No specific church identified. Recommend direct inquiry.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:239
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00044] | s-ksleg-hb2479 | primary | https://www.kslegislature.gov/li/b2025_26/measures/hb2479/ | accessed 2026-05-19 | Electronic monitoring with victim notification for certain domestic violence/stalking/protective-order defendants; signed by governor | public safety |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/hb2479/
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-00045] | s-ksleg-hb2479-final | primary | https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt | accessed 2026-05-19 | Senate final action amended on HB 2479, March 10, 2026; 40 yea, Corson yea | public safety |
+  - Source: https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-00149] Issue Area 6 - Public Safety, First Responders, Domestic Violence, and Drugs
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:258
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00308] Retired Hays Police officer (19 years HPD + military police = 22 years total)
+  - Source: memory/candidates/ethan-corson/raw-dump.md:234
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00332] FHSU graduate, 24 years law enforcement
+  - Source: memory/candidates/ethan-corson/raw-dump.md:290
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-01350] Ellis County Sheriff primary (if on cycle -- VERIFY)
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2143
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0173] "text": "Corson's public campaign framing emphasizes bipartisan, moderate governance; the current campaign page did not present a detailed elections or court-selection platform.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 12. Agriculture / rural economy / water
+
+Agriculture / rural economy / water: 37 selected evidence items from 95 mapped rows. Public URL-backed rows: 12.
+
+### Evidence
+- **candidate-stated** [em-ethan-corson-01647] Healthcare: Supports expanding healthcare access, especially in rural Kansas. Said "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor."
+  - Source: memory/candidates/ethan-corson/site-profile.md:35
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ethan-corson-01648] Agriculture / Tariffs: Opposes Trump-era tariffs on Kansas farmers. Called them "a completely self-inflicted wound that the federal government has put on Kansas farmers."
+  - Source: memory/candidates/ethan-corson/site-profile.md:37
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ethan-corson-01649] Small Business: Says small business is "how we rebuild rural Kansas" and wants to make Kansas more affordable for entrepreneurs.
+  - Source: memory/candidates/ethan-corson/site-profile.md:39
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ethan-corson-02301] "stance": "Supports expanding healthcare access, especially in rural Kansas. Said \"Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor.\""
+  - Source: ui/src/data/candidates.ts:18574
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ethan-corson-02305] "stance": "Says small business is \"how we rebuild rural Kansas\" and wants to make Kansas more affordable for entrepreneurs."
+  - Source: ui/src/data/candidates.ts:18582
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00008] On health care, the visible 2026 gubernatorial material emphasizes access and rural distance rather than a detailed program. At a March 8, 2026 Democratic debate, Corson said, "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor" ([source](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)). The campaign site also surfaced mental-health language, including snippets about school mental-health services and mental health as a concern for "parents to first responders and farmers" ([source](https://ethanforkansas.com/about)). In the captured harvest, health care and mental health appear in 2 of 21 coded artifacts ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00059] | s-ks-reflector-debate | secondary | https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/ | published 2026-03-08; accessed 2026-05-19 | Democratic debate coverage on affordability, healthcare, rural Kansas | healthcare / rural |
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00749] > -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-01096] [Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-02317] "source": "Kansas Reflector, March 8, 2026, https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00006] Corson's economic message combines affordability with business recruitment and local-chamber outreach. The campaign-site X embed included April 27 and April 29 posts on rising costs, including: "Affordability isn't an abstract issue in Kansas, it's the difference between building a stable life and co..." and "From rural communities to our biggest cities, Kansans are feeling the pressure of rising costs and stretched b..." ([harvest](social-harvest.md#campaign-site--x-feed-posts)). LinkedIn's public preview showed posts about meeting Pittsburg city and chamber leadership and the Lawrence Chamber of Commerce, including a line about how as governor he would "support businesses of all sizes and keep growing..." ([harvest](social-harvest.md#linkedin-public-preview)).
+  - Source: memory/candidates/ethan-corson/in-their-own-words.md:13
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00120] The campaign says Corson worked with Republican and Democratic colleagues to eliminate the food sales tax, cut property taxes, remove taxes on Social Security, and deliver targeted tax relief for seniors, veterans, and middle-class Kansans. It also says Kansas should be affordable, with lower taxes and thriving new businesses.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:181
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00125] Campaign biography: Corson connects Commerce/International Trade Administration experience to business recruitment and farmer export markets. Source: s-campaign-home.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:189
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-02319] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-02354] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ethan-corson-00097] Kansas City Star reported March 19, 2026 that Corson faced questions over a $1,000 CoreCivic contribution to his 2024 Senate re-election campaign, and that his gubernatorial campaign said the same amount was donated to a Johnson County food bank. The article also reported Corson said he had not accepted and would not accept CoreCivic contributions in the gubernatorial race.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:127
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-00479] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/ethan-corson/raw-dump.md:648
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-01487] Democratic primary: Senator Ethan Corson (Fairway attorney, emphasizes bipartisan deal-making, helped eliminate the grocery sales tax), Senator Cindy Holscher (Overland Park, farm-raised, led repeal of Brownback tax cuts, founded Bipartisan Women's Caucus).
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2426
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-01504] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2463
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-ethan-corson-01811] Democratic forum coverage, November 25, 2025: Corson was described as emphasizing his Kansas public-school path, Garden City Community College, legislative work, and ability to deliver under Republican supermajorities. ([Kansas Reflector](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/))
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01812] Debate coverage, March 8, 2026: "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor." ([Kansas Reflector](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/))
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01782] Topic: Rural / western Kansas biography
+  - Source: memory/candidates/ethan-corson/social-harvest.md:44
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01785] 2026-05-04 -- "Great to be in Lyon County at the Chili & Cinnamon Roll event this weekend with good food and even better ..."
+  - Source: memory/candidates/ethan-corson/social-harvest.md:50
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01791] 2026-04-27 -- "From rural communities to our biggest cities, Kansans are feeling the pressure of rising costs and stretched b..."
+  - Source: memory/candidates/ethan-corson/social-harvest.md:62
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01792] Topic: Affordability / rural and urban Kansas
+  - Source: memory/candidates/ethan-corson/social-harvest.md:64
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01824] | Rural Kansas / statewide geography | 2 | 10% |
+  - Source: memory/candidates/ethan-corson/social-harvest.md:105
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01833] The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.
+  - Source: memory/candidates/ethan-corson/social-harvest.md:117
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ethan-corson-00010] Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible candidate-controlled social capture through May 11, 2026 ([harvest](social-harvest.md#visible-absences)). The public biographical record identifies Corson as Jewish, but the captured campaign social material does not make faith a major campaign theme ([harvest](social-harvest.md#visible-absences)).
+  - Source: memory/candidates/ethan-corson/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ethan-corson-00670] This is not surprising -- Ellis County was settled by German-Catholic Volga Germans in the 1870s, and Catholicism remains the dominant faith tradition. The three Catholic parishes in Hays (St. Joseph, Immaculate Heart of Mary, St. Nicholas of Myra) plus the surrounding rural parishes form the backbone of the local power structure.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:987
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ethan-corson-00773] Corson is the strongest Democratic candidate by every measurable metric: money, endorsements, and institutional support. His "common sense, common ground" messaging is designed to appeal to moderate Republicans and independents in a red state. His Jewish faith is notable in a heavily Christian state -- he does not appear to foreground it. His labor law background and union representation work will be a double-edged sword: appeals to working families but provides ammunition for Republican attacks. His time at the Kansas Democratic Party gives him deep institutional knowledge of the state's political machinery. The 8,000-mile crisscross of Kansas shows a serious effort to compete in rural areas, which is the Democratic Party's greatest weakness in the state.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1152
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ethan-corson-00837] Holscher has the most compelling personal narrative in the Democratic field -- granddaughter of tenant farmers, daughter of a construction worker and school custodian, first-generation college graduate, single mom who worked her way up through Sprint. Her legislative record is genuinely bipartisan, and her 9 years in the statehouse give her more governing experience than Corson. But the Kelly-endorsed Corson has outflanked her on money and endorsements. Her school voucher critique is razor-sharp and resonates in rural Kansas where there simply are no private schools. Her silence on faith is notable -- in Kansas politics, that is a gap that opponents will exploit. The pressure campaign story is politically damaging to the Democratic establishment more than to Holscher herself.
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1274
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-01098] [Kansas Reflector: Rural voter appeal (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Confidence/use: likely / use
+- **background-context** [em-ethan-corson-01118] [Kansas Reflector: Rural voters (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Confidence/use: likely / use
+- **background-context** [em-ethan-corson-01139] [Schooley Mitchell: Eberly Farm / Kids Closet story](https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/)
+  - Source: https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/
+  - Confidence/use: likely / use
+- **background-context** [em-ethan-corson-00141] Issue Area 5 - Healthcare, Mental Health, and Rural Access
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:237
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00165] Issue Area 8 - Agriculture, Rural Kansas, and Trade
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:301
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00296] His identified priorities: water, population growth, economic development
+  - Source: memory/candidates/ethan-corson/raw-dump.md:192
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-ethan-corson-0002] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kansasreflector.com online-reference** [soc-ethan-corson-0005] On health care, the visible 2026 gubernatorial material emphasizes access and rural distance rather than a detailed program. At a March 8, 2026 Democratic debate, Corson said, "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor" ([source](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)). The campaign site also surfaced mental-health language, including snippets about school mental-health services and mental health as a concern for "parents to first responders and farmers" ([source](https://ethanforkansas.com/about)). In the captured harvest, health care and mental health appear in 2 of 21 coded artifacts ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ethan-corson-0008] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0009] The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong kansasreflector.com post** [soc-ethan-corson-0015] Democratic forum coverage, November 25, 2025: Corson was described as emphasizing his Kansas public-school path, Garden City Community College, legislative work, and ability to deliver under Republican supermajorities. ([Kansas Reflector](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/))
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong kansasreflector.com post** [soc-ethan-corson-0027] Debate coverage, March 8, 2026: "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor." ([Kansas Reflector](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/))
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0030] Topic: Rural / western Kansas biography
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0031] 2026-05-04 -- "Great to be in Lyon County at the Chili & Cinnamon Roll event this weekend with good food and even better ..."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0032] 2026-04-27 -- "From rural communities to our biggest cities, Kansans are feeling the pressure of rising costs and stretched b..."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0033] Topic: Affordability / rural and urban Kansas
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 13. Local governance / transparency / ethics
+
+Local governance / transparency / ethics: 34 selected evidence items from 664 mapped rows. Public URL-backed rows: 138.
+
+### Evidence
+- **candidate-stated** [em-ethan-corson-00174] Engagement remains limited by logged-out platform access. Use platform-level metrics from the local harvest only with capture dates: Facebook 2,027 likes and 220 talking about this; Instagram 757 followers, 13 following, and 256 posts; LinkedIn 2K followers and 500+ connections. Do not publish post-level engagement totals unless directly captured.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:325
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ethan-corson-01958] "Local May 11, 2026 harvest recorded Facebook, Instagram, X embed, LinkedIn preview, and platform absences"
+  - Source: memory/candidates/ethan-corson/v2-issues.yaml:230
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-00004] Corson presents himself as a bipartisan, moderate, results-focused Democrat rather than an ideological fighter. In his launch statement, he said, "I'm not interested in the partisan battles you see on cable news. Kansans want leaders who work together, regardless of political party, to get things done" ([source](https://kansasreflector.com/2025/07/22/kansas-sen-ethan-corson-enters-race-for-democratic-partys-nomination-for-governor/)). On the Kansas Reflector podcast, he said Kansas does not need a governor who will move the state "to the right" or "to the left," but one who will "move this state forward" ([source](https://kansasreflector.com/2025/09/02/kansas-senator-makes-common-sense-common-ground-pitch-for-democratic-nomination-for-governor/)). That same interview captured his preferred governing formula as "common sense, common ground moderate leadership" across party lines ([source…
+  - Source: https://kansasreflector.com/2025/07/22/kansas-sen-ethan-corson-enters-race-for-democratic-partys-nomination-for-governor/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00007] Public schools are both a policy message and a personal biography signal. His campaign site leads with "Better Schools," and indexed campaign snippets refer to mental health services in schools and special education funding ([harvest](social-harvest.md#campaign-website-issue-language)). In a 2019 campaign quote that remains part of his public record, Corson said, "Every opportunity I've had in my life is due to the education I received from attending Shawnee Mission public schools" ([source](https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7)). LinkedIn's public preview also showed him posting about returning to Shawnee Mission South, his old high school, and talking with students ([harvest](social-harvest.md#linkedin-public-preview)).
+  - Source: https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00008] On health care, the visible 2026 gubernatorial material emphasizes access and rural distance rather than a detailed program. At a March 8, 2026 Democratic debate, Corson said, "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor" ([source](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)). The campaign site also surfaced mental-health language, including snippets about school mental-health services and mental health as a concern for "parents to first responders and farmers" ([source](https://ethanforkansas.com/about)). In the captured harvest, health care and mental health appear in 2 of 21 coded artifacts ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00026] | s-sos-candidate-info-2026 | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing framework; Governor/Lt. Governor office up in 2026; filing deadline June 1, 2026; candidate not filed until petition/declaration and fee received | official status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00030] | s-ksleg-member | primary | https://www.kslegislature.gov/b2025_26/legislators/sen_corson_ethan_1/ | accessed 2026-05-19 | Senate District 7, Johnson County; Democrat; Senate Caucus Chair; attorney; Senate service 2021-present; committees | officeholder status, record |
+  - Source: https://www.kslegislature.gov/b2025_26/legislators/sen_corson_ethan_1/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ethan-corson-00052] | s-campaign-home | primary | https://ethanforkansas.com/ | accessed 2026-05-19 | Candidate-controlled biography, issues, embedded X feed, social links, paid-for line | status, biography, issues, social |
+  - Source: https://ethanforkansas.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00056] | s-ks-reflector-launch | secondary | https://kansasreflector.com/2025/07/22/kansas-sen-ethan-corson-enters-race-for-democratic-partys-nomination-for-governor/ | published 2025-07-22; accessed 2026-05-19 | Launch coverage and quote about avoiding partisan cable-news battles | campaign context |
+  - Source: https://kansasreflector.com/2025/07/22/kansas-sen-ethan-corson-enters-race-for-democratic-partys-nomination-for-governor/
+  - Confidence/use: likely / use
+- **documented-record** [em-ethan-corson-00057] | s-ks-reflector-podcast | secondary | https://kansasreflector.com/2025/09/02/kansas-senator-makes-common-sense-common-ground-pitch-for-democratic-nomination-for-governor/ | published 2025-09-02; accessed 2026-05-19 | "Common sense, common ground" framing | campaign context |
+  - Source: https://kansasreflector.com/2025/09/02/kansas-senator-makes-common-sense-common-ground-pitch-for-democratic-nomination-for-governor/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-00003] Across the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, "It's about kitchen table issues. Better Schools. Lower Taxes." and frames the race around "Opportunities for the next generation of Kansans, so they can build a life right here" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says he was raised on values to "work hard, give back whenever you can and always keep your word" ([source](https://ethanforkansas.com/about)). In the topic-coded harvest, affordability, taxes, and cost of living appear in 5 of 21 visible artifacts, while education and public schools appear in 4 of 21 ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://ethanforkansas.com/about
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-00027] | s-kpdc-statewide-2026 | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm | accessed 2026-05-19 | KPDC statewide index lists Corson under gubernatorial candidates; page last updated Jan. 22, 2026; links AT and 202601 filings | official status, finance |
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-ethan-corson-00028] | s-kpdc-treasurer | primary | https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01EC_AT.pdf | accessed 2026-05-19 | Appointment of Treasurer PDF link from KPDC index; text extraction was not readable in this environment | official status, finance |
+  - Source: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01EC_AT.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-ethan-corson-00029] | s-kpdc-202601 | primary | https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf | filed 2026-01-09; accessed 2026-05-19 | Candidate name, Office Sought Governor, 2025 receipts/expenditures/cash/in-kind/other transactions, itemized contributions, treasurer signature Tom Hawk | finance |
+  - Source: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-ethan-corson-00043] | s-ksleg-sb361-ccr | primary | https://kslegislature.gov/li/b2025_26/measures/vote_view/je_20260327220310_770542/ | accessed 2026-05-19 | Senate SB 361 conference committee report adopted; Corson listed among nay votes | education / school choice |
+  - Source: https://kslegislature.gov/li/b2025_26/measures/vote_view/je_20260327220310_770542/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-ethan-corson-00046] | s-ksleg-hb2479-ccr | primary | https://kslegislature.gov/li/b2025_26/measures/vote_view/je_20260326202956_013688/ | accessed 2026-05-19 | Senate adopted HB 2479 conference committee report, March 26, 2026; Corson listed among yea votes | public safety |
+  - Source: https://kslegislature.gov/li/b2025_26/measures/vote_view/je_20260326202956_013688/
+  - Confidence/use: confirmed / use
+- **social-online-signal** [em-ethan-corson-00005] The captured X feed embedded on Corson's campaign site shows a candidate physically campaigning across Democratic organizations, counties, and local events in late April and early May 2026. On May 9, 2026, the embedded feed showed posts thanking the Harvey County Democrats and Johnson County Democrats. On May 4, he posted about being in Lyon County at a chili and cinnamon roll event. On April 30, he wrote that April had the campaign "crisscrossing Kansas" with "miles on the road" and "conversations in every corner" ([harvest](social-harvest.md#campaign-site--x-feed-posts)). The campaign-site embed also surfaced a May 7 post tying his Garden City Telegram interview to his college-town biography ([source](https://twitter.com/ethancorson/status/2052514742099439889)).
+  - Source: https://twitter.com/ethancorson/status/2052514742099439889
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-00053] | s-campaign-facebook | social | https://www.facebook.com/ethanforkansas | local harvest 2026-05-11 | Public campaign page metadata; 2,027 likes and 220 talking about this at local capture | social |
+  - Source: https://www.facebook.com/ethanforkansas
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-00054] | s-campaign-instagram | social | https://www.instagram.com/ethanforkansas/ | local harvest 2026-05-11 | Public campaign account metadata; 757 followers, 13 following, 256 posts at local capture | social |
+  - Source: https://www.instagram.com/ethanforkansas/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01708] Facebook: https://www.facebook.com/ethanforkansas is linked from the campaign site and was identified in local harvest as an active public page. Local May 11 harvest recorded 2,027 likes and 220 talking about this from logged-out metadata.
+  - Source: https://www.facebook.com/ethanforkansas`
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01709] Instagram: https://www.instagram.com/ethanforkansas/ is linked from the campaign site and was identified in local harvest as an active public account. Local May 11 harvest recorded 757 followers, 13 following, and 256 posts from logged-out metadata.
+  - Source: https://www.instagram.com/ethanforkansas/`
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01754] Facebook: [Ethan for Kansas](https://www.facebook.com/ethanforkansas) -- active public page. Logged-out metadata on 2026-05-11 showed 2,027 likes and 220 talking about this; page description: "Ethan Corson is running for Governor of Kansas. He is currently the Senator for State Senate, District 7."
+  - Source: https://www.facebook.com/ethanforkansas
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01755] Instagram: [@ethanforkansas](https://www.instagram.com/ethanforkansas/) -- active public campaign account. Logged-out metadata on 2026-05-11 showed 757 followers, 13 following, and 256 posts. Bio text: "Running for Governor of Kansas. State Senator, District 7."
+  - Source: https://www.instagram.com/ethanforkansas/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ethan-corson-01756] LinkedIn: [Ethan Corson](https://www.linkedin.com/in/ethancorson/) -- active public profile preview. Search-indexed preview showed Kansas City Metropolitan Area, State of Kansas, 2K followers, 500+ connections, and recent activity about Pittsburg city/chamber leadership, the Lawrence Chamber of Commerce, and Shawnee Mission South.
+  - Source: https://www.linkedin.com/in/ethancorson/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ethan-corson-00403] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ethan-corson-00600] [KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ethan-corson-00107] Local research identifies Corson as publicly Jewish. This pass did not confirm a current synagogue affiliation. The existing UI data includes a church object pointing to Immaculate Heart of Mary Parish; that appears inconsistent with the verified public record for Corson and should not be carried forward without direct correction.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:149
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ethan-corson-00259] CONFIRMED = Named church/denomination found in official profile, news article, or candidate bio
+  - Source: memory/candidates/ethan-corson/raw-dump.md:119
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-00031] | s-ksleg-vote-2025 | primary | https://www.kslegislature.gov/li/b2025_26/members/documents/sen_corson_ethan_1_vote_record_2025.html | accessed 2026-05-19 | Corson's official 2025 Senate vote history | action evidence |
+  - Source: https://www.kslegislature.gov/li/b2025_26/members/documents/sen_corson_ethan_1_vote_record_2025.html
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-00322] [City Manager's Office - Hays](https://www.haysusa.com/149/City-Managers-Office)
+  - Source: https://www.haysusa.com/149/City-Managers-Office
+  - Confidence/use: confirmed / use
+- **background-context** [em-ethan-corson-00334] [Kansas Sheriffs' Association - Ellis County](https://www.kansassheriffs.org/county_map/county/914)
+  - Source: https://www.kansassheriffs.org/county_map/county/914
+  - Confidence/use: likely / use
+- **background-context** [em-ethan-corson-00349] [HaysPost: New Ellis County Attorney](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1)
+  - Source: https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1
+  - Confidence/use: likely / use
+- **background-context** [em-ethan-corson-00392] [FHSU: Germans from Russia in Ellis County](https://fhsuguides.fhsu.edu/kansasheritage/elliscounty)
+  - Source: https://fhsuguides.fhsu.edu/kansasheritage/elliscounty
+  - Confidence/use: likely / use
+- **background-context** [em-ethan-corson-00411] [Ellis County Register of Deeds](https://www.ellisco.net/100/Register-of-Deeds)
+  - Source: https://www.ellisco.net/100/Register-of-Deeds
+  - Confidence/use: confirmed / use
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-ethan-corson-0002] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous ethanforkansas.com online-reference** [soc-ethan-corson-0003] Across the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, "It's about kitchen table issues. Better Schools. Lower Taxes." and frames the race around "Opportunities for the next generation of Kansans, so they can build a life right here" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says he was raised on values to "work hard, give back whenever you can and always keep your word" ([source](https://ethanforkansas.com/about)). In the topic-coded harvest, affordability, taxes, and cost of living appear in 5 of 21 visible artifacts, while education and public schools appear in 4 of 21 ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous LinkedIn online-reference** [soc-ethan-corson-0004] Public schools are both a policy message and a personal biography signal. His campaign site leads with "Better Schools," and indexed campaign snippets refer to mental health services in schools and special education funding ([harvest](social-harvest.md#campaign-website-issue-language)). In a 2019 campaign quote that remains part of his public record, Corson said, "Every opportunity I've had in my life is due to the education I received from attending Shawnee Mission public schools" ([source](https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7)). LinkedIn's public preview also showed him posting about returning to Shawnee Mission South, his old high school, and talking with students ([harvest](social-harvest.md#linkedin-public-preview)).
+  - Source: https://kcjc.com/section-blog/1819-news/archived-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kansasreflector.com online-reference** [soc-ethan-corson-0005] On health care, the visible 2026 gubernatorial material emphasizes access and rural distance rather than a detailed program. At a March 8, 2026 Democratic debate, Corson said, "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor" ([source](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)). The campaign site also surfaced mental-health language, including snippets about school mental-health services and mental health as a concern for "parents to first responders and farmers" ([source](https://ethanforkansas.com/about)). In the captured harvest, health care and mental health appear in 2 of 21 coded artifacts ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ethan-corson-0006] | s-campaign-home | primary | https://ethanforkansas.com/ | accessed 2026-05-19 | Candidate-controlled biography, issues, embedded X feed, social links, paid-for line | status, biography, issues, social |
+  - Source: https://ethanforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-ethan-corson-0007] Campaign website: https://ethanforkansas.com/ is active. Current readback on 2026-05-19 showed donation, volunteer, contact, Facebook, X, and Instagram links, plus an embedded X feed.
+  - Source: https://ethanforkansas.com/`
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ethan-corson-0008] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong X / Twitter post** [soc-ethan-corson-0010] The captured X feed embedded on Corson's campaign site shows a candidate physically campaigning across Democratic organizations, counties, and local events in late April and early May 2026. On May 9, 2026, the embedded feed showed posts thanking the Harvey County Democrats and Johnson County Democrats. On May 4, he posted about being in Lyon County at a chili and cinnamon roll event. On April 30, he wrote that April had the campaign "crisscrossing Kansas" with "miles on the road" and "conversations in every corner" ([harvest](social-harvest.md#campaign-site--x-feed-posts)). The campaign-site embed also surfaced a May 7 post tying his Garden City Telegram interview to his college-town biography ([source](https://twitter.com/ethancorson/status/2052514742099439889)).
+  - Source: https://twitter.com/ethancorson/status/2052514742099439889
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0011] 2026-05-07 -- "I had a great chat with the Garden City Telegram when I was back in my college town last month. I'm runnin..."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong kansasreflector.com post** [soc-ethan-corson-0015] Democratic forum coverage, November 25, 2025: Corson was described as emphasizing his Kansas public-school path, Garden City Community College, legislative work, and ability to deliver under Republican supermajorities. ([Kansas Reflector](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/))
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 14. Environment / energy / land use
+
+Environment / energy / land use: 17 selected evidence items from 17 mapped rows. Public URL-backed rows: 4.
+
+### Evidence
+- **documented-record** [em-ethan-corson-00145] 2025 vote: Corson voted yea on SB 82 and HB 2249, concerning physical-environment waivers for certain rural emergency hospitals to provide skilled nursing facility care. Source: s-ksleg-vote-2025.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:248
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-01320] The City of Hays manages its own water utility through the city commission
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2088
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-02067] summary: "Voted yea on rural emergency hospital physical-environment waiver measures, including SB 82/HB 2249."
+  - Source: memory/candidates/ethan-corson/v2-issues.yaml:435
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-02470] "observation": "The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.",
+  - Source: ui/src/data/v2/ethan-corson.ts:224
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-02471] "observation": "Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible...",
+  - Source: ui/src/data/v2/ethan-corson.ts:234
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ethan-corson-02484] "body": "Voted yea on rural emergency hospital physical-environment waiver measures, including SB 82/HB 2249.",
+  - Source: ui/src/data/v2/ethan-corson.ts:343
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-00028] | s-kpdc-treasurer | primary | https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01EC_AT.pdf | accessed 2026-05-19 | Appointment of Treasurer PDF link from KPDC index; text extraction was not readable in this environment | official status, finance |
+  - Source: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01EC_AT.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-ethan-corson-02319] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ethan-corson-02354] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ethan-corson-00068] KPDC statewide index says the 2026 statewide office page was last updated January 22, 2026 and lists "Corson, Ethan" under gubernatorial candidates. The page links his AT and 202601 report. The AT PDF was not text-readable in this environment, but the index, 202601 report, and campaign paid-for line confirm an active campaign-finance trail.
+  - Source: memory/candidates/ethan-corson/raw-dump-v2.md:77
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ethan-corson-01733] The AT PDF is image/scanned in this environment; the KPDC index and campaign paid-for line anchor treasurer/campaign status better than the scanned AT text.
+  - Source: memory/candidates/ethan-corson/sleuth-pass.md:63
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-ethan-corson-01833] The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.
+  - Source: memory/candidates/ethan-corson/social-harvest.md:117
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ethan-corson-00010] Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible candidate-controlled social capture through May 11, 2026 ([harvest](social-harvest.md#visible-absences)). The public biographical record identifies Corson as Jewish, but the captured campaign social material does not make faith a major campaign theme ([harvest](social-harvest.md#visible-absences)).
+  - Source: memory/candidates/ethan-corson/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-01155] [NOLN: Strickland Brothers franchise owner](https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor)
+  - Source: https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor
+  - Confidence/use: likely / use
+- **background-context** [em-ethan-corson-01023] Largest national franchise owner, Strickland Brothers 10 Minute Oil Change -- locations across Kansas including Andover, El Dorado, Derby, Pittsburg, Fort Scott, Independence
+  - Source: memory/candidates/ethan-corson/raw-dump.md:1622
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-01318] Water District / Utility Boards
+  - Source: memory/candidates/ethan-corson/raw-dump.md:2086
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ethan-corson-02255] "occupation": "Manager, Environment, Health & Safety at PureField Ingredients (Russell, KS)",
+  - Source: ui/src/data/candidates.ts:11215
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-ethan-corson-0002] narrative: "*A summary of what Ethan Corson has publicly said, posted, and amplified across candidate-controlled public channels and credible indexed public coverage. Drawn from his campaign website, embedded X feed, Facebook, Instagram, LinkedIn previews, official legislative/caucus profile, and public reporting between July 22, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" ([harvest](social-harvest.md#campaign-website-issue-language)). The same site says h…
+  - Source: https://ethanforkansas.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ethan-corson-0008] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-ethan-corson-0009] The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0120] Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible candidate-controlled social capture through May 11, 2026 ([harvest](social-harvest.md#visible-absences)). The public biographical record identifies Corson as Jewish, but the captured campaign social material does not make faith a major campaign theme ([harvest](social-harvest.md#visible-absences)).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0127] "observation": "The captured candidate-controlled social material did not show sustained original posts on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ethan-corson-0128] "observation": "Across the captured period, the candidate-controlled public footprint does not show sustained social posting on abortion, LGBTQ+ policy, gun policy, immigration, marijuana, water rights, energy policy, or religious-liberty policy. Those may exist in questionnaires, legislative votes, interviews, private/platform-limited content, or future campaign material, but they were not prominent in the visible...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.

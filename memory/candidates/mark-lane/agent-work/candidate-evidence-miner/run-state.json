@@ -1,0 +1,34 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "mark-lane",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/mark-lane/in-their-own-words.md",
+    "memory/candidates/mark-lane/raw-dump-v2.md",
+    "memory/candidates/mark-lane/sleuth-pass.md",
+    "memory/candidates/mark-lane/social-harvest.md",
+    "memory/candidates/mark-lane/v2-issues.yaml",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/mark-lane.ts"
+  ],
+  "files_written": [
+    "memory/candidates/mark-lane/evidence-matrix-raw.json",
+    "memory/candidates/mark-lane/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/mark-lane/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/mark-lane/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/mark-lane/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs mark-lane"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for mark-lane."
+  ],
+  "handoff_summary": "Extracted 400 raw evidence rows for mark-lane."
+}

@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "erik-murray",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/erik-murray/evidence-matrix-raw.json",
+    "memory/candidates/erik-murray/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/erik-murray/evidence-matrix.json",
+    "memory/candidates/erik-murray/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/erik-murray/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/erik-murray/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs erik-murray"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for erik-murray.",
+    "Run source-tier-validator for erik-murray."
+  ],
+  "handoff_summary": "Built final evidence matrix for erik-murray: 8716 raw rows to 3339 deduplicated rows."
+}

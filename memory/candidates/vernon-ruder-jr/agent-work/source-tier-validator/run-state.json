@@ -1,0 +1,28 @@
+{
+  "agent_id": "source-tier-validator",
+  "agent_role": "Source quality auditor",
+  "candidate_slug": "vernon-ruder-jr",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/vernon-ruder-jr/evidence-matrix.json"
+  ],
+  "files_written": [
+    "memory/candidates/vernon-ruder-jr/source-audit.json",
+    "memory/candidates/vernon-ruder-jr/source-audit.md",
+    "memory/candidates/vernon-ruder-jr/agent-work/source-tier-validator/run-state.json",
+    "memory/candidates/vernon-ruder-jr/agent-work/source-tier-validator/notes.md",
+    "memory/candidates/vernon-ruder-jr/agent-work/source-tier-validator/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs vernon-ruder-jr"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Use source-audit.md during fixed-issue-matrix-builder for vernon-ruder-jr."
+  ],
+  "handoff_summary": "Audited 325 unique source records for vernon-ruder-jr."
+}

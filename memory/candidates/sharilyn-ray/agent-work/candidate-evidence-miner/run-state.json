@@ -1,0 +1,34 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "sharilyn-ray",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/sharilyn-ray/in-their-own-words.md",
+    "memory/candidates/sharilyn-ray/raw-dump-v2.md",
+    "memory/candidates/sharilyn-ray/sleuth-pass.md",
+    "memory/candidates/sharilyn-ray/social-harvest.md",
+    "memory/candidates/sharilyn-ray/v2-issues.yaml",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/sharilyn-ray.ts"
+  ],
+  "files_written": [
+    "memory/candidates/sharilyn-ray/evidence-matrix-raw.json",
+    "memory/candidates/sharilyn-ray/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/sharilyn-ray/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/sharilyn-ray/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/sharilyn-ray/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs sharilyn-ray"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for sharilyn-ray."
+  ],
+  "handoff_summary": "Extracted 410 raw evidence rows for sharilyn-ray."
+}

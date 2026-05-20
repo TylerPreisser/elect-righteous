@@ -1,0 +1,1506 @@
+# Fixed 14-Issue Matrix — sandy-spidel-neumann — 2026-05-20
+
+This matrix is built from `evidence-matrix.json`, `social-evidence-matrix.json`, and `source-audit.json`. It is a candidate-rebuild input, not final public prose.
+
+## 1. Abortion / life
+
+Abortion / life: 26 selected evidence items from 64 mapped rows. Public URL-backed rows: 2.
+
+### Evidence
+- **candidate-stated** [em-sandy-spidel-neumann-01217] Opposes taxpayer funding of abortion providers
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1661
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01219] Has said he opposes abortion including in cases of rape and incest
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1663
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00139] The campaign biography says she will fight for "protecting reproductive freedom." The issue page places reproductive policy inside healthcare, saying she supports keeping the government out of women's healthcare decisions. In the Kansas Reflector April profile, she tied Kansas judicial-selection changes to women's healthcare, education funding, and voting rights. Existing social harvest includes a Nov. 14, 2024 Bluesky post supporting the Equal Rights Amendment.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:206
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00140] Campaign-controlled biography: names protecting reproductive freedom as a campaign priority. Source: s-campaign-home.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:210
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00388] Protecting reproductive freedom
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:245
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00533] Changed from pro-life to pro-choice after "Kansans voted for bodily autonomy" in the 2022 abortion referendum
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:504
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00547] Key Quote: His website says he changed his mind on abortion after "Kansans voted for bodily autonomy." (KCUR)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:524
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00723] Kansas is not as red as it looks on paper. The 2022 abortion referendum (Value Them Both Amendment) was defeated 59%-41%, proving that Kansas voters will cross party lines on specific issues. Gov. Laura Kelly, a Democrat, won two terms. The question is whether any of these Democrats can replicate that crossover appeal at the federal level.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:821
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00816] *"In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:182
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00953] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:472
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01678] [National Pro-Life Scorecard](https://sbaprolife.org/senator/roger-marshall)
+  - Source: https://sbaprolife.org/senator/roger-marshall
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-sandy-spidel-neumann-00632] Five candidates spoke to 150+ attendees: Hart, Davis, Spidel Neumann, Parelkar, Murray. This was the first major joint appearance. Issues raised: education, immigration, healthcare, tariffs, reproductive rights.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01209] Pro-life scorecard: 100% -- Voted pro-life on every single recorded vote (20/20 as House member, continued in Senate)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1653
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01210] National Pro-Life Scorecard (SBA Pro-Life America): Perfect score
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1654
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01646] Very few vulnerabilities from the right; Heritage Action 89-94%, pro-life 100%, NRA-aligned, Trump-endorsed
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2254
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-sandy-spidel-neumann-00043] | s-bsky-era | social | https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o | posted 2024-11-14; local harvest accessed 2026-05-19 | Equal Rights Amendment post | civil rights, reproductive-rights context |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-sandy-spidel-neumann-01174] His pro-life stance is directly connected to his faith and his experience delivering 5,000+ babies
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1602
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-01195] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-01501] "Tonight, we must still go to bed with faith and hope, for tomorrow we must be as dedicated to the sanctity of life." (After Value Them Both defeat)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2051
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-01926] Adoption: Given up for adoption at birth into a "right wing, fundamentalist, Roman Catholic family" (pre-Roe v. Wade)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2736
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00137] Issue Area 2 - Abortion / Reproductive Freedom
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:200
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00544] Former Republican who called himself "conservative" and "pro-life" as recently as 2019 -- position shifts invite scrutiny
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:520
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00549] Ideological inconsistency (conservative pro-life Republican in 2019, now running as a Democrat)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:530
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00813] Reproductive freedom
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:975
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00971] Website headline: "PRO-LIFE. PRO-GUN. PRO-TRUMP."
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1301
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00986] *"PRO-LIFE. PRO-GUN. PRO-TRUMP."* (hawkinsforinsurance.com)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1324
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **strong Bluesky post** [soc-sandy-spidel-neumann-0004] | s-bsky-era | social | https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o | posted 2024-11-14; local harvest accessed 2026-05-19 | Equal Rights Amendment post | civil rights, reproductive-rights context |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0128] The campaign biography says she will fight for "protecting reproductive freedom." The issue page places reproductive policy inside healthcare, saying she supports keeping the government out of women's healthcare decisions. In the Kansas Reflector April profile, she tied Kansas judicial-selection changes to women's healthcare, education funding, and voting rights. Existing social harvest includes a Nov. 14, 2024 Bluesky post supporting the Equal Rights Amendment.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0129] *"In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0130] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0131] Because she has not held office, Spidel Neumann's public record is mostly professional. Her campaign says Roger Marshall's conduct in office, including the atmosphere around a western Kansas town hall, helped push her into the race. Her message has focused on health care costs, reproductive rights, Social Security, Medicare, the VA, and support for farmers.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0132] > "In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0133] "Biography names lowering costs, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, school safety, and opportunity"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0134] "theirRecord": "Because she has not held office, Spidel Neumann's public record is mostly professional. Her campaign says Roger Marshall's conduct in office, including the atmosphere around a western Kansas town hall, helped push her into the race. Her message has focused on health care costs, reproductive rights, Social Security, Medicare, the VA, and support for farmers. Her early financial filing is also part of the public record. It showed a serious launch by Democratic-primary standards, including a six-figure candidate loan. That does not substitute for governing experience, but it does tell voters that she entered the race with the means to build a campaign rather than test the waters quietly.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0135] "text": "In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0136] "observation": "Issue mapping: healthcare/Medicaid, Social Security/Medicare adjacency, reproductive healthcare, rural hospitals, drug prices.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 2. LGBT / gender / parental rights
+
+LGBT / gender / parental rights: 10 selected evidence items from 10 mapped rows. Public URL-backed rows: 0.
+
+### Evidence
+- **candidate-stated** [em-sandy-spidel-neumann-01946] LGBTQ+ rights champion: Supports the Equality Act and the Respect for Marriage Act
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2761
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-02380] Marriage & Family / LGBTQ+ Policy: Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources.
+  - Source: memory/candidates/sandy-spidel-neumann/site-profile.md:17
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-02384] School Choice / Parental Rights in Education: Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources.
+  - Source: memory/candidates/sandy-spidel-neumann/site-profile.md:25
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00219] Missing issue statements: no candidate-controlled standalone statement found for marriage/LGBTQ policy, religious liberty, marijuana/drug policy, or broad Second Amendment policy beyond school-safety gun-safety language.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:395
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-02500] LGBTQ policy / marriage / marijuana: no candidate-controlled standalone statement found in reviewed materials.
+  - Source: memory/candidates/sandy-spidel-neumann/sleuth-pass.md:50
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-02519] Any candidate-controlled standalone position on marriage/LGBTQ policy, religious liberty, marijuana/drug policy, or broad Second Amendment policy beyond school-safety language.
+  - Source: memory/candidates/sandy-spidel-neumann/sleuth-pass.md:75
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-02875] "text": "No candidate-controlled standalone statement was found on marriage/LGBTQ policy, religious liberty, marijuana/drug policy, or broad Second Amendment policy beyond school-safety gun-safety language. This profile should not infer positions from party label, follows, likes, faith wording, or associations.",
+  - Source: ui/src/data/v2/sandy-spidel-neumann.ts:642
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00534] Supported the Respect for Marriage Act (2022) -- protections for same-sex marriage
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:505
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-03021] "issue": "Marriage & Family / LGBTQ+ Policy",
+  - Source: ui/src/data/candidates.ts:5261
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-03027] "issue": "School Choice / Parental Rights in Education",
+  - Source: ui/src/data/candidates.ts:5277
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0138] Marriage & Family / LGBTQ+ Policy: Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0139] School Choice / Parental Rights in Education: Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 3. Education / curriculum / schools
+
+Education / curriculum / schools: 27 selected evidence items from 107 mapped rows. Public URL-backed rows: 3.
+
+### Evidence
+- **candidate-stated** [em-sandy-spidel-neumann-00789] Said she wants to restore funding for Medicaid, special education and affordable housing programs (KCUR, Dec 30, 2025)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:925
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01395] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1899
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-02384] School Choice / Parental Rights in Education: Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources.
+  - Source: memory/candidates/sandy-spidel-neumann/site-profile.md:25
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-02668] "Education plank supports retaining the Department of Education, restoring special-education funding, and common-sense gun safety for schools"
+  - Source: memory/candidates/sandy-spidel-neumann/v2-issues.yaml:95
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00032] | s-campaign-issues | primary | https://sandyforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue page: agriculture, healthcare, education, veterans, economic policy | issue positions |
+  - Source: https://sandyforkansas.com/issues/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00120] The campaign website identifies Spidel Neumann as a Democrat for U.S. Senate. It says she was born in Topeka, adopted as a newborn, grew up in Johnson County, graduated second in her class at Shawnee Mission North, represented Kansas at Girls State and Girls Nation, earned an economics degree from the University of Chicago, and earned an MBA from Northwestern's Kellogg School of Management while working full time.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:165
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00139] The campaign biography says she will fight for "protecting reproductive freedom." The issue page places reproductive policy inside healthcare, saying she supports keeping the government out of women's healthcare decisions. In the Kansas Reflector April profile, she tied Kansas judicial-selection changes to women's healthcare, education funding, and voting rights. Existing social harvest includes a Nov. 14, 2024 Bluesky post supporting the Equal Rights Amendment.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:206
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00154] The campaign issue page says education is a strong investment in the future and supports keeping the Department of Education as a cabinet-level agency, restoring special-education funding, and enacting common-sense gun-safety legislation to keep children and educators safe at school. The campaign biography also lists "working to make kids safer at school" among priorities.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:244
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00155] Campaign issue page: education plank includes Department of Education, special education, and school safety. Source: s-campaign-issues.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:248
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00156] Campaign biography: names school safety as a Washington priority. Source: s-campaign-home.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:249
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00219] Missing issue statements: no candidate-controlled standalone statement found for marriage/LGBTQ policy, religious liberty, marijuana/drug policy, or broad Second Amendment policy beyond school-safety gun-safety language.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:395
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00273] Education: Associate degree, Cowley County Community College (2017)
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:70
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-00632] Five candidates spoke to 150+ attendees: Hart, Davis, Spidel Neumann, Parelkar, Murray. This was the first major joint appearance. Issues raised: education, immigration, healthcare, tariffs, reproductive rights.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-00845] Born/Raised: Kansas City, Kansas. Attended Sumner Academy (magnet high school).
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1053
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01623] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2224
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-sandy-spidel-neumann-02541] | Facebook | Yes | https://www.facebook.com/people/Sandy-for-Kansas/61582078721885/ | Official site /facebook redirects here. Logged-out metadata: "Sandy for Kansas, Overland Park. 2,974 likes · 1,505 talking about this. Daughter of Kansas. Student of economics. Problem solver. Running for U.S. Senate because Kansans deserve better. 🌻..." |
+  - Source: https://www.facebook.com/people/Sandy-for-Kansas/61582078721885/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02542] | Instagram | Yes | https://www.instagram.com/speumann/ | Logged-out metadata: "949 Followers, 3,751 Following, 233 Posts - See Instagram photos and videos from Sandy Spidel Neumann (@speumann)"; profile text includes "Daughter of Kansas. Student of economics. Problem solver. Fighter for fairness. Running for U.S. Senate to deliver for Kansas families. 🌻" |
+  - Source: https://www.instagram.com/speumann/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-sandy-spidel-neumann-00996] Education: B.A. in Business Administration, Trevecca Nazarene University (1999) -- *note: Trevecca is a Church of the Nazarene university in Nashville, TN, suggesting a faith background*
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1348
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-01585] First Christian Church, Great Bend -- Elder, Deacon, Board Chairman, Sunday School Teacher (25+ years)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2165
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-01650] 25+ years of genuine church leadership (elder, deacon, board chair, Sunday school teacher)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2259
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-01855] Childhood faith: Attended Fellowship Christian Church with his grandmother; also attended St. Patrick's Catholic School
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2604
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00152] Issue Area 4 - Education and School Safety
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:238
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00290] Education:
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:889
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00291] Sedgwick High School (Harvey County, Kansas)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:105
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00336] Family: Married to Megan; parents were both public school teachers; six generations of Kansas farmers, miners, and teachers
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:167
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00338] Education: Bachelor's degree, Tufts University (2013)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:169
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00362] Tufts University education may not resonate in rural Kansas
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:205
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **strong Facebook post** [soc-sandy-spidel-neumann-0005] | Facebook | Yes | https://www.facebook.com/people/Sandy-for-Kansas/61582078721885/ | Official site /facebook redirects here. Logged-out metadata: "Sandy for Kansas, Overland Park. 2,974 likes · 1,505 talking about this. Daughter of Kansas. Student of economics. Problem solver. Running for U.S. Senate because Kansans deserve better. 🌻..." |
+  - Source: https://www.facebook.com/people/Sandy-for-Kansas/61582078721885/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Instagram follow** [soc-sandy-spidel-neumann-0006] | Instagram | Yes | https://www.instagram.com/speumann/ | Logged-out metadata: "949 Followers, 3,751 Following, 233 Posts - See Instagram photos and videos from Sandy Spidel Neumann (@speumann)"; profile text includes "Daughter of Kansas. Student of economics. Problem solver. Fighter for fairness. Running for U.S. Senate to deliver for Kansas families. 🌻" |
+  - Source: https://www.instagram.com/speumann/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0128] The campaign biography says she will fight for "protecting reproductive freedom." The issue page places reproductive policy inside healthcare, saying she supports keeping the government out of women's healthcare decisions. In the Kansas Reflector April profile, she tied Kansas judicial-selection changes to women's healthcare, education funding, and voting rights. Existing social harvest includes a Nov. 14, 2024 Bluesky post supporting the Equal Rights Amendment.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0129] *"In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0132] > "In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0133] "Biography names lowering costs, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, school safety, and opportunity"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0135] "text": "In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0137] "observation": "The campaign biography says she will fight for \"protecting reproductive freedom.\" The issue page places reproductive policy inside healthcare, saying she supports keeping the government out of women's healthcare decisions. In the Kansas Reflector April profile, she tied Kansas judicial-selection changes to women's healthcare, education funding, and voting rights. Existing social harvest includes a Nov. 14, 2024...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0139] School Choice / Parental Rights in Education: Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0140] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 4. Religious liberty / church / civic morality
+
+Religious liberty / church / civic morality: 8 selected evidence items from 71 mapped rows. Public URL-backed rows: 0.
+
+### Evidence
+- **candidate-stated** [em-sandy-spidel-neumann-02381] Religious Liberty: Runs as a Democrat. No specific personal statement found in public sources.
+  - Source: memory/candidates/sandy-spidel-neumann/site-profile.md:19
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00219] Missing issue statements: no candidate-controlled standalone statement found for marriage/LGBTQ policy, religious liberty, marijuana/drug policy, or broad Second Amendment policy beyond school-safety gun-safety language.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:395
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-02519] Any candidate-controlled standalone position on marriage/LGBTQ policy, religious liberty, marijuana/drug policy, or broad Second Amendment policy beyond school-safety language.
+  - Source: memory/candidates/sandy-spidel-neumann/sleuth-pass.md:75
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-00220] Faith affiliation: no current church affiliation or worship location found.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:396
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-00500] Self-described as "white, male, Christian, hetero, 2A-friendly, LEO-friendly" -- consciously positions himself as electable in red Kansas
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:447
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-00506] Self-description as "white, male, Christian, hetero" could alienate parts of Democratic base
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:456
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-00511] Described himself as "white, male, Christian, hetero, 2A-friendly, LEO-friendly, and very clearly anti-pedo" as reasons he's the best Democratic candidate. (Kansas Reflector)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:462
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-03023] "issue": "Religious Liberty",
+  - Source: ui/src/data/candidates.ts:5265
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0143] Faith / religious liberty: no current church affiliation or religious-liberty platform was confirmed. The campaign bio uses "felt called" in a civic sense, but this pass does not infer religious belief or policy from that wording.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 5. Taxes / spending / debt
+
+Taxes / spending / debt: 29 selected evidence items from 66 mapped rows. Public URL-backed rows: 5.
+
+### Evidence
+- **candidate-stated** [em-sandy-spidel-neumann-00455] Supports Opportunity Zones program (tax incentives for economically distressed areas)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:371
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-00855] Described the disconnect *"between what capital wants and what community wants"* as his motivation. Said *"politician-created problems"* such as tariffs and tax policies that benefit billionaires *"are tearing apart the fabric of our communities."*
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1066
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-00859] Opportunity Zones: Supports federal tax incentive programs for investment in economically distressed areas
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1078
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01273] Said the US is "$34 trillion in debt, paying a trillion dollars on interest alone"
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1723
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01384] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1884
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01876] Supports Opportunity Zones program (tax incentives for investment in distressed areas)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2642
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-02695] "Dec. 12, 2025 post says ACA premium tax credits should be extended while healthcare affordability is addressed"
+  - Source: memory/candidates/sandy-spidel-neumann/v2-issues.yaml:156
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-02731] "text": "Spidel Neumann supports reinstating Medicaid funding, extending ACA premium-tax-credit subsidies, keeping government out of women's healthcare decisions, and pushing pharmaceutical companies to reduce drug prices. She frames healthcare as especially important for rural hospitals and middle-class Kansans.",
+  - Source: ui/src/data/v2/sandy-spidel-neumann.ts:25
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00530] Campaign Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (hosted on Canva -- indicates minimal campaign budget/infrastructure)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00076] A candidate is not considered filed until the petition or declaration and fee are received.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:93
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00079] U.S. Senator filing fee total is $1,760, or a petition threshold of 1% party for party candidates.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:96
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00129] The campaign issue page says recent policy changes are harming access to healthcare and health insurance, that Medicaid reimbursement cuts threaten rural hospitals, and that expiring ACA premium-tax-credit subsidies threaten middle-class coverage. It says Spidel Neumann supports reinstating Medicaid funding, extending ACA subsidies, keeping government out of women's healthcare decisions, and fighting pharmaceutical companies on drug prices.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:185
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00166] The campaign homepage says she is running to lower costs, defend freedoms, protect Social Security and Medicare, and ensure opportunity for Kansans. The economic-policy plank criticizes national debt, says economic policy should benefit everyone, supports restoring accurate and transparent economic reporting, and supports programs that expand employment opportunities and economic growth. A Dec. 18, 2025 Bluesky post cites AAA gas-price data for Kansas counties. Kansas Reflector's April profile reports her emphasis on business principles, data, and strategic decision-making.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:278
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00169] 2026 campaign issue page: economic-policy plank includes debt, transparent economic reporting, employment opportunity, and growth. Source: s-campaign-issues.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:284
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00351] Property tax reform (top issue in Statehouse; broke with party to support constitutional amendment capping property value increases for tax purposes)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:189
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-01216] Voted multiple times against using tax dollars for abortion
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1660
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-00020] Kansas SOS confirms the filing framework, but the live SOS candidate-list endpoint was not readable in this environment. The SOS candidate-information page says Democratic and Republican candidates run in the primary, national/state candidates file with the Secretary of State, and a candidate is not considered filed until the petition or declaration and fee are received. The primary filing deadline is noon Monday, June 1, 2026. The Johnson County Election Office candidate page lists Sandy Spidel Neumann as a Democratic U.S. Senate candidate, incumbent "No," city Overland Park, with website sandyforkansas.com. Treat her as an active FEC-filed candidate with official county-list evidence, while noting final statewide ballot certification remains pending before the June 1 filing deadline.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:15
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01326] Koch Industries was the biggest overall corporate donor to GOP spending groups ($13.75M total) -- strong Kansas connection
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1803
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01626] Senate Budget Committee
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2228
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01631] Budget Committee
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2234
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-02815] "summary": "No detailed tax plan, federal budget plan, or deficit-reduction scorecard was found.",
+  - Source: ui/src/data/v2/sandy-spidel-neumann.ts:392
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-sandy-spidel-neumann-00036] | s-bsky-aca | social | https://bsky.app/profile/speumann.bsky.social/post/3m7t2hxexnk2d | posted 2025-12-12; API accessed 2026-05-19 | ACA premium-tax-credit post; engagement 2 likes, 1 repost, 0 replies, 0 quotes | healthcare |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m7t2hxexnk2d
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-sandy-spidel-neumann-01195] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00887] Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **background-context** [em-sandy-spidel-neumann-01780] [Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)
+  - Source: https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/
+  - Confidence/use: likely / use
+- **background-context** [em-sandy-spidel-neumann-02164] [Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)
+  - Source: https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec
+  - Confidence/use: likely / use
+- **background-context** [em-sandy-spidel-neumann-00133] 2025-12-12, ACA post: She posted support for extending ACA premium tax credits while healthcare affordability is addressed. Source: s-bsky-aca.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:192
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00164] Issue Area 6 - Economic Policy, Costs, and Fiscal Stewardship
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:272
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00358] Property tax stance could appeal to rural/suburban voters across party lines
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:199
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-sandy-spidel-neumann-0007] | s-bsky-aca | social | https://bsky.app/profile/speumann.bsky.social/post/3m7t2hxexnk2d | posted 2025-12-12; API accessed 2026-05-19 | ACA premium-tax-credit post; engagement 2 likes, 1 repost, 0 replies, 0 quotes | healthcare |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m7t2hxexnk2d
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0144] The campaign homepage says she is running to lower costs, defend freedoms, protect Social Security and Medicare, and ensure opportunity for Kansans. The economic-policy plank criticizes national debt, says economic policy should benefit everyone, supports restoring accurate and transparent economic reporting, and supports programs that expand employment opportunities and economic growth. A Dec. 18, 2025 Bluesky post cites AAA gas-price data for Kansas counties. Kansas Reflector's April profile reports her emphasis on business principles, data, and strategic decision-making.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0145] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0146] Healthcare / Medicaid / ACA / drug prices: campaign issue page supports reinstating Medicaid funding, extending ACA subsidies, keeping government out of women's healthcare decisions, and reducing drug prices. Bluesky posts repeat ACA premium-tax-credit concerns.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0147] Economy / costs / fiscal stewardship: campaign issue page emphasizes middle-class families, transparent economic reporting, employment programs, economic growth, national debt, and costs to Kansans. Bluesky gas-price post gives a Kansas-specific cost signal.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0148] "text": "Her campaign centers lowering costs, opportunity, transparent economic reporting, employment opportunities, growth, and concern about national debt. Her social posts emphasize groceries, gas, housing, and Kansas county gas prices.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0149] "A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 6. Economy / jobs / labor
+
+Economy / jobs / labor: 26 selected evidence items from 70 mapped rows. Public URL-backed rows: 8.
+
+### Evidence
+- **candidate-stated** [em-sandy-spidel-neumann-01726] Small business: Supports reducing costs for working families and small businesses
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2370
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-02669] "Veterans plank supports healthcare, mental-health services, jobs, workforce training, small-business grants, housing assistance, and transition programs"
+  - Source: memory/candidates/sandy-spidel-neumann/v2-issues.yaml:96
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-02670] "Economic plank supports transparent economic reporting, employment opportunity, and economic growth"
+  - Source: memory/candidates/sandy-spidel-neumann/v2-issues.yaml:97
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00045] | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/ | 2026-04-27; accessed 2026-05-19 | Interview/profile on business background, ACA, tariffs, immigration, elections, accountability, foreign policy | issue positions |
+  - Source: https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00160] The campaign issue page says veteran support should include healthcare access, mental-health services, job opportunities, workforce training programs, small-business grants for veteran entrepreneurs, protections against homelessness, housing assistance, and transition programs. The campaign biography says she will defend Social Security, Medicare, and the VA. A public Bluesky post says she planned to attend a VoteVets Economic Town Hall with Sen. Elissa Slotkin and Rep. Sharice Davids.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:261
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00161] Campaign issue page: veterans plank names healthcare, mental health, jobs, entrepreneurship, homelessness protections, housing, and transition programs. Source: s-campaign-issues.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:265
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00166] The campaign homepage says she is running to lower costs, defend freedoms, protect Social Security and Medicare, and ensure opportunity for Kansans. The economic-policy plank criticizes national debt, says economic policy should benefit everyone, supports restoring accurate and transparent economic reporting, and supports programs that expand employment opportunities and economic growth. A Dec. 18, 2025 Bluesky post cites AAA gas-price data for Kansas counties. Kansas Reflector's April profile reports her emphasis on business principles, data, and strategic decision-making.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:278
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00169] 2026 campaign issue page: economic-policy plank includes debt, transparent economic reporting, employment opportunity, and growth. Source: s-campaign-issues.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:284
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00275] Career: Business administrator
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:72
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00378] 40-year career in business/financial services
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:230
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00397] 40-year business career gives "I know how the economy works" credibility
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:257
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01623] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2224
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-02518] Any campaign endorsement from a union, PAC, elected official, advocacy organization, or newspaper.
+  - Source: memory/candidates/sandy-spidel-neumann/sleuth-pass.md:74
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-sandy-spidel-neumann-00003] Across the [14 campaign-period original or quote Bluesky posts](./social-harvest.md#summary-counts) captured after her Oct. 16, 2025 launch, Sandy Spidel Neumann's repeated campaign subjects are Kansas costs, healthcare, farms, hospitals, families, and contrast with Sen. Roger Marshall. On launch day she posted, "Every Kansan deserves a fair shot: to afford groceries, gas, housing, and a future for their kids. That’s what I’m fighting for: lower costs, good jobs, and opportunity you can count on. Become a founding member of my campaign today! 🌻 #KansasStrong #SandyForKansas #FairShotForAll" ([source](https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f)). In another launch-day post she wrote, "Kansas deserves a Senator who shows up, answers tough questions, and works for us, not the other way around. Let’s fight for our farms, hospitals, and families together. 🌻" ([source]…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-00035] | s-bsky-gas | social | https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e | posted 2025-12-18; API accessed 2026-05-19 | Kansas gas-price post; engagement 4 likes, 1 repost, 0 replies, 0 quotes | economy, costs |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-00037] | s-bsky-shutdown-healthcare | social | https://bsky.app/profile/speumann.bsky.social/post/3m5bryouqls22 | posted 2025-11-10; API accessed 2026-05-19 | Shutdown and Kansas health-insurance premium post; engagement 1 like, 1 repost, 0 replies, 0 quotes | healthcare, economy |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m5bryouqls22
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-00038] | s-bsky-votevets | social | https://bsky.app/profile/speumann.bsky.social/post/3m4b4gysu5c27 | posted 2025-10-28; API accessed 2026-05-19 | VoteVets economic town hall post; engagement 2 likes, 1 repost, 0 replies, 0 quotes | veterans, economy |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m4b4gysu5c27
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02574] | 2025-10-16 | Post | Costs / opportunity | 0 likes, 0 reposts, 0 replies, 0 quotes | "Every Kansan deserves a fair shot: to afford groceries, gas, housing, and a future for their kids. That’s what I’m fighting for: lower costs, good jobs, and opportunity you can count on. Become a founding member of my campaign today! 🌻 #KansasStrong #SandyForKansas #FairShotForAll" | https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02603] Kansas Reflector candidate article and podcast, 2026-04-27: https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/
+  - Source: https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-sandy-spidel-neumann-00996] Education: B.A. in Business Administration, Trevecca Nazarene University (1999) -- *note: Trevecca is a Church of the Nazarene university in Nashville, TN, suggesting a faith background*
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1348
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-02047] [Nex-Tech: Shaun](https://www.nex-tech.com/business/shaun/)
+  - Source: https://www.nex-tech.com/business/shaun/
+  - Confidence/use: likely / use
+- **background-context** [em-sandy-spidel-neumann-00463] Business/developer background could appeal to moderates and Opportunity Zone supporters
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:383
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00558] Small business consultant (runs a consulting company for small businesses in/around Wichita)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:552
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00572] Small business owner gives economic credibility
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:574
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00858] Small Business: Lower costs for starting and running small businesses
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1077
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00998] Ran her own business as a personal chef
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1350
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **strong Bluesky post** [soc-sandy-spidel-neumann-0008] Across the [14 campaign-period original or quote Bluesky posts](./social-harvest.md#summary-counts) captured after her Oct. 16, 2025 launch, Sandy Spidel Neumann's repeated campaign subjects are Kansas costs, healthcare, farms, hospitals, families, and contrast with Sen. Roger Marshall. On launch day she posted, "Every Kansan deserves a fair shot: to afford groceries, gas, housing, and a future for their kids. That’s what I’m fighting for: lower costs, good jobs, and opportunity you can count on. Become a founding member of my campaign today! 🌻 #KansasStrong #SandyForKansas #FairShotForAll" ([source](https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f)). In another launch-day post she wrote, "Kansas deserves a Senator who shows up, answers tough questions, and works for us, not the other way around. Let’s fight for our farms, hospitals, and families together. 🌻" ([source]…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate Bluesky share/repost** [soc-sandy-spidel-neumann-0009] | s-bsky-gas | social | https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e | posted 2025-12-18; API accessed 2026-05-19 | Kansas gas-price post; engagement 4 likes, 1 repost, 0 replies, 0 quotes | economy, costs |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky like** [soc-sandy-spidel-neumann-0010] | s-bsky-shutdown-healthcare | social | https://bsky.app/profile/speumann.bsky.social/post/3m5bryouqls22 | posted 2025-11-10; API accessed 2026-05-19 | Shutdown and Kansas health-insurance premium post; engagement 1 like, 1 repost, 0 replies, 0 quotes | healthcare, economy |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m5bryouqls22
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-sandy-spidel-neumann-0011] | s-bsky-votevets | social | https://bsky.app/profile/speumann.bsky.social/post/3m4b4gysu5c27 | posted 2025-10-28; API accessed 2026-05-19 | VoteVets economic town hall post; engagement 2 likes, 1 repost, 0 replies, 0 quotes | veterans, economy |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m4b4gysu5c27
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-sandy-spidel-neumann-0012] | 2025-10-16 | Post | Costs / opportunity | 0 likes, 0 reposts, 0 replies, 0 quotes | "Every Kansan deserves a fair shot: to afford groceries, gas, housing, and a future for their kids. That’s what I’m fighting for: lower costs, good jobs, and opportunity you can count on. Become a founding member of my campaign today! 🌻 #KansasStrong #SandyForKansas #FairShotForAll" | https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong kansasreflector.com post** [soc-sandy-spidel-neumann-0013] Kansas Reflector candidate article and podcast, 2026-04-27: https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/
+  - Source: https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0144] The campaign homepage says she is running to lower costs, defend freedoms, protect Social Security and Medicare, and ensure opportunity for Kansans. The economic-policy plank criticizes national debt, says economic policy should benefit everyone, supports restoring accurate and transparent economic reporting, and supports programs that expand employment opportunities and economic growth. A Dec. 18, 2025 Bluesky post cites AAA gas-price data for Kansas counties. Kansas Reflector's April profile reports her emphasis on business principles, data, and strategic decision-making.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0147] Economy / costs / fiscal stewardship: campaign issue page emphasizes middle-class families, transparent economic reporting, employment programs, economic growth, national debt, and costs to Kansans. Bluesky gas-price post gives a Kansas-specific cost signal.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0148] "text": "Her campaign centers lowering costs, opportunity, transparent economic reporting, employment opportunities, growth, and concern about national debt. Her social posts emphasize groceries, gas, housing, and Kansas county gas prices.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0150] The campaign issue page says veteran support should include healthcare access, mental-health services, job opportunities, workforce training programs, small-business grants for veteran entrepreneurs, protections against homelessness, housing assistance, and transition programs. The campaign biography says she will defend Social Security, Medicare, and the VA. A public Bluesky post says she planned to attend a VoteVets Economic Town Hall with Sen. Elissa Slotkin and Rep. Sharice Davids.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 7. Guns / Second Amendment
+
+Guns / Second Amendment: 20 selected evidence items from 32 mapped rows. Public URL-backed rows: 0.
+
+### Evidence
+- **candidate-stated** [em-sandy-spidel-neumann-02668] "Education plank supports retaining the Department of Education, restoring special-education funding, and common-sense gun safety for schools"
+  - Source: memory/candidates/sandy-spidel-neumann/v2-issues.yaml:95
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00154] The campaign issue page says education is a strong investment in the future and supports keeping the Department of Education as a cabinet-level agency, restoring special-education funding, and enacting common-sense gun-safety legislation to keep children and educators safe at school. The campaign biography also lists "working to make kids safer at school" among priorities.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:244
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00219] Missing issue statements: no candidate-controlled standalone statement found for marriage/LGBTQ policy, religious liberty, marijuana/drug policy, or broad Second Amendment policy beyond school-safety gun-safety language.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:395
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00487] Friendly to the Second Amendment
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:430
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00953] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:472
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-01221] Gun / Second Amendment Votes
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1666
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-01222] Voted AGAINST the Bipartisan Safer Communities Act (June 2022) -- the gun reform bill that passed after Uvalde
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1667
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-01223] Called red flag laws provisions a "gun-grabbing scheme" that "violate the Second Amendment" and are "begging to be abused"
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1668
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-01225] Introduced pro-2A legislation:
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1670
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01646] Very few vulnerabilities from the right; Heritage Action 89-94%, pro-life 100%, NRA-aligned, Trump-endorsed
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2254
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-00500] Self-described as "white, male, Christian, hetero, 2A-friendly, LEO-friendly" -- consciously positions himself as electable in red Kansas
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:447
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-00511] Described himself as "white, male, Christian, hetero, 2A-friendly, LEO-friendly, and very clearly anti-pedo" as reasons he's the best Democratic candidate. (Kansas Reflector)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:462
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-00626] Hart has explicitly positioned himself as the most electable Democrat ("white, male, Christian, hetero, 2A-friendly, LEO-friendly"). This electability-vs-values tension will define the primary.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:673
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-01195] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00499] Pro-2A, pro-law enforcement positioning is unusual for a Democrat and could attract crossover voters
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:446
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00971] Website headline: "PRO-LIFE. PRO-GUN. PRO-TRUMP."
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1301
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00986] *"PRO-LIFE. PRO-GUN. PRO-TRUMP."* (hawkinsforinsurance.com)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1324
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-01056] | Branding | "Pro-Life. Pro-Gun. Pro-Trump." | Consumer champion; anti-industry |
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1435
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-01227] Fire Arms Safety Act -- tax credit for firearms safety courses or purchasing gun safes
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1672
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-01229] ATF Transparency Act -- speed up application processes for gun owners
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1674
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0130] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0141] Guns: only a school-safety framing was confirmed; no broader Second Amendment platform was found.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0142] "observation": "Guns: only a school-safety framing was confirmed; no broader Second Amendment platform was found.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0153] Guns / Second Amendment: Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 8. Immigration / border
+
+Immigration / border: 24 selected evidence items from 81 mapped rows. Public URL-backed rows: 9.
+
+### Evidence
+- **candidate-stated** [em-sandy-spidel-neumann-00832] Immigration Reform: *"We have a very big problem with immigration in our country right now, in the sense that there's a lot of confusion over it."* Supports reform that is "a solution, not another problem."
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1024
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01384] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1884
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01395] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1899
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01413] Platform: Consolidated children's healthcare program (replace Medicaid/CHIP patchwork), stronger antitrust and consumer protection laws, immigration reform
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1923
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00045] | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/ | 2026-04-27; accessed 2026-05-19 | Interview/profile on business background, ACA, tariffs, immigration, elections, accountability, foreign policy | issue positions |
+  - Source: https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00173] Kansas Reflector's April profile reports Spidel Neumann saying the country needs secure borders but that current ICE handling is not the "American way." The article reports her support for more accountability, training, body cameras, goals based on charges moving forward in court rather than number of arrests, and removal of Kristi Noem as Homeland Security secretary as a first move. Her Jan. 24, 2026 Bluesky post called for the Senate to vote against ICE funding until constitutional/legal operating procedures and training are implemented.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:296
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00179] Kansas Reflector reports Spidel Neumann saying elections are safe, opposing voter intimidation tactics such as ICE officers at polling places, opposing voter ID laws, and opposing eliminating mail-in voting. The same profile reports her criticism of a Kansas judicial-selection change that would move the state Supreme Court from nominating-commission selection toward direct judicial elections.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:313
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00205] The posts_no_replies feed returned no original/quote posts newer than Jan. 24, 2026. The visible campaign-period post set overlaps the existing social-harvest.md: launch, farms/hospitals/families, Hays protest, VoteVets town hall, expense criticism, Democratic organizing, ACA premiums, gas prices, Army/Navy personal content, and ICE.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:373
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00421] Member: Kansas Bar Association, Missouri Bar Association, American Immigration Lawyers Association
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:299
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00425] Immigration reform ("fix the broken system")
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:307
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00791] Weaknesses: Lost her only previous campaign (2020 KS-1 primary). The USDA role ties her directly to Biden, which is a liability in Kansas. Immigration platform (pathway to citizenship) may be too progressive for Kansas general election voters. The NRSC disclosure complaint, while procedural, gives opponents ammunition.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:929
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00836] Called for a full investigation of federal immigration enforcement actions (KCUR, Dec 30, 2025)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1030
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-00632] Five candidates spoke to 150+ attendees: Hart, Davis, Spidel Neumann, Parelkar, Murray. This was the first major joint appearance. Issues raised: education, immigration, healthcare, tariffs, reproductive rights.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01912] Parelkar is the only immigration attorney in the field, giving her unique professional credibility on an issue that dominates Kansas politics. However, she's not from Kansas -- born and raised in Arkansas, moved to Kansas through marriage. In a field where "5th-generation Kansan" and "6th-generation Kansan" are common descriptors, her transplant status is a weakness. Her children's healthcare consolidation proposal is the most specific policy proposal from any Democratic candidate. The Overland Park base puts her in the same Johnson County lane as Spidel Neumann and Murray.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2711
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-sandy-spidel-neumann-00006] On national and foreign-policy issues, her feed includes ICE, Ukraine, the Equal Rights Amendment, vaccines, cabinet nominations, and healthcare subsidies. On Jan. 24, 2026, she posted, "Another senseless killing by ICE in Mpls this morning. The Senate must vote against funding for ICE until the Admin removes ICE from MN and implements operating procedures that adhere to the Constitution, federal and state laws, and trains leaders/agents on them. SandyforKansas.com" ([source](https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q)). On Feb. 28, 2025, before her campaign launch, she wrote, "I #StandwithUkraine Pass it on." ([source](https://bsky.app/profile/speumann.bsky.social/post/3ljbdu5vwbc2l)). On Nov. 14, 2024, she posted, "I sent mine. Let’s generate some momentum for the #ERAnow. Equality under the Constitution matters. Send yours to comments@whitehouse.org. Here’s what…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-00034] | s-bsky-ice | social | https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q | posted 2026-01-24; API accessed 2026-05-19 | ICE accountability post; engagement 1 like, 0 reposts, 0 replies, 0 quotes | immigration |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02564] | 2026-01-24 | Post | ICE / federal enforcement | 1 like, 0 reposts, 0 replies, 0 quotes | "Another senseless killing by ICE in Mpls this morning. The Senate must vote against funding for ICE until the Admin removes ICE from MN and implements operating procedures that adhere to the Constitution, federal and state laws, and trains leaders/agents on them. SandyforKansas.com" | https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-sandy-spidel-neumann-01195] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00431] [Within Reason with Mike Matson (News Radio KMAN, March 2026)](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)
+  - Source: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+  - Confidence/use: likely / use
+- **background-context** [em-sandy-spidel-neumann-00442] [Kansas Reflector - Announcement (Aug 2025)](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-sandy-spidel-neumann-01067] [Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/) (Aug 25, 2025)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-sandy-spidel-neumann-01913] [Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-sandy-spidel-neumann-01916] [KMAN Radio: Within Reason interview](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)
+  - Source: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+  - Confidence/use: likely / use
+- **background-context** [em-sandy-spidel-neumann-00171] Issue Area 7 - Immigration, Border Enforcement, and ICE Accountability
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:290
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **strong Bluesky post** [soc-sandy-spidel-neumann-0014] On national and foreign-policy issues, her feed includes ICE, Ukraine, the Equal Rights Amendment, vaccines, cabinet nominations, and healthcare subsidies. On Jan. 24, 2026, she posted, "Another senseless killing by ICE in Mpls this morning. The Senate must vote against funding for ICE until the Admin removes ICE from MN and implements operating procedures that adhere to the Constitution, federal and state laws, and trains leaders/agents on them. SandyforKansas.com" ([source](https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q)). On Feb. 28, 2025, before her campaign launch, she wrote, "I #StandwithUkraine Pass it on." ([source](https://bsky.app/profile/speumann.bsky.social/post/3ljbdu5vwbc2l)). On Nov. 14, 2024, she posted, "I sent mine. Let’s generate some momentum for the #ERAnow. Equality under the Constitution matters. Send yours to comments@whitehouse.org. Here’s what…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky like** [soc-sandy-spidel-neumann-0015] | s-bsky-ice | social | https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q | posted 2026-01-24; API accessed 2026-05-19 | ICE accountability post; engagement 1 like, 0 reposts, 0 replies, 0 quotes | immigration |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky like** [soc-sandy-spidel-neumann-0016] | 2026-01-24 | Post | ICE / federal enforcement | 1 like, 0 reposts, 0 replies, 0 quotes | "Another senseless killing by ICE in Mpls this morning. The Senate must vote against funding for ICE until the Admin removes ICE from MN and implements operating procedures that adhere to the Constitution, federal and state laws, and trains leaders/agents on them. SandyforKansas.com" | https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0140] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0145] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0154] Kansas Reflector's April profile reports Spidel Neumann saying the country needs secure borders but that current ICE handling is not the "American way." The article reports her support for more accountability, training, body cameras, goals based on charges moving forward in court rather than number of arrests, and removal of Kristi Noem as Homeland Security secretary as a first move. Her Jan. 24, 2026 Bluesky post called for the Senate to vote against ICE funding until constitutional/legal operating procedures and training are implemented.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0155] 2026-01-24, ICE post: public Bluesky post calling for no ICE funding until operating procedures and training meet constitutional, federal, and state law standards. Source: s-bsky-ice.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0156] The posts_no_replies feed returned no original/quote posts newer than Jan. 24, 2026. The visible campaign-period post set overlaps the existing social-harvest.md: launch, farms/hospitals/families, Hays protest, VoteVets town hall, expense criticism, Democratic organizing, ACA premiums, gas prices, Army/Navy personal content, and ICE.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0157] Weaknesses: Lost her only previous campaign (2020 KS-1 primary). The USDA role ties her directly to Biden, which is a liability in Kansas. Immigration platform (pathway to citizenship) may be too progressive for Kansas general election voters. The NRSC disclosure complaint, while procedural, gives opponents ammunition.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0158] Platform: Consolidated children's healthcare program (replace Medicaid/CHIP patchwork), stronger antitrust and consumer protection laws, immigration reform
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 9. Health care / insurance / Medicaid
+
+Health care / insurance / Medicaid: 36 selected evidence items from 210 mapped rows. Public URL-backed rows: 16.
+
+### Evidence
+- **candidate-stated** [em-sandy-spidel-neumann-00789] Said she wants to restore funding for Medicaid, special education and affordable housing programs (KCUR, Dec 30, 2025)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:925
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01040] On her insurance commissioner platform: Focused on *"lowering costs, consumer protection and holding big insurance companies accountable."* (Kansas Reflector, January 2026)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1408
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01252] Has said: "I came to Congress to fix the cost of health care"
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1700
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01253] Called Obamacare a "miserable failure" -- said premiums doubled and average family deductible is $7,000-$9,000
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1701
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01257] Supports health ministry plans and association healthcare plans as alternatives
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1705
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01259] Promised healthcare vote before end of 2025
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1707
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01395] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1899
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01413] Platform: Consolidated children's healthcare program (replace Medicaid/CHIP patchwork), stronger antitrust and consumer protection laws, immigration reform
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1923
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00032] | s-campaign-issues | primary | https://sandyforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue page: agriculture, healthcare, education, veterans, economic policy | issue positions |
+  - Source: https://sandyforkansas.com/issues/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00044] | s-kansas-reflector-launch | secondary | https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/ | 2025-10-16; accessed 2026-05-19 | Launch article, biography, reason for running, Medicaid/tariffs/Farm Bill quotes | biography, healthcare, agriculture |
+  - Source: https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00045] | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/ | 2026-04-27; accessed 2026-05-19 | Interview/profile on business background, ACA, tariffs, immigration, elections, accountability, foreign policy | issue positions |
+  - Source: https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-01069] [Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker](https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/) (Jan 10, 2026)
+  - Source: https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-01071] [Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/) (May 13, 2025)
+  - Source: https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-01081] [Ballotpedia: Kansas Insurance Commissioner Election 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-02324] "the big abomination of a bill" - Kansas Reflector, brief coverage, https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/ (Medicaid cuts)
+  - Source: https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-02433] [Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/)
+  - Source: https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-sandy-spidel-neumann-00632] Five candidates spoke to 150+ attendees: Hart, Davis, Spidel Neumann, Parelkar, Murray. This was the first major joint appearance. Issues raised: education, immigration, healthcare, tariffs, reproductive rights.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-00980] Ordered SB 360 transferred between the House Insurance Committee and Health Committee four times since February 25, 2026
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1314
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01053] | Fundraising | ~$384K cash on hand (end of 2025) | Unknown; pledged no insurance industry money |
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1432
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01322] | Health/medical industry | Sector | Major donor category given his background |
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1798
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01623] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2224
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01912] Parelkar is the only immigration attorney in the field, giving her unique professional credibility on an issue that dominates Kansas politics. However, she's not from Kansas -- born and raised in Arkansas, moved to Kansas through marriage. In a field where "5th-generation Kansan" and "6th-generation Kansan" are common descriptors, her transplant status is a weakness. Her children's healthcare consolidation proposal is the most specific policy proposal from any Democratic candidate. The Overland Park base puts her in the same Johnson County lane as Spidel Neumann and Murray.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2711
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-sandy-spidel-neumann-00003] Across the [14 campaign-period original or quote Bluesky posts](./social-harvest.md#summary-counts) captured after her Oct. 16, 2025 launch, Sandy Spidel Neumann's repeated campaign subjects are Kansas costs, healthcare, farms, hospitals, families, and contrast with Sen. Roger Marshall. On launch day she posted, "Every Kansan deserves a fair shot: to afford groceries, gas, housing, and a future for their kids. That’s what I’m fighting for: lower costs, good jobs, and opportunity you can count on. Become a founding member of my campaign today! 🌻 #KansasStrong #SandyForKansas #FairShotForAll" ([source](https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f)). In another launch-day post she wrote, "Kansas deserves a Senator who shows up, answers tough questions, and works for us, not the other way around. Let’s fight for our farms, hospitals, and families together. 🌻" ([source]…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-00004] Her public alignment signals in the harvested feed run through Democratic accounts and VoteVets events. She wrote, "I'm attending the VoteVets Economic Town Hall with Senator Elissa Slotkin and featuring Representative Sharice Davids - sign up now to join me. #sandyforkansas #votevets www.mobilize.us/votevets/eve..." ([source](https://bsky.app/profile/speumann.bsky.social/post/3m4b4gysu5c27)). She also tagged @danpfeiffer.bsky.social in a shutdown and healthcare-premium post and tagged @senrogermarshall in an expense-reimbursement post. The [harvested Bluesky feed](./social-harvest.md#bluesky-representative-posts) did not show posts naming or reposting other Democratic primary candidates.
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m4b4gysu5c27
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-00006] On national and foreign-policy issues, her feed includes ICE, Ukraine, the Equal Rights Amendment, vaccines, cabinet nominations, and healthcare subsidies. On Jan. 24, 2026, she posted, "Another senseless killing by ICE in Mpls this morning. The Senate must vote against funding for ICE until the Admin removes ICE from MN and implements operating procedures that adhere to the Constitution, federal and state laws, and trains leaders/agents on them. SandyforKansas.com" ([source](https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q)). On Feb. 28, 2025, before her campaign launch, she wrote, "I #StandwithUkraine Pass it on." ([source](https://bsky.app/profile/speumann.bsky.social/post/3ljbdu5vwbc2l)). On Nov. 14, 2024, she posted, "I sent mine. Let’s generate some momentum for the #ERAnow. Equality under the Constitution matters. Send yours to comments@whitehouse.org. Here’s what…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-00036] | s-bsky-aca | social | https://bsky.app/profile/speumann.bsky.social/post/3m7t2hxexnk2d | posted 2025-12-12; API accessed 2026-05-19 | ACA premium-tax-credit post; engagement 2 likes, 1 repost, 0 replies, 0 quotes | healthcare |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m7t2hxexnk2d
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-00037] | s-bsky-shutdown-healthcare | social | https://bsky.app/profile/speumann.bsky.social/post/3m5bryouqls22 | posted 2025-11-10; API accessed 2026-05-19 | Shutdown and Kansas health-insurance premium post; engagement 1 like, 1 repost, 0 replies, 0 quotes | healthcare, economy |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m5bryouqls22
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-00041] | s-bsky-farms-hospitals | social | https://bsky.app/profile/speumann.bsky.social/post/3m3dgdmmzms2f | posted 2025-10-16; API accessed 2026-05-19 | Farms, hospitals, families post; engagement 0 likes, 0 reposts, 1 reply, 0 quotes | agriculture, healthcare |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dgdmmzms2f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02568] | 2025-11-10 | Post | Healthcare / shutdown | 1 like, 1 repost, 0 replies, 0 quotes | "@danpfeiffer.bsky.social makes strong points here, but it doesn't make the caving by 8 Senate Dems any more palatable. GOP's still responsible for the shutdown and driving up healthcare insurance premiums -- in Kansas, they're expected to raise 75-100%! Kansans deserve better. SandyforKansas.com" | https://bsky.app/profile/speumann.bsky.social/post/3m5bryouqls22 |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m5bryouqls22
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-sandy-spidel-neumann-01195] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-02431] [Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker](https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/)
+  - Source: https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/
+  - Confidence/use: likely / use
+- **background-context** [em-sandy-spidel-neumann-00126] Issue Area 1 - Healthcare, Medicaid, ACA Subsidies, and Drug Prices
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:179
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00133] 2025-12-12, ACA post: She posted support for extending ACA premium tax credits while healthcare affordability is addressed. Source: s-bsky-aca.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:192
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00134] 2025-11-10, healthcare premium post: She posted that Kansas healthcare insurance premiums were expected to rise 75-100% and tied the issue to the shutdown. Source: s-bsky-shutdown-healthcare.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:193
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00307] Healthcare access (especially rural hospitals and clinics)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:125
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00433] Specific, differentiated policy proposals (children's healthcare consolidation)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:325
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-sandy-spidel-neumann-0007] | s-bsky-aca | social | https://bsky.app/profile/speumann.bsky.social/post/3m7t2hxexnk2d | posted 2025-12-12; API accessed 2026-05-19 | ACA premium-tax-credit post; engagement 2 likes, 1 repost, 0 replies, 0 quotes | healthcare |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m7t2hxexnk2d
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-sandy-spidel-neumann-0008] Across the [14 campaign-period original or quote Bluesky posts](./social-harvest.md#summary-counts) captured after her Oct. 16, 2025 launch, Sandy Spidel Neumann's repeated campaign subjects are Kansas costs, healthcare, farms, hospitals, families, and contrast with Sen. Roger Marshall. On launch day she posted, "Every Kansan deserves a fair shot: to afford groceries, gas, housing, and a future for their kids. That’s what I’m fighting for: lower costs, good jobs, and opportunity you can count on. Become a founding member of my campaign today! 🌻 #KansasStrong #SandyForKansas #FairShotForAll" ([source](https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f)). In another launch-day post she wrote, "Kansas deserves a Senator who shows up, answers tough questions, and works for us, not the other way around. Let’s fight for our farms, hospitals, and families together. 🌻" ([source]…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky like** [soc-sandy-spidel-neumann-0010] | s-bsky-shutdown-healthcare | social | https://bsky.app/profile/speumann.bsky.social/post/3m5bryouqls22 | posted 2025-11-10; API accessed 2026-05-19 | Shutdown and Kansas health-insurance premium post; engagement 1 like, 1 repost, 0 replies, 0 quotes | healthcare, economy |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m5bryouqls22
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-sandy-spidel-neumann-0014] On national and foreign-policy issues, her feed includes ICE, Ukraine, the Equal Rights Amendment, vaccines, cabinet nominations, and healthcare subsidies. On Jan. 24, 2026, she posted, "Another senseless killing by ICE in Mpls this morning. The Senate must vote against funding for ICE until the Admin removes ICE from MN and implements operating procedures that adhere to the Constitution, federal and state laws, and trains leaders/agents on them. SandyforKansas.com" ([source](https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q)). On Feb. 28, 2025, before her campaign launch, she wrote, "I #StandwithUkraine Pass it on." ([source](https://bsky.app/profile/speumann.bsky.social/post/3ljbdu5vwbc2l)). On Nov. 14, 2024, she posted, "I sent mine. Let’s generate some momentum for the #ERAnow. Equality under the Constitution matters. Send yours to comments@whitehouse.org. Here’s what…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate Bluesky share/repost** [soc-sandy-spidel-neumann-0017] Her public alignment signals in the harvested feed run through Democratic accounts and VoteVets events. She wrote, "I'm attending the VoteVets Economic Town Hall with Senator Elissa Slotkin and featuring Representative Sharice Davids - sign up now to join me. #sandyforkansas #votevets www.mobilize.us/votevets/eve..." ([source](https://bsky.app/profile/speumann.bsky.social/post/3m4b4gysu5c27)). She also tagged @danpfeiffer.bsky.social in a shutdown and healthcare-premium post and tagged @senrogermarshall in an expense-reimbursement post. The [harvested Bluesky feed](./social-harvest.md#bluesky-representative-posts) did not show posts naming or reposting other Democratic primary candidates.
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m4b4gysu5c27
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky comment** [soc-sandy-spidel-neumann-0018] | s-bsky-farms-hospitals | social | https://bsky.app/profile/speumann.bsky.social/post/3m3dgdmmzms2f | posted 2025-10-16; API accessed 2026-05-19 | Farms, hospitals, families post; engagement 0 likes, 0 reposts, 1 reply, 0 quotes | agriculture, healthcare |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dgdmmzms2f
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky like** [soc-sandy-spidel-neumann-0019] | 2025-11-10 | Post | Healthcare / shutdown | 1 like, 1 repost, 0 replies, 0 quotes | "@danpfeiffer.bsky.social makes strong points here, but it doesn't make the caving by 8 Senate Dems any more palatable. GOP's still responsible for the shutdown and driving up healthcare insurance premiums -- in Kansas, they're expected to raise 75-100%! Kansans deserve better. SandyforKansas.com" | https://bsky.app/profile/speumann.bsky.social/post/3m5bryouqls22 |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m5bryouqls22
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0128] The campaign biography says she will fight for "protecting reproductive freedom." The issue page places reproductive policy inside healthcare, saying she supports keeping the government out of women's healthcare decisions. In the Kansas Reflector April profile, she tied Kansas judicial-selection changes to women's healthcare, education funding, and voting rights. Existing social harvest includes a Nov. 14, 2024 Bluesky post supporting the Equal Rights Amendment.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0129] *"In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0130] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 10. Election integrity / voting / courts
+
+Election integrity / voting / courts: 32 selected evidence items from 710 mapped rows. Public URL-backed rows: 112.
+
+### Evidence
+- **candidate-stated** [em-sandy-spidel-neumann-01205] He called it "a decision from my heart" and said he was "concerned then and I still am today that six states broke their own laws or their own constitution."
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1648
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01259] Promised healthcare vote before end of 2025
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1707
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-02839] "text": "Spidel Neumann says she supports enforceable codes of conduct across all three branches, transparency, no insider trading in any branch, loyalty to the Constitution, and public accountability.",
+  - Source: ui/src/data/v2/sandy-spidel-neumann.ts:519
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00029] | s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, offices up in 2026, filing fees, petition requirements | ballot status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-sandy-spidel-neumann-00030] | s-joco-candidates | primary | https://www.jocoelection.org/candidates-elected-officials/candidates | accessed 2026-05-19 | Official county election-office candidate list, U.S. Senate row for Sandy Spidel Neumann | ballot-status lead |
+  - Source: https://www.jocoelection.org/candidates-elected-officials/candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00031] | s-campaign-home | primary | https://sandyforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, biography, campaign address, campaign social links | biography, issue overview |
+  - Source: https://sandyforkansas.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00032] | s-campaign-issues | primary | https://sandyforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue page: agriculture, healthcare, education, veterans, economic policy | issue positions |
+  - Source: https://sandyforkansas.com/issues/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00044] | s-kansas-reflector-launch | secondary | https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/ | 2025-10-16; accessed 2026-05-19 | Launch article, biography, reason for running, Medicaid/tariffs/Farm Bill quotes | biography, healthcare, agriculture |
+  - Source: https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00045] | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/ | 2026-04-27; accessed 2026-05-19 | Interview/profile on business background, ACA, tariffs, immigration, elections, accountability, foreign policy | issue positions |
+  - Source: https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00048] | s-senate-ethics-disclosure | primary | https://www.ethics.senate.gov/public/index.cfm/financialdisclosure | accessed 2026-05-19 | Senate candidate financial-disclosure filing rules | disclosure rules |
+  - Source: https://www.ethics.senate.gov/public/index.cfm/financialdisclosure
+  - Confidence/use: confirmed / use
+- **documented-record** [em-sandy-spidel-neumann-00049] | s-nrsc-complaint | secondary | https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/ | 2026-03-11; accessed 2026-05-19 via search/local context | Partisan complaint alleging late personal financial disclosures by several Democratic Senate candidates including Spidel Neumann | disclosure controversy |
+  - Source: https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-sandy-spidel-neumann-00410] [FEC Filing](https://www.fec.gov/data/candidate/S6KS00262/)
+  - Source: https://www.fec.gov/data/candidate/S6KS00262/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-sandy-spidel-neumann-00635] FEC Race Page: [2026 Election - U.S. Senate - Kansas](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-sandy-spidel-neumann-01076] [FEC: 2026 Kansas Senate Election](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-sandy-spidel-neumann-01959] FEC Filing: [FEC Candidate H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/)
+  - Source: https://www.fec.gov/data/candidate/H6KS03258/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-sandy-spidel-neumann-02891] https://www.fec.gov/data/elections/senate/KS/2026/ -- FEC filing data -- accessed 2026-03-30
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-sandy-spidel-neumann-00020] Kansas SOS confirms the filing framework, but the live SOS candidate-list endpoint was not readable in this environment. The SOS candidate-information page says Democratic and Republican candidates run in the primary, national/state candidates file with the Secretary of State, and a candidate is not considered filed until the petition or declaration and fee are received. The primary filing deadline is noon Monday, June 1, 2026. The Johnson County Election Office candidate page lists Sandy Spidel Neumann as a Democratic U.S. Senate candidate, incumbent "No," city Overland Park, with website sandyforkansas.com. Treat her as an active FEC-filed candidate with official county-list evidence, while noting final statewide ballot certification remains pending before the June 1 filing deadline.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:15
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-sandy-spidel-neumann-00006] On national and foreign-policy issues, her feed includes ICE, Ukraine, the Equal Rights Amendment, vaccines, cabinet nominations, and healthcare subsidies. On Jan. 24, 2026, she posted, "Another senseless killing by ICE in Mpls this morning. The Senate must vote against funding for ICE until the Admin removes ICE from MN and implements operating procedures that adhere to the Constitution, federal and state laws, and trains leaders/agents on them. SandyforKansas.com" ([source](https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q)). On Feb. 28, 2025, before her campaign launch, she wrote, "I #StandwithUkraine Pass it on." ([source](https://bsky.app/profile/speumann.bsky.social/post/3ljbdu5vwbc2l)). On Nov. 14, 2024, she posted, "I sent mine. Let’s generate some momentum for the #ERAnow. Equality under the Constitution matters. Send yours to comments@whitehouse.org. Here’s what…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-00043] | s-bsky-era | social | https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o | posted 2024-11-14; local harvest accessed 2026-05-19 | Equal Rights Amendment post | civil rights, reproductive-rights context |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02545] | Threads | Yes, public metadata | https://www.threads.com/@speumann | Metadata: "748 Followers • 791 Threads • Defender of Democracy | sports & politics nut | mother of fur babies, wife of saint | #UChicago & #KelloggMBA | #chiefskingdom #foreverRoyal." Not used for post-level narrative because individual Threads were not reliably harvested. |
+  - Source: https://www.threads.com/@speumann
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02564] | 2026-01-24 | Post | ICE / federal enforcement | 1 like, 0 reposts, 0 replies, 0 quotes | "Another senseless killing by ICE in Mpls this morning. The Senate must vote against funding for ICE until the Admin removes ICE from MN and implements operating procedures that adhere to the Constitution, federal and state laws, and trains leaders/agents on them. SandyforKansas.com" | https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02580] | 2025-01-18 | Post | Personal / travel refund | 41 likes, 0 reposts, 1 reply, 0 quotes | "Began our 20th year of annual girls’ wknds — typically we do one over MLK wknd. We had planned to go to DC for the inauguration, but canceled the trip after the election. All Marriott DC rooms were nonrefundable, but they refunded me (after numerous calls and emails) the $4.5k." | https://bsky.app/profile/speumann.bsky.social/post/3lfze6lvv6k26 |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3lfze6lvv6k26
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02582] | 2024-11-14 | Post | Equal Rights Amendment | 4 likes, 1 repost, 0 replies, 0 quotes | "I sent mine. Let’s generate some momentum for the #ERAnow. Equality under the Constitution matters. Send yours to comments@whitehouse.org. Here’s what I sent if you need some inspo" | https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-sandy-spidel-neumann-01195] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-02875] "text": "No candidate-controlled standalone statement was found on marriage/LGBTQ policy, religious liberty, marijuana/drug policy, or broad Second Amendment policy beyond school-safety gun-safety language. This profile should not infer positions from party label, follows, likes, faith wording, or associations.",
+  - Source: ui/src/data/v2/sandy-spidel-neumann.ts:642
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-sandy-spidel-neumann-00982] Advocates accused him of "desperately maneuvering to sabotage" the vote
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1316
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-01031] Full voting record available at [kslegislature.gov](https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/)
+  - Source: https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/
+  - Confidence/use: confirmed / use
+- **background-context** [em-sandy-spidel-neumann-00075] "National, state, legislative, and judicial candidates file with the Secretary of State"
+  - Source: memory/candidates/sandy-spidel-neumann/v2-issues.yaml:56
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00125] Gap: No public office voting record was found for Spidel Neumann.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:175
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00177] Issue Area 8 - Elections, Courts, and Voting Access
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:307
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00357] Legislative experience and voting record to point to
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:198
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00509] "There are many Republicans who are in the wilderness right now. They are sort of like, 'the Republican Party that I grew up with is not the Republican Party right now,' and they are really struggling with where their place is in the world. And they're looking for someone who is someone they can vote for and not simply vote against." (Kansas Reflector, March 2026)
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:460
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous sandyforkansas.com online-reference** [soc-sandy-spidel-neumann-0001] | s-campaign-home | primary | https://sandyforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, biography, campaign address, campaign social links | biography, issue overview |
+  - Source: https://sandyforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-sandy-spidel-neumann-0004] | s-bsky-era | social | https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o | posted 2024-11-14; local harvest accessed 2026-05-19 | Equal Rights Amendment post | civil rights, reproductive-rights context |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong Bluesky post** [soc-sandy-spidel-neumann-0014] On national and foreign-policy issues, her feed includes ICE, Ukraine, the Equal Rights Amendment, vaccines, cabinet nominations, and healthcare subsidies. On Jan. 24, 2026, she posted, "Another senseless killing by ICE in Mpls this morning. The Senate must vote against funding for ICE until the Admin removes ICE from MN and implements operating procedures that adhere to the Constitution, federal and state laws, and trains leaders/agents on them. SandyforKansas.com" ([source](https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q)). On Feb. 28, 2025, before her campaign launch, she wrote, "I #StandwithUkraine Pass it on." ([source](https://bsky.app/profile/speumann.bsky.social/post/3ljbdu5vwbc2l)). On Nov. 14, 2024, she posted, "I sent mine. Let’s generate some momentum for the #ERAnow. Equality under the Constitution matters. Send yours to comments@whitehouse.org. Here’s what…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky like** [soc-sandy-spidel-neumann-0016] | 2026-01-24 | Post | ICE / federal enforcement | 1 like, 0 reposts, 0 replies, 0 quotes | "Another senseless killing by ICE in Mpls this morning. The Senate must vote against funding for ICE until the Admin removes ICE from MN and implements operating procedures that adhere to the Constitution, federal and state laws, and trains leaders/agents on them. SandyforKansas.com" | https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong threads.com post** [soc-sandy-spidel-neumann-0020] | Threads | Yes, public metadata | https://www.threads.com/@speumann | Metadata: "748 Followers • 791 Threads • Defender of Democracy | sports & politics nut | mother of fur babies, wife of saint | #UChicago & #KelloggMBA | #chiefskingdom #foreverRoyal." Not used for post-level narrative because individual Threads were not reliably harvested. |
+  - Source: https://www.threads.com/@speumann
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate Bluesky comment** [soc-sandy-spidel-neumann-0021] | 2025-01-18 | Post | Personal / travel refund | 41 likes, 0 reposts, 1 reply, 0 quotes | "Began our 20th year of annual girls’ wknds — typically we do one over MLK wknd. We had planned to go to DC for the inauguration, but canceled the trip after the election. All Marriott DC rooms were nonrefundable, but they refunded me (after numerous calls and emails) the $4.5k." | https://bsky.app/profile/speumann.bsky.social/post/3lfze6lvv6k26 |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3lfze6lvv6k26
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-sandy-spidel-neumann-0022] | 2024-11-14 | Post | Equal Rights Amendment | 4 likes, 1 repost, 0 replies, 0 quotes | "I sent mine. Let’s generate some momentum for the #ERAnow. Equality under the Constitution matters. Send yours to comments@whitehouse.org. Here’s what I sent if you need some inspo" | https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0128] The campaign biography says she will fight for "protecting reproductive freedom." The issue page places reproductive policy inside healthcare, saying she supports keeping the government out of women's healthcare decisions. In the Kansas Reflector April profile, she tied Kansas judicial-selection changes to women's healthcare, education funding, and voting rights. Existing social harvest includes a Nov. 14, 2024 Bluesky post supporting the Equal Rights Amendment.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0129] *"In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0130] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 11. Public safety / law enforcement / criminal justice
+
+Public safety / law enforcement / criminal justice: 16 selected evidence items from 240 mapped rows. Public URL-backed rows: 22.
+
+### Evidence
+- **candidate-stated** [em-sandy-spidel-neumann-00741] The January 2026 killing of Alex Pretti by federal agents in Minneapolis was the catalyst. As a career federal law enforcement official, Hart said this event -- and the broader direction of the federal government -- compelled him to leave his career and enter politics for the first time.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:848
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00048] | s-senate-ethics-disclosure | primary | https://www.ethics.senate.gov/public/index.cfm/financialdisclosure | accessed 2026-05-19 | Senate candidate financial-disclosure filing rules | disclosure rules |
+  - Source: https://www.ethics.senate.gov/public/index.cfm/financialdisclosure
+  - Confidence/use: confirmed / use
+- **documented-record** [em-sandy-spidel-neumann-00049] | s-nrsc-complaint | secondary | https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/ | 2026-03-11; accessed 2026-05-19 via search/local context | Partisan complaint alleging late personal financial disclosures by several Democratic Senate candidates including Spidel Neumann | disclosure controversy |
+  - Source: https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00369] [WIBW - State Senator Files for U.S. Senate (Feb 2026)](https://www.wibw.com/2026/02/05/kansas-state-senator-files-us-senate/)
+  - Source: https://www.wibw.com/2026/02/05/kansas-state-senator-files-us-senate/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00408] [Sandy Spidel Neumann - Ballotpedia](https://ballotpedia.org/Sandy_Spidel_Neumann)
+  - Source: https://ballotpedia.org/Sandy_Spidel_Neumann
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00668] [KCUR - "Who's running to represent Kansas in the U.S. Senate in 2026?" (Dec 30, 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00669] [Ballotpedia - Kansas Senate 2026](https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026)
+  - Source: https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00679] [Sharice Davids Senate Speculation (Jan 29, 2026)](https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/)
+  - Source: https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00685] [KCUR - Sharice Davids Discussion (Feb 24, 2026)](https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out)
+  - Source: https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out
+  - Confidence/use: likely / use
+- **faith-community-record** [em-sandy-spidel-neumann-01737] Hart is the most unconventional candidate in the Democratic primary. A career federal prosecutor who switched parties twice in one month, running on a blunt "electability" argument centered on his identity as a straight white Christian male in Kansas. His wife's quip has become his most quoted line. His lack of political experience or campaign infrastructure is either refreshingly authentic or dangerously unprepared -- depends on the voter. His 21-year record prosecuting child predators is his strongest credential.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2389
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00486] Pro-law enforcement
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:429
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00498] 16 years as federal prosecutor gives instant credibility on rule of law
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:445
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00499] Pro-2A, pro-law enforcement positioning is unusual for a Democrat and could attract crossover voters
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:446
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00730] Career: 21+ years in public service as a prosecutor
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:836
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00748] Frames himself as a nonpartisan law enforcement veteran who served under both Democratic and Republican administrations
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:859
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00755] Strengths: The strongest biographical story in the field. A career prosecutor who protected children from predators for 21 years is extraordinarily hard to attack. His party-switching story (independent -> Republican -> Democrat) could genuinely appeal to crossover voters. The "law enforcement Democrat" archetype has worked in red states before.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:869
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0129] *"In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0130] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0149] "A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0154] Kansas Reflector's April profile reports Spidel Neumann saying the country needs secure borders but that current ICE handling is not the "American way." The article reports her support for more accountability, training, body cameras, goals based on charges moving forward in court rather than number of arrests, and removal of Kristi Noem as Homeland Security secretary as a first move. Her Jan. 24, 2026 Bluesky post called for the Senate to vote against ICE funding until constitutional/legal operating procedures and training are implemented.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0157] Weaknesses: Lost her only previous campaign (2020 KS-1 primary). The USDA role ties her directly to Biden, which is a liability in Kansas. Immigration platform (pathway to citizenship) may be too progressive for Kansas general election voters. The NRSC disclosure complaint, while procedural, gives opponents ammunition.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0160] Immigration / border / ICE accountability: Kansas Reflector interview and a Jan. 24, 2026 Bluesky post support more ICE accountability, training, body cameras, lawful operating procedures, and court-charge-based enforcement goals. This is a confirmed candidate-stated area, not merely a social inference.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0161] "text": "In an April 2026 interview, Spidel Neumann said the country needs secure borders but current ICE practices need accountability, training, body cameras, and court-charge-based goals rather than arrest-count goals. A January 2026 Bluesky post called for no ICE funding until lawful operating procedures and training are implemented.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0163] "observation": "Immigration / border / ICE accountability: Kansas Reflector interview and a Jan. 24, 2026 Bluesky post support more ICE accountability, training, body cameras, lawful operating procedures, and court-charge-based enforcement goals. This is a confirmed candidate-stated area, not merely a social inference.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0165] Defending Social Security, Medicare, and the VA
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0188] Platform / Key Positions:
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 12. Agriculture / rural economy / water
+
+Agriculture / rural economy / water: 28 selected evidence items from 116 mapped rows. Public URL-backed rows: 8.
+
+### Evidence
+- **candidate-stated** [em-sandy-spidel-neumann-00785] Tariffs: Opposes Trump tariffs, says they cause instability for farmers and rural communities
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:919
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01247] Opposes federal control over cattle markets
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1694
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01395] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1899
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01836] Opposes Medicaid cuts threatening rural hospitals
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2564
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-02731] "text": "Spidel Neumann supports reinstating Medicaid funding, extending ACA premium-tax-credit subsidies, keeping government out of women's healthcare decisions, and pushing pharmaceutical companies to reduce drug prices. She frames healthcare as especially important for rural hospitals and middle-class Kansans.",
+  - Source: ui/src/data/v2/sandy-spidel-neumann.ts:25
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00032] | s-campaign-issues | primary | https://sandyforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue page: agriculture, healthcare, education, veterans, economic policy | issue positions |
+  - Source: https://sandyforkansas.com/issues/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00044] | s-kansas-reflector-launch | secondary | https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/ | 2025-10-16; accessed 2026-05-19 | Launch article, biography, reason for running, Medicaid/tariffs/Farm Bill quotes | biography, healthcare, agriculture |
+  - Source: https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00008] Across the captured period the feed contains no posts about the Ogallala Aquifer, water rights, the Farm Bill by name, Fort Riley, Fort Hays State University, county-by-county agriculture, adoption or foster care, capital punishment, or religious-liberty litigation. The feed includes posts about hospitals and healthcare affordability, but the harvested posts do not name a rural hospital facility or a specific Kansas hospital closure.
+  - Source: memory/candidates/sandy-spidel-neumann/in-their-own-words.md:17
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00129] The campaign issue page says recent policy changes are harming access to healthcare and health insurance, that Medicaid reimbursement cuts threaten rural hospitals, and that expiring ACA premium-tax-credit subsidies threaten middle-class coverage. It says Spidel Neumann supports reinstating Medicaid funding, extending ACA subsidies, keeping government out of women's healthcare decisions, and fighting pharmaceutical companies on drug prices.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:185
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00130] Kansas Reflector's launch article says she called Medicaid cuts "the big abomination of a bill" and said reversing them would be a good first step because healthcare is a significant concern in rural Kansas. Kansas Reflector's April profile reports her argument that ACA data should be used to fix what is not working and preserve what is working.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:187
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00146] The campaign issue page says chaotic tariffs are hurting farmers and ranchers, increasing equipment costs, and reducing access to international markets for crops and livestock. It also says dismantling USAID food-aid programs is reducing demand for Kansas-grown agricultural products. She supports immediate reversal of tariffs, reinstating food aid programs, reopening U.S. agricultural markets, and right-to-repair legislation.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:224
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00149] 2025-10-16, launch coverage: Kansas Reflector reported her tariff and Farm Bill criticism. Source: s-kansas-reflector-launch.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:231
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00150] 2026 campaign issues page: agriculture plank names tariffs, food aid, markets, equipment costs, and right to repair. Source: s-campaign-issues.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:232
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-00321] Based in very rural Chase County -- small donor/volunteer base
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:142
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01241] Serves on Senate Agriculture Committee -- a pillar of his identity
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1688
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01319] | Kansas Farm Bureau | Endorsement + support | Agricultural sector backing |
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1795
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01321] | Agriculture industry | Sector | Major donor category |
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1797
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01350] Multiple Farm Bill provisions as Agriculture Committee member
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1835
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-01431] Served on House Agriculture Committee -- key for representing the Big First
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1949
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-sandy-spidel-neumann-00041] | s-bsky-farms-hospitals | social | https://bsky.app/profile/speumann.bsky.social/post/3m3dgdmmzms2f | posted 2025-10-16; API accessed 2026-05-19 | Farms, hospitals, families post; engagement 0 likes, 0 reposts, 1 reply, 0 quotes | agriculture, healthcare |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dgdmmzms2f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02583] | 2024-11-13 | Post | Food shelter volunteering | 0 likes, 0 reposts, 0 replies, 0 quotes | "Volunteering with my team today at the local food shelter packing fixings for Thanksgiving dinner. Giving back always feels good, but it hits different this year. One step at a time. 💙" | https://bsky.app/profile/speumann.bsky.social/post/3lat45uciyk27 |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3lat45uciyk27
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-sandy-spidel-neumann-01195] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-01815] [USDA: KS State Director announcement](https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas)
+  - Source: https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas
+  - Confidence/use: confirmed / use
+- **background-context** [em-sandy-spidel-neumann-02130] [Municipal Water Leader Magazine](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)
+  - Source: https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849
+  - Confidence/use: likely / use
+- **background-context** [em-sandy-spidel-neumann-02131] [KWCH: $15M grant](https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/)
+  - Source: https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/
+  - Confidence/use: likely / use
+- **background-context** [em-sandy-spidel-neumann-02132] [E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)
+  - Source: https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/
+  - Confidence/use: likely / use
+- **background-context** [em-sandy-spidel-neumann-00144] Issue Area 3 - Agriculture, Tariffs, Food Aid, and Right to Repair
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:218
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00300] Kansas State Director, USDA Rural Development (Biden administration, 2023-January 2025) -- oversaw more than $1.3 billion of investment in Kansas (community centers, housing developments, hospitals, clinics, nursing homes). Also led a nationwide effort to cut red tape in federal programs.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:115
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky comment** [soc-sandy-spidel-neumann-0018] | s-bsky-farms-hospitals | social | https://bsky.app/profile/speumann.bsky.social/post/3m3dgdmmzms2f | posted 2025-10-16; API accessed 2026-05-19 | Farms, hospitals, families post; engagement 0 likes, 0 reposts, 1 reply, 0 quotes | agriculture, healthcare |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dgdmmzms2f
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-sandy-spidel-neumann-0023] | 2024-11-13 | Post | Food shelter volunteering | 0 likes, 0 reposts, 0 replies, 0 quotes | "Volunteering with my team today at the local food shelter packing fixings for Thanksgiving dinner. Giving back always feels good, but it hits different this year. One step at a time. 💙" | https://bsky.app/profile/speumann.bsky.social/post/3lat45uciyk27 |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3lat45uciyk27
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0136] "observation": "Issue mapping: healthcare/Medicaid, Social Security/Medicare adjacency, reproductive healthcare, rural hospitals, drug prices.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0140] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0149] "A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 13. Local governance / transparency / ethics
+
+Local governance / transparency / ethics: 40 selected evidence items from 769 mapped rows. Public URL-backed rows: 129.
+
+### Evidence
+- **candidate-stated** [em-sandy-spidel-neumann-00207] Existing local social-harvest.md remains the best structured platform pass:
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:377
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-00741] The January 2026 killing of Alex Pretti by federal agents in Minneapolis was the catalyst. As a career federal law enforcement official, Hart said this event -- and the broader direction of the federal government -- compelled him to leave his career and enter politics for the first time.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:848
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-01384] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1884
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-02150] Hands-on: Pledged to spend 1-2 hours minimum in every county department to assess staffing
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:3073
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-02659] "Biography says she was born in Topeka, adopted as a newborn, and grew up in Johnson County"
+  - Source: memory/candidates/sandy-spidel-neumann/v2-issues.yaml:80
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-02718] "Guide says Spidel Neumann has not held public office"
+  - Source: memory/candidates/sandy-spidel-neumann/v2-issues.yaml:207
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-02839] "text": "Spidel Neumann says she supports enforceable codes of conduct across all three branches, transparency, no insider trading in any branch, loyalty to the Constitution, and public accountability.",
+  - Source: ui/src/data/v2/sandy-spidel-neumann.ts:519
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00029] | s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, offices up in 2026, filing fees, petition requirements | ballot status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-sandy-spidel-neumann-00030] | s-joco-candidates | primary | https://www.jocoelection.org/candidates-elected-officials/candidates | accessed 2026-05-19 | Official county election-office candidate list, U.S. Senate row for Sandy Spidel Neumann | ballot-status lead |
+  - Source: https://www.jocoelection.org/candidates-elected-officials/candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00031] | s-campaign-home | primary | https://sandyforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, biography, campaign address, campaign social links | biography, issue overview |
+  - Source: https://sandyforkansas.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00032] | s-campaign-issues | primary | https://sandyforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue page: agriculture, healthcare, education, veterans, economic policy | issue positions |
+  - Source: https://sandyforkansas.com/issues/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00045] | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/ | 2026-04-27; accessed 2026-05-19 | Interview/profile on business background, ACA, tariffs, immigration, elections, accountability, foreign policy | issue positions |
+  - Source: https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00048] | s-senate-ethics-disclosure | primary | https://www.ethics.senate.gov/public/index.cfm/financialdisclosure | accessed 2026-05-19 | Senate candidate financial-disclosure filing rules | disclosure rules |
+  - Source: https://www.ethics.senate.gov/public/index.cfm/financialdisclosure
+  - Confidence/use: confirmed / use
+- **documented-record** [em-sandy-spidel-neumann-00049] | s-nrsc-complaint | secondary | https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/ | 2026-03-11; accessed 2026-05-19 via search/local context | Partisan complaint alleging late personal financial disclosures by several Democratic Senate candidates including Spidel Neumann | disclosure controversy |
+  - Source: https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/
+  - Confidence/use: likely / use
+- **documented-record** [em-sandy-spidel-neumann-00303] Campaign Website: [christydavisforkansas.com](https://www.christydavisforkansas.com/)
+  - Source: https://www.christydavisforkansas.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-sandy-spidel-neumann-00025] | s-fec-candidate | primary | https://www.fec.gov/data/candidate/S6KS00262/?cycle=2026&election_full=false | accessed 2026-05-19 | Candidate ID, office, party, challenger status, statement filed 2025-10-15, Q1 2026 totals | status, campaign finance |
+  - Source: https://www.fec.gov/data/candidate/S6KS00262/?cycle=2026&election_full=false
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-sandy-spidel-neumann-00026] | s-fec-committee | primary | https://www.fec.gov/data/committee/C00923474/?cycle=2026 | accessed 2026-05-19 | Active principal committee, committee ID, registration date, treasurer, authorizing candidate, committee address, financial totals | status, campaign finance |
+  - Source: https://www.fec.gov/data/committee/C00923474/?cycle=2026
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-sandy-spidel-neumann-00027] | s-fec-form2 | primary | https://docquery.fec.gov/pdf/730/202510159791595730/202510159791595730.pdf | filed 2025-10-15; accessed 2026-05-19 | FEC Form 2 Statement of Candidacy, candidate name, office, party, principal campaign committee | status |
+  - Source: https://docquery.fec.gov/pdf/730/202510159791595730/202510159791595730.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-sandy-spidel-neumann-00028] | s-fec-form1 | primary | https://docquery.fec.gov/pdf/895/202510159791594895/202510159791594895.pdf | filed 2025-10-15; accessed 2026-05-19 | FEC Form 1 Statement of Organization for Sandy for Kansas | committee structure |
+  - Source: https://docquery.fec.gov/pdf/895/202510159791594895/202510159791594895.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-sandy-spidel-neumann-00046] | s-kcur-guide | secondary | https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates | 2025-12-30; accessed 2026-05-19 | Candidate guide: no public office, Ameriprise career, prior political donations, platform summary | biography, donor history, issues |
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-sandy-spidel-neumann-00385] FEC Page: [FEC - Sandy Spidel Neumann (S6KS00262)](https://www.fec.gov/data/candidate/S6KS00262/)
+  - Source: https://www.fec.gov/data/candidate/S6KS00262/
+  - Confidence/use: confirmed / use
+- **social-online-signal** [em-sandy-spidel-neumann-00034] | s-bsky-ice | social | https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q | posted 2026-01-24; API accessed 2026-05-19 | ICE accountability post; engagement 1 like, 0 reposts, 0 replies, 0 quotes | immigration |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-00042] | s-bsky-ukraine | social | https://bsky.app/profile/speumann.bsky.social/post/3ljbdu5vwbc2l | posted 2025-02-28; local/API checked 2026-05-19 | Ukraine support post | foreign policy |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3ljbdu5vwbc2l
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-00043] | s-bsky-era | social | https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o | posted 2024-11-14; local harvest accessed 2026-05-19 | Equal Rights Amendment post | civil rights, reproductive-rights context |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02020] Facebook (Official): [musilcomish](https://www.facebook.com/musilcomish/)
+  - Source: https://www.facebook.com/musilcomish/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02539] | Campaign website | Yes | https://sandyforkansas.com/ | Official site with social redirects and embedded launch video. |
+  - Source: https://sandyforkansas.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02541] | Facebook | Yes | https://www.facebook.com/people/Sandy-for-Kansas/61582078721885/ | Official site /facebook redirects here. Logged-out metadata: "Sandy for Kansas, Overland Park. 2,974 likes · 1,505 talking about this. Daughter of Kansas. Student of economics. Problem solver. Running for U.S. Senate because Kansans deserve better. 🌻..." |
+  - Source: https://www.facebook.com/people/Sandy-for-Kansas/61582078721885/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02543] | YouTube | Yes | https://www.youtube.com/@SandySpidelNeumann | Official campaign video embedded on campaign site. Channel metadata from watch page showed 4 subscribers. |
+  - Source: https://www.youtube.com/@SandySpidelNeumann
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02544] | X / Twitter | Yes, presence only | https://x.com/speumann | Official site /twitter redirects here; live X URL returned HTTP 403 to logged-out curl, so no reliable post-level harvest. |
+  - Source: https://x.com/speumann
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-sandy-spidel-neumann-02182] Board involvement: Assigned to present for TMP schools during scholarship award presentations as a county commissioner, suggesting ongoing connection to the Catholic school community.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:3126
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-02265] | Official | Church/Faith | Confidence |
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:3256
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-sandy-spidel-neumann-02876] summary: "No current church affiliation, worship location, endorsement list, or official outcome for any personal-financial-disclosure complaint was confirmed."
+  - Source: memory/candidates/sandy-spidel-neumann/v2-issues.yaml:575
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-sandy-spidel-neumann-00842] Kansas City commercial real estate developer behind a nearly $1 billion redevelopment project in Wyandotte County. First-time candidate who grew up in KCK, left for USC and a decade in Oakland/San Francisco, then returned in 2023. Has a significant controversy flagged by the Washington Free Beacon.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1048
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-sandy-spidel-neumann-01193] Criticism: The Kansas City Star editorial board criticized the newsletter as being used primarily to attack Democrats (Biden/Harris) rather than to help Kansans, calling it partisan rather than informative.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:1629
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-01846] [Johnson County Post photo](https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/)
+  - Source: https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/
+  - Confidence/use: likely / use
+- **background-context** [em-sandy-spidel-neumann-01952] [City of Wellington: Resignation press release](https://www.cityofwellington.net/newsview.aspx?nid=6940)
+  - Source: https://www.cityofwellington.net/newsview.aspx?nid=6940
+  - Confidence/use: likely / use
+- **background-context** [em-sandy-spidel-neumann-02107] City Page: [haysusa.com/directory.aspx?eid=6](https://www.haysusa.com/directory.aspx?eid=6)
+  - Source: https://www.haysusa.com/directory.aspx?eid=6
+  - Confidence/use: confirmed / use
+- **background-context** [em-sandy-spidel-neumann-02131] [KWCH: $15M grant](https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/)
+  - Source: https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/
+  - Confidence/use: likely / use
+- **background-context** [em-sandy-spidel-neumann-02132] [E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)
+  - Source: https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/
+  - Confidence/use: likely / use
+- **background-context** [em-sandy-spidel-neumann-02229] [ACLU Kansas: FHSU petition](https://www.aclukansas.org/press-releases/hundreds-ellis-county-sign-petition-polling-location-fhsu/)
+  - Source: https://www.aclukansas.org/press-releases/hundreds-ellis-county-sign-petition-polling-location-fhsu/
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous sandyforkansas.com online-reference** [soc-sandy-spidel-neumann-0001] | s-campaign-home | primary | https://sandyforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, biography, campaign address, campaign social links | biography, issue overview |
+  - Source: https://sandyforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kcur.org online-reference** [soc-sandy-spidel-neumann-0002] | s-kcur-guide | secondary | https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates | 2025-12-30; accessed 2026-05-19 | Candidate guide: no public office, Ameriprise career, prior political donations, platform summary | biography, donor history, issues |
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-sandy-spidel-neumann-0003] Campaign website: https://sandyforkansas.com/ is active and links Facebook, X/Twitter, Instagram, and a video/social icon. It includes biography, donation, contact, privacy, accessibility, and press-inquiry links.
+  - Source: https://sandyforkansas.com/`
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-sandy-spidel-neumann-0004] | s-bsky-era | social | https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o | posted 2024-11-14; local harvest accessed 2026-05-19 | Equal Rights Amendment post | civil rights, reproductive-rights context |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong Facebook post** [soc-sandy-spidel-neumann-0005] | Facebook | Yes | https://www.facebook.com/people/Sandy-for-Kansas/61582078721885/ | Official site /facebook redirects here. Logged-out metadata: "Sandy for Kansas, Overland Park. 2,974 likes · 1,505 talking about this. Daughter of Kansas. Student of economics. Problem solver. Running for U.S. Senate because Kansans deserve better. 🌻..." |
+  - Source: https://www.facebook.com/people/Sandy-for-Kansas/61582078721885/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky like** [soc-sandy-spidel-neumann-0015] | s-bsky-ice | social | https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q | posted 2026-01-24; API accessed 2026-05-19 | ICE accountability post; engagement 1 like, 0 reposts, 0 replies, 0 quotes | immigration |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-sandy-spidel-neumann-0023] | 2024-11-13 | Post | Food shelter volunteering | 0 likes, 0 reposts, 0 replies, 0 quotes | "Volunteering with my team today at the local food shelter packing fixings for Thanksgiving dinner. Giving back always feels good, but it hits different this year. One step at a time. 💙" | https://bsky.app/profile/speumann.bsky.social/post/3lat45uciyk27 |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3lat45uciyk27
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-sandy-spidel-neumann-0024] | s-bsky-ukraine | social | https://bsky.app/profile/speumann.bsky.social/post/3ljbdu5vwbc2l | posted 2025-02-28; local/API checked 2026-05-19 | Ukraine support post | foreign policy |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3ljbdu5vwbc2l
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong Facebook post** [soc-sandy-spidel-neumann-0025] Facebook (Official): [musilcomish](https://www.facebook.com/musilcomish/)
+  - Source: https://www.facebook.com/musilcomish/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong sandyforkansas.com post** [soc-sandy-spidel-neumann-0026] | Campaign website | Yes | https://sandyforkansas.com/ | Official site with social redirects and embedded launch video. |
+  - Source: https://sandyforkansas.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 14. Environment / energy / land use
+
+Environment / energy / land use: 22 selected evidence items from 33 mapped rows. Public URL-backed rows: 5.
+
+### Evidence
+- **candidate-stated** [em-sandy-spidel-neumann-02808] text: "Launch post says every Kansan deserves a fair shot to afford groceries, gas, housing, and a future for their kids."
+  - Source: memory/candidates/sandy-spidel-neumann/v2-issues.yaml:403
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-sandy-spidel-neumann-03164] "observation": "Launch post says every Kansan deserves a fair shot to afford groceries, gas, housing, and a future for their kids.",
+  - Source: ui/src/data/v2/sandy-spidel-neumann.ts:363
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00081] Caveat: The live Kansas SOS candidate-list endpoint returned a 403 response to this environment. Downstream language should not say final statewide ballot certification is complete before the June 1, 2026 deadline.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:100
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00166] The campaign homepage says she is running to lower costs, defend freedoms, protect Social Security and Medicare, and ensure opportunity for Kansans. The economic-policy plank criticizes national debt, says economic policy should benefit everyone, supports restoring accurate and transparent economic reporting, and supports programs that expand employment opportunities and economic growth. A Dec. 18, 2025 Bluesky post cites AAA gas-price data for Kansas counties. Kansas Reflector's April profile reports her emphasis on business principles, data, and strategic decision-making.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:278
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-00205] The posts_no_replies feed returned no original/quote posts newer than Jan. 24, 2026. The visible campaign-period post set overlaps the existing social-harvest.md: launch, farms/hospitals/families, Hays protest, VoteVets town hall, expense criticism, Democratic organizing, ACA premiums, gas prices, Army/Navy personal content, and ICE.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:373
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-02472] Kansas filing/ballot caveat: Kansas SOS candidate-information page says national candidates file with the Secretary of State and are not considered filed until the declaration or petition and fee are received. The SOS page gives the primary filing deadline as noon Monday, June 1, 2026. The live SOS candidate-list endpoint returned a CloudFront 403 in this environment, so this pass did not directly confirm a Kansas SOS table row for Spidel Neumann.
+  - Source: memory/candidates/sandy-spidel-neumann/sleuth-pass.md:16
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-02486] Online relevance: social evidence is relevant where it maps to issue areas: healthcare/ACA subsidies, ICE/immigration enforcement, gas prices/costs, farms/hospitals/families, Hays event attendance, VoteVets event participation, Ukraine, Equal Rights Amendment, and vaccines.
+  - Source: memory/candidates/sandy-spidel-neumann/sleuth-pass.md:34
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-02492] Economy / costs / fiscal stewardship: campaign issue page emphasizes middle-class families, transparent economic reporting, employment programs, economic growth, national debt, and costs to Kansans. Bluesky gas-price post gives a Kansas-specific cost signal.
+  - Source: memory/candidates/sandy-spidel-neumann/sleuth-pass.md:42
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-02508] Direct Kansas SOS candidate-list row for Spidel Neumann could not be read because elections_upcoming_candidate.aspx returned a 403 response in this environment.
+  - Source: memory/candidates/sandy-spidel-neumann/sleuth-pass.md:62
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-sandy-spidel-neumann-02618] "Final Kansas statewide ballot language needs caution: Kansas SOS filing rules are readable, but the SOS live candidate-list page returned a 403 in this environment and the filing deadline is June 1, 2026."
+  - Source: memory/candidates/sandy-spidel-neumann/v2-issues.yaml:9
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-sandy-spidel-neumann-00020] Kansas SOS confirms the filing framework, but the live SOS candidate-list endpoint was not readable in this environment. The SOS candidate-information page says Democratic and Republican candidates run in the primary, national/state candidates file with the Secretary of State, and a candidate is not considered filed until the petition or declaration and fee are received. The primary filing deadline is noon Monday, June 1, 2026. The Johnson County Election Office candidate page lists Sandy Spidel Neumann as a Democratic U.S. Senate candidate, incumbent "No," city Overland Park, with website sandyforkansas.com. Treat her as an active FEC-filed candidate with official county-list evidence, while noting final statewide ballot certification remains pending before the June 1 filing deadline.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:15
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-sandy-spidel-neumann-00003] Across the [14 campaign-period original or quote Bluesky posts](./social-harvest.md#summary-counts) captured after her Oct. 16, 2025 launch, Sandy Spidel Neumann's repeated campaign subjects are Kansas costs, healthcare, farms, hospitals, families, and contrast with Sen. Roger Marshall. On launch day she posted, "Every Kansan deserves a fair shot: to afford groceries, gas, housing, and a future for their kids. That’s what I’m fighting for: lower costs, good jobs, and opportunity you can count on. Become a founding member of my campaign today! 🌻 #KansasStrong #SandyForKansas #FairShotForAll" ([source](https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f)). In another launch-day post she wrote, "Kansas deserves a Senator who shows up, answers tough questions, and works for us, not the other way around. Let’s fight for our farms, hospitals, and families together. 🌻" ([source]…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-00035] | s-bsky-gas | social | https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e | posted 2025-12-18; API accessed 2026-05-19 | Kansas gas-price post; engagement 4 likes, 1 repost, 0 replies, 0 quotes | economy, costs |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02565] | 2025-12-18 | Post | Gas prices | 4 likes, 1 repost, 0 replies, 0 quotes | "Quick reality check, per AAA, the average gas price Kansans are paying is $2.526/gal. Finney County has the lowest average price at $2.174 and Lincoln County has the highest averaging almost $3.10/gal. Kansans deserve better." | https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02574] | 2025-10-16 | Post | Costs / opportunity | 0 likes, 0 reposts, 0 replies, 0 quotes | "Every Kansan deserves a fair shot: to afford groceries, gas, housing, and a future for their kids. That’s what I’m fighting for: lower costs, good jobs, and opportunity you can count on. Become a founding member of my campaign today! 🌻 #KansasStrong #SandyForKansas #FairShotForAll" | https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-sandy-spidel-neumann-02576] | 2025-10-16 | Post | Biography / family | 1 like, 0 reposts, 0 replies, 0 quotes | "My parents taught me that when you get ahead, you help the next person up. Dad roofed houses and fixed gas lines. Mom cleaned offices to make ends meet. That’s Kansas grit that keeps our towns strong and neighbors looking out for one another. That’s the Kansas I’ll fight for in the U.S. Senate. 🌻" | https://bsky.app/profile/speumann.bsky.social/post/3m3d6i2qdus2f |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3d6i2qdus2f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-sandy-spidel-neumann-00167] 2025-10-16, launch-day social: posts centered on groceries, gas, housing, kids' futures, farms, hospitals, and families. Sources: s-bsky-launch, s-bsky-farms-hospitals.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:282
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00168] 2025-12-18, gas-price post: cited statewide average gas price and Finney/Lincoln county comparison. Source: s-bsky-gas.
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump-v2.md:283
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-00440] First-generation immigrant spouse could become a liability in anti-immigration political climate
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:334
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-01620] Member, Subcommittee on Energy, Natural Resources, and Infrastructure
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2220
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-01862] Eastside Innovation LLC (Kansas City, KS, 2023) -- Founded to bring clean energy to low-income communities in KCK
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:2613
+  - Confidence/use: unknown / background-only
+- **background-context** [em-sandy-spidel-neumann-02111] R9 Ranch Pipeline -- The Defining Project
+  - Source: memory/candidates/sandy-spidel-neumann/raw-dump.md:3017
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **strong Bluesky post** [soc-sandy-spidel-neumann-0008] Across the [14 campaign-period original or quote Bluesky posts](./social-harvest.md#summary-counts) captured after her Oct. 16, 2025 launch, Sandy Spidel Neumann's repeated campaign subjects are Kansas costs, healthcare, farms, hospitals, families, and contrast with Sen. Roger Marshall. On launch day she posted, "Every Kansan deserves a fair shot: to afford groceries, gas, housing, and a future for their kids. That’s what I’m fighting for: lower costs, good jobs, and opportunity you can count on. Become a founding member of my campaign today! 🌻 #KansasStrong #SandyForKansas #FairShotForAll" ([source](https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f)). In another launch-day post she wrote, "Kansas deserves a Senator who shows up, answers tough questions, and works for us, not the other way around. Let’s fight for our farms, hospitals, and families together. 🌻" ([source]…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate Bluesky share/repost** [soc-sandy-spidel-neumann-0009] | s-bsky-gas | social | https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e | posted 2025-12-18; API accessed 2026-05-19 | Kansas gas-price post; engagement 4 likes, 1 repost, 0 replies, 0 quotes | economy, costs |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-sandy-spidel-neumann-0012] | 2025-10-16 | Post | Costs / opportunity | 0 likes, 0 reposts, 0 replies, 0 quotes | "Every Kansan deserves a fair shot: to afford groceries, gas, housing, and a future for their kids. That’s what I’m fighting for: lower costs, good jobs, and opportunity you can count on. Become a founding member of my campaign today! 🌻 #KansasStrong #SandyForKansas #FairShotForAll" | https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-sandy-spidel-neumann-0029] | 2025-12-18 | Post | Gas prices | 4 likes, 1 repost, 0 replies, 0 quotes | "Quick reality check, per AAA, the average gas price Kansans are paying is $2.526/gal. Finney County has the lowest average price at $2.174 and Lincoln County has the highest averaging almost $3.10/gal. Kansans deserve better." | https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky like** [soc-sandy-spidel-neumann-0033] | 2025-10-16 | Post | Biography / family | 1 like, 0 reposts, 0 replies, 0 quotes | "My parents taught me that when you get ahead, you help the next person up. Dad roofed houses and fixed gas lines. Mom cleaned offices to make ends meet. That’s Kansas grit that keeps our towns strong and neighbors looking out for one another. That’s the Kansas I’ll fight for in the U.S. Senate. 🌻" | https://bsky.app/profile/speumann.bsky.social/post/3m3d6i2qdus2f |
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3d6i2qdus2f
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0144] The campaign homepage says she is running to lower costs, defend freedoms, protect Social Security and Medicare, and ensure opportunity for Kansans. The economic-policy plank criticizes national debt, says economic policy should benefit everyone, supports restoring accurate and transparent economic reporting, and supports programs that expand employment opportunities and economic growth. A Dec. 18, 2025 Bluesky post cites AAA gas-price data for Kansas counties. Kansas Reflector's April profile reports her emphasis on business principles, data, and strategic decision-making.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-sandy-spidel-neumann-0147] Economy / costs / fiscal stewardship: campaign issue page emphasizes middle-class families, transparent economic reporting, employment programs, economic growth, national debt, and costs to Kansans. Bluesky gas-price post gives a Kansas-specific cost signal.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0148] "text": "Her campaign centers lowering costs, opportunity, transparent economic reporting, employment opportunities, growth, and concern about national debt. Her social posts emphasize groceries, gas, housing, and Kansas county gas prices.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0156] The posts_no_replies feed returned no original/quote posts newer than Jan. 24, 2026. The visible campaign-period post set overlaps the existing social-harvest.md: launch, farms/hospitals/families, Hays protest, VoteVets town hall, expense criticism, Democratic organizing, ACA premiums, gas prices, Army/Navy personal content, and ICE.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-sandy-spidel-neumann-0159] Online relevance: social evidence is relevant where it maps to issue areas: healthcare/ACA subsidies, ICE/immigration enforcement, gas prices/costs, farms/hospitals/families, Hays event attendance, VoteVets event participation, Ukraine, Equal Rights Amendment, and vaccines.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.

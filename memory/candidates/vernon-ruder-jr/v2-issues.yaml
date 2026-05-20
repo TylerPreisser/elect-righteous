@@ -564,3 +564,3791 @@ could_not_confirm:
   - "Online donor list or receipts/expenditures report for Ruder's county treasurer campaigns."
   - "Primary-source text extraction of exact official 2020/2024 vote totals from Ellis County PDFs."
   - "Independent primary-budget corroboration of the 2022-to-2023 budget reduction claim."
+
+# BEGIN FIXED 14 ISSUE MATRIX
+fixed_issue_matrix:
+- issueNumber: 1
+  title: Abortion / life
+  summary: 'Abortion / life: 4 selected evidence items from 4 mapped rows. Public
+    URL-backed rows: 1.'
+  evidenceItems:
+  - evidenceRowId: em-vernon-ruder-jr-01104
+    classification: documented-record
+    text: Signed abortion restriction legislation
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1541
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1541
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-03206
+    classification: faith-community-record
+    text: Two contextual notes are visible in the harvested record. First, Ruder is
+      identified in multiple local pieces as a member of what local coverage refers
+      to as the Ruder family network in Hays government — her husband Vernon Ruder
+      Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor
+      of Hays ([source](https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a)).
+      Second, the candidate-profiler raw intelligence from this project records that
+      no reliable public source identifies Ruder's church affiliation; that data point
+      is absent from the harvested set. The captured period contains no posts or quotes
+      from Ruder on healthcare, immigration, abortion specifics, foreign policy, federal
+      elections, K–12 curriculum content beyond test-score performance, or social-issue
+      topics.
+    sourceIds:
+    - mem-ui-src-data-candidates-ts-l46516
+    sourceUrl: https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a
+    sourceFile: ui/src/data/candidates.ts:46516
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-01680
+    classification: faith-community-record
+    text: 'Adoption: Given up for adoption at birth into a "right wing, fundamentalist,
+      Roman Catholic family" (pre-Roe v. Wade)'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2465
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2465
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01586
+    classification: background-context
+    text: Protecting reproductive freedom
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2296
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2296
+    confidence: unknown
+    useDecision: background-only
+  socialSignals:
+  - socialSignalId: soc-vernon-ruder-jr-0001
+    evidenceRowId: em-vernon-ruder-jr-03206
+    platform: hayspost.com
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: Two contextual notes are visible in the harvested record. First,
+      Ruder is identified in multiple local pieces as a member of what local coverage
+      refers to as the Ruder family network in Hays government — her husband Vernon
+      Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as
+      Mayor of Hays ([source](https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a)).
+      Second, the candidate-profiler raw intelligence from this project records that
+      no reliable public source identifies Ruder's church affiliation; that data point
+      is absent from the harvested set. The captured period contains no posts or quotes
+      from Ruder on healthcare, immigration, abortion specifics, foreign policy, federal
+      elections, K–12 curriculum content beyond test-score performance, or social-issue
+      topics.
+    sourceUrl: https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  sourceCoverage:
+    primary: 0
+    secondary: 1
+    social: 0
+    internalMemory: 3
+    publicUrlRows: 1
+  caveats:
+  - Social signals are observations only and are not treated as confirmed beliefs
+    or policy positions.
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 2
+  title: LGBT / gender / parental rights
+  summary: 'LGBT / gender / parental rights: 9 selected evidence items from 9 mapped
+    rows. Public URL-backed rows: 1.'
+  evidenceItems:
+  - evidenceRowId: em-vernon-ruder-jr-01700
+    classification: candidate-stated
+    text: 'LGBTQ+ rights champion: Supports the Equality Act and the Respect for Marriage
+      Act'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2490
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2490
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02258
+    classification: candidate-stated
+    text: The new $115M Hays High School features private bathroom stalls usable by
+      both genders -- floor-to-ceiling locking stalls with common-use sinks. Principal
+      Shawn Henderson said the design would reduce bullying and protect students from
+      being recorded on mobile devices. Parents complained about the potential for
+      opposite-sex students being "intimate" in stalls, and about vaping. Wilson as
+      superintendent oversees the facility design decisions.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3412
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3412
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02147
+    classification: documented-record
+    text: "[Hays USD 489 board members question parental rights in emergency policy
+      revision](https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3220
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l298
+    sourceUrl: https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3220
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-02140
+    classification: documented-record
+    text: Fiscally conservative. Strong parental rights position. ER doctor with analytical
+      approach to numbers and accountability. Aligns with Park on oversight issues.
+      Potentially the most independent-thinking member of the board.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3211
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3211
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02257
+    classification: public-controversy
+    text: Gender-Neutral Bathroom Controversy at New High School
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3411
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3411
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02309
+    classification: public-controversy
+    text: The major controversies have been almost entirely about money (bond spending,
+      capital outlay, admin pay, naming rights, student fees, nepotism) and governance
+      (transparency, executive sessions, contract procedures, handbook policies).
+      The satanism dress code issue and gender-neutral bathroom controversy are the
+      closest to culture-war issues, and the board ultimately took legally defensive
+      positions on both.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3480
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3480
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01103
+    classification: background-context
+    text: Signed the Adoption Protection Act as governor (allows religious adoption
+      agencies to refuse placements to same-sex couples)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1540
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1540
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02297
+    classification: background-context
+    text: Gender-Neutral Bathrooms at New High School
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3465
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3465
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02307
+    classification: background-context
+    text: LGBTQ+ curriculum
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3477
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3477
+    confidence: unknown
+    useDecision: background-only
+  socialSignals: []
+  sourceCoverage:
+    primary: 0
+    secondary: 1
+    social: 0
+    internalMemory: 8
+    publicUrlRows: 1
+  caveats:
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 3
+  title: Education / curriculum / schools
+  summary: 'Education / curriculum / schools: 34 selected evidence items from 221
+    mapped rows. Public URL-backed rows: 40.'
+  evidenceItems:
+  - evidenceRowId: em-vernon-ruder-jr-00772
+    classification: candidate-stated
+    text: STRONG INDICATOR = Family/school ties strongly suggest affiliation but no
+      direct membership statement found
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l790
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:790
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02208
+    classification: candidate-stated
+    text: 'Special Education Funding: Repeatedly emphasizes that special education
+      should be fully funded as "originally promised," which would free up resources
+      for general education or tax relief.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3333
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3333
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02209
+    classification: candidate-stated
+    text: 'Teacher Retention: Believes teacher, administrator, and staff retention/recruitment
+      should be a top priority.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3335
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3335
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02210
+    classification: candidate-stated
+    text: 'Course Expansion: Supports expanding options for both college-bound students
+      and those pursuing technical training or direct workforce entry.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3337
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3337
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02258
+    classification: candidate-stated
+    text: The new $115M Hays High School features private bathroom stalls usable by
+      both genders -- floor-to-ceiling locking stalls with common-use sinks. Principal
+      Shawn Henderson said the design would reduce bullying and protect students from
+      being recorded on mobile devices. Parents complained about the potential for
+      opposite-sex students being "intimate" in stalls, and about vaping. Wilson as
+      superintendent oversees the facility design decisions.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3412
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3412
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00064
+    classification: documented-record
+    text: '"url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5"'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l87
+    - mem-memory-candidates-vernon-ruder-jr-v2-issues-yaml-l69
+    - mem-ui-src-data-candidates-ts-l43913
+    - mem-ui-src-data-candidates-ts-l46544
+    - mem-ui-src-data-candidates-ts-l46556
+    - mem-ui-src-data-candidates-ts-l46560
+    - mem-ui-src-data-candidates-ts-l46572
+    - mem-ui-src-data-candidates-ts-l46588
+    - mem-ui-src-data-candidates-ts-l46592
+    - mem-ui-src-data-v2-vernon-ruder-jr-ts-l514
+    sourceUrl: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+    sourceFile: ui/src/data/candidates.ts:46560
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00936
+    classification: documented-record
+    text: "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1165
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l125
+    sourceUrl: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1165
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-01281
+    classification: documented-record
+    text: "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1829
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l172
+    sourceUrl: https://www.usd489.com/page/board-of-education
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1829
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-01345
+    classification: documented-record
+    text: "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1935
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1956
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l186
+    sourceUrl: https://www.haysusa.com/335/Public-Library-Board
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1956
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-02078
+    classification: documented-record
+    text: "[Hays school board approves HHS, Roosevelt contract; discussion heated](https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3096
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l284
+    sourceUrl: https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3096
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-02079
+    classification: documented-record
+    text: "[Hays USD 489 board votes not to add another manager for bond work](https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3097
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3271
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l285
+    sourceUrl: https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3097
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-02123
+    classification: documented-record
+    text: "[3 veterans elected to Hays USD 489 school board](https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3178
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3353
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l291
+    sourceUrl: https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3178
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-02143
+    classification: documented-record
+    text: "[Opinion: Hays USD 489 board member critical of use of bond, capital funds](https://hayspost.com/posts/52e53c90-5182-42f0-919e-2c7dc145305b)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3216
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l295
+    sourceUrl: https://hayspost.com/posts/52e53c90-5182-42f0-919e-2c7dc145305b
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3216
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00463
+    classification: donor-organization-signal
+    text: 2012 Hays High School graduate (born/raised in Hays)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l354
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:354
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00989
+    classification: donor-organization-signal
+    text: Received donation check from Trinity Lutheran Church for school food pantries
+      (professional interaction, not personal affiliation)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1318
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1318
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02115
+    classification: donor-organization-signal
+    text: 'Naming Rights: Supported accepting the Golden Belt Bank donation, saying
+      the bank had no "ill intentions" and was "trying to help our community and help
+      our school district."'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3163
+    - mem-reports-usd489-board-deep-investigation-2026-03-30-md-l112
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3163
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-03185
+    classification: donor-organization-signal
+    text: '"stance": "She has been willing to slow down land transactions when the
+      public benefit is unclear. In 2025, she raised concerns that a buyer of district
+      land near the middle school might purchase it only for a tax deduction rather
+      than put it to productive use."'
+    sourceIds:
+    - mem-ui-src-data-candidates-ts-l46460
+    sourceUrl:
+    sourceFile: ui/src/data/candidates.ts:46460
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00525
+    classification: social-online-signal
+    text: "[LinkedIn](https://www.linkedin.com/in/aaron-cunningham-653b3094/) -- lists
+      K-State education"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l432
+    sourceUrl: https://www.linkedin.com/in/aaron-cunningham-653b3094/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:432
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02700
+    classification: social-online-signal
+    text: "[Hays Post - Hays Middle School voter event, Sept. 30, 2024](https://hayspost.com/posts/fd6be90b-bcb4-49d7-bf9a-20194a876c3c)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l99
+    sourceUrl: https://hayspost.com/posts/fd6be90b-bcb4-49d7-bf9a-20194a876c3c
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:99
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02693
+    classification: social-online-signal
+    text: I searched Vernon Ruder Jr., Vern Ruder, Vote Ruder for Treasurer, voteruderfortreasurer@gmail.com,
+      Ellis County Treasurer, Ellis County Treasury, Ellis County election results,
+      Hays Post, Facebook, LinkedIn, X/Twitter, Instagram, YouTube, campaign website,
+      candidate filings, county budget book, county commission, motor vehicle fee,
+      QLess, TMP-Marian, and Hays Middle School. I prioritized official county pages,
+      official election/result pages, the Kansas County Treasurers Association, Hays
+      Post candidate-attributed reporting, Ruder's signed Hays Post letter, and public
+      civic-event reporting. Login-walled, script-blocked, generic people-search,
+      or otherwise unverifiable material was not treated as confirmed candidate messaging.
+      Topic counts were manually coded from reviewed public items and should be read
+      as directional rather than exhaustive analytics.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l86
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:86
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-00915
+    classification: faith-community-record
+    text: "[HaysPost: NWester - Support for Catholic education alive, well in Ellis
+      County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1110
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l122
+    - mem-reports-faith-church-investigation-2026-03-31-md-l340
+    sourceUrl: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1110
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-03206
+    classification: faith-community-record
+    text: Two contextual notes are visible in the harvested record. First, Ruder is
+      identified in multiple local pieces as a member of what local coverage refers
+      to as the Ruder family network in Hays government — her husband Vernon Ruder
+      Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor
+      of Hays ([source](https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a)).
+      Second, the candidate-profiler raw intelligence from this project records that
+      no reliable public source identifies Ruder's church affiliation; that data point
+      is absent from the harvested set. The captured period contains no posts or quotes
+      from Ruder on healthcare, immigration, abortion specifics, foreign policy, federal
+      elections, K–12 curriculum content beyond test-score performance, or social-issue
+      topics.
+    sourceIds:
+    - mem-ui-src-data-candidates-ts-l46516
+    sourceUrl: https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a
+    sourceFile: ui/src/data/candidates.ts:46516
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00023
+    classification: faith-community-record
+    text: This is an additive Phase 2 scrape for Vernon Ruder Jr. It uses existing
+      local memory in memory/candidates/vernon-ruder-jr/, then verifies against current
+      official pages and accessible news records. The pass prioritizes official county/KCTA/election/budget
+      records, then Hays Post candidate-attributed reporting, then social/online presence.
+      It does not use inaccessible or unverified social content, and it does not infer
+      beliefs from family, school, or church-adjacent context.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l12
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:12
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00225
+    classification: faith-community-record
+    text: The public record suggests strong Catholic family and school ties for Vernon
+      Ruder Jr., but I did not verify a direct parish-membership statement in this
+      pass. Because the evidence is indirect, I am not claiming a specific church
+      URL as a confirmed personal worship location.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l28
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:28
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02466
+    classification: public-controversy
+    text: "[Superintendent's email sparks controversy (Hays Daily News)](https://www.hdnews.net/2022/05/02/superintendents-email-sparks-controversy-as-election-day-approaches-for-school-bond/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l312
+    sourceUrl: https://www.hdnews.net/2022/05/02/superintendents-email-sparks-controversy-as-election-day-approaches-for-school-bond/
+    sourceFile: memory/candidates/vernon-ruder-jr/site-profile.md:312
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-02472
+    classification: public-controversy
+    text: "[Hays High School construction project, restrooms stirs controversy (Kansas
+      Sentinel)](https://sentinelksmo.org/hays-high-school-contstruction-project-restrooms-stirs-controversy/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l318
+    sourceUrl: https://sentinelksmo.org/hays-high-school-contstruction-project-restrooms-stirs-controversy/
+    sourceFile: memory/candidates/vernon-ruder-jr/site-profile.md:318
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-02257
+    classification: public-controversy
+    text: Gender-Neutral Bathroom Controversy at New High School
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3411
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3411
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02309
+    classification: public-controversy
+    text: The major controversies have been almost entirely about money (bond spending,
+      capital outlay, admin pay, naming rights, student fees, nepotism) and governance
+      (transparency, executive sessions, contract procedures, handbook policies).
+      The satanism dress code issue and gender-neutral bathroom controversy are the
+      closest to culture-war issues, and the board ultimately took legally defensive
+      positions on both.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3480
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3480
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00993
+    classification: background-context
+    text: "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1325
+    sourceUrl: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1325
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-01282
+    classification: background-context
+    text: "[Ballotpedia: Hays USD 489 Elections](https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1830
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l173
+    sourceUrl: https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1830
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-01409
+    classification: background-context
+    text: "| Hays USD 489 | 785-623-2400 | [usd489.com](https://www.usd489.com) |"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2033
+    sourceUrl: https://www.usd489.com
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2033
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-02124
+    classification: background-context
+    text: "[Hays USD 489 BOE votes to change Hays Middle School mascot to Indians](https://hayspost.com/posts/5b2cf14f-06bc-4086-9693-c33581fe6a7c)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3179
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3309
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l292
+    sourceUrl: https://hayspost.com/posts/5b2cf14f-06bc-4086-9693-c33581fe6a7c
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3179
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-02172
+    classification: background-context
+    text: "[Park announces retirement after 30 years with USD 489 (Archive)](https://archive.hayspost.com/2015/05/19/park-announces-retirement-after-30-years-with-usd-489/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3267
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l299
+    sourceUrl: https://archive.hayspost.com/2015/05/19/park-announces-retirement-after-30-years-with-usd-489/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3267
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-02175
+    classification: background-context
+    text: "[Hays USD 489 BOE debates nepotism again](https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3270
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l301
+    sourceUrl: https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3270
+    confidence: likely
+    useDecision: use
+  socialSignals:
+  - socialSignalId: soc-vernon-ruder-jr-0001
+    evidenceRowId: em-vernon-ruder-jr-03206
+    platform: hayspost.com
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: Two contextual notes are visible in the harvested record. First,
+      Ruder is identified in multiple local pieces as a member of what local coverage
+      refers to as the Ruder family network in Hays government — her husband Vernon
+      Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as
+      Mayor of Hays ([source](https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a)).
+      Second, the candidate-profiler raw intelligence from this project records that
+      no reliable public source identifies Ruder's church affiliation; that data point
+      is absent from the harvested set. The captured period contains no posts or quotes
+      from Ruder on healthcare, immigration, abortion specifics, foreign policy, federal
+      elections, K–12 curriculum content beyond test-score performance, or social-issue
+      topics.
+    sourceUrl: https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0002
+    evidenceRowId: em-vernon-ruder-jr-03146
+    platform: Bluesky
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'narrative: "Vernon Ruder Jr.''s public messaging is administrative,
+      local, and practical rather than ideological. The strongest candidate-controlled
+      source is his signed 2020 Hays Post letter, and the strongest attributed sources
+      are Hays Post candidate and office-policy coverage. Through May 11, 2026, I
+      found no verified current campaign website or high-volume social feed. The visible
+      record comes from official Ellis County treasury pages, the Kansas County Treasurers
+      Association, election results, Hays Post reporting, and public civic-event coverage.\n\nHis
+      central message is efficiency. In his 2020 candidate profile, Ruder said he
+      entered the treasurer race after seeing turnover and spending issues in the
+      office, and said he could decrease spending and increase efficiencies. He tied
+      that pitch to his landfill-management experience, saying he ran that operation
+      like his own money and k…'
+    sourceUrl: https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0003
+    evidenceRowId: em-vernon-ruder-jr-00525
+    platform: LinkedIn
+    actionType: post
+    signalStrength: strong
+    observation: "[LinkedIn](https://www.linkedin.com/in/aaron-cunningham-653b3094/)
+      -- lists K-State education"
+    sourceUrl: https://www.linkedin.com/in/aaron-cunningham-653b3094/
+    caveat: Candidate-controlled post or candidate-controlled platform statement;
+      still use as stated/observed content, not inferred motive.
+  - socialSignalId: soc-vernon-ruder-jr-0004
+    evidenceRowId: em-vernon-ruder-jr-02693
+    platform: Facebook
+    actionType: post
+    signalStrength: weak
+    observation: I searched Vernon Ruder Jr., Vern Ruder, Vote Ruder for Treasurer,
+      voteruderfortreasurer@gmail.com, Ellis County Treasurer, Ellis County Treasury,
+      Ellis County election results, Hays Post, Facebook, LinkedIn, X/Twitter, Instagram,
+      YouTube, campaign website, candidate filings, county budget book, county commission,
+      motor vehicle fee, QLess, TMP-Marian, and Hays Middle School. I prioritized
+      official county pages, official election/result pages, the Kansas County Treasurers
+      Association, Hays Post candidate-attributed reporting, Ruder's signed Hays Post
+      letter, and public civic-event reporting. Login-walled, script-blocked, generic
+      people-search, or otherwise unverifiable material was not treated as confirmed
+      candidate messaging. Topic counts were manually coded from reviewed public items
+      and should be read as directional rather than exhaustive analytics.
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0005
+    evidenceRowId: em-vernon-ruder-jr-02700
+    platform: hayspost.com
+    actionType: post
+    signalStrength: strong
+    observation: "[Hays Post - Hays Middle School voter event, Sept. 30, 2024](https://hayspost.com/posts/fd6be90b-bcb4-49d7-bf9a-20194a876c3c)"
+    sourceUrl: https://hayspost.com/posts/fd6be90b-bcb4-49d7-bf9a-20194a876c3c
+    caveat: Candidate-controlled post or candidate-controlled platform statement;
+      still use as stated/observed content, not inferred motive.
+  - socialSignalId: soc-vernon-ruder-jr-0074
+    evidenceRowId: em-vernon-ruder-jr-00023
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: This is an additive Phase 2 scrape for Vernon Ruder Jr. It uses existing
+      local memory in memory/candidates/vernon-ruder-jr/, then verifies against current
+      official pages and accessible news records. The pass prioritizes official county/KCTA/election/budget
+      records, then Hays Post candidate-attributed reporting, then social/online presence.
+      It does not use inaccessible or unverified social content, and it does not infer
+      beliefs from family, school, or church-adjacent context.
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0075
+    evidenceRowId: em-vernon-ruder-jr-03208
+    platform: Facebook
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'Methodology: Date range covered: July 2023 to April 2026. Platforms
+      surveyed: Facebook, X / Twitter, Instagram, LinkedIn, YouTube, Substack, Truth
+      Social, Reddit, TikTok. Personal accounts detected: zero. Indirect sources used:
+      two 2023 Hays Post candidate questionnaires and approximately ten Hays Post
+      articles covering USD 489 board meetings between 2024 and 2026. Quotes are verbatim
+      from indexed sources; links lead to source. We report patterns; we do not interpret
+      intent.,'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  sourceCoverage:
+    primary: 4
+    secondary: 34
+    social: 3
+    internalMemory: 180
+    publicUrlRows: 40
+  caveats:
+  - Social signals are observations only and are not treated as confirmed beliefs
+    or policy positions.
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 4
+  title: Religious liberty / church / civic morality
+  summary: 'Religious liberty / church / civic morality: 10 selected evidence items
+    from 216 mapped rows. Public URL-backed rows: 13.'
+  evidenceItems:
+  - evidenceRowId: em-vernon-ruder-jr-01005
+    classification: documented-record
+    text: Introduced resolution to authorize use of the Capitol Rotunda for prayer
+      events
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1350
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1350
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02294
+    classification: documented-record
+    text: A mother of three USD 489 students and member of the Satanic Temple (Mary
+      Turner) complained that the school dress code specifically banned satanism-related
+      clothing while allowing other religious expression. The board initially expanded
+      the satanism ban district-wide on a 5-2 vote. The Freedom From Religion Foundation
+      (FFRF) intervened, and the board's own attorney (Bill Jeter) warned of First
+      Amendment liability. The board subsequently revoked the satanism-specific dress
+      code language.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3461
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3461
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00989
+    classification: donor-organization-signal
+    text: Received donation check from Trinity Lutheran Church for school food pantries
+      (professional interaction, not personal affiliation)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1318
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1318
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00790
+    classification: faith-community-record
+    text: "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l820
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l106
+    sourceUrl: https://www.hfehays.org/o/hfe/article/923439
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:820
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00791
+    classification: faith-community-record
+    text: "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l821
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l107
+    sourceUrl: https://www.ihm-church.com/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:821
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00904
+    classification: faith-community-record
+    text: "[FHSU: Germans from Russia in Ellis County](https://fhsuguides.fhsu.edu/kansasheritage/elliscounty)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1087
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l121
+    - mem-reports-faith-church-investigation-2026-03-31-md-l317
+    sourceUrl: https://fhsuguides.fhsu.edu/kansasheritage/elliscounty
+    sourceFile: reports/faith-church-investigation-2026-03-31.md:317
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00915
+    classification: faith-community-record
+    text: "[HaysPost: NWester - Support for Catholic education alive, well in Ellis
+      County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1110
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l122
+    - mem-reports-faith-church-investigation-2026-03-31-md-l340
+    sourceUrl: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1110
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00999
+    classification: background-context
+    text: "| Notable Roles | Co-Chair, National Prayer Breakfast (2023 & 2024) |"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1342
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1342
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01001
+    classification: background-context
+    text: Co-chaired the 2023 AND 2024 National Prayer Breakfast in Washington, DC
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1346
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1346
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01003
+    classification: background-context
+    text: Read scripture publicly at the National Prayer Breakfast
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1348
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1348
+    confidence: unknown
+    useDecision: background-only
+  socialSignals:
+  - socialSignalId: soc-vernon-ruder-jr-0001
+    evidenceRowId: em-vernon-ruder-jr-03206
+    platform: hayspost.com
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: Two contextual notes are visible in the harvested record. First,
+      Ruder is identified in multiple local pieces as a member of what local coverage
+      refers to as the Ruder family network in Hays government — her husband Vernon
+      Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as
+      Mayor of Hays ([source](https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a)).
+      Second, the candidate-profiler raw intelligence from this project records that
+      no reliable public source identifies Ruder's church affiliation; that data point
+      is absent from the harvested set. The captured period contains no posts or quotes
+      from Ruder on healthcare, immigration, abortion specifics, foreign policy, federal
+      elections, K–12 curriculum content beyond test-score performance, or social-issue
+      topics.
+    sourceUrl: https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0074
+    evidenceRowId: em-vernon-ruder-jr-00023
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: This is an additive Phase 2 scrape for Vernon Ruder Jr. It uses existing
+      local memory in memory/candidates/vernon-ruder-jr/, then verifies against current
+      official pages and accessible news records. The pass prioritizes official county/KCTA/election/budget
+      records, then Hays Post candidate-attributed reporting, then social/online presence.
+      It does not use inaccessible or unverified social content, and it does not infer
+      beliefs from family, school, or church-adjacent context.
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0076
+    evidenceRowId: em-vernon-ruder-jr-00797
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: No faith or church references found in her candidate profiles, HaysPost
+      Q&As, or social media
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  sourceCoverage:
+    primary: 0
+    secondary: 13
+    social: 0
+    internalMemory: 203
+    publicUrlRows: 13
+  caveats:
+  - Social signals are observations only and are not treated as confirmed beliefs
+    or policy positions.
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 5
+  title: Taxes / spending / debt
+  summary: 'Taxes / spending / debt: 36 selected evidence items from 151 mapped rows.
+    Public URL-backed rows: 18.'
+  evidenceItems:
+  - evidenceRowId: em-vernon-ruder-jr-00058
+    classification: candidate-stated
+    text: County administrator letter says 2025 budget was adopted September 10, 2024.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l78
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:78
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00089
+    classification: candidate-stated
+    text: He said the landfill had a $1.2 million budget, ran only on collected fees,
+      and did not receive taxpayer money.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l131
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:131
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00111
+    classification: candidate-stated
+    text: Article says residents can avoid the walk-in fee by using the drop box;
+      online credit-card payments carry a 2.5 percent fee.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l166
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:166
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00326
+    classification: candidate-stated
+    text: Supports the two quarter-cent sales tax as "a viable alternative to raising
+      property taxes"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l167
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:167
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01629
+    classification: candidate-stated
+    text: Supports Opportunity Zones program (tax incentives for investment in distressed
+      areas)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2371
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2371
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02189
+    classification: candidate-stated
+    text: Academic (university math instructor). Moderate. Values transparency but
+      generally supports administration on spending votes. Willing to take strong
+      public positions (mascot, discipline policy). Parent of young children gives
+      her direct stake in outcomes.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3300
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3300
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02208
+    classification: candidate-stated
+    text: 'Special Education Funding: Repeatedly emphasizes that special education
+      should be fully funded as "originally promised," which would free up resources
+      for general education or tax relief.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3333
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3333
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02403
+    classification: candidate-stated
+    text: He has also pointed to budget reductions and customer-flow improvements
+      as evidence that the treasury office became more efficient under his watch.
+      In local coverage, he said the fee generated more than $50,000 a year and helped
+      reduce the office budget substantially. That is not flashy politics, but it
+      is the kind of concrete administrative record county treasurers are usually
+      judged on.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l11
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/site-profile.md:11
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00007
+    classification: documented-record
+    text: 'He also talks about customer flow and office access in concrete terms.
+      During the 2020 race he proposed kiosks for tag and tax payments outside normal
+      hours and an app showing wait times. The current Ellis County Treasury page
+      now describes QLess options by text message, app, home kiosk link, and office
+      kiosk for joining the treasurer office queue. Sources: [Hays Post, July 31,
+      2020](https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4), [Ellis
+      County Treasury](https://www.ellisco.net/566/Treasury).'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-in-their-own-words-md-l13
+    sourceUrl: https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4
+    sourceFile: memory/candidates/vernon-ruder-jr/in-their-own-words.md:13
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-02144
+    classification: documented-record
+    text: "[Board member questions Hays USD 489 bond budget](https://hayspost.com/posts/ed7e23f5-7116-4798-87ff-ff11bf8563d4)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3217
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l296
+    sourceUrl: https://hayspost.com/posts/ed7e23f5-7116-4798-87ff-ff11bf8563d4
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3217
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-02145
+    classification: documented-record
+    text: "[Hays USD 489 board scrutinizes bond budget](https://hayspost.com/posts/87f9b442-e928-4c9d-bb85-03acad9d2a3f)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3218
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l297
+    sourceUrl: https://hayspost.com/posts/87f9b442-e928-4c9d-bb85-03acad9d2a3f
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3218
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-03146
+    classification: documented-record
+    text: 'narrative: "Vernon Ruder Jr.''s public messaging is administrative, local,
+      and practical rather than ideological. The strongest candidate-controlled source
+      is his signed 2020 Hays Post letter, and the strongest attributed sources are
+      Hays Post candidate and office-policy coverage. Through May 11, 2026, I found
+      no verified current campaign website or high-volume social feed. The visible
+      record comes from official Ellis County treasury pages, the Kansas County Treasurers
+      Association, election results, Hays Post reporting, and public civic-event coverage.\n\nHis
+      central message is efficiency. In his 2020 candidate profile, Ruder said he
+      entered the treasurer race after seeing turnover and spending issues in the
+      office, and said he could decrease spending and increase efficiencies. He tied
+      that pitch to his landfill-management experience, saying he ran that operation
+      like his own money and k…'
+    sourceIds:
+    - mem-ui-src-data-candidates-ts-l43879
+    sourceUrl: https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4
+    sourceFile: ui/src/data/candidates.ts:43879
+    confidence: likely
+    useDecision: use-with-caveat
+    caveat: Usable with explicit caveat because the raw evidence notes a source limitation,
+      preliminary status, or verification gap.
+  - evidenceRowId: em-vernon-ruder-jr-00081
+    classification: documented-record
+    text: Affidavit of exemption may be filed if the candidate anticipates receiving
+      and spending less than $1,000 in the primary period and less than $1,000 in
+      the general period.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l117
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:117
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00200
+    classification: documented-record
+    text: 2023 budget-reduction claim should be corroborated with county budgets/minutes
+      before final outcome language.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l329
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:329
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00211
+    classification: documented-record
+    text: Vernon Ruder Jr. is the Ellis County Treasurer and a second-term county
+      officeholder. The public record ties him to prior work as a financial advisor,
+      district manager for E.A. Sween, county solid-waste management, and the office's
+      current motor-vehicle and tax collection systems.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l8
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:8
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00272
+    classification: documented-record
+    text: 'Fiscal Conservatism: Identified "Ellis County spending too much money"
+      as a top concern during 2020 campaign.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l93
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l45
+    sourceUrl:
+    sourceFile: reports/ellis-county-elected-officials-deep-investigation.md:45
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00025
+    classification: donor-organization-signal
+    text: 'Primary: Ellis County official pages, staff directory, official election-results
+      index, commission minutes, county budget book, Kansas County Treasurers Association,
+      KPDC/Kansas county-office campaign-finance guidance.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l16
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:16
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02411
+    classification: donor-organization-signal
+    text: He has said the motor-vehicle fee raised more than $50,000 a year and helped
+      cut the treasury budget from roughly $452,000 to about $367,000.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l26
+    - mem-ui-src-data-candidates-ts-l43843
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/site-profile.md:26
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-03185
+    classification: donor-organization-signal
+    text: '"stance": "She has been willing to slow down land transactions when the
+      public benefit is unclear. In 2025, she raised concerns that a buyer of district
+      land near the middle school might purchase it only for a tax deduction rather
+      than put it to productive use."'
+    sourceIds:
+    - mem-ui-src-data-candidates-ts-l46460
+    sourceUrl:
+    sourceFile: ui/src/data/candidates.ts:46460
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02639
+    classification: social-online-signal
+    text: "| Kansas County Treasurers Association profile | Found | The [KCTA Ellis
+      County page](https://kansastreasurers.org/index.php/directory/ellis-county/)
+      lists Vernon Ruder Jr., says he took office in 2021, and lists services including
+      online tax payments, escrow options, ACH/wire property-tax payments, notary
+      services, and a 24-hour drop box. |"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l19
+    sourceUrl: https://kansastreasurers.org/index.php/directory/ellis-county/
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:19
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02641
+    classification: social-online-signal
+    text: "| Local news candidate profile | Found | Hays Post published a July 31,
+      2020 [candidate profile](https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4)
+      with extensive attributed quotes on spending, efficiency, transparency, professionalism,
+      and working full time in the office. |"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l21
+    sourceUrl: https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:21
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02698
+    classification: social-online-signal
+    text: "[Hays Post - Motor vehicle fees and treasurer budget, Nov. 20, 2023](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l97
+    sourceUrl: https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:97
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02656
+    classification: social-online-signal
+    text: "| Office efficiency, spending reduction, private-sector management, budget
+      discipline | 4 | Core campaign and office-record theme: reduce spending, increase
+      efficiency, use private-sector experience, and manage county operations like
+      taxpayer money matters. |"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l40
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:40
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02657
+    classification: social-online-signal
+    text: "| Motor-vehicle operations, fees, customer flow, kiosks/QLess, office access
+      | 4 | Repeated practical focus on shorter waits, tag/tax transaction access,
+      kiosks, text/app queueing, and motor-vehicle funding. |"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l41
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:41
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02658
+    classification: social-online-signal
+    text: "| Taxpayer burden, property taxes, user-fee funding | 3 | Frames the $2.50
+      walk-in motor-vehicle fee as a way to fund motor-vehicle work with motor-vehicle
+      money instead of shifting cost to property taxpayers. |"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l42
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:42
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02693
+    classification: social-online-signal
+    text: I searched Vernon Ruder Jr., Vern Ruder, Vote Ruder for Treasurer, voteruderfortreasurer@gmail.com,
+      Ellis County Treasurer, Ellis County Treasury, Ellis County election results,
+      Hays Post, Facebook, LinkedIn, X/Twitter, Instagram, YouTube, campaign website,
+      candidate filings, county budget book, county commission, motor vehicle fee,
+      QLess, TMP-Marian, and Hays Middle School. I prioritized official county pages,
+      official election/result pages, the Kansas County Treasurers Association, Hays
+      Post candidate-attributed reporting, Ruder's signed Hays Post letter, and public
+      civic-event reporting. Login-walled, script-blocked, generic people-search,
+      or otherwise unverifiable material was not treated as confirmed candidate messaging.
+      Topic counts were manually coded from reviewed public items and should be read
+      as directional rather than exhaustive analytics.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l86
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:86
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-00023
+    classification: faith-community-record
+    text: This is an additive Phase 2 scrape for Vernon Ruder Jr. It uses existing
+      local memory in memory/candidates/vernon-ruder-jr/, then verifies against current
+      official pages and accessible news records. The pass prioritizes official county/KCTA/election/budget
+      records, then Hays Post candidate-attributed reporting, then social/online presence.
+      It does not use inaccessible or unverified social content, and it does not infer
+      beliefs from family, school, or church-adjacent context.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l12
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:12
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-03123
+    classification: faith-community-record
+    text: '"whoTheyAre": "Vernon Ruder Jr. is the Ellis County treasurer, a county
+      official whose public work centers on taxes, motor-vehicle transactions, and
+      the day-to-day administrative functions that most voters notice only when something
+      changes. Before serving as treasurer, public records tie him to finance, operations,
+      and work connected to local government and business administration in Hays.
+      He is also part of a well-known Hays family network. He is married to school
+      board member Ruth Ruder, and his family name is also tied to Hays Mayor Mason
+      Ruder. Public records point strongly to a Catholic family and school background
+      in Hays, but they do not clearly identify a current parish membership for Vernon
+      Ruder Jr. himself.",'
+    sourceIds:
+    - mem-ui-src-data-candidates-ts-l43824
+    sourceUrl:
+    sourceFile: ui/src/data/candidates.ts:43824
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00609
+    classification: public-controversy
+    text: FHSU polling location controversy -- drew ACLU attention and statewide news
+      coverage. Whether her position is seen as fiscal responsibility or voter suppression
+      depends on political perspective. The numbers (69 registered on-campus voters
+      out of 1,650 residents) do support her cost argument, though critics note this
+      is a chicken-and-egg problem.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l542
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:542
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02309
+    classification: public-controversy
+    text: The major controversies have been almost entirely about money (bond spending,
+      capital outlay, admin pay, naming rights, student fees, nepotism) and governance
+      (transparency, executive sessions, contract procedures, handbook policies).
+      The satanism dress code issue and gender-neutral bathroom controversy are the
+      closest to culture-war issues, and the board ultimately took legally defensive
+      positions on both.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3480
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3480
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00229
+    classification: background-context
+    text: '"The Ellis County Treasurer''s Office ... is responsible for the tax billing,
+      collection, and distribution" - Ellis County Treasury official page - https://www.ellisco.net/566/Treasury
+      - topic: office mission'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l34
+    sourceUrl: https://www.ellisco.net/566/Treasury
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:34
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00231
+    classification: background-context
+    text: '"I feel like we should be funding our motor vehicle department with motor
+      vehicle money" - Hays Post, 2023-11-20 - https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494
+      - topic: fee policy'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l36
+    sourceUrl: https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:36
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-01519
+    classification: background-context
+    text: "[Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2194
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l204
+    sourceUrl: https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2194
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-01914
+    classification: background-context
+    text: "[Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2826
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l277
+    sourceUrl: https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2826
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-02378
+    classification: background-context
+    text: 'On the motor vehicle fee: "I elected, after 12 years, to implement a $2.50
+      fee for walk-in customers." Source: [Hays Post](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494)
+      on May 15, 2023.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3574
+    sourceUrl: https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3574
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-02379
+    classification: background-context
+    text: 'On county funding: "The State of Kansas allows the treasurers in each county
+      to help fund their motor vehicle operations with this facility fee for the county."
+      Source: [Hays Post](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494)
+      on May 15, 2023.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3575
+    sourceUrl: https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3575
+    confidence: likely
+    useDecision: use
+  socialSignals:
+  - socialSignalId: soc-vernon-ruder-jr-0002
+    evidenceRowId: em-vernon-ruder-jr-03146
+    platform: Bluesky
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'narrative: "Vernon Ruder Jr.''s public messaging is administrative,
+      local, and practical rather than ideological. The strongest candidate-controlled
+      source is his signed 2020 Hays Post letter, and the strongest attributed sources
+      are Hays Post candidate and office-policy coverage. Through May 11, 2026, I
+      found no verified current campaign website or high-volume social feed. The visible
+      record comes from official Ellis County treasury pages, the Kansas County Treasurers
+      Association, election results, Hays Post reporting, and public civic-event coverage.\n\nHis
+      central message is efficiency. In his 2020 candidate profile, Ruder said he
+      entered the treasurer race after seeing turnover and spending issues in the
+      office, and said he could decrease spending and increase efficiencies. He tied
+      that pitch to his landfill-management experience, saying he ran that operation
+      like his own money and k…'
+    sourceUrl: https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0004
+    evidenceRowId: em-vernon-ruder-jr-02693
+    platform: Facebook
+    actionType: post
+    signalStrength: weak
+    observation: I searched Vernon Ruder Jr., Vern Ruder, Vote Ruder for Treasurer,
+      voteruderfortreasurer@gmail.com, Ellis County Treasurer, Ellis County Treasury,
+      Ellis County election results, Hays Post, Facebook, LinkedIn, X/Twitter, Instagram,
+      YouTube, campaign website, candidate filings, county budget book, county commission,
+      motor vehicle fee, QLess, TMP-Marian, and Hays Middle School. I prioritized
+      official county pages, official election/result pages, the Kansas County Treasurers
+      Association, Hays Post candidate-attributed reporting, Ruder's signed Hays Post
+      letter, and public civic-event reporting. Login-walled, script-blocked, generic
+      people-search, or otherwise unverifiable material was not treated as confirmed
+      candidate messaging. Topic counts were manually coded from reviewed public items
+      and should be read as directional rather than exhaustive analytics.
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0006
+    evidenceRowId: em-vernon-ruder-jr-02639
+    platform: kansastreasurers.org
+    actionType: post
+    signalStrength: strong
+    observation: "| Kansas County Treasurers Association profile | Found | The [KCTA
+      Ellis County page](https://kansastreasurers.org/index.php/directory/ellis-county/)
+      lists Vernon Ruder Jr., says he took office in 2021, and lists services including
+      online tax payments, escrow options, ACH/wire property-tax payments, notary
+      services, and a 24-hour drop box. |"
+    sourceUrl: https://kansastreasurers.org/index.php/directory/ellis-county/
+    caveat: Candidate-controlled post or candidate-controlled platform statement;
+      still use as stated/observed content, not inferred motive.
+  - socialSignalId: soc-vernon-ruder-jr-0007
+    evidenceRowId: em-vernon-ruder-jr-02641
+    platform: hayspost.com
+    actionType: post
+    signalStrength: strong
+    observation: "| Local news candidate profile | Found | Hays Post published a July
+      31, 2020 [candidate profile](https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4)
+      with extensive attributed quotes on spending, efficiency, transparency, professionalism,
+      and working full time in the office. |"
+    sourceUrl: https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4
+    caveat: Candidate-controlled post or candidate-controlled platform statement;
+      still use as stated/observed content, not inferred motive.
+  - socialSignalId: soc-vernon-ruder-jr-0008
+    evidenceRowId: em-vernon-ruder-jr-02656
+    platform: Public web / internal harvest
+    actionType: like
+    signalStrength: weak
+    observation: "| Office efficiency, spending reduction, private-sector management,
+      budget discipline | 4 | Core campaign and office-record theme: reduce spending,
+      increase efficiency, use private-sector experience, and manage county operations
+      like taxpayer money matters. |"
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0009
+    evidenceRowId: em-vernon-ruder-jr-02657
+    platform: Public web / internal harvest
+    actionType: post
+    signalStrength: weak
+    observation: "| Motor-vehicle operations, fees, customer flow, kiosks/QLess, office
+      access | 4 | Repeated practical focus on shorter waits, tag/tax transaction
+      access, kiosks, text/app queueing, and motor-vehicle funding. |"
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0010
+    evidenceRowId: em-vernon-ruder-jr-02658
+    platform: Public web / internal harvest
+    actionType: post
+    signalStrength: weak
+    observation: "| Taxpayer burden, property taxes, user-fee funding | 3 | Frames
+      the $2.50 walk-in motor-vehicle fee as a way to fund motor-vehicle work with
+      motor-vehicle money instead of shifting cost to property taxpayers. |"
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0011
+    evidenceRowId: em-vernon-ruder-jr-02698
+    platform: hayspost.com
+    actionType: post
+    signalStrength: strong
+    observation: "[Hays Post - Motor vehicle fees and treasurer budget, Nov. 20, 2023](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494)"
+    sourceUrl: https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494
+    caveat: Candidate-controlled post or candidate-controlled platform statement;
+      still use as stated/observed content, not inferred motive.
+  - socialSignalId: soc-vernon-ruder-jr-0074
+    evidenceRowId: em-vernon-ruder-jr-00023
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: This is an additive Phase 2 scrape for Vernon Ruder Jr. It uses existing
+      local memory in memory/candidates/vernon-ruder-jr/, then verifies against current
+      official pages and accessible news records. The pass prioritizes official county/KCTA/election/budget
+      records, then Hays Post candidate-attributed reporting, then social/online presence.
+      It does not use inaccessible or unverified social content, and it does not infer
+      beliefs from family, school, or church-adjacent context.
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  sourceCoverage:
+    primary: 4
+    secondary: 11
+    social: 7
+    internalMemory: 129
+    publicUrlRows: 18
+  caveats:
+  - Social signals are observations only and are not treated as confirmed beliefs
+    or policy positions.
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 6
+  title: Economy / jobs / labor
+  summary: 'Economy / jobs / labor: 17 selected evidence items from 30 mapped rows.
+    Public URL-backed rows: 2.'
+  evidenceItems:
+  - evidenceRowId: em-vernon-ruder-jr-01455
+    classification: candidate-stated
+    text: 'Small business: Supports reducing costs for working families and small
+      businesses'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2099
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2099
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00271
+    classification: documented-record
+    text: 'Economic Development: Favors proactive county role in economic development.
+      Stated he would "work with the city of Hays to get more water to Hays and higher-paying
+      jobs."'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l92
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l44
+    sourceUrl:
+    sourceFile: reports/ellis-county-elected-officials-deep-investigation.md:44
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00337
+    classification: documented-record
+    text: 'Current employer: Business Services Director at Northwest Kansas Economic
+      Innovation Center (NWKEICI) (nwkeici.org) -- leads initiatives to strengthen
+      and support businesses across a 26-county service area in NW Kansas'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l190
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l142
+    sourceUrl:
+    sourceFile: reports/ellis-county-elected-officials-deep-investigation.md:142
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00338
+    classification: documented-record
+    text: 'NOTE: Mason Ruder (Mayor of Hays, Vernon Ruder Jr.''s son) also works at
+      NWKEICI as a Business Services Specialist. Berges is effectively Mason Ruder''s
+      supervisor at the Innovation Center.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l191
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l143
+    sourceUrl:
+    sourceFile: reports/ellis-county-elected-officials-deep-investigation.md:143
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02082
+    classification: documented-record
+    text: 'Occupation: Vice President, Hays branch of Golden Plains Credit Union (30
+      years with the company, 15+ years as VP)'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3105
+    - mem-reports-usd489-board-deep-investigation-2026-03-30-md-l54
+    sourceUrl:
+    sourceFile: reports/usd489-board-deep-investigation-2026-03-30.md:54
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02100
+    classification: documented-record
+    text: Family runs Republican (Vernon Jr. won a Republican primary). Credit union
+      executive. Generally pro-establishment, pro-administration on board votes.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3136
+    - mem-reports-usd489-board-deep-investigation-2026-03-30-md-l85
+    sourceUrl:
+    sourceFile: reports/usd489-board-deep-investigation-2026-03-30.md:85
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-03017
+    classification: documented-record
+    text: "| Parents | Vernon Ruder Jr. (Ellis County Treasurer) and Ruth Ruder (VP,
+      Golden Plains Credit Union; USD 489 School Board Vice President) |"
+    sourceIds:
+    - mem-reports-mason-ruder-complete-dossier-md-l17
+    sourceUrl:
+    sourceFile: reports/mason-ruder-complete-dossier.md:17
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-03180
+    classification: documented-record
+    text: '"whoTheyAre": "Ruth Ruder is a USD 489 school board member and board vice
+      president in Hays. She grew up in Hays, graduated from Hays High in 1988, and
+      spent 30 years at Golden Plains Credit Union, including more than 15 years as
+      vice president. Her public profile is local, finance-oriented, and closely tied
+      to Hays civic life. She is also part of one of the most visible political families
+      in the area. Ruder is married to Vernon Ruder Jr., the Ellis County treasurer,
+      and she is the mother of Mason Ruder, the mayor of Hays. That means the family
+      has held visible roles in county, city, and school government at the same time.",'
+    sourceIds:
+    - mem-ui-src-data-candidates-ts-l46451
+    sourceUrl:
+    sourceFile: ui/src/data/candidates.ts:46451
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00940
+    classification: faith-community-record
+    text: Bank Vice President (Golden Plains Credit Union, 30+ years)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1179
+    - mem-reports-faith-church-investigation-2026-03-31-md-l409
+    sourceUrl:
+    sourceFile: reports/faith-church-investigation-2026-03-31.md:409
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01004
+    classification: faith-community-record
+    text: Introduced the FAITH in Small Business Act (ensures faith-based businesses
+      can participate in SBA loans)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1349
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1349
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-03123
+    classification: faith-community-record
+    text: '"whoTheyAre": "Vernon Ruder Jr. is the Ellis County treasurer, a county
+      official whose public work centers on taxes, motor-vehicle transactions, and
+      the day-to-day administrative functions that most voters notice only when something
+      changes. Before serving as treasurer, public records tie him to finance, operations,
+      and work connected to local government and business administration in Hays.
+      He is also part of a well-known Hays family network. He is married to school
+      board member Ruth Ruder, and his family name is also tied to Hays Mayor Mason
+      Ruder. Public records point strongly to a Catholic family and school background
+      in Hays, but they do not clearly identify a current parish membership for Vernon
+      Ruder Jr. himself.",'
+    sourceIds:
+    - mem-ui-src-data-candidates-ts-l43824
+    sourceUrl:
+    sourceFile: ui/src/data/candidates.ts:43824
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01802
+    classification: background-context
+    text: "[Nex-Tech: Shaun](https://www.nex-tech.com/business/shaun/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2649
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l263
+    sourceUrl: https://www.nex-tech.com/business/shaun/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2649
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-03093
+    classification: background-context
+    text: "[HaysPost: Housing/business developments](https://hayspost.com/posts/dc0fb523-b96d-42bb-b65a-55221db96969)"
+    sourceIds:
+    - mem-reports-mason-ruder-complete-dossier-md-l230
+    sourceUrl: https://hayspost.com/posts/dc0fb523-b96d-42bb-b65a-55221db96969
+    sourceFile: reports/mason-ruder-complete-dossier.md:230
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00928
+    classification: background-context
+    text: 55 years old, rancher/farmer, K-Lawn business partner
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1154
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1154
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01484
+    classification: background-context
+    text: 'Parents: Both public school teachers; mother worked retail as second job,
+      father did custom harvesting with family business and later tutoring'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2143
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2143
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01577
+    classification: background-context
+    text: Ameriprise Financial Services -- 22 years as an executive (culmination of
+      40-year business career)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2283
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2283
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01711
+    classification: background-context
+    text: 'Occupation: Business administrator'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2515
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2515
+    confidence: unknown
+    useDecision: background-only
+  socialSignals:
+  - socialSignalId: soc-vernon-ruder-jr-0077
+    evidenceRowId: em-vernon-ruder-jr-01847
+    platform: Facebook
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'Personal Facebook: Limited; appears to post primarily through DXI
+      Training Solutions LLC business page'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0078
+    evidenceRowId: em-vernon-ruder-jr-01849
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: DXI business page is his primary public-facing social media presence
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  sourceCoverage:
+    primary: 0
+    secondary: 2
+    social: 0
+    internalMemory: 28
+    publicUrlRows: 2
+  caveats:
+  - Social signals are observations only and are not treated as confirmed beliefs
+    or policy positions.
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 7
+  title: Guns / Second Amendment
+  summary: No relevant public evidence was found for Guns / Second Amendment after
+    searching the evidence matrix, social-evidence-matrix, and source audit for this
+    candidate.
+  evidenceItems: []
+  socialSignals: []
+  sourceCoverage:
+    primary: 0
+    secondary: 0
+    social: 0
+    internalMemory: 0
+    publicUrlRows: 0
+  caveats:
+  - No relevant public evidence found in the current matrix pass; do not infer a position
+    from party, faith, follows, likes, or associations.
+- issueNumber: 8
+  title: Immigration / border
+  summary: 'Immigration / border: 11 selected evidence items from 22 mapped rows.
+    Public URL-backed rows: 5.'
+  evidenceItems:
+  - evidenceRowId: em-vernon-ruder-jr-00451
+    classification: documented-record
+    text: "[ICE Bill Support -- Hays Post](https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l337
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l64
+    sourceUrl: https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:337
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00433
+    classification: documented-record
+    text: Bill protecting Kansas law enforcement working with ICE advanced in the
+      Kansas Senate (March 2026)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l313
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:313
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00442
+    classification: documented-record
+    text: ICE agreement liability gap -- signed agreement before fully understanding
+      insurance coverage implications; had to go back to commission to address
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l326
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:326
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02249
+    classification: documented-record
+    text: The Trump administration froze $172,000 in federal title funds for USD 489.
+      Wilson stated the funds were already allocated and would be distributed after
+      45 days unless Congress voted to claw back. Title funds support reading/math
+      instruction, migrant student support, and professional development. Wilson noted
+      Kansas had already eliminated state funding for professional development.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3400
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3400
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-03206
+    classification: faith-community-record
+    text: Two contextual notes are visible in the harvested record. First, Ruder is
+      identified in multiple local pieces as a member of what local coverage refers
+      to as the Ruder family network in Hays government — her husband Vernon Ruder
+      Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor
+      of Hays ([source](https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a)).
+      Second, the candidate-profiler raw intelligence from this project records that
+      no reliable public source identifies Ruder's church affiliation; that data point
+      is absent from the harvested set. The captured period contains no posts or quotes
+      from Ruder on healthcare, immigration, abortion specifics, foreign policy, federal
+      elections, K–12 curriculum content beyond test-score performance, or social-issue
+      topics.
+    sourceIds:
+    - mem-ui-src-data-candidates-ts-l46516
+    sourceUrl: https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a
+    sourceFile: ui/src/data/candidates.ts:46516
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00450
+    classification: background-context
+    text: "[ICE Agreement Explained -- Hays Post](https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l336
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l63
+    sourceUrl: https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:336
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-01667
+    classification: background-context
+    text: "[Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2443
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l238
+    sourceUrl: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2443
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-01670
+    classification: background-context
+    text: "[KMAN Radio: Within Reason interview](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2447
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l241
+    sourceUrl: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2447
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00392
+    classification: background-context
+    text: "| 2025 | Signed ICE memorandum of agreement |"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l266
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:266
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00425
+    classification: background-context
+    text: ICE Agreement (May 2025)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l305
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:305
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00426
+    classification: background-context
+    text: Signed 287(g)-style memorandum with U.S. Immigration and Customs Enforcement
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l306
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:306
+    confidence: unknown
+    useDecision: background-only
+  socialSignals:
+  - socialSignalId: soc-vernon-ruder-jr-0001
+    evidenceRowId: em-vernon-ruder-jr-03206
+    platform: hayspost.com
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: Two contextual notes are visible in the harvested record. First,
+      Ruder is identified in multiple local pieces as a member of what local coverage
+      refers to as the Ruder family network in Hays government — her husband Vernon
+      Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as
+      Mayor of Hays ([source](https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a)).
+      Second, the candidate-profiler raw intelligence from this project records that
+      no reliable public source identifies Ruder's church affiliation; that data point
+      is absent from the harvested set. The captured period contains no posts or quotes
+      from Ruder on healthcare, immigration, abortion specifics, foreign policy, federal
+      elections, K–12 curriculum content beyond test-score performance, or social-issue
+      topics.
+    sourceUrl: https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  sourceCoverage:
+    primary: 0
+    secondary: 5
+    social: 0
+    internalMemory: 17
+    publicUrlRows: 5
+  caveats:
+  - Social signals are observations only and are not treated as confirmed beliefs
+    or policy positions.
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 9
+  title: Health care / insurance / Medicaid
+  summary: 'Health care / insurance / Medicaid: 18 selected evidence items from 53
+    mapped rows. Public URL-backed rows: 2.'
+  evidenceItems:
+  - evidenceRowId: em-vernon-ruder-jr-01583
+    classification: candidate-stated
+    text: Opposes Medicaid cuts threatening rural hospitals
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2293
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2293
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00275
+    classification: documented-record
+    text: 'Budget 2026: Supported the 1.96 mill levy increase. Notably said the mental
+      health funding increase "is less expensive than building a new jail."'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l96
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l48
+    sourceUrl:
+    sourceFile: reports/ellis-county-elected-officials-deep-investigation.md:48
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00312
+    classification: documented-record
+    text: Appointed to High Plains Mental Health board for 2026
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l148
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:148
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00320
+    classification: documented-record
+    text: High Plains Mental Health board member (2026 appointment)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l161
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:161
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00442
+    classification: documented-record
+    text: ICE agreement liability gap -- signed agreement before fully understanding
+      insurance coverage implications; had to go back to commission to address
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l326
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:326
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00513
+    classification: documented-record
+    text: Murder-for-Insurance Case
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l415
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:415
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00806
+    classification: documented-record
+    text: First elected to city commission in April 2013; served as mayor during COVID
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l860
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:860
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01350
+    classification: documented-record
+    text: Hays Medical Center (HaysMed) Board
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1941
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1941
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01358
+    classification: documented-record
+    text: No separate hospital district election identified for Ellis County
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1951
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1951
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-03206
+    classification: faith-community-record
+    text: Two contextual notes are visible in the harvested record. First, Ruder is
+      identified in multiple local pieces as a member of what local coverage refers
+      to as the Ruder family network in Hays government — her husband Vernon Ruder
+      Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor
+      of Hays ([source](https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a)).
+      Second, the candidate-profiler raw intelligence from this project records that
+      no reliable public source identifies Ruder's church affiliation; that data point
+      is absent from the harvested set. The captured period contains no posts or quotes
+      from Ruder on healthcare, immigration, abortion specifics, foreign policy, federal
+      elections, K–12 curriculum content beyond test-score performance, or social-issue
+      topics.
+    sourceIds:
+    - mem-ui-src-data-candidates-ts-l46516
+    sourceUrl: https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a
+    sourceFile: ui/src/data/candidates.ts:46516
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00962
+    classification: faith-community-record
+    text: No faith or church references in any professional profiles, medical directories,
+      or candidate information
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1229
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1229
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01106
+    classification: faith-community-record
+    text: International Medical Corps is a SECULAR humanitarian organization (not
+      faith-based like Samaritan's Purse or Catholic Relief Services)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1543
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1543
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01110
+    classification: background-context
+    text: "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1550
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l160
+    sourceUrl: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1550
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00465
+    classification: background-context
+    text: Juris Doctor from Washburn University School of Law (2019)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l356
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:356
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00515
+    classification: background-context
+    text: Investigators found internet searches about collecting life insurance 10
+      days before wife found dead
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l417
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:417
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00799
+    classification: background-context
+    text: Her community involvement centers on healthcare, fitness, and civic engagement
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l838
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:838
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00963
+    classification: background-context
+    text: 'Assessment: Nothing found. Medical professionals sometimes keep personal
+      beliefs separate from their professional identity. Recommend direct inquiry.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1231
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1231
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01072
+    classification: background-context
+    text: Kansas Insurance Commissioner since 2018, former state senator (14 years)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1484
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1484
+    confidence: unknown
+    useDecision: background-only
+  socialSignals:
+  - socialSignalId: soc-vernon-ruder-jr-0001
+    evidenceRowId: em-vernon-ruder-jr-03206
+    platform: hayspost.com
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: Two contextual notes are visible in the harvested record. First,
+      Ruder is identified in multiple local pieces as a member of what local coverage
+      refers to as the Ruder family network in Hays government — her husband Vernon
+      Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as
+      Mayor of Hays ([source](https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a)).
+      Second, the candidate-profiler raw intelligence from this project records that
+      no reliable public source identifies Ruder's church affiliation; that data point
+      is absent from the harvested set. The captured period contains no posts or quotes
+      from Ruder on healthcare, immigration, abortion specifics, foreign policy, federal
+      elections, K–12 curriculum content beyond test-score performance, or social-issue
+      topics.
+    sourceUrl: https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0079
+    evidenceRowId: em-vernon-ruder-jr-01587
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: Defending Social Security, Medicare, and the VA
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  sourceCoverage:
+    primary: 0
+    secondary: 2
+    social: 0
+    internalMemory: 51
+    publicUrlRows: 2
+  caveats:
+  - Social signals are observations only and are not treated as confirmed beliefs
+    or policy positions.
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 10
+  title: Election integrity / voting / courts
+  summary: 'Election integrity / voting / courts: 34 selected evidence items from
+    508 mapped rows. Public URL-backed rows: 56.'
+  evidenceItems:
+  - evidenceRowId: em-vernon-ruder-jr-02926
+    classification: candidate-stated
+    text: 'statement: "The reason you should get out and vote is you can make a difference
+      in our county and our city just by the choices you make."'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-v2-issues-yaml-l491
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/v2-issues.yaml:491
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00007
+    classification: documented-record
+    text: 'He also talks about customer flow and office access in concrete terms.
+      During the 2020 race he proposed kiosks for tag and tax payments outside normal
+      hours and an app showing wait times. The current Ellis County Treasury page
+      now describes QLess options by text message, app, home kiosk link, and office
+      kiosk for joining the treasurer office queue. Sources: [Hays Post, July 31,
+      2020](https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4), [Ellis
+      County Treasury](https://www.ellisco.net/566/Treasury).'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-in-their-own-words-md-l13
+    sourceUrl: https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4
+    sourceFile: memory/candidates/vernon-ruder-jr/in-their-own-words.md:13
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00052
+    classification: documented-record
+    text: '"url": "https://www.sos.ks.gov/elections/candidate-information.html"'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l62
+    - mem-memory-candidates-vernon-ruder-jr-v2-issues-yaml-l48
+    - mem-ui-src-data-candidates-ts-l46624
+    - mem-ui-src-data-candidates-ts-l46628
+    - mem-ui-src-data-v2-vernon-ruder-jr-ts-l489
+    sourceUrl: https://www.sos.ks.gov/elections/candidate-information.html
+    sourceFile: ui/src/data/candidates.ts:46628
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00290
+    classification: documented-record
+    text: "[Candidate Profile -- Hays Post](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l116
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l233
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l674
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l49
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l57
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l101
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l626
+    sourceUrl: https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:116
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00451
+    classification: documented-record
+    text: "[ICE Bill Support -- Hays Post](https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l337
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l64
+    sourceUrl: https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:337
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00534
+    classification: documented-record
+    text: "[Criminal Threat Sentencing -- Hays Post](https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l446
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l78
+    sourceUrl: https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:446
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00535
+    classification: documented-record
+    text: "[Drug Death Case -- Salina Post](https://salinapost.com/posts/4397834a-4587-449e-ac2b-6effc74eb6c3)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l447
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l79
+    sourceUrl: https://salinapost.com/posts/4397834a-4587-449e-ac2b-6effc74eb6c3
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:447
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00618
+    classification: documented-record
+    text: "[Allen Campaign Profile -- Hays Post](https://hayspost.com/posts/90ec3907-2122-4b32-9bc1-b4199532ec34)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l553
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l94
+    sourceUrl: https://hayspost.com/posts/90ec3907-2122-4b32-9bc1-b4199532ec34
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:553
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00641
+    classification: documented-record
+    text: "[Ellis County Register of Deeds](https://www.ellisco.net/100/Register-of-Deeds)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l591
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1133
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2977
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l543
+    - mem-reports-faith-church-investigation-2026-03-31-md-l363
+    sourceUrl: https://www.ellisco.net/100/Register-of-Deeds
+    sourceFile: reports/ellis-county-elected-officials-deep-investigation.md:543
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-01713
+    classification: donor-organization-signal
+    text: 'FEC Filing: [FEC Candidate H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/)'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2517
+    sourceUrl: https://www.fec.gov/data/candidate/H6KS03258/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2517
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00025
+    classification: donor-organization-signal
+    text: 'Primary: Ellis County official pages, staff directory, official election-results
+      index, commission minutes, county budget book, Kansas County Treasurers Association,
+      KPDC/Kansas county-office campaign-finance guidance.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l16
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:16
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00168
+    classification: donor-organization-signal
+    text: KPDC says county offices are covered by Kansas campaign finance law, but
+      local-office Appointment of Treasurer forms are filed with the county clerk/county
+      election commissioner.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l286
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:286
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01433
+    classification: donor-organization-signal
+    text: 'FEC Filing: Registered candidate for 2026 Kansas Senate race'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2074
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2074
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02164
+    classification: donor-organization-signal
+    text: 'Administrator Contract Scrutiny: Made a motion to evaluate and vote on
+      each administrator''s contract individually rather than as a blanket extension.
+      Lost 5-2. Raised concerns that contracts referenced an administrative handbook
+      the board had not formally reviewed since 2024. Wanted specific salary, vacation
+      days, and holidays spelled out.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3249
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3249
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02588
+    classification: donor-organization-signal
+    text: KPDC says county offices are covered by the Campaign Finance Act, and local
+      candidates file Appointment of Treasurer forms with the county clerk/county
+      election commissioner.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-sleuth-pass-md-l166
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/sleuth-pass.md:166
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02701
+    classification: social-online-signal
+    text: "[Hays Post - 2024 general election results, Nov. 6, 2024](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l100
+    sourceUrl: https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:100
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02702
+    classification: social-online-signal
+    text: "[Hays Post - Re-election oath coverage, Oct. 13, 2025](https://hayspost.com/posts/769b9cc3-43f2-4772-9389-e5a962d9a36a)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l101
+    sourceUrl: https://hayspost.com/posts/769b9cc3-43f2-4772-9389-e5a962d9a36a
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:101
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02630
+    classification: social-online-signal
+    text: 'Election slug: ellis-county-current'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l8
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:8
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02632
+    classification: social-online-signal
+    text: 'Public date range found: July 31, 2020 Hays Post candidate profile through
+      Oct. 13, 2025 re-election oath coverage, plus current official county/treasurer
+      directory pages visible in May 2026.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l10
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:10
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02633
+    classification: social-online-signal
+    text: 'Harvest focus: candidate-controlled or candidate-attributed public messaging,
+      official county treasurer pages, election results, public meeting/civic event
+      coverage, local news quotes, professional/civic pages, and visible platform
+      absences. Existing candidate data reportedly has a bad campaignWebsite value,
+      so no campaign website was used unless independently verified.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l11
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:11
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02661
+    classification: social-online-signal
+    text: "| Voting, civic engagement, youth involvement | 2 | 2024 civic-event coverage
+      shows him urging students to vote, get involved early, and choose competent
+      local officials. |"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l45
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:45
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02662
+    classification: social-online-signal
+    text: "| Election/re-election status | 3 | 2020 win, 2024 incumbent re-election,
+      and 2025 oath coverage anchor the officeholder timeline. |"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l46
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:46
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02690
+    classification: social-online-signal
+    text: No public high-volume social posting stream surfaced. The public record
+      is mostly a 2020 campaign profile/letter, official county pages, local-news
+      quotes, election results, and civic-event coverage.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l81
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:81
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-00023
+    classification: faith-community-record
+    text: This is an additive Phase 2 scrape for Vernon Ruder Jr. It uses existing
+      local memory in memory/candidates/vernon-ruder-jr/, then verifies against current
+      official pages and accessible news records. The pass prioritizes official county/KCTA/election/budget
+      records, then Hays Post candidate-attributed reporting, then social/online presence.
+      It does not use inaccessible or unverified social content, and it does not infer
+      beliefs from family, school, or church-adjacent context.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l12
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:12
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00912
+    classification: faith-community-record
+    text: Spoke at TMP about the importance of voting (invited as elected official
+      to Catholic school)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1104
+    - mem-reports-faith-church-investigation-2026-03-31-md-l334
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1104
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01090
+    classification: faith-community-record
+    text: Pushed the judicial selection amendment -- faith motivation was part of
+      the framing
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1515
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1515
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02466
+    classification: public-controversy
+    text: "[Superintendent's email sparks controversy (Hays Daily News)](https://www.hdnews.net/2022/05/02/superintendents-email-sparks-controversy-as-election-day-approaches-for-school-bond/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l312
+    sourceUrl: https://www.hdnews.net/2022/05/02/superintendents-email-sparks-controversy-as-election-day-approaches-for-school-bond/
+    sourceFile: memory/candidates/vernon-ruder-jr/site-profile.md:312
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-02228
+    classification: public-controversy
+    text: Election Bribery Allegation (2022)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3372
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3372
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01343
+    classification: background-context
+    text: "[Vote No Kansas 2026](https://www.votenokansas.org/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1929
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l185
+    sourceUrl: https://www.votenokansas.org/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1929
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00133
+    classification: background-context
+    text: He told students voting can make a difference in county and city government
+      by putting people in office who can do a good job.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l216
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:216
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00199
+    classification: background-context
+    text: Official result PDFs need manual visual extraction/OCR if final vote totals
+      must be primary-only.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l328
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:328
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00507
+    classification: background-context
+    text: Judge Curtis Brown sentenced Leon to 438 months in prison (36.5 years)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l407
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:407
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00572
+    classification: background-context
+    text: Saturday Early Voting
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l494
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:494
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00574
+    classification: background-context
+    text: Did this in response to FHSU student requests to accommodate those who can't
+      vote during weekday work/school hours
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l496
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:496
+    confidence: unknown
+    useDecision: background-only
+  socialSignals:
+  - socialSignalId: soc-vernon-ruder-jr-0002
+    evidenceRowId: em-vernon-ruder-jr-03146
+    platform: Bluesky
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'narrative: "Vernon Ruder Jr.''s public messaging is administrative,
+      local, and practical rather than ideological. The strongest candidate-controlled
+      source is his signed 2020 Hays Post letter, and the strongest attributed sources
+      are Hays Post candidate and office-policy coverage. Through May 11, 2026, I
+      found no verified current campaign website or high-volume social feed. The visible
+      record comes from official Ellis County treasury pages, the Kansas County Treasurers
+      Association, election results, Hays Post reporting, and public civic-event coverage.\n\nHis
+      central message is efficiency. In his 2020 candidate profile, Ruder said he
+      entered the treasurer race after seeing turnover and spending issues in the
+      office, and said he could decrease spending and increase efficiencies. He tied
+      that pitch to his landfill-management experience, saying he ran that operation
+      like his own money and k…'
+    sourceUrl: https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0004
+    evidenceRowId: em-vernon-ruder-jr-02693
+    platform: Facebook
+    actionType: post
+    signalStrength: weak
+    observation: I searched Vernon Ruder Jr., Vern Ruder, Vote Ruder for Treasurer,
+      voteruderfortreasurer@gmail.com, Ellis County Treasurer, Ellis County Treasury,
+      Ellis County election results, Hays Post, Facebook, LinkedIn, X/Twitter, Instagram,
+      YouTube, campaign website, candidate filings, county budget book, county commission,
+      motor vehicle fee, QLess, TMP-Marian, and Hays Middle School. I prioritized
+      official county pages, official election/result pages, the Kansas County Treasurers
+      Association, Hays Post candidate-attributed reporting, Ruder's signed Hays Post
+      letter, and public civic-event reporting. Login-walled, script-blocked, generic
+      people-search, or otherwise unverifiable material was not treated as confirmed
+      candidate messaging. Topic counts were manually coded from reviewed public items
+      and should be read as directional rather than exhaustive analytics.
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0012
+    evidenceRowId: em-vernon-ruder-jr-02630
+    platform: Public web / internal harvest
+    actionType: post
+    signalStrength: weak
+    observation: 'Election slug: ellis-county-current'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0013
+    evidenceRowId: em-vernon-ruder-jr-02632
+    platform: Public web / internal harvest
+    actionType: post
+    signalStrength: weak
+    observation: 'Public date range found: July 31, 2020 Hays Post candidate profile
+      through Oct. 13, 2025 re-election oath coverage, plus current official county/treasurer
+      directory pages visible in May 2026.'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0014
+    evidenceRowId: em-vernon-ruder-jr-02633
+    platform: Public web / internal harvest
+    actionType: post
+    signalStrength: weak
+    observation: 'Harvest focus: candidate-controlled or candidate-attributed public
+      messaging, official county treasurer pages, election results, public meeting/civic
+      event coverage, local news quotes, professional/civic pages, and visible platform
+      absences. Existing candidate data reportedly has a bad campaignWebsite value,
+      so no campaign website was used unless independently verified.'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0015
+    evidenceRowId: em-vernon-ruder-jr-02661
+    platform: Public web / internal harvest
+    actionType: post
+    signalStrength: weak
+    observation: "| Voting, civic engagement, youth involvement | 2 | 2024 civic-event
+      coverage shows him urging students to vote, get involved early, and choose competent
+      local officials. |"
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0016
+    evidenceRowId: em-vernon-ruder-jr-02662
+    platform: Public web / internal harvest
+    actionType: post
+    signalStrength: weak
+    observation: "| Election/re-election status | 3 | 2020 win, 2024 incumbent re-election,
+      and 2025 oath coverage anchor the officeholder timeline. |"
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0017
+    evidenceRowId: em-vernon-ruder-jr-02690
+    platform: Public web / internal harvest
+    actionType: absence
+    signalStrength: weak
+    observation: No public high-volume social posting stream surfaced. The public
+      record is mostly a 2020 campaign profile/letter, official county pages, local-news
+      quotes, election results, and civic-event coverage.
+    sourceUrl:
+    caveat: Platform absence is a documented search result, not evidence of private
+      belief or private activity.
+  - socialSignalId: soc-vernon-ruder-jr-0018
+    evidenceRowId: em-vernon-ruder-jr-02701
+    platform: hayspost.com
+    actionType: post
+    signalStrength: strong
+    observation: "[Hays Post - 2024 general election results, Nov. 6, 2024](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)"
+    sourceUrl: https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496
+    caveat: Candidate-controlled post or candidate-controlled platform statement;
+      still use as stated/observed content, not inferred motive.
+  - socialSignalId: soc-vernon-ruder-jr-0019
+    evidenceRowId: em-vernon-ruder-jr-02702
+    platform: hayspost.com
+    actionType: post
+    signalStrength: strong
+    observation: "[Hays Post - Re-election oath coverage, Oct. 13, 2025](https://hayspost.com/posts/769b9cc3-43f2-4772-9389-e5a962d9a36a)"
+    sourceUrl: https://hayspost.com/posts/769b9cc3-43f2-4772-9389-e5a962d9a36a
+    caveat: Candidate-controlled post or candidate-controlled platform statement;
+      still use as stated/observed content, not inferred motive.
+  sourceCoverage:
+    primary: 13
+    secondary: 41
+    social: 9
+    internalMemory: 445
+    publicUrlRows: 56
+  caveats:
+  - Social signals are observations only and are not treated as confirmed beliefs
+    or policy positions.
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 11
+  title: Public safety / law enforcement / criminal justice
+  summary: 'Public safety / law enforcement / criminal justice: 16 selected evidence
+    items from 225 mapped rows. Public URL-backed rows: 15.'
+  evidenceItems:
+  - evidenceRowId: em-vernon-ruder-jr-00534
+    classification: documented-record
+    text: "[Criminal Threat Sentencing -- Hays Post](https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l446
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l78
+    sourceUrl: https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:446
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00535
+    classification: documented-record
+    text: "[Drug Death Case -- Salina Post](https://salinapost.com/posts/4397834a-4587-449e-ac2b-6effc74eb6c3)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l447
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l79
+    sourceUrl: https://salinapost.com/posts/4397834a-4587-449e-ac2b-6effc74eb6c3
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:447
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00641
+    classification: documented-record
+    text: "[Ellis County Register of Deeds](https://www.ellisco.net/100/Register-of-Deeds)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l591
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1133
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2977
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l543
+    - mem-reports-faith-church-investigation-2026-03-31-md-l363
+    sourceUrl: https://www.ellisco.net/100/Register-of-Deeds
+    sourceFile: reports/ellis-county-elected-officials-deep-investigation.md:543
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00642
+    classification: documented-record
+    text: "[Kansas Register of Deeds Association](https://ksrods.com/contact-information/ellis-county-el-nc-district/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l592
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1134
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2978
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l97
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l544
+    - mem-reports-faith-church-investigation-2026-03-31-md-l364
+    sourceUrl: https://ksrods.com/contact-information/ellis-county-el-nc-district/
+    sourceFile: reports/ellis-county-elected-officials-deep-investigation.md:544
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00694
+    classification: documented-record
+    text: "[ZoomInfo profile](https://www.zoominfo.com/p/Vernon-Ruder/2569532965)
+      -- limited info"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l666
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l618
+    sourceUrl: https://www.zoominfo.com/p/Vernon-Ruder/2569532965
+    sourceFile: reports/ellis-county-elected-officials-deep-investigation.md:618
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00697
+    classification: documented-record
+    text: "[Motor Vehicle Fees -- Hays Post](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l675
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l102
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l627
+    sourceUrl: https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494
+    sourceFile: reports/ellis-county-elected-officials-deep-investigation.md:627
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00700
+    classification: documented-record
+    text: "[Ellis County Treasury Official Page](https://www.ellisco.net/566/Treasury)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l678
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l105
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l630
+    sourceUrl: https://www.ellisco.net/566/Treasury
+    sourceFile: reports/ellis-county-elected-officials-deep-investigation.md:630
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00936
+    classification: documented-record
+    text: "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1165
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l125
+    sourceUrl: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1165
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00824
+    classification: faith-community-record
+    text: 'Assessment: The "core values" language is suggestive but not conclusive.
+      His background is law enforcement and military -- both communities where faith
+      can be deeply held but not publicly displayed. No specific church identified.
+      Recommend direct inquiry.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l909
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:909
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01467
+    classification: faith-community-record
+    text: Hart is the most unconventional candidate in the Democratic primary. A career
+      federal prosecutor who switched parties twice in one month, running on a blunt
+      "electability" argument centered on his identity as a straight white Christian
+      male in Kansas. His wife's quip has become his most quoted line. His lack of
+      political experience or campaign infrastructure is either refreshingly authentic
+      or dangerously unprepared -- depends on the voter. His 21-year record prosecuting
+      child predators is his strongest credential.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2118
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2118
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00449
+    classification: background-context
+    text: "[New Jail Need Not Want -- Hays Post](https://hayspost.com/posts/3f35aea3-a505-43de-a463-78d6976e129d)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l335
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l62
+    sourceUrl: https://hayspost.com/posts/3f35aea3-a505-43de-a463-78d6976e129d
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:335
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00454
+    classification: background-context
+    text: "[Sheriff Promotions -- Hays Post](https://hayspost.com/posts/4564af70-9835-4a1d-897a-9940279e3348)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l340
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l67
+    sourceUrl: https://hayspost.com/posts/4564af70-9835-4a1d-897a-9940279e3348
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:340
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00456
+    classification: background-context
+    text: "[Ellis County Sheriff Website](https://elliscountysheriff.com/ecso/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l342
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l69
+    sourceUrl: https://elliscountysheriff.com/ecso/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:342
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00369
+    classification: background-context
+    text: 'Title: Ellis County Sheriff'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l240
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:240
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00374
+    classification: background-context
+    text: Career Timeline (29+ Years in Law Enforcement)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l247
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:247
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00376
+    classification: background-context
+    text: "| 1995 | Reserve Deputy Sheriff, Ellis County Sheriff's Office |"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l250
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:250
+    confidence: unknown
+    useDecision: background-only
+  socialSignals:
+  - socialSignalId: soc-vernon-ruder-jr-0085
+    evidenceRowId: em-vernon-ruder-jr-00282
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: Social Media & Online Presence
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0086
+    evidenceRowId: em-vernon-ruder-jr-00284
+    platform: LinkedIn
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: No LinkedIn profile found
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0087
+    evidenceRowId: em-vernon-ruder-jr-00285
+    platform: X / Twitter
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: No Twitter/X presence found
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0091
+    evidenceRowId: em-vernon-ruder-jr-02395
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: Social, property, and court searches were not fully resolved from
+      public sources alone.
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0101
+    evidenceRowId: em-vernon-ruder-jr-02990
+    platform: LinkedIn
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: No LinkedIn found
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0102
+    evidenceRowId: em-vernon-ruder-jr-02991
+    platform: X / Twitter
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: No Twitter/X found
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  sourceCoverage:
+    primary: 3
+    secondary: 12
+    social: 0
+    internalMemory: 210
+    publicUrlRows: 15
+  caveats:
+  - Social signals are observations only and are not treated as confirmed beliefs
+    or policy positions.
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 12
+  title: Agriculture / rural economy / water
+  summary: 'Agriculture / rural economy / water: 19 selected evidence items from 47
+    mapped rows. Public URL-backed rows: 7.'
+  evidenceItems:
+  - evidenceRowId: em-vernon-ruder-jr-01583
+    classification: candidate-stated
+    text: Opposes Medicaid cuts threatening rural hospitals
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2293
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2293
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00271
+    classification: documented-record
+    text: 'Economic Development: Favors proactive county role in economic development.
+      Stated he would "work with the city of Hays to get more water to Hays and higher-paying
+      jobs."'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l92
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l44
+    sourceUrl:
+    sourceFile: reports/ellis-county-elected-officials-deep-investigation.md:44
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00274
+    classification: documented-record
+    text: 'Housing: During Big Creek Estates discussions, suggested residents explore
+      forming a rural water district or seeking city water. Asked about contingency
+      plans if wells fail.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l95
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l47
+    sourceUrl:
+    sourceFile: reports/ellis-county-elected-officials-deep-investigation.md:47
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00323
+    classification: documented-record
+    text: Ellis County Farm Bureau Association board member
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l164
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:164
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00349
+    classification: documented-record
+    text: 'Housing Development: Supported Big Creek Estates housing development approvals
+      and the rural housing incentive district (RHID)'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l206
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l158
+    sourceUrl:
+    sourceFile: reports/ellis-county-elected-officials-deep-investigation.md:158
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00654
+    classification: documented-record
+    text: District manager for E.A. Sween Co. (a major convenience store food distributor
+      headquartered in Eden Prairie, MN; distributes Deli Express sandwiches and other
+      products)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l610
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l562
+    sourceUrl:
+    sourceFile: reports/ellis-county-elected-officials-deep-investigation.md:562
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01356
+    classification: documented-record
+    text: The City of Hays manages its own water utility through the city commission
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1948
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1948
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01359
+    classification: documented-record
+    text: 'Confidence: MEDIUM -- Library board confirmed as appointed. Hospital/water
+      district status based on available information; recommend confirming with the
+      Ellis County Clerk.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1953
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1953
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01869
+    classification: documented-record
+    text: 'Legal battle: WaterPACK (agricultural irrigators) has fought the water
+      transfer through courts. Kansas Supreme Court heard oral arguments December
+      2025.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2750
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2750
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00989
+    classification: donor-organization-signal
+    text: Received donation check from Trinity Lutheran Church for school food pantries
+      (professional interaction, not personal affiliation)
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1318
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1318
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00954
+    classification: faith-community-record
+    text: Coordinator for Thanksgiving Community Food Drive (in conjunction with ECMA
+      and First Call For Help) since 2008
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1206
+    - mem-reports-faith-church-investigation-2026-03-31-md-l436
+    sourceUrl:
+    sourceFile: reports/faith-church-investigation-2026-03-31.md:436
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01180
+    classification: faith-community-record
+    text: This is not surprising -- Ellis County was settled by German-Catholic Volga
+      Germans in the 1870s, and Catholicism remains the dominant faith tradition.
+      The three Catholic parishes in Hays (St. Joseph, Immaculate Heart of Mary, St.
+      Nicholas of Myra) plus the surrounding rural parishes form the backbone of the
+      local power structure.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1657
+    - mem-reports-faith-church-investigation-2026-03-31-md-l887
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1657
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02074
+    classification: faith-community-record
+    text: Catholic, rural rancher/farmer, fiscally conservative, transparency hawk.
+      Aligns with the oversight faction but as board president maintains procedural
+      authority.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3090
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3090
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01558
+    classification: background-context
+    text: "[USDA: KS State Director announcement](https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2255
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l213
+    sourceUrl: https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2255
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-01884
+    classification: background-context
+    text: "[Municipal Water Leader Magazine](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2773
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l273
+    sourceUrl: https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2773
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-01885
+    classification: background-context
+    text: "[KWCH: $15M grant](https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2774
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l274
+    sourceUrl: https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2774
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-01886
+    classification: background-context
+    text: "[E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2775
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l275
+    sourceUrl: https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2775
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-03094
+    classification: background-context
+    text: "[HaysPost: R9 Water dispute](https://hayspost.com/posts/0b77976f-deca-4758-819a-f01bbc3f4745)"
+    sourceIds:
+    - mem-reports-mason-ruder-complete-dossier-md-l231
+    sourceUrl: https://hayspost.com/posts/0b77976f-deca-4758-819a-f01bbc3f4745
+    sourceFile: reports/mason-ruder-complete-dossier.md:231
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-03100
+    classification: background-context
+    text: "[Kansas Press Association: R9 Water dispute](https://kspress.com/news/2026/02/04/kansas-lawmakers-weigh-where-authority-lies-in-11-year-water-dispute)"
+    sourceIds:
+    - mem-reports-mason-ruder-complete-dossier-md-l237
+    sourceUrl: https://kspress.com/news/2026/02/04/kansas-lawmakers-weigh-where-authority-lies-in-11-year-water-dispute
+    sourceFile: reports/mason-ruder-complete-dossier.md:237
+    confidence: likely
+    useDecision: use
+  socialSignals: []
+  sourceCoverage:
+    primary: 1
+    secondary: 6
+    social: 0
+    internalMemory: 40
+    publicUrlRows: 7
+  caveats:
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 13
+  title: Local governance / transparency / ethics
+  summary: 'Local governance / transparency / ethics: 41 selected evidence items from
+    864 mapped rows. Public URL-backed rows: 140.'
+  evidenceItems:
+  - evidenceRowId: em-vernon-ruder-jr-00048
+    classification: candidate-stated
+    text: Says he took office in 2021.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l55
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:55
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00058
+    classification: candidate-stated
+    text: County administrator letter says 2025 budget was adopted September 10, 2024.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l78
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:78
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00092
+    classification: candidate-stated
+    text: He said he would be a working elected official, learn every job, and avoid
+      conflict.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l134
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:134
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01902
+    classification: candidate-stated
+    text: 'Hands-on: Pledged to spend 1-2 hours minimum in every county department
+      to assess staffing'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2802
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2802
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02212
+    classification: candidate-stated
+    text: 'Technology: Supports the district''s one-on-one technology plan.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3341
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3341
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02403
+    classification: candidate-stated
+    text: He has also pointed to budget reductions and customer-flow improvements
+      as evidence that the treasury office became more efficient under his watch.
+      In local coverage, he said the fee generated more than $50,000 a year and helped
+      reduce the office budget substantially. That is not flashy politics, but it
+      is the kind of concrete administrative record county treasurers are usually
+      judged on.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l11
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/site-profile.md:11
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02511
+    classification: candidate-stated
+    text: 'Body: Ellis County''s Treasury page says the treasurer handles tax billing,
+      collection, and distribution for the state, county, cities, and other taxing
+      entities that levy ad valorem or special assessment taxes. It also says the
+      office acts as agent for Kansas Department of Revenue motor-vehicle work for
+      Ellis County residents.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-sleuth-pass-md-l42
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/sleuth-pass.md:42
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02589
+    classification: candidate-stated
+    text: County-office forms page says candidates may file an affidavit of exemption
+      if they expect to receive/spend less than $1,000 in the primary and less than
+      $1,000 in the general.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-sleuth-pass-md-l167
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/sleuth-pass.md:167
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00007
+    classification: documented-record
+    text: 'He also talks about customer flow and office access in concrete terms.
+      During the 2020 race he proposed kiosks for tag and tax payments outside normal
+      hours and an app showing wait times. The current Ellis County Treasury page
+      now describes QLess options by text message, app, home kiosk link, and office
+      kiosk for joining the treasurer office queue. Sources: [Hays Post, July 31,
+      2020](https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4), [Ellis
+      County Treasury](https://www.ellisco.net/566/Treasury).'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-in-their-own-words-md-l13
+    sourceUrl: https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4
+    sourceFile: memory/candidates/vernon-ruder-jr/in-their-own-words.md:13
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00052
+    classification: documented-record
+    text: '"url": "https://www.sos.ks.gov/elections/candidate-information.html"'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l62
+    - mem-memory-candidates-vernon-ruder-jr-v2-issues-yaml-l48
+    - mem-ui-src-data-candidates-ts-l46624
+    - mem-ui-src-data-candidates-ts-l46628
+    - mem-ui-src-data-v2-vernon-ruder-jr-ts-l489
+    sourceUrl: https://www.sos.ks.gov/elections/candidate-information.html
+    sourceFile: ui/src/data/candidates.ts:46628
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00064
+    classification: documented-record
+    text: '"url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5"'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l87
+    - mem-memory-candidates-vernon-ruder-jr-v2-issues-yaml-l69
+    - mem-ui-src-data-candidates-ts-l43913
+    - mem-ui-src-data-candidates-ts-l46544
+    - mem-ui-src-data-candidates-ts-l46556
+    - mem-ui-src-data-candidates-ts-l46560
+    - mem-ui-src-data-candidates-ts-l46572
+    - mem-ui-src-data-candidates-ts-l46588
+    - mem-ui-src-data-candidates-ts-l46592
+    - mem-ui-src-data-v2-vernon-ruder-jr-ts-l514
+    sourceUrl: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+    sourceFile: ui/src/data/candidates.ts:46560
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00290
+    classification: documented-record
+    text: "[Candidate Profile -- Hays Post](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l116
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l233
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l674
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l49
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l57
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l101
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l626
+    sourceUrl: https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:116
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00293
+    classification: documented-record
+    text: "[Ellis County Commission Official Page](https://www.ellisco.net/120/County-Commission)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l119
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l176
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l52
+    sourceUrl: https://www.ellisco.net/120/County-Commission
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:119
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00521
+    classification: documented-record
+    text: Alaina works at [HaysMed](https://www.haysmed.com/provider/alaina-cunningham/)
+      and serves on the HaysMed Foundation Board and Downtown Hays Development Corporation
+      Board
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l426
+    sourceUrl: https://www.haysmed.com/provider/alaina-cunningham/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:426
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00618
+    classification: documented-record
+    text: "[Allen Campaign Profile -- Hays Post](https://hayspost.com/posts/90ec3907-2122-4b32-9bc1-b4199532ec34)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l553
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l94
+    sourceUrl: https://hayspost.com/posts/90ec3907-2122-4b32-9bc1-b4199532ec34
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:553
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00641
+    classification: documented-record
+    text: "[Ellis County Register of Deeds](https://www.ellisco.net/100/Register-of-Deeds)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l591
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1133
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2977
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l543
+    - mem-reports-faith-church-investigation-2026-03-31-md-l363
+    sourceUrl: https://www.ellisco.net/100/Register-of-Deeds
+    sourceFile: reports/ellis-county-elected-officials-deep-investigation.md:543
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-01596
+    classification: donor-organization-signal
+    text: "[FEC: Candidate overview](https://www.fec.gov/data/candidate/S6KS00262/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2314
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l222
+    sourceUrl: https://www.fec.gov/data/candidate/S6KS00262/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2314
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-01713
+    classification: donor-organization-signal
+    text: 'FEC Filing: [FEC Candidate H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/)'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2517
+    sourceUrl: https://www.fec.gov/data/candidate/H6KS03258/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2517
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-02456
+    classification: donor-organization-signal
+    text: "[FEC Candidate H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l254
+    sourceUrl: https://www.fec.gov/data/candidate/H6KS03258/
+    sourceFile: memory/candidates/vernon-ruder-jr/site-profile.md:254
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-02616
+    classification: donor-organization-signal
+    text: KPDC campaign finance overview - https://kpdc.kansas.gov/campaign-finance/
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-sleuth-pass-md-l206
+    sourceUrl: https://kpdc.kansas.gov/campaign-finance/
+    sourceFile: memory/candidates/vernon-ruder-jr/sleuth-pass.md:206
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00025
+    classification: donor-organization-signal
+    text: 'Primary: Ellis County official pages, staff directory, official election-results
+      index, commission minutes, county budget book, Kansas County Treasurers Association,
+      KPDC/Kansas county-office campaign-finance guidance.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l16
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:16
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00070
+    classification: donor-organization-signal
+    text: s-kpdc-campaign-finance-overview
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l97
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l344
+    - mem-memory-candidates-vernon-ruder-jr-v2-issues-yaml-l441
+    - mem-memory-candidates-vernon-ruder-jr-v2-issues-yaml-l537
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:97
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00362
+    classification: social-online-signal
+    text: "[Facebook -- Commissioner Ellis County 1st District](https://www.facebook.com/EllisCountyDistrict1/)
+      -- Active public page for his commissioner seat"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l223
+    - mem-reports-ellis-county-elected-officials-deep-investigation-md-l175
+    sourceUrl: https://www.facebook.com/EllisCountyDistrict1/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:223
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-00365
+    classification: social-online-signal
+    text: "[Facebook Page](https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l232
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l555
+    sourceUrl: https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:555
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-01775
+    classification: social-online-signal
+    text: 'Facebook (Official): [musilcomish](https://www.facebook.com/musilcomish/)'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2614
+    sourceUrl: https://www.facebook.com/musilcomish/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2614
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02422
+    classification: social-online-signal
+    text: "[Facebook -- Commissioner Ellis County 1st District](https://www.facebook.com/EllisCountyDistrict1/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l56
+    sourceUrl: https://www.facebook.com/EllisCountyDistrict1/
+    sourceFile: memory/candidates/vernon-ruder-jr/site-profile.md:56
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02639
+    classification: social-online-signal
+    text: "| Kansas County Treasurers Association profile | Found | The [KCTA Ellis
+      County page](https://kansastreasurers.org/index.php/directory/ellis-county/)
+      lists Vernon Ruder Jr., says he took office in 2021, and lists services including
+      online tax payments, escrow options, ACH/wire property-tax payments, notary
+      services, and a 24-hour drop box. |"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l19
+    sourceUrl: https://kansastreasurers.org/index.php/directory/ellis-county/
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:19
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02641
+    classification: social-online-signal
+    text: "| Local news candidate profile | Found | Hays Post published a July 31,
+      2020 [candidate profile](https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4)
+      with extensive attributed quotes on spending, efficiency, transparency, professionalism,
+      and working full time in the office. |"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l21
+    sourceUrl: https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:21
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-03163
+    classification: social-online-signal
+    text: '"url": "https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/"'
+    sourceIds:
+    - mem-ui-src-data-candidates-ts-l43917
+    - mem-ui-src-data-candidates-ts-l43929
+    - mem-ui-src-data-candidates-ts-l43941
+    - mem-ui-src-data-candidates-ts-l43945
+    sourceUrl: https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/
+    sourceFile: ui/src/data/candidates.ts:43941
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-02481
+    classification: social-online-signal
+    text: 'Office: Ellis County Treasurer'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-sleuth-pass-md-l4
+    - mem-memory-candidates-vernon-ruder-jr-social-harvest-md-l7
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/social-harvest.md:7
+    confidence: weak-signal
+    useDecision: use-with-caveat
+    caveat: Usable only as an observed public social/online signal, not as a confirmed
+      policy position or belief.
+  - evidenceRowId: em-vernon-ruder-jr-00904
+    classification: faith-community-record
+    text: "[FHSU: Germans from Russia in Ellis County](https://fhsuguides.fhsu.edu/kansasheritage/elliscounty)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1087
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l121
+    - mem-reports-faith-church-investigation-2026-03-31-md-l317
+    sourceUrl: https://fhsuguides.fhsu.edu/kansasheritage/elliscounty
+    sourceFile: reports/faith-church-investigation-2026-03-31.md:317
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00915
+    classification: faith-community-record
+    text: "[HaysPost: NWester - Support for Catholic education alive, well in Ellis
+      County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1110
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l122
+    - mem-reports-faith-church-investigation-2026-03-31-md-l340
+    sourceUrl: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1110
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-03206
+    classification: faith-community-record
+    text: Two contextual notes are visible in the harvested record. First, Ruder is
+      identified in multiple local pieces as a member of what local coverage refers
+      to as the Ruder family network in Hays government — her husband Vernon Ruder
+      Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor
+      of Hays ([source](https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a)).
+      Second, the candidate-profiler raw intelligence from this project records that
+      no reliable public source identifies Ruder's church affiliation; that data point
+      is absent from the harvested set. The captured period contains no posts or quotes
+      from Ruder on healthcare, immigration, abortion specifics, foreign policy, federal
+      elections, K–12 curriculum content beyond test-score performance, or social-issue
+      topics.
+    sourceIds:
+    - mem-ui-src-data-candidates-ts-l46516
+    sourceUrl: https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a
+    sourceFile: ui/src/data/candidates.ts:46516
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00023
+    classification: faith-community-record
+    text: This is an additive Phase 2 scrape for Vernon Ruder Jr. It uses existing
+      local memory in memory/candidates/vernon-ruder-jr/, then verifies against current
+      official pages and accessible news records. The pass prioritizes official county/KCTA/election/budget
+      records, then Hays Post candidate-attributed reporting, then social/online presence.
+      It does not use inaccessible or unverified social content, and it does not infer
+      beliefs from family, school, or church-adjacent context.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-v2-md-l12
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump-v2.md:12
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02309
+    classification: public-controversy
+    text: The major controversies have been almost entirely about money (bond spending,
+      capital outlay, admin pay, naming rights, student fees, nepotism) and governance
+      (transparency, executive sessions, contract procedures, handbook policies).
+      The satanism dress code issue and gender-neutral bathroom controversy are the
+      closest to culture-war issues, and the board ultimately took legally defensive
+      positions on both.
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3480
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3480
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-00229
+    classification: background-context
+    text: '"The Ellis County Treasurer''s Office ... is responsible for the tax billing,
+      collection, and distribution" - Ellis County Treasury official page - https://www.ellisco.net/566/Treasury
+      - topic: office mission'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l34
+    sourceUrl: https://www.ellisco.net/566/Treasury
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:34
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00230
+    classification: background-context
+    text: '"The Treasurer''s Office also acts as an agent for the Kansas Department
+      of Revenue" - Ellis County Treasury official page - https://www.ellisco.net/566/Treasury
+      - topic: motor vehicle duties'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l35
+    sourceUrl: https://www.ellisco.net/566/Treasury
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:35
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00232
+    classification: background-context
+    text: '"The state no longer purchases our computers or printers" - Hays Post,
+      2023-11-20 - https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494
+      - topic: office funding'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l37
+    sourceUrl: https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:37
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00366
+    classification: background-context
+    text: "[Hays Commissioner Announces County Run -- Hays Post](https://hayspost.com/posts/cc38c04a-09f2-41be-8708-04cc33013376)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l234
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l58
+    sourceUrl: https://hayspost.com/posts/cc38c04a-09f2-41be-8708-04cc33013376
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:234
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00455
+    classification: background-context
+    text: "[Kansas Sheriffs' Association](https://www.kansassheriffs.org/county_map/county/914)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l341
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l68
+    sourceUrl: https://www.kansassheriffs.org/county_map/county/914
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:341
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-vernon-ruder-jr-00456
+    classification: background-context
+    text: "[Ellis County Sheriff Website](https://elliscountysheriff.com/ecso/)"
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l342
+    - mem-memory-candidates-vernon-ruder-jr-site-profile-md-l69
+    sourceUrl: https://elliscountysheriff.com/ecso/
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:342
+    confidence: likely
+    useDecision: use
+  socialSignals:
+  - socialSignalId: soc-vernon-ruder-jr-0001
+    evidenceRowId: em-vernon-ruder-jr-03206
+    platform: hayspost.com
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: Two contextual notes are visible in the harvested record. First,
+      Ruder is identified in multiple local pieces as a member of what local coverage
+      refers to as the Ruder family network in Hays government — her husband Vernon
+      Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as
+      Mayor of Hays ([source](https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a)).
+      Second, the candidate-profiler raw intelligence from this project records that
+      no reliable public source identifies Ruder's church affiliation; that data point
+      is absent from the harvested set. The captured period contains no posts or quotes
+      from Ruder on healthcare, immigration, abortion specifics, foreign policy, federal
+      elections, K–12 curriculum content beyond test-score performance, or social-issue
+      topics.
+    sourceUrl: https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0002
+    evidenceRowId: em-vernon-ruder-jr-03146
+    platform: Bluesky
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'narrative: "Vernon Ruder Jr.''s public messaging is administrative,
+      local, and practical rather than ideological. The strongest candidate-controlled
+      source is his signed 2020 Hays Post letter, and the strongest attributed sources
+      are Hays Post candidate and office-policy coverage. Through May 11, 2026, I
+      found no verified current campaign website or high-volume social feed. The visible
+      record comes from official Ellis County treasury pages, the Kansas County Treasurers
+      Association, election results, Hays Post reporting, and public civic-event coverage.\n\nHis
+      central message is efficiency. In his 2020 candidate profile, Ruder said he
+      entered the treasurer race after seeing turnover and spending issues in the
+      office, and said he could decrease spending and increase efficiencies. He tied
+      that pitch to his landfill-management experience, saying he ran that operation
+      like his own money and k…'
+    sourceUrl: https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0004
+    evidenceRowId: em-vernon-ruder-jr-02693
+    platform: Facebook
+    actionType: post
+    signalStrength: weak
+    observation: I searched Vernon Ruder Jr., Vern Ruder, Vote Ruder for Treasurer,
+      voteruderfortreasurer@gmail.com, Ellis County Treasurer, Ellis County Treasury,
+      Ellis County election results, Hays Post, Facebook, LinkedIn, X/Twitter, Instagram,
+      YouTube, campaign website, candidate filings, county budget book, county commission,
+      motor vehicle fee, QLess, TMP-Marian, and Hays Middle School. I prioritized
+      official county pages, official election/result pages, the Kansas County Treasurers
+      Association, Hays Post candidate-attributed reporting, Ruder's signed Hays Post
+      letter, and public civic-event reporting. Login-walled, script-blocked, generic
+      people-search, or otherwise unverifiable material was not treated as confirmed
+      candidate messaging. Topic counts were manually coded from reviewed public items
+      and should be read as directional rather than exhaustive analytics.
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0006
+    evidenceRowId: em-vernon-ruder-jr-02639
+    platform: kansastreasurers.org
+    actionType: post
+    signalStrength: strong
+    observation: "| Kansas County Treasurers Association profile | Found | The [KCTA
+      Ellis County page](https://kansastreasurers.org/index.php/directory/ellis-county/)
+      lists Vernon Ruder Jr., says he took office in 2021, and lists services including
+      online tax payments, escrow options, ACH/wire property-tax payments, notary
+      services, and a 24-hour drop box. |"
+    sourceUrl: https://kansastreasurers.org/index.php/directory/ellis-county/
+    caveat: Candidate-controlled post or candidate-controlled platform statement;
+      still use as stated/observed content, not inferred motive.
+  - socialSignalId: soc-vernon-ruder-jr-0007
+    evidenceRowId: em-vernon-ruder-jr-02641
+    platform: hayspost.com
+    actionType: post
+    signalStrength: strong
+    observation: "| Local news candidate profile | Found | Hays Post published a July
+      31, 2020 [candidate profile](https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4)
+      with extensive attributed quotes on spending, efficiency, transparency, professionalism,
+      and working full time in the office. |"
+    sourceUrl: https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4
+    caveat: Candidate-controlled post or candidate-controlled platform statement;
+      still use as stated/observed content, not inferred motive.
+  - socialSignalId: soc-vernon-ruder-jr-0008
+    evidenceRowId: em-vernon-ruder-jr-02656
+    platform: Public web / internal harvest
+    actionType: like
+    signalStrength: weak
+    observation: "| Office efficiency, spending reduction, private-sector management,
+      budget discipline | 4 | Core campaign and office-record theme: reduce spending,
+      increase efficiency, use private-sector experience, and manage county operations
+      like taxpayer money matters. |"
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0009
+    evidenceRowId: em-vernon-ruder-jr-02657
+    platform: Public web / internal harvest
+    actionType: post
+    signalStrength: weak
+    observation: "| Motor-vehicle operations, fees, customer flow, kiosks/QLess, office
+      access | 4 | Repeated practical focus on shorter waits, tag/tax transaction
+      access, kiosks, text/app queueing, and motor-vehicle funding. |"
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0012
+    evidenceRowId: em-vernon-ruder-jr-02630
+    platform: Public web / internal harvest
+    actionType: post
+    signalStrength: weak
+    observation: 'Election slug: ellis-county-current'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0013
+    evidenceRowId: em-vernon-ruder-jr-02632
+    platform: Public web / internal harvest
+    actionType: post
+    signalStrength: weak
+    observation: 'Public date range found: July 31, 2020 Hays Post candidate profile
+      through Oct. 13, 2025 re-election oath coverage, plus current official county/treasurer
+      directory pages visible in May 2026.'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-vernon-ruder-jr-0014
+    evidenceRowId: em-vernon-ruder-jr-02633
+    platform: Public web / internal harvest
+    actionType: post
+    signalStrength: weak
+    observation: 'Harvest focus: candidate-controlled or candidate-attributed public
+      messaging, official county treasurer pages, election results, public meeting/civic
+      event coverage, local news quotes, professional/civic pages, and visible platform
+      absences. Existing candidate data reportedly has a bad campaignWebsite value,
+      so no campaign website was used unless independently verified.'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  sourceCoverage:
+    primary: 43
+    secondary: 90
+    social: 22
+    internalMemory: 709
+    publicUrlRows: 140
+  caveats:
+  - Social signals are observations only and are not treated as confirmed beliefs
+    or policy positions.
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 14
+  title: Environment / energy / land use
+  summary: 'Environment / energy / land use: 7 selected evidence items from 8 mapped
+    rows. Public URL-backed rows: 0.'
+  evidenceItems:
+  - evidenceRowId: em-vernon-ruder-jr-01356
+    classification: documented-record
+    text: The City of Hays manages its own water utility through the city commission
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1948
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1948
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01354
+    classification: background-context
+    text: Water District / Utility Boards
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l1946
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:1946
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01614
+    classification: background-context
+    text: Eastside Innovation LLC (Kansas City, KS, 2023) -- Founded to bring clean
+      energy to low-income communities in KCK
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2342
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2342
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01865
+    classification: background-context
+    text: R9 Ranch Pipeline -- The Defining Project
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2746
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2746
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01867
+    classification: background-context
+    text: 'Distance: 65-90 mile pipeline from R9 Ranch wellfield (Edwards County)
+      to Hays/Russell'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2748
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2748
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-01872
+    classification: background-context
+    text: 'Status (March 2026): Pipeline design wrapping up; right-of-way permits
+      being sought; expected to bid early 2026'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l2753
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:2753
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-vernon-ruder-jr-02327
+    classification: background-context
+    text: 'Roosevelt Elementary Expansion: $21.9M addition/renovation completed December
+      2024. Capacity expanded from 3 to 5 classes per grade (690 students). New media
+      center, gym/storm shelter.'
+    sourceIds:
+    - mem-memory-candidates-vernon-ruder-jr-raw-dump-md-l3504
+    sourceUrl:
+    sourceFile: memory/candidates/vernon-ruder-jr/raw-dump.md:3504
+    confidence: unknown
+    useDecision: background-only
+  socialSignals: []
+  sourceCoverage:
+    primary: 0
+    secondary: 0
+    social: 0
+    internalMemory: 8
+    publicUrlRows: 0
+  caveats:
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+# END FIXED 14 ISSUE MATRIX

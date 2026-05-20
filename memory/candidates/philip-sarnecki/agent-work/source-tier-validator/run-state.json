@@ -1,0 +1,28 @@
+{
+  "agent_id": "source-tier-validator",
+  "agent_role": "Source quality auditor",
+  "candidate_slug": "philip-sarnecki",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/philip-sarnecki/evidence-matrix.json"
+  ],
+  "files_written": [
+    "memory/candidates/philip-sarnecki/source-audit.json",
+    "memory/candidates/philip-sarnecki/source-audit.md",
+    "memory/candidates/philip-sarnecki/agent-work/source-tier-validator/run-state.json",
+    "memory/candidates/philip-sarnecki/agent-work/source-tier-validator/notes.md",
+    "memory/candidates/philip-sarnecki/agent-work/source-tier-validator/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs philip-sarnecki"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Use source-audit.md during fixed-issue-matrix-builder for philip-sarnecki."
+  ],
+  "handoff_summary": "Audited 274 unique source records for philip-sarnecki."
+}

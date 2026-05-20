@@ -1,0 +1,434 @@
+{
+  "candidateSlug": "kevin-latz",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 9,
+  "sources": [
+    {
+      "sourceId": "src-kevin-latz-0001",
+      "url": "https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf",
+      "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:37",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-kevin-latz-00050"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-kevin-latz-0002",
+      "url": null,
+      "sourceFile": "memory/candidates/kevin-latz/social-harvest.md:20",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social follow",
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 16,
+      "rowIds": [
+        "em-kevin-latz-00013",
+        "em-kevin-latz-00005",
+        "em-kevin-latz-00012",
+        "em-kevin-latz-00014",
+        "em-kevin-latz-00016",
+        "em-kevin-latz-00019",
+        "em-kevin-latz-00020",
+        "em-kevin-latz-00021",
+        "em-kevin-latz-00022",
+        "em-kevin-latz-00023",
+        "em-kevin-latz-00025",
+        "em-kevin-latz-00009",
+        "em-kevin-latz-00003",
+        "em-kevin-latz-00008",
+        "em-kevin-latz-00024",
+        "em-kevin-latz-00026"
+      ],
+      "claimsAnchored": [
+        "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associa",
+        "This artifact was created because the candidate-completeness audit found Kevin Latz in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+        "Ballot / filing status: Kevin Latz appears in the reviewed official or campaign-finance records connected to U.S. Senate candidate, Kansas. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked ",
+        "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+        "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+        "Kevin Latz - social harvest",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Slug: kevin-latz",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-kevin-latz-0003",
+      "url": "https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS",
+      "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:26",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-kevin-latz-00045"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-kevin-latz-0004",
+      "url": null,
+      "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:69",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "donor/funding",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 55,
+      "rowIds": [
+        "em-kevin-latz-00067",
+        "em-kevin-latz-00083",
+        "em-kevin-latz-00033",
+        "em-kevin-latz-00034",
+        "em-kevin-latz-00035",
+        "em-kevin-latz-00036",
+        "em-kevin-latz-00037",
+        "em-kevin-latz-00040",
+        "em-kevin-latz-00042",
+        "em-kevin-latz-00054",
+        "em-kevin-latz-00056",
+        "em-kevin-latz-00058",
+        "em-kevin-latz-00063",
+        "em-kevin-latz-00069",
+        "em-kevin-latz-00072",
+        "em-kevin-latz-00080",
+        "em-kevin-latz-00082",
+        "em-kevin-latz-00084",
+        "em-kevin-latz-00047",
+        "em-kevin-latz-00048",
+        "em-kevin-latz-00071",
+        "em-kevin-latz-00074",
+        "em-kevin-latz-00077",
+        "em-kevin-latz-00007",
+        "em-kevin-latz-00027",
+        "em-kevin-latz-00028",
+        "em-kevin-latz-00029",
+        "em-kevin-latz-00030",
+        "em-kevin-latz-00031",
+        "em-kevin-latz-00032",
+        "em-kevin-latz-00038",
+        "em-kevin-latz-00039",
+        "em-kevin-latz-00041",
+        "em-kevin-latz-00044",
+        "em-kevin-latz-00055",
+        "em-kevin-latz-00059",
+        "em-kevin-latz-00060",
+        "em-kevin-latz-00062",
+        "em-kevin-latz-00066",
+        "em-kevin-latz-00075",
+        "em-kevin-latz-00076",
+        "em-kevin-latz-00078",
+        "em-kevin-latz-00079",
+        "em-kevin-latz-00081",
+        "em-kevin-latz-00043",
+        "em-kevin-latz-00053",
+        "em-kevin-latz-00070",
+        "em-kevin-latz-00049",
+        "em-kevin-latz-00052",
+        "em-kevin-latz-00057"
+      ],
+      "claimsAnchored": [
+        "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+        "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+        "\"incumbent\": false,",
+        "\"occupation\": \"U.S. Senate candidate\",",
+        "\"whoTheyAre\": \"Kevin Latz appears in current Kansas U.S. Senate filing material as a Democratic candidate from Mission Hills. This pass did not find a candidate-controlled platform or public elected record.\",",
+        "\"recordSummary\": \"The verified record is limited to candidate-filing appearances. The profile is intentionally sparse until a candidate-controlled platform, FEC committee page, or reliable coverage is captured.\",",
+        "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+        "\"publisher\": \"Kansas candidate filing mirror / State of Kansas filing data\",",
+        "\"Kevin Latz appears as a Democratic U.S. Senate candidate\"",
+        "\"title\": \"Ballot / filing status\",",
+        "\"text\": \"Kevin Latz appears in the reviewed official or campaign-finance records connected to U.S. Senate candidate, Kansas. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the filin",
+        "\"s-ks-filing-senate\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-kevin-latz-0005",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/kevin-latz.ts:66",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "donor/funding",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 24,
+      "rowIds": [
+        "em-kevin-latz-00137",
+        "em-kevin-latz-00046",
+        "em-kevin-latz-00051",
+        "em-kevin-latz-00140",
+        "em-kevin-latz-00143",
+        "em-kevin-latz-00141",
+        "em-kevin-latz-00129",
+        "em-kevin-latz-00130",
+        "em-kevin-latz-00131",
+        "em-kevin-latz-00132",
+        "em-kevin-latz-00133",
+        "em-kevin-latz-00134",
+        "em-kevin-latz-00136",
+        "em-kevin-latz-00138",
+        "em-kevin-latz-00139",
+        "em-kevin-latz-00142",
+        "em-kevin-latz-00144",
+        "em-kevin-latz-00145",
+        "em-kevin-latz-00146",
+        "em-kevin-latz-00147",
+        "em-kevin-latz-00148",
+        "em-kevin-latz-00149",
+        "em-kevin-latz-00150",
+        "em-kevin-latz-00135"
+      ],
+      "claimsAnchored": [
+        "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comm",
+        "\"title\": \"Candidate Filing Info - United States Senate, Kansas\",",
+        "\"title\": \"2026 Saline County Candidate Filings - Unofficial\",",
+        "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+        "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+        "\"mappedToIssueId\": \"i-donor-funding\"",
+        "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+        "To refresh:",
+        "node scripts/hydrate-v2-social-signals.mjs",
+        "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+        "import { validateCandidateV2 } from \"@/data/types-v2\";",
+        "export const KEVIN_LATZ_V2: CandidateFullV2 = {"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-kevin-latz-0006",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:49",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "voting record",
+        "legal/court",
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 44,
+      "rowIds": [
+        "em-kevin-latz-00110",
+        "em-kevin-latz-00112",
+        "em-kevin-latz-00125",
+        "em-kevin-latz-00089",
+        "em-kevin-latz-00108",
+        "em-kevin-latz-00124",
+        "em-kevin-latz-00115",
+        "em-kevin-latz-00085",
+        "em-kevin-latz-00086",
+        "em-kevin-latz-00087",
+        "em-kevin-latz-00088",
+        "em-kevin-latz-00090",
+        "em-kevin-latz-00091",
+        "em-kevin-latz-00095",
+        "em-kevin-latz-00105",
+        "em-kevin-latz-00107",
+        "em-kevin-latz-00109",
+        "em-kevin-latz-00111",
+        "em-kevin-latz-00113",
+        "em-kevin-latz-00114",
+        "em-kevin-latz-00116",
+        "em-kevin-latz-00126",
+        "em-kevin-latz-00127",
+        "em-kevin-latz-00128",
+        "em-kevin-latz-00106",
+        "em-kevin-latz-00123",
+        "em-kevin-latz-00092",
+        "em-kevin-latz-00093",
+        "em-kevin-latz-00094",
+        "em-kevin-latz-00096",
+        "em-kevin-latz-00097",
+        "em-kevin-latz-00098",
+        "em-kevin-latz-00099",
+        "em-kevin-latz-00100",
+        "em-kevin-latz-00101",
+        "em-kevin-latz-00102",
+        "em-kevin-latz-00103",
+        "em-kevin-latz-00104",
+        "em-kevin-latz-00117",
+        "em-kevin-latz-00118",
+        "em-kevin-latz-00119",
+        "em-kevin-latz-00120",
+        "em-kevin-latz-00121",
+        "em-kevin-latz-00122"
+      ],
+      "claimsAnchored": [
+        "\"U.S. senators vote on judges, war powers, federal spending, farm policy, healthcare, and the national laws that affect Kansas every day. This race shapes who speaks for the entire state in Washington.\",",
+        "\"A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If",
+        "\"Your U.S. Representative is the one person in Congress who represents your specific district — not the whole state, just your area. They serve two-year terms, vote on federal laws and spending bills, and are supposed to be your direct voice in Washington on e",
+        "status: \"Incumbent Running\",",
+        "\"Kansas gets only two U.S. senators, and this seat is on the ballot in November 2026. Incumbent Roger Marshall is running again, while Democratic challengers now include Damon Anderson, Jason Hart, Kevin Latz, Patrick Schmidt, Christy Cauble Davis, Sandy Spide",
+        "\"The KS-01 member of Congress becomes the main federal voice for agriculture, water, roads, trade, and rural infrastructure across a huge stretch of Kansas.\",",
+        "jurisdiction: \"Kansas 1st Congressional District\",",
+        "level: \"Federal\",",
+        "date: \"2026-11-03\",",
+        "jurisdiction: \"State of Kansas\",",
+        "seats: 1,",
+        "candidateCount: 13,"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-kevin-latz-0007",
+      "url": null,
+      "sourceFile": "memory/candidates/kevin-latz/in-their-own-words.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-kevin-latz-00001",
+        "em-kevin-latz-00002",
+        "em-kevin-latz-00004",
+        "em-kevin-latz-00006",
+        "em-kevin-latz-00011",
+        "em-kevin-latz-00010",
+        "em-kevin-latz-00015"
+      ],
+      "claimsAnchored": [
+        "Kevin Latz - in their own words",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-kevin-latz-0008",
+      "url": null,
+      "sourceFile": "memory/candidates/kevin-latz/raw-dump-v2.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-kevin-latz-00017"
+      ],
+      "claimsAnchored": [
+        "Kevin Latz - raw dump v2"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-kevin-latz-0009",
+      "url": null,
+      "sourceFile": "memory/candidates/kevin-latz/sleuth-pass.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-kevin-latz-00018"
+      ],
+      "claimsAnchored": [
+        "Kevin Latz - sleuth pass"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    }
+  ]
+}

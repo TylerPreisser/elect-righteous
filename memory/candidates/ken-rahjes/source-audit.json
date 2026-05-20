@@ -1,0 +1,3373 @@
+{
+  "candidateSlug": "ken-rahjes",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 104,
+  "sources": [
+    {
+      "sourceId": "src-ken-rahjes-0001",
+      "url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:520",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00463"
+      ],
+      "claimsAnchored": [
+        "[Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0002",
+      "url": "https://www.kslegislature.gov/b2025_26/legislators/rep_rahjes_ken_1/",
+      "sourceFile": "memory/candidates/ken-rahjes/in-their-own-words.md:15",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-ken-rahjes-00008",
+        "em-ken-rahjes-00636",
+        "em-ken-rahjes-00664",
+        "em-ken-rahjes-00575"
+      ],
+      "claimsAnchored": [
+        "Rahjes' public identity outside the campaign is heavily rural and agricultural. The Kansas Legislature profile lists him as House District 110, chair of Agriculture and Natural Resources, and a member of Appropriations, Agriculture and Natural Resources Budget",
+        "| Kansas Legislature profile | https://www.kslegislature.gov/b2025_26/legislators/rep_rahjes_ken_1/ | FOUND | Official legislative page identifies Rahjes as House District 110, agriculture and natural resources chair, appropriations member, agriculture budget ",
+        "Kansas Legislature current profile. Key public-record signals: House service since 2015, District 110, Agriculture and Natural Resources chair, Appropriations member, Agriculture and Natural Resources Budget member, Joint Committee on Special Claims Against th"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0003",
+      "url": "https://sos.ks.gov/media/press-releases/2026/05-01-26-one-month-countdown-until-candidate-filing-deadline.html",
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:539",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00044"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://sos.ks.gov/media/press-releases/2026/05-01-26-one-month-countdown-until-candidate-filing-deadline.html\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0004",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04KR_202601.pdf",
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:578",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-ken-rahjes-00049",
+        "em-ken-rahjes-00214",
+        "em-ken-rahjes-00564",
+        "em-ken-rahjes-00613"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04KR_202601.pdf\",",
+        "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04KR_202601.pdf",
+        "[State of Kansas](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04KR_202601.pdf)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0005",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:27",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-ken-rahjes-00207",
+        "em-ken-rahjes-00208",
+        "em-ken-rahjes-00559",
+        "em-ken-rahjes-00578"
+      ],
+      "claimsAnchored": [
+        "Kansas Ethics filing index: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
+        "2026 filing PDF: [state filing PDF referenced in SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
+        "[SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0006",
+      "url": "https://www.kdor.ks.gov/Apps/VoterReg/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:446",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-ken-rahjes-00405",
+        "em-ken-rahjes-00562"
+      ],
+      "claimsAnchored": [
+        "Registration deadline: Check with the Ellis County Clerk's office or visit https://www.kdor.ks.gov/Apps/VoterReg/",
+        "[kdor.ks.gov](https://www.kdor.ks.gov/Apps/VoterReg/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0007",
+      "url": "https://hayspost.com/posts/c009ea47-7cfc-4c71-bad9-7dae18a389c6",
+      "sourceFile": "memory/candidates/ken-rahjes/in-their-own-words.md:19",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-ken-rahjes-00010",
+        "em-ken-rahjes-00663"
+      ],
+      "claimsAnchored": [
+        "His education and local-control language predates the secretary-of-state campaign and appears in local legislative coverage. In February 2025, Rahjes questioned the need for the U.S. Department of Education and said, \"Wouldn't it be nice to have local school b",
+        "Feb. 9, 2025 Hays Post legislative coffee coverage. Key themes: state spending, water conservation, local school control, gender-transition policy for minors, rural attorney shortage, and ethanol infrastructure. ([source](https://hayspost.com/posts/c009ea47-7c"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0008",
+      "url": "https://hayspost.com/posts/d7c59a6a-6884-4ac9-aad1-7c9d728f5f5f",
+      "sourceFile": "memory/candidates/ken-rahjes/in-their-own-words.md:9",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "campaign statement",
+        "social post",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat",
+        "source-only"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-ken-rahjes-00005",
+        "em-ken-rahjes-00006",
+        "em-ken-rahjes-00660",
+        "em-ken-rahjes-00561"
+      ],
+      "claimsAnchored": [
+        "Local coverage of his campaign stops repeats the same two-part argument. At a November 2025 Hays event, Rahjes said, \"I believe I'm most effective by looking you in the eye and having a conversation,\" and tied his run to county clerks, voter ID, ending the thr",
+        "His business-services message connects process reform to property-tax pressure. In Hays, Rahjes said he wanted entrepreneurs to avoid navigating multiple agencies and argued, \"There's no greater solution than to grow our tax base. I firmly believe that if you ",
+        "Nov. 24, 2025 Hays Post campaign-event coverage. Key themes: speaking directly with voters, county clerks, voter ID, ending the mail-ballot grace period, school civic education, business filings, property taxes, and review of rules and regulations. ([source](h",
+        "[hayspost.com](https://hayspost.com/posts/d7c59a6a-6884-4ac9-aad1-7c9d728f5f5f)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0009",
+      "url": "https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:519",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00462"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0010",
+      "url": "https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:521",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-ken-rahjes-00464",
+        "em-ken-rahjes-01205"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Board races could shift power to conservative bloc](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)",
+        "\"url\": \"https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0011",
+      "url": "https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:468",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00420"
+      ],
+      "claimsAnchored": [
+        "[Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0012",
+      "url": "https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:469",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00421"
+      ],
+      "claimsAnchored": [
+        "[PBS Wisconsin: $100M+ spending on 2025 race](https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0013",
+      "url": "https://kenforkansas.com/",
+      "sourceFile": "memory/candidates/ken-rahjes/in-their-own-words.md:5",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography",
+        "donor/funding",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 10,
+      "rowIds": [
+        "em-ken-rahjes-00003",
+        "em-ken-rahjes-00195",
+        "em-ken-rahjes-00515",
+        "em-ken-rahjes-00517",
+        "em-ken-rahjes-00518",
+        "em-ken-rahjes-01063",
+        "em-ken-rahjes-01196",
+        "em-ken-rahjes-00648",
+        "em-ken-rahjes-00654",
+        "em-ken-rahjes-00632"
+      ],
+      "claimsAnchored": [
+        "Across the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust ",
+        "Campaign website: [kenforkansas.com](https://kenforkansas.com/)",
+        "\"A family man, built from trust and integrity.\" - campaign language, source: https://kenforkansas.com/ (accessed 2026-04-01)",
+        "\"We will work hand in hand to make the process as smooth as possible with as few delays as possible then get out of the way and watch their success.\" - campaign language, source: https://kenforkansas.com/ (accessed 2026-04-01)",
+        "\"I wanted to be one to help work on solutions\" - campaign language, source: https://kenforkansas.com/ (accessed 2026-04-01)",
+        "[Ken For Kansas - Official Website](https://kenforkansas.com/)",
+        "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Le",
+        "Rahjes' campaign site is the central candidate-controlled channel. The homepage introduces him as a farm-and-ranch Kansan from Agra, says he lives there with his wife Lori, and connects his public identity to trust, integrity, rural Kansas, small business, agr",
+        "Campaign homepage, captured 2026-05-11. Key visible frames: trust, integrity, rural Kansas biography, agriculture communications, small business, legislative service, and social links to Facebook and X. ([source](https://kenforkansas.com/))",
+        "| Campaign site | https://kenforkansas.com/ | FOUND | Active campaign site. Homepage links Facebook and X and says future updates are available on those platforms. |"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0014",
+      "url": "https://kenforkansas.com/news/rahjes-files-for-secretary-of-state/",
+      "sourceFile": "memory/candidates/ken-rahjes/in-their-own-words.md:7",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat",
+        "source-only"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-ken-rahjes-00004",
+        "em-ken-rahjes-00201",
+        "em-ken-rahjes-00202",
+        "em-ken-rahjes-00203",
+        "em-ken-rahjes-00656",
+        "em-ken-rahjes-00650",
+        "em-ken-rahjes-00558"
+      ],
+      "claimsAnchored": [
+        "The clearest candidate-controlled secretary-of-state statement is the July 2025 filing post on his campaign site. Rahjes framed the office through business filings and election administration, saying Kansas should streamline business filings, improve the One S",
+        "\"fair and honest elections\" - campaign announcement, 2026-04-01, https://kenforkansas.com/news/rahjes-files-for-secretary-of-state/ - topic: election integrity.",
+        "\"their vote matters is counted\" - campaign announcement, 2026-04-01, https://kenforkansas.com/news/rahjes-files-for-secretary-of-state/ - topic: voter confidence.",
+        "\"confidence in all elections\" - campaign announcement, 2026-04-01, https://kenforkansas.com/news/rahjes-files-for-secretary-of-state/ - topic: ballot trust.",
+        "July 8, 2025 campaign filing post. Key themes: election integrity and security, business filings, One Stop portal, campaign prayer/support/vote ask. ([source](https://kenforkansas.com/news/rahjes-files-for-secretary-of-state/))",
+        "The campaign's July 2025 filing post is the clearest candidate-controlled secretary-of-state message. It says Rahjes filed as a Republican candidate, frames his business-services priority as streamlining filings and improving the One Stop online portal, and fr",
+        "[kenforkansas.com](https://kenforkansas.com/news/rahjes-files-for-secretary-of-state/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0015",
+      "url": "https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:478",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00429"
+      ],
+      "claimsAnchored": [
+        "[CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0016",
+      "url": "https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:511",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00456"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas Insurance Commissioner 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0017",
+      "url": "https://myvoteinfo.voteks.org/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:452",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-ken-rahjes-00408",
+        "em-ken-rahjes-00563"
+      ],
+      "claimsAnchored": [
+        "Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/",
+        "[myvoteinfo.voteks.org](https://myvoteinfo.voteks.org/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0018",
+      "url": "https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:459",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00411"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas Elections for Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0019",
+      "url": "https://kansasreflector.com/2025/08/07/rivals-launch-fight-over-kansas-constitutional-amendment-to-elect-supreme-court-justices/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:460",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00412"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Rivals launch fight over amendment](https://kansasreflector.com/2025/08/07/rivals-launch-fight-over-kansas-constitutional-amendment-to-elect-supreme-court-justices/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0020",
+      "url": "https://kansasreflector.com/2026/02/10/kansas-method-of-picking-supreme-court-justices-could-be-improved-but-will-an-amendment-do-that/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:461",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00413"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Method of picking justices could be improved](https://kansasreflector.com/2026/02/10/kansas-method-of-picking-supreme-court-justices-could-be-improved-but-will-an-amendment-do-that/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0021",
+      "url": "https://kansasreflector.com/2025/03/19/kansas-house-endorses-plan-to-elect-supreme-court-justices-placing-question-on-august-2026-ballot/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:462",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00414"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: House endorses plan](https://kansasreflector.com/2025/03/19/kansas-house-endorses-plan-to-elect-supreme-court-justices-placing-question-on-august-2026-ballot/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0022",
+      "url": "https://thebeaconnews.org/stories/2025/03/19/kansas-supreme-court-elections-voters-will-decide-in-2026/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:463",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00415"
+      ],
+      "claimsAnchored": [
+        "[The Beacon: Kansas Supreme Court elections?](https://thebeaconnews.org/stories/2025/03/19/kansas-supreme-court-elections-voters-will-decide-in-2026/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0023",
+      "url": "https://www.kcur.org/politics-elections-and-government/2026-01-26/kansas-lawmakers-want-to-reveal-more-about-the-people-picking-supreme-court-justices",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:464",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00416"
+      ],
+      "claimsAnchored": [
+        "[KCUR: Lawmakers want to reveal more about people picking justices](https://www.kcur.org/politics-elections-and-government/2026-01-26/kansas-lawmakers-want-to-reveal-more-about-the-people-picking-supreme-court-justices)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0024",
+      "url": "https://sunflowerstatejournal.com/judicial-amendment-campaign-shapes-up-outside-group-books-nearly-1-million-in-ads/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:465",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00417"
+      ],
+      "claimsAnchored": [
+        "[Sunflower State Journal: Outside group books nearly $1M in ads](https://sunflowerstatejournal.com/judicial-amendment-campaign-shapes-up-outside-group-books-nearly-1-million-in-ads/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0025",
+      "url": "https://www.npr.org/2025/04/01/nx-s1-5345862/wisconsin-supreme-court-crawford-schimel-election-results",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:470",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00422"
+      ],
+      "claimsAnchored": [
+        "[NPR: Trump and Musk backing wasn't enough to flip Wisconsin court](https://www.npr.org/2025/04/01/nx-s1-5345862/wisconsin-supreme-court-crawford-schimel-election-results)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0026",
+      "url": "https://www.kansasinformationnetwork.com/2026-Kansas-Constitutional-Amendment",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:471",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00423"
+      ],
+      "claimsAnchored": [
+        "[Kansas Information Network: 2026 Constitutional Amendment](https://www.kansasinformationnetwork.com/2026-Kansas-Constitutional-Amendment)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0027",
+      "url": "https://ballotpedia.org/Kansas_Citizenship_Voting_Requirement_Amendment_(2026",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:474",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00425"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas Citizenship Voting Requirement Amendment](https://ballotpedia.org/Kansas_Citizenship_Voting_Requirement_Amendment_(2026))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0028",
+      "url": "https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:475",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-ken-rahjes-00426",
+        "em-ken-rahjes-01153"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia News: Kansas voters will decide on citizenship amendment](https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/)",
+        "\"url\": \"https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0029",
+      "url": "https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:476",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00427"
+      ],
+      "claimsAnchored": [
+        "[NPR: Judge tosses Kansas proof-of-citizenship voter law](https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0030",
+      "url": "https://www.aclukansas.org/press-releases/resounding-victory-tens-thousands-disenfranchised-kansas-voters-supreme-court-refuses/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:477",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00428"
+      ],
+      "claimsAnchored": [
+        "[ACLU of Kansas: Supreme Court refuses proof-of-citizenship case](https://www.aclukansas.org/press-releases/resounding-victory-tens-thousands-disenfranchised-kansas-voters-supreme-court-refuses/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0031",
+      "url": "https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:480",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00431"
+      ],
+      "claimsAnchored": [
+        "[PBS: Kansas hopes to resurrect proof-of-citizenship law](https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0032",
+      "url": "https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:483",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00433"
+      ],
+      "claimsAnchored": [
+        "[KCUR: Kansas governor 2026 candidate guide](https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0033",
+      "url": "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:486",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00436"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas gubernatorial election 2026](https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0034",
+      "url": "https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:490",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00439"
+      ],
+      "claimsAnchored": [
+        "[KMUW: Democratic candidate opens arms to Kansas Republicans](https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0035",
+      "url": "https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:492",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00441"
+      ],
+      "claimsAnchored": [
+        "[Smart Politics: How well can Democrats fare?](https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0036",
+      "url": "https://kansasreflector.com/2025/07/30/kansas-election-for-attorney-general-in-2026-may-become-a-repeat-of-2022-showdown/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:500",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00447"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: AG race may repeat 2022 showdown](https://kansasreflector.com/2025/07/30/kansas-election-for-attorney-general-in-2026-may-become-a-repeat-of-2022-showdown/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0037",
+      "url": "https://ballotpedia.org/Kansas_Attorney_General_election,_2026",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:501",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00448"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas AG election 2026](https://ballotpedia.org/Kansas_Attorney_General_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0038",
+      "url": "https://ballotpedia.org/Kansas_Secretary_of_State_election,_2026",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:505",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-ken-rahjes-00451",
+        "em-ken-rahjes-01012"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas SOS election 2026](https://ballotpedia.org/Kansas_Secretary_of_State_election,_2026)",
+        "https://ballotpedia.org/Kansas_Secretary_of_State_election,_2026 -- Full election overview and candidate list -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0039",
+      "url": "https://kspress.com/news/2026/03/27/kansas-legislature-passes-package-of-elections-bills-that-alter-voting-processes",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:506",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00452"
+      ],
+      "claimsAnchored": [
+        "[Kansas Press Association: Legislature passes election bills](https://kspress.com/news/2026/03/27/kansas-legislature-passes-package-of-elections-bills-that-alter-voting-processes)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0040",
+      "url": "https://www.kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:581",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-ken-rahjes-00492",
+        "em-ken-rahjes-00566"
+      ],
+      "claimsAnchored": [
+        "https://www.kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/",
+        "[Kansas Reflector](https://www.kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0041",
+      "url": "https://kenforkansas.com/news/first-adjournment-is-here/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:614",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-ken-rahjes-00516",
+        "em-ken-rahjes-00557",
+        "em-ken-rahjes-01192",
+        "em-ken-rahjes-00658"
+      ],
+      "claimsAnchored": [
+        "\"I wanted to be one to help work on solutions in the arena not on the sidelines.\" - campaign language, source: https://kenforkansas.com/news/first-adjournment-is-here/ (accessed 2026-04-01)",
+        "> -- Ken Rahjes campaign website, accessed April 1, 2026, https://kenforkansas.com/news/first-adjournment-is-here/",
+        "\"source\": \"Ken Rahjes campaign website, accessed April 1, 2026, https://kenforkansas.com/news/first-adjournment-is-here/\",",
+        "May 12, 2021 campaign legislative update. Key themes: Value Them Both, property-tax transparency, Kansas Promise Scholarship Act, COVID liability protections, unemployment-system overhaul, budget work, and constituent contact. ([source](https://kenforkansas.co"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0042",
+      "url": "https://en.wikipedia.org/wiki/2026_Kansas_Secretary_of_State_election",
+      "sourceFile": "memory/elections/2026-11-03-kansas-secretary-of-state.md:32",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-01013"
+      ],
+      "claimsAnchored": [
+        "https://en.wikipedia.org/wiki/2026_Kansas_Secretary_of_State_election -- Wikipedia election page -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0043",
+      "url": "https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:113",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-ken-rahjes-01021",
+        "em-ken-rahjes-00450"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector - First Republican to declare](https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0044",
+      "url": "https://kansasreflector.com/2025/06/13/kansas-republican-exploits-fear-of-imaginary-axis-of-ballot-harvesting-to-gain-political-advantage/",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:114",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-01022"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector - \"Axis of ballot harvesting\"](https://kansasreflector.com/2025/06/13/kansas-republican-exploits-fear-of-imaginary-axis-of-ballot-harvesting-to-gain-political-advantage/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0045",
+      "url": "https://kansasreflector.com/2025/02/14/in-private-video-house-elections-chair-says-he-wants-to-end-early-voting-grace-period-in-kansas/",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:115",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-01023"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector - Private video leaked](https://kansasreflector.com/2025/02/14/in-private-video-house-elections-chair-says-he-wants-to-end-early-voting-grace-period-in-kansas/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0046",
+      "url": "https://kansasreflector.com/2026/03/27/kansas-legislature-passes-package-of-elections-bills-that-alter-voting-processes/",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:116",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-01024"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector - Legislature passes election bills](https://kansasreflector.com/2026/03/27/kansas-legislature-passes-package-of-elections-bills-that-alter-voting-processes/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0047",
+      "url": "https://justfacts.votesmart.org/candidate/biography/167130/ken-rahjes",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:191",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-01067"
+      ],
+      "claimsAnchored": [
+        "[VoteSmart - Biography](https://justfacts.votesmart.org/candidate/biography/167130/ken-rahjes)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0048",
+      "url": "https://hayspost.com/posts/93f5e63a-dd1b-411a-98f8-c3ca8b2c187a",
+      "sourceFile": "memory/candidates/ken-rahjes/in-their-own-words.md:17",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "campaign statement",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-ken-rahjes-00009",
+        "em-ken-rahjes-00662"
+      ],
+      "claimsAnchored": [
+        "That rural frame also shows up in legislative coffees and issue coverage. In February 2026, Rahjes spoke about senior transportation, conservation, water, AI in campaigns, and NIL funding. On conservation and local control, he said, \"Me living in Agra should n",
+        "Feb. 9, 2026 Hays Post legislative coffee coverage. Key themes: rural senior transportation, rural health funding, conservation, water, AI campaign misuse, NIL funding, and local control. ([source](https://hayspost.com/posts/93f5e63a-dd1b-411a-98f8-c3ca8b2c187"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0049",
+      "url": "https://ballotpedia.org/Kansas_House_of_Representatives_District_111",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:515",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00459"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: KS House District 111](https://ballotpedia.org/Kansas_House_of_Representatives_District_111)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0050",
+      "url": "https://sunflowerstatejournal.com/proctor-takes-commanding-fundraising-lead-in-primary-for-secretary-of-state/",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:117",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-01025"
+      ],
+      "claimsAnchored": [
+        "[Sunflower State Journal - Fundraising lead](https://sunflowerstatejournal.com/proctor-takes-commanding-fundraising-lead-in-primary-for-secretary-of-state/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0051",
+      "url": "https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:479",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00430"
+      ],
+      "claimsAnchored": [
+        "[Prism News: Kansas law blocked 31,000 eligible voters](https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0052",
+      "url": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx`",
+      "sourceFile": "memory/candidates/ken-rahjes/sleuth-pass.md:108",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00617"
+      ],
+      "claimsAnchored": [
+        "The official Kansas SOS candidate list was blocked by JavaScript/robot verification at https://sos.ks.gov/elections/elections_upcoming_candidate.aspx. Do not state \"officially on ballot\" from the official candidate-list page until that page is readable or the "
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0053",
+      "url": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:99",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social post",
+        "public absence"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 52,
+      "rowIds": [
+        "em-ken-rahjes-00694",
+        "em-ken-rahjes-00673",
+        "em-ken-rahjes-00677",
+        "em-ken-rahjes-00674",
+        "em-ken-rahjes-00675",
+        "em-ken-rahjes-00682",
+        "em-ken-rahjes-00678",
+        "em-ken-rahjes-00626",
+        "em-ken-rahjes-00679",
+        "em-ken-rahjes-00681",
+        "em-ken-rahjes-00676",
+        "em-ken-rahjes-00646",
+        "em-ken-rahjes-00622",
+        "em-ken-rahjes-00623",
+        "em-ken-rahjes-00624",
+        "em-ken-rahjes-00625",
+        "em-ken-rahjes-00627",
+        "em-ken-rahjes-00628",
+        "em-ken-rahjes-00629",
+        "em-ken-rahjes-00630",
+        "em-ken-rahjes-00631",
+        "em-ken-rahjes-00637",
+        "em-ken-rahjes-00639",
+        "em-ken-rahjes-00640",
+        "em-ken-rahjes-00641",
+        "em-ken-rahjes-00642",
+        "em-ken-rahjes-00643",
+        "em-ken-rahjes-00644",
+        "em-ken-rahjes-00645",
+        "em-ken-rahjes-00647",
+        "em-ken-rahjes-00653",
+        "em-ken-rahjes-00670",
+        "em-ken-rahjes-00671",
+        "em-ken-rahjes-00672",
+        "em-ken-rahjes-00680",
+        "em-ken-rahjes-00683",
+        "em-ken-rahjes-00684",
+        "em-ken-rahjes-00685",
+        "em-ken-rahjes-00686",
+        "em-ken-rahjes-00687",
+        "em-ken-rahjes-00688",
+        "em-ken-rahjes-00689",
+        "em-ken-rahjes-00690",
+        "em-ken-rahjes-00691",
+        "em-ken-rahjes-00692",
+        "em-ken-rahjes-00693",
+        "em-ken-rahjes-00696",
+        "em-ken-rahjes-00697",
+        "em-ken-rahjes-00698",
+        "em-ken-rahjes-00699"
+      ],
+      "claimsAnchored": [
+        "The accessible reviewed set did not include meaningful candidate-controlled social posting on abortion after the older 2021 Value Them Both reference, immigration, border policy, guns, crime beyond AI/campaign misuse and stalking minors in a 2021 legislative u",
+        "| Election administration, election security, voter ID, ballot deadlines, audit transparency, and civic education | 5 | Campaign filing post; Hays Post filing coverage; Hays Post Hays campaign stop; KVOE Emporia stop; Feb. 2026 AI/election-misuse discussion |",
+        "| Education, local school control, youth civic education, scholarships, and NIL funding | 4 | 2021 update; 2025 Hays legislative coffee; 2025 Hays campaign stop; 2026 Hays legislative coffee |",
+        "| Business filings, One Stop portal, entrepreneurs, business climate, tax base, property taxes, and rules/regulations review | 5 | Campaign filing post; Hays Post filing coverage; Hays Post Hays campaign stop; KVOE Emporia stop; 2021 property-tax/unemployment/",
+        "| Agriculture, water, conservation, rural economy, ethanol, rural legal services, and Kansas Ag Report identity | 6 | Campaign homepage; Kansas Legislature committee record; Kansas Ag Report; 2025 and 2026 Hays legislative coffees; 2021 legislative update |",
+        "No reviewed item showed Rahjes attacking, tagging, or amplifying his Republican primary opponent Pat Proctor. The accessible record treats the secretary-of-state race mostly as Rahjes' own argument about elections, business services, and administrative experie",
+        "| Healthcare, rural health funding, senior transportation, and COVID-era liability/unemployment administration | 3 | 2021 update; 2025 legislative coffee; 2026 legislative coffee |",
+        "Election slug: kansas-sos-2026",
+        "| Campaign identity and platform presence metadata | 4 | Campaign homepage/news archive; Facebook metadata; X/Muck Rack metadata; Johnson County filing/campaign-site linkage in candidate record |",
+        "The logged-out capture did not expose a reliable repost inventory from Facebook or X. No repost counts, quote-post counts, share counts, or amplification network are reported. The visible amplification pattern is channel routing: the campaign site routes users",
+        "| Legislative service, committee work, local control, and rural constituent access | 7 | Campaign homepage; 2024 relaunch; Kansas Legislature profile; PBS appearances; Hays legislative coffees; Hays campaign stop |",
+        "| Reddit | Public web/search check | NOT FOUND | No official candidate account surfaced in public search. |"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0054",
+      "url": "https://kenforkansas.com/news/welcome-back/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:47",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00657"
+      ],
+      "claimsAnchored": [
+        "Jan. 20, 2024 campaign-site relaunch post. Rahjes said he had filed for reelection to the Kansas House and continued to serve as chair of Agriculture and Natural Resources and on appropriations, higher education budget, and special claims committees. ([source]"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0055",
+      "url": "https://www.facebook.com/kenforkansas/",
+      "sourceFile": "memory/candidates/ken-rahjes/in-their-own-words.md:13",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-ken-rahjes-00007",
+        "em-ken-rahjes-00634",
+        "em-ken-rahjes-00649",
+        "em-ken-rahjes-00651",
+        "em-ken-rahjes-00821"
+      ],
+      "claimsAnchored": [
+        "The social footprint is present but not especially broad. Public Facebook metadata captured on May 11, 2026 listed [Ken For Kansas](https://www.facebook.com/kenforkansas/) at 985 likes and 210 talking about this, with the page description identifying Rahjes as",
+        "| Facebook | https://www.facebook.com/kenforkansas/ | FOUND | Campaign site links this page. Public metadata captured 2026-05-11 listed 985 likes and 210 talking about this, and described Rahjes as a candidate for Kansas Secretary of State. Post inventory was ",
+        "The campaign site's own social block says, \"Receive future updates from Ken on Facebook & X,\" and the live HTML links to [Facebook kenforkansas](https://www.facebook.com/kenforkansas/) and [X/Twitter kenrahjes](https://twitter.com/kenrahjes). The site does not",
+        "Public Facebook metadata captured on 2026-05-11 listed \"Ken For Kansas. 985 likes; 210 talking about this\" and described the page as, \"Ken Rahjes is a candidate for Kansas Secretary of State. Currently, he serves as a member of the Kansas House of Representati",
+        "\"url\": \"https://www.facebook.com/kenforkansas/\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0056",
+      "url": "https://twitter.com/kenrahjes",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:17",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00635"
+      ],
+      "claimsAnchored": [
+        "| X / Twitter | https://twitter.com/kenrahjes and https://x.com/kenrahjes | FOUND | Campaign site links twitter.com/kenrahjes. Muck Rack indexes the account as a personal account for Rahjes with the bio frame \"Small Business Owner, Agriculture Broadcaster, Kan"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0057",
+      "url": "https://muckrack.com/ken-rahjes",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:40",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00652"
+      ],
+      "claimsAnchored": [
+        "The X handle exists because it is linked by the campaign site and indexed by Muck Rack. Muck Rack describes the account as Rahjes' personal account and summarizes the bio as, \"Small Business Owner, Agriculture Broadcaster, Kansas State representative 110th Dis"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0058",
+      "url": "https://kenforkansas.com/news",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:15",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-ken-rahjes-00633",
+        "em-ken-rahjes-00655"
+      ],
+      "claimsAnchored": [
+        "| Campaign news | https://kenforkansas.com/news | FOUND | Public archive includes one 2025 secretary-of-state filing post, a 2024 relaunch note, and older legislative updates. |",
+        "Campaign news archive, captured 2026-05-11. Current public archive shows one 2025 secretary-of-state filing post, one 2024 relaunch note, 2021 legislative updates, and older legislative/campaign updates dating back to 2016. ([source](https://kenforkansas.com/n"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0059",
+      "url": "https://hayspost.com/posts/7178f5e9-d6e8-4fe0-af51-8ebe54531561",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:49",
+      "assignedTiers": [
+        "social",
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post",
+        "biography"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-ken-rahjes-00659",
+        "em-ken-rahjes-01065"
+      ],
+      "claimsAnchored": [
+        "July 1, 2025 Hays Post filing coverage carrying the campaign announcement. Key quotes: \"We have many great assets in our state, but the best one is our people\"; \"I will ensure Kansas will be a leader when it comes to election integrity and election security\"; ",
+        "[Hays Post - Files for Secretary of State](https://hayspost.com/posts/7178f5e9-d6e8-4fe0-af51-8ebe54531561)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0060",
+      "url": "https://www.facebook.com/PatProctorKS/videos/enforcing-our-election-laws/1920239725529443/",
+      "sourceFile": "ui/src/data/candidates.ts:27341",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post",
+        "social comment"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-ken-rahjes-01118",
+        "em-ken-rahjes-01119"
+      ],
+      "claimsAnchored": [
+        "Proctor's public alignment network on his own feed centers on Kansas Republican officeholders, election-policy organizations, and his own legislative work product. His Facebook page features a campaign video titled [\"Kris Kobach Wanted This 20-Year-Old To Go T"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0061",
+      "url": "https://kansasagreport.net/about",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:58",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-ken-rahjes-00668",
+        "em-ken-rahjes-00638"
+      ],
+      "claimsAnchored": [
+        "Kansas Ag Report public profile. Candidate-adjacent professional channel identifies Kansas Ag Report as a weekly agriculture television show hosted by Rahjes and part of Authentic Ag Inc.; it is not treated as campaign content. ([source](https://kansasagreport",
+        "| Kansas Ag Report | https://kansasagreport.net/about and https://kansasagreport.podbean.com/ | FOUND | Candidate-adjacent professional channel, not a campaign account. Kansas Ag Report identifies Rahjes as host; Podbean/Apple listings show 109 episodes active"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0062",
+      "url": "https://kslegislature.gov/documents/view/?apn=b2025_26%2Fyear1%2Fready_for_publication%2Fjournal%2Fdaily_journal_house_20250227131205.odt",
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:639",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00026"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://kslegislature.gov/documents/view/?apn=b2025_26%2Fyear1%2Fready_for_publication%2Fjournal%2Fdaily_journal_house_20250227131205.odt\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0063",
+      "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_rahjes_ken_1/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:580",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-ken-rahjes-00213",
+        "em-ken-rahjes-00565",
+        "em-ken-rahjes-01066"
+      ],
+      "claimsAnchored": [
+        "https://www.kslegislature.gov/li/b2025_26/members/rep_rahjes_ken_1/",
+        "[Kansas Legislature](https://www.kslegislature.gov/li/b2025_26/members/rep_rahjes_ken_1/)",
+        "[Kansas Legislature - Member Page](https://www.kslegislature.gov/li/b2025_26/members/rep_rahjes_ken_1/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0064",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/documents/summary_scr_1611_2025",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:467",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00419"
+      ],
+      "claimsAnchored": [
+        "[Kansas Legislature: SCR 1611](https://www.kslegislature.gov/li/b2025_26/measures/documents/summary_scr_1611_2025)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0065",
+      "url": "https://www.votenokansas.org/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:466",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00418"
+      ],
+      "claimsAnchored": [
+        "[VoteNoKansas.org](https://www.votenokansas.org/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0066",
+      "url": "https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:484",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00434"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Six GOP candidates first debate](https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0067",
+      "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:489",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00438"
+      ],
+      "claimsAnchored": [
+        "[KCUR: Who's running for U.S. Senate](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0068",
+      "url": "https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:495",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00443"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Lawrence Democrats take aim at KS-01](https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0069",
+      "url": "https://ballotpedia.org/Kansas",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:496",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00444"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: KS-01 2026](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0070",
+      "url": "https://www.jocoelection.org/candidates-elected-officials/ken-rahjes",
+      "sourceFile": "memory/candidates/ken-rahjes/site-profile.md:111",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-ken-rahjes-00560",
+        "em-ken-rahjes-01171"
+      ],
+      "claimsAnchored": [
+        "[jocoelection.org](https://www.jocoelection.org/candidates-elected-officials/ken-rahjes)",
+        "\"campaignWebsite\": \"https://www.jocoelection.org/candidates-elected-officials/ken-rahjes\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0071",
+      "url": "https://www.followthemoney.org/",
+      "sourceFile": "memory/candidates/ken-rahjes/site-profile.md:118",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00567"
+      ],
+      "claimsAnchored": [
+        "[followthemoney.org](https://www.followthemoney.org/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0072",
+      "url": "https://www.wichita.edu/profiles/academics/fairmount_college_of_liberal_arts_and_sciences/school_of_criminal_justice/Proctor-Pat.php",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:118",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-01026"
+      ],
+      "claimsAnchored": [
+        "[Wichita State University - Faculty Profile](https://www.wichita.edu/profiles/academics/fairmount_college_of_liberal_arts_and_sciences/school_of_criminal_justice/Proctor-Pat.php)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0073",
+      "url": "https://ballotpedia.org/Pat_Proctor",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:119",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-01027"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia](https://ballotpedia.org/Pat_Proctor)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0074",
+      "url": "https://kvoe.com/2026/03/16/rahjes-in-emporia-touting-secretary-of-state-bid/",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:187",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography",
+        "social post"
+      ],
+      "useDecisions": [
+        "source-only",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-ken-rahjes-01064",
+        "em-ken-rahjes-00661"
+      ],
+      "claimsAnchored": [
+        "[KVOE - Rahjes in Emporia](https://kvoe.com/2026/03/16/rahjes-in-emporia-touting-secretary-of-state-bid/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0075",
+      "url": "https://www.pbs.org/video/the-kansas-legislature-02-07-25-c4vuoh/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:55",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00665"
+      ],
+      "claimsAnchored": [
+        "PBS / Smoky Hills listing for \"The Kansas Legislature\" on 2025-02-07. Public listing identifies Rahjes as a participating legislator. ([source](https://www.pbs.org/video/the-kansas-legislature-02-07-25-c4vuoh/))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0076",
+      "url": "https://www.pbs.org/video/the-kansas-legislature-03-21-25-oqk5aq/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:56",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00666"
+      ],
+      "claimsAnchored": [
+        "PBS / Smoky Hills listing for \"The Kansas Legislature\" on 2025-03-21. Public listing identifies Rahjes and Rep. Adam Smith as guests; YouTube indexed metadata for the same episode showed 43 views. ([source](https://www.pbs.org/video/the-kansas-legislature-03-2"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0077",
+      "url": "https://www.pbs.org/video/the-kansas-legislature-04-04-25-lubels/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:57",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00667"
+      ],
+      "claimsAnchored": [
+        "PBS / Smoky Hills listing for \"The Kansas Legislature\" on 2025-04-04. Public listing identifies Rahjes and Rep. Rui Xu as guests. ([source](https://www.pbs.org/video/the-kansas-legislature-04-04-25-lubels/))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0078",
+      "url": "https://podcasts.apple.com/us/podcast/kansas-ag-report/id1551218249",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:59",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00669"
+      ],
+      "claimsAnchored": [
+        "Kansas Ag Report podcast listing. Public listings describe Rahjes as host for closing commodity quotes and show 109 episodes, active 2021-2023. ([source](https://podcasts.apple.com/us/podcast/kansas-ag-report/id1551218249))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0079",
+      "url": null,
+      "sourceFile": "memory/candidates/ken-rahjes/in-their-own-words.md:23",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-ken-rahjes-00012",
+        "em-ken-rahjes-00011",
+        "em-ken-rahjes-00001",
+        "em-ken-rahjes-00002",
+        "em-ken-rahjes-00013"
+      ],
+      "claimsAnchored": [
+        "Several issue areas do not appear at meaningful frequency in the accessible material reviewed. The public set did not include repeated candidate-controlled posts centered on Medicaid expansion, child care, housing costs, broadband, veterans services, immigrati",
+        "The reviewed set shows only limited direct engagement with national culture-war language. His campaign material uses \"trust,\" \"integrity,\" \"security,\" \"business-friendly,\" and rural stewardship more often than national partisan attack language. The accessible ",
+        "In Their Own Words -- Ken Rahjes (R, Kansas Secretary of State candidate)",
+        "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature re",
+        "Methodology: Public capture was conducted on May 11, 2026. Date range covered: Nov. 8, 2016 to May 11, 2026 for public campaign-news archive and indexed public presence; campaign-period analysis emphasizes Feb. 9, 2025 to May 11, 2026. Platforms surveyed: camp"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0080",
+      "url": null,
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump-v2.md:11",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "voting record",
+        "biography",
+        "ballot status",
+        "donor/funding",
+        "church/worship",
+        "meeting record",
+        "campaign statement",
+        "endorsement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 168,
+      "rowIds": [
+        "em-ken-rahjes-00021",
+        "em-ken-rahjes-00081",
+        "em-ken-rahjes-00111",
+        "em-ken-rahjes-00112",
+        "em-ken-rahjes-00168",
+        "em-ken-rahjes-00085",
+        "em-ken-rahjes-00086",
+        "em-ken-rahjes-00088",
+        "em-ken-rahjes-00089",
+        "em-ken-rahjes-00098",
+        "em-ken-rahjes-00099",
+        "em-ken-rahjes-00170",
+        "em-ken-rahjes-00171",
+        "em-ken-rahjes-00172",
+        "em-ken-rahjes-00022",
+        "em-ken-rahjes-00035",
+        "em-ken-rahjes-00087",
+        "em-ken-rahjes-00093",
+        "em-ken-rahjes-00103",
+        "em-ken-rahjes-00157",
+        "em-ken-rahjes-00160",
+        "em-ken-rahjes-00161",
+        "em-ken-rahjes-00163",
+        "em-ken-rahjes-00107",
+        "em-ken-rahjes-00173",
+        "em-ken-rahjes-00174",
+        "em-ken-rahjes-00175",
+        "em-ken-rahjes-00017",
+        "em-ken-rahjes-00018",
+        "em-ken-rahjes-00019",
+        "em-ken-rahjes-00037",
+        "em-ken-rahjes-00039",
+        "em-ken-rahjes-00040",
+        "em-ken-rahjes-00042",
+        "em-ken-rahjes-00043",
+        "em-ken-rahjes-00046",
+        "em-ken-rahjes-00048",
+        "em-ken-rahjes-00054",
+        "em-ken-rahjes-00065",
+        "em-ken-rahjes-00067",
+        "em-ken-rahjes-00069",
+        "em-ken-rahjes-00072",
+        "em-ken-rahjes-00074",
+        "em-ken-rahjes-00076",
+        "em-ken-rahjes-00082",
+        "em-ken-rahjes-00083",
+        "em-ken-rahjes-00091",
+        "em-ken-rahjes-00094",
+        "em-ken-rahjes-00096",
+        "em-ken-rahjes-00100"
+      ],
+      "claimsAnchored": [
+        "Ken Rahjes is a Republican Kansas House member from District 110 and a 2026 Secretary of State candidate. His current campaign frame is administrative: election confidence, county-clerk support, audit transparency, business filings, the One Stop portal, agricu",
+        "Bill restricts use of state funds to promote gender transitioning and prohibits health-care providers from providing gender-transition care to children whose gender identity is inconsistent with the child's sex, among other provisions.",
+        "Topics: state spending, water conservation, education/local control, gender policies, rural attorney shortages, ethanol infrastructure.",
+        "Rahjes made local school-board control comments and discussed the minor-focused scope of the gender-transition bill.",
+        "Stated: Campaign site says life starts at conception and says Rahjes is an NRA member who will defend firearm ownership. Hays Post records Rahjes discussing minor-focused gender-transition limits in 2025.",
+        "Biography: raised on farm/ranch outside Agra, lives there with wife Lori; studied agricultural communications at Colby Community College and Kansas State University; KARL Class III.",
+        "Legislative identity: decade of service in House District 110; chair of Agriculture and Natural Resources; Appropriations and Agriculture/Natural Resources Budget; previous Higher Education Budget chair and Water vice chair.",
+        "Faith/community: campaign says Ken and Lori are members of United Presbyterian Church, Phillipsburg; Phillips County Farm Bureau past president; Phillipsburg Rotary; Huck Boyd Institute for Rural Development; Kansas Foundation for Agriculture in the Classroom.",
+        "Campaign issue statements include elections, business services, agriculture/water, taxes, economic development, education, transportation/safety, health care, opportunity/broadband, life, and Second Amendment.",
+        "Rahjes discussed Secretary of State run at Fort Hays State University College Republicans event.",
+        "Themes: county clerks, voter ID, end of three-day mail-ballot grace period, school civic education, business filings, property-tax pressure, rules/regulations review.",
+        "Education / Local Control"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0081",
+      "url": null,
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:75",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court",
+        "voting record",
+        "ballot status",
+        "biography",
+        "meeting record",
+        "church/worship",
+        "donor/funding",
+        "campaign statement",
+        "controversy",
+        "endorsement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 281,
+      "rowIds": [
+        "em-ken-rahjes-00229",
+        "em-ken-rahjes-00232",
+        "em-ken-rahjes-00248",
+        "em-ken-rahjes-00263",
+        "em-ken-rahjes-00264",
+        "em-ken-rahjes-00315",
+        "em-ken-rahjes-00348",
+        "em-ken-rahjes-00393",
+        "em-ken-rahjes-00230",
+        "em-ken-rahjes-00245",
+        "em-ken-rahjes-00246",
+        "em-ken-rahjes-00261",
+        "em-ken-rahjes-00380",
+        "em-ken-rahjes-00382",
+        "em-ken-rahjes-00383",
+        "em-ken-rahjes-00384",
+        "em-ken-rahjes-00385",
+        "em-ken-rahjes-00386",
+        "em-ken-rahjes-00387",
+        "em-ken-rahjes-00388",
+        "em-ken-rahjes-00389",
+        "em-ken-rahjes-00390",
+        "em-ken-rahjes-00461",
+        "em-ken-rahjes-00490",
+        "em-ken-rahjes-00204",
+        "em-ken-rahjes-00205",
+        "em-ken-rahjes-00475",
+        "em-ken-rahjes-00477",
+        "em-ken-rahjes-00478",
+        "em-ken-rahjes-00505",
+        "em-ken-rahjes-00506",
+        "em-ken-rahjes-00507",
+        "em-ken-rahjes-00508",
+        "em-ken-rahjes-00523",
+        "em-ken-rahjes-00529",
+        "em-ken-rahjes-00250",
+        "em-ken-rahjes-00265",
+        "em-ken-rahjes-00266",
+        "em-ken-rahjes-00313",
+        "em-ken-rahjes-00316",
+        "em-ken-rahjes-00322",
+        "em-ken-rahjes-00335",
+        "em-ken-rahjes-00376",
+        "em-ken-rahjes-00391",
+        "em-ken-rahjes-00469",
+        "em-ken-rahjes-00242",
+        "em-ken-rahjes-00257",
+        "em-ken-rahjes-00368",
+        "em-ken-rahjes-00397",
+        "em-ken-rahjes-00466"
+      ],
+      "claimsAnchored": [
+        "1. The Abortion Ruling (2019): The Kansas Supreme Court ruled 6-1 that the Kansas Constitution protects a right to \"personal autonomy,\" including the right to decide whether to continue a pregnancy. This made Kansas one of the strongest states for abortion rig",
+        "Kansas Reflector explicitly headlined their coverage: \"Kansas Senate adopts plan to elect Supreme Court justices, a step toward overturning abortion rights.\"",
+        "FACT 1: This is on the August PRIMARY ballot, not November. Primary turnout in Kansas is typically 20-25%, compared to 50-60% in November. Republican voters dominate primary turnout because they have more contested races. Putting it on the primary ballot is wi",
+        "Wisconsin (2025): One Supreme Court seat. $144.5 million spent. Elon Musk spent $25 million+ on one candidate. Illinois Governor JB Pritzker and George Soros funded the other side. It became a national proxy war over abortion, Trump, and redistricting -- not a",
+        "North Carolina (2022): After partisan elections flipped the court's majority to conservative, the new justices took the extraordinary step of rehearing and reversing several predecessor decisions on redistricting and voting rights -- decisions issued just mont",
+        "Governor Laura Kelly (Democrat) is term-limited and cannot run again. This is the first open governor's race in Kansas since 2018. Open seats are rare and always attract crowded fields because there is no incumbent advantage. The winner will shape Kansas polic",
+        "Why this matters: The AG interprets and enforces Kansas laws on abortion, voting, immigration, and government transparency. Whoever holds this office shapes which laws get enforced aggressively and which ones gather dust.",
+        "Why this matters: The Board of Education has been a battleground over science standards (evolution vs. intelligent design), sex education, school library books, and transgender student policies. In recent years, conservative and moderate factions have fought f",
+        "2. The School Funding Wars (2005-2024): For nearly 20 years, the Kansas Supreme Court told the Legislature it was not funding public schools adequately. The court repeatedly ordered lawmakers to spend more money on education. Conservative legislators were furi",
+        "Rep. Rui Xu (D-Westwood): \"Republicans are mad that our Supreme Court wanted us to fully fund school and not ban abortions so now they want to change the Supreme Court.\"",
+        "Organizations opposing: Kansas Bar Association, ACLU of Kansas, American Federation of Teachers-Kansas, Kansas Appleseed Center for Law and Justice, Kansas Association of School Boards, Kansas Women Attorneys Association, Planned Parenthood Great Plains Votes,",
+        "Kansas Bar Association, ACLU, teacher unions, school board associations, and others listed above."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0082",
+      "url": null,
+      "sourceFile": "memory/candidates/ken-rahjes/site-profile.md:15",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status",
+        "campaign statement",
+        "church/worship",
+        "donor/funding",
+        "voting record",
+        "biography",
+        "endorsement"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 25,
+      "rowIds": [
+        "em-ken-rahjes-00539",
+        "em-ken-rahjes-00540",
+        "em-ken-rahjes-00544",
+        "em-ken-rahjes-00541",
+        "em-ken-rahjes-00553",
+        "em-ken-rahjes-00554",
+        "em-ken-rahjes-00536",
+        "em-ken-rahjes-00534",
+        "em-ken-rahjes-00537",
+        "em-ken-rahjes-00548",
+        "em-ken-rahjes-00555",
+        "em-ken-rahjes-00556",
+        "em-ken-rahjes-00542",
+        "em-ken-rahjes-00543",
+        "em-ken-rahjes-00546",
+        "em-ken-rahjes-00551",
+        "em-ken-rahjes-00552",
+        "em-ken-rahjes-00535",
+        "em-ken-rahjes-00547",
+        "em-ken-rahjes-00550",
+        "em-ken-rahjes-00549",
+        "em-ken-rahjes-00532",
+        "em-ken-rahjes-00533",
+        "em-ken-rahjes-00538",
+        "em-ken-rahjes-00545"
+      ],
+      "claimsAnchored": [
+        "Abortion / Sanctity of Life: Runs as a Republican. The Kansas Republican Party platform supports the right to life from conception. No specific personal statement found in public sources. on abortion in the context of this race.",
+        "Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.",
+        "School Choice / Parental Rights in Education: Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources.",
+        "Religious Liberty: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources.",
+        "Public records identify Rahjes and his wife as members of the United Presbyterian Church in Phillipsburg.",
+        "Public records identify Rahjes and his wife as members of the United Presbyterian Church in Phillipsburg. Public sources reviewed for this profile did not provide a verified church website.",
+        "Rahjes has served in the Kansas House since 2015 and chairs the Agriculture and Natural Resources Committee. He has also served on budget and water-related committees, which places him squarely in the policy terrain that matters most in western and northwester",
+        "Ken Rahjes is a Republican state representative from northwest Kansas and a 2026 candidate for secretary of state. He comes out of the farm-and-ranch world near Agra and has built his public identity around agriculture, rural business, and small-town civic lif",
+        "In the secretary of state race, Rahjes has taken a lower-key tone than some of the better-known Republicans in Kansas politics. His campaign says the office should run elections people trust, simplify business filings, and stay out of the way when Kansans are ",
+        "Business Services: He has said the secretary of state's office should simplify business filings and make it easier for Kansans to build something, reflecting a small-government, pro-business posture.",
+        "Rahjes reported $24,070.30 raised, $1,442.98 spent, and $22,627.32 cash on hand in his 2025 state filing. The donor list in the research trail includes names tied to agriculture and rural business, including Scott Foote, the Kansas Sorghum Producers Associatio",
+        "The pattern fits the rest of his profile. It is a smaller statewide campaign with support from farm, commodity, and rural business circles rather than a big metropolitan donor base."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0083",
+      "url": null,
+      "sourceFile": "memory/candidates/ken-rahjes/sleuth-pass.md:28",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "voting record",
+        "ballot status",
+        "biography",
+        "meeting record",
+        "donor/funding",
+        "endorsement",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 49,
+      "rowIds": [
+        "em-ken-rahjes-00583",
+        "em-ken-rahjes-00604",
+        "em-ken-rahjes-00605",
+        "em-ken-rahjes-00595",
+        "em-ken-rahjes-00606",
+        "em-ken-rahjes-00607",
+        "em-ken-rahjes-00608",
+        "em-ken-rahjes-00573",
+        "em-ken-rahjes-00579",
+        "em-ken-rahjes-00598",
+        "em-ken-rahjes-00587",
+        "em-ken-rahjes-00596",
+        "em-ken-rahjes-00597",
+        "em-ken-rahjes-00602",
+        "em-ken-rahjes-00609",
+        "em-ken-rahjes-00610",
+        "em-ken-rahjes-00576",
+        "em-ken-rahjes-00585",
+        "em-ken-rahjes-00593",
+        "em-ken-rahjes-00594",
+        "em-ken-rahjes-00600",
+        "em-ken-rahjes-00601",
+        "em-ken-rahjes-00619",
+        "em-ken-rahjes-00621",
+        "em-ken-rahjes-00589",
+        "em-ken-rahjes-00599",
+        "em-ken-rahjes-00571",
+        "em-ken-rahjes-00572",
+        "em-ken-rahjes-00611",
+        "em-ken-rahjes-00612",
+        "em-ken-rahjes-00614",
+        "em-ken-rahjes-00615",
+        "em-ken-rahjes-00618",
+        "em-ken-rahjes-00620",
+        "em-ken-rahjes-00568",
+        "em-ken-rahjes-00570",
+        "em-ken-rahjes-00582",
+        "em-ken-rahjes-00591",
+        "em-ken-rahjes-00592",
+        "em-ken-rahjes-00603",
+        "em-ken-rahjes-00616",
+        "em-ken-rahjes-00569",
+        "em-ken-rahjes-00574",
+        "em-ken-rahjes-00577",
+        "em-ken-rahjes-00584",
+        "em-ken-rahjes-00590",
+        "em-ken-rahjes-00588",
+        "em-ken-rahjes-00580",
+        "em-ken-rahjes-00586"
+      ],
+      "claimsAnchored": [
+        "Campaign website: The campaign site is active and is the richest candidate-controlled source. It frames Rahjes around trust, election confidence, business services, agriculture, water, taxes, education, health care, broadband, public safety, pro-life language,",
+        "The campaign site states, \"Life starts at conception\" and says Rahjes will be a voice for the unborn. It also states he is an NRA member and will defend firearm ownership. These are candidate-controlled statements, not inferred positions.",
+        "Hays Post reported Rahjes discussing SB 63 / the Help Not Harm Act in 2025 legislative-coffee coverage and emphasizing that the bill applied to minors because of long-term consequences. The official SB 63 page confirms the bill restricted gender-transition car",
+        "Hays Post reported Rahjes saying voter education should begin in grade school, county clerks matter to election security, voter ID procedures should remain strict, and the Secretary of State should visit schools to teach election participation.",
+        "Education and Local Control",
+        "The campaign homepage says Rahjes believes in public education and schools of all sizes, opposes forced consolidation without a viable factual plan, and supports vocational education, research, and the Board of Regents.",
+        "Hays Post reported Rahjes questioning the need for the U.S. Department of Education and saying local school boards should decide what works for local children.",
+        "Current office confirmed: The Kansas Legislature lists Ken Rahjes as a Republican House member for District 110, Phillips County, with House service from 2015-present, occupation in agricultural communications, spouse Lori Rahjes, and committee roles including",
+        "Ballot/candidate-list status not fully confirmed in this environment: The Kansas SOS candidate-information page states candidates for national, state, legislative, and judicial offices must file with the Secretary of State and are not considered filed until th",
+        "Hays Post reported Rahjes calling the Secretary of State's office the \"front door\" for operating in Kansas and connecting business growth to lowering property-tax pressure by growing the tax base. KVOE reported the same business-filings / entrepreneurs frame i",
+        "X profile metadata: Muck Rack indexes Ken Rahjes as a Kansas House member and Kansas Ag Report host and quotes the profile frame as a personal account for a small-business owner, agriculture broadcaster, and Kansas state representative, with \"Retweets do not i",
+        "Business Services and Economic Development"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0084",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:317",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "biography",
+        "campaign statement",
+        "voting record",
+        "endorsement",
+        "donor/funding",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 235,
+      "rowIds": [
+        "em-ken-rahjes-00929",
+        "em-ken-rahjes-01328",
+        "em-ken-rahjes-01330",
+        "em-ken-rahjes-01323",
+        "em-ken-rahjes-00944",
+        "em-ken-rahjes-00945",
+        "em-ken-rahjes-00950",
+        "em-ken-rahjes-01299",
+        "em-ken-rahjes-01321",
+        "em-ken-rahjes-01332",
+        "em-ken-rahjes-01333",
+        "em-ken-rahjes-01325",
+        "em-ken-rahjes-01347",
+        "em-ken-rahjes-00794",
+        "em-ken-rahjes-00883",
+        "em-ken-rahjes-00884",
+        "em-ken-rahjes-00924",
+        "em-ken-rahjes-01296",
+        "em-ken-rahjes-01305",
+        "em-ken-rahjes-01310",
+        "em-ken-rahjes-01311",
+        "em-ken-rahjes-01312",
+        "em-ken-rahjes-01314",
+        "em-ken-rahjes-01315",
+        "em-ken-rahjes-01316",
+        "em-ken-rahjes-01339",
+        "em-ken-rahjes-00952",
+        "em-ken-rahjes-00953",
+        "em-ken-rahjes-00960",
+        "em-ken-rahjes-00723",
+        "em-ken-rahjes-00726",
+        "em-ken-rahjes-00731",
+        "em-ken-rahjes-00742",
+        "em-ken-rahjes-00752",
+        "em-ken-rahjes-00784",
+        "em-ken-rahjes-00833",
+        "em-ken-rahjes-00837",
+        "em-ken-rahjes-00841",
+        "em-ken-rahjes-00856",
+        "em-ken-rahjes-00859",
+        "em-ken-rahjes-00860",
+        "em-ken-rahjes-00861",
+        "em-ken-rahjes-00875",
+        "em-ken-rahjes-00876",
+        "em-ken-rahjes-00881",
+        "em-ken-rahjes-00894",
+        "em-ken-rahjes-01288",
+        "em-ken-rahjes-01292",
+        "em-ken-rahjes-01302",
+        "em-ken-rahjes-01303"
+      ],
+      "claimsAnchored": [
+        "\"text\": \"Rahjes' campaign site states that life starts at conception, says he will continue to be a voice for the unborn, and says he is an NRA member who will defend firearm ownership. Hays Post also records Rahjes discussing minor-focused gender-transition l",
+        "\"observation\": \"The accessible reviewed set did not include meaningful candidate-controlled social posting on abortion after the older 2021 Value Them Both reference, immigration, border policy, guns, crime beyond AI/campaign misuse and stalking minors in a 20",
+        "\"observation\": \"Several issue areas do not appear at meaningful frequency in the accessible material reviewed. The public set did not include repeated candidate-controlled posts centered on Medicaid expansion, child care, housing costs, broadband, veterans ser",
+        "\"body\": \"SB 63 / Help Not Harm Act is official legislative context for Rahjes' Hays Post comments on minor-focused gender-transition limits.\",",
+        "\"title\": \"Education, Local Control, and Civic Formation\",",
+        "\"text\": \"Rahjes says he believes in public education and schools of all sizes, opposes forced consolidation without a viable factual plan, supports vocational education and higher-education research, and wants young people taught the importance of voting in lo",
+        "\"summary\": \"No single official education bill vote or detailed state education finance plan was verified for this issue in this pass.\",",
+        "\"observation\": \"Local coverage of his campaign stops repeats the same two-part argument. At a November 2025 Hays event, Rahjes said, \\\"I believe I'm most effective by looking you in the eye and having a conversation,\\\" and tied his run to county clerks, voter ",
+        "\"observation\": \"Key themes: election integrity and security, business filings, One Stop portal, campaign prayer/support/vote ask. (source) 4. Jan. 20, 2024 campaign-site relaunch post. Rahjes said he had filed for reelection to the Kansas House and continued t",
+        "\"body\": \"Hays Post reported Rahjes saying election education should start as early as grade school and the Secretary of State should visit schools to teach voting participation.\",",
+        "\"action-civic-education-campaign-statement\"",
+        "\"observation\": \"Key themes: Value Them Both, property-tax transparency, Kansas Promise Scholarship Act, COVID liability protections, unemployment-system overhaul, budget work, and constituent contact. (source) 6. July 1, 2025 Hays Post filing coverage carrying"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0085",
+      "url": null,
+      "sourceFile": "ui/src/data/candidates.ts:27677",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "church/worship",
+        "donor/funding",
+        "campaign statement",
+        "legal/court",
+        "voting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 141,
+      "rowIds": [
+        "em-ken-rahjes-01175",
+        "em-ken-rahjes-01177",
+        "em-ken-rahjes-01181",
+        "em-ken-rahjes-01122",
+        "em-ken-rahjes-01194",
+        "em-ken-rahjes-01178",
+        "em-ken-rahjes-01190",
+        "em-ken-rahjes-01233",
+        "em-ken-rahjes-01173",
+        "em-ken-rahjes-01172",
+        "em-ken-rahjes-01187",
+        "em-ken-rahjes-01188",
+        "em-ken-rahjes-01200",
+        "em-ken-rahjes-01223",
+        "em-ken-rahjes-01227",
+        "em-ken-rahjes-01229",
+        "em-ken-rahjes-01231",
+        "em-ken-rahjes-01179",
+        "em-ken-rahjes-01180",
+        "em-ken-rahjes-01144",
+        "em-ken-rahjes-01145",
+        "em-ken-rahjes-01165",
+        "em-ken-rahjes-01167",
+        "em-ken-rahjes-01183",
+        "em-ken-rahjes-01184",
+        "em-ken-rahjes-01197",
+        "em-ken-rahjes-01201",
+        "em-ken-rahjes-01224",
+        "em-ken-rahjes-01225",
+        "em-ken-rahjes-01226",
+        "em-ken-rahjes-01228",
+        "em-ken-rahjes-01230",
+        "em-ken-rahjes-01232",
+        "em-ken-rahjes-01237",
+        "em-ken-rahjes-01240",
+        "em-ken-rahjes-01169",
+        "em-ken-rahjes-01185",
+        "em-ken-rahjes-01186",
+        "em-ken-rahjes-01124",
+        "em-ken-rahjes-01168",
+        "em-ken-rahjes-00200",
+        "em-ken-rahjes-00701",
+        "em-ken-rahjes-00961",
+        "em-ken-rahjes-00968",
+        "em-ken-rahjes-00969",
+        "em-ken-rahjes-00970",
+        "em-ken-rahjes-00973",
+        "em-ken-rahjes-00974",
+        "em-ken-rahjes-00976",
+        "em-ken-rahjes-00979"
+      ],
+      "claimsAnchored": [
+        "\"issue\": \"Abortion / Sanctity of Life\",",
+        "\"issue\": \"Marriage & Family / LGBTQ+ Policy\",",
+        "\"issue\": \"School Choice / Parental Rights in Education\",",
+        "Several policy areas affecting Kansas households do not appear at meaningful frequency in Proctor's harvested public feeds during the captured period. Healthcare access, Medicaid, hospital closures, K–12 education funding, agricultural commodity policy, the Og",
+        "\"text\": \"We as Kansans, get up everyday and head off to work, school or other daily activities, and all face challenges to pay the bills and have a little for retirement or a rainy day.\",",
+        "\"issue\": \"Religious Liberty\",",
+        "\"whereTheyWorship\": \"Public records identify Rahjes and his wife as members of the United Presbyterian Church in Phillipsburg. Public sources reviewed for this profile did not provide a verified church website.\",",
+        "\"whereTheyWorship\": \"Public sources do not identify a current church affiliation. Her public message is framed in civic and administrative terms, and the accessible campaign and legislative material does not tie her to a named congregation.\",",
+        "\"theirRecord\": \"Rahjes has served in the Kansas House since 2015 and chairs the Agriculture and Natural Resources Committee. He has also served on budget and water-related committees, which places him squarely in the policy terrain that matters most in western",
+        "\"whoTheyAre\": \"Ken Rahjes is a Republican state representative from northwest Kansas and a 2026 candidate for secretary of state. He comes out of the farm-and-ranch world near Agra and has built his public identity around agriculture, rural business, and small",
+        "\"issue\": \"Business Services\",",
+        "\"stance\": \"He has said the secretary of state's office should simplify business filings and make it easier for Kansans to build something, reflecting a small-government, pro-business posture.\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0086",
+      "url": null,
+      "sourceFile": "memory/candidates/ken-rahjes/v2-issues.yaml:185",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "voting record",
+        "biography",
+        "church/worship",
+        "ballot status",
+        "donor/funding",
+        "endorsement",
+        "campaign statement",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 126,
+      "rowIds": [
+        "em-ken-rahjes-00791",
+        "em-ken-rahjes-00808",
+        "em-ken-rahjes-00935",
+        "em-ken-rahjes-00753",
+        "em-ken-rahjes-00754",
+        "em-ken-rahjes-00796",
+        "em-ken-rahjes-00948",
+        "em-ken-rahjes-01000",
+        "em-ken-rahjes-00038",
+        "em-ken-rahjes-00717",
+        "em-ken-rahjes-00758",
+        "em-ken-rahjes-00800",
+        "em-ken-rahjes-00819",
+        "em-ken-rahjes-00889",
+        "em-ken-rahjes-00092",
+        "em-ken-rahjes-00705",
+        "em-ken-rahjes-00706",
+        "em-ken-rahjes-00707",
+        "em-ken-rahjes-00724",
+        "em-ken-rahjes-00728",
+        "em-ken-rahjes-00729",
+        "em-ken-rahjes-00738",
+        "em-ken-rahjes-00755",
+        "em-ken-rahjes-00759",
+        "em-ken-rahjes-00760",
+        "em-ken-rahjes-00763",
+        "em-ken-rahjes-00764",
+        "em-ken-rahjes-00765",
+        "em-ken-rahjes-00777",
+        "em-ken-rahjes-00778",
+        "em-ken-rahjes-00779",
+        "em-ken-rahjes-00804",
+        "em-ken-rahjes-00824",
+        "em-ken-rahjes-00828",
+        "em-ken-rahjes-00846",
+        "em-ken-rahjes-00847",
+        "em-ken-rahjes-00865",
+        "em-ken-rahjes-00871",
+        "em-ken-rahjes-00872",
+        "em-ken-rahjes-00890",
+        "em-ken-rahjes-00901",
+        "em-ken-rahjes-00906",
+        "em-ken-rahjes-00907",
+        "em-ken-rahjes-00910",
+        "em-ken-rahjes-00911",
+        "em-ken-rahjes-00917",
+        "em-ken-rahjes-00936",
+        "em-ken-rahjes-00940",
+        "em-ken-rahjes-00949",
+        "em-ken-rahjes-00958"
+      ],
+      "claimsAnchored": [
+        "\"Bill restricts gender-transition care for children and related state funding, civil liability, and professional discipline provisions\"",
+        "\"Rahjes discussed state spending, education local control, minor-focused gender-transition legislation, rural attorney shortages, and ethanol infrastructure\"",
+        "description: \"SB 63 / Help Not Harm Act is official legislative context for Rahjes' Hays Post comments on minor-focused gender-transition limits.\"",
+        "\"Campaign biography links Rahjes to Agra, agriculture, Authentic Ag Inc., Kansas Ag Report, United Presbyterian Church in Phillipsburg, Farm Bureau, Rotary, Huck Boyd Institute, and Kansas Foundation for Agriculture in the Classroom\"",
+        "\"Campaign issues include life, Second Amendment, agriculture, elections, taxes, economic development, education, transportation and safety, health care, and opportunity\"",
+        "\"Rahjes discussed county clerks, voter ID, ending the three-day mail-ballot grace period, school civic education, business filings, property taxes, and rules/regulations review\"",
+        "description: \"Hays Post reported Rahjes saying election education should start as early as grade school and the Secretary of State should visit schools to teach voting participation.\"",
+        "\"Detailed implementation plan/cost for One Stop portal improvements, audit transparency, county-election security grants, or civic-education programming.\"",
+        "\"A candidate is not considered filed until petition or declaration and fee is received\"",
+        "\"Rahjes chairs Agriculture and Natural Resources and serves on Appropriations, Agriculture and Natural Resources Budget, Joint Committee on Special Claims Against the State, and Water Program Task Force\"",
+        "\"Campaign says Rahjes intends to streamline business filings and improve the One Stop online portal\"",
+        "\"Rahjes highlighted election security and business filings in Emporia\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0087",
+      "url": null,
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:138",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "church/worship",
+        "donor/funding",
+        "ballot status",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 82,
+      "rowIds": [
+        "em-ken-rahjes-01039",
+        "em-ken-rahjes-01040",
+        "em-ken-rahjes-01047",
+        "em-ken-rahjes-01037",
+        "em-ken-rahjes-01091",
+        "em-ken-rahjes-01093",
+        "em-ken-rahjes-01053",
+        "em-ken-rahjes-01062",
+        "em-ken-rahjes-01077",
+        "em-ken-rahjes-01079",
+        "em-ken-rahjes-01114",
+        "em-ken-rahjes-01072",
+        "em-ken-rahjes-01101",
+        "em-ken-rahjes-01112",
+        "em-ken-rahjes-01028",
+        "em-ken-rahjes-01034",
+        "em-ken-rahjes-01043",
+        "em-ken-rahjes-01044",
+        "em-ken-rahjes-01045",
+        "em-ken-rahjes-01052",
+        "em-ken-rahjes-01058",
+        "em-ken-rahjes-01033",
+        "em-ken-rahjes-01048",
+        "em-ken-rahjes-01051",
+        "em-ken-rahjes-01054",
+        "em-ken-rahjes-01055",
+        "em-ken-rahjes-01059",
+        "em-ken-rahjes-01060",
+        "em-ken-rahjes-01071",
+        "em-ken-rahjes-01082",
+        "em-ken-rahjes-01083",
+        "em-ken-rahjes-01085",
+        "em-ken-rahjes-01088",
+        "em-ken-rahjes-01029",
+        "em-ken-rahjes-01030",
+        "em-ken-rahjes-01031",
+        "em-ken-rahjes-01032",
+        "em-ken-rahjes-01035",
+        "em-ken-rahjes-01036",
+        "em-ken-rahjes-01038",
+        "em-ken-rahjes-01041",
+        "em-ken-rahjes-01042",
+        "em-ken-rahjes-01046",
+        "em-ken-rahjes-01049",
+        "em-ken-rahjes-01050",
+        "em-ken-rahjes-01056",
+        "em-ken-rahjes-01057",
+        "em-ken-rahjes-01061",
+        "em-ken-rahjes-01069",
+        "em-ken-rahjes-01070"
+      ],
+      "claimsAnchored": [
+        "Education",
+        "Colby Community College (attended)",
+        "Started broadcasting in high school; lifelong interest in telling the story of rural America",
+        "| Church | Not publicly identified in available sources |",
+        "Church Affiliations Not Found",
+        "Ken Rahjes: No church identified (Agra, KS area)",
+        "Member, Agriculture and Natural Resources Budget Committee",
+        "Rahjes represents a more moderate, rural, practical Republican approach compared to Proctor's aggressive election-restriction posture. His focus is on business services and rural accessibility rather than voter restriction. However, his fundraising deficit of ",
+        "Co-runs 11-Eleven, a family-owned real estate investment business, with husband Jesse",
+        "7 years as an election worker (hands-on polling place experience)",
+        "Races covered: 3 (Secretary of State, Insurance Commissioner, KS-01 U.S. House)",
+        "| Residence | Overland Park, Kansas (6801 Reeds Road per campaign filing) |"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0088",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:166",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "legal/court",
+        "ballot status",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 29,
+      "rowIds": [
+        "em-ken-rahjes-01276",
+        "em-ken-rahjes-01277",
+        "em-ken-rahjes-01268",
+        "em-ken-rahjes-01278",
+        "em-ken-rahjes-01279",
+        "em-ken-rahjes-01264",
+        "em-ken-rahjes-01266",
+        "em-ken-rahjes-01271",
+        "em-ken-rahjes-01253",
+        "em-ken-rahjes-01254",
+        "em-ken-rahjes-01255",
+        "em-ken-rahjes-01256",
+        "em-ken-rahjes-01257",
+        "em-ken-rahjes-01258",
+        "em-ken-rahjes-01259",
+        "em-ken-rahjes-01260",
+        "em-ken-rahjes-01261",
+        "em-ken-rahjes-01263",
+        "em-ken-rahjes-01265",
+        "em-ken-rahjes-01267",
+        "em-ken-rahjes-01269",
+        "em-ken-rahjes-01270",
+        "em-ken-rahjes-01272",
+        "em-ken-rahjes-01280",
+        "em-ken-rahjes-01262",
+        "em-ken-rahjes-01275",
+        "em-ken-rahjes-01274",
+        "em-ken-rahjes-01273",
+        "em-ken-rahjes-01281"
+      ],
+      "claimsAnchored": [
+        "\"The state treasurer oversees state cash management, debt, public deposits, unclaimed property, and college-savings programs that affect Kansas taxpayers and families.\",",
+        "\"The Kansas State Treasurer manages the state's money functions: cash management, public deposits, debt-related work, unclaimed property, and several public savings programs. The office is less flashy than governor or attorney general, but it affects how publi",
+        "\"The secretary of state runs elections in Kansas. They decide the rules for voter registration, manage candidate filings, oversee how ballots are counted, and handle business registrations for every company in the state. When there's a question about whether y",
+        "slug: \"kansas-insurance-2026\",",
+        "name: \"Kansas Insurance Commissioner\",",
+        "\"The secretary of state runs Kansas elections, handles candidate filings, and oversees major state records. With Scott Schwab stepping aside, Pat Proctor, Ken Rahjes, Jennifer Day, and Sam Lane are all in the race.\",",
+        "\"This office decides how easy or difficult it is to vote, how election disputes are handled, and how confidently Kansans can trust the statewide process.\",",
+        "status: \"Incumbent Running\",",
+        "slug: \"kansas-sos-2026\",",
+        "name: \"Kansas Secretary of State\",",
+        "date: \"2026-11-03\",",
+        "jurisdiction: \"State of Kansas\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0089",
+      "url": null,
+      "sourceFile": "memory/elections/2026-11-03-kansas-secretary-of-state.md:40",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 17,
+      "rowIds": [
+        "em-ken-rahjes-01020",
+        "em-ken-rahjes-01003",
+        "em-ken-rahjes-01008",
+        "em-ken-rahjes-01017",
+        "em-ken-rahjes-01019",
+        "em-ken-rahjes-01001",
+        "em-ken-rahjes-01002",
+        "em-ken-rahjes-01004",
+        "em-ken-rahjes-01005",
+        "em-ken-rahjes-01006",
+        "em-ken-rahjes-01009",
+        "em-ken-rahjes-01015",
+        "em-ken-rahjes-01018",
+        "em-ken-rahjes-01007",
+        "em-ken-rahjes-01010",
+        "em-ken-rahjes-01011",
+        "em-ken-rahjes-01016"
+      ],
+      "claimsAnchored": [
+        "The Secretary of State also handles business filings, trademarks, and administrative regulations.",
+        "District/Ward: Statewide",
+        "Ken Rahjes -- Current state representative, Kansas House District 110.",
+        "The Secretary of State oversees all Kansas elections, making this a critically important office.",
+        "Ken Rahjes represents District 110, which is in northwest Kansas near Hays -- voters in the area may be more familiar with him.",
+        "Jurisdiction",
+        "Level: State",
+        "Eligible Voters: All registered Kansas voters",
+        "Declared Candidates",
+        "Republican Primary",
+        "Democratic Primary",
+        "Notes"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0090",
+      "url": "https://sos.ks.gov/elections/candidates.html",
+      "sourceFile": "memory/candidates/ken-rahjes/sleuth-pass.md:24",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00581"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0091",
+      "url": "https://mann.house.gov/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:497",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00445"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0092",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/sb4/",
+      "sourceFile": "memory/candidates/ken-rahjes/sleuth-pass.md:52",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00409"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0093",
+      "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:514",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00458"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0094",
+      "url": "https://www.electjenday.com/",
+      "sourceFile": "ui/src/data/candidates.ts:28119",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "endorsement",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-ken-rahjes-01236",
+        "em-ken-rahjes-01235"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0095",
+      "url": "https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:509",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00454"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0096",
+      "url": "https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:510",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00455"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0097",
+      "url": "https://kansasreflector.com/2025/07/22/kansas-sen-ethan-corson-enters-race-for-democratic-partys-nomination-for-governor/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:485",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00435"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0098",
+      "url": "https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-u-s-senate-sharpen-attack-on-gop-incumbent-roger-marshall/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:491",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00440"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0099",
+      "url": "https://barbforkansas.com/",
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:516",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-00460"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0100",
+      "url": "https://kansasreflector.com/2025/01/08/scott-schwab-runs-for-kansas-governor-after-two-terms-as-states-top-election-official/",
+      "sourceFile": "memory/elections/2026-11-03-kansas-secretary-of-state.md:33",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-01014"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0101",
+      "url": "https://news.ballotpedia.org/2025/04/11/indiana-joins-kansas-kentucky-and-wyoming-in-enacting-laws-to-restrict-foreign-contributions-to-ballot-measure-campaigns-the-highest-number-passed-in-a-single-year/",
+      "sourceFile": "ui/src/data/candidates.ts:27345",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-01120"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0102",
+      "url": "https://x.com/RealPatProctor",
+      "sourceFile": "ui/src/data/candidates.ts:27339",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-01117"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0103",
+      "url": "https://www.youtube.com/@patproctorforkansas655",
+      "sourceFile": "ui/src/data/candidates.ts:27347",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-01121"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ken-rahjes-0104",
+      "url": "https://www.facebook.com/PatProctorKS/",
+      "sourceFile": "ui/src/data/candidates.ts:27351",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ken-rahjes-01123"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    }
+  ]
+}

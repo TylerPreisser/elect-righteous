@@ -1,0 +1,1463 @@
+# Fixed 14-Issue Matrix — michael-soetaert — 2026-05-20
+
+This matrix is built from `evidence-matrix.json`, `social-evidence-matrix.json`, and `source-audit.json`. It is a candidate-rebuild input, not final public prose.
+
+## 1. Abortion / life
+
+Abortion / life: 34 selected evidence items from 91 mapped rows. Public URL-backed rows: 17.
+
+### Evidence
+- **candidate-stated** [em-michael-soetaert-01361] Opposes taxpayer funding of abortion providers
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2021
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01363] Has said he opposes abortion including in cases of rape and incest
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2023
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-02477] His platform shifts on abortion and marriage are real and public, but they also invite scrutiny from both parties.
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:3715
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00003] Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as ["Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the Equality Act."](https://mikeforkansas.my.canva.site/) His Instagram profile repeats the same self-definition in tag form: ["#PROGRESSIVE #DEMOCRAT for United States Senate #KANSAS #GAY #LGBTQIAP2S+ #ReproductiveFreedom #WomensRights #ERA"](https://www.instagram.com/michael.soetaert1/)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00034] | s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social links | issues, social |
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00043] | s-kcur-guide | secondary | https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates | published 2025-12-30; accessed 2026-05-19 | Candidate guide: former Republican, former Wellington city council member, abortion-position shift, Respect for Marriage Act support | biography, abortion, LGBTQ |
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-02467] "Kansans voted for bodily autonomy" - campaign site, n.d., https://mikeforkansas.my.canva.site/ (abortion reversal)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00096] Candidate-controlled signal: Campaign-site metadata and social profile tags emphasize reproductive rights/freedom, women's rights, and ERA. KCUR/Kansas News Service reports that his website says he changed his position on abortion after "Kansans voted for bodily autonomy."
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:148
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00097] Current campaign site and social bios frame reproductive rights as a repeated campaign theme.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:152
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00098] The accessible record documents a stated position change, not legislative votes or officeholder action on abortion policy.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:153
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00455] Changed from pro-life to pro-choice after "Kansans voted for bodily autonomy" in the 2022 abortion referendum
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:498
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-01822] [National Pro-Life Scorecard](https://sbaprolife.org/senator/roger-marshall)
+  - Source: https://sbaprolife.org/senator/roger-marshall
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-michael-soetaert-02629] Campaign site: https://mikeforkansas.my.canva.site/ is active and links ActBlue, FEC, Kansas SOS candidate page, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, Threads, and merchandise pages. Its page metadata presents Soetaert as a "PROGRESSIVE DEMOCRAT" for U.S. Senate and references reproductive rights and LGBTQ+ advocacy.
+  - Source: https://mikeforkansas.my.canva.site/`
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-michael-soetaert-01353] Pro-life scorecard: 100% -- Voted pro-life on every single recorded vote (20/20 as House member, continued in Senate)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2013
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-01354] National Pro-Life Scorecard (SBA Pro-Life America): Perfect score
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2014
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-01790] Very few vulnerabilities from the right; Heritage Action 89-94%, pro-life 100%, NRA-aligned, Trump-endorsed
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2614
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-michael-soetaert-00006] National-policy content appeared mostly through issue labels and video titles. The campaign site labels included reproductive rights, affordability, voting rights, Department of Peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS, while YouTube titles included ["Michael Soetaert for United States Senate representing Kansas CITIZENS UNITED michael-soetaert"](https://www.youtube.com/watch?v=FvgZQTEDBac), ["Michael Soetaert for United States Senate representing Kansas AFFORDABILITY SAFETY michael-soetaert"](https://www.youtube.com/watch?v=KWhuSNqLD2M), and ["Michael Soetaert for United States Senate representing Kansas LET THERE BE PEACE! michael-soetaert"](https://www.youtube.com/watch?v=0wKwUd_QZ3c). The accessible record did not show a developed foreign-policy series beyond the peace framing and Department of Peace label.
+  - Source: https://www.youtube.com/watch?v=FvgZQTEDBac
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-00038] | s-instagram | social | https://www.instagram.com/michael.soetaert1/ | captured in local harvest 2026-05-11 | Public profile metadata, follower/post counts, bio tags | social, abortion, LGBTQ |
+  - Source: https://www.instagram.com/michael.soetaert1/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-00040] | s-bluesky | social | https://bsky.app/profile/michaelsoetaert.bsky.social | captured in local harvest 2026-05-11 | Public profile metadata, account creation, follower/following/write counts, description tags | social, abortion, LGBTQ, peace |
+  - Source: https://bsky.app/profile/michaelsoetaert.bsky.social
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02631] YouTube: https://www.youtube.com/@mikeforkansas was the strongest post-level source in the local social harvest. Public channel capture on May 11, 2026 showed 30 visible videos from roughly November 2025 through February 2026. Topic labels included reproductive rights, Citizens United, voting/ballot box, affordability/safety, Department of Peace/peace, LGBTQIAP2S+ equality, Kansas wheat/food-place language, and campaign compilations.
+  - Source: https://www.youtube.com/@mikeforkansas`
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02632] Instagram: https://www.instagram.com/michael.soetaert1/ public metadata in local harvest showed 52 followers, 0 following, and 205 posts, with bio tags for progressive Democrat, Kansas, gay, LGBTQIAP2S+, reproductive freedom, women's rights, and ERA. Individual post bodies were not available in the logged-out capture.
+  - Source: https://www.instagram.com/michael.soetaert1/`
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02682] The campaign site metadata describes Soetaert this way: ["Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the Equality Act."](https://mikeforkansas.my.canva.site/)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02701] | [REPRODUCTIVE RIGHTS](https://www.youtube.com/watch?v=-SnGefBi50Y) | Michael Soetaert for United States Senate representing Kansas REPRODUCTIVE RIGHTS michael-soetaert | 15 | 3mo ago |
+  - Source: https://www.youtube.com/watch?v=-SnGefBi50Y
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02742] Bluesky profile metadata as captured on 2026-05-11 listed the display name "Michael Soetaert for United States Senate 2026 KS" and the handle [michaelsoetaert.bsky.social](https://bsky.app/profile/michaelsoetaert.bsky.social). The public JSON-LD showed 22,749 followers, 2,380 following, and 235 writes/posts. The profile description listed tags for U.S. Senate, LGBTQIAP2S+, Equality Act, Kansas, peace, SOGI, DEIA, women's rights, ERA, reproductive freedom, vote.gov, and Linktree.
+  - Source: https://bsky.app/profile/michaelsoetaert.bsky.social
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-michael-soetaert-01318] His pro-life stance is directly connected to his faith and his experience delivering 5,000+ babies
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1962
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-01339] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1992
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-01645] "Tonight, we must still go to bed with faith and hope, for tomorrow we must be as dedicated to the sanctity of life." (After Value Them Both defeat)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2411
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-02070] Adoption: Given up for adoption at birth into a "right wing, fundamentalist, Roman Catholic family" (pre-Roe v. Wade)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:3096
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00039] | s-threads | social | https://www.threads.com/@michael.soetaert1 | captured in local harvest 2026-05-11 | Public profile metadata and bio text | social, abortion, LGBTQ |
+  - Source: https://www.threads.com/@michael.soetaert1
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-00095] Abortion / reproductive policy
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:146
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00310] Protecting reproductive freedom
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:251
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00957] Reproductive freedom
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1335
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00960] *"In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1342
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-01115] Website headline: "PRO-LIFE. PRO-GUN. PRO-TRUMP."
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1661
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Instagram online-reference** [soc-michael-soetaert-0001] Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as ["Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the Equality Act."](https://mikeforkansas.my.canva.site/) His Instagram profile repeats the same self-definition in tag form: ["#PROGRESSIVE #DEMOCRAT for United States Senate #KANSAS #GAY #LGBTQIAP2S+ #ReproductiveFreedom #WomensRights #ERA"](https://www.instagram.com/michael.soetaert1/)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous mikeforkansas.my.canva.site online-reference** [soc-michael-soetaert-0002] | s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social links | issues, social |
+  - Source: https://mikeforkansas.my.canva.site/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous threads.com online-reference** [soc-michael-soetaert-0003] | s-threads | social | https://www.threads.com/@michael.soetaert1 | captured in local harvest 2026-05-11 | Public profile metadata and bio text | social, abortion, LGBTQ |
+  - Source: https://www.threads.com/@michael.soetaert1
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-michael-soetaert-0004] Campaign site: https://mikeforkansas.my.canva.site/ is active and links ActBlue, FEC, Kansas SOS candidate page, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, Threads, and merchandise pages. Its page metadata presents Soetaert as a "PROGRESSIVE DEMOCRAT" for U.S. Senate and references reproductive rights and LGBTQ+ advocacy.
+  - Source: https://mikeforkansas.my.canva.site/`
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong YouTube post** [soc-michael-soetaert-0006] National-policy content appeared mostly through issue labels and video titles. The campaign site labels included reproductive rights, affordability, voting rights, Department of Peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS, while YouTube titles included ["Michael Soetaert for United States Senate representing Kansas CITIZENS UNITED michael-soetaert"](https://www.youtube.com/watch?v=FvgZQTEDBac), ["Michael Soetaert for United States Senate representing Kansas AFFORDABILITY SAFETY michael-soetaert"](https://www.youtube.com/watch?v=KWhuSNqLD2M), and ["Michael Soetaert for United States Senate representing Kansas LET THERE BE PEACE! michael-soetaert"](https://www.youtube.com/watch?v=0wKwUd_QZ3c). The accessible record did not show a developed foreign-policy series beyond the peace framing and Department of Peace label.
+  - Source: https://www.youtube.com/watch?v=FvgZQTEDBac
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong Instagram post** [soc-michael-soetaert-0007] | s-instagram | social | https://www.instagram.com/michael.soetaert1/ | captured in local harvest 2026-05-11 | Public profile metadata, follower/post counts, bio tags | social, abortion, LGBTQ |
+  - Source: https://www.instagram.com/michael.soetaert1/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky follow** [soc-michael-soetaert-0008] | s-bluesky | social | https://bsky.app/profile/michaelsoetaert.bsky.social | captured in local harvest 2026-05-11 | Public profile metadata, account creation, follower/following/write counts, description tags | social, abortion, LGBTQ, peace |
+  - Source: https://bsky.app/profile/michaelsoetaert.bsky.social
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong YouTube post** [soc-michael-soetaert-0009] YouTube: https://www.youtube.com/@mikeforkansas was the strongest post-level source in the local social harvest. Public channel capture on May 11, 2026 showed 30 visible videos from roughly November 2025 through February 2026. Topic labels included reproductive rights, Citizens United, voting/ballot box, affordability/safety, Department of Peace/peace, LGBTQIAP2S+ equality, Kansas wheat/food-place language, and campaign compilations.
+  - Source: https://www.youtube.com/@mikeforkansas`
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Instagram follow** [soc-michael-soetaert-0010] Instagram: https://www.instagram.com/michael.soetaert1/ public metadata in local harvest showed 52 followers, 0 following, and 205 posts, with bio tags for progressive Democrat, Kansas, gay, LGBTQIAP2S+, reproductive freedom, women's rights, and ERA. Individual post bodies were not available in the logged-out capture.
+  - Source: https://www.instagram.com/michael.soetaert1/`
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong mikeforkansas.my.canva.site post** [soc-michael-soetaert-0011] The campaign site metadata describes Soetaert this way: ["Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the Equality Act."](https://mikeforkansas.my.canva.site/)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 2. LGBT / gender / parental rights
+
+LGBT / gender / parental rights: 21 selected evidence items from 27 mapped rows. Public URL-backed rows: 9.
+
+### Evidence
+- **candidate-stated** [em-michael-soetaert-02090] LGBTQ+ rights champion: Supports the Equality Act and the Respect for Marriage Act
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:3121
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-02528] School Choice / Parental Rights in Education: Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources.
+  - Source: memory/candidates/michael-soetaert/site-profile.md:29
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-02892] "Article says he was a former Republican who switched parties because of pandemic, Jan. 6, and LGBTQ issues"
+  - Source: memory/candidates/michael-soetaert/v2-issues.yaml:227
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00034] | s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social links | issues, social |
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00042] | s-iola-2022 | secondary | https://www.iolaregister.com/news/candidate-eschews-in-person-campaign | published 2022-07-28; accessed 2026-05-19 | Interview on party switch, pandemic campaign, first openly gay Kansas U.S. Senate candidate distinction, Equality Act contacts | public health, LGBTQ |
+  - Source: https://www.iolaregister.com/news/candidate-eschews-in-person-campaign
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00043] | s-kcur-guide | secondary | https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates | published 2025-12-30; accessed 2026-05-19 | Candidate guide: former Republican, former Wellington city council member, abortion-position shift, Respect for Marriage Act support | biography, abortion, LGBTQ |
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00044] | s-kofo-2025 | secondary | https://kofo.com/2025/10/31/mico-native-to-run-for-senate-2/ | published 2025-10-31; accessed 2026-05-19 | Spring Hill native; filed for U.S. Senate; first openly gay candidate framing | biography, LGBTQ |
+  - Source: https://kofo.com/2025/10/31/mico-native-to-run-for-senate-2/
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00456] Supported the Respect for Marriage Act (2022) -- protections for same-sex marriage
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:499
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-02491] His campaign leans hard into bodily autonomy and LGBTQ inclusion.
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:3741
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-02524] Marriage & Family / LGBTQ+ Policy: He has publicly supported the federal Respect for Marriage Act, which protects same-sex marriages. As the first openly gay person to run for the Kansas Senate seat, this is a core part of his identity and campaign.
+  - Source: memory/candidates/michael-soetaert/site-profile.md:21
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-02641] Marriage / LGBTQ+ policy: Candidate-controlled materials foreground gay/LGBTQIAP2S+ identity and Equality Act advocacy. Iola Register and KOFO say he is the first openly gay person/candidate to run for a U.S. Senate seat from Kansas. KCUR/Kansas News Service reports he supported the Respect for Marriage Act in 2022.
+  - Source: memory/candidates/michael-soetaert/sleuth-pass.md:45
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-02629] Campaign site: https://mikeforkansas.my.canva.site/ is active and links ActBlue, FEC, Kansas SOS candidate page, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, Threads, and merchandise pages. Its page metadata presents Soetaert as a "PROGRESSIVE DEMOCRAT" for U.S. Senate and references reproductive rights and LGBTQ+ advocacy.
+  - Source: https://mikeforkansas.my.canva.site/`
+  - Confidence/use: likely / use
+- **social-online-signal** [em-michael-soetaert-00038] | s-instagram | social | https://www.instagram.com/michael.soetaert1/ | captured in local harvest 2026-05-11 | Public profile metadata, follower/post counts, bio tags | social, abortion, LGBTQ |
+  - Source: https://www.instagram.com/michael.soetaert1/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-00040] | s-bluesky | social | https://bsky.app/profile/michaelsoetaert.bsky.social | captured in local harvest 2026-05-11 | Public profile metadata, account creation, follower/following/write counts, description tags | social, abortion, LGBTQ, peace |
+  - Source: https://bsky.app/profile/michaelsoetaert.bsky.social
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-michael-soetaert-00041] | s-votesmart | secondary | https://justfacts.votesmart.org/candidate/biography/192430/michael-soetaert | accessed 2026-05-19 | Name, gender, birth place, home city, religion field, prior candidacies, priority issues field | biography, prior races, faith signal |
+  - Source: https://justfacts.votesmart.org/candidate/biography/192430/michael-soetaert
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-00039] | s-threads | social | https://www.threads.com/@michael.soetaert1 | captured in local harvest 2026-05-11 | Public profile metadata and bio text | social, abortion, LGBTQ |
+  - Source: https://www.threads.com/@michael.soetaert1
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-00100] Marriage, LGBTQ+ policy, and Equality Act advocacy
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:157
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-02509] Kake and KCUR coverage corroborate his LGBTQ-history significance in Kansas Senate politics.
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:3766
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-02839] "Site metadata references reproductive rights and LGBTQ+/Equality Act advocacy"
+  - Source: memory/candidates/michael-soetaert/v2-issues.yaml:132
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-02969] "title": "Marriage & Family / LGBTQ+ Policy",
+  - Source: ui/src/data/v2/michael-soetaert.ts:196
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-02981] "mappedToIssueId": "i-marriage-lgbtq-policy"
+  - Source: ui/src/data/v2/michael-soetaert.ts:236
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous mikeforkansas.my.canva.site online-reference** [soc-michael-soetaert-0002] | s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social links | issues, social |
+  - Source: https://mikeforkansas.my.canva.site/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous threads.com online-reference** [soc-michael-soetaert-0003] | s-threads | social | https://www.threads.com/@michael.soetaert1 | captured in local harvest 2026-05-11 | Public profile metadata and bio text | social, abortion, LGBTQ |
+  - Source: https://www.threads.com/@michael.soetaert1
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-michael-soetaert-0004] Campaign site: https://mikeforkansas.my.canva.site/ is active and links ActBlue, FEC, Kansas SOS candidate page, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, Threads, and merchandise pages. Its page metadata presents Soetaert as a "PROGRESSIVE DEMOCRAT" for U.S. Senate and references reproductive rights and LGBTQ+ advocacy.
+  - Source: https://mikeforkansas.my.canva.site/`
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Instagram post** [soc-michael-soetaert-0007] | s-instagram | social | https://www.instagram.com/michael.soetaert1/ | captured in local harvest 2026-05-11 | Public profile metadata, follower/post counts, bio tags | social, abortion, LGBTQ |
+  - Source: https://www.instagram.com/michael.soetaert1/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky follow** [soc-michael-soetaert-0008] | s-bluesky | social | https://bsky.app/profile/michaelsoetaert.bsky.social | captured in local harvest 2026-05-11 | Public profile metadata, account creation, follower/following/write counts, description tags | social, abortion, LGBTQ, peace |
+  - Source: https://bsky.app/profile/michaelsoetaert.bsky.social
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0146] School Choice / Parental Rights in Education: Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0147] "text": "In a 2022 interview, Soetaert explained an online-only or pandemic campaign and linked his party switch to pandemic management, Jan. 6, and LGBTQ issues. This is a 2022 candidate-statement record, not a detailed 2026 public-health platform.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 3. Education / curriculum / schools
+
+Education / curriculum / schools: 24 selected evidence items from 95 mapped rows. Public URL-backed rows: 5.
+
+### Evidence
+- **candidate-stated** [em-michael-soetaert-00933] Said she wants to restore funding for Medicaid, special education and affordable housing programs (KCUR, Dec 30, 2025)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1285
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01539] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2259
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-02528] School Choice / Parental Rights in Education: Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources.
+  - Source: memory/candidates/michael-soetaert/site-profile.md:29
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00716] [Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)
+  - Source: https://www.usd489.com/page/board-of-education
+  - Confidence/use: confirmed / use
+- **documented-record** [em-michael-soetaert-00781] [Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)
+  - Source: https://www.haysusa.com/335/Public-Library-Board
+  - Confidence/use: confirmed / use
+- **documented-record** [em-michael-soetaert-03134] "url": "https://www.usd489.com/page/board-of-education"
+  - Source: https://www.usd489.com/page/board-of-education
+  - Confidence/use: confirmed / use
+- **documented-record** [em-michael-soetaert-00008] The visible absences are notable because the accessible campaign record was broad across platforms but thin in long-form issue detail. The public harvest did not capture detailed candidate-authored posts on water, the Ogallala Aquifer, Farm Bill policy, crop prices, ethanol, rural hospital closures, Fort Riley, veterans' facilities, Medicare, Social Security, tribal issues, higher education, or county-by-county service delivery. This describes only the captured public record; it does not address private posts, deleted posts, event remarks, or material behind platform access controls.
+  - Source: memory/candidates/michael-soetaert/in-their-own-words.md:17
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00128] Public record: Vote Smart's biography page has a "Priority Issues" field listing broad topics including agriculture/subsidies, criminal justice reform, education reform/student aid, election integrity, environmental regulations/energy, federal spending/monetary policy, civil rights/constitutional government, labor policy, and health care.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:214
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00129] Use caution: Vote Smart does not provide detailed candidate text on those issue areas in the accessible page, and this pass did not verify current candidate-controlled policy detail for guns, immigration/border, marijuana/drug policy, federal spending, health care, education, energy, or environmental regulation.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:216
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00141] No candidate-controlled detailed policy text was confirmed for guns, immigration/border, marijuana/drug policy, Farm Bill/water/agriculture, rural hospitals, Medicare, Social Security, veterans, broadband, or higher education.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:240
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00371] Education: Not specified in available sources
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:481
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-00989] Born/Raised: Kansas City, Kansas. Attended Sumner Academy (magnet high school).
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1413
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-01767] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2584
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-michael-soetaert-02752] The public harvest did not capture detailed candidate-authored posts on water, the Ogallala Aquifer, Farm Bill policy, crop prices, ethanol, rural hospital closures, Fort Riley, veterans' facilities, Medicare, Social Security, tribal issues, higher education, or county-by-county service delivery. This is a limitation of the accessible public record reviewed, not a statement about private posts, deleted posts, or posts behind platform access controls.
+  - Source: memory/candidates/michael-soetaert/social-harvest.md:124
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-michael-soetaert-00079] Soetaert is listed by official/government sources as a Wellington-based Democratic candidate for U.S. Senate. Vote Smart lists full name Michael Soetaert, birth place Wellington, Kansas, home city Wellington, Kansas, and religion as Christian. It does not list education, professional experience, or organizational memberships.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:114
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-01140] Education: B.A. in Business Administration, Trevecca Nazarene University (1999) -- *note: Trevecca is a Church of the Nazarene university in Nashville, TN, suggesting a faith background*
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1708
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-01729] First Christian Church, Great Bend -- Elder, Deacon, Board Chairman, Sunday School Teacher (25+ years)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2525
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-01794] 25+ years of genuine church leadership (elder, deacon, board chair, Sunday school teacher)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2619
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00717] [Ballotpedia: Hays USD 489 Elections](https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections)
+  - Source: https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-00845] | Hays USD 489 | 785-623-2400 | [usd489.com](https://www.usd489.com) |
+  - Source: https://www.usd489.com
+  - Confidence/use: confirmed / use
+- **background-context** [em-michael-soetaert-00127] Guns, immigration, marijuana/drug policy, federal spending, health care, education, energy, and environmental regulation
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:212
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00195] Education: Associate degree, Cowley County Community College (2017)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1574
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00212] Education:
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1249
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00213] Sedgwick High School (Harvey County, Kansas)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:105
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak Public web / internal harvest post** [soc-michael-soetaert-0019] The public harvest did not capture detailed candidate-authored posts on water, the Ogallala Aquifer, Farm Bill policy, crop prices, ethanol, rural hospital closures, Fort Riley, veterans' facilities, Medicare, Social Security, tribal issues, higher education, or county-by-county service delivery. This is a limitation of the accessible public record reviewed, not a statement about private posts, deleted posts, or posts behind platform access controls.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0136] *"In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0146] School Choice / Parental Rights in Education: Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0148] The visible absences are notable because the accessible campaign record was broad across platforms but thin in long-form issue detail. The public harvest did not capture detailed candidate-authored posts on water, the Ogallala Aquifer, Farm Bill policy, crop prices, ethanol, rural hospital closures, Fort Riley, veterans' facilities, Medicare, Social Security, tribal issues, higher education, or county-by-county service delivery. This describes only the captured public record; it does not address private posts, deleted posts, event remarks, or material behind platform access controls.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0149] No candidate-controlled detailed policy text was confirmed for guns, immigration/border, marijuana/drug policy, Farm Bill/water/agriculture, rural hospitals, Medicare, Social Security, veterans, broadband, or higher education.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0150] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0151] No current church affiliation, education record, business-record details, court/legal record, endorsements, or full long-form policy platform was confirmed.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0152] Detailed candidate-controlled positions on guns, immigration/border policy, marijuana/drug policy, water, energy, broadband, rural hospitals, Farm Bill policy, veterans, Medicare, Social Security, or higher education.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0153] "text": "No current candidate-controlled detailed position or action evidence was confirmed for guns, immigration/border policy, marijuana/drug policy, Farm Bill or water policy, rural hospitals, Medicare, Social Security, veterans, broadband, higher education, or energy. Do not infer positions from party label, identity, social tags, or broad Vote Smart issue categories.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0154] "Candidate-controlled detailed positions on guns, immigration/border, marijuana/drug policy, water, energy, broadband, rural hospitals, Farm Bill policy, veterans, Medicare, Social Security, or higher education."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 4. Religious liberty / church / civic morality
+
+Religious liberty / church / civic morality: 7 selected evidence items from 88 mapped rows. Public URL-backed rows: 2.
+
+### Evidence
+- **candidate-stated** [em-michael-soetaert-02525] Religious Liberty: Runs as a Democrat. No specific personal statement found in public sources.
+  - Source: memory/candidates/michael-soetaert/site-profile.md:23
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-03166] "whoTheyAre": "Michael Soetaert is a Wellington-based Democratic candidate for the U.S. Senate. He grew up in Spring Hill, lives in south-central Kansas, and has built an unusual political biography that includes work in local government, repeated runs for office, and a very public ideological shift from Republican politics to the Democratic field. His candidacy is historically notable because he is the first openly gay person to run for the Kansas Senate seat. At the same time, he is running a visibly lean campaign. His public web presence centers on a free Canva campaign site and an ActBlue page rather than a polished statewide operation. Soetaert's personal story is unusually public in some places and thin in others. Public sources say he was adopted into a Roman Catholic family and now identifies as Christian, but they do not identify a current church. His background matters because…
+  - Source: ui/src/data/candidates.ts:8085
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-00041] | s-votesmart | secondary | https://justfacts.votesmart.org/candidate/biography/192430/michael-soetaert | accessed 2026-05-19 | Name, gender, birth place, home city, religion field, prior candidacies, priority issues field | biography, prior races, faith signal |
+  - Source: https://justfacts.votesmart.org/candidate/biography/192430/michael-soetaert
+  - Confidence/use: likely / use
+- **faith-community-record** [em-michael-soetaert-03124] "url": "https://www.ihm-church.com/"
+  - Source: https://www.ihm-church.com/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-michael-soetaert-00079] Soetaert is listed by official/government sources as a Wellington-based Democratic candidate for U.S. Senate. Vote Smart lists full name Michael Soetaert, birth place Wellington, Kansas, home city Wellington, Kansas, and religion as Christian. It does not list education, professional experience, or organizational memberships.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:114
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-00123] Faith / religious liberty
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:204
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-03173] "issue": "Religious Liberty",
+  - Source: ui/src/data/candidates.ts:8097
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0151] No current church affiliation, education record, business-record details, court/legal record, endorsements, or full long-form policy platform was confirmed.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0156] Faith / religious liberty: Vote Smart lists religion as Christian, and local raw research references a Roman Catholic adoptive-family background. No current church affiliation or candidate-controlled religious-liberty platform was verified. Do not infer policy positions from faith self-description.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0157] "Social signals are issue-scoped observations only. No positions are inferred from party label, identity, faith field, follows, likes, comments, or associations."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0158] "text": "Vote Smart lists Soetaert's religion as Christian, but no current church affiliation or candidate-controlled religious-liberty platform was verified. No issue position is inferred from the biographical religion field.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0159] "observation": "Faith / religious liberty: Vote Smart lists religion as Christian, and local raw research references a Roman Catholic adoptive-family background. No current church affiliation or candidate-controlled religious-liberty platform was verified. Do not infer policy positions from faith self-description.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 5. Taxes / spending / debt
+
+Taxes / spending / debt: 26 selected evidence items from 57 mapped rows. Public URL-backed rows: 6.
+
+### Evidence
+- **candidate-stated** [em-michael-soetaert-00377] Supports Opportunity Zones program (tax incentives for economically distressed areas)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:371
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-00999] Described the disconnect *"between what capital wants and what community wants"* as his motivation. Said *"politician-created problems"* such as tariffs and tax policies that benefit billionaires *"are tearing apart the fabric of our communities."*
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1426
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01003] Opportunity Zones: Supports federal tax incentive programs for investment in economically distressed areas
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1438
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01417] Said the US is "$34 trillion in debt, paying a trillion dollars on interest alone"
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2083
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01528] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2244
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-02020] Supports Opportunity Zones program (tax incentives for investment in distressed areas)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:3002
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00025] | s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | National candidates file with SOS; candidate not considered filed until declaration/petition and fee received; 2026 filing deadline; U.S. Senate office up | status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-michael-soetaert-00027] | s-douglas-candidate-export | primary | https://candidatefiling.us/Info/CFPdf?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS | printed/accessed 2026-05-19 | County election-office export lists Michael "Mike" Soetaert (D), Wellington, U.S. Senator, filed 2025-06-23 by fee; documents filed with State of Kansas | status |
+  - Source: https://candidatefiling.us/Info/CFPdf?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS
+  - Confidence/use: confirmed / use
+- **documented-record** [em-michael-soetaert-00452] Campaign Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (hosted on Canva -- indicates minimal campaign budget/infrastructure)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-01031] Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00019] Kansas SOS's candidate-information page confirms that national candidates file with the Secretary of State and that a candidate is not considered filed until the declaration/petition and fee are received. The live SOS candidate list could not be read directly here because it returned a JavaScript/bot challenge or blocked response. A Douglas County election-office export printed May 19, 2026 lists Michael "Mike" Soetaert, Democratic, Wellington, for U.S. Senator, filed June 23, 2025 by fee, and says documents were filed with the State of Kansas. Because the Kansas primary filing deadline is noon June 1, 2026, downstream language should say "filed/running" rather than nominee or final ballot language until a post-deadline official list is checked.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:15
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00048] Kansas SOS says Democratic and Republican candidates run in the primary to secure their party's nomination. It says candidates for national offices must file with the Secretary of State and are not considered filed until their petition or declaration and fee are received. The 2026 primary filing deadline is noon Monday, June 1, 2026. The office list includes one U.S. Senator.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:56
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00057] Filing method: fee.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:69
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00128] Public record: Vote Smart's biography page has a "Priority Issues" field listing broad topics including agriculture/subsidies, criminal justice reform, education reform/student aid, election integrity, environmental regulations/energy, federal spending/monetary policy, civil rights/constitutional government, labor policy, and health care.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:214
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-00076] Use caution: The ActBlue statement is a candidate-controlled claim. Without FEC receipts/disbursements data, this pass cannot verify total raised, donor names, employer/occupation data, PAC support or absence, debts, refunds, or independent spending.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:106
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-00137] FEC has no visible 2025-2026 financial summary for Soetaert at access; donor names, totals, cash on hand, debts, PAC receipts, and spending cannot be confirmed.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:236
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-01470] Koch Industries was the biggest overall corporate donor to GOP spending groups ($13.75M total) -- strong Kansas connection
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2163
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-01770] Senate Budget Committee
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2588
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-01775] Budget Committee
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2594
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-01339] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1992
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-01924] [Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)
+  - Source: https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-02308] [Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)
+  - Source: https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-00127] Guns, immigration, marijuana/drug policy, federal spending, health care, education, energy, and environmental regulation
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:212
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00280] Property tax stance could appeal to rural/suburban voters across party lines
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:199
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-01007] *"Politician-created problems, such as tariffs and tax policies that benefit billionaires, are tearing apart the fabric of our communities."* (KCUR, Dec 30, 2025)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1444
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-01371] Fire Arms Safety Act -- tax credit for firearms safety courses or purchasing gun safes
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2032
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0160] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0161] "A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 6. Economy / jobs / labor
+
+Economy / jobs / labor: 19 selected evidence items from 42 mapped rows. Public URL-backed rows: 1.
+
+### Evidence
+- **candidate-stated** [em-michael-soetaert-01870] Small business: Supports reducing costs for working families and small businesses
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2730
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00128] Public record: Vote Smart's biography page has a "Priority Issues" field listing broad topics including agriculture/subsidies, criminal justice reform, education reform/student aid, election integrity, environmental regulations/energy, federal spending/monetary policy, civil rights/constitutional government, labor policy, and health care.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:214
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00142] No court/legal record, business-entity record, property-record finding, or professional-license finding was verified in this pass.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:241
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00480] Small business consultant (runs a consulting company for small businesses in/around Wichita)
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:546
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00625] Individual candidate property/business/court records -- requires deeper public records investigation per candidate
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:783
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00940] Retired Ameriprise financial executive with 40 years in business, an economics degree from University of Chicago, and an MBA from Northwestern. The money candidate -- has made 120+ donations to Democratic candidates and organizations. Brings corporate-world gravitas but zero political experience.
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1303
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-01099] Associate degree in Business, Hutchison Community College (1981)
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:477
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-01103] 30+ years in the insurance business, specializing in employee benefits
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:482
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-02482] Michael Soetaert is a Kansas Democratic U.S. Senate candidate and Wellington business owner.
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:3730
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-01767] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2584
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-01140] Education: B.A. in Business Administration, Trevecca Nazarene University (1999) -- *note: Trevecca is a Church of the Nazarene university in Nashville, TN, suggesting a faith background*
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1708
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-02652] No current church affiliation, education record, business-record details, court/legal record, endorsements, or full long-form policy platform was confirmed.
+  - Source: memory/candidates/michael-soetaert/sleuth-pass.md:58
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-03045] "No current church affiliation, endorsements, court/legal records, business records, or professional-license records were verified."
+  - Source: memory/candidates/michael-soetaert/v2-issues.yaml:534
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-02191] [Nex-Tech: Shaun](https://www.nex-tech.com/business/shaun/)
+  - Source: https://www.nex-tech.com/business/shaun/
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-00197] Career: Business administrator
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1575
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00300] 40-year career in business/financial services
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:236
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00319] 40-year business career gives "I know how the economy works" credibility
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:263
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00385] Business/developer background could appeal to moderates and Opportunity Zone supporters
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:383
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00494] Small business owner gives economic credibility
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:574
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0151] No current church affiliation, education record, business-record details, court/legal record, endorsements, or full long-form policy platform was confirmed.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-michael-soetaert-0162] Personal Facebook: Limited; appears to post primarily through DXI Training Solutions LLC business page
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0163] DXI business page is his primary public-facing social media presence
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 7. Guns / Second Amendment
+
+Guns / Second Amendment: 19 selected evidence items from 28 mapped rows. Public URL-backed rows: 0.
+
+### Evidence
+- **documented-record** [em-michael-soetaert-00129] Use caution: Vote Smart does not provide detailed candidate text on those issue areas in the accessible page, and this pass did not verify current candidate-controlled policy detail for guns, immigration/border, marijuana/drug policy, federal spending, health care, education, energy, or environmental regulation.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:216
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00141] No candidate-controlled detailed policy text was confirmed for guns, immigration/border, marijuana/drug policy, Farm Bill/water/agriculture, rural hospitals, Medicare, Social Security, veterans, broadband, or higher education.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:240
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00409] Friendly to the Second Amendment
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:430
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-01097] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:472
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-01365] Gun / Second Amendment Votes
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2026
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-01366] Voted AGAINST the Bipartisan Safer Communities Act (June 2022) -- the gun reform bill that passed after Uvalde
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2027
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-01367] Called red flag laws provisions a "gun-grabbing scheme" that "violate the Second Amendment" and are "begging to be abused"
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2028
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-01369] Introduced pro-2A legislation:
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2030
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-01790] Very few vulnerabilities from the right; Heritage Action 89-94%, pro-life 100%, NRA-aligned, Trump-endorsed
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2614
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-00422] Self-described as "white, male, Christian, hetero, 2A-friendly, LEO-friendly" -- consciously positions himself as electable in red Kansas
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:447
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-00433] Described himself as "white, male, Christian, hetero, 2A-friendly, LEO-friendly, and very clearly anti-pedo" as reasons he's the best Democratic candidate. (Kansas Reflector)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:462
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-00548] Hart has explicitly positioned himself as the most electable Democrat ("white, male, Christian, hetero, 2A-friendly, LEO-friendly"). This electability-vs-values tension will define the primary.
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:673
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-01339] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1992
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00127] Guns, immigration, marijuana/drug policy, federal spending, health care, education, energy, and environmental regulation
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:212
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00421] Pro-2A, pro-law enforcement positioning is unusual for a Democrat and could attract crossover voters
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:446
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-01115] Website headline: "PRO-LIFE. PRO-GUN. PRO-TRUMP."
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1661
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-01130] *"PRO-LIFE. PRO-GUN. PRO-TRUMP."* (hawkinsforinsurance.com)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1684
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-01200] | Branding | "Pro-Life. Pro-Gun. Pro-Trump." | Consumer champion; anti-industry |
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1795
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-01371] Fire Arms Safety Act -- tax credit for firearms safety courses or purchasing gun safes
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2032
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0137] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0149] No candidate-controlled detailed policy text was confirmed for guns, immigration/border, marijuana/drug policy, Farm Bill/water/agriculture, rural hospitals, Medicare, Social Security, veterans, broadband, or higher education.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0152] Detailed candidate-controlled positions on guns, immigration/border policy, marijuana/drug policy, water, energy, broadband, rural hospitals, Farm Bill policy, veterans, Medicare, Social Security, or higher education.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0153] "text": "No current candidate-controlled detailed position or action evidence was confirmed for guns, immigration/border policy, marijuana/drug policy, Farm Bill or water policy, rural hospitals, Medicare, Social Security, veterans, broadband, higher education, or energy. Do not infer positions from party label, identity, social tags, or broad Vote Smart issue categories.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0154] "Candidate-controlled detailed positions on guns, immigration/border, marijuana/drug policy, water, energy, broadband, rural hospitals, Farm Bill policy, veterans, Medicare, Social Security, or higher education."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0164] Guns / Second Amendment: Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy in available materials.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0165] Guns, immigration, marijuana/drug policy, farm policy, water, energy, broadband, rural hospitals, veterans, Social Security, Medicare: no specific current candidate-controlled statements or action evidence were confirmed in the accessible record. Do not infer from party label or social identity.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 8. Immigration / border
+
+Immigration / border: 23 selected evidence items from 60 mapped rows. Public URL-backed rows: 6.
+
+### Evidence
+- **candidate-stated** [em-michael-soetaert-00976] Immigration Reform: *"We have a very big problem with immigration in our country right now, in the sense that there's a lot of confusion over it."* Supports reform that is "a solution, not another problem."
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1384
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01528] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2244
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01539] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2259
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01557] Platform: Consolidated children's healthcare program (replace Medicaid/CHIP patchwork), stronger antitrust and consumer protection laws, immigration reform
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2283
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-02527] Immigration / Border: Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources. on immigration in available materials.
+  - Source: memory/candidates/michael-soetaert/site-profile.md:27
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00129] Use caution: Vote Smart does not provide detailed candidate text on those issue areas in the accessible page, and this pass did not verify current candidate-controlled policy detail for guns, immigration/border, marijuana/drug policy, federal spending, health care, education, energy, or environmental regulation.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:216
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00141] No candidate-controlled detailed policy text was confirmed for guns, immigration/border, marijuana/drug policy, Farm Bill/water/agriculture, rural hospitals, Medicare, Social Security, veterans, broadband, or higher education.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:240
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00935] Weaknesses: Lost her only previous campaign (2020 KS-1 primary). The USDA role ties her directly to Biden, which is a liability in Kansas. Immigration platform (pathway to citizenship) may be too progressive for Kansas general election voters. The NRSC disclosure complaint, while procedural, gives opponents ammunition.
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1289
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00966] Immigration attorney running on fixing the broken immigration system and children's healthcare. First-time candidate. Filed in August 2025, making her one of the earliest entrants alongside Davis and Soetaert.
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1360
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00980] Called for a full investigation of federal immigration enforcement actions (KCUR, Dec 30, 2025)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1390
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-01382] Called Biden's border policy an "open borders agenda" that "exposed states to invasion"
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2044
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-01414] Voted against continuing resolutions that don't include border security funding
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2080
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-01553] Background: Immigration attorney licensed in Kansas, Arkansas, and Missouri. First-time candidate.
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2279
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-michael-soetaert-00006] National-policy content appeared mostly through issue labels and video titles. The campaign site labels included reproductive rights, affordability, voting rights, Department of Peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS, while YouTube titles included ["Michael Soetaert for United States Senate representing Kansas CITIZENS UNITED michael-soetaert"](https://www.youtube.com/watch?v=FvgZQTEDBac), ["Michael Soetaert for United States Senate representing Kansas AFFORDABILITY SAFETY michael-soetaert"](https://www.youtube.com/watch?v=KWhuSNqLD2M), and ["Michael Soetaert for United States Senate representing Kansas LET THERE BE PEACE! michael-soetaert"](https://www.youtube.com/watch?v=0wKwUd_QZ3c). The accessible record did not show a developed foreign-policy series beyond the peace framing and Department of Peace label.
+  - Source: https://www.youtube.com/watch?v=FvgZQTEDBac
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02683] The campaign site issue tiles link to YouTube videos or clips labeled reproductive rights, affordability, voting rights, Department of Peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS.
+  - Source: memory/candidates/michael-soetaert/social-harvest.md:31
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02750] The issue labels repeated across the campaign site and YouTube were reproductive rights, affordability, voting rights, peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS. The Kansas-local YouTube labels were Wellington, Johnson and Sumner, affordability/safety, World Wheat Capital, and America's Breadbasket.
+  - Source: memory/candidates/michael-soetaert/social-harvest.md:120
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-michael-soetaert-01339] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1992
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00353] [Within Reason with Mike Matson (News Radio KMAN, March 2026)](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)
+  - Source: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-00364] [Kansas Reflector - Announcement (Aug 2025)](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-01211] [Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/) (Aug 25, 2025)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-02057] [Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-02060] [KMAN Radio: Within Reason interview](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)
+  - Source: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-00127] Guns, immigration, marijuana/drug policy, federal spending, health care, education, energy, and environmental regulation
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:212
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **strong YouTube post** [soc-michael-soetaert-0006] National-policy content appeared mostly through issue labels and video titles. The campaign site labels included reproductive rights, affordability, voting rights, Department of Peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS, while YouTube titles included ["Michael Soetaert for United States Senate representing Kansas CITIZENS UNITED michael-soetaert"](https://www.youtube.com/watch?v=FvgZQTEDBac), ["Michael Soetaert for United States Senate representing Kansas AFFORDABILITY SAFETY michael-soetaert"](https://www.youtube.com/watch?v=KWhuSNqLD2M), and ["Michael Soetaert for United States Senate representing Kansas LET THERE BE PEACE! michael-soetaert"](https://www.youtube.com/watch?v=0wKwUd_QZ3c). The accessible record did not show a developed foreign-policy series beyond the peace framing and Department of Peace label.
+  - Source: https://www.youtube.com/watch?v=FvgZQTEDBac
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak YouTube post** [soc-michael-soetaert-0012] The campaign site issue tiles link to YouTube videos or clips labeled reproductive rights, affordability, voting rights, Department of Peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak YouTube post** [soc-michael-soetaert-0016] The issue labels repeated across the campaign site and YouTube were reproductive rights, affordability, voting rights, peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS. The Kansas-local YouTube labels were Wellington, Johnson and Sumner, affordability/safety, World Wheat Capital, and America's Breadbasket.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-michael-soetaert-0142] "observation": "The campaign site issue tiles link to YouTube videos or clips labeled reproductive rights, affordability, voting rights, Department of Peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-michael-soetaert-0143] "observation": "The issue labels repeated across the campaign site and YouTube were reproductive rights, affordability, voting rights, peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS. The Kansas-local YouTube labels were Wellington, Johnson and Sumner, affordability/safety, World Wheat Capital, and America's Breadbasket.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-michael-soetaert-0145] "observation": "The campaign site labels included reproductive rights, affordability, voting rights, Department of Peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS, while YouTube titles included \"Michael Soetaert for United States Senate representing Kansas CITIZENS UNITED michael-soetaert\", \"Michael Soetaert for United States Senate representing Kansas AFFORDABILITY SAFETY michael-soetaert\", and...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0149] No candidate-controlled detailed policy text was confirmed for guns, immigration/border, marijuana/drug policy, Farm Bill/water/agriculture, rural hospitals, Medicare, Social Security, veterans, broadband, or higher education.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0150] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0152] Detailed candidate-controlled positions on guns, immigration/border policy, marijuana/drug policy, water, energy, broadband, rural hospitals, Farm Bill policy, veterans, Medicare, Social Security, or higher education.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0153] "text": "No current candidate-controlled detailed position or action evidence was confirmed for guns, immigration/border policy, marijuana/drug policy, Farm Bill or water policy, rural hospitals, Medicare, Social Security, veterans, broadband, higher education, or energy. Do not infer positions from party label, identity, social tags, or broad Vote Smart issue categories.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 9. Health care / insurance / Medicaid
+
+Health care / insurance / Medicaid: 30 selected evidence items from 172 mapped rows. Public URL-backed rows: 8.
+
+### Evidence
+- **candidate-stated** [em-michael-soetaert-00933] Said she wants to restore funding for Medicaid, special education and affordable housing programs (KCUR, Dec 30, 2025)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1285
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01184] On her insurance commissioner platform: Focused on *"lowering costs, consumer protection and holding big insurance companies accountable."* (Kansas Reflector, January 2026)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1768
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01396] Has said: "I came to Congress to fix the cost of health care"
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2060
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01397] Called Obamacare a "miserable failure" -- said premiums doubled and average family deductible is $7,000-$9,000
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2061
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01401] Supports health ministry plans and association healthcare plans as alternatives
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2065
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01403] Promised healthcare vote before end of 2025
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2067
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01539] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2259
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01557] Platform: Consolidated children's healthcare program (replace Medicaid/CHIP patchwork), stronger antitrust and consumer protection laws, immigration reform
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2283
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00042] | s-iola-2022 | secondary | https://www.iolaregister.com/news/candidate-eschews-in-person-campaign | published 2022-07-28; accessed 2026-05-19 | Interview on party switch, pandemic campaign, first openly gay Kansas U.S. Senate candidate distinction, Equality Act contacts | public health, LGBTQ |
+  - Source: https://www.iolaregister.com/news/candidate-eschews-in-person-campaign
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-01215] [Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/) (May 13, 2025)
+  - Source: https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-01225] [Ballotpedia: Kansas Insurance Commissioner Election 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-02577] [Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/)
+  - Source: https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00008] The visible absences are notable because the accessible campaign record was broad across platforms but thin in long-form issue detail. The public harvest did not capture detailed candidate-authored posts on water, the Ogallala Aquifer, Farm Bill policy, crop prices, ethanol, rural hospital closures, Fort Riley, veterans' facilities, Medicare, Social Security, tribal issues, higher education, or county-by-county service delivery. This describes only the captured public record; it does not address private posts, deleted posts, event remarks, or material behind platform access controls.
+  - Source: memory/candidates/michael-soetaert/in-their-own-words.md:17
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00107] Public health and campaign method
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:170
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00108] Candidate-controlled / interview signal: In a 2022 Iola Register interview, Soetaert described his campaign as online/pandemic-focused and said he would choose voter health and safety over in-person campaigning.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:172
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00109] Iola Register reported that his 2022 campaign consisted mostly of website and Twitter activity due to COVID concerns.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:176
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-00004] The public alignment signal is more self-contained campaign infrastructure than cross-candidate amplification. The campaign site links voters to ActBlue, FEC, Kansas Secretary of State, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, and Threads, while the ActBlue page says, ["Michael Soetaert is the ONLY PROGRESSIVE DEMOCRATIC candidate for United States Senate representing Kansas who is declared and filed with the KSSOS. Mike is challenging the Republican incumbent Senator, Doctor Roger Marshall."](https://secure.actblue.com/donate/michael-soetaert) The same page says he is filed with ["BOTH the Federal Election Commission and the Kansas Secretary of State."](https://secure.actblue.com/donate/michael-soetaert) No public endorsements, surrogate networks, or recurring allied accounts were captured in the accessible post-level record.
+  - Source: https://secure.actblue.com/donate/michael-soetaert
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-michael-soetaert-01124] Ordered SB 360 transferred between the House Insurance Committee and Health Committee four times since February 25, 2026
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1674
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-01197] | Fundraising | ~$384K cash on hand (end of 2025) | Unknown; pledged no insurance industry money |
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1792
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-01466] | Health/medical industry | Sector | Major donor category given his background |
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2158
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-01767] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2584
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-michael-soetaert-02695] The ActBlue page says: ["Michael Soetaert is the ONLY PROGRESSIVE DEMOCRATIC candidate for United States Senate representing Kansas who is declared and filed with the KSSOS. Mike is challenging the Republican incumbent Senator, Doctor Roger Marshall."](https://secure.actblue.com/donate/michael-soetaert)
+  - Source: https://secure.actblue.com/donate/michael-soetaert
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02752] The public harvest did not capture detailed candidate-authored posts on water, the Ogallala Aquifer, Farm Bill policy, crop prices, ethanol, rural hospital closures, Fort Riley, veterans' facilities, Medicare, Social Security, tribal issues, higher education, or county-by-county service delivery. This is a limitation of the accessible public record reviewed, not a statement about private posts, deleted posts, or posts behind platform access controls.
+  - Source: memory/candidates/michael-soetaert/social-harvest.md:124
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-michael-soetaert-01339] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1992
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-01213] [Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker](https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/) (Jan 10, 2026)
+  - Source: https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-02575] [Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker](https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/)
+  - Source: https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-00127] Guns, immigration, marijuana/drug policy, federal spending, health care, education, energy, and environmental regulation
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:212
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00229] Healthcare access (especially rural hospitals and clinics)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:125
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00311] Defending Social Security, Medicare, and the VA
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1336
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00340] Juris Doctor, William H. Bowen School of Law (University of Arkansas at Little Rock) (2011; passed Arkansas Bar Exam same year)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:300
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-michael-soetaert-0005] The public alignment signal is more self-contained campaign infrastructure than cross-candidate amplification. The campaign site links voters to ActBlue, FEC, Kansas Secretary of State, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, and Threads, while the ActBlue page says, ["Michael Soetaert is the ONLY PROGRESSIVE DEMOCRATIC candidate for United States Senate representing Kansas who is declared and filed with the KSSOS. Mike is challenging the Republican incumbent Senator, Doctor Roger Marshall."](https://secure.actblue.com/donate/michael-soetaert) The same page says he is filed with ["BOTH the Federal Election Commission and the Kansas Secretary of State."](https://secure.actblue.com/donate/michael-soetaert) No public endorsements, surrogate networks, or recurring allied accounts were captured in the accessible post-level record.
+  - Source: https://secure.actblue.com/donate/michael-soetaert
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-michael-soetaert-0019] The public harvest did not capture detailed candidate-authored posts on water, the Ogallala Aquifer, Farm Bill policy, crop prices, ethanol, rural hospital closures, Fort Riley, veterans' facilities, Medicare, Social Security, tribal issues, higher education, or county-by-county service delivery. This is a limitation of the accessible public record reviewed, not a statement about private posts, deleted posts, or posts behind platform access controls.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong secure.actblue.com post** [soc-michael-soetaert-0020] The ActBlue page says: ["Michael Soetaert is the ONLY PROGRESSIVE DEMOCRATIC candidate for United States Senate representing Kansas who is declared and filed with the KSSOS. Mike is challenging the Republican incumbent Senator, Doctor Roger Marshall."](https://secure.actblue.com/donate/michael-soetaert)
+  - Source: https://secure.actblue.com/donate/michael-soetaert
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0136] *"In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0137] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0147] "text": "In a 2022 interview, Soetaert explained an online-only or pandemic campaign and linked his party switch to pandemic management, Jan. 6, and LGBTQ issues. This is a 2022 candidate-statement record, not a detailed 2026 public-health platform.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0148] The visible absences are notable because the accessible campaign record was broad across platforms but thin in long-form issue detail. The public harvest did not capture detailed candidate-authored posts on water, the Ogallala Aquifer, Farm Bill policy, crop prices, ethanol, rural hospital closures, Fort Riley, veterans' facilities, Medicare, Social Security, tribal issues, higher education, or county-by-county service delivery. This describes only the captured public record; it does not address private posts, deleted posts, event remarks, or material behind platform access controls.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0149] No candidate-controlled detailed policy text was confirmed for guns, immigration/border, marijuana/drug policy, Farm Bill/water/agriculture, rural hospitals, Medicare, Social Security, veterans, broadband, or higher education.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0150] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0152] Detailed candidate-controlled positions on guns, immigration/border policy, marijuana/drug policy, water, energy, broadband, rural hospitals, Farm Bill policy, veterans, Medicare, Social Security, or higher education.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 10. Election integrity / voting / courts
+
+Election integrity / voting / courts: 35 selected evidence items from 758 mapped rows. Public URL-backed rows: 129.
+
+### Evidence
+- **candidate-stated** [em-michael-soetaert-01349] He called it "a decision from my heart" and said he was "concerned then and I still am today that six states broke their own laws or their own constitution."
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2008
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01403] Promised healthcare vote before end of 2025
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2067
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00003] Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as ["Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the Equality Act."](https://mikeforkansas.my.canva.site/) His Instagram profile repeats the same self-definition in tag form: ["#PROGRESSIVE #DEMOCRAT for United States Senate #KANSAS #GAY #LGBTQIAP2S+ #ReproductiveFreedom #WomensRights #ERA"](https://www.instagram.com/michael.soetaert1/)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00025] | s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | National candidates file with SOS; candidate not considered filed until declaration/petition and fee received; 2026 filing deadline; U.S. Senate office up | status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-michael-soetaert-00027] | s-douglas-candidate-export | primary | https://candidatefiling.us/Info/CFPdf?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS | printed/accessed 2026-05-19 | County election-office export lists Michael "Mike" Soetaert (D), Wellington, U.S. Senator, filed 2025-06-23 by fee; documents filed with State of Kansas | status |
+  - Source: https://candidatefiling.us/Info/CFPdf?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS
+  - Confidence/use: confirmed / use
+- **documented-record** [em-michael-soetaert-00030] | s-wellington-resignation | primary | https://www.cityofwellington.net/newsview.aspx?nid=6940 | posted 2025-12-17; accessed 2026-05-19 | City Council accepted Soetaert resignation; Resolution 6412 declared vacancy; release says he was pursuing higher office | local governance |
+  - Source: https://www.cityofwellington.net/newsview.aspx?nid=6940
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00034] | s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social links | issues, social |
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00042] | s-iola-2022 | secondary | https://www.iolaregister.com/news/candidate-eschews-in-person-campaign | published 2022-07-28; accessed 2026-05-19 | Interview on party switch, pandemic campaign, first openly gay Kansas U.S. Senate candidate distinction, Equality Act contacts | public health, LGBTQ |
+  - Source: https://www.iolaregister.com/news/candidate-eschews-in-person-campaign
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00043] | s-kcur-guide | secondary | https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates | published 2025-12-30; accessed 2026-05-19 | Candidate guide: former Republican, former Wellington city council member, abortion-position shift, Respect for Marriage Act support | biography, abortion, LGBTQ |
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00044] | s-kofo-2025 | secondary | https://kofo.com/2025/10/31/mico-native-to-run-for-senate-2/ | published 2025-10-31; accessed 2026-05-19 | Spring Hill native; filed for U.S. Senate; first openly gay candidate framing | biography, LGBTQ |
+  - Source: https://kofo.com/2025/10/31/mico-native-to-run-for-senate-2/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-michael-soetaert-00004] The public alignment signal is more self-contained campaign infrastructure than cross-candidate amplification. The campaign site links voters to ActBlue, FEC, Kansas Secretary of State, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, and Threads, while the ActBlue page says, ["Michael Soetaert is the ONLY PROGRESSIVE DEMOCRATIC candidate for United States Senate representing Kansas who is declared and filed with the KSSOS. Mike is challenging the Republican incumbent Senator, Doctor Roger Marshall."](https://secure.actblue.com/donate/michael-soetaert) The same page says he is filed with ["BOTH the Federal Election Commission and the Kansas Secretary of State."](https://secure.actblue.com/donate/michael-soetaert) No public endorsements, surrogate networks, or recurring allied accounts were captured in the accessible post-level record.
+  - Source: https://secure.actblue.com/donate/michael-soetaert
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-michael-soetaert-00332] [FEC Filing](https://www.fec.gov/data/candidate/S6KS00262/)
+  - Source: https://www.fec.gov/data/candidate/S6KS00262/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-michael-soetaert-00557] FEC Race Page: [2026 Election - U.S. Senate - Kansas](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-michael-soetaert-01220] [FEC: 2026 Kansas Senate Election](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-michael-soetaert-02103] FEC Filing: [FEC Candidate H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/)
+  - Source: https://www.fec.gov/data/candidate/H6KS03258/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-michael-soetaert-02629] Campaign site: https://mikeforkansas.my.canva.site/ is active and links ActBlue, FEC, Kansas SOS candidate page, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, Threads, and merchandise pages. Its page metadata presents Soetaert as a "PROGRESSIVE DEMOCRAT" for U.S. Senate and references reproductive rights and LGBTQ+ advocacy.
+  - Source: https://mikeforkansas.my.canva.site/`
+  - Confidence/use: likely / use
+- **social-online-signal** [em-michael-soetaert-00005] Audience response is easiest to measure on YouTube, because that platform exposed post titles, view counts, and date labels. The visible channel page showed [30 videos](social-harvest.md#youtube-videos) from roughly November 2025 through February 2026. The highest-viewed captured item was ["Michael Soetaert for United States Senate representing Kansas: about the BALLOT BOX michael-soetaert"](https://www.youtube.com/watch?v=UNBOrjk9ZHY) with 1.5K views as of 2026-05-11. Other visible higher-view items included ["Michael Soetaert for United States Senate representing Kansas WHAT COULD I DO? michael-soetaert"](https://www.youtube.com/watch?v=EkCIOQ0M_T4) with 324 views, ["Michael Soetaert for United States Senate representing Kansas CAMPAIGN COMPILATION michael-soetaert"](https://www.youtube.com/watch?v=jYmGa1liz8E) with 233 views, and ["Michael Soetaert for United States Senate representi…
+  - Source: https://www.youtube.com/watch?v=UNBOrjk9ZHY
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-00006] National-policy content appeared mostly through issue labels and video titles. The campaign site labels included reproductive rights, affordability, voting rights, Department of Peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS, while YouTube titles included ["Michael Soetaert for United States Senate representing Kansas CITIZENS UNITED michael-soetaert"](https://www.youtube.com/watch?v=FvgZQTEDBac), ["Michael Soetaert for United States Senate representing Kansas AFFORDABILITY SAFETY michael-soetaert"](https://www.youtube.com/watch?v=KWhuSNqLD2M), and ["Michael Soetaert for United States Senate representing Kansas LET THERE BE PEACE! michael-soetaert"](https://www.youtube.com/watch?v=0wKwUd_QZ3c). The accessible record did not show a developed foreign-policy series beyond the peace framing and Department of Peace label.
+  - Source: https://www.youtube.com/watch?v=FvgZQTEDBac
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02631] YouTube: https://www.youtube.com/@mikeforkansas was the strongest post-level source in the local social harvest. Public channel capture on May 11, 2026 showed 30 visible videos from roughly November 2025 through February 2026. Topic labels included reproductive rights, Citizens United, voting/ballot box, affordability/safety, Department of Peace/peace, LGBTQIAP2S+ equality, Kansas wheat/food-place language, and campaign compilations.
+  - Source: https://www.youtube.com/@mikeforkansas`
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02670] | Campaign site | [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) | Active campaign landing page with issue tiles, social links, ActBlue, FEC, KSSOS, vote.gov, and store links. |
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02696] The same ActBlue page also says: ["Michael \"Mike\" Soetaert is the ONLY PROGRESSIVE DEMOCRATIC candidate who is declared and filed with BOTH the Federal Election Commission and the Kansas Secretary of State."](https://secure.actblue.com/donate/michael-soetaert)
+  - Source: https://secure.actblue.com/donate/michael-soetaert
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02713] | [REGISTER TO VOTE NOW](https://www.youtube.com/watch?v=NIMLrjxivVE) | Michael Soetaert for United States Senate representing Kansas REGISTER TO VOTE NOW michael-soetaert | 16 | 3mo ago |
+  - Source: https://www.youtube.com/watch?v=NIMLrjxivVE
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02717] | [about the BALLOT BOX](https://www.youtube.com/watch?v=UNBOrjk9ZHY) | Michael Soetaert for United States Senate representing Kansas: about the BALLOT BOX michael-soetaert | 1.5K | 4mo ago |
+  - Source: https://www.youtube.com/watch?v=UNBOrjk9ZHY
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02732] [about the BALLOT BOX](https://www.youtube.com/watch?v=UNBOrjk9ZHY): 1.5K views, 4mo ago.
+  - Source: https://www.youtube.com/watch?v=UNBOrjk9ZHY
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-michael-soetaert-00079] Soetaert is listed by official/government sources as a Wellington-based Democratic candidate for U.S. Senate. Vote Smart lists full name Michael Soetaert, birth place Wellington, Kansas, home city Wellington, Kansas, and religion as Christian. It does not list education, professional experience, or organizational memberships.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:114
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-00124] Public record: Vote Smart lists Soetaert's religion as Christian. Existing local research references a Roman Catholic adoptive-family background, but no current church affiliation was verified.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:206
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-00125] Use caution: Treat the Vote Smart entry as a biographical field only. Do not infer denomination, worship attendance, theology, religious-liberty policy, or issue positions from it.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:208
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-01339] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1992
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-michael-soetaert-01126] Advocates accused him of "desperately maneuvering to sabotage" the vote
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1676
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00032] | s-sos-2022-primary | primary | https://www.sos.ks.gov/elections/22elec/2022-Primary-Official-Vote-Totals.pdf | accessed 2026-05-19 | 2022 Democratic U.S. Senate primary: D-Michael Soetaert 9,464 votes, 3.55% | candidacy history |
+  - Source: https://www.sos.ks.gov/elections/22elec/2022-Primary-Official-Vote-Totals.pdf
+  - Confidence/use: confirmed / use
+- **background-context** [em-michael-soetaert-00033] | s-sos-2024-primary | primary | https://www.sos.ks.gov/elections/24elec/2024-Primary-Official-Vote-Totals.pdf | accessed 2026-05-19 | 2024 Kansas Senate District 32 Democratic primary: Michael "Mike" Soetaert 366 votes, 32.50% | candidacy history |
+  - Source: https://www.sos.ks.gov/elections/24elec/2024-Primary-Official-Vote-Totals.pdf
+  - Confidence/use: confirmed / use
+- **background-context** [em-michael-soetaert-00779] [Vote No Kansas 2026](https://www.votenokansas.org/)
+  - Source: https://www.votenokansas.org/
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-01175] Full voting record available at [kslegislature.gov](https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/)
+  - Source: https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/
+  - Confidence/use: confirmed / use
+- **background-context** [em-michael-soetaert-02687] [vote.gov](https://vote.gov/)
+  - Source: https://vote.gov/
+  - Confidence/use: confirmed / use
+- **background-context** [em-michael-soetaert-00279] Legislative experience and voting record to point to
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:198
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Instagram online-reference** [soc-michael-soetaert-0001] Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as ["Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the Equality Act."](https://mikeforkansas.my.canva.site/) His Instagram profile repeats the same self-definition in tag form: ["#PROGRESSIVE #DEMOCRAT for United States Senate #KANSAS #GAY #LGBTQIAP2S+ #ReproductiveFreedom #WomensRights #ERA"](https://www.instagram.com/michael.soetaert1/)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous mikeforkansas.my.canva.site online-reference** [soc-michael-soetaert-0002] | s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social links | issues, social |
+  - Source: https://mikeforkansas.my.canva.site/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-michael-soetaert-0004] Campaign site: https://mikeforkansas.my.canva.site/ is active and links ActBlue, FEC, Kansas SOS candidate page, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, Threads, and merchandise pages. Its page metadata presents Soetaert as a "PROGRESSIVE DEMOCRAT" for U.S. Senate and references reproductive rights and LGBTQ+ advocacy.
+  - Source: https://mikeforkansas.my.canva.site/`
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-michael-soetaert-0005] The public alignment signal is more self-contained campaign infrastructure than cross-candidate amplification. The campaign site links voters to ActBlue, FEC, Kansas Secretary of State, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, and Threads, while the ActBlue page says, ["Michael Soetaert is the ONLY PROGRESSIVE DEMOCRATIC candidate for United States Senate representing Kansas who is declared and filed with the KSSOS. Mike is challenging the Republican incumbent Senator, Doctor Roger Marshall."](https://secure.actblue.com/donate/michael-soetaert) The same page says he is filed with ["BOTH the Federal Election Commission and the Kansas Secretary of State."](https://secure.actblue.com/donate/michael-soetaert) No public endorsements, surrogate networks, or recurring allied accounts were captured in the accessible post-level record.
+  - Source: https://secure.actblue.com/donate/michael-soetaert
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong YouTube post** [soc-michael-soetaert-0006] National-policy content appeared mostly through issue labels and video titles. The campaign site labels included reproductive rights, affordability, voting rights, Department of Peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS, while YouTube titles included ["Michael Soetaert for United States Senate representing Kansas CITIZENS UNITED michael-soetaert"](https://www.youtube.com/watch?v=FvgZQTEDBac), ["Michael Soetaert for United States Senate representing Kansas AFFORDABILITY SAFETY michael-soetaert"](https://www.youtube.com/watch?v=KWhuSNqLD2M), and ["Michael Soetaert for United States Senate representing Kansas LET THERE BE PEACE! michael-soetaert"](https://www.youtube.com/watch?v=0wKwUd_QZ3c). The accessible record did not show a developed foreign-policy series beyond the peace framing and Department of Peace label.
+  - Source: https://www.youtube.com/watch?v=FvgZQTEDBac
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-michael-soetaert-0009] YouTube: https://www.youtube.com/@mikeforkansas was the strongest post-level source in the local social harvest. Public channel capture on May 11, 2026 showed 30 visible videos from roughly November 2025 through February 2026. Topic labels included reproductive rights, Citizens United, voting/ballot box, affordability/safety, Department of Peace/peace, LGBTQIAP2S+ equality, Kansas wheat/food-place language, and campaign compilations.
+  - Source: https://www.youtube.com/@mikeforkansas`
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak YouTube post** [soc-michael-soetaert-0012] The campaign site issue tiles link to YouTube videos or clips labeled reproductive rights, affordability, voting rights, Department of Peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky follow** [soc-michael-soetaert-0014] Bluesky profile metadata as captured on 2026-05-11 listed the display name "Michael Soetaert for United States Senate 2026 KS" and the handle [michaelsoetaert.bsky.social](https://bsky.app/profile/michaelsoetaert.bsky.social). The public JSON-LD showed 22,749 followers, 2,380 following, and 235 writes/posts. The profile description listed tags for U.S. Senate, LGBTQIAP2S+, Equality Act, Kansas, peace, SOGI, DEIA, women's rights, ERA, reproductive freedom, vote.gov, and Linktree.
+  - Source: https://bsky.app/profile/michaelsoetaert.bsky.social
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-michael-soetaert-0015] Civil rights, identity, reproductive rights, voting, ballot access, registration, and campaign finance: 9 of 30.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak YouTube post** [soc-michael-soetaert-0016] The issue labels repeated across the campaign site and YouTube were reproductive rights, affordability, voting rights, peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS. The Kansas-local YouTube labels were Wellington, Johnson and Sumner, affordability/safety, World Wheat Capital, and America's Breadbasket.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 11. Public safety / law enforcement / criminal justice
+
+Public safety / law enforcement / criminal justice: 16 selected evidence items from 206 mapped rows. Public URL-backed rows: 19.
+
+### Evidence
+- **candidate-stated** [em-michael-soetaert-00885] The January 2026 killing of Alex Pretti by federal agents in Minneapolis was the catalyst. As a career federal law enforcement official, Hart said this event -- and the broader direction of the federal government -- compelled him to leave his career and enter politics for the first time.
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1208
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00472] [Michael Soetaert - Ballotpedia](https://ballotpedia.org/Michael_Soetaert)
+  - Source: https://ballotpedia.org/Michael_Soetaert
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00590] [KCUR - "Who's running to represent Kansas in the U.S. Senate in 2026?" (Dec 30, 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00591] [Ballotpedia - Kansas Senate 2026](https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026)
+  - Source: https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00601] [Sharice Davids Senate Speculation (Jan 29, 2026)](https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/)
+  - Source: https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00607] [KCUR - Sharice Davids Discussion (Feb 24, 2026)](https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out)
+  - Source: https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00619] [Michael Soetaert for Senate](https://mikeforkansas.my.canva.site/)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00778] [Ballotpedia: Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))
+  - Source: https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-01031] Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-michael-soetaert-01881] Hart is the most unconventional candidate in the Democratic primary. A career federal prosecutor who switched parties twice in one month, running on a blunt "electability" argument centered on his identity as a straight white Christian male in Kansas. His wife's quip has become his most quoted line. His lack of political experience or campaign infrastructure is either refreshingly authentic or dangerously unprepared -- depends on the voter. His 21-year record prosecuting child predators is his strongest credential.
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2749
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00408] Pro-law enforcement
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:429
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00420] 16 years as federal prosecutor gives instant credibility on rule of law
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:445
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00421] Pro-2A, pro-law enforcement positioning is unusual for a Democrat and could attract crossover voters
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:446
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00822] Ellis County Sheriff primary (if on cycle -- VERIFY)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1108
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00835] Ellis County Sheriff (if on cycle -- VERIFY)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1122
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00874] Career: 21+ years in public service as a prosecutor
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1196
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0137] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0161] "A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0166] Weaknesses: Lost her only previous campaign (2020 KS-1 primary). The USDA role ties her directly to Biden, which is a liability in Kansas. Immigration platform (pathway to citizenship) may be too progressive for Kansas general election voters. The NRSC disclosure complaint, while procedural, gives opponents ammunition.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0183] Why He's Running: Soetaert is a persistent political aspirant who has run repeatedly. His current iteration as a Democrat appears to follow his evolution from a conservative Republican to a more progressive position on social issues.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0197] Platform / Key Positions:
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0198] Platform
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 12. Agriculture / rural economy / water
+
+Agriculture / rural economy / water: 30 selected evidence items from 109 mapped rows. Public URL-backed rows: 7.
+
+### Evidence
+- **candidate-stated** [em-michael-soetaert-00929] Tariffs: Opposes Trump tariffs, says they cause instability for farmers and rural communities
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1279
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01391] Opposes federal control over cattle markets
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2054
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01539] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2259
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01980] Opposes Medicaid cuts threatening rural hospitals
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2924
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00008] The visible absences are notable because the accessible campaign record was broad across platforms but thin in long-form issue detail. The public harvest did not capture detailed candidate-authored posts on water, the Ogallala Aquifer, Farm Bill policy, crop prices, ethanol, rural hospital closures, Fort Riley, veterans' facilities, Medicare, Social Security, tribal issues, higher education, or county-by-county service delivery. This describes only the captured public record; it does not address private posts, deleted posts, event remarks, or material behind platform access controls.
+  - Source: memory/candidates/michael-soetaert/in-their-own-words.md:17
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00121] No current candidate-controlled Farm Bill, crop-price, water, Ogallala Aquifer, ethanol, rural hospital, or county-service plan was captured.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:200
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00128] Public record: Vote Smart's biography page has a "Priority Issues" field listing broad topics including agriculture/subsidies, criminal justice reform, education reform/student aid, election integrity, environmental regulations/energy, federal spending/monetary policy, civil rights/constitutional government, labor policy, and health care.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:214
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00141] No candidate-controlled detailed policy text was confirmed for guns, immigration/border, marijuana/drug policy, Farm Bill/water/agriculture, rural hospitals, Medicare, Social Security, veterans, broadband, or higher education.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:240
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00187] Support for Medicaid cuts threatening rural hospitals
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:57
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00188] Failure to pass Farm Bill cited by multiple challengers
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:64
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00315] Passing a Farm Bill
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:256
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00328] Key Quote: Called Medicaid cuts "the big abomination of a bill" and said reversing them "would be a good first step because health care is a significant concern in rural Kansas." (Kansas Reflector)
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:275
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-00243] Based in very rural Chase County -- small donor/volunteer base
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:142
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-01385] Serves on Senate Agriculture Committee -- a pillar of his identity
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2048
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-01463] | Kansas Farm Bureau | Endorsement + support | Agricultural sector backing |
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2155
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-01465] | Agriculture industry | Sector | Major donor category |
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2157
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-01494] Multiple Farm Bill provisions as Agriculture Committee member
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2195
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-michael-soetaert-01575] Served on House Agriculture Committee -- key for representing the Big First
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2309
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-michael-soetaert-00007] Kansas and local-place signals were present, but lighter than the national issue and self-definition signals. Visible YouTube titles named Wellington, Johnson and Sumner, affordability and safety, World Wheat Capital, and America's Breadbasket. Examples included ["Michael Soetaert for United States Senate in Wellington, Kansas michael-soetaert"](https://www.youtube.com/watch?v=iB74LF3KHAc), ["Michael Soetaert for United States Senate representing Kansas JOHNSON & SUMNER michael-soetaert"](https://www.youtube.com/watch?v=QfWP2-MzWds), and ["Michael Soetaert for United States Senate representing Kansas WORLD WHEAT CAPITAL michael-soetaert"](https://www.youtube.com/watch?v=9U_-fZa0AhE). In the captured record, Kansas appeared most often as place, food, wheat, and safety language rather than as detailed county-level policy.
+  - Source: https://www.youtube.com/watch?v=iB74LF3KHAc
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02631] YouTube: https://www.youtube.com/@mikeforkansas was the strongest post-level source in the local social harvest. Public channel capture on May 11, 2026 showed 30 visible videos from roughly November 2025 through February 2026. Topic labels included reproductive rights, Citizens United, voting/ballot box, affordability/safety, Department of Peace/peace, LGBTQIAP2S+ equality, Kansas wheat/food-place language, and campaign compilations.
+  - Source: https://www.youtube.com/@mikeforkansas`
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-03319] "observation": "YouTube: https://www.youtube.com/@mikeforkansas was the strongest post-level source in the local social harvest. Public channel capture on May 11, 2026 showed 30 visible videos from roughly November 2025 through February 2026. Topic labels included reproductive rights, Citizens United, voting/ballot box, affordability/safety, Department of Peace/peace, LGBTQIAP2S+ equality, Kansas wheat/food-place language, and...",
+  - Source: https://www.youtube.com/@mikeforkansas
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02748] Kansas, local geography, affordability, food, and wheat labels: 5 of 30.
+  - Source: memory/candidates/michael-soetaert/social-harvest.md:117
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02752] The public harvest did not capture detailed candidate-authored posts on water, the Ogallala Aquifer, Farm Bill policy, crop prices, ethanol, rural hospital closures, Fort Riley, veterans' facilities, Medicare, Social Security, tribal issues, higher education, or county-by-county service delivery. This is a limitation of the accessible public record reviewed, not a statement about private posts, deleted posts, or posts behind platform access controls.
+  - Source: memory/candidates/michael-soetaert/social-harvest.md:124
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-michael-soetaert-01339] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1992
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-01959] [USDA: KS State Director announcement](https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas)
+  - Source: https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas
+  - Confidence/use: confirmed / use
+- **background-context** [em-michael-soetaert-02274] [Municipal Water Leader Magazine](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)
+  - Source: https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-02275] [KWCH: $15M grant](https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/)
+  - Source: https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-02276] [E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)
+  - Source: https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-00118] Rural Kansas, affordability, food, and agriculture-adjacent themes
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:193
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00222] Kansas State Director, USDA Rural Development (Biden administration, 2023-January 2025) -- oversaw more than $1.3 billion of investment in Kansas (community centers, housing developments, hospitals, clinics, nursing homes). Also led a nationwide effort to cut red tape in federal programs.
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:115
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **strong YouTube post** [soc-michael-soetaert-0009] YouTube: https://www.youtube.com/@mikeforkansas was the strongest post-level source in the local social harvest. Public channel capture on May 11, 2026 showed 30 visible videos from roughly November 2025 through February 2026. Topic labels included reproductive rights, Citizens United, voting/ballot box, affordability/safety, Department of Peace/peace, LGBTQIAP2S+ equality, Kansas wheat/food-place language, and campaign compilations.
+  - Source: https://www.youtube.com/@mikeforkansas`
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-michael-soetaert-0017] "observation": "YouTube: https://www.youtube.com/@mikeforkansas was the strongest post-level source in the local social harvest. Public channel capture on May 11, 2026 showed 30 visible videos from roughly November 2025 through February 2026. Topic labels included reproductive rights, Citizens United, voting/ballot box, affordability/safety, Department of Peace/peace, LGBTQIAP2S+ equality, Kansas wheat/food-place language, and...",
+  - Source: https://www.youtube.com/@mikeforkansas
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-michael-soetaert-0019] The public harvest did not capture detailed candidate-authored posts on water, the Ogallala Aquifer, Farm Bill policy, crop prices, ethanol, rural hospital closures, Fort Riley, veterans' facilities, Medicare, Social Security, tribal issues, higher education, or county-by-county service delivery. This is a limitation of the accessible public record reviewed, not a statement about private posts, deleted posts, or posts behind platform access controls.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong YouTube post** [soc-michael-soetaert-0028] Kansas and local-place signals were present, but lighter than the national issue and self-definition signals. Visible YouTube titles named Wellington, Johnson and Sumner, affordability and safety, World Wheat Capital, and America's Breadbasket. Examples included ["Michael Soetaert for United States Senate in Wellington, Kansas michael-soetaert"](https://www.youtube.com/watch?v=iB74LF3KHAc), ["Michael Soetaert for United States Senate representing Kansas JOHNSON & SUMNER michael-soetaert"](https://www.youtube.com/watch?v=QfWP2-MzWds), and ["Michael Soetaert for United States Senate representing Kansas WORLD WHEAT CAPITAL michael-soetaert"](https://www.youtube.com/watch?v=9U_-fZa0AhE). In the captured record, Kansas appeared most often as place, food, wheat, and safety language rather than as detailed county-level policy.
+  - Source: https://www.youtube.com/watch?v=iB74LF3KHAc
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-michael-soetaert-0029] Kansas, local geography, affordability, food, and wheat labels: 5 of 30.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0148] The visible absences are notable because the accessible campaign record was broad across platforms but thin in long-form issue detail. The public harvest did not capture detailed candidate-authored posts on water, the Ogallala Aquifer, Farm Bill policy, crop prices, ethanol, rural hospital closures, Fort Riley, veterans' facilities, Medicare, Social Security, tribal issues, higher education, or county-by-county service delivery. This describes only the captured public record; it does not address private posts, deleted posts, event remarks, or material behind platform access controls.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0149] No candidate-controlled detailed policy text was confirmed for guns, immigration/border, marijuana/drug policy, Farm Bill/water/agriculture, rural hospitals, Medicare, Social Security, veterans, broadband, or higher education.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0150] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0152] Detailed candidate-controlled positions on guns, immigration/border policy, marijuana/drug policy, water, energy, broadband, rural hospitals, Farm Bill policy, veterans, Medicare, Social Security, or higher education.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0153] "text": "No current candidate-controlled detailed position or action evidence was confirmed for guns, immigration/border policy, marijuana/drug policy, Farm Bill or water policy, rural hospitals, Medicare, Social Security, veterans, broadband, higher education, or energy. Do not infer positions from party label, identity, social tags, or broad Vote Smart issue categories.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 13. Local governance / transparency / ethics
+
+Local governance / transparency / ethics: 38 selected evidence items from 918 mapped rows. Public URL-backed rows: 156.
+
+### Evidence
+- **candidate-stated** [em-michael-soetaert-00885] The January 2026 killing of Alex Pretti by federal agents in Minneapolis was the catalyst. As a career federal law enforcement official, Hart said this event -- and the broader direction of the federal government -- compelled him to leave his career and enter politics for the first time.
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1208
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-01528] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2244
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-02294] Hands-on: Pledged to spend 1-2 hours minimum in every county department to assess staffing
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:3433
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-michael-soetaert-02986] "text": "Soetaert's recent local-government record includes brief Wellington City Council service followed by a December 2025 resignation accepted by the city council. The City of Wellington release says he requested the action and that the seat was declared vacant.",
+  - Source: ui/src/data/v2/michael-soetaert.ts:264
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00003] Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as ["Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the Equality Act."](https://mikeforkansas.my.canva.site/) His Instagram profile repeats the same self-definition in tag form: ["#PROGRESSIVE #DEMOCRAT for United States Senate #KANSAS #GAY #LGBTQIAP2S+ #ReproductiveFreedom #WomensRights #ERA"](https://www.instagram.com/michael.soetaert1/)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00025] | s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | National candidates file with SOS; candidate not considered filed until declaration/petition and fee received; 2026 filing deadline; U.S. Senate office up | status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-michael-soetaert-00027] | s-douglas-candidate-export | primary | https://candidatefiling.us/Info/CFPdf?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS | printed/accessed 2026-05-19 | County election-office export lists Michael "Mike" Soetaert (D), Wellington, U.S. Senator, filed 2025-06-23 by fee; documents filed with State of Kansas | status |
+  - Source: https://candidatefiling.us/Info/CFPdf?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS
+  - Confidence/use: confirmed / use
+- **documented-record** [em-michael-soetaert-00030] | s-wellington-resignation | primary | https://www.cityofwellington.net/newsview.aspx?nid=6940 | posted 2025-12-17; accessed 2026-05-19 | City Council accepted Soetaert resignation; Resolution 6412 declared vacancy; release says he was pursuing higher office | local governance |
+  - Source: https://www.cityofwellington.net/newsview.aspx?nid=6940
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00034] | s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social links | issues, social |
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00042] | s-iola-2022 | secondary | https://www.iolaregister.com/news/candidate-eschews-in-person-campaign | published 2022-07-28; accessed 2026-05-19 | Interview on party switch, pandemic campaign, first openly gay Kansas U.S. Senate candidate distinction, Equality Act contacts | public health, LGBTQ |
+  - Source: https://www.iolaregister.com/news/candidate-eschews-in-person-campaign
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00043] | s-kcur-guide | secondary | https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates | published 2025-12-30; accessed 2026-05-19 | Candidate guide: former Republican, former Wellington city council member, abortion-position shift, Respect for Marriage Act support | biography, abortion, LGBTQ |
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-michael-soetaert-00044] | s-kofo-2025 | secondary | https://kofo.com/2025/10/31/mico-native-to-run-for-senate-2/ | published 2025-10-31; accessed 2026-05-19 | Spring Hill native; filed for U.S. Senate; first openly gay candidate framing | biography, LGBTQ |
+  - Source: https://kofo.com/2025/10/31/mico-native-to-run-for-senate-2/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-michael-soetaert-00004] The public alignment signal is more self-contained campaign infrastructure than cross-candidate amplification. The campaign site links voters to ActBlue, FEC, Kansas Secretary of State, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, and Threads, while the ActBlue page says, ["Michael Soetaert is the ONLY PROGRESSIVE DEMOCRATIC candidate for United States Senate representing Kansas who is declared and filed with the KSSOS. Mike is challenging the Republican incumbent Senator, Doctor Roger Marshall."](https://secure.actblue.com/donate/michael-soetaert) The same page says he is filed with ["BOTH the Federal Election Commission and the Kansas Secretary of State."](https://secure.actblue.com/donate/michael-soetaert) No public endorsements, surrogate networks, or recurring allied accounts were captured in the accessible post-level record.
+  - Source: https://secure.actblue.com/donate/michael-soetaert
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-michael-soetaert-00028] | s-fec-candidate | primary | https://www.fec.gov/data/candidate/S2KS00097/ | accessed 2026-05-19 | FEC candidate ID, office, party, challenger status, no 2025-2026 financial summary, Form 2 filed 2025-09-22 | status, campaign finance |
+  - Source: https://www.fec.gov/data/candidate/S2KS00097/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-michael-soetaert-00029] | s-fec-form2 | primary | https://docquery.fec.gov/pdf/862/202509229790380862/202509229790380862.pdf | filed 2025-09-22; accessed 2026-05-19 | Statement of candidacy; principal campaign committee "Michael Soetaert for Senate" | status |
+  - Source: https://docquery.fec.gov/pdf/862/202509229790380862/202509229790380862.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-michael-soetaert-00035] | s-actblue | primary | https://secure.actblue.com/donate/michael-soetaert | accessed 2026-05-19 | Active donation page; says filed with FEC and KSSOS; PAC/super PAC boycott language; $49.99 maximum ask; mailing/check instructions | campaign finance |
+  - Source: https://secure.actblue.com/donate/michael-soetaert
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-michael-soetaert-00332] [FEC Filing](https://www.fec.gov/data/candidate/S6KS00262/)
+  - Source: https://www.fec.gov/data/candidate/S6KS00262/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-michael-soetaert-00453] ActBlue: [donate/michael-soetaert](https://secure.actblue.com/donate/michael-soetaert)
+  - Source: https://secure.actblue.com/donate/michael-soetaert
+  - Confidence/use: likely / use
+- **social-online-signal** [em-michael-soetaert-00006] National-policy content appeared mostly through issue labels and video titles. The campaign site labels included reproductive rights, affordability, voting rights, Department of Peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS, while YouTube titles included ["Michael Soetaert for United States Senate representing Kansas CITIZENS UNITED michael-soetaert"](https://www.youtube.com/watch?v=FvgZQTEDBac), ["Michael Soetaert for United States Senate representing Kansas AFFORDABILITY SAFETY michael-soetaert"](https://www.youtube.com/watch?v=KWhuSNqLD2M), and ["Michael Soetaert for United States Senate representing Kansas LET THERE BE PEACE! michael-soetaert"](https://www.youtube.com/watch?v=0wKwUd_QZ3c). The accessible record did not show a developed foreign-policy series beyond the peace framing and Department of Peace label.
+  - Source: https://www.youtube.com/watch?v=FvgZQTEDBac
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-00007] Kansas and local-place signals were present, but lighter than the national issue and self-definition signals. Visible YouTube titles named Wellington, Johnson and Sumner, affordability and safety, World Wheat Capital, and America's Breadbasket. Examples included ["Michael Soetaert for United States Senate in Wellington, Kansas michael-soetaert"](https://www.youtube.com/watch?v=iB74LF3KHAc), ["Michael Soetaert for United States Senate representing Kansas JOHNSON & SUMNER michael-soetaert"](https://www.youtube.com/watch?v=QfWP2-MzWds), and ["Michael Soetaert for United States Senate representing Kansas WORLD WHEAT CAPITAL michael-soetaert"](https://www.youtube.com/watch?v=9U_-fZa0AhE). In the captured record, Kansas appeared most often as place, food, wheat, and safety language rather than as detailed county-level policy.
+  - Source: https://www.youtube.com/watch?v=iB74LF3KHAc
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-00037] | s-youtube-channel | social | https://www.youtube.com/@mikeforkansas | captured in local harvest 2026-05-11 | 30 visible YouTube videos with titles, view counts, relative dates | social, issues |
+  - Source: https://www.youtube.com/@mikeforkansas
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-00038] | s-instagram | social | https://www.instagram.com/michael.soetaert1/ | captured in local harvest 2026-05-11 | Public profile metadata, follower/post counts, bio tags | social, abortion, LGBTQ |
+  - Source: https://www.instagram.com/michael.soetaert1/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-00040] | s-bluesky | social | https://bsky.app/profile/michaelsoetaert.bsky.social | captured in local harvest 2026-05-11 | Public profile metadata, account creation, follower/following/write counts, description tags | social, abortion, LGBTQ, peace |
+  - Source: https://bsky.app/profile/michaelsoetaert.bsky.social
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02164] Facebook (Official): [musilcomish](https://www.facebook.com/musilcomish/)
+  - Source: https://www.facebook.com/musilcomish/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02631] YouTube: https://www.youtube.com/@mikeforkansas was the strongest post-level source in the local social harvest. Public channel capture on May 11, 2026 showed 30 visible videos from roughly November 2025 through February 2026. Topic labels included reproductive rights, Citizens United, voting/ballot box, affordability/safety, Department of Peace/peace, LGBTQIAP2S+ equality, Kansas wheat/food-place language, and campaign compilations.
+  - Source: https://www.youtube.com/@mikeforkansas`
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-michael-soetaert-02632] Instagram: https://www.instagram.com/michael.soetaert1/ public metadata in local harvest showed 52 followers, 0 following, and 205 posts, with bio tags for progressive Democrat, Kansas, gay, LGBTQIAP2S+, reproductive freedom, women's rights, and ERA. Individual post bodies were not available in the logged-out capture.
+  - Source: https://www.instagram.com/michael.soetaert1/`
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-michael-soetaert-00041] | s-votesmart | secondary | https://justfacts.votesmart.org/candidate/biography/192430/michael-soetaert | accessed 2026-05-19 | Name, gender, birth place, home city, religion field, prior candidacies, priority issues field | biography, prior races, faith signal |
+  - Source: https://justfacts.votesmart.org/candidate/biography/192430/michael-soetaert
+  - Confidence/use: likely / use
+- **faith-community-record** [em-michael-soetaert-00079] Soetaert is listed by official/government sources as a Wellington-based Democratic candidate for U.S. Senate. Vote Smart lists full name Michael Soetaert, birth place Wellington, Kansas, home city Wellington, Kansas, and religion as Christian. It does not list education, professional experience, or organizational memberships.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:114
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-00124] Public record: Vote Smart lists Soetaert's religion as Christian. Existing local research references a Roman Catholic adoptive-family background, but no current church affiliation was verified.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:206
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-michael-soetaert-02326] Board involvement: Assigned to present for TMP schools during scholarship award presentations as a county commissioner, suggesting ongoing connection to the Catholic school community.
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:3486
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-michael-soetaert-00986] Kansas City commercial real estate developer behind a nearly $1 billion redevelopment project in Wyandotte County. First-time candidate who grew up in KCK, left for USC and a decade in Oakland/San Francisco, then returned in 2023. Has a significant controversy flagged by the Washington Free Beacon.
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1408
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-michael-soetaert-01337] Criticism: The Kansas City Star editorial board criticized the newsletter as being used primarily to attack Democrats (Biden/Harris) rather than to help Kansans, calling it partisan rather than informative.
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1989
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00032] | s-sos-2022-primary | primary | https://www.sos.ks.gov/elections/22elec/2022-Primary-Official-Vote-Totals.pdf | accessed 2026-05-19 | 2022 Democratic U.S. Senate primary: D-Michael Soetaert 9,464 votes, 3.55% | candidacy history |
+  - Source: https://www.sos.ks.gov/elections/22elec/2022-Primary-Official-Vote-Totals.pdf
+  - Confidence/use: confirmed / use
+- **background-context** [em-michael-soetaert-00033] | s-sos-2024-primary | primary | https://www.sos.ks.gov/elections/24elec/2024-Primary-Official-Vote-Totals.pdf | accessed 2026-05-19 | 2024 Kansas Senate District 32 Democratic primary: Michael "Mike" Soetaert 366 votes, 32.50% | candidacy history |
+  - Source: https://www.sos.ks.gov/elections/24elec/2024-Primary-Official-Vote-Totals.pdf
+  - Confidence/use: confirmed / use
+- **background-context** [em-michael-soetaert-00039] | s-threads | social | https://www.threads.com/@michael.soetaert1 | captured in local harvest 2026-05-11 | Public profile metadata and bio text | social, abortion, LGBTQ |
+  - Source: https://www.threads.com/@michael.soetaert1
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-00718] [Hays Post: Ellis County Canvass 2025](https://hayspost.com/posts/5de6670c-0b28-4836-820e-a80866aa4e94)
+  - Source: https://hayspost.com/posts/5de6670c-0b28-4836-820e-a80866aa4e94
+  - Confidence/use: likely / use
+- **background-context** [em-michael-soetaert-00843] | City of Hays | 785-628-7320 | [haysusa.com](https://haysusa.com) |
+  - Source: https://haysusa.com
+  - Confidence/use: confirmed / use
+- **background-context** [em-michael-soetaert-01990] [Johnson County Post photo](https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/)
+  - Source: https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous Instagram online-reference** [soc-michael-soetaert-0001] Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as ["Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the Equality Act."](https://mikeforkansas.my.canva.site/) His Instagram profile repeats the same self-definition in tag form: ["#PROGRESSIVE #DEMOCRAT for United States Senate #KANSAS #GAY #LGBTQIAP2S+ #ReproductiveFreedom #WomensRights #ERA"](https://www.instagram.com/michael.soetaert1/)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous mikeforkansas.my.canva.site online-reference** [soc-michael-soetaert-0002] | s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social links | issues, social |
+  - Source: https://mikeforkansas.my.canva.site/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous threads.com online-reference** [soc-michael-soetaert-0003] | s-threads | social | https://www.threads.com/@michael.soetaert1 | captured in local harvest 2026-05-11 | Public profile metadata and bio text | social, abortion, LGBTQ |
+  - Source: https://www.threads.com/@michael.soetaert1
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-michael-soetaert-0004] Campaign site: https://mikeforkansas.my.canva.site/ is active and links ActBlue, FEC, Kansas SOS candidate page, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, Threads, and merchandise pages. Its page metadata presents Soetaert as a "PROGRESSIVE DEMOCRAT" for U.S. Senate and references reproductive rights and LGBTQ+ advocacy.
+  - Source: https://mikeforkansas.my.canva.site/`
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-michael-soetaert-0005] The public alignment signal is more self-contained campaign infrastructure than cross-candidate amplification. The campaign site links voters to ActBlue, FEC, Kansas Secretary of State, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, and Threads, while the ActBlue page says, ["Michael Soetaert is the ONLY PROGRESSIVE DEMOCRATIC candidate for United States Senate representing Kansas who is declared and filed with the KSSOS. Mike is challenging the Republican incumbent Senator, Doctor Roger Marshall."](https://secure.actblue.com/donate/michael-soetaert) The same page says he is filed with ["BOTH the Federal Election Commission and the Kansas Secretary of State."](https://secure.actblue.com/donate/michael-soetaert) No public endorsements, surrogate networks, or recurring allied accounts were captured in the accessible post-level record.
+  - Source: https://secure.actblue.com/donate/michael-soetaert
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong YouTube post** [soc-michael-soetaert-0006] National-policy content appeared mostly through issue labels and video titles. The campaign site labels included reproductive rights, affordability, voting rights, Department of Peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS, while YouTube titles included ["Michael Soetaert for United States Senate representing Kansas CITIZENS UNITED michael-soetaert"](https://www.youtube.com/watch?v=FvgZQTEDBac), ["Michael Soetaert for United States Senate representing Kansas AFFORDABILITY SAFETY michael-soetaert"](https://www.youtube.com/watch?v=KWhuSNqLD2M), and ["Michael Soetaert for United States Senate representing Kansas LET THERE BE PEACE! michael-soetaert"](https://www.youtube.com/watch?v=0wKwUd_QZ3c). The accessible record did not show a developed foreign-policy series beyond the peace framing and Department of Peace label.
+  - Source: https://www.youtube.com/watch?v=FvgZQTEDBac
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong Instagram post** [soc-michael-soetaert-0007] | s-instagram | social | https://www.instagram.com/michael.soetaert1/ | captured in local harvest 2026-05-11 | Public profile metadata, follower/post counts, bio tags | social, abortion, LGBTQ |
+  - Source: https://www.instagram.com/michael.soetaert1/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky follow** [soc-michael-soetaert-0008] | s-bluesky | social | https://bsky.app/profile/michaelsoetaert.bsky.social | captured in local harvest 2026-05-11 | Public profile metadata, account creation, follower/following/write counts, description tags | social, abortion, LGBTQ, peace |
+  - Source: https://bsky.app/profile/michaelsoetaert.bsky.social
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong YouTube post** [soc-michael-soetaert-0009] YouTube: https://www.youtube.com/@mikeforkansas was the strongest post-level source in the local social harvest. Public channel capture on May 11, 2026 showed 30 visible videos from roughly November 2025 through February 2026. Topic labels included reproductive rights, Citizens United, voting/ballot box, affordability/safety, Department of Peace/peace, LGBTQIAP2S+ equality, Kansas wheat/food-place language, and campaign compilations.
+  - Source: https://www.youtube.com/@mikeforkansas`
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Instagram follow** [soc-michael-soetaert-0010] Instagram: https://www.instagram.com/michael.soetaert1/ public metadata in local harvest showed 52 followers, 0 following, and 205 posts, with bio tags for progressive Democrat, Kansas, gay, LGBTQIAP2S+, reproductive freedom, women's rights, and ERA. Individual post bodies were not available in the logged-out capture.
+  - Source: https://www.instagram.com/michael.soetaert1/`
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 14. Environment / energy / land use
+
+Environment / energy / land use: 14 selected evidence items from 21 mapped rows. Public URL-backed rows: 1.
+
+### Evidence
+- **documented-record** [em-michael-soetaert-00026] | s-sos-candidate-list-blocked | primary | https://sos.ks.gov/elections/elections_upcoming_candidate.aspx | accessed 2026-05-19 | Official candidate-list endpoint could not be read directly in this environment | blocker |
+  - Source: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **documented-record** [em-michael-soetaert-00051] The direct SOS candidate-list endpoint could not be read in this environment. A Douglas County election-office export printed May 19, 2026 lists:
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:62
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00128] Public record: Vote Smart's biography page has a "Priority Issues" field listing broad topics including agriculture/subsidies, criminal justice reform, education reform/student aid, election integrity, environmental regulations/energy, federal spending/monetary policy, civil rights/constitutional government, labor policy, and health care.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:214
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00129] Use caution: Vote Smart does not provide detailed candidate text on those issue areas in the accessible page, and this pass did not verify current candidate-controlled policy detail for guns, immigration/border, marijuana/drug policy, federal spending, health care, education, energy, or environmental regulation.
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:216
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-00792] The City of Hays manages its own water utility through the city commission
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1053
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-02617] Kansas filing status partially confirmed: Kansas SOS candidate-information rules say national candidates file with the Secretary of State and are not considered filed until the declaration or petition and fee are received. The live SOS candidate-list endpoint could not be read directly in this environment. A Douglas County election-office export printed May 19, 2026, lists Michael "Mike" Soetaert, Democratic, Wellington, for U.S. Senator, filed June 23, 2025 by fee, and says the documents were filed with the State of Kansas.
+  - Source: memory/candidates/michael-soetaert/sleuth-pass.md:15
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-02646] Guns, immigration, marijuana/drug policy, farm policy, water, energy, broadband, rural hospitals, veterans, Social Security, Medicare: no specific current candidate-controlled statements or action evidence were confirmed in the accessible record. Do not infer from party label or social identity.
+  - Source: memory/candidates/michael-soetaert/sleuth-pass.md:50
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-michael-soetaert-02648] The live Kansas SOS candidate-list page returned a JavaScript/bot challenge or 403-like response in this environment; the county export is a government election-office corroboration but not a direct readable SOS table.
+  - Source: memory/candidates/michael-soetaert/sleuth-pass.md:54
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00127] Guns, immigration, marijuana/drug policy, federal spending, health care, education, energy, and environmental regulation
+  - Source: memory/candidates/michael-soetaert/raw-dump-v2.md:212
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00362] First-generation immigrant spouse could become a liability in anti-immigration political climate
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:334
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-00790] Water District / Utility Boards
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:1051
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-01764] Member, Subcommittee on Energy, Natural Resources, and Infrastructure
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2580
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-02006] Eastside Innovation LLC (Kansas City, KS, 2023) -- Founded to bring clean energy to low-income communities in KCK
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:2973
+  - Confidence/use: unknown / background-only
+- **background-context** [em-michael-soetaert-02255] R9 Ranch Pipeline -- The Defining Project
+  - Source: memory/candidates/michael-soetaert/raw-dump.md:3377
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0152] Detailed candidate-controlled positions on guns, immigration/border policy, marijuana/drug policy, water, energy, broadband, rural hospitals, Farm Bill policy, veterans, Medicare, Social Security, or higher education.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0153] "text": "No current candidate-controlled detailed position or action evidence was confirmed for guns, immigration/border policy, marijuana/drug policy, Farm Bill or water policy, rural hospitals, Medicare, Social Security, veterans, broadband, higher education, or energy. Do not infer positions from party label, identity, social tags, or broad Vote Smart issue categories.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0154] "Candidate-controlled detailed positions on guns, immigration/border, marijuana/drug policy, water, energy, broadband, rural hospitals, Farm Bill policy, veterans, Medicare, Social Security, or higher education."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-michael-soetaert-0165] Guns, immigration, marijuana/drug policy, farm policy, water, energy, broadband, rural hospitals, veterans, Social Security, Medicare: no specific current candidate-controlled statements or action evidence were confirmed in the accessible record. Do not infer from party label or social identity.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.

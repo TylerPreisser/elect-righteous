@@ -1,0 +1,675 @@
+{
+  "candidateSlug": "lorie-wood",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 17,
+  "sources": [
+    {
+      "sourceId": "src-lorie-wood-0001",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05LW_AT.pdf",
+      "sourceFile": "memory/candidates/lorie-wood/v2-issues.yaml:37",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-lorie-wood-00045"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05LW_AT.pdf\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-lorie-wood-0002",
+      "url": "https://www.fec.gov/data/elections/senate/KS/2026/",
+      "sourceFile": "ui/src/data/candidates.ts:6246",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-lorie-wood-00112"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.fec.gov/data/elections/senate/KS/2026/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-lorie-wood-0003",
+      "url": "https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/",
+      "sourceFile": "ui/src/data/candidates.ts:6266",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-lorie-wood-00118"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-lorie-wood-0004",
+      "url": null,
+      "sourceFile": "memory/candidates/lorie-wood/social-harvest.md:19",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social post",
+        "social follow"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 16,
+      "rowIds": [
+        "em-lorie-wood-00012",
+        "em-lorie-wood-00013",
+        "em-lorie-wood-00005",
+        "em-lorie-wood-00014",
+        "em-lorie-wood-00016",
+        "em-lorie-wood-00019",
+        "em-lorie-wood-00020",
+        "em-lorie-wood-00021",
+        "em-lorie-wood-00022",
+        "em-lorie-wood-00023",
+        "em-lorie-wood-00025",
+        "em-lorie-wood-00008",
+        "em-lorie-wood-00009",
+        "em-lorie-wood-00003",
+        "em-lorie-wood-00024",
+        "em-lorie-wood-00026"
+      ],
+      "claimsAnchored": [
+        "Ballot / filing status: KPDC lists Lorie Wood in the State Board of Education District 5 finance index; this pass did not verify a final certified candidate list.",
+        "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associa",
+        "This artifact was created because the candidate-completeness audit found Lorie Wood in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+        "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+        "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+        "Lorie Wood - social harvest",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Slug: lorie-wood",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-lorie-wood-0005",
+      "url": "https://www.youtube.com/shorts/YLa4pXvG3rY",
+      "sourceFile": "ui/src/data/candidates.ts:6203",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-lorie-wood-00088"
+      ],
+      "claimsAnchored": [
+        "National and foreign-policy posts appear in a smaller part of the feed. A March 8 YouTube description said, \"We have a President who promised to end foreign wars on day one, and now he’s launching another one. At the same time we’re told there’s no money for f"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-lorie-wood-0006",
+      "url": "https://www.youtube.com/shorts/H7J_Nnc7uyo",
+      "sourceFile": "ui/src/data/candidates.ts:6199",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social like"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-lorie-wood-00086"
+      ],
+      "claimsAnchored": [
+        "Murray's candidate-controlled accounts point readers back to the same campaign network: the campaign website links to Facebook, Instagram, YouTube, and X, while YouTube descriptions repeatedly list ErikForKansas.com and campaign social handles ([harvest](socia"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-lorie-wood-0007",
+      "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_schmidt_patrick_1/",
+      "sourceFile": "ui/src/data/candidates.ts:6290",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-lorie-wood-00114"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.kslegislature.gov/li/b2025_26/members/sen_schmidt_patrick_1/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-lorie-wood-0008",
+      "url": "https://www.facebook.com/patrickforkansas/",
+      "sourceFile": "ui/src/data/candidates.ts:6278",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-lorie-wood-00122"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.facebook.com/patrickforkansas/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-lorie-wood-0009",
+      "url": null,
+      "sourceFile": "ui/src/data/candidates.ts:6207",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "endorsement",
+        "ballot status",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 37,
+      "rowIds": [
+        "em-lorie-wood-00090",
+        "em-lorie-wood-00087",
+        "em-lorie-wood-00092",
+        "em-lorie-wood-00095",
+        "em-lorie-wood-00106",
+        "em-lorie-wood-00100",
+        "em-lorie-wood-00108",
+        "em-lorie-wood-00110",
+        "em-lorie-wood-00111",
+        "em-lorie-wood-00083",
+        "em-lorie-wood-00093",
+        "em-lorie-wood-00094",
+        "em-lorie-wood-00096",
+        "em-lorie-wood-00097",
+        "em-lorie-wood-00098",
+        "em-lorie-wood-00099",
+        "em-lorie-wood-00102",
+        "em-lorie-wood-00103",
+        "em-lorie-wood-00104",
+        "em-lorie-wood-00105",
+        "em-lorie-wood-00107",
+        "em-lorie-wood-00109",
+        "em-lorie-wood-00113",
+        "em-lorie-wood-00115",
+        "em-lorie-wood-00116",
+        "em-lorie-wood-00117",
+        "em-lorie-wood-00119",
+        "em-lorie-wood-00120",
+        "em-lorie-wood-00121",
+        "em-lorie-wood-00123",
+        "em-lorie-wood-00124",
+        "em-lorie-wood-00125",
+        "em-lorie-wood-00126",
+        "em-lorie-wood-00127",
+        "em-lorie-wood-00084",
+        "em-lorie-wood-00091",
+        "em-lorie-wood-00101"
+      ],
+      "claimsAnchored": [
+        "Across the captured period the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy ([harvest](social-harvest.md#visible-absences-in-captured-feed)). The capt",
+        "The highest-engagement YouTube item in the captured set was *There SHOULD be TERM LIMITS*, with 1,558 views and a rating count of 45 as of May 11, 2026 ([harvest](social-harvest.md#topic-share-analysis)). The next highest by rating count was *HEALTHCARE is a R",
+        "Methodology: Date range covered: February 22, 2026 to May 11, 2026. Platforms surveyed: campaign website, YouTube, Facebook, Instagram, X, LinkedIn, Truth Social, Gab, Gettr, Substack, Reddit, and TikTok. Post count: 17 substantive candidate-controlled origina",
+        "\"platformsCovered\": [\"Campaign website\", \"YouTube\", \"Facebook\", \"Instagram\", \"X\", \"LinkedIn\", \"Truth Social\", \"Gab\", \"Gettr\", \"Substack\", \"Reddit\", \"TikTok\"],",
+        "\"name\": \"Loans made by candidate\",",
+        "\"totalRaised\": \"$124,598.62 (FEC coverage: 11/23/2025 to 12/31/2025)\",",
+        "\"undisclosed\": \"The official FEC summary totals are clear, but a full donor-by-donor transaction list is not summarized here.\",",
+        "\"source\": \"FEC candidate overview S6KS00270 / committee C00929240\"",
+        "\"title\": \"Fec.Gov\",",
+        "\"inTheirOwnWords\": {",
+        "We report patterns; we do not interpret intent.,",
+        "\"lastUpdated\": \"2026-05-11\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-lorie-wood-0010",
+      "url": null,
+      "sourceFile": "memory/candidates/lorie-wood/v2-issues.yaml:10",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "meeting record",
+        "donor/funding",
+        "ballot status",
+        "church/worship",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 54,
+      "rowIds": [
+        "em-lorie-wood-00032",
+        "em-lorie-wood-00034",
+        "em-lorie-wood-00035",
+        "em-lorie-wood-00036",
+        "em-lorie-wood-00047",
+        "em-lorie-wood-00054",
+        "em-lorie-wood-00056",
+        "em-lorie-wood-00061",
+        "em-lorie-wood-00078",
+        "em-lorie-wood-00065",
+        "em-lorie-wood-00081",
+        "em-lorie-wood-00033",
+        "em-lorie-wood-00037",
+        "em-lorie-wood-00052",
+        "em-lorie-wood-00067",
+        "em-lorie-wood-00070",
+        "em-lorie-wood-00080",
+        "em-lorie-wood-00082",
+        "em-lorie-wood-00040",
+        "em-lorie-wood-00042",
+        "em-lorie-wood-00057",
+        "em-lorie-wood-00069",
+        "em-lorie-wood-00072",
+        "em-lorie-wood-00075",
+        "em-lorie-wood-00007",
+        "em-lorie-wood-00027",
+        "em-lorie-wood-00028",
+        "em-lorie-wood-00029",
+        "em-lorie-wood-00030",
+        "em-lorie-wood-00031",
+        "em-lorie-wood-00038",
+        "em-lorie-wood-00039",
+        "em-lorie-wood-00041",
+        "em-lorie-wood-00044",
+        "em-lorie-wood-00053",
+        "em-lorie-wood-00058",
+        "em-lorie-wood-00060",
+        "em-lorie-wood-00064",
+        "em-lorie-wood-00073",
+        "em-lorie-wood-00074",
+        "em-lorie-wood-00076",
+        "em-lorie-wood-00077",
+        "em-lorie-wood-00079",
+        "em-lorie-wood-00043",
+        "em-lorie-wood-00051",
+        "em-lorie-wood-00048",
+        "em-lorie-wood-00068",
+        "em-lorie-wood-00050",
+        "em-lorie-wood-00055",
+        "em-lorie-wood-00059"
+      ],
+      "claimsAnchored": [
+        "\"electionSlug\": \"sboe-district-5\",",
+        "\"occupation\": \"State Board of Education candidate / campaign-finance account holder\",",
+        "\"whoTheyAre\": \"Lorie Wood appears in KPDC's State Board of Education odd-district index under District 5. The appointment-of-treasurer report identifies State Board of Education District 5 as the office sought.\",",
+        "\"recordSummary\": \"This profile captures the SBOE District 5 campaign-finance record and avoids treating absence of a broader platform as a position.\",",
+        "\"Appointment-of-treasurer report identifies State Board of Education District 5 as the office sought\"",
+        "\"text\": \"KPDC lists Lorie Wood in the State Board of Education District 5 finance index; this pass did not verify a final certified candidate list.\",",
+        "\"s-kpdc-sboe-index\",",
+        "\"body\": \"KPDC links a Lorie Wood appointment-of-treasurer report for State Board of Education District 5.\",",
+        "\"source\": \"State Board of Education Odd Districts - 2026 Election Cycle\",",
+        "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+        "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+        "\"incumbent\": false,"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-lorie-wood-0011",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/lorie-wood.ts:125",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "meeting record",
+        "church/worship",
+        "donor/funding",
+        "ballot status",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 23,
+      "rowIds": [
+        "em-lorie-wood-00046",
+        "em-lorie-wood-00172",
+        "em-lorie-wood-00175",
+        "em-lorie-wood-00177",
+        "em-lorie-wood-00176",
+        "em-lorie-wood-00049",
+        "em-lorie-wood-00164",
+        "em-lorie-wood-00165",
+        "em-lorie-wood-00166",
+        "em-lorie-wood-00167",
+        "em-lorie-wood-00168",
+        "em-lorie-wood-00169",
+        "em-lorie-wood-00171",
+        "em-lorie-wood-00173",
+        "em-lorie-wood-00174",
+        "em-lorie-wood-00178",
+        "em-lorie-wood-00179",
+        "em-lorie-wood-00180",
+        "em-lorie-wood-00181",
+        "em-lorie-wood-00182",
+        "em-lorie-wood-00183",
+        "em-lorie-wood-00184",
+        "em-lorie-wood-00170"
+      ],
+      "claimsAnchored": [
+        "\"title\": \"State Board of Education Odd Districts - 2026 Election Cycle\",",
+        "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comm",
+        "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+        "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+        "\"mappedToIssueId\": \"i-donor-funding\"",
+        "\"title\": \"Lorie Wood Appointment of Treasurer\",",
+        "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+        "To refresh:",
+        "node scripts/hydrate-v2-social-signals.mjs",
+        "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+        "import { validateCandidateV2 } from \"@/data/types-v2\";",
+        "export const LORIE_WOOD_V2: CandidateFullV2 = {"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-lorie-wood-0012",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:209",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "meeting record",
+        "voting record",
+        "ballot status",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 36,
+      "rowIds": [
+        "em-lorie-wood-00128",
+        "em-lorie-wood-00129",
+        "em-lorie-wood-00132",
+        "em-lorie-wood-00142",
+        "em-lorie-wood-00144",
+        "em-lorie-wood-00161",
+        "em-lorie-wood-00162",
+        "em-lorie-wood-00159",
+        "em-lorie-wood-00160",
+        "em-lorie-wood-00163",
+        "em-lorie-wood-00138",
+        "em-lorie-wood-00145",
+        "em-lorie-wood-00146",
+        "em-lorie-wood-00147",
+        "em-lorie-wood-00149",
+        "em-lorie-wood-00130",
+        "em-lorie-wood-00131",
+        "em-lorie-wood-00133",
+        "em-lorie-wood-00134",
+        "em-lorie-wood-00135",
+        "em-lorie-wood-00136",
+        "em-lorie-wood-00137",
+        "em-lorie-wood-00139",
+        "em-lorie-wood-00141",
+        "em-lorie-wood-00143",
+        "em-lorie-wood-00148",
+        "em-lorie-wood-00150",
+        "em-lorie-wood-00151",
+        "em-lorie-wood-00152",
+        "em-lorie-wood-00140",
+        "em-lorie-wood-00153",
+        "em-lorie-wood-00154",
+        "em-lorie-wood-00155",
+        "em-lorie-wood-00156",
+        "em-lorie-wood-00157",
+        "em-lorie-wood-00158"
+      ],
+      "claimsAnchored": [
+        "slug: \"sboe-district-5\",",
+        "name: \"State Board of Education District 5\",",
+        "jurisdiction: \"Kansas State Board of Education District 5\",",
+        "\"Board members influence what schools teach, how districts are judged, and what statewide education debates look like for years to come.\",",
+        "\"The State Board of Education sets the standards for what Kansas kids learn in school. They approve curriculum frameworks, oversee school accreditation, hire the state education commissioner, and weigh in on statewide fights over textbooks, testing, and teachi",
+        "\"Local city decisions shape day-to-day life faster than almost anything else: utility projects, zoning, housing growth, city spending, and how Hays responds to long-running issues like water.\",",
+        "\"The Hays city commission is the group that runs the city. Five commissioners and a mayor set water rates, approve new housing developments, hire the city manager, decide where tax money goes, and vote on everything from road repairs to whether a new business ",
+        "\"City races are not on the 2026 Hays ballot, but these are the officeholders currently running city government and setting local direction.\",",
+        "\"Hays city elections are not the main focus of the 2026 ballot, but the people already in office still make decisions about water, housing, growth, budgeting, and city services. This page groups the current city leadership in one place.\",",
+        "slug: \"ellis-county-2026-ballot\",",
+        "\"District 5 covers western Kansas, including Ellis County. The KPDC 2026 odd-district index currently lists Michelle Cunningham and Lorie Wood for District 5; current officeholder Cathy Hopkins remains profiled separately but is not treated as the only 2026 ca",
+        "slug: \"hays-city-current\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-lorie-wood-0013",
+      "url": null,
+      "sourceFile": "memory/candidates/lorie-wood/in-their-own-words.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-lorie-wood-00001",
+        "em-lorie-wood-00002",
+        "em-lorie-wood-00004",
+        "em-lorie-wood-00006",
+        "em-lorie-wood-00011",
+        "em-lorie-wood-00010",
+        "em-lorie-wood-00015"
+      ],
+      "claimsAnchored": [
+        "Lorie Wood - in their own words",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-lorie-wood-0014",
+      "url": null,
+      "sourceFile": "memory/candidates/lorie-wood/raw-dump-v2.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-lorie-wood-00017"
+      ],
+      "claimsAnchored": [
+        "Lorie Wood - raw dump v2"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-lorie-wood-0015",
+      "url": null,
+      "sourceFile": "memory/candidates/lorie-wood/sleuth-pass.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-lorie-wood-00018"
+      ],
+      "claimsAnchored": [
+        "Lorie Wood - sleuth pass"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-lorie-wood-0016",
+      "url": "https://erikforkansas.com/news/chiefs",
+      "sourceFile": "ui/src/data/candidates.ts:6205",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-lorie-wood-00089"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-lorie-wood-0017",
+      "url": "https://www.youtube.com/shorts/7otJxN9_jS8",
+      "sourceFile": "ui/src/data/candidates.ts:6197",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-lorie-wood-00085"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    }
+  ]
+}

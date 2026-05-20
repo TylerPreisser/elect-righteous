@@ -1,0 +1,31 @@
+{
+  "agent_id": "social-footprint-analyst",
+  "agent_role": "Social media intelligence analyst",
+  "candidate_slug": "chase-laporte",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/chase-laporte/social-harvest.md",
+    "memory/candidates/chase-laporte/evidence-matrix.json",
+    "memory/candidates/chase-laporte/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/chase-laporte/social-evidence-matrix.json",
+    "memory/candidates/chase-laporte/social-analysis.md",
+    "memory/candidates/chase-laporte/agent-work/social-footprint-analyst/run-state.json",
+    "memory/candidates/chase-laporte/agent-work/social-footprint-analyst/notes.md",
+    "memory/candidates/chase-laporte/agent-work/social-footprint-analyst/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs chase-laporte"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run source-tier-validator for chase-laporte.",
+    "Run fixed-issue-matrix-builder for chase-laporte after source validation."
+  ],
+  "handoff_summary": "Classified 261 social/online observations for chase-laporte."
+}

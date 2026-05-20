@@ -1,0 +1,4561 @@
+[
+  {
+    "id": "em-eric-lund-00045",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:37",
+    "sourceUrl": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW05EL_AT.pdf",
+    "sourceTier": "primary",
+    "evidenceType": "legal/court",
+    "issueMappedTo": [
+      10,
+      11
+    ],
+    "claim": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW05EL_AT.pdf\",",
+    "exactEvidenceSummary": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW05EL_AT.pdf\",",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Usable as sourced evidence; best available row has primary tier support. Deduplicated from 4 raw rows.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l26",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l37",
+      "mem-ui-src-data-v2-eric-lund-ts-l124",
+      "mem-ui-src-data-v2-eric-lund-ts-l135"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00090",
+      "raw-eric-lund-00101",
+      "raw-eric-lund-00363",
+      "raw-eric-lund-00374"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [
+      "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW05EL_AT.pdf"
+    ],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:26",
+      "memory/candidates/eric-lund/v2-issues.yaml:37",
+      "ui/src/data/v2/eric-lund.ts:124",
+      "ui/src/data/v2/eric-lund.ts:135"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00013",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/social-harvest.md:20",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social follow",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+    "exactEvidenceSummary": "- Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-in-their-own-words-md-l20",
+      "mem-memory-candidates-eric-lund-raw-dump-v2-md-l20",
+      "mem-memory-candidates-eric-lund-sleuth-pass-md-l20",
+      "mem-memory-candidates-eric-lund-social-harvest-md-l20"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00013",
+      "raw-eric-lund-00029",
+      "raw-eric-lund-00045",
+      "raw-eric-lund-00061"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/in-their-own-words.md:20",
+      "memory/candidates/eric-lund/raw-dump-v2.md:20",
+      "memory/candidates/eric-lund/sleuth-pass.md:20",
+      "memory/candidates/eric-lund/social-harvest.md:20"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00005",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/social-harvest.md:8",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "This artifact was created because the candidate-completeness audit found Eric Lund in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+    "exactEvidenceSummary": "This artifact was created because the candidate-completeness audit found Eric Lund in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-in-their-own-words-md-l8",
+      "mem-memory-candidates-eric-lund-raw-dump-v2-md-l8",
+      "mem-memory-candidates-eric-lund-sleuth-pass-md-l8",
+      "mem-memory-candidates-eric-lund-social-harvest-md-l8"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00005",
+      "raw-eric-lund-00021",
+      "raw-eric-lund-00037",
+      "raw-eric-lund-00053"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/in-their-own-words.md:8",
+      "memory/candidates/eric-lund/raw-dump-v2.md:8",
+      "memory/candidates/eric-lund/sleuth-pass.md:8",
+      "memory/candidates/eric-lund/social-harvest.md:8"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00012",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/social-harvest.md:19",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Ballot / filing status: KPDC lists Eric Lund under State Treasurer candidates, but this pass did not find Lund on the statewide Secretary-of-State filing mirror used for confirmed ballot rows.",
+    "exactEvidenceSummary": "- Ballot / filing status: KPDC lists Eric Lund under State Treasurer candidates, but this pass did not find Lund on the statewide Secretary-of-State filing mirror used for confirmed ballot rows.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-in-their-own-words-md-l19",
+      "mem-memory-candidates-eric-lund-raw-dump-v2-md-l19",
+      "mem-memory-candidates-eric-lund-sleuth-pass-md-l19",
+      "mem-memory-candidates-eric-lund-social-harvest-md-l19"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00012",
+      "raw-eric-lund-00028",
+      "raw-eric-lund-00044",
+      "raw-eric-lund-00060"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/in-their-own-words.md:19",
+      "memory/candidates/eric-lund/raw-dump-v2.md:19",
+      "memory/candidates/eric-lund/sleuth-pass.md:19",
+      "memory/candidates/eric-lund/social-harvest.md:19"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00014",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/social-harvest.md:21",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+    "exactEvidenceSummary": "- Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-in-their-own-words-md-l21",
+      "mem-memory-candidates-eric-lund-raw-dump-v2-md-l21",
+      "mem-memory-candidates-eric-lund-sleuth-pass-md-l21",
+      "mem-memory-candidates-eric-lund-social-harvest-md-l21"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00014",
+      "raw-eric-lund-00030",
+      "raw-eric-lund-00046",
+      "raw-eric-lund-00062"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/in-their-own-words.md:21",
+      "memory/candidates/eric-lund/raw-dump-v2.md:21",
+      "memory/candidates/eric-lund/sleuth-pass.md:21",
+      "memory/candidates/eric-lund/social-harvest.md:21"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00016",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/social-harvest.md:25",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+    "exactEvidenceSummary": "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-in-their-own-words-md-l25",
+      "mem-memory-candidates-eric-lund-raw-dump-v2-md-l25",
+      "mem-memory-candidates-eric-lund-sleuth-pass-md-l25",
+      "mem-memory-candidates-eric-lund-social-harvest-md-l25"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00016",
+      "raw-eric-lund-00032",
+      "raw-eric-lund-00048",
+      "raw-eric-lund-00064"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/in-their-own-words.md:25",
+      "memory/candidates/eric-lund/raw-dump-v2.md:25",
+      "memory/candidates/eric-lund/sleuth-pass.md:25",
+      "memory/candidates/eric-lund/social-harvest.md:25"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00019",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/social-harvest.md:1",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Eric Lund - social harvest",
+    "exactEvidenceSummary": "# Eric Lund - social harvest",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-social-harvest-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00049"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/social-harvest.md:1"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00020",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/social-harvest.md:3",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Generated: 2026-05-20",
+    "exactEvidenceSummary": "Generated: 2026-05-20",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-social-harvest-md-l3"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00050"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/social-harvest.md:3"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00021",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/social-harvest.md:6",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Scope",
+    "exactEvidenceSummary": "## Scope",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-social-harvest-md-l6"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00052"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/social-harvest.md:6"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00022",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/social-harvest.md:10",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Current profile status",
+    "exactEvidenceSummary": "## Current profile status",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-social-harvest-md-l10"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00054"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/social-harvest.md:10"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00023",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/social-harvest.md:12",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Slug: eric-lund",
+    "exactEvidenceSummary": "- Slug: eric-lund",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-social-harvest-md-l12"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00055"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/social-harvest.md:12"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00025",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/social-harvest.md:17",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Evidence summary",
+    "exactEvidenceSummary": "## Evidence summary",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-social-harvest-md-l17"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00059"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/social-harvest.md:17"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00097",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:166",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      3,
+      5
+    ],
+    "claim": "\"The state treasurer oversees state cash management, debt, public deposits, unclaimed property, and college-savings programs that affect Kansas taxpayers and families.\",",
+    "exactEvidenceSummary": "\"The state treasurer oversees state cash management, debt, public deposits, unclaimed property, and college-savings programs that affect Kansas taxpayers and families.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l166"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00208"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:166"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00065",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:69",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l69",
+      "mem-ui-src-data-v2-eric-lund-ts-l45"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00133",
+      "raw-eric-lund-00284"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:69",
+      "ui/src/data/v2/eric-lund.ts:45"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00081",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:124",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l124"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00188"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:124"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00122",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:66",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l66"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00305"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:66"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00099",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:168",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      5,
+      13
+    ],
+    "claim": "\"The Kansas State Treasurer manages the state's money functions: cash management, public deposits, debt-related work, unclaimed property, and several public savings programs. The office is less flashy than governor or attorney general, but it affects how public funds are handled and how Kansans recover property or use state-backed savings programs.\",",
+    "exactEvidenceSummary": "\"The Kansas State Treasurer manages the state's money functions: cash management, public deposits, debt-related work, unclaimed property, and several public savings programs. The office is less flashy than governor or attorney general, but it affects how public funds are handled and how Kansans recover property or use state-backed savings programs.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l168"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00210"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:168"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00108",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:187",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      6,
+      9,
+      12,
+      13
+    ],
+    "claim": "\"The insurance commissioner regulates every insurance company doing business in Kansas. They approve or reject the rates you pay for health, auto, home, and crop insurance, investigate complaints when companies deny claims, and decide whether insurers are treating customers fairly. If your insurance premiums go up or a claim gets denied, this office is the one with the power to do something about it.\",",
+    "exactEvidenceSummary": "\"The insurance commissioner regulates every insurance company doing business in Kansas. They approve or reject the rates you pay for health, auto, home, and crop insurance, investigate complaints when companies deny claims, and decide whether insurers are treating customers fairly. If your insurance premiums go up or a claim gets denied, this office is the one with the power to do something about it.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l187"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00229"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:187"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00100",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:171",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      9
+    ],
+    "claim": "slug: \"kansas-insurance-2026\",",
+    "exactEvidenceSummary": "slug: \"kansas-insurance-2026\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l171"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00213"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:171"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00101",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:172",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      9
+    ],
+    "claim": "name: \"Kansas Insurance Commissioner\",",
+    "exactEvidenceSummary": "name: \"Kansas Insurance Commissioner\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l172"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00214"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:172"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00107",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:185",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      9,
+      12
+    ],
+    "claim": "\"Insurance decisions affect what Kansans pay for health, auto, crop, and home coverage, and whether regulators push back when companies fail consumers.\",",
+    "exactEvidenceSummary": "\"Insurance decisions affect what Kansans pay for health, auto, crop, and home coverage, and whether regulators push back when companies fail consumers.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l185"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00227"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:185"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00033",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:11",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"incumbent\": false,",
+    "exactEvidenceSummary": "\"incumbent\": false,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l11",
+      "mem-ui-src-data-v2-eric-lund-ts-l15"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00075",
+      "raw-eric-lund-00254"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:11",
+      "ui/src/data/v2/eric-lund.ts:15"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00034",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:12",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"occupation\": \"State Treasurer candidate / campaign-finance account holder\",",
+    "exactEvidenceSummary": "\"occupation\": \"State Treasurer candidate / campaign-finance account holder\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l12",
+      "mem-ui-src-data-v2-eric-lund-ts-l16"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00076",
+      "raw-eric-lund-00255"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:12",
+      "ui/src/data/v2/eric-lund.ts:16"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00035",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:13",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"whoTheyAre\": \"Eric Lund appears in the KPDC statewide index under State Treasurer candidates. This pass did not verify a current Secretary of State filing-row entry or a candidate-controlled platform.\",",
+    "exactEvidenceSummary": "\"whoTheyAre\": \"Eric Lund appears in the KPDC statewide index under State Treasurer candidates. This pass did not verify a current Secretary of State filing-row entry or a candidate-controlled platform.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l13",
+      "mem-ui-src-data-v2-eric-lund-ts-l110"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00077",
+      "raw-eric-lund-00349"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:13",
+      "ui/src/data/v2/eric-lund.ts:110"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00036",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:14",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"recordSummary\": \"Treat Lund as a treasurer-race public-record profile until final filing records clarify whether the KPDC account corresponds to a certified ballot candidate.\",",
+    "exactEvidenceSummary": "\"recordSummary\": \"Treat Lund as a treasurer-race public-record profile until final filing records clarify whether the KPDC account corresponds to a certified ballot candidate.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l14",
+      "mem-ui-src-data-v2-eric-lund-ts-l111"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00078",
+      "raw-eric-lund-00350"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:14",
+      "ui/src/data/v2/eric-lund.ts:111"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00037",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:15",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+    "exactEvidenceSummary": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l15"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00079"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:15"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00046",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:125",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "exactEvidenceSummary": "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l27",
+      "mem-ui-src-data-v2-eric-lund-ts-l125"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00091",
+      "raw-eric-lund-00364"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:27",
+      "ui/src/data/v2/eric-lund.ts:125"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00052",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:44",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"title\": \"Ballot / filing status\",",
+    "exactEvidenceSummary": "\"title\": \"Ballot / filing status\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l44",
+      "mem-ui-src-data-v2-eric-lund-ts-l20"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00108",
+      "raw-eric-lund-00259"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:44",
+      "ui/src/data/v2/eric-lund.ts:20"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00054",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:46",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"text\": \"KPDC lists Eric Lund under State Treasurer candidates, but this pass did not find Lund on the statewide Secretary-of-State filing mirror used for confirmed ballot rows.\",",
+    "exactEvidenceSummary": "\"text\": \"KPDC lists Eric Lund under State Treasurer candidates, but this pass did not find Lund on the statewide Secretary-of-State filing mirror used for confirmed ballot rows.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l46",
+      "mem-ui-src-data-v2-eric-lund-ts-l22"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00110",
+      "raw-eric-lund-00261"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:46",
+      "ui/src/data/v2/eric-lund.ts:22"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00067",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:79",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+    "exactEvidenceSummary": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l79",
+      "mem-ui-src-data-v2-eric-lund-ts-l55"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00143",
+      "raw-eric-lund-00294"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:79",
+      "ui/src/data/v2/eric-lund.ts:55"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00070",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:92",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "exactEvidenceSummary": "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l92",
+      "mem-ui-src-data-v2-eric-lund-ts-l79"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00156",
+      "raw-eric-lund-00318"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:92",
+      "ui/src/data/v2/eric-lund.ts:79"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00078",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:117",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"source\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "exactEvidenceSummary": "\"source\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l117",
+      "mem-ui-src-data-v2-eric-lund-ts-l117"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00181",
+      "raw-eric-lund-00356"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:117",
+      "ui/src/data/v2/eric-lund.ts:117"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00080",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:123",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.\",",
+    "exactEvidenceSummary": "\"Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l123"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00187"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:123"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00082",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:125",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication.\"",
+    "exactEvidenceSummary": "\"Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication.\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l125"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00189"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:125"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00089",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:158",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "status: \"Incumbent Running\",",
+    "exactEvidenceSummary": "status: \"Incumbent Running\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l158",
+      "mem-ui-src-data-elections-ts-l196"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00200",
+      "raw-eric-lund-00238"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:158",
+      "ui/src/data/elections.ts:196"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00095",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:164",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"The treasurer race was missing from the site. It now includes the confirmed statewide filing row for incumbent Steven Johnson and the KPDC account record for Eric Lund, with final ballot status still subject to official post-deadline verification.\",",
+    "exactEvidenceSummary": "\"The treasurer race was missing from the site. It now includes the confirmed statewide filing row for incumbent Steven Johnson and the KPDC account record for Eric Lund, with final ballot status still subject to official post-deadline verification.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l164"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00206"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:164"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00125",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:100",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "exactEvidenceSummary": "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l100"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00339"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:100"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00128",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:119",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+    "exactEvidenceSummary": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l119"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00358"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:119"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00040",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:20",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"publisher\": \"Kansas Governmental Ethics Commission / KPDC\",",
+    "exactEvidenceSummary": "\"publisher\": \"Kansas Governmental Ethics Commission / KPDC\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l20",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l31",
+      "mem-ui-src-data-v2-eric-lund-ts-l126",
+      "mem-ui-src-data-v2-eric-lund-ts-l137"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00084",
+      "raw-eric-lund-00095",
+      "raw-eric-lund-00365",
+      "raw-eric-lund-00376"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:20",
+      "memory/candidates/eric-lund/v2-issues.yaml:31",
+      "ui/src/data/v2/eric-lund.ts:126",
+      "ui/src/data/v2/eric-lund.ts:137"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00042",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:22",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"KPDC index lists Lund, Eric under State Treasurer candidates\"",
+    "exactEvidenceSummary": "\"KPDC index lists Lund, Eric under State Treasurer candidates\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l22",
+      "mem-ui-src-data-v2-eric-lund-ts-l129"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00086",
+      "raw-eric-lund-00368"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:22",
+      "ui/src/data/v2/eric-lund.ts:129"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00047",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:33",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"Appointment-of-treasurer report identifies State Treasurer as the office sought\"",
+    "exactEvidenceSummary": "\"Appointment-of-treasurer report identifies State Treasurer as the office sought\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l33",
+      "mem-ui-src-data-v2-eric-lund-ts-l140"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00097",
+      "raw-eric-lund-00379"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:33",
+      "ui/src/data/v2/eric-lund.ts:140"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00056",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:48",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"s-kpdc-statewide\",",
+    "exactEvidenceSummary": "\"s-kpdc-statewide\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l48",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l58",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l71",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l81",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l94",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l104",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l119",
+      "mem-ui-src-data-v2-eric-lund-ts-l24",
+      "mem-ui-src-data-v2-eric-lund-ts-l34",
+      "mem-ui-src-data-v2-eric-lund-ts-l47",
+      "mem-ui-src-data-v2-eric-lund-ts-l57",
+      "mem-ui-src-data-v2-eric-lund-ts-l69",
+      "mem-ui-src-data-v2-eric-lund-ts-l81",
+      "mem-ui-src-data-v2-eric-lund-ts-l91",
+      "mem-ui-src-data-v2-eric-lund-ts-l103"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00112",
+      "raw-eric-lund-00122",
+      "raw-eric-lund-00135",
+      "raw-eric-lund-00145",
+      "raw-eric-lund-00158",
+      "raw-eric-lund-00168",
+      "raw-eric-lund-00183",
+      "raw-eric-lund-00263",
+      "raw-eric-lund-00273",
+      "raw-eric-lund-00286",
+      "raw-eric-lund-00296",
+      "raw-eric-lund-00308",
+      "raw-eric-lund-00320",
+      "raw-eric-lund-00330",
+      "raw-eric-lund-00342"
+    ],
+    "duplicateCount": 15,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:48",
+      "memory/candidates/eric-lund/v2-issues.yaml:58",
+      "memory/candidates/eric-lund/v2-issues.yaml:71",
+      "memory/candidates/eric-lund/v2-issues.yaml:81",
+      "memory/candidates/eric-lund/v2-issues.yaml:94",
+      "memory/candidates/eric-lund/v2-issues.yaml:104",
+      "memory/candidates/eric-lund/v2-issues.yaml:119",
+      "ui/src/data/v2/eric-lund.ts:24",
+      "ui/src/data/v2/eric-lund.ts:34",
+      "ui/src/data/v2/eric-lund.ts:47",
+      "ui/src/data/v2/eric-lund.ts:57",
+      "ui/src/data/v2/eric-lund.ts:69",
+      "ui/src/data/v2/eric-lund.ts:81",
+      "ui/src/data/v2/eric-lund.ts:91",
+      "ui/src/data/v2/eric-lund.ts:103"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00057",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:49",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"s-kpdc-at\"",
+    "exactEvidenceSummary": "\"s-kpdc-at\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l49",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l59",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l72",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l82",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l95",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l105",
+      "mem-ui-src-data-v2-eric-lund-ts-l25",
+      "mem-ui-src-data-v2-eric-lund-ts-l35",
+      "mem-ui-src-data-v2-eric-lund-ts-l48",
+      "mem-ui-src-data-v2-eric-lund-ts-l58",
+      "mem-ui-src-data-v2-eric-lund-ts-l82",
+      "mem-ui-src-data-v2-eric-lund-ts-l92"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00113",
+      "raw-eric-lund-00123",
+      "raw-eric-lund-00136",
+      "raw-eric-lund-00146",
+      "raw-eric-lund-00159",
+      "raw-eric-lund-00169",
+      "raw-eric-lund-00264",
+      "raw-eric-lund-00274",
+      "raw-eric-lund-00287",
+      "raw-eric-lund-00297",
+      "raw-eric-lund-00321",
+      "raw-eric-lund-00331"
+    ],
+    "duplicateCount": 12,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:49",
+      "memory/candidates/eric-lund/v2-issues.yaml:59",
+      "memory/candidates/eric-lund/v2-issues.yaml:72",
+      "memory/candidates/eric-lund/v2-issues.yaml:82",
+      "memory/candidates/eric-lund/v2-issues.yaml:95",
+      "memory/candidates/eric-lund/v2-issues.yaml:105",
+      "ui/src/data/v2/eric-lund.ts:25",
+      "ui/src/data/v2/eric-lund.ts:35",
+      "ui/src/data/v2/eric-lund.ts:48",
+      "ui/src/data/v2/eric-lund.ts:58",
+      "ui/src/data/v2/eric-lund.ts:82",
+      "ui/src/data/v2/eric-lund.ts:92"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00061",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:56",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"body\": \"KPDC's statewide index includes an Eric Lund appointment-of-treasurer link under State Treasurer.\",",
+    "exactEvidenceSummary": "\"body\": \"KPDC's statewide index includes an Eric Lund appointment-of-treasurer link under State Treasurer.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l56",
+      "mem-ui-src-data-v2-eric-lund-ts-l32"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00120",
+      "raw-eric-lund-00271"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:56",
+      "ui/src/data/v2/eric-lund.ts:32"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00069",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:90",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"title\": \"Donor / funding information\",",
+    "exactEvidenceSummary": "\"title\": \"Donor / funding information\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l90",
+      "mem-ui-src-data-v2-eric-lund-ts-l77"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00154",
+      "raw-eric-lund-00316"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:90",
+      "ui/src/data/v2/eric-lund.ts:77"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00072",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:102",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"body\": \"The reviewed finance source confirms either a campaign-finance account, committee record, or no itemized summary yet; final donor detail needs the next public report if one is not already posted.\",",
+    "exactEvidenceSummary": "\"body\": \"The reviewed finance source confirms either a campaign-finance account, committee record, or no itemized summary yet; final donor detail needs the next public report if one is not already posted.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l102",
+      "mem-ui-src-data-v2-eric-lund-ts-l89"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00166",
+      "raw-eric-lund-00328"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:102",
+      "ui/src/data/v2/eric-lund.ts:89"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00075",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:114",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"narrative\": \"No donor-by-donor public finance interpretation is made from the available records in this pass.\",",
+    "exactEvidenceSummary": "\"narrative\": \"No donor-by-donor public finance interpretation is made from the available records in this pass.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l114",
+      "mem-ui-src-data-v2-eric-lund-ts-l114"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00178",
+      "raw-eric-lund-00353"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:114",
+      "ui/src/data/v2/eric-lund.ts:114"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00093",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:162",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"Steven Johnson is listed as a filed Republican candidate for state treasurer, and Eric Lund appears in the KPDC statewide campaign-finance index for the treasurer race.\",",
+    "exactEvidenceSummary": "\"Steven Johnson is listed as a filed Republican candidate for state treasurer, and Eric Lund appears in the KPDC statewide campaign-finance index for the treasurer race.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l162"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00204"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:162"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00110",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:191",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "name: \"KS House District 111\",",
+    "exactEvidenceSummary": "name: \"KS House District 111\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l191"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00233"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:191"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00111",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:194",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "jurisdiction: \"Kansas House District 111\",",
+    "exactEvidenceSummary": "jurisdiction: \"Kansas House District 111\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l194"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00236"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:194"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00126",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:105",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"mappedToIssueId\": \"i-donor-funding\"",
+    "exactEvidenceSummary": "\"mappedToIssueId\": \"i-donor-funding\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l105"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00344"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:105"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00001",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/in-their-own-words.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Eric Lund - in their own words",
+    "exactEvidenceSummary": "# Eric Lund - in their own words",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-in-their-own-words-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00001"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/in-their-own-words.md:1"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00002",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/in-their-own-words.md:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Generated: 2026-05-20",
+    "exactEvidenceSummary": "Generated: 2026-05-20",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-in-their-own-words-md-l3",
+      "mem-memory-candidates-eric-lund-raw-dump-v2-md-l3",
+      "mem-memory-candidates-eric-lund-sleuth-pass-md-l3"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00002",
+      "raw-eric-lund-00018",
+      "raw-eric-lund-00034"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/in-their-own-words.md:3",
+      "memory/candidates/eric-lund/raw-dump-v2.md:3",
+      "memory/candidates/eric-lund/sleuth-pass.md:3"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00004",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/in-their-own-words.md:6",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Scope",
+    "exactEvidenceSummary": "## Scope",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-in-their-own-words-md-l6",
+      "mem-memory-candidates-eric-lund-raw-dump-v2-md-l6",
+      "mem-memory-candidates-eric-lund-sleuth-pass-md-l6"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00004",
+      "raw-eric-lund-00020",
+      "raw-eric-lund-00036"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/in-their-own-words.md:6",
+      "memory/candidates/eric-lund/raw-dump-v2.md:6",
+      "memory/candidates/eric-lund/sleuth-pass.md:6"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00006",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/in-their-own-words.md:10",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Current profile status",
+    "exactEvidenceSummary": "## Current profile status",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-in-their-own-words-md-l10",
+      "mem-memory-candidates-eric-lund-raw-dump-v2-md-l10",
+      "mem-memory-candidates-eric-lund-sleuth-pass-md-l10"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00006",
+      "raw-eric-lund-00022",
+      "raw-eric-lund-00038"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/in-their-own-words.md:10",
+      "memory/candidates/eric-lund/raw-dump-v2.md:10",
+      "memory/candidates/eric-lund/sleuth-pass.md:10"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00007",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:2",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"slug\": \"eric-lund\",",
+    "exactEvidenceSummary": "\"slug\": \"eric-lund\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-in-their-own-words-md-l12",
+      "mem-memory-candidates-eric-lund-raw-dump-v2-md-l12",
+      "mem-memory-candidates-eric-lund-sleuth-pass-md-l12",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l2",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l6",
+      "mem-ui-src-data-v2-eric-lund-ts-l10"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00007",
+      "raw-eric-lund-00023",
+      "raw-eric-lund-00039",
+      "raw-eric-lund-00066",
+      "raw-eric-lund-00070",
+      "raw-eric-lund-00249"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/in-their-own-words.md:12",
+      "memory/candidates/eric-lund/raw-dump-v2.md:12",
+      "memory/candidates/eric-lund/sleuth-pass.md:12",
+      "memory/candidates/eric-lund/v2-issues.yaml:2",
+      "memory/candidates/eric-lund/v2-issues.yaml:6",
+      "ui/src/data/v2/eric-lund.ts:10"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00011",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/in-their-own-words.md:17",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Evidence summary",
+    "exactEvidenceSummary": "## Evidence summary",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-in-their-own-words-md-l17",
+      "mem-memory-candidates-eric-lund-raw-dump-v2-md-l17",
+      "mem-memory-candidates-eric-lund-sleuth-pass-md-l17"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00011",
+      "raw-eric-lund-00027",
+      "raw-eric-lund-00043"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/in-their-own-words.md:17",
+      "memory/candidates/eric-lund/raw-dump-v2.md:17",
+      "memory/candidates/eric-lund/sleuth-pass.md:17"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00017",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/raw-dump-v2.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Eric Lund - raw dump v2",
+    "exactEvidenceSummary": "# Eric Lund - raw dump v2",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-raw-dump-v2-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00017"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/raw-dump-v2.md:1"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00018",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/sleuth-pass.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Eric Lund - sleuth pass",
+    "exactEvidenceSummary": "# Eric Lund - sleuth pass",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-sleuth-pass-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00033"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/sleuth-pass.md:1"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00027",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:16",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "},",
+    "exactEvidenceSummary": "},",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l1",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l16",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l18",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l23",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l28",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l29",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l34",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l39",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l40",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l42",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l50",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l51",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l53",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l60",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l61",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l62",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l64",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l65",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l73",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l74",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l76",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l83",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l84",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l85",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l87",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l88",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l96",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l97",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l99",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l106",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l107",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l108",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l110",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l111",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l120",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l121",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l126",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l127",
+      "mem-ui-src-data-elections-ts-l150",
+      "mem-ui-src-data-elections-ts-l151",
+      "mem-ui-src-data-elections-ts-l169",
+      "mem-ui-src-data-elections-ts-l170",
+      "mem-ui-src-data-elections-ts-l188",
+      "mem-ui-src-data-elections-ts-l189",
+      "mem-ui-src-data-v2-eric-lund-ts-l4",
+      "mem-ui-src-data-v2-eric-lund-ts-l18",
+      "mem-ui-src-data-v2-eric-lund-ts-l26",
+      "mem-ui-src-data-v2-eric-lund-ts-l27",
+      "mem-ui-src-data-v2-eric-lund-ts-l29",
+      "mem-ui-src-data-v2-eric-lund-ts-l36",
+      "mem-ui-src-data-v2-eric-lund-ts-l37",
+      "mem-ui-src-data-v2-eric-lund-ts-l38",
+      "mem-ui-src-data-v2-eric-lund-ts-l40",
+      "mem-ui-src-data-v2-eric-lund-ts-l41",
+      "mem-ui-src-data-v2-eric-lund-ts-l49",
+      "mem-ui-src-data-v2-eric-lund-ts-l50",
+      "mem-ui-src-data-v2-eric-lund-ts-l52",
+      "mem-ui-src-data-v2-eric-lund-ts-l59",
+      "mem-ui-src-data-v2-eric-lund-ts-l60",
+      "mem-ui-src-data-v2-eric-lund-ts-l61",
+      "mem-ui-src-data-v2-eric-lund-ts-l63",
+      "mem-ui-src-data-v2-eric-lund-ts-l70",
+      "mem-ui-src-data-v2-eric-lund-ts-l72",
+      "mem-ui-src-data-v2-eric-lund-ts-l73",
+      "mem-ui-src-data-v2-eric-lund-ts-l74",
+      "mem-ui-src-data-v2-eric-lund-ts-l75",
+      "mem-ui-src-data-v2-eric-lund-ts-l83",
+      "mem-ui-src-data-v2-eric-lund-ts-l84",
+      "mem-ui-src-data-v2-eric-lund-ts-l86",
+      "mem-ui-src-data-v2-eric-lund-ts-l93",
+      "mem-ui-src-data-v2-eric-lund-ts-l94",
+      "mem-ui-src-data-v2-eric-lund-ts-l95",
+      "mem-ui-src-data-v2-eric-lund-ts-l97",
+      "mem-ui-src-data-v2-eric-lund-ts-l104",
+      "mem-ui-src-data-v2-eric-lund-ts-l106",
+      "mem-ui-src-data-v2-eric-lund-ts-l107",
+      "mem-ui-src-data-v2-eric-lund-ts-l108",
+      "mem-ui-src-data-v2-eric-lund-ts-l109",
+      "mem-ui-src-data-v2-eric-lund-ts-l118",
+      "mem-ui-src-data-v2-eric-lund-ts-l121",
+      "mem-ui-src-data-v2-eric-lund-ts-l130",
+      "mem-ui-src-data-v2-eric-lund-ts-l131",
+      "mem-ui-src-data-v2-eric-lund-ts-l132",
+      "mem-ui-src-data-v2-eric-lund-ts-l141",
+      "mem-ui-src-data-v2-eric-lund-ts-l142",
+      "mem-ui-src-data-v2-eric-lund-ts-l143",
+      "mem-ui-src-data-v2-eric-lund-ts-l144",
+      "mem-ui-src-data-v2-eric-lund-ts-l153",
+      "mem-ui-src-data-v2-eric-lund-ts-l154",
+      "mem-ui-src-data-v2-eric-lund-ts-l155"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00065",
+      "raw-eric-lund-00080",
+      "raw-eric-lund-00082",
+      "raw-eric-lund-00087",
+      "raw-eric-lund-00092",
+      "raw-eric-lund-00093",
+      "raw-eric-lund-00098",
+      "raw-eric-lund-00103",
+      "raw-eric-lund-00104",
+      "raw-eric-lund-00106",
+      "raw-eric-lund-00114",
+      "raw-eric-lund-00115",
+      "raw-eric-lund-00117",
+      "raw-eric-lund-00124",
+      "raw-eric-lund-00125",
+      "raw-eric-lund-00126",
+      "raw-eric-lund-00128",
+      "raw-eric-lund-00129",
+      "raw-eric-lund-00137",
+      "raw-eric-lund-00138",
+      "raw-eric-lund-00140",
+      "raw-eric-lund-00147",
+      "raw-eric-lund-00148",
+      "raw-eric-lund-00149",
+      "raw-eric-lund-00151",
+      "raw-eric-lund-00152",
+      "raw-eric-lund-00160",
+      "raw-eric-lund-00161",
+      "raw-eric-lund-00163",
+      "raw-eric-lund-00170",
+      "raw-eric-lund-00171",
+      "raw-eric-lund-00172",
+      "raw-eric-lund-00174",
+      "raw-eric-lund-00175",
+      "raw-eric-lund-00184",
+      "raw-eric-lund-00185",
+      "raw-eric-lund-00190",
+      "raw-eric-lund-00191",
+      "raw-eric-lund-00192",
+      "raw-eric-lund-00193",
+      "raw-eric-lund-00211",
+      "raw-eric-lund-00212",
+      "raw-eric-lund-00230",
+      "raw-eric-lund-00231",
+      "raw-eric-lund-00245",
+      "raw-eric-lund-00257",
+      "raw-eric-lund-00265",
+      "raw-eric-lund-00266",
+      "raw-eric-lund-00268",
+      "raw-eric-lund-00275",
+      "raw-eric-lund-00276",
+      "raw-eric-lund-00277",
+      "raw-eric-lund-00279",
+      "raw-eric-lund-00280",
+      "raw-eric-lund-00288",
+      "raw-eric-lund-00289",
+      "raw-eric-lund-00291",
+      "raw-eric-lund-00298",
+      "raw-eric-lund-00299",
+      "raw-eric-lund-00300",
+      "raw-eric-lund-00302",
+      "raw-eric-lund-00309",
+      "raw-eric-lund-00311",
+      "raw-eric-lund-00312",
+      "raw-eric-lund-00313",
+      "raw-eric-lund-00314",
+      "raw-eric-lund-00322",
+      "raw-eric-lund-00323",
+      "raw-eric-lund-00325",
+      "raw-eric-lund-00332",
+      "raw-eric-lund-00333",
+      "raw-eric-lund-00334",
+      "raw-eric-lund-00336",
+      "raw-eric-lund-00343",
+      "raw-eric-lund-00345",
+      "raw-eric-lund-00346",
+      "raw-eric-lund-00347",
+      "raw-eric-lund-00348",
+      "raw-eric-lund-00357",
+      "raw-eric-lund-00360",
+      "raw-eric-lund-00369",
+      "raw-eric-lund-00370",
+      "raw-eric-lund-00371",
+      "raw-eric-lund-00380",
+      "raw-eric-lund-00381",
+      "raw-eric-lund-00382",
+      "raw-eric-lund-00383",
+      "raw-eric-lund-00391",
+      "raw-eric-lund-00392",
+      "raw-eric-lund-00393"
+    ],
+    "duplicateCount": 90,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:1",
+      "memory/candidates/eric-lund/v2-issues.yaml:16",
+      "memory/candidates/eric-lund/v2-issues.yaml:18",
+      "memory/candidates/eric-lund/v2-issues.yaml:23",
+      "memory/candidates/eric-lund/v2-issues.yaml:28",
+      "memory/candidates/eric-lund/v2-issues.yaml:29",
+      "memory/candidates/eric-lund/v2-issues.yaml:34",
+      "memory/candidates/eric-lund/v2-issues.yaml:39",
+      "memory/candidates/eric-lund/v2-issues.yaml:40",
+      "memory/candidates/eric-lund/v2-issues.yaml:42",
+      "memory/candidates/eric-lund/v2-issues.yaml:50",
+      "memory/candidates/eric-lund/v2-issues.yaml:51",
+      "memory/candidates/eric-lund/v2-issues.yaml:53",
+      "memory/candidates/eric-lund/v2-issues.yaml:60",
+      "memory/candidates/eric-lund/v2-issues.yaml:61",
+      "memory/candidates/eric-lund/v2-issues.yaml:62",
+      "memory/candidates/eric-lund/v2-issues.yaml:64",
+      "memory/candidates/eric-lund/v2-issues.yaml:65",
+      "memory/candidates/eric-lund/v2-issues.yaml:73",
+      "memory/candidates/eric-lund/v2-issues.yaml:74",
+      "memory/candidates/eric-lund/v2-issues.yaml:76",
+      "memory/candidates/eric-lund/v2-issues.yaml:83",
+      "memory/candidates/eric-lund/v2-issues.yaml:84",
+      "memory/candidates/eric-lund/v2-issues.yaml:85",
+      "memory/candidates/eric-lund/v2-issues.yaml:87",
+      "memory/candidates/eric-lund/v2-issues.yaml:88",
+      "memory/candidates/eric-lund/v2-issues.yaml:96",
+      "memory/candidates/eric-lund/v2-issues.yaml:97",
+      "memory/candidates/eric-lund/v2-issues.yaml:99",
+      "memory/candidates/eric-lund/v2-issues.yaml:106",
+      "memory/candidates/eric-lund/v2-issues.yaml:107",
+      "memory/candidates/eric-lund/v2-issues.yaml:108",
+      "memory/candidates/eric-lund/v2-issues.yaml:110",
+      "memory/candidates/eric-lund/v2-issues.yaml:111",
+      "memory/candidates/eric-lund/v2-issues.yaml:120",
+      "memory/candidates/eric-lund/v2-issues.yaml:121",
+      "memory/candidates/eric-lund/v2-issues.yaml:126",
+      "memory/candidates/eric-lund/v2-issues.yaml:127",
+      "ui/src/data/elections.ts:150",
+      "ui/src/data/elections.ts:151",
+      "ui/src/data/elections.ts:169",
+      "ui/src/data/elections.ts:170",
+      "ui/src/data/elections.ts:188",
+      "ui/src/data/elections.ts:189",
+      "ui/src/data/v2/eric-lund.ts:4",
+      "ui/src/data/v2/eric-lund.ts:18",
+      "ui/src/data/v2/eric-lund.ts:26",
+      "ui/src/data/v2/eric-lund.ts:27",
+      "ui/src/data/v2/eric-lund.ts:29",
+      "ui/src/data/v2/eric-lund.ts:36",
+      "ui/src/data/v2/eric-lund.ts:37",
+      "ui/src/data/v2/eric-lund.ts:38",
+      "ui/src/data/v2/eric-lund.ts:40",
+      "ui/src/data/v2/eric-lund.ts:41",
+      "ui/src/data/v2/eric-lund.ts:49",
+      "ui/src/data/v2/eric-lund.ts:50",
+      "ui/src/data/v2/eric-lund.ts:52",
+      "ui/src/data/v2/eric-lund.ts:59",
+      "ui/src/data/v2/eric-lund.ts:60",
+      "ui/src/data/v2/eric-lund.ts:61",
+      "ui/src/data/v2/eric-lund.ts:63",
+      "ui/src/data/v2/eric-lund.ts:70",
+      "ui/src/data/v2/eric-lund.ts:72",
+      "ui/src/data/v2/eric-lund.ts:73",
+      "ui/src/data/v2/eric-lund.ts:74",
+      "ui/src/data/v2/eric-lund.ts:75",
+      "ui/src/data/v2/eric-lund.ts:83",
+      "ui/src/data/v2/eric-lund.ts:84",
+      "ui/src/data/v2/eric-lund.ts:86",
+      "ui/src/data/v2/eric-lund.ts:93",
+      "ui/src/data/v2/eric-lund.ts:94",
+      "ui/src/data/v2/eric-lund.ts:95",
+      "ui/src/data/v2/eric-lund.ts:97",
+      "ui/src/data/v2/eric-lund.ts:104",
+      "ui/src/data/v2/eric-lund.ts:106",
+      "ui/src/data/v2/eric-lund.ts:107",
+      "ui/src/data/v2/eric-lund.ts:108",
+      "ui/src/data/v2/eric-lund.ts:109",
+      "ui/src/data/v2/eric-lund.ts:118",
+      "ui/src/data/v2/eric-lund.ts:121",
+      "ui/src/data/v2/eric-lund.ts:130",
+      "ui/src/data/v2/eric-lund.ts:131",
+      "ui/src/data/v2/eric-lund.ts:132",
+      "ui/src/data/v2/eric-lund.ts:141",
+      "ui/src/data/v2/eric-lund.ts:142",
+      "ui/src/data/v2/eric-lund.ts:143",
+      "ui/src/data/v2/eric-lund.ts:144",
+      "ui/src/data/v2/eric-lund.ts:153",
+      "ui/src/data/v2/eric-lund.ts:154",
+      "ui/src/data/v2/eric-lund.ts:155"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00028",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"generated\": \"2026-05-20T02:11:14.685Z\",",
+    "exactEvidenceSummary": "\"generated\": \"2026-05-20T02:11:14.685Z\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l3"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00067"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:3"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00029",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:5",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"candidate_metadata\": {",
+    "exactEvidenceSummary": "\"candidate_metadata\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l5"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00069"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:5"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00030",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:7",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"name\": \"Eric Lund\",",
+    "exactEvidenceSummary": "\"name\": \"Eric Lund\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l7",
+      "mem-ui-src-data-v2-eric-lund-ts-l11"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00071",
+      "raw-eric-lund-00250"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:7",
+      "ui/src/data/v2/eric-lund.ts:11"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00031",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:8",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"party\": \"NP\",",
+    "exactEvidenceSummary": "\"party\": \"NP\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l8",
+      "mem-ui-src-data-v2-eric-lund-ts-l12"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00072",
+      "raw-eric-lund-00251"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:8",
+      "ui/src/data/v2/eric-lund.ts:12"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00032",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:10",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"electionSlug\": \"kansas-treasurer-2026\",",
+    "exactEvidenceSummary": "\"electionSlug\": \"kansas-treasurer-2026\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l10",
+      "mem-ui-src-data-v2-eric-lund-ts-l14"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00074",
+      "raw-eric-lund-00253"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:10",
+      "ui/src/data/v2/eric-lund.ts:14"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00038",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:17",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sources\": [",
+    "exactEvidenceSummary": "\"sources\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l17",
+      "mem-ui-src-data-v2-eric-lund-ts-l120"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00081",
+      "raw-eric-lund-00359"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:17",
+      "ui/src/data/v2/eric-lund.ts:120"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00039",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:19",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"accessed\": \"2026-05-20\",",
+    "exactEvidenceSummary": "\"accessed\": \"2026-05-20\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l19",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l30",
+      "mem-ui-src-data-v2-eric-lund-ts-l127",
+      "mem-ui-src-data-v2-eric-lund-ts-l138"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00083",
+      "raw-eric-lund-00094",
+      "raw-eric-lund-00366",
+      "raw-eric-lund-00377"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:19",
+      "memory/candidates/eric-lund/v2-issues.yaml:30",
+      "ui/src/data/v2/eric-lund.ts:127",
+      "ui/src/data/v2/eric-lund.ts:138"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00041",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:21",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"claimsAnchored\": [",
+    "exactEvidenceSummary": "\"claimsAnchored\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l21",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l32",
+      "mem-ui-src-data-v2-eric-lund-ts-l128",
+      "mem-ui-src-data-v2-eric-lund-ts-l139"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00085",
+      "raw-eric-lund-00096",
+      "raw-eric-lund-00367",
+      "raw-eric-lund-00378"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:21",
+      "memory/candidates/eric-lund/v2-issues.yaml:32",
+      "ui/src/data/v2/eric-lund.ts:128",
+      "ui/src/data/v2/eric-lund.ts:139"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00044",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:25",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"tier\": \"primary\",",
+    "exactEvidenceSummary": "\"tier\": \"primary\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l25",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l36",
+      "mem-ui-src-data-v2-eric-lund-ts-l123",
+      "mem-ui-src-data-v2-eric-lund-ts-l134"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00089",
+      "raw-eric-lund-00100",
+      "raw-eric-lund-00362",
+      "raw-eric-lund-00373"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:25",
+      "memory/candidates/eric-lund/v2-issues.yaml:36",
+      "ui/src/data/v2/eric-lund.ts:123",
+      "ui/src/data/v2/eric-lund.ts:134"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00049",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:136",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"title\": \"Eric S. Lund Appointment of Treasurer\",",
+    "exactEvidenceSummary": "\"title\": \"Eric S. Lund Appointment of Treasurer\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l38",
+      "mem-ui-src-data-v2-eric-lund-ts-l136"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00102",
+      "raw-eric-lund-00375"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:38",
+      "ui/src/data/v2/eric-lund.ts:136"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00053",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:45",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"stated\": {",
+    "exactEvidenceSummary": "\"stated\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l45",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l68",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l91",
+      "mem-ui-src-data-v2-eric-lund-ts-l21",
+      "mem-ui-src-data-v2-eric-lund-ts-l44",
+      "mem-ui-src-data-v2-eric-lund-ts-l78"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00109",
+      "raw-eric-lund-00132",
+      "raw-eric-lund-00155",
+      "raw-eric-lund-00260",
+      "raw-eric-lund-00283",
+      "raw-eric-lund-00317"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:45",
+      "memory/candidates/eric-lund/v2-issues.yaml:68",
+      "memory/candidates/eric-lund/v2-issues.yaml:91",
+      "ui/src/data/v2/eric-lund.ts:21",
+      "ui/src/data/v2/eric-lund.ts:44",
+      "ui/src/data/v2/eric-lund.ts:78"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00058",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:52",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"actions\": [",
+    "exactEvidenceSummary": "\"actions\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l52",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l75",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l98",
+      "mem-ui-src-data-v2-eric-lund-ts-l28",
+      "mem-ui-src-data-v2-eric-lund-ts-l51",
+      "mem-ui-src-data-v2-eric-lund-ts-l85"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00116",
+      "raw-eric-lund-00139",
+      "raw-eric-lund-00162",
+      "raw-eric-lund-00267",
+      "raw-eric-lund-00290",
+      "raw-eric-lund-00324"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:52",
+      "memory/candidates/eric-lund/v2-issues.yaml:75",
+      "memory/candidates/eric-lund/v2-issues.yaml:98",
+      "ui/src/data/v2/eric-lund.ts:28",
+      "ui/src/data/v2/eric-lund.ts:51",
+      "ui/src/data/v2/eric-lund.ts:85"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00060",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:55",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"date\": \"2026-05-20\",",
+    "exactEvidenceSummary": "\"date\": \"2026-05-20\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l55",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l78",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l101",
+      "mem-ui-src-data-v2-eric-lund-ts-l31",
+      "mem-ui-src-data-v2-eric-lund-ts-l54",
+      "mem-ui-src-data-v2-eric-lund-ts-l88"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00119",
+      "raw-eric-lund-00142",
+      "raw-eric-lund-00165",
+      "raw-eric-lund-00270",
+      "raw-eric-lund-00293",
+      "raw-eric-lund-00327"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:55",
+      "memory/candidates/eric-lund/v2-issues.yaml:78",
+      "memory/candidates/eric-lund/v2-issues.yaml:101",
+      "ui/src/data/v2/eric-lund.ts:31",
+      "ui/src/data/v2/eric-lund.ts:54",
+      "ui/src/data/v2/eric-lund.ts:88"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00064",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:67",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"title\": \"Where they stand on big issues\",",
+    "exactEvidenceSummary": "\"title\": \"Where they stand on big issues\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l67",
+      "mem-ui-src-data-v2-eric-lund-ts-l43"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00131",
+      "raw-eric-lund-00282"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:67",
+      "ui/src/data/v2/eric-lund.ts:43"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00073",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:112",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"campaign_finance\": {",
+    "exactEvidenceSummary": "\"campaign_finance\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l112"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00176"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:112"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00074",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:113",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"totalRaised\": \"Not itemized in the reviewed public records for this pass\",",
+    "exactEvidenceSummary": "\"totalRaised\": \"Not itemized in the reviewed public records for this pass\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l113",
+      "mem-ui-src-data-v2-eric-lund-ts-l113"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00177",
+      "raw-eric-lund-00352"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:113",
+      "ui/src/data/v2/eric-lund.ts:113"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00076",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:115",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"donors\": [],",
+    "exactEvidenceSummary": "\"donors\": [],",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l115",
+      "mem-ui-src-data-v2-eric-lund-ts-l115"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00179",
+      "raw-eric-lund-00354"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:115",
+      "ui/src/data/v2/eric-lund.ts:115"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00077",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:116",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"reportingPeriod\": \"Most recent public record reviewed\",",
+    "exactEvidenceSummary": "\"reportingPeriod\": \"Most recent public record reviewed\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l116",
+      "mem-ui-src-data-v2-eric-lund-ts-l116"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00180",
+      "raw-eric-lund-00355"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:116",
+      "ui/src/data/v2/eric-lund.ts:116"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00079",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:122",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"editorial_notes\": [",
+    "exactEvidenceSummary": "\"editorial_notes\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l122"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00186"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:122"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00083",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:152",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "slug: \"kansas-treasurer-2026\",",
+    "exactEvidenceSummary": "slug: \"kansas-treasurer-2026\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l152"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00194"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:152"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00084",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:153",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "name: \"Kansas State Treasurer\",",
+    "exactEvidenceSummary": "name: \"Kansas State Treasurer\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l153"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00195"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:153"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00085",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:154",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "level: \"State\",",
+    "exactEvidenceSummary": "level: \"State\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l154",
+      "mem-ui-src-data-elections-ts-l173",
+      "mem-ui-src-data-elections-ts-l192"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00196",
+      "raw-eric-lund-00215",
+      "raw-eric-lund-00234"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:154",
+      "ui/src/data/elections.ts:173",
+      "ui/src/data/elections.ts:192"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00086",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:155",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "date: \"2026-11-03\",",
+    "exactEvidenceSummary": "date: \"2026-11-03\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l155",
+      "mem-ui-src-data-elections-ts-l174",
+      "mem-ui-src-data-elections-ts-l193"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00197",
+      "raw-eric-lund-00216",
+      "raw-eric-lund-00235"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:155",
+      "ui/src/data/elections.ts:174",
+      "ui/src/data/elections.ts:193"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00087",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:156",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "jurisdiction: \"State of Kansas\",",
+    "exactEvidenceSummary": "jurisdiction: \"State of Kansas\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l156",
+      "mem-ui-src-data-elections-ts-l175"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00198",
+      "raw-eric-lund-00217"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:156",
+      "ui/src/data/elections.ts:175"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00088",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:157",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "seats: 1,",
+    "exactEvidenceSummary": "seats: 1,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l157",
+      "mem-ui-src-data-elections-ts-l176",
+      "mem-ui-src-data-elections-ts-l195"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00199",
+      "raw-eric-lund-00218",
+      "raw-eric-lund-00237"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:157",
+      "ui/src/data/elections.ts:176",
+      "ui/src/data/elections.ts:195"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00090",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:159",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateCount: 2,",
+    "exactEvidenceSummary": "candidateCount: 2,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l159"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00201"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:159"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00091",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:160",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateSlugs: [\"steven-johnson\", \"eric-lund\"],",
+    "exactEvidenceSummary": "candidateSlugs: [\"steven-johnson\", \"eric-lund\"],",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l160"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00202"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:160"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00092",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:161",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "description:",
+    "exactEvidenceSummary": "description:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l161",
+      "mem-ui-src-data-elections-ts-l180",
+      "mem-ui-src-data-elections-ts-l199"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00203",
+      "raw-eric-lund-00222",
+      "raw-eric-lund-00241"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:161",
+      "ui/src/data/elections.ts:180",
+      "ui/src/data/elections.ts:199"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00094",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:163",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "plainEnglish:",
+    "exactEvidenceSummary": "plainEnglish:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l163",
+      "mem-ui-src-data-elections-ts-l182"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00205",
+      "raw-eric-lund-00224"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:163",
+      "ui/src/data/elections.ts:182"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00096",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:165",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "whyItMatters:",
+    "exactEvidenceSummary": "whyItMatters:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l165",
+      "mem-ui-src-data-elections-ts-l184"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00207",
+      "raw-eric-lund-00226"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:165",
+      "ui/src/data/elections.ts:184"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00098",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:167",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "jobDescription:",
+    "exactEvidenceSummary": "jobDescription:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l167",
+      "mem-ui-src-data-elections-ts-l186"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00209",
+      "raw-eric-lund-00228"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:167",
+      "ui/src/data/elections.ts:186"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00102",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:177",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "status: \"Open Seat\",",
+    "exactEvidenceSummary": "status: \"Open Seat\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l177"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00219"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:177"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00103",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:178",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateCount: 3,",
+    "exactEvidenceSummary": "candidateCount: 3,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l178"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00220"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:178"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00109",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:190",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "slug: \"ks-house-111\",",
+    "exactEvidenceSummary": "slug: \"ks-house-111\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l190"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00232"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:190"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00112",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:197",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateCount: 1,",
+    "exactEvidenceSummary": "candidateCount: 1,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l197"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00239"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:197"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00114",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+    "exactEvidenceSummary": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l1"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00242"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:1"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00115",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:2",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "To refresh:",
+    "exactEvidenceSummary": "* To refresh:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l2"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00243"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:2"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00116",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "node scripts/hydrate-v2-social-signals.mjs",
+    "exactEvidenceSummary": "* node scripts/hydrate-v2-social-signals.mjs",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l3"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00244"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:3"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00117",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:6",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+    "exactEvidenceSummary": "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l6"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00246"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:6"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00118",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:7",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "import { validateCandidateV2 } from \"@/data/types-v2\";",
+    "exactEvidenceSummary": "import { validateCandidateV2 } from \"@/data/types-v2\";",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l7"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00247"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:7"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00119",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:9",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "export const ERIC_LUND_V2: CandidateFullV2 = {",
+    "exactEvidenceSummary": "export const ERIC_LUND_V2: CandidateFullV2 = {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l9"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00248"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:9"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00121",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:65",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "campaign statement",
+    "issueMappedTo": [],
+    "claim": "\"platform\": \"Public web\",",
+    "exactEvidenceSummary": "\"platform\": \"Public web\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l65",
+      "mem-ui-src-data-v2-eric-lund-ts-l99"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00304",
+      "raw-eric-lund-00338"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:65",
+      "ui/src/data/v2/eric-lund.ts:99"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00123",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:67",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"observedAt\": \"2026-05-19\",",
+    "exactEvidenceSummary": "\"observedAt\": \"2026-05-19\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l67",
+      "mem-ui-src-data-v2-eric-lund-ts-l101"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00306",
+      "raw-eric-lund-00340"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:67",
+      "ui/src/data/v2/eric-lund.ts:101"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00124",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:71",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"mappedToIssueId\": \"i-public-issue-record\"",
+    "exactEvidenceSummary": "\"mappedToIssueId\": \"i-public-issue-record\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l71"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00310"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:71"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00127",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:112",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"campaignFinance\": {",
+    "exactEvidenceSummary": "\"campaignFinance\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l112"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00351"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:112"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00129",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:146",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "if (process.env.NODE_ENV !== \"production\") {",
+    "exactEvidenceSummary": "if (process.env.NODE_ENV !== \"production\") {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l146"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00384"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:146"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00130",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:147",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "const result = validateCandidateV2(ERIC_LUND_V2);",
+    "exactEvidenceSummary": "const result = validateCandidateV2(ERIC_LUND_V2);",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l147"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00385"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:147"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00131",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:148",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "if (!result.ok) {",
+    "exactEvidenceSummary": "if (!result.ok) {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l148"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00386"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:148"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00132",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:149",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "// eslint-disable-next-line no-console",
+    "exactEvidenceSummary": "// eslint-disable-next-line no-console",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l149"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00387"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:149"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00133",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:150",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "console.error(",
+    "exactEvidenceSummary": "console.error(",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l150"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00388"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:150"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00134",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:151",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"[eric-lund.ts] validateCandidateV2 FAILED:\\n\" +",
+    "exactEvidenceSummary": "\"[eric-lund.ts] validateCandidateV2 FAILED:\\n\" +",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l151"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00389"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:151"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00135",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:152",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "result.errors.join(\"\\n\"),",
+    "exactEvidenceSummary": "result.errors.join(\"\\n\"),",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l152"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00390"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:152"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00009",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/social-harvest.md:14",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10
+    ],
+    "claim": "Election grouping: kansas-treasurer-2026",
+    "exactEvidenceSummary": "- Election grouping: kansas-treasurer-2026",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-in-their-own-words-md-l14",
+      "mem-memory-candidates-eric-lund-raw-dump-v2-md-l14",
+      "mem-memory-candidates-eric-lund-sleuth-pass-md-l14",
+      "mem-memory-candidates-eric-lund-social-harvest-md-l14"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00009",
+      "raw-eric-lund-00025",
+      "raw-eric-lund-00041",
+      "raw-eric-lund-00057"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/in-their-own-words.md:14",
+      "memory/candidates/eric-lund/raw-dump-v2.md:14",
+      "memory/candidates/eric-lund/sleuth-pass.md:14",
+      "memory/candidates/eric-lund/social-harvest.md:14"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00003",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/social-harvest.md:4",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Agent: codex candidate-completeness generator",
+    "exactEvidenceSummary": "Agent: codex candidate-completeness generator",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-in-their-own-words-md-l4",
+      "mem-memory-candidates-eric-lund-raw-dump-v2-md-l4",
+      "mem-memory-candidates-eric-lund-sleuth-pass-md-l4",
+      "mem-memory-candidates-eric-lund-social-harvest-md-l4",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l4"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00003",
+      "raw-eric-lund-00019",
+      "raw-eric-lund-00035",
+      "raw-eric-lund-00051",
+      "raw-eric-lund-00068"
+    ],
+    "duplicateCount": 5,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/in-their-own-words.md:4",
+      "memory/candidates/eric-lund/raw-dump-v2.md:4",
+      "memory/candidates/eric-lund/sleuth-pass.md:4",
+      "memory/candidates/eric-lund/social-harvest.md:4",
+      "memory/candidates/eric-lund/v2-issues.yaml:4"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00008",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/social-harvest.md:13",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Position: Kansas State Treasurer campaign-finance account holder",
+    "exactEvidenceSummary": "- Position: Kansas State Treasurer campaign-finance account holder",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-in-their-own-words-md-l13",
+      "mem-memory-candidates-eric-lund-raw-dump-v2-md-l13",
+      "mem-memory-candidates-eric-lund-sleuth-pass-md-l13",
+      "mem-memory-candidates-eric-lund-social-harvest-md-l13",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l9",
+      "mem-ui-src-data-v2-eric-lund-ts-l13"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00008",
+      "raw-eric-lund-00024",
+      "raw-eric-lund-00040",
+      "raw-eric-lund-00056",
+      "raw-eric-lund-00073",
+      "raw-eric-lund-00252"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/in-their-own-words.md:13",
+      "memory/candidates/eric-lund/raw-dump-v2.md:13",
+      "memory/candidates/eric-lund/sleuth-pass.md:13",
+      "memory/candidates/eric-lund/social-harvest.md:13",
+      "memory/candidates/eric-lund/v2-issues.yaml:9",
+      "ui/src/data/v2/eric-lund.ts:13"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00024",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/social-harvest.md:15",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Incumbent: no",
+    "exactEvidenceSummary": "- Incumbent: no",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-social-harvest-md-l15"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00058"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/social-harvest.md:15"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00026",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/social-harvest.md:23",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Source handling",
+    "exactEvidenceSummary": "## Source handling",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-social-harvest-md-l23"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00063"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/social-harvest.md:23"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00105",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:181",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      9,
+      10,
+      13
+    ],
+    "claim": "\"The open-seat insurance commissioner race currently includes Daniel Hawkins and Dinah Sykes in filing rows, plus Ric Koehn in KPDC campaign-finance records.\",",
+    "exactEvidenceSummary": "\"The open-seat insurance commissioner race currently includes Daniel Hawkins and Dinah Sykes in filing rows, plus Ric Koehn in KPDC campaign-finance records.\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l181"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00223"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:181"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00106",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:183",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      9,
+      10,
+      13
+    ],
+    "claim": "\"Kansas elects its insurance commissioner, and this office touches rates, claims, consumer complaints, and company oversight. Daniel Hawkins and Dinah Sykes are confirmed in the statewide filing mirror; Ric Koehn is included from the KPDC account index until final ballot records are rechecked.\",",
+    "exactEvidenceSummary": "\"Kansas elects its insurance commissioner, and this office touches rates, claims, consumer complaints, and company oversight. Daniel Hawkins and Dinah Sykes are confirmed in the statewide filing mirror; Ric Koehn is included from the KPDC account index until final ballot records are rechecked.\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l183"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00225"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:183"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00010",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/in-their-own-words.md:15",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Incumbent: no",
+    "exactEvidenceSummary": "- Incumbent: no",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-in-their-own-words-md-l15",
+      "mem-memory-candidates-eric-lund-raw-dump-v2-md-l15",
+      "mem-memory-candidates-eric-lund-sleuth-pass-md-l15"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00010",
+      "raw-eric-lund-00026",
+      "raw-eric-lund-00042"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/in-their-own-words.md:15",
+      "memory/candidates/eric-lund/raw-dump-v2.md:15",
+      "memory/candidates/eric-lund/sleuth-pass.md:15"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00051",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:43",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"id\": \"i-ballot-status\",",
+    "exactEvidenceSummary": "\"id\": \"i-ballot-status\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l43",
+      "mem-ui-src-data-v2-eric-lund-ts-l19"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00107",
+      "raw-eric-lund-00258"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:43",
+      "ui/src/data/v2/eric-lund.ts:19"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00043",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:24",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"s-kpdc-statewide\",",
+    "exactEvidenceSummary": "\"id\": \"s-kpdc-statewide\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l24",
+      "mem-ui-src-data-v2-eric-lund-ts-l122"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00088",
+      "raw-eric-lund-00361"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:24",
+      "ui/src/data/v2/eric-lund.ts:122"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00048",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:35",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"s-kpdc-at\",",
+    "exactEvidenceSummary": "\"id\": \"s-kpdc-at\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l35",
+      "mem-ui-src-data-v2-eric-lund-ts-l133"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00099",
+      "raw-eric-lund-00372"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:35",
+      "ui/src/data/v2/eric-lund.ts:133"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00068",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:89",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"i-donor-funding\",",
+    "exactEvidenceSummary": "\"id\": \"i-donor-funding\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l89",
+      "mem-ui-src-data-v2-eric-lund-ts-l76"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00153",
+      "raw-eric-lund-00315"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:89",
+      "ui/src/data/v2/eric-lund.ts:76"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00015",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/in-their-own-words.md:23",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Source handling",
+    "exactEvidenceSummary": "## Source handling",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-in-their-own-words-md-l23",
+      "mem-memory-candidates-eric-lund-raw-dump-v2-md-l23",
+      "mem-memory-candidates-eric-lund-sleuth-pass-md-l23"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00015",
+      "raw-eric-lund-00031",
+      "raw-eric-lund-00047"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/in-their-own-words.md:23",
+      "memory/candidates/eric-lund/raw-dump-v2.md:23",
+      "memory/candidates/eric-lund/sleuth-pass.md:23"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00050",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:41",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"issues\": [",
+    "exactEvidenceSummary": "\"issues\": [",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l41",
+      "mem-ui-src-data-v2-eric-lund-ts-l17"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00105",
+      "raw-eric-lund-00256"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:41",
+      "ui/src/data/v2/eric-lund.ts:17"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00055",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:47",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sourceIds\": [",
+    "exactEvidenceSummary": "\"sourceIds\": [",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l47",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l57",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l70",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l80",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l93",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l103",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l118",
+      "mem-ui-src-data-v2-eric-lund-ts-l23",
+      "mem-ui-src-data-v2-eric-lund-ts-l33",
+      "mem-ui-src-data-v2-eric-lund-ts-l46",
+      "mem-ui-src-data-v2-eric-lund-ts-l56",
+      "mem-ui-src-data-v2-eric-lund-ts-l68",
+      "mem-ui-src-data-v2-eric-lund-ts-l80",
+      "mem-ui-src-data-v2-eric-lund-ts-l90",
+      "mem-ui-src-data-v2-eric-lund-ts-l102"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00111",
+      "raw-eric-lund-00121",
+      "raw-eric-lund-00134",
+      "raw-eric-lund-00144",
+      "raw-eric-lund-00157",
+      "raw-eric-lund-00167",
+      "raw-eric-lund-00182",
+      "raw-eric-lund-00262",
+      "raw-eric-lund-00272",
+      "raw-eric-lund-00285",
+      "raw-eric-lund-00295",
+      "raw-eric-lund-00307",
+      "raw-eric-lund-00319",
+      "raw-eric-lund-00329",
+      "raw-eric-lund-00341"
+    ],
+    "duplicateCount": 15,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:47",
+      "memory/candidates/eric-lund/v2-issues.yaml:57",
+      "memory/candidates/eric-lund/v2-issues.yaml:70",
+      "memory/candidates/eric-lund/v2-issues.yaml:80",
+      "memory/candidates/eric-lund/v2-issues.yaml:93",
+      "memory/candidates/eric-lund/v2-issues.yaml:103",
+      "memory/candidates/eric-lund/v2-issues.yaml:118",
+      "ui/src/data/v2/eric-lund.ts:23",
+      "ui/src/data/v2/eric-lund.ts:33",
+      "ui/src/data/v2/eric-lund.ts:46",
+      "ui/src/data/v2/eric-lund.ts:56",
+      "ui/src/data/v2/eric-lund.ts:68",
+      "ui/src/data/v2/eric-lund.ts:80",
+      "ui/src/data/v2/eric-lund.ts:90",
+      "ui/src/data/v2/eric-lund.ts:102"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00059",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:54",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-record-appearance\",",
+    "exactEvidenceSummary": "\"id\": \"a-record-appearance\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l54",
+      "mem-ui-src-data-v2-eric-lund-ts-l30"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00118",
+      "raw-eric-lund-00269"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:54",
+      "ui/src/data/v2/eric-lund.ts:30"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00062",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:63",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"socialSignals\": []",
+    "exactEvidenceSummary": "\"socialSignals\": []",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l63",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l86",
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l109",
+      "mem-ui-src-data-v2-eric-lund-ts-l39",
+      "mem-ui-src-data-v2-eric-lund-ts-l62",
+      "mem-ui-src-data-v2-eric-lund-ts-l96"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00127",
+      "raw-eric-lund-00150",
+      "raw-eric-lund-00173",
+      "raw-eric-lund-00278",
+      "raw-eric-lund-00301",
+      "raw-eric-lund-00335"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:63",
+      "memory/candidates/eric-lund/v2-issues.yaml:86",
+      "memory/candidates/eric-lund/v2-issues.yaml:109",
+      "ui/src/data/v2/eric-lund.ts:39",
+      "ui/src/data/v2/eric-lund.ts:62",
+      "ui/src/data/v2/eric-lund.ts:96"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00063",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:66",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"i-public-issue-record\",",
+    "exactEvidenceSummary": "\"id\": \"i-public-issue-record\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l66",
+      "mem-ui-src-data-v2-eric-lund-ts-l42"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00130",
+      "raw-eric-lund-00281"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:66",
+      "ui/src/data/v2/eric-lund.ts:42"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00066",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:77",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "campaign statement",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-platform-gap\",",
+    "exactEvidenceSummary": "\"id\": \"a-platform-gap\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l77",
+      "mem-ui-src-data-v2-eric-lund-ts-l53"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00141",
+      "raw-eric-lund-00292"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:77",
+      "ui/src/data/v2/eric-lund.ts:53"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00071",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "memory/candidates/eric-lund/v2-issues.yaml:100",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-finance-record\",",
+    "exactEvidenceSummary": "\"id\": \"a-finance-record\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-eric-lund-v2-issues-yaml-l100",
+      "mem-ui-src-data-v2-eric-lund-ts-l87"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00164",
+      "raw-eric-lund-00326"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/eric-lund/v2-issues.yaml:100",
+      "ui/src/data/v2/eric-lund.ts:87"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00104",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:179",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateSlugs: [\"daniel-hawkins\", \"dinah-sykes\", \"ric-koehn\"],",
+    "exactEvidenceSummary": "candidateSlugs: [\"daniel-hawkins\", \"dinah-sykes\", \"ric-koehn\"],",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l179"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00221"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:179"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00113",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/elections.ts:198",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateSlugs: [\"barb-wasinger\"],",
+    "exactEvidenceSummary": "candidateSlugs: [\"barb-wasinger\"],",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l198"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00240"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:198"
+    ]
+  },
+  {
+    "id": "em-eric-lund-00120",
+    "candidateSlug": "eric-lund",
+    "candidateName": "Eric Lund",
+    "raceSlug": "kansas-treasurer-2026",
+    "sourceFile": "ui/src/data/v2/eric-lund.ts:64",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"ss-crossref-1\",",
+    "exactEvidenceSummary": "\"id\": \"ss-crossref-1\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-eric-lund-ts-l64",
+      "mem-ui-src-data-v2-eric-lund-ts-l98"
+    ],
+    "rawRowIds": [
+      "raw-eric-lund-00303",
+      "raw-eric-lund-00337"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/eric-lund.ts:64",
+      "ui/src/data/v2/eric-lund.ts:98"
+    ]
+  }
+]

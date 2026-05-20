@@ -11,7 +11,7 @@ const ROOT = new URL("..", import.meta.url).pathname.replace(/\/$/, "");
 const MEMORY_CANDIDATES = join(ROOT, "memory/candidates");
 const ORCHESTRATION_RUNS = join(ROOT, "memory/orchestration/agent-runs");
 const TODAY = "2026-05-20";
-const NOW = "2026-05-20T18:05:00Z";
+const NOW = "2026-05-20T18:46:44Z";
 
 const ISSUE_LABELS = {
   1: "Abortion / life",
@@ -264,7 +264,7 @@ function buildSocial(slug) {
     "## Representative Signals",
     ...topSignals.map(
       (signal) =>
-        `- **${signal.signalStrength} / ${signal.platform} / ${signal.actionType}** — ${signal.observation.slice(0, 360)}${signal.sourceUrl ? ` (${signal.sourceUrl})` : ""}`,
+        `- **${signal.signalStrength} / ${signal.platform} / ${signal.actionType}** — ${compact(signal.observation).slice(0, 360).trim()}${signal.sourceUrl ? ` (${signal.sourceUrl})` : ""}`,
     ),
     "",
     "## Required Caveats",
@@ -297,7 +297,7 @@ function buildSocial(slug) {
       `memory/candidates/${slug}/agent-work/candidate-evidence-miner/notes.md`,
     ],
     files_written: filesWritten,
-    commands_run: ["node scripts/build-social-and-source-passes.mjs roger-marshall damon-anderson jason-hart"],
+    commands_run: [`node scripts/build-social-and-source-passes.mjs ${slug}`],
     blockers: [],
     errors_encountered: [],
     next_steps: [`Run source-tier-validator for ${slug}.`, `Run fixed-issue-matrix-builder for ${slug} after source validation.`],
@@ -526,7 +526,7 @@ function buildSourceAudit(slug) {
     completed_at: NOW,
     inputs_read: [`memory/candidates/${slug}/evidence-matrix.json`],
     files_written: filesWritten,
-    commands_run: ["node scripts/build-social-and-source-passes.mjs roger-marshall damon-anderson jason-hart"],
+    commands_run: [`node scripts/build-social-and-source-passes.mjs ${slug}`],
     blockers: [],
     errors_encountered: [],
     next_steps: [`Use source-audit.md during fixed-issue-matrix-builder for ${slug}.`],
@@ -615,12 +615,12 @@ for (const agentId of ["social-footprint-analyst", "source-tier-validator"]) {
       `memory/orchestration/agent-runs/${TODAY}/${agentId}/outputs.md`,
       `memory/orchestration/agent-runs/${TODAY}/${agentId}/handoff.md`,
     ],
-    commands_run: ["node scripts/build-social-and-source-passes.mjs roger-marshall damon-anderson jason-hart"],
+    commands_run: [`node scripts/build-social-and-source-passes.mjs ${slugs.join(" ")}`],
     blockers: [],
     errors_encountered: [],
     next_steps: isSocial
       ? ["Run source-tier-validator for the same candidates if not already complete."]
-      : ["Run fixed-issue-matrix-builder for roger-marshall, damon-anderson, and jason-hart."],
+        : [`Run fixed-issue-matrix-builder for ${slugs.join(", ")}.`],
     handoff_summary: isSocial
       ? `Classified social evidence for ${slugs.join(", ")}.`
       : `Audited source tiers for ${slugs.join(", ")}.`,
@@ -670,7 +670,7 @@ for (const agentId of ["social-footprint-analyst", "source-tier-validator"]) {
       "## What the Next Task Should Do",
       isSocial
         ? "Run source-tier-validator if not already done; then start fixed-issue-matrix-builder."
-        : "Run fixed-issue-matrix-builder for roger-marshall, damon-anderson, and jason-hart using evidence, social, and source audit outputs.",
+        : `Run fixed-issue-matrix-builder for ${slugs.join(", ")} using evidence, social, and source audit outputs.`,
       "",
       "## Blockers",
       "- None.",

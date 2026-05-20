@@ -1,32 +1,416 @@
 # Handoff — source-tier-validator — 2026-05-20
 
 ## What I Did
-Audited source tiers and claim anchors for roger-marshall, damon-anderson, jason-hart.
+Audited source tiers and claim anchors for aaron-cunningham, adam-hamilton, alaina-cunningham, allen-park, anne-parelkar, barb-wasinger, bobbi-dreiling, brandon-adams, cathy-hopkins, charlotte-ohara, chase-laporte, chris-mann, christy-cauble-davis, cindy-holscher, colin-mcroberts, craig-musser, craig-pallister, curt-vajnar, daniel-hawkins, david-vilaysing, derek-yarmer, dinah-sykes, doug-billings, eric-lund, erik-murray, ethan-corson, jayme-goetz, jeff-colyer, jennifer-day, joy-eakins, ken-brooks, ken-rahjes, kevin-latz, kris-kobach, lauren-reinhold, lorie-wood, mark-lane, marty-tuley, mason-ruder, michael-berges, michael-soetaert, michelle-cunningham, nathan-leiker, neal-younger, noah-taylor, pat-proctor, patrick-schmidt, philip-sarnecki, rebecca-herzog, ric-koehn, ron-wilson, ruth-ruder, sam-lane, sandy-jacobs, sandy-spidel-neumann, scott-braun, scott-schwab, sharilyn-ray, shaun-musil, stacy-rogers, steven-jacob, steven-johnson, toby-dougherty, tracey-mann, ty-masterson, vernon-ruder-jr, vicki-schmidt.
 
 ## Key Findings
-- roger-marshall: {"slug":"roger-marshall","sourceCount":573,"tierProblems":233,"invalidUrls":0,"internalOnly":23}
-- damon-anderson: {"slug":"damon-anderson","sourceCount":17,"tierProblems":3,"invalidUrls":0,"internalOnly":8}
-- jason-hart: {"slug":"jason-hart","sourceCount":260,"tierProblems":98,"invalidUrls":0,"internalOnly":15}
+- aaron-cunningham: {"slug":"aaron-cunningham","sourceCount":271,"tierProblems":175,"invalidUrls":0,"internalOnly":14}
+- adam-hamilton: {"slug":"adam-hamilton","sourceCount":9,"tierProblems":2,"invalidUrls":0,"internalOnly":7}
+- alaina-cunningham: {"slug":"alaina-cunningham","sourceCount":320,"tierProblems":218,"invalidUrls":0,"internalOnly":15}
+- allen-park: {"slug":"allen-park","sourceCount":180,"tierProblems":125,"invalidUrls":0,"internalOnly":13}
+- anne-parelkar: {"slug":"anne-parelkar","sourceCount":308,"tierProblems":198,"invalidUrls":0,"internalOnly":14}
+- barb-wasinger: {"slug":"barb-wasinger","sourceCount":284,"tierProblems":190,"invalidUrls":0,"internalOnly":18}
+- bobbi-dreiling: {"slug":"bobbi-dreiling","sourceCount":286,"tierProblems":194,"invalidUrls":0,"internalOnly":13}
+- brandon-adams: {"slug":"brandon-adams","sourceCount":8,"tierProblems":1,"invalidUrls":0,"internalOnly":7}
+- cathy-hopkins: {"slug":"cathy-hopkins","sourceCount":29,"tierProblems":2,"invalidUrls":0,"internalOnly":9}
+- charlotte-ohara: {"slug":"charlotte-ohara","sourceCount":120,"tierProblems":32,"invalidUrls":0,"internalOnly":18}
+- chase-laporte: {"slug":"chase-laporte","sourceCount":253,"tierProblems":170,"invalidUrls":0,"internalOnly":14}
+- chris-mann: {"slug":"chris-mann","sourceCount":273,"tierProblems":191,"invalidUrls":0,"internalOnly":12}
+- christy-cauble-davis: {"slug":"christy-cauble-davis","sourceCount":230,"tierProblems":141,"invalidUrls":0,"internalOnly":13}
+- cindy-holscher: {"slug":"cindy-holscher","sourceCount":266,"tierProblems":187,"invalidUrls":0,"internalOnly":13}
+- colin-mcroberts: {"slug":"colin-mcroberts","sourceCount":172,"tierProblems":71,"invalidUrls":0,"internalOnly":14}
+- craig-musser: {"slug":"craig-musser","sourceCount":75,"tierProblems":24,"invalidUrls":0,"internalOnly":13}
+- craig-pallister: {"slug":"craig-pallister","sourceCount":174,"tierProblems":130,"invalidUrls":0,"internalOnly":13}
+- curt-vajnar: {"slug":"curt-vajnar","sourceCount":181,"tierProblems":142,"invalidUrls":0,"internalOnly":10}
+- daniel-hawkins: {"slug":"daniel-hawkins","sourceCount":100,"tierProblems":46,"invalidUrls":0,"internalOnly":15}
+- david-vilaysing: {"slug":"david-vilaysing","sourceCount":267,"tierProblems":194,"invalidUrls":0,"internalOnly":14}
+- derek-yarmer: {"slug":"derek-yarmer","sourceCount":183,"tierProblems":137,"invalidUrls":0,"internalOnly":12}
+- dinah-sykes: {"slug":"dinah-sykes","sourceCount":163,"tierProblems":88,"invalidUrls":0,"internalOnly":16}
+- doug-billings: {"slug":"doug-billings","sourceCount":12,"tierProblems":3,"invalidUrls":0,"internalOnly":9}
+- eric-lund: {"slug":"eric-lund","sourceCount":8,"tierProblems":1,"invalidUrls":0,"internalOnly":7}
+- erik-murray: {"slug":"erik-murray","sourceCount":238,"tierProblems":144,"invalidUrls":0,"internalOnly":13}
+- ethan-corson: {"slug":"ethan-corson","sourceCount":266,"tierProblems":180,"invalidUrls":0,"internalOnly":13}
+- jayme-goetz: {"slug":"jayme-goetz","sourceCount":181,"tierProblems":131,"invalidUrls":0,"internalOnly":12}
+- jeff-colyer: {"slug":"jeff-colyer","sourceCount":452,"tierProblems":347,"invalidUrls":0,"internalOnly":14}
+- jennifer-day: {"slug":"jennifer-day","sourceCount":118,"tierProblems":55,"invalidUrls":0,"internalOnly":12}
+- joy-eakins: {"slug":"joy-eakins","sourceCount":275,"tierProblems":207,"invalidUrls":0,"internalOnly":11}
+- ken-brooks: {"slug":"ken-brooks","sourceCount":213,"tierProblems":156,"invalidUrls":0,"internalOnly":13}
+- ken-rahjes: {"slug":"ken-rahjes","sourceCount":104,"tierProblems":62,"invalidUrls":0,"internalOnly":12}
+- kevin-latz: {"slug":"kevin-latz","sourceCount":9,"tierProblems":1,"invalidUrls":0,"internalOnly":7}
+- kris-kobach: {"slug":"kris-kobach","sourceCount":502,"tierProblems":347,"invalidUrls":0,"internalOnly":18}
+- lauren-reinhold: {"slug":"lauren-reinhold","sourceCount":171,"tierProblems":72,"invalidUrls":0,"internalOnly":14}
+- lorie-wood: {"slug":"lorie-wood","sourceCount":17,"tierProblems":3,"invalidUrls":0,"internalOnly":8}
+- mark-lane: {"slug":"mark-lane","sourceCount":8,"tierProblems":1,"invalidUrls":0,"internalOnly":7}
+- marty-tuley: {"slug":"marty-tuley","sourceCount":142,"tierProblems":92,"invalidUrls":0,"internalOnly":12}
+- mason-ruder: {"slug":"mason-ruder","sourceCount":419,"tierProblems":282,"invalidUrls":0,"internalOnly":17}
+- michael-berges: {"slug":"michael-berges","sourceCount":53,"tierProblems":1,"invalidUrls":0,"internalOnly":12}
+- michael-soetaert: {"slug":"michael-soetaert","sourceCount":273,"tierProblems":145,"invalidUrls":0,"internalOnly":13}
+- michelle-cunningham: {"slug":"michelle-cunningham","sourceCount":8,"tierProblems":1,"invalidUrls":0,"internalOnly":7}
+- nathan-leiker: {"slug":"nathan-leiker","sourceCount":278,"tierProblems":193,"invalidUrls":0,"internalOnly":12}
+- neal-younger: {"slug":"neal-younger","sourceCount":277,"tierProblems":197,"invalidUrls":0,"internalOnly":13}
+- noah-taylor: {"slug":"noah-taylor","sourceCount":38,"tierProblems":1,"invalidUrls":0,"internalOnly":8}
+- pat-proctor: {"slug":"pat-proctor","sourceCount":96,"tierProblems":50,"invalidUrls":0,"internalOnly":11}
+- patrick-schmidt: {"slug":"patrick-schmidt","sourceCount":249,"tierProblems":138,"invalidUrls":0,"internalOnly":13}
+- philip-sarnecki: {"slug":"philip-sarnecki","sourceCount":274,"tierProblems":208,"invalidUrls":0,"internalOnly":11}
+- rebecca-herzog: {"slug":"rebecca-herzog","sourceCount":266,"tierProblems":180,"invalidUrls":0,"internalOnly":13}
+- ric-koehn: {"slug":"ric-koehn","sourceCount":8,"tierProblems":1,"invalidUrls":0,"internalOnly":7}
+- ron-wilson: {"slug":"ron-wilson","sourceCount":175,"tierProblems":127,"invalidUrls":0,"internalOnly":13}
+- ruth-ruder: {"slug":"ruth-ruder","sourceCount":246,"tierProblems":178,"invalidUrls":0,"internalOnly":14}
+- sam-lane: {"slug":"sam-lane","sourceCount":101,"tierProblems":52,"invalidUrls":0,"internalOnly":12}
+- sandy-jacobs: {"slug":"sandy-jacobs","sourceCount":279,"tierProblems":191,"invalidUrls":0,"internalOnly":14}
+- sandy-spidel-neumann: {"slug":"sandy-spidel-neumann","sourceCount":228,"tierProblems":123,"invalidUrls":0,"internalOnly":13}
+- scott-braun: {"slug":"scott-braun","sourceCount":272,"tierProblems":186,"invalidUrls":0,"internalOnly":12}
+- scott-schwab: {"slug":"scott-schwab","sourceCount":424,"tierProblems":312,"invalidUrls":0,"internalOnly":20}
+- sharilyn-ray: {"slug":"sharilyn-ray","sourceCount":8,"tierProblems":1,"invalidUrls":0,"internalOnly":7}
+- shaun-musil: {"slug":"shaun-musil","sourceCount":277,"tierProblems":195,"invalidUrls":0,"internalOnly":14}
+- stacy-rogers: {"slug":"stacy-rogers","sourceCount":260,"tierProblems":198,"invalidUrls":0,"internalOnly":11}
+- steven-jacob: {"slug":"steven-jacob","sourceCount":8,"tierProblems":1,"invalidUrls":0,"internalOnly":7}
+- steven-johnson: {"slug":"steven-johnson","sourceCount":22,"tierProblems":2,"invalidUrls":0,"internalOnly":11}
+- toby-dougherty: {"slug":"toby-dougherty","sourceCount":278,"tierProblems":183,"invalidUrls":0,"internalOnly":13}
+- tracey-mann: {"slug":"tracey-mann","sourceCount":308,"tierProblems":177,"invalidUrls":0,"internalOnly":15}
+- ty-masterson: {"slug":"ty-masterson","sourceCount":431,"tierProblems":293,"invalidUrls":0,"internalOnly":14}
+- vernon-ruder-jr: {"slug":"vernon-ruder-jr","sourceCount":325,"tierProblems":229,"invalidUrls":0,"internalOnly":15}
+- vicki-schmidt: {"slug":"vicki-schmidt","sourceCount":374,"tierProblems":264,"invalidUrls":0,"internalOnly":19}
 
 ## Files Created or Modified
-- memory/candidates/roger-marshall/source-audit.json
-- memory/candidates/roger-marshall/source-audit.md
-- memory/candidates/roger-marshall/agent-work/source-tier-validator/run-state.json
-- memory/candidates/roger-marshall/agent-work/source-tier-validator/notes.md
-- memory/candidates/roger-marshall/agent-work/source-tier-validator/handoff.md
-- memory/candidates/damon-anderson/source-audit.json
-- memory/candidates/damon-anderson/source-audit.md
-- memory/candidates/damon-anderson/agent-work/source-tier-validator/run-state.json
-- memory/candidates/damon-anderson/agent-work/source-tier-validator/notes.md
-- memory/candidates/damon-anderson/agent-work/source-tier-validator/handoff.md
-- memory/candidates/jason-hart/source-audit.json
-- memory/candidates/jason-hart/source-audit.md
-- memory/candidates/jason-hart/agent-work/source-tier-validator/run-state.json
-- memory/candidates/jason-hart/agent-work/source-tier-validator/notes.md
-- memory/candidates/jason-hart/agent-work/source-tier-validator/handoff.md
+- memory/candidates/aaron-cunningham/source-audit.json
+- memory/candidates/aaron-cunningham/source-audit.md
+- memory/candidates/aaron-cunningham/agent-work/source-tier-validator/run-state.json
+- memory/candidates/aaron-cunningham/agent-work/source-tier-validator/notes.md
+- memory/candidates/aaron-cunningham/agent-work/source-tier-validator/handoff.md
+- memory/candidates/adam-hamilton/source-audit.json
+- memory/candidates/adam-hamilton/source-audit.md
+- memory/candidates/adam-hamilton/agent-work/source-tier-validator/run-state.json
+- memory/candidates/adam-hamilton/agent-work/source-tier-validator/notes.md
+- memory/candidates/adam-hamilton/agent-work/source-tier-validator/handoff.md
+- memory/candidates/alaina-cunningham/source-audit.json
+- memory/candidates/alaina-cunningham/source-audit.md
+- memory/candidates/alaina-cunningham/agent-work/source-tier-validator/run-state.json
+- memory/candidates/alaina-cunningham/agent-work/source-tier-validator/notes.md
+- memory/candidates/alaina-cunningham/agent-work/source-tier-validator/handoff.md
+- memory/candidates/allen-park/source-audit.json
+- memory/candidates/allen-park/source-audit.md
+- memory/candidates/allen-park/agent-work/source-tier-validator/run-state.json
+- memory/candidates/allen-park/agent-work/source-tier-validator/notes.md
+- memory/candidates/allen-park/agent-work/source-tier-validator/handoff.md
+- memory/candidates/anne-parelkar/source-audit.json
+- memory/candidates/anne-parelkar/source-audit.md
+- memory/candidates/anne-parelkar/agent-work/source-tier-validator/run-state.json
+- memory/candidates/anne-parelkar/agent-work/source-tier-validator/notes.md
+- memory/candidates/anne-parelkar/agent-work/source-tier-validator/handoff.md
+- memory/candidates/barb-wasinger/source-audit.json
+- memory/candidates/barb-wasinger/source-audit.md
+- memory/candidates/barb-wasinger/agent-work/source-tier-validator/run-state.json
+- memory/candidates/barb-wasinger/agent-work/source-tier-validator/notes.md
+- memory/candidates/barb-wasinger/agent-work/source-tier-validator/handoff.md
+- memory/candidates/bobbi-dreiling/source-audit.json
+- memory/candidates/bobbi-dreiling/source-audit.md
+- memory/candidates/bobbi-dreiling/agent-work/source-tier-validator/run-state.json
+- memory/candidates/bobbi-dreiling/agent-work/source-tier-validator/notes.md
+- memory/candidates/bobbi-dreiling/agent-work/source-tier-validator/handoff.md
+- memory/candidates/brandon-adams/source-audit.json
+- memory/candidates/brandon-adams/source-audit.md
+- memory/candidates/brandon-adams/agent-work/source-tier-validator/run-state.json
+- memory/candidates/brandon-adams/agent-work/source-tier-validator/notes.md
+- memory/candidates/brandon-adams/agent-work/source-tier-validator/handoff.md
+- memory/candidates/cathy-hopkins/source-audit.json
+- memory/candidates/cathy-hopkins/source-audit.md
+- memory/candidates/cathy-hopkins/agent-work/source-tier-validator/run-state.json
+- memory/candidates/cathy-hopkins/agent-work/source-tier-validator/notes.md
+- memory/candidates/cathy-hopkins/agent-work/source-tier-validator/handoff.md
+- memory/candidates/charlotte-ohara/source-audit.json
+- memory/candidates/charlotte-ohara/source-audit.md
+- memory/candidates/charlotte-ohara/agent-work/source-tier-validator/run-state.json
+- memory/candidates/charlotte-ohara/agent-work/source-tier-validator/notes.md
+- memory/candidates/charlotte-ohara/agent-work/source-tier-validator/handoff.md
+- memory/candidates/chase-laporte/source-audit.json
+- memory/candidates/chase-laporte/source-audit.md
+- memory/candidates/chase-laporte/agent-work/source-tier-validator/run-state.json
+- memory/candidates/chase-laporte/agent-work/source-tier-validator/notes.md
+- memory/candidates/chase-laporte/agent-work/source-tier-validator/handoff.md
+- memory/candidates/chris-mann/source-audit.json
+- memory/candidates/chris-mann/source-audit.md
+- memory/candidates/chris-mann/agent-work/source-tier-validator/run-state.json
+- memory/candidates/chris-mann/agent-work/source-tier-validator/notes.md
+- memory/candidates/chris-mann/agent-work/source-tier-validator/handoff.md
+- memory/candidates/christy-cauble-davis/source-audit.json
+- memory/candidates/christy-cauble-davis/source-audit.md
+- memory/candidates/christy-cauble-davis/agent-work/source-tier-validator/run-state.json
+- memory/candidates/christy-cauble-davis/agent-work/source-tier-validator/notes.md
+- memory/candidates/christy-cauble-davis/agent-work/source-tier-validator/handoff.md
+- memory/candidates/cindy-holscher/source-audit.json
+- memory/candidates/cindy-holscher/source-audit.md
+- memory/candidates/cindy-holscher/agent-work/source-tier-validator/run-state.json
+- memory/candidates/cindy-holscher/agent-work/source-tier-validator/notes.md
+- memory/candidates/cindy-holscher/agent-work/source-tier-validator/handoff.md
+- memory/candidates/colin-mcroberts/source-audit.json
+- memory/candidates/colin-mcroberts/source-audit.md
+- memory/candidates/colin-mcroberts/agent-work/source-tier-validator/run-state.json
+- memory/candidates/colin-mcroberts/agent-work/source-tier-validator/notes.md
+- memory/candidates/colin-mcroberts/agent-work/source-tier-validator/handoff.md
+- memory/candidates/craig-musser/source-audit.json
+- memory/candidates/craig-musser/source-audit.md
+- memory/candidates/craig-musser/agent-work/source-tier-validator/run-state.json
+- memory/candidates/craig-musser/agent-work/source-tier-validator/notes.md
+- memory/candidates/craig-musser/agent-work/source-tier-validator/handoff.md
+- memory/candidates/craig-pallister/source-audit.json
+- memory/candidates/craig-pallister/source-audit.md
+- memory/candidates/craig-pallister/agent-work/source-tier-validator/run-state.json
+- memory/candidates/craig-pallister/agent-work/source-tier-validator/notes.md
+- memory/candidates/craig-pallister/agent-work/source-tier-validator/handoff.md
+- memory/candidates/curt-vajnar/source-audit.json
+- memory/candidates/curt-vajnar/source-audit.md
+- memory/candidates/curt-vajnar/agent-work/source-tier-validator/run-state.json
+- memory/candidates/curt-vajnar/agent-work/source-tier-validator/notes.md
+- memory/candidates/curt-vajnar/agent-work/source-tier-validator/handoff.md
+- memory/candidates/daniel-hawkins/source-audit.json
+- memory/candidates/daniel-hawkins/source-audit.md
+- memory/candidates/daniel-hawkins/agent-work/source-tier-validator/run-state.json
+- memory/candidates/daniel-hawkins/agent-work/source-tier-validator/notes.md
+- memory/candidates/daniel-hawkins/agent-work/source-tier-validator/handoff.md
+- memory/candidates/david-vilaysing/source-audit.json
+- memory/candidates/david-vilaysing/source-audit.md
+- memory/candidates/david-vilaysing/agent-work/source-tier-validator/run-state.json
+- memory/candidates/david-vilaysing/agent-work/source-tier-validator/notes.md
+- memory/candidates/david-vilaysing/agent-work/source-tier-validator/handoff.md
+- memory/candidates/derek-yarmer/source-audit.json
+- memory/candidates/derek-yarmer/source-audit.md
+- memory/candidates/derek-yarmer/agent-work/source-tier-validator/run-state.json
+- memory/candidates/derek-yarmer/agent-work/source-tier-validator/notes.md
+- memory/candidates/derek-yarmer/agent-work/source-tier-validator/handoff.md
+- memory/candidates/dinah-sykes/source-audit.json
+- memory/candidates/dinah-sykes/source-audit.md
+- memory/candidates/dinah-sykes/agent-work/source-tier-validator/run-state.json
+- memory/candidates/dinah-sykes/agent-work/source-tier-validator/notes.md
+- memory/candidates/dinah-sykes/agent-work/source-tier-validator/handoff.md
+- memory/candidates/doug-billings/source-audit.json
+- memory/candidates/doug-billings/source-audit.md
+- memory/candidates/doug-billings/agent-work/source-tier-validator/run-state.json
+- memory/candidates/doug-billings/agent-work/source-tier-validator/notes.md
+- memory/candidates/doug-billings/agent-work/source-tier-validator/handoff.md
+- memory/candidates/eric-lund/source-audit.json
+- memory/candidates/eric-lund/source-audit.md
+- memory/candidates/eric-lund/agent-work/source-tier-validator/run-state.json
+- memory/candidates/eric-lund/agent-work/source-tier-validator/notes.md
+- memory/candidates/eric-lund/agent-work/source-tier-validator/handoff.md
+- memory/candidates/erik-murray/source-audit.json
+- memory/candidates/erik-murray/source-audit.md
+- memory/candidates/erik-murray/agent-work/source-tier-validator/run-state.json
+- memory/candidates/erik-murray/agent-work/source-tier-validator/notes.md
+- memory/candidates/erik-murray/agent-work/source-tier-validator/handoff.md
+- memory/candidates/ethan-corson/source-audit.json
+- memory/candidates/ethan-corson/source-audit.md
+- memory/candidates/ethan-corson/agent-work/source-tier-validator/run-state.json
+- memory/candidates/ethan-corson/agent-work/source-tier-validator/notes.md
+- memory/candidates/ethan-corson/agent-work/source-tier-validator/handoff.md
+- memory/candidates/jayme-goetz/source-audit.json
+- memory/candidates/jayme-goetz/source-audit.md
+- memory/candidates/jayme-goetz/agent-work/source-tier-validator/run-state.json
+- memory/candidates/jayme-goetz/agent-work/source-tier-validator/notes.md
+- memory/candidates/jayme-goetz/agent-work/source-tier-validator/handoff.md
+- memory/candidates/jeff-colyer/source-audit.json
+- memory/candidates/jeff-colyer/source-audit.md
+- memory/candidates/jeff-colyer/agent-work/source-tier-validator/run-state.json
+- memory/candidates/jeff-colyer/agent-work/source-tier-validator/notes.md
+- memory/candidates/jeff-colyer/agent-work/source-tier-validator/handoff.md
+- memory/candidates/jennifer-day/source-audit.json
+- memory/candidates/jennifer-day/source-audit.md
+- memory/candidates/jennifer-day/agent-work/source-tier-validator/run-state.json
+- memory/candidates/jennifer-day/agent-work/source-tier-validator/notes.md
+- memory/candidates/jennifer-day/agent-work/source-tier-validator/handoff.md
+- memory/candidates/joy-eakins/source-audit.json
+- memory/candidates/joy-eakins/source-audit.md
+- memory/candidates/joy-eakins/agent-work/source-tier-validator/run-state.json
+- memory/candidates/joy-eakins/agent-work/source-tier-validator/notes.md
+- memory/candidates/joy-eakins/agent-work/source-tier-validator/handoff.md
+- memory/candidates/ken-brooks/source-audit.json
+- memory/candidates/ken-brooks/source-audit.md
+- memory/candidates/ken-brooks/agent-work/source-tier-validator/run-state.json
+- memory/candidates/ken-brooks/agent-work/source-tier-validator/notes.md
+- memory/candidates/ken-brooks/agent-work/source-tier-validator/handoff.md
+- memory/candidates/ken-rahjes/source-audit.json
+- memory/candidates/ken-rahjes/source-audit.md
+- memory/candidates/ken-rahjes/agent-work/source-tier-validator/run-state.json
+- memory/candidates/ken-rahjes/agent-work/source-tier-validator/notes.md
+- memory/candidates/ken-rahjes/agent-work/source-tier-validator/handoff.md
+- memory/candidates/kevin-latz/source-audit.json
+- memory/candidates/kevin-latz/source-audit.md
+- memory/candidates/kevin-latz/agent-work/source-tier-validator/run-state.json
+- memory/candidates/kevin-latz/agent-work/source-tier-validator/notes.md
+- memory/candidates/kevin-latz/agent-work/source-tier-validator/handoff.md
+- memory/candidates/kris-kobach/source-audit.json
+- memory/candidates/kris-kobach/source-audit.md
+- memory/candidates/kris-kobach/agent-work/source-tier-validator/run-state.json
+- memory/candidates/kris-kobach/agent-work/source-tier-validator/notes.md
+- memory/candidates/kris-kobach/agent-work/source-tier-validator/handoff.md
+- memory/candidates/lauren-reinhold/source-audit.json
+- memory/candidates/lauren-reinhold/source-audit.md
+- memory/candidates/lauren-reinhold/agent-work/source-tier-validator/run-state.json
+- memory/candidates/lauren-reinhold/agent-work/source-tier-validator/notes.md
+- memory/candidates/lauren-reinhold/agent-work/source-tier-validator/handoff.md
+- memory/candidates/lorie-wood/source-audit.json
+- memory/candidates/lorie-wood/source-audit.md
+- memory/candidates/lorie-wood/agent-work/source-tier-validator/run-state.json
+- memory/candidates/lorie-wood/agent-work/source-tier-validator/notes.md
+- memory/candidates/lorie-wood/agent-work/source-tier-validator/handoff.md
+- memory/candidates/mark-lane/source-audit.json
+- memory/candidates/mark-lane/source-audit.md
+- memory/candidates/mark-lane/agent-work/source-tier-validator/run-state.json
+- memory/candidates/mark-lane/agent-work/source-tier-validator/notes.md
+- memory/candidates/mark-lane/agent-work/source-tier-validator/handoff.md
+- memory/candidates/marty-tuley/source-audit.json
+- memory/candidates/marty-tuley/source-audit.md
+- memory/candidates/marty-tuley/agent-work/source-tier-validator/run-state.json
+- memory/candidates/marty-tuley/agent-work/source-tier-validator/notes.md
+- memory/candidates/marty-tuley/agent-work/source-tier-validator/handoff.md
+- memory/candidates/mason-ruder/source-audit.json
+- memory/candidates/mason-ruder/source-audit.md
+- memory/candidates/mason-ruder/agent-work/source-tier-validator/run-state.json
+- memory/candidates/mason-ruder/agent-work/source-tier-validator/notes.md
+- memory/candidates/mason-ruder/agent-work/source-tier-validator/handoff.md
+- memory/candidates/michael-berges/source-audit.json
+- memory/candidates/michael-berges/source-audit.md
+- memory/candidates/michael-berges/agent-work/source-tier-validator/run-state.json
+- memory/candidates/michael-berges/agent-work/source-tier-validator/notes.md
+- memory/candidates/michael-berges/agent-work/source-tier-validator/handoff.md
+- memory/candidates/michael-soetaert/source-audit.json
+- memory/candidates/michael-soetaert/source-audit.md
+- memory/candidates/michael-soetaert/agent-work/source-tier-validator/run-state.json
+- memory/candidates/michael-soetaert/agent-work/source-tier-validator/notes.md
+- memory/candidates/michael-soetaert/agent-work/source-tier-validator/handoff.md
+- memory/candidates/michelle-cunningham/source-audit.json
+- memory/candidates/michelle-cunningham/source-audit.md
+- memory/candidates/michelle-cunningham/agent-work/source-tier-validator/run-state.json
+- memory/candidates/michelle-cunningham/agent-work/source-tier-validator/notes.md
+- memory/candidates/michelle-cunningham/agent-work/source-tier-validator/handoff.md
+- memory/candidates/nathan-leiker/source-audit.json
+- memory/candidates/nathan-leiker/source-audit.md
+- memory/candidates/nathan-leiker/agent-work/source-tier-validator/run-state.json
+- memory/candidates/nathan-leiker/agent-work/source-tier-validator/notes.md
+- memory/candidates/nathan-leiker/agent-work/source-tier-validator/handoff.md
+- memory/candidates/neal-younger/source-audit.json
+- memory/candidates/neal-younger/source-audit.md
+- memory/candidates/neal-younger/agent-work/source-tier-validator/run-state.json
+- memory/candidates/neal-younger/agent-work/source-tier-validator/notes.md
+- memory/candidates/neal-younger/agent-work/source-tier-validator/handoff.md
+- memory/candidates/noah-taylor/source-audit.json
+- memory/candidates/noah-taylor/source-audit.md
+- memory/candidates/noah-taylor/agent-work/source-tier-validator/run-state.json
+- memory/candidates/noah-taylor/agent-work/source-tier-validator/notes.md
+- memory/candidates/noah-taylor/agent-work/source-tier-validator/handoff.md
+- memory/candidates/pat-proctor/source-audit.json
+- memory/candidates/pat-proctor/source-audit.md
+- memory/candidates/pat-proctor/agent-work/source-tier-validator/run-state.json
+- memory/candidates/pat-proctor/agent-work/source-tier-validator/notes.md
+- memory/candidates/pat-proctor/agent-work/source-tier-validator/handoff.md
+- memory/candidates/patrick-schmidt/source-audit.json
+- memory/candidates/patrick-schmidt/source-audit.md
+- memory/candidates/patrick-schmidt/agent-work/source-tier-validator/run-state.json
+- memory/candidates/patrick-schmidt/agent-work/source-tier-validator/notes.md
+- memory/candidates/patrick-schmidt/agent-work/source-tier-validator/handoff.md
+- memory/candidates/philip-sarnecki/source-audit.json
+- memory/candidates/philip-sarnecki/source-audit.md
+- memory/candidates/philip-sarnecki/agent-work/source-tier-validator/run-state.json
+- memory/candidates/philip-sarnecki/agent-work/source-tier-validator/notes.md
+- memory/candidates/philip-sarnecki/agent-work/source-tier-validator/handoff.md
+- memory/candidates/rebecca-herzog/source-audit.json
+- memory/candidates/rebecca-herzog/source-audit.md
+- memory/candidates/rebecca-herzog/agent-work/source-tier-validator/run-state.json
+- memory/candidates/rebecca-herzog/agent-work/source-tier-validator/notes.md
+- memory/candidates/rebecca-herzog/agent-work/source-tier-validator/handoff.md
+- memory/candidates/ric-koehn/source-audit.json
+- memory/candidates/ric-koehn/source-audit.md
+- memory/candidates/ric-koehn/agent-work/source-tier-validator/run-state.json
+- memory/candidates/ric-koehn/agent-work/source-tier-validator/notes.md
+- memory/candidates/ric-koehn/agent-work/source-tier-validator/handoff.md
+- memory/candidates/ron-wilson/source-audit.json
+- memory/candidates/ron-wilson/source-audit.md
+- memory/candidates/ron-wilson/agent-work/source-tier-validator/run-state.json
+- memory/candidates/ron-wilson/agent-work/source-tier-validator/notes.md
+- memory/candidates/ron-wilson/agent-work/source-tier-validator/handoff.md
+- memory/candidates/ruth-ruder/source-audit.json
+- memory/candidates/ruth-ruder/source-audit.md
+- memory/candidates/ruth-ruder/agent-work/source-tier-validator/run-state.json
+- memory/candidates/ruth-ruder/agent-work/source-tier-validator/notes.md
+- memory/candidates/ruth-ruder/agent-work/source-tier-validator/handoff.md
+- memory/candidates/sam-lane/source-audit.json
+- memory/candidates/sam-lane/source-audit.md
+- memory/candidates/sam-lane/agent-work/source-tier-validator/run-state.json
+- memory/candidates/sam-lane/agent-work/source-tier-validator/notes.md
+- memory/candidates/sam-lane/agent-work/source-tier-validator/handoff.md
+- memory/candidates/sandy-jacobs/source-audit.json
+- memory/candidates/sandy-jacobs/source-audit.md
+- memory/candidates/sandy-jacobs/agent-work/source-tier-validator/run-state.json
+- memory/candidates/sandy-jacobs/agent-work/source-tier-validator/notes.md
+- memory/candidates/sandy-jacobs/agent-work/source-tier-validator/handoff.md
+- memory/candidates/sandy-spidel-neumann/source-audit.json
+- memory/candidates/sandy-spidel-neumann/source-audit.md
+- memory/candidates/sandy-spidel-neumann/agent-work/source-tier-validator/run-state.json
+- memory/candidates/sandy-spidel-neumann/agent-work/source-tier-validator/notes.md
+- memory/candidates/sandy-spidel-neumann/agent-work/source-tier-validator/handoff.md
+- memory/candidates/scott-braun/source-audit.json
+- memory/candidates/scott-braun/source-audit.md
+- memory/candidates/scott-braun/agent-work/source-tier-validator/run-state.json
+- memory/candidates/scott-braun/agent-work/source-tier-validator/notes.md
+- memory/candidates/scott-braun/agent-work/source-tier-validator/handoff.md
+- memory/candidates/scott-schwab/source-audit.json
+- memory/candidates/scott-schwab/source-audit.md
+- memory/candidates/scott-schwab/agent-work/source-tier-validator/run-state.json
+- memory/candidates/scott-schwab/agent-work/source-tier-validator/notes.md
+- memory/candidates/scott-schwab/agent-work/source-tier-validator/handoff.md
+- memory/candidates/sharilyn-ray/source-audit.json
+- memory/candidates/sharilyn-ray/source-audit.md
+- memory/candidates/sharilyn-ray/agent-work/source-tier-validator/run-state.json
+- memory/candidates/sharilyn-ray/agent-work/source-tier-validator/notes.md
+- memory/candidates/sharilyn-ray/agent-work/source-tier-validator/handoff.md
+- memory/candidates/shaun-musil/source-audit.json
+- memory/candidates/shaun-musil/source-audit.md
+- memory/candidates/shaun-musil/agent-work/source-tier-validator/run-state.json
+- memory/candidates/shaun-musil/agent-work/source-tier-validator/notes.md
+- memory/candidates/shaun-musil/agent-work/source-tier-validator/handoff.md
+- memory/candidates/stacy-rogers/source-audit.json
+- memory/candidates/stacy-rogers/source-audit.md
+- memory/candidates/stacy-rogers/agent-work/source-tier-validator/run-state.json
+- memory/candidates/stacy-rogers/agent-work/source-tier-validator/notes.md
+- memory/candidates/stacy-rogers/agent-work/source-tier-validator/handoff.md
+- memory/candidates/steven-jacob/source-audit.json
+- memory/candidates/steven-jacob/source-audit.md
+- memory/candidates/steven-jacob/agent-work/source-tier-validator/run-state.json
+- memory/candidates/steven-jacob/agent-work/source-tier-validator/notes.md
+- memory/candidates/steven-jacob/agent-work/source-tier-validator/handoff.md
+- memory/candidates/steven-johnson/source-audit.json
+- memory/candidates/steven-johnson/source-audit.md
+- memory/candidates/steven-johnson/agent-work/source-tier-validator/run-state.json
+- memory/candidates/steven-johnson/agent-work/source-tier-validator/notes.md
+- memory/candidates/steven-johnson/agent-work/source-tier-validator/handoff.md
+- memory/candidates/toby-dougherty/source-audit.json
+- memory/candidates/toby-dougherty/source-audit.md
+- memory/candidates/toby-dougherty/agent-work/source-tier-validator/run-state.json
+- memory/candidates/toby-dougherty/agent-work/source-tier-validator/notes.md
+- memory/candidates/toby-dougherty/agent-work/source-tier-validator/handoff.md
+- memory/candidates/tracey-mann/source-audit.json
+- memory/candidates/tracey-mann/source-audit.md
+- memory/candidates/tracey-mann/agent-work/source-tier-validator/run-state.json
+- memory/candidates/tracey-mann/agent-work/source-tier-validator/notes.md
+- memory/candidates/tracey-mann/agent-work/source-tier-validator/handoff.md
+- memory/candidates/ty-masterson/source-audit.json
+- memory/candidates/ty-masterson/source-audit.md
+- memory/candidates/ty-masterson/agent-work/source-tier-validator/run-state.json
+- memory/candidates/ty-masterson/agent-work/source-tier-validator/notes.md
+- memory/candidates/ty-masterson/agent-work/source-tier-validator/handoff.md
+- memory/candidates/vernon-ruder-jr/source-audit.json
+- memory/candidates/vernon-ruder-jr/source-audit.md
+- memory/candidates/vernon-ruder-jr/agent-work/source-tier-validator/run-state.json
+- memory/candidates/vernon-ruder-jr/agent-work/source-tier-validator/notes.md
+- memory/candidates/vernon-ruder-jr/agent-work/source-tier-validator/handoff.md
+- memory/candidates/vicki-schmidt/source-audit.json
+- memory/candidates/vicki-schmidt/source-audit.md
+- memory/candidates/vicki-schmidt/agent-work/source-tier-validator/run-state.json
+- memory/candidates/vicki-schmidt/agent-work/source-tier-validator/notes.md
+- memory/candidates/vicki-schmidt/agent-work/source-tier-validator/handoff.md
 
 ## What the Next Task Should Do
-Run fixed-issue-matrix-builder for roger-marshall, damon-anderson, and jason-hart using evidence, social, and source audit outputs.
+Run fixed-issue-matrix-builder for aaron-cunningham, adam-hamilton, alaina-cunningham, allen-park, anne-parelkar, barb-wasinger, bobbi-dreiling, brandon-adams, cathy-hopkins, charlotte-ohara, chase-laporte, chris-mann, christy-cauble-davis, cindy-holscher, colin-mcroberts, craig-musser, craig-pallister, curt-vajnar, daniel-hawkins, david-vilaysing, derek-yarmer, dinah-sykes, doug-billings, eric-lund, erik-murray, ethan-corson, jayme-goetz, jeff-colyer, jennifer-day, joy-eakins, ken-brooks, ken-rahjes, kevin-latz, kris-kobach, lauren-reinhold, lorie-wood, mark-lane, marty-tuley, mason-ruder, michael-berges, michael-soetaert, michelle-cunningham, nathan-leiker, neal-younger, noah-taylor, pat-proctor, patrick-schmidt, philip-sarnecki, rebecca-herzog, ric-koehn, ron-wilson, ruth-ruder, sam-lane, sandy-jacobs, sandy-spidel-neumann, scott-braun, scott-schwab, sharilyn-ray, shaun-musil, stacy-rogers, steven-jacob, steven-johnson, toby-dougherty, tracey-mann, ty-masterson, vernon-ruder-jr, vicki-schmidt using evidence, social, and source audit outputs.
 
 ## Blockers
 - None.

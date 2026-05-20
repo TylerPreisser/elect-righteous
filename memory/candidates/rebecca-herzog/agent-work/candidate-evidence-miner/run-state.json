@@ -1,0 +1,41 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "rebecca-herzog",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/rebecca-herzog/in-their-own-words.md",
+    "memory/candidates/rebecca-herzog/raw-dump-v2.md",
+    "memory/candidates/rebecca-herzog/raw-dump.md",
+    "memory/candidates/rebecca-herzog/site-profile.md",
+    "memory/candidates/rebecca-herzog/sleuth-pass.md",
+    "memory/candidates/rebecca-herzog/social-harvest.md",
+    "memory/candidates/rebecca-herzog/v2-issues.yaml",
+    "reports/ellis-county-elected-officials-deep-investigation.md",
+    "reports/faith-church-investigation-2026-03-31.md",
+    "reports/hays-kansas-election-finder-2026-03-30.md",
+    "reports/senate-challengers-local-officials-complete.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/rebecca-herzog.ts"
+  ],
+  "files_written": [
+    "memory/candidates/rebecca-herzog/evidence-matrix-raw.json",
+    "memory/candidates/rebecca-herzog/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/rebecca-herzog/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/rebecca-herzog/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/rebecca-herzog/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs rebecca-herzog"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for rebecca-herzog."
+  ],
+  "handoff_summary": "Extracted 4389 raw evidence rows for rebecca-herzog."
+}

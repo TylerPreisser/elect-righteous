@@ -1,0 +1,42 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "patrick-schmidt",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/patrick-schmidt/in-their-own-words.md",
+    "memory/candidates/patrick-schmidt/raw-dump-v2.md",
+    "memory/candidates/patrick-schmidt/raw-dump.md",
+    "memory/candidates/patrick-schmidt/site-profile.md",
+    "memory/candidates/patrick-schmidt/sleuth-pass.md",
+    "memory/candidates/patrick-schmidt/social-harvest.md",
+    "memory/candidates/patrick-schmidt/v2-issues.yaml",
+    "reports/2026-kansas-us-senate-race-investigation.md",
+    "reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md",
+    "reports/roger-marshall-complete-dossier.md",
+    "reports/senate-challengers-local-officials-complete.md",
+    "reports/ty-masterson-complete-dossier.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/patrick-schmidt.ts"
+  ],
+  "files_written": [
+    "memory/candidates/patrick-schmidt/evidence-matrix-raw.json",
+    "memory/candidates/patrick-schmidt/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/patrick-schmidt/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/patrick-schmidt/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/patrick-schmidt/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs patrick-schmidt"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for patrick-schmidt."
+  ],
+  "handoff_summary": "Extracted 9914 raw evidence rows for patrick-schmidt."
+}

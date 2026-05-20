@@ -1,0 +1,42 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "joy-eakins",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/joy-eakins/in-their-own-words.md",
+    "memory/candidates/joy-eakins/raw-dump-v2.md",
+    "memory/candidates/joy-eakins/raw-dump.md",
+    "memory/candidates/joy-eakins/site-profile.md",
+    "memory/candidates/joy-eakins/sleuth-pass.md",
+    "memory/candidates/joy-eakins/social-harvest.md",
+    "memory/candidates/joy-eakins/v2-issues.yaml",
+    "reports/governor-2026-all-remaining-candidates-complete.md",
+    "reports/jeff-colyer-complete-dossier.md",
+    "reports/scott-schwab-complete-dossier.md",
+    "reports/ty-masterson-complete-dossier.md",
+    "reports/vicki-schmidt-complete-dossier.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/joy-eakins.ts"
+  ],
+  "files_written": [
+    "memory/candidates/joy-eakins/evidence-matrix-raw.json",
+    "memory/candidates/joy-eakins/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/joy-eakins/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/joy-eakins/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/joy-eakins/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs joy-eakins"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for joy-eakins."
+  ],
+  "handoff_summary": "Extracted 7795 raw evidence rows for joy-eakins."
+}

@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "sharilyn-ray",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/sharilyn-ray/evidence-matrix-raw.json",
+    "memory/candidates/sharilyn-ray/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/sharilyn-ray/evidence-matrix.json",
+    "memory/candidates/sharilyn-ray/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/sharilyn-ray/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/sharilyn-ray/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs sharilyn-ray"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for sharilyn-ray.",
+    "Run source-tier-validator for sharilyn-ray."
+  ],
+  "handoff_summary": "Built final evidence matrix for sharilyn-ray: 410 raw rows to 143 deduplicated rows."
+}

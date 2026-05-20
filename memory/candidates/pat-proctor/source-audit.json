@@ -1,0 +1,3071 @@
+{
+  "candidateSlug": "pat-proctor",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 96,
+  "sources": [
+    {
+      "sourceId": "src-pat-proctor-0001",
+      "url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:521",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-pat-proctor-00424",
+        "em-pat-proctor-01009"
+      ],
+      "claimsAnchored": [
+        "[Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)",
+        "\"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0002",
+      "url": "https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt",
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:485",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography",
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-pat-proctor-00023",
+        "em-pat-proctor-00134"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt\",",
+        "HB 2453 roll call: https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0003",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf",
+      "sourceFile": "ui/src/data/candidates.ts:27414",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 6,
+      "rowIds": [
+        "em-pat-proctor-00032",
+        "em-pat-proctor-00168",
+        "em-pat-proctor-00174",
+        "em-pat-proctor-00525",
+        "em-pat-proctor-00125",
+        "em-pat-proctor-00086"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf\"",
+        "2026 filing PDF: [SW04PP_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf)",
+        "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf",
+        "[SW04PP_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf)",
+        "KPDC Proctor January 2026 report: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0004",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/HB2453/history/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:127",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-pat-proctor-00051",
+        "em-pat-proctor-00133"
+      ],
+      "claimsAnchored": [
+        "URLs: https://www.kslegislature.gov/b2025_26/bills/HB2453/history/ and https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt",
+        "HB 2453 history: https://www.kslegislature.gov/b2025_26/bills/HB2453/history/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0005",
+      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:264",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-pat-proctor-00120",
+        "em-pat-proctor-00035",
+        "em-pat-proctor-00542"
+      ],
+      "claimsAnchored": [
+        "Kansas Secretary of State candidate information: https://www.sos.ks.gov/elections/candidate-information.html"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0006",
+      "url": "https://sos.ks.gov/elections/important-election-dates.html",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:265",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00121"
+      ],
+      "claimsAnchored": [
+        "Kansas Secretary of State important dates: https://sos.ks.gov/elections/important-election-dates.html"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0007",
+      "url": "https://www.kslegislature.gov/b2025_26/resolutions/HCR5004/history/?filter=votes&per_page=20",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:275",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00131"
+      ],
+      "claimsAnchored": [
+        "HCR 5004 vote history: https://www.kslegislature.gov/b2025_26/resolutions/HCR5004/history/?filter=votes&per_page=20"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0008",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/HB2106/history/?filter=votes&per_page=20",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:280",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00136"
+      ],
+      "claimsAnchored": [
+        "HB 2106 vote history: https://www.kslegislature.gov/b2025_26/bills/HB2106/history/?filter=votes&per_page=20"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0009",
+      "url": "https://www.kslegislature.gov/b2025_26/resolutions/HR6016/history/?filter=votes&per_page=20",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:283",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00139"
+      ],
+      "claimsAnchored": [
+        "HR 6016 vote history: https://www.kslegislature.gov/b2025_26/resolutions/HR6016/history/?filter=votes&per_page=20"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0010",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:27",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-pat-proctor-00167",
+        "em-pat-proctor-00524",
+        "em-pat-proctor-00124"
+      ],
+      "claimsAnchored": [
+        "Kansas Ethics filing index: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
+        "[SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
+        "KPDC statewide 2026 index: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0011",
+      "url": "https://www.eac.gov/about/board_of_advisors",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:272",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00128"
+      ],
+      "claimsAnchored": [
+        "EAC Board of Advisors: https://www.eac.gov/about/board_of_advisors"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0012",
+      "url": "https://www.eac.gov/sites/default/files/2026-02/BOA_Roster_for_Website_022426.pdf",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:273",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-pat-proctor-00129",
+        "em-pat-proctor-00538"
+      ],
+      "claimsAnchored": [
+        "EAC Board of Advisors roster: https://www.eac.gov/sites/default/files/2026-02/BOA_Roster_for_Website_022426.pdf"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0013",
+      "url": "https://www.kdor.ks.gov/Apps/VoterReg/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:447",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-pat-proctor-00366",
+        "em-pat-proctor-00529"
+      ],
+      "claimsAnchored": [
+        "Registration deadline: Check with the Ellis County Clerk's office or visit https://www.kdor.ks.gov/Apps/VoterReg/",
+        "[kdor.ks.gov](https://www.kdor.ks.gov/Apps/VoterReg/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0014",
+      "url": "https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:520",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00423"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0015",
+      "url": "https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:522",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00425"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Board races could shift power to conservative bloc](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0016",
+      "url": "https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:469",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00381"
+      ],
+      "claimsAnchored": [
+        "[Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0017",
+      "url": "https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:470",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00382"
+      ],
+      "claimsAnchored": [
+        "[PBS Wisconsin: $100M+ spending on 2025 race](https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0018",
+      "url": "https://patproctor4ks.com/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:615",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 13,
+      "rowIds": [
+        "em-pat-proctor-00476",
+        "em-pat-proctor-00127",
+        "em-pat-proctor-00155",
+        "em-pat-proctor-00161",
+        "em-pat-proctor-00162",
+        "em-pat-proctor-00163",
+        "em-pat-proctor-00477",
+        "em-pat-proctor-00478",
+        "em-pat-proctor-00479",
+        "em-pat-proctor-00522",
+        "em-pat-proctor-00967",
+        "em-pat-proctor-00096",
+        "em-pat-proctor-00523"
+      ],
+      "claimsAnchored": [
+        "\"Restoring Confidence in Our Elections, Growing Our Economy.\" - campaign slogan, source: https://patproctor4ks.com/ (accessed 2026-04-01)",
+        "Proctor campaign site: https://patproctor4ks.com/",
+        "Campaign website: [patproctor4ks.com](https://patproctor4ks.com/)",
+        "\"I’m here to Hold the Line.\" - campaign site, 2026-04-01, https://patproctor4ks.com/ - topic: campaign slogan.",
+        "\"The Secretary of State is at the front line of the fight to defend our democracy.\" - campaign site, 2026-04-01, https://patproctor4ks.com/ - topic: office framing.",
+        "\"defend our democracy\" - campaign site language, 2026-04-01, https://patproctor4ks.com/ - topic: election administration.",
+        "\"The Kansas Secretary of State has two primary duties...\" - campaign issue framing, source: https://patproctor4ks.com/ (accessed 2026-04-01)",
+        "\"As Secretary of State, I will be ever vigilant...\" - campaign issue framing, source: https://patproctor4ks.com/ (accessed 2026-04-01)",
+        "\"Serving 25 years in the U.S. Army, I've defended our freedoms and fought for the ideals of democracy.\" - campaign bio, source: https://patproctor4ks.com/ (accessed 2026-04-01)",
+        "> -- Proctor campaign website, April 1, 2026, https://patproctor4ks.com/",
+        "\"source\": \"Proctor campaign website, April 1, 2026, https://patproctor4ks.com/\",",
+        "URLs: https://patproctor4ks.com/ and local memory/candidates/pat-proctor/in-their-own-words.md"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0019",
+      "url": "https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:479",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00390"
+      ],
+      "claimsAnchored": [
+        "[CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0020",
+      "url": "https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:512",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00417"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas Insurance Commissioner 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0021",
+      "url": "https://news.ballotpedia.org/2025/04/11/indiana-joins-kansas-kentucky-and-wyoming-in-enacting-laws-to-restrict-foreign-contributions-to-ballot-measure-campaigns-the-highest-number-passed-in-a-single-year/",
+      "sourceFile": "memory/candidates/pat-proctor/in-their-own-words.md:13",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00006"
+      ],
+      "claimsAnchored": [
+        "On national and federal-policy questions, Proctor's feed engages selectively and through a state-elections lens. He frames opposition to federal mail-in-ballot deadlines, election-related litigation, and nonprofit-funded ballot measures as state sovereignty qu"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0022",
+      "url": "https://www.jocoelection.org/candidates-elected-officials/pat-proctor",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:267",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-pat-proctor-00123",
+        "em-pat-proctor-00526",
+        "em-pat-proctor-00946"
+      ],
+      "claimsAnchored": [
+        "Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor",
+        "[jocoelection.org](https://www.jocoelection.org/candidates-elected-officials/pat-proctor)",
+        "\"campaignWebsite\": \"https://www.jocoelection.org/candidates-elected-officials/pat-proctor\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0023",
+      "url": "https://kansasreflector.com/2025/06/13/kansas-republican-exploits-fear-of-imaginary-axis-of-ballot-harvesting-to-gain-political-advantage/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:284",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-pat-proctor-00140",
+        "em-pat-proctor-00891",
+        "em-pat-proctor-00558"
+      ],
+      "claimsAnchored": [
+        "Kansas Reflector June 13, 2025 social/election-confidence article: https://kansasreflector.com/2025/06/13/kansas-republican-exploits-fear-of-imaginary-axis-of-ballot-harvesting-to-gain-political-advantage/",
+        "[Kansas Reflector - \"Axis of ballot harvesting\"](https://kansasreflector.com/2025/06/13/kansas-republican-exploits-fear-of-imaginary-axis-of-ballot-harvesting-to-gain-political-advantage/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0024",
+      "url": "https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:285",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-pat-proctor-00141",
+        "em-pat-proctor-00175",
+        "em-pat-proctor-00411",
+        "em-pat-proctor-00890"
+      ],
+      "claimsAnchored": [
+        "Kansas Reflector April 4, 2025 campaign announcement: https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/",
+        "https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/",
+        "[Kansas Reflector: Pat Proctor declares for SOS](https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/)",
+        "[Kansas Reflector - First Republican to declare](https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0025",
+      "url": "https://myvoteinfo.voteks.org/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:453",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-pat-proctor-00369",
+        "em-pat-proctor-00530"
+      ],
+      "claimsAnchored": [
+        "Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/",
+        "[myvoteinfo.voteks.org](https://myvoteinfo.voteks.org/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0026",
+      "url": "https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:460",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00372"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas Elections for Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0027",
+      "url": "https://kansasreflector.com/2025/08/07/rivals-launch-fight-over-kansas-constitutional-amendment-to-elect-supreme-court-justices/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:461",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00373"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Rivals launch fight over amendment](https://kansasreflector.com/2025/08/07/rivals-launch-fight-over-kansas-constitutional-amendment-to-elect-supreme-court-justices/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0028",
+      "url": "https://kansasreflector.com/2026/02/10/kansas-method-of-picking-supreme-court-justices-could-be-improved-but-will-an-amendment-do-that/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:462",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00374"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Method of picking justices could be improved](https://kansasreflector.com/2026/02/10/kansas-method-of-picking-supreme-court-justices-could-be-improved-but-will-an-amendment-do-that/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0029",
+      "url": "https://kansasreflector.com/2025/03/19/kansas-house-endorses-plan-to-elect-supreme-court-justices-placing-question-on-august-2026-ballot/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:463",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00375"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: House endorses plan](https://kansasreflector.com/2025/03/19/kansas-house-endorses-plan-to-elect-supreme-court-justices-placing-question-on-august-2026-ballot/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0030",
+      "url": "https://thebeaconnews.org/stories/2025/03/19/kansas-supreme-court-elections-voters-will-decide-in-2026/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:464",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00376"
+      ],
+      "claimsAnchored": [
+        "[The Beacon: Kansas Supreme Court elections?](https://thebeaconnews.org/stories/2025/03/19/kansas-supreme-court-elections-voters-will-decide-in-2026/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0031",
+      "url": "https://www.kcur.org/politics-elections-and-government/2026-01-26/kansas-lawmakers-want-to-reveal-more-about-the-people-picking-supreme-court-justices",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:465",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00377"
+      ],
+      "claimsAnchored": [
+        "[KCUR: Lawmakers want to reveal more about people picking justices](https://www.kcur.org/politics-elections-and-government/2026-01-26/kansas-lawmakers-want-to-reveal-more-about-the-people-picking-supreme-court-justices)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0032",
+      "url": "https://sunflowerstatejournal.com/judicial-amendment-campaign-shapes-up-outside-group-books-nearly-1-million-in-ads/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:466",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00378"
+      ],
+      "claimsAnchored": [
+        "[Sunflower State Journal: Outside group books nearly $1M in ads](https://sunflowerstatejournal.com/judicial-amendment-campaign-shapes-up-outside-group-books-nearly-1-million-in-ads/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0033",
+      "url": "https://www.npr.org/2025/04/01/nx-s1-5345862/wisconsin-supreme-court-crawford-schimel-election-results",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:471",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00383"
+      ],
+      "claimsAnchored": [
+        "[NPR: Trump and Musk backing wasn't enough to flip Wisconsin court](https://www.npr.org/2025/04/01/nx-s1-5345862/wisconsin-supreme-court-crawford-schimel-election-results)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0034",
+      "url": "https://www.kansasinformationnetwork.com/2026-Kansas-Constitutional-Amendment",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:472",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00384"
+      ],
+      "claimsAnchored": [
+        "[Kansas Information Network: 2026 Constitutional Amendment](https://www.kansasinformationnetwork.com/2026-Kansas-Constitutional-Amendment)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0035",
+      "url": "https://ballotpedia.org/Kansas_Citizenship_Voting_Requirement_Amendment_(2026",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:475",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00386"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas Citizenship Voting Requirement Amendment](https://ballotpedia.org/Kansas_Citizenship_Voting_Requirement_Amendment_(2026))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0036",
+      "url": "https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:476",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-pat-proctor-00387",
+        "em-pat-proctor-01002"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia News: Kansas voters will decide on citizenship amendment](https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/)",
+        "\"url\": \"https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0037",
+      "url": "https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:477",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00388"
+      ],
+      "claimsAnchored": [
+        "[NPR: Judge tosses Kansas proof-of-citizenship voter law](https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0038",
+      "url": "https://www.aclukansas.org/press-releases/resounding-victory-tens-thousands-disenfranchised-kansas-voters-supreme-court-refuses/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:478",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00389"
+      ],
+      "claimsAnchored": [
+        "[ACLU of Kansas: Supreme Court refuses proof-of-citizenship case](https://www.aclukansas.org/press-releases/resounding-victory-tens-thousands-disenfranchised-kansas-voters-supreme-court-refuses/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0039",
+      "url": "https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:481",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00392"
+      ],
+      "claimsAnchored": [
+        "[PBS: Kansas hopes to resurrect proof-of-citizenship law](https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0040",
+      "url": "https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:484",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00394"
+      ],
+      "claimsAnchored": [
+        "[KCUR: Kansas governor 2026 candidate guide](https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0041",
+      "url": "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:487",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00397"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas gubernatorial election 2026](https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0042",
+      "url": "https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:491",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00400"
+      ],
+      "claimsAnchored": [
+        "[KMUW: Democratic candidate opens arms to Kansas Republicans](https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0043",
+      "url": "https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:493",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00402"
+      ],
+      "claimsAnchored": [
+        "[Smart Politics: How well can Democrats fare?](https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0044",
+      "url": "https://kansasreflector.com/2025/07/30/kansas-election-for-attorney-general-in-2026-may-become-a-repeat-of-2022-showdown/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:501",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00408"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: AG race may repeat 2022 showdown](https://kansasreflector.com/2025/07/30/kansas-election-for-attorney-general-in-2026-may-become-a-repeat-of-2022-showdown/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0045",
+      "url": "https://ballotpedia.org/Kansas_Attorney_General_election,_2026",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:502",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00409"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas AG election 2026](https://ballotpedia.org/Kansas_Attorney_General_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0046",
+      "url": "https://ballotpedia.org/Kansas_Secretary_of_State_election,_2026",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:506",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-pat-proctor-00412",
+        "em-pat-proctor-00818"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas SOS election 2026](https://ballotpedia.org/Kansas_Secretary_of_State_election,_2026)",
+        "https://ballotpedia.org/Kansas_Secretary_of_State_election,_2026 -- Full election overview and candidate list -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0047",
+      "url": "https://kspress.com/news/2026/03/27/kansas-legislature-passes-package-of-elections-bills-that-alter-voting-processes",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:507",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00413"
+      ],
+      "claimsAnchored": [
+        "[Kansas Press Association: Legislature passes election bills](https://kspress.com/news/2026/03/27/kansas-legislature-passes-package-of-elections-bills-that-alter-voting-processes)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0048",
+      "url": "https://www.kansascatholic.org/current-news/election-2026",
+      "sourceFile": "memory/candidates/pat-proctor/site-profile.md:119",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00528"
+      ],
+      "claimsAnchored": [
+        "[kansascatholic.org](https://www.kansascatholic.org/current-news/election-2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0049",
+      "url": "https://www.hayspost.com/posts/2026-kansas-election-guide/",
+      "sourceFile": "memory/candidates/pat-proctor/site-profile.md:123",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00532"
+      ],
+      "claimsAnchored": [
+        "[hayspost.com](https://www.hayspost.com/posts/2026-kansas-election-guide/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0050",
+      "url": "https://en.wikipedia.org/wiki/2026_Kansas_Secretary_of_State_election",
+      "sourceFile": "memory/elections/2026-11-03-kansas-secretary-of-state.md:32",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00819"
+      ],
+      "claimsAnchored": [
+        "https://en.wikipedia.org/wiki/2026_Kansas_Secretary_of_State_election -- Wikipedia election page -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0051",
+      "url": "https://kansasreflector.com/2025/02/14/in-private-video-house-elections-chair-says-he-wants-to-end-early-voting-grace-period-in-kansas/",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:115",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-pat-proctor-00892",
+        "em-pat-proctor-01018"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector - Private video leaked](https://kansasreflector.com/2025/02/14/in-private-video-house-elections-chair-says-he-wants-to-end-early-voting-grace-period-in-kansas/)",
+        "\"url\": \"https://kansasreflector.com/2025/02/14/in-private-video-house-elections-chair-says-he-wants-to-end-early-voting-grace-period-in-kansas/\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0052",
+      "url": "https://kansasreflector.com/2026/03/27/kansas-legislature-passes-package-of-elections-bills-that-alter-voting-processes/",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:116",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00893"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector - Legislature passes election bills](https://kansasreflector.com/2026/03/27/kansas-legislature-passes-package-of-elections-bills-that-alter-voting-processes/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0053",
+      "url": "https://ballotpedia.org/Kansas_House_of_Representatives_District_111",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:516",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00420"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: KS House District 111](https://ballotpedia.org/Kansas_House_of_Representatives_District_111)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0054",
+      "url": "https://sunflowerstatejournal.com/proctor-takes-commanding-fundraising-lead-in-primary-for-secretary-of-state/",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:117",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-pat-proctor-00894",
+        "em-pat-proctor-01021"
+      ],
+      "claimsAnchored": [
+        "[Sunflower State Journal - Fundraising lead](https://sunflowerstatejournal.com/proctor-takes-commanding-fundraising-lead-in-primary-for-secretary-of-state/)",
+        "\"url\": \"https://sunflowerstatejournal.com/proctor-takes-commanding-fundraising-lead-in-primary-for-secretary-of-state/\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0055",
+      "url": "https://kenforkansas.com/",
+      "sourceFile": "ui/src/data/candidates.ts:27749",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-pat-proctor-01042",
+        "em-pat-proctor-01041"
+      ],
+      "claimsAnchored": [
+        "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Le"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0056",
+      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:266",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00122"
+      ],
+      "claimsAnchored": [
+        "Kansas SOS live candidate list: https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx (blocked)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0057",
+      "url": "https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:480",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00391"
+      ],
+      "claimsAnchored": [
+        "[Prism News: Kansas law blocked 31,000 eligible voters](https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0058",
+      "url": "https://x.com/RealPatProctor",
+      "sourceFile": "memory/candidates/pat-proctor/in-their-own-words.md:7",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00003"
+      ],
+      "claimsAnchored": [
+        "Across the harvested public record on X ([@RealPatProctor](https://x.com/RealPatProctor)), Facebook ([@PatProctorKS](https://www.facebook.com/PatProctorKS/)), YouTube ([Pat Proctor for Kansas](https://www.youtube.com/@patproctorforkansas655)), and Instagram (["
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0059",
+      "url": "https://www.youtube.com/@patproctorforkansas655",
+      "sourceFile": "memory/candidates/pat-proctor/in-their-own-words.md:15",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00007"
+      ],
+      "claimsAnchored": [
+        "For the Leavenworth district itself, Proctor's local content is less voluminous than his statewide-elections content but is present. An October 5, 2025 [YouTube video](https://www.youtube.com/@patproctorforkansas655) addresses bringing jobs and opportunity bac"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0060",
+      "url": "https://www.facebook.com/PatProctorKS/videos/enforcing-our-election-laws/1920239725529443/",
+      "sourceFile": "memory/candidates/pat-proctor/in-their-own-words.md:9",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post",
+        "social comment"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-pat-proctor-00004",
+        "em-pat-proctor-00005"
+      ],
+      "claimsAnchored": [
+        "Proctor's public alignment network on his own feed centers on Kansas Republican officeholders, election-policy organizations, and his own legislative work product. His Facebook page features a campaign video titled [\"Kris Kobach Wanted This 20-Year-Old To Go T",
+        "Engagement on Proctor's content is not evenly distributed. His Facebook page hosts the highest-engagement videos when they touch enforcement of election law and ballot-integrity claims, including the [Kobach-framed enforcement video](https://www.facebook.com/P"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0061",
+      "url": "https://www.facebook.com/PatProctorKS/posts/as-the-chairman-of-your-house-elections-committee-and-as-your-next-secretary-of-/1227794369167664/",
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:608",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-01153"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.facebook.com/PatProctorKS/posts/as-the-chairman-of-your-house-elections-committee-and-as-your-next-secretary-of-/1227794369167664/\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0062",
+      "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_proctor_pat_1/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:583",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-pat-proctor-00111",
+        "em-pat-proctor-00126",
+        "em-pat-proctor-00531"
+      ],
+      "claimsAnchored": [
+        "https://www.kslegislature.gov/li/b2025_26/members/rep_proctor_pat_1/",
+        "Kansas Legislature Proctor profile: https://www.kslegislature.gov/li/b2025_26/members/rep_proctor_pat_1/",
+        "[Kansas Legislature](https://www.kslegislature.gov/li/b2025_26/members/rep_proctor_pat_1/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0063",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/hcr5004/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:274",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-pat-proctor-00130",
+        "em-pat-proctor-00549"
+      ],
+      "claimsAnchored": [
+        "HCR 5004: https://www.kslegislature.gov/li/b2025_26/measures/hcr5004/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0064",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/hb2453/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:276",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00132"
+      ],
+      "claimsAnchored": [
+        "HB 2453: https://www.kslegislature.gov/li/b2025_26/measures/hb2453/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0065",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/hb2106/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:279",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00135"
+      ],
+      "claimsAnchored": [
+        "HB 2106: https://www.kslegislature.gov/li/b2025_26/measures/hb2106/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0066",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/hcr5006/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:281",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00137"
+      ],
+      "claimsAnchored": [
+        "HCR 5006: https://www.kslegislature.gov/li/b2025_26/measures/hcr5006/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0067",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/hr6016/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:282",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00138"
+      ],
+      "claimsAnchored": [
+        "HR 6016: https://www.kslegislature.gov/li/b2025_26/measures/hr6016/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0068",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/documents/summary_scr_1611_2025",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:468",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00380"
+      ],
+      "claimsAnchored": [
+        "[Kansas Legislature: SCR 1611](https://www.kslegislature.gov/li/b2025_26/measures/documents/summary_scr_1611_2025)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0069",
+      "url": "https://www.votenokansas.org/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:467",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00379"
+      ],
+      "claimsAnchored": [
+        "[VoteNoKansas.org](https://www.votenokansas.org/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0070",
+      "url": "https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:485",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00395"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Six GOP candidates first debate](https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0071",
+      "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:490",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00399"
+      ],
+      "claimsAnchored": [
+        "[KCUR: Who's running for U.S. Senate](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0072",
+      "url": "https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:496",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00404"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Lawrence Democrats take aim at KS-01](https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0073",
+      "url": "https://ballotpedia.org/Kansas",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:497",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00405"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: KS-01 2026](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0074",
+      "url": "https://hayspost.com/posts/1069c202-2991-4f2f-9961-773bec76a5a4",
+      "sourceFile": "memory/candidates/pat-proctor/site-profile.md:118",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00527"
+      ],
+      "claimsAnchored": [
+        "[hayspost.com](https://hayspost.com/posts/1069c202-2991-4f2f-9961-773bec76a5a4)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0075",
+      "url": "https://www.wichita.edu/profiles/academics/fairmount_college_of_liberal_arts_and_sciences/school_of_criminal_justice/Proctor-Pat.php",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:118",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00895"
+      ],
+      "claimsAnchored": [
+        "[Wichita State University - Faculty Profile](https://www.wichita.edu/profiles/academics/fairmount_college_of_liberal_arts_and_sciences/school_of_criminal_justice/Proctor-Pat.php)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0076",
+      "url": "https://ballotpedia.org/Pat_Proctor",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:119",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00896"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia](https://ballotpedia.org/Pat_Proctor)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0077",
+      "url": "https://www.facebook.com/PatProctorKS/",
+      "sourceFile": "memory/candidates/pat-proctor/in-their-own-words.md:19",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00009"
+      ],
+      "claimsAnchored": [
+        "Proctor's platform footprint is moderately distributed. He maintains a campaign Facebook page at [@PatProctorKS](https://www.facebook.com/PatProctorKS/), an X account at [@RealPatProctor](https://x.com/RealPatProctor), a YouTube channel at [@patproctorforkansa"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0078",
+      "url": null,
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump-v2.md:239",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "donor/funding",
+        "ballot status",
+        "church/worship",
+        "biography",
+        "voting record",
+        "meeting record",
+        "endorsement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 108,
+      "rowIds": [
+        "em-pat-proctor-00105",
+        "em-pat-proctor-00118",
+        "em-pat-proctor-00072",
+        "em-pat-proctor-00117",
+        "em-pat-proctor-00145",
+        "em-pat-proctor-00034",
+        "em-pat-proctor-00090",
+        "em-pat-proctor-00013",
+        "em-pat-proctor-00042",
+        "em-pat-proctor-00114",
+        "em-pat-proctor-00069",
+        "em-pat-proctor-00116",
+        "em-pat-proctor-00022",
+        "em-pat-proctor-00014",
+        "em-pat-proctor-00015",
+        "em-pat-proctor-00016",
+        "em-pat-proctor-00017",
+        "em-pat-proctor-00019",
+        "em-pat-proctor-00020",
+        "em-pat-proctor-00028",
+        "em-pat-proctor-00031",
+        "em-pat-proctor-00037",
+        "em-pat-proctor-00039",
+        "em-pat-proctor-00040",
+        "em-pat-proctor-00041",
+        "em-pat-proctor-00049",
+        "em-pat-proctor-00050",
+        "em-pat-proctor-00055",
+        "em-pat-proctor-00056",
+        "em-pat-proctor-00058",
+        "em-pat-proctor-00059",
+        "em-pat-proctor-00060",
+        "em-pat-proctor-00064",
+        "em-pat-proctor-00066",
+        "em-pat-proctor-00068",
+        "em-pat-proctor-00071",
+        "em-pat-proctor-00074",
+        "em-pat-proctor-00084",
+        "em-pat-proctor-00085",
+        "em-pat-proctor-00089",
+        "em-pat-proctor-00094",
+        "em-pat-proctor-00095",
+        "em-pat-proctor-00099",
+        "em-pat-proctor-00100",
+        "em-pat-proctor-00112",
+        "em-pat-proctor-00115",
+        "em-pat-proctor-00144",
+        "em-pat-proctor-00148",
+        "em-pat-proctor-00021",
+        "em-pat-proctor-00045"
+      ],
+      "claimsAnchored": [
+        "Finding: Existing local harvest captured Proctor social/fundraising language alleging that organizations such as Loud Light, Kansas Appleseed, ACLU of Kansas, and Planned Parenthood/Kansans for Constitutional Freedom used money from George Soros and foreign bi",
+        "| Abortion / family / LGBTQ / education / marijuana | Low or not found | None specific in candidate-controlled materials found | Do not infer from party label. Use only issue-adjacent public language if directly quoted. |",
+        "Finding: HR 6016 denounced a planned satanic worship ritual scheduled for March 28, 2025. Kansas Legislature lists Proctor as an original/current sponsor. House emergency final action on March 20, 2025 adopted the resolution 101-15, Absent 9. This is public le",
+        "| Religious liberty / faith | Low | HR 6016 sponsorship | Do not infer church or faith identity. |",
+        "No public church affiliation found.",
+        "Finding: Kansas SOS candidate-information page says candidates for national, state, legislative, and judicial offices file with the Secretary of State and are not considered filed until their petition or declaration and fee is received. It lists Secretary of S",
+        "4.3 Donor / spending notes",
+        "Worker: Worker 28",
+        "Finding: Proctor's campaign homepage headline says \"Restoring Confidence in Our Elections, Growing Our Economy.\" The site says the Secretary of State has two primary duties: \"securing and accurately executing our elections\" and being \"the key agency to facilit",
+        "| Business services / economic development | Moderate | Campaign homepage; Baan Thai bio; JoCo candidate page | Mostly stated/campaign bio; action evidence specific to SOS business-services modernization not found. |",
+        "Finding: HCR 5006 proposed amending the Kansas Bill of Rights to recognize the right to bear arms as a fundamental right that includes possession and use of ammunition, firearm accessories, and firearm components, and to make restrictions subject to strict scr",
+        "| Guns / Second Amendment | Moderate | HCR 5006 sponsorship | Not office-core; resolution died on calendar without vote. |"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-pat-proctor-0079",
+      "url": null,
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:76",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court",
+        "voting record",
+        "ballot status",
+        "biography",
+        "meeting record",
+        "church/worship",
+        "donor/funding",
+        "campaign statement",
+        "controversy",
+        "endorsement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 283,
+      "rowIds": [
+        "em-pat-proctor-00190",
+        "em-pat-proctor-00193",
+        "em-pat-proctor-00209",
+        "em-pat-proctor-00224",
+        "em-pat-proctor-00225",
+        "em-pat-proctor-00276",
+        "em-pat-proctor-00309",
+        "em-pat-proctor-00354",
+        "em-pat-proctor-00191",
+        "em-pat-proctor-00206",
+        "em-pat-proctor-00207",
+        "em-pat-proctor-00222",
+        "em-pat-proctor-00341",
+        "em-pat-proctor-00343",
+        "em-pat-proctor-00344",
+        "em-pat-proctor-00345",
+        "em-pat-proctor-00346",
+        "em-pat-proctor-00347",
+        "em-pat-proctor-00348",
+        "em-pat-proctor-00349",
+        "em-pat-proctor-00350",
+        "em-pat-proctor-00351",
+        "em-pat-proctor-00422",
+        "em-pat-proctor-00164",
+        "em-pat-proctor-00165",
+        "em-pat-proctor-00437",
+        "em-pat-proctor-00438",
+        "em-pat-proctor-00439",
+        "em-pat-proctor-00466",
+        "em-pat-proctor-00467",
+        "em-pat-proctor-00468",
+        "em-pat-proctor-00490",
+        "em-pat-proctor-00211",
+        "em-pat-proctor-00226",
+        "em-pat-proctor-00227",
+        "em-pat-proctor-00274",
+        "em-pat-proctor-00277",
+        "em-pat-proctor-00283",
+        "em-pat-proctor-00296",
+        "em-pat-proctor-00337",
+        "em-pat-proctor-00352",
+        "em-pat-proctor-00203",
+        "em-pat-proctor-00218",
+        "em-pat-proctor-00329",
+        "em-pat-proctor-00358",
+        "em-pat-proctor-00427",
+        "em-pat-proctor-00428",
+        "em-pat-proctor-00430",
+        "em-pat-proctor-00431",
+        "em-pat-proctor-00436"
+      ],
+      "claimsAnchored": [
+        "1. The Abortion Ruling (2019): The Kansas Supreme Court ruled 6-1 that the Kansas Constitution protects a right to \"personal autonomy,\" including the right to decide whether to continue a pregnancy. This made Kansas one of the strongest states for abortion rig",
+        "Kansas Reflector explicitly headlined their coverage: \"Kansas Senate adopts plan to elect Supreme Court justices, a step toward overturning abortion rights.\"",
+        "FACT 1: This is on the August PRIMARY ballot, not November. Primary turnout in Kansas is typically 20-25%, compared to 50-60% in November. Republican voters dominate primary turnout because they have more contested races. Putting it on the primary ballot is wi",
+        "Wisconsin (2025): One Supreme Court seat. $144.5 million spent. Elon Musk spent $25 million+ on one candidate. Illinois Governor JB Pritzker and George Soros funded the other side. It became a national proxy war over abortion, Trump, and redistricting -- not a",
+        "North Carolina (2022): After partisan elections flipped the court's majority to conservative, the new justices took the extraordinary step of rehearing and reversing several predecessor decisions on redistricting and voting rights -- decisions issued just mont",
+        "Governor Laura Kelly (Democrat) is term-limited and cannot run again. This is the first open governor's race in Kansas since 2018. Open seats are rare and always attract crowded fields because there is no incumbent advantage. The winner will shape Kansas polic",
+        "Why this matters: The AG interprets and enforces Kansas laws on abortion, voting, immigration, and government transparency. Whoever holds this office shapes which laws get enforced aggressively and which ones gather dust.",
+        "Why this matters: The Board of Education has been a battleground over science standards (evolution vs. intelligent design), sex education, school library books, and transgender student policies. In recent years, conservative and moderate factions have fought f",
+        "2. The School Funding Wars (2005-2024): For nearly 20 years, the Kansas Supreme Court told the Legislature it was not funding public schools adequately. The court repeatedly ordered lawmakers to spend more money on education. Conservative legislators were furi",
+        "Rep. Rui Xu (D-Westwood): \"Republicans are mad that our Supreme Court wanted us to fully fund school and not ban abortions so now they want to change the Supreme Court.\"",
+        "Organizations opposing: Kansas Bar Association, ACLU of Kansas, American Federation of Teachers-Kansas, Kansas Appleseed Center for Law and Justice, Kansas Association of School Boards, Kansas Women Attorneys Association, Planned Parenthood Great Plains Votes,",
+        "Kansas Bar Association, ACLU, teacher unions, school board associations, and others listed above."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-pat-proctor-0080",
+      "url": null,
+      "sourceFile": "memory/candidates/pat-proctor/site-profile.md:19",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status",
+        "campaign statement",
+        "church/worship",
+        "biography",
+        "legal/court",
+        "voting record",
+        "donor/funding",
+        "meeting record",
+        "endorsement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 29,
+      "rowIds": [
+        "em-pat-proctor-00502",
+        "em-pat-proctor-00503",
+        "em-pat-proctor-00507",
+        "em-pat-proctor-00504",
+        "em-pat-proctor-00518",
+        "em-pat-proctor-00519",
+        "em-pat-proctor-00496",
+        "em-pat-proctor-00500",
+        "em-pat-proctor-00511",
+        "em-pat-proctor-00505",
+        "em-pat-proctor-00506",
+        "em-pat-proctor-00495",
+        "em-pat-proctor-00497",
+        "em-pat-proctor-00498",
+        "em-pat-proctor-00499",
+        "em-pat-proctor-00509",
+        "em-pat-proctor-00510",
+        "em-pat-proctor-00512",
+        "em-pat-proctor-00513",
+        "em-pat-proctor-00515",
+        "em-pat-proctor-00516",
+        "em-pat-proctor-00520",
+        "em-pat-proctor-00493",
+        "em-pat-proctor-00494",
+        "em-pat-proctor-00501",
+        "em-pat-proctor-00508",
+        "em-pat-proctor-00514",
+        "em-pat-proctor-00517",
+        "em-pat-proctor-00521"
+      ],
+      "claimsAnchored": [
+        "Abortion / Sanctity of Life: Runs as a Republican. The Kansas Republican Party platform supports the right to life from conception. No specific personal statement found in public sources. on abortion in the context of this race.",
+        "Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.",
+        "School Choice / Parental Rights in Education: Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources.",
+        "Religious Liberty: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources.",
+        "Public sources do not identify a current church affiliation.",
+        "Public sources do not identify a current church affiliation for Proctor. His campaign and legislative biographies emphasize military service, elections, and business ownership rather than church membership or denomination.",
+        "He has represented Leavenworth in the Kansas House since 2020. Outside politics, he and his wife Aree co-own Baan Thai Restaurant, which gives him a small-business identity alongside his military and legislative background. That combination of soldier, lawmake",
+        "His public record also includes a more conventional conservative frame around business services. He argues that the secretary of state's office should help Kansas businesses form and operate efficiently, and he uses Baan Thai and his military command backgroun",
+        "Business Services: He argues the secretary of state's office should help Kansas businesses form and operate efficiently, pointing to his experience co-owning Baan Thai Restaurant.",
+        "Guns / Second Amendment: Runs as a Republican. The Kansas Republican Party platform supports Second Amendment rights without restrictions. No specific personal statement found in public sources. on gun policy in the context of this race.",
+        "Immigration / Border: Runs as a Republican. The Kansas Republican Party platform supports border security and enforcement of immigration laws. No specific personal statement found in public sources. on immigration in the context of this race.",
+        "Pat Proctor is a Leavenworth Republican, retired Army colonel, Kansas House member, and 2026 candidate for secretary of state. His public biography says he served 25 years in the U.S. Army, including deployments to Iraq and Afghanistan, before moving into stat"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-pat-proctor-0081",
+      "url": null,
+      "sourceFile": "memory/candidates/pat-proctor/sleuth-pass.md:67",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status",
+        "church/worship",
+        "voting record",
+        "donor/funding",
+        "meeting record",
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 38,
+      "rowIds": [
+        "em-pat-proctor-00568",
+        "em-pat-proctor-00574",
+        "em-pat-proctor-00567",
+        "em-pat-proctor-00571",
+        "em-pat-proctor-00541",
+        "em-pat-proctor-00545",
+        "em-pat-proctor-00565",
+        "em-pat-proctor-00552",
+        "em-pat-proctor-00566",
+        "em-pat-proctor-00556",
+        "em-pat-proctor-00534",
+        "em-pat-proctor-00535",
+        "em-pat-proctor-00539",
+        "em-pat-proctor-00540",
+        "em-pat-proctor-00543",
+        "em-pat-proctor-00546",
+        "em-pat-proctor-00547",
+        "em-pat-proctor-00548",
+        "em-pat-proctor-00550",
+        "em-pat-proctor-00551",
+        "em-pat-proctor-00555",
+        "em-pat-proctor-00557",
+        "em-pat-proctor-00559",
+        "em-pat-proctor-00561",
+        "em-pat-proctor-00563",
+        "em-pat-proctor-00564",
+        "em-pat-proctor-00570",
+        "em-pat-proctor-00536",
+        "em-pat-proctor-00537",
+        "em-pat-proctor-00553",
+        "em-pat-proctor-00573",
+        "em-pat-proctor-00533",
+        "em-pat-proctor-00544",
+        "em-pat-proctor-00554",
+        "em-pat-proctor-00560",
+        "em-pat-proctor-00562",
+        "em-pat-proctor-00569",
+        "em-pat-proctor-00572"
+      ],
+      "claimsAnchored": [
+        "Abortion / marriage / education / marijuana / immigration: No candidate-controlled issue page was found in this pass for these topics. Do not infer positions from party label; mention only issue-adjacent public statements where they directly appear, such as Pr",
+        "No official source was found confirming a detailed policy platform on abortion, marriage/LGBTQ policy, school choice, marijuana, or broader immigration beyond election/voter-eligibility citizenship issues.",
+        "Religious liberty / faith: Public church affiliation not confirmed. HR 6016 sponsorship exists but is not enough to infer personal faith, denomination, or a generalized religious-liberty platform.",
+        "No public church membership or denominational affiliation confirmed.",
+        "Election dates and filing rules confirmed: Kansas SOS says statewide candidates file with the Secretary of State; a candidate is not considered filed until the petition or declaration and fee is received. SOS lists the 2026 candidate filing deadline as 12:00 p",
+        "Campaign statement / issue frame: Proctor's campaign homepage leads with \"Restoring Confidence in Our Elections, Growing Our Economy.\" It says the Secretary of State has two primary duties: securing and accurately executing elections, and facilitating business",
+        "Business services / economic development: Use campaign homepage language about the Secretary of State's business-services role, Baan Thai ownership, and small-business claims. Action evidence is candidate biography/campaign statement more than legislative reco",
+        "Gun-rights resolution sponsorship: HCR 5006 proposed a constitutional amendment treating the right to bear arms, including ammunition and firearm accessories/components, as a fundamental right subject to strict scrutiny. Kansas Legislature lists Proctor as an ",
+        "Guns / Second Amendment: HCR 5006 sponsorship provides official legislative evidence, but it is not a Secretary of State administration issue. Keep it as secondary issue evidence if the profile includes values/policy cards beyond office scope.",
+        "Dominant issue signal from local harvest: Existing in-their-own-words.md found Proctor's visible online material concentrated on election administration, election confidence, ballot deadlines, noncitizen voting, and outside/foreign funding of election litigati",
+        "Phase / stage: Phase 2 all-candidate deepening, online-sleuth equivalent",
+        "Election: 2026 Kansas Secretary of State. Primary 2026-08-04; general 2026-11-03."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-pat-proctor-0082",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/pat-proctor.ts:135",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "voting record",
+        "biography",
+        "church/worship",
+        "ballot status",
+        "meeting record",
+        "donor/funding",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 195,
+      "rowIds": [
+        "em-pat-proctor-00749",
+        "em-pat-proctor-01124",
+        "em-pat-proctor-00777",
+        "em-pat-proctor-00778",
+        "em-pat-proctor-00784",
+        "em-pat-proctor-01141",
+        "em-pat-proctor-01142",
+        "em-pat-proctor-01143",
+        "em-pat-proctor-01144",
+        "em-pat-proctor-01145",
+        "em-pat-proctor-00754",
+        "em-pat-proctor-00755",
+        "em-pat-proctor-00758",
+        "em-pat-proctor-01125",
+        "em-pat-proctor-01126",
+        "em-pat-proctor-01136",
+        "em-pat-proctor-00768",
+        "em-pat-proctor-00770",
+        "em-pat-proctor-00638",
+        "em-pat-proctor-00649",
+        "em-pat-proctor-00653",
+        "em-pat-proctor-00664",
+        "em-pat-proctor-00673",
+        "em-pat-proctor-00685",
+        "em-pat-proctor-00688",
+        "em-pat-proctor-00702",
+        "em-pat-proctor-00705",
+        "em-pat-proctor-00707",
+        "em-pat-proctor-00731",
+        "em-pat-proctor-00733",
+        "em-pat-proctor-00735",
+        "em-pat-proctor-00737",
+        "em-pat-proctor-00739",
+        "em-pat-proctor-00748",
+        "em-pat-proctor-00751",
+        "em-pat-proctor-00760",
+        "em-pat-proctor-00761",
+        "em-pat-proctor-00766",
+        "em-pat-proctor-01100",
+        "em-pat-proctor-01101",
+        "em-pat-proctor-01102",
+        "em-pat-proctor-01105",
+        "em-pat-proctor-01109",
+        "em-pat-proctor-01112",
+        "em-pat-proctor-01113",
+        "em-pat-proctor-01116",
+        "em-pat-proctor-01118",
+        "em-pat-proctor-01121",
+        "em-pat-proctor-01129",
+        "em-pat-proctor-01130"
+      ],
+      "claimsAnchored": [
+        "\"observation\": \"Prior local harvest captured Proctor language accusing advocacy groups involved in election-law and constitutional-amendment fights of using money from George Soros and foreign billionaires. Map this signal to campaign-finance and ballot-measur",
+        "\"observation\": \"Several policy areas affecting Kansas households do not appear at meaningful frequency in Proctor's harvested public feeds during the captured period. Healthcare access, Medicaid, hospital closures, K–12 education funding, agricultural commodit",
+        "\"title\": \"Religious Liberty / Faith-Adjacent Public Action\",",
+        "\"text\": \"No public church affiliation or candidate-controlled religious-liberty platform was confirmed. Legislative records show Proctor sponsored HR 6016, a resolution denouncing a planned satanic worship ritual.\",",
+        "\"summary\": \"Do not infer personal faith, church affiliation, or a comprehensive religious-liberty position from this resolution alone.\",",
+        "\"body\": \"Sponsored HR 6016; the House adopted it 101-15. This is public action evidence, not evidence of church membership or denomination.\",",
+        "\"observation\": \"Religious liberty / faith: Public church affiliation not confirmed. HR 6016 sponsorship exists but is not enough to infer personal faith, denomination, or a generalized religious-liberty platform.\",",
+        "\"mappedToIssueId\": \"religious-liberty-faith-public-action\"",
+        "\"observation\": \"No public church membership or denominational affiliation confirmed.\",",
+        "\"observation\": \"Finding: HR 6016 denounced a planned satanic worship ritual scheduled for March 28, 2025. Kansas Legislature lists Proctor as an original/current sponsor. House emergency final action on March 20, 2025 adopted the resolution 101-15, Absent 9. T",
+        "\"title\": \"Business Services / Economic Development\",",
+        "\"text\": \"Proctor says the Secretary of State is also the key agency for helping Kansas businesses form and operate. His campaign connects that office function to his experience as a small-business owner and to a broader goal of growing Kansas's economy.\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-pat-proctor-0083",
+      "url": null,
+      "sourceFile": "memory/candidates/pat-proctor/v2-issues.yaml:441",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status",
+        "church/worship",
+        "biography",
+        "donor/funding",
+        "meeting record",
+        "voting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 124,
+      "rowIds": [
+        "em-pat-proctor-00804",
+        "em-pat-proctor-00587",
+        "em-pat-proctor-00683",
+        "em-pat-proctor-00782",
+        "em-pat-proctor-00802",
+        "em-pat-proctor-00594",
+        "em-pat-proctor-00628",
+        "em-pat-proctor-00632",
+        "em-pat-proctor-00633",
+        "em-pat-proctor-00796",
+        "em-pat-proctor-00578",
+        "em-pat-proctor-00582",
+        "em-pat-proctor-00585",
+        "em-pat-proctor-00586",
+        "em-pat-proctor-00590",
+        "em-pat-proctor-00597",
+        "em-pat-proctor-00598",
+        "em-pat-proctor-00599",
+        "em-pat-proctor-00600",
+        "em-pat-proctor-00601",
+        "em-pat-proctor-00605",
+        "em-pat-proctor-00606",
+        "em-pat-proctor-00607",
+        "em-pat-proctor-00609",
+        "em-pat-proctor-00614",
+        "em-pat-proctor-00615",
+        "em-pat-proctor-00622",
+        "em-pat-proctor-00634",
+        "em-pat-proctor-00635",
+        "em-pat-proctor-00639",
+        "em-pat-proctor-00646",
+        "em-pat-proctor-00654",
+        "em-pat-proctor-00655",
+        "em-pat-proctor-00658",
+        "em-pat-proctor-00665",
+        "em-pat-proctor-00668",
+        "em-pat-proctor-00671",
+        "em-pat-proctor-00678",
+        "em-pat-proctor-00680",
+        "em-pat-proctor-00690",
+        "em-pat-proctor-00699",
+        "em-pat-proctor-00712",
+        "em-pat-proctor-00715",
+        "em-pat-proctor-00718",
+        "em-pat-proctor-00724",
+        "em-pat-proctor-00732",
+        "em-pat-proctor-00743",
+        "em-pat-proctor-00757",
+        "em-pat-proctor-00774",
+        "em-pat-proctor-00798"
+      ],
+      "claimsAnchored": [
+        "\"No candidate-controlled issue platform was found for abortion, marriage/LGBTQ policy, school choice, marijuana, or broad immigration policy beyond voter-eligibility citizenship.\"",
+        "\"Social signals are issue-scoped observations only. Do not infer positions from party label, church assumptions, follows, likes, or associations.\"",
+        "\"Resolution denounced a planned satanic worship ritual\"",
+        "summary: \"Sponsored HR 6016; the House adopted it 101-15. This is public action evidence, not evidence of church membership or denomination.\"",
+        "\"Public church affiliation was not confirmed.\"",
+        "\"A candidate is not considered filed until petition/declaration and fee are received\"",
+        "\"Business information lists occupation Professor\"",
+        "\"Campaign headline says Restoring Confidence in Our Elections, Growing Our Economy\"",
+        "\"Campaign says Secretary of State has election and business-services duties\"",
+        "\"Readable entity/PAC examples include Kansas Bankers Association PAC and Shelter Insurance Kansas PAC, but full donor categorization was not completed due to PDF extraction quality.\"",
+        "candidate:",
+        "election: kansas-sos-2026"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-pat-proctor-0084",
+      "url": null,
+      "sourceFile": "ui/src/data/candidates.ts:27261",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "church/worship",
+        "donor/funding",
+        "campaign statement",
+        "voting record",
+        "ballot status",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 124,
+      "rowIds": [
+        "em-pat-proctor-00950",
+        "em-pat-proctor-00952",
+        "em-pat-proctor-00956",
+        "em-pat-proctor-00953",
+        "em-pat-proctor-00965",
+        "em-pat-proctor-00947",
+        "em-pat-proctor-00948",
+        "em-pat-proctor-00962",
+        "em-pat-proctor-01038",
+        "em-pat-proctor-00954",
+        "em-pat-proctor-00955",
+        "em-pat-proctor-00583",
+        "em-pat-proctor-00938",
+        "em-pat-proctor-00941",
+        "em-pat-proctor-00958",
+        "em-pat-proctor-00959",
+        "em-pat-proctor-00960",
+        "em-pat-proctor-00961",
+        "em-pat-proctor-00970",
+        "em-pat-proctor-00979",
+        "em-pat-proctor-00993",
+        "em-pat-proctor-00994",
+        "em-pat-proctor-01015",
+        "em-pat-proctor-01019",
+        "em-pat-proctor-01034",
+        "em-pat-proctor-01043",
+        "em-pat-proctor-01059",
+        "em-pat-proctor-01030",
+        "em-pat-proctor-01036",
+        "em-pat-proctor-00010",
+        "em-pat-proctor-00943",
+        "em-pat-proctor-00963",
+        "em-pat-proctor-01020",
+        "em-pat-proctor-01029",
+        "em-pat-proctor-00160",
+        "em-pat-proctor-00370",
+        "em-pat-proctor-00575",
+        "em-pat-proctor-00579",
+        "em-pat-proctor-00580",
+        "em-pat-proctor-00785",
+        "em-pat-proctor-00939",
+        "em-pat-proctor-00940",
+        "em-pat-proctor-00942",
+        "em-pat-proctor-00944",
+        "em-pat-proctor-00945",
+        "em-pat-proctor-00949",
+        "em-pat-proctor-00951",
+        "em-pat-proctor-00957",
+        "em-pat-proctor-00964",
+        "em-pat-proctor-00966"
+      ],
+      "claimsAnchored": [
+        "\"issue\": \"Abortion / Sanctity of Life\",",
+        "\"issue\": \"Marriage & Family / LGBTQ+ Policy\",",
+        "\"issue\": \"School Choice / Parental Rights in Education\",",
+        "\"issue\": \"Religious Liberty\",",
+        "\"whereTheyWorship\": \"Public sources do not identify a current church affiliation for Proctor. His campaign and legislative biographies emphasize military service, elections, and business ownership rather than church membership or denomination.\",",
+        "\"whoTheyAre\": \"Pat Proctor is a Leavenworth Republican, retired Army colonel, Kansas House member, and 2026 candidate for secretary of state. His public biography says he served 25 years in the U.S. Army, including deployments to Iraq and Afghanistan, before m",
+        "\"theirRecord\": \"Proctor's record is defined above all by election policy. As chair of the House Elections Committee, he has been one of the Legislature's most visible advocates for stricter election rules, including requiring proof of citizenship, ending the t",
+        "\"issue\": \"Business Services\",",
+        "\"stance\": \"He has said the secretary of state's office should simplify business filings and make it easier for Kansans to build something, reflecting a small-government, pro-business posture.\"",
+        "\"issue\": \"Guns / Second Amendment\",",
+        "\"issue\": \"Immigration / Border\",",
+        "\"incumbent\": false,"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-pat-proctor-0085",
+      "url": null,
+      "sourceFile": "memory/candidates/pat-proctor/in-their-own-words.md:17",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-pat-proctor-00008",
+        "em-pat-proctor-00001",
+        "em-pat-proctor-00002"
+      ],
+      "claimsAnchored": [
+        "Several policy areas affecting Kansas households do not appear at meaningful frequency in Proctor's harvested public feeds during the captured period. Healthcare access, Medicaid, hospital closures, K–12 education funding, agricultural commodity policy, the Og",
+        "In His Own Words — Pat Proctor (R, Kansas Secretary of State candidate)",
+        "*A summary of what Pat Proctor has publicly said, posted, and amplified across social media. Drawn from public posts and indexed snippets on X, Facebook, YouTube, and Instagram between April 2025 and May 2026. We report patterns; we do not interpret intent.*"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-pat-proctor-0086",
+      "url": null,
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:31",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "legal/court",
+        "church/worship",
+        "ballot status",
+        "meeting record",
+        "voting record",
+        "donor/funding",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 104,
+      "rowIds": [
+        "em-pat-proctor-00842",
+        "em-pat-proctor-00844",
+        "em-pat-proctor-00845",
+        "em-pat-proctor-00846",
+        "em-pat-proctor-00856",
+        "em-pat-proctor-00858",
+        "em-pat-proctor-00904",
+        "em-pat-proctor-00840",
+        "em-pat-proctor-00914",
+        "em-pat-proctor-00915",
+        "em-pat-proctor-00937",
+        "em-pat-proctor-00828",
+        "em-pat-proctor-00865",
+        "em-pat-proctor-00866",
+        "em-pat-proctor-00870",
+        "em-pat-proctor-00871",
+        "em-pat-proctor-00873",
+        "em-pat-proctor-00874",
+        "em-pat-proctor-00875",
+        "em-pat-proctor-00876",
+        "em-pat-proctor-00878",
+        "em-pat-proctor-00881",
+        "em-pat-proctor-00882",
+        "em-pat-proctor-00886",
+        "em-pat-proctor-00924",
+        "em-pat-proctor-00935",
+        "em-pat-proctor-00900",
+        "em-pat-proctor-00907",
+        "em-pat-proctor-00908",
+        "em-pat-proctor-00909",
+        "em-pat-proctor-00836",
+        "em-pat-proctor-00868",
+        "em-pat-proctor-00872",
+        "em-pat-proctor-00880",
+        "em-pat-proctor-00899",
+        "em-pat-proctor-00911",
+        "em-pat-proctor-00827",
+        "em-pat-proctor-00830",
+        "em-pat-proctor-00831",
+        "em-pat-proctor-00832",
+        "em-pat-proctor-00833",
+        "em-pat-proctor-00834",
+        "em-pat-proctor-00835",
+        "em-pat-proctor-00837",
+        "em-pat-proctor-00838",
+        "em-pat-proctor-00839",
+        "em-pat-proctor-00841",
+        "em-pat-proctor-00843",
+        "em-pat-proctor-00847",
+        "em-pat-proctor-00848"
+      ],
+      "claimsAnchored": [
+        "Education",
+        "M.A. Military Arts (Strategy) -- U.S. Army Command and General Staff College",
+        "M.A. Military Arts (Theater Operations) -- School of Advanced Military Studies (highly selective)",
+        "M.A. Strategic Studies -- U.S. Army War College",
+        "Professor, Benedictine College (after earning PhD)",
+        "Teaches at the School of Criminal Justice, Wichita State University",
+        "Colby Community College (attended)",
+        "| Church | Not publicly identified in available sources |",
+        "Church Affiliations Not Found",
+        "Pat Proctor: No church identified (lives near Fort Leavenworth)",
+        "Races covered: 3 (Secretary of State, Insurance Commissioner, KS-01 U.S. House)",
+        "Primary Election: August 4, 2026 | General Election: November 3, 2026"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-pat-proctor-0087",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:166",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "legal/court",
+        "ballot status",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 29,
+      "rowIds": [
+        "em-pat-proctor-01086",
+        "em-pat-proctor-01087",
+        "em-pat-proctor-01078",
+        "em-pat-proctor-01088",
+        "em-pat-proctor-01089",
+        "em-pat-proctor-01074",
+        "em-pat-proctor-01076",
+        "em-pat-proctor-01081",
+        "em-pat-proctor-01063",
+        "em-pat-proctor-01064",
+        "em-pat-proctor-01065",
+        "em-pat-proctor-01066",
+        "em-pat-proctor-01067",
+        "em-pat-proctor-01068",
+        "em-pat-proctor-01069",
+        "em-pat-proctor-01070",
+        "em-pat-proctor-01071",
+        "em-pat-proctor-01073",
+        "em-pat-proctor-01075",
+        "em-pat-proctor-01077",
+        "em-pat-proctor-01079",
+        "em-pat-proctor-01080",
+        "em-pat-proctor-01082",
+        "em-pat-proctor-01090",
+        "em-pat-proctor-01072",
+        "em-pat-proctor-01085",
+        "em-pat-proctor-01084",
+        "em-pat-proctor-01083",
+        "em-pat-proctor-01091"
+      ],
+      "claimsAnchored": [
+        "\"The state treasurer oversees state cash management, debt, public deposits, unclaimed property, and college-savings programs that affect Kansas taxpayers and families.\",",
+        "\"The Kansas State Treasurer manages the state's money functions: cash management, public deposits, debt-related work, unclaimed property, and several public savings programs. The office is less flashy than governor or attorney general, but it affects how publi",
+        "\"The secretary of state runs elections in Kansas. They decide the rules for voter registration, manage candidate filings, oversee how ballots are counted, and handle business registrations for every company in the state. When there's a question about whether y",
+        "slug: \"kansas-insurance-2026\",",
+        "name: \"Kansas Insurance Commissioner\",",
+        "\"The secretary of state runs Kansas elections, handles candidate filings, and oversees major state records. With Scott Schwab stepping aside, Pat Proctor, Ken Rahjes, Jennifer Day, and Sam Lane are all in the race.\",",
+        "\"This office decides how easy or difficult it is to vote, how election disputes are handled, and how confidently Kansans can trust the statewide process.\",",
+        "status: \"Incumbent Running\",",
+        "slug: \"kansas-sos-2026\",",
+        "name: \"Kansas Secretary of State\",",
+        "date: \"2026-11-03\",",
+        "jurisdiction: \"State of Kansas\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-pat-proctor-0088",
+      "url": null,
+      "sourceFile": "memory/elections/2026-11-03-kansas-secretary-of-state.md:40",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 18,
+      "rowIds": [
+        "em-pat-proctor-00826",
+        "em-pat-proctor-00809",
+        "em-pat-proctor-00813",
+        "em-pat-proctor-00823",
+        "em-pat-proctor-00806",
+        "em-pat-proctor-00807",
+        "em-pat-proctor-00808",
+        "em-pat-proctor-00810",
+        "em-pat-proctor-00811",
+        "em-pat-proctor-00812",
+        "em-pat-proctor-00815",
+        "em-pat-proctor-00821",
+        "em-pat-proctor-00824",
+        "em-pat-proctor-00814",
+        "em-pat-proctor-00816",
+        "em-pat-proctor-00825",
+        "em-pat-proctor-00817",
+        "em-pat-proctor-00822"
+      ],
+      "claimsAnchored": [
+        "The Secretary of State also handles business filings, trademarks, and administrative regulations.",
+        "District/Ward: Statewide",
+        "Pat Proctor -- Current state representative, Kansas House District 41.",
+        "The Secretary of State oversees all Kansas elections, making this a critically important office.",
+        "Term length: 4 years",
+        "Jurisdiction",
+        "Level: State",
+        "Eligible Voters: All registered Kansas voters",
+        "Declared Candidates",
+        "Republican Primary",
+        "Democratic Primary",
+        "Notes"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-pat-proctor-0089",
+      "url": "https://mann.house.gov/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:498",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00406"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0090",
+      "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:515",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00419"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0091",
+      "url": "https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:510",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00415"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0092",
+      "url": "https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:511",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00416"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0093",
+      "url": "https://kansasreflector.com/2025/07/22/kansas-sen-ethan-corson-enters-race-for-democratic-partys-nomination-for-governor/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:486",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00396"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0094",
+      "url": "https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-u-s-senate-sharpen-attack-on-gop-incumbent-roger-marshall/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:492",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00401"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0095",
+      "url": "https://barbforkansas.com/",
+      "sourceFile": "memory/candidates/pat-proctor/raw-dump.md:517",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00421"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-pat-proctor-0096",
+      "url": "https://kansasreflector.com/2025/01/08/scott-schwab-runs-for-kansas-governor-after-two-terms-as-states-top-election-official/",
+      "sourceFile": "memory/elections/2026-11-03-kansas-secretary-of-state.md:33",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-pat-proctor-00820"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    }
+  ]
+}

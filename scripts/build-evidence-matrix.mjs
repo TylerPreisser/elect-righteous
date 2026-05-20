@@ -12,7 +12,7 @@ const ROOT = new URL("..", import.meta.url).pathname.replace(/\/$/, "");
 const MEMORY_CANDIDATES = join(ROOT, "memory/candidates");
 const ORCHESTRATION_RUNS = join(ROOT, "memory/orchestration/agent-runs");
 const TODAY = "2026-05-20";
-const NOW = "2026-05-20T17:15:00Z";
+const NOW = "2026-05-20T18:46:44Z";
 
 const ISSUE_LABELS = {
   1: "Abortion / life",
@@ -531,7 +531,7 @@ function buildCandidate(slug) {
     completed_at: NOW,
     inputs_read: inputsRead,
     files_written: filesWritten,
-    commands_run: ["node scripts/build-evidence-matrix.mjs roger-marshall damon-anderson jason-hart"],
+    commands_run: [`node scripts/build-evidence-matrix.mjs ${slug}`],
     blockers: [],
     errors_encountered: [],
     next_steps: [
@@ -587,13 +587,13 @@ writeJson(join(globalRunDir, "run-state.json"), {
   ],
   commands_run: [
     "cd ui && npx tsc --noEmit --incremental false",
-    "node scripts/build-evidence-matrix.mjs roger-marshall damon-anderson jason-hart",
+    `node scripts/build-evidence-matrix.mjs ${slugs.join(" ")}`,
   ],
   blockers: [],
   errors_encountered: [],
   next_steps: [
-    "Run social-footprint-analyst for roger-marshall, damon-anderson, and jason-hart.",
-    "Run source-tier-validator for roger-marshall, damon-anderson, and jason-hart.",
+    `Run social-footprint-analyst for ${slugs.join(", ")}.`,
+    `Run source-tier-validator for ${slugs.join(", ")}.`,
     "Continue candidate-evidence-miner on the next federal batch after this validator batch is queued.",
   ],
   handoff_summary: `Built final evidence matrices for ${slugs.join(", ")}.`,
@@ -648,7 +648,7 @@ writeFileSync(
     "- scripts/build-evidence-matrix.mjs: reusable builder used for this batch.",
     "",
     "## What the Next Task Should Do",
-    "Run social-footprint-analyst for roger-marshall, damon-anderson, and jason-hart, then run source-tier-validator for the same three candidates.",
+    `Run social-footprint-analyst for ${slugs.join(", ")}, then run source-tier-validator for the same candidates.`,
     "",
     "## Blockers for Next Task",
     "- None.",

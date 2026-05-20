@@ -1,0 +1,31 @@
+{
+  "agent_id": "social-footprint-analyst",
+  "agent_role": "Social media intelligence analyst",
+  "candidate_slug": "lorie-wood",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/lorie-wood/social-harvest.md",
+    "memory/candidates/lorie-wood/evidence-matrix.json",
+    "memory/candidates/lorie-wood/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/lorie-wood/social-evidence-matrix.json",
+    "memory/candidates/lorie-wood/social-analysis.md",
+    "memory/candidates/lorie-wood/agent-work/social-footprint-analyst/run-state.json",
+    "memory/candidates/lorie-wood/agent-work/social-footprint-analyst/notes.md",
+    "memory/candidates/lorie-wood/agent-work/social-footprint-analyst/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs lorie-wood"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run source-tier-validator for lorie-wood.",
+    "Run fixed-issue-matrix-builder for lorie-wood after source validation."
+  ],
+  "handoff_summary": "Classified 40 social/online observations for lorie-wood."
+}

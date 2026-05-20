@@ -123,5 +123,1324 @@
     "Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.",
     "Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.",
     "Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication."
+  ],
+  "fixed_issue_matrix": [
+    {
+      "issueNumber": 1,
+      "title": "Abortion / life",
+      "summary": "No relevant public evidence was found for Abortion / life after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 2,
+      "title": "LGBT / gender / parental rights",
+      "summary": "No relevant public evidence was found for LGBT / gender / parental rights after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 3,
+      "title": "Education / curriculum / schools",
+      "summary": "Education / curriculum / schools: 16 selected evidence items from 16 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-michelle-cunningham-00034",
+          "classification": "documented-record",
+          "text": "\"occupation\": \"State Board of Education candidate / campaign-finance account holder\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l12",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l16"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:12",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00046",
+          "classification": "documented-record",
+          "text": "\"title\": \"State Board of Education Odd Districts - 2026 Election Cycle\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l27",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l125"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:125",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00061",
+          "classification": "documented-record",
+          "text": "\"body\": \"Michelle Cunningham was identified in the reviewed official or campaign-finance source for Kansas State Board of Education District 5 campaign-finance account holder.\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l56",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l32"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:56",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00078",
+          "classification": "documented-record",
+          "text": "\"source\": \"State Board of Education Odd Districts - 2026 Election Cycle\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l117",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l117"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:117",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00084",
+          "classification": "documented-record",
+          "text": "name: \"State Board of Education District 5\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l210"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:210",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00087",
+          "classification": "documented-record",
+          "text": "jurisdiction: \"Kansas State Board of Education District 5\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l213"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:213",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00097",
+          "classification": "documented-record",
+          "text": "\"Board members influence what schools teach, how districts are judged, and what statewide education debates look like for years to come.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l223"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:223",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00099",
+          "classification": "documented-record",
+          "text": "\"The State Board of Education sets the standards for what Kansas kids learn in school. They approve curriculum frameworks, oversee school accreditation, hire the state education commissioner, and weigh in on statewide fights over textbooks, testing, and teaching standards. District 5 covers western Kansas including Hays. These board members serve four-year terms and their decisions affect every public school student in the region.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l225"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:225",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00035",
+          "classification": "donor-organization-signal",
+          "text": "\"whoTheyAre\": \"Michelle Cunningham appears in KPDC's State Board of Education odd-district index under District 5. Party, platform, and final ballot status were not confirmed in this pass.\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l13",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l110"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:13",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00036",
+          "classification": "donor-organization-signal",
+          "text": "\"recordSummary\": \"This profile exists because the SBOE District 5 roster was missing current KPDC account entries and incorrectly treated the current officeholder profile as the only 2026 candidate view.\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l14",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l111"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:14",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00054",
+          "classification": "donor-organization-signal",
+          "text": "\"text\": \"KPDC lists Michelle Cunningham in the State Board of Education District 5 finance index; this pass did not verify a final certified candidate list.\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l46",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l22"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:46",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00056",
+          "classification": "donor-organization-signal",
+          "text": "\"s-kpdc-sboe-index\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l48",
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l58",
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l71",
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l81",
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l94",
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l104",
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l119",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l24",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l34",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l47",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l57",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l69",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l81",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l91",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l103"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:48",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00095",
+          "classification": "donor-organization-signal",
+          "text": "\"The State Board of Education helps decide statewide standards, curriculum fights, accreditation, and major school policy. District 5 includes Hays and much of western Kansas. The site now separates current-officeholder context from the KPDC 2026 account records so the race is not missing Cunningham and Wood.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l221"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:221",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00012",
+          "classification": "social-online-signal",
+          "text": "Ballot / filing status: KPDC lists Michelle Cunningham in the State Board of Education District 5 finance index; this pass did not verify a final certified candidate list.",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l19",
+            "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l19",
+            "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l19",
+            "mem-memory-candidates-michelle-cunningham-social-harvest-md-l19"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:19",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00032",
+          "classification": "background-context",
+          "text": "\"electionSlug\": \"sboe-district-5\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l10",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l14"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:10",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00083",
+          "classification": "background-context",
+          "text": "slug: \"sboe-district-5\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l209"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:209",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-michelle-cunningham-0001",
+          "evidenceRowId": "em-michelle-cunningham-00012",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Ballot / filing status: KPDC lists Michelle Cunningham in the State Board of Education District 5 finance index; this pass did not verify a final certified candidate list.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-michelle-cunningham-0012",
+          "evidenceRowId": "em-michelle-cunningham-00035",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"whoTheyAre\": \"Michelle Cunningham appears in KPDC's State Board of Education odd-district index under District 5. Party, platform, and final ballot status were not confirmed in this pass.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 1,
+        "internalMemory": 15,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 4,
+      "title": "Religious liberty / church / civic morality",
+      "summary": "Religious liberty / church / civic morality: 4 selected evidence items from 4 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-michelle-cunningham-00013",
+          "classification": "social-online-signal",
+          "text": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l20",
+            "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l20",
+            "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l20",
+            "mem-memory-candidates-michelle-cunningham-social-harvest-md-l20"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:20",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00065",
+          "classification": "faith-community-record",
+          "text": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l69",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l45"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:69",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00081",
+          "classification": "faith-community-record",
+          "text": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l124"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:124",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00127",
+          "classification": "faith-community-record",
+          "text": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+          "sourceIds": [
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l66"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:66",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-michelle-cunningham-0002",
+          "evidenceRowId": "em-michelle-cunningham-00013",
+          "platform": "Public web / internal harvest",
+          "actionType": "follow",
+          "signalStrength": "weak",
+          "observation": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-michelle-cunningham-0013",
+          "evidenceRowId": "em-michelle-cunningham-00065",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-michelle-cunningham-0014",
+          "evidenceRowId": "em-michelle-cunningham-00081",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-michelle-cunningham-0015",
+          "evidenceRowId": "em-michelle-cunningham-00127",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 1,
+        "internalMemory": 3,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 5,
+      "title": "Taxes / spending / debt",
+      "summary": "Taxes / spending / debt: 2 selected evidence items from 2 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-michelle-cunningham-00117",
+          "classification": "documented-record",
+          "text": "\"The Hays city commission is the group that runs the city. Five commissioners and a mayor set water rates, approve new housing developments, hire the city manager, decide where tax money goes, and vote on everything from road repairs to whether a new business gets built. The city manager handles day-to-day operations. These are the people who decide what Hays looks like, how much city services cost, and how the city grows.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l251"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:251",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00116",
+          "classification": "background-context",
+          "text": "\"Local city decisions shape day-to-day life faster than almost anything else: utility projects, zoning, housing growth, city spending, and how Hays responds to long-running issues like water.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l249"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:249",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 2,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 6,
+      "title": "Economy / jobs / labor",
+      "summary": "Economy / jobs / labor: 1 selected evidence items from 1 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-michelle-cunningham-00117",
+          "classification": "documented-record",
+          "text": "\"The Hays city commission is the group that runs the city. Five commissioners and a mayor set water rates, approve new housing developments, hire the city manager, decide where tax money goes, and vote on everything from road repairs to whether a new business gets built. The city manager handles day-to-day operations. These are the people who decide what Hays looks like, how much city services cost, and how the city grows.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l251"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:251",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 1,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 7,
+      "title": "Guns / Second Amendment",
+      "summary": "No relevant public evidence was found for Guns / Second Amendment after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 8,
+      "title": "Immigration / border",
+      "summary": "No relevant public evidence was found for Immigration / border after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 9,
+      "title": "Health care / insurance / Medicaid",
+      "summary": "No relevant public evidence was found for Health care / insurance / Medicaid after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 10,
+      "title": "Election integrity / voting / courts",
+      "summary": "Election integrity / voting / courts: 14 selected evidence items from 20 mapped rows. Public URL-backed rows: 1.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-michelle-cunningham-00045",
+          "classification": "documented-record",
+          "text": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05MC_AT.pdf\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l26",
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l37",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l124",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l135"
+          ],
+          "sourceUrl": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05MC_AT.pdf",
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:37",
+          "confidence": "confirmed",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00033",
+          "classification": "documented-record",
+          "text": "\"incumbent\": false,",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l11",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l15"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:11",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00037",
+          "classification": "documented-record",
+          "text": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l15"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:15",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00046",
+          "classification": "documented-record",
+          "text": "\"title\": \"State Board of Education Odd Districts - 2026 Election Cycle\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l27",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l125"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:125",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00052",
+          "classification": "documented-record",
+          "text": "\"title\": \"Ballot / filing status\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l44",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l20"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:44",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00067",
+          "classification": "documented-record",
+          "text": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l79",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l55"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:79",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00078",
+          "classification": "documented-record",
+          "text": "\"source\": \"State Board of Education Odd Districts - 2026 Election Cycle\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l117",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l117"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:117",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00080",
+          "classification": "documented-record",
+          "text": "\"Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l123"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:123",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00035",
+          "classification": "donor-organization-signal",
+          "text": "\"whoTheyAre\": \"Michelle Cunningham appears in KPDC's State Board of Education odd-district index under District 5. Party, platform, and final ballot status were not confirmed in this pass.\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l13",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l110"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:13",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00070",
+          "classification": "donor-organization-signal",
+          "text": "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l92",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l79"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:92",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00130",
+          "classification": "donor-organization-signal",
+          "text": "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+          "sourceIds": [
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l100"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:100",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00005",
+          "classification": "social-online-signal",
+          "text": "This artifact was created because the candidate-completeness audit found Michelle Cunningham in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l8",
+            "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l8",
+            "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l8",
+            "mem-memory-candidates-michelle-cunningham-social-harvest-md-l8"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:8",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00012",
+          "classification": "social-online-signal",
+          "text": "Ballot / filing status: KPDC lists Michelle Cunningham in the State Board of Education District 5 finance index; this pass did not verify a final certified candidate list.",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l19",
+            "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l19",
+            "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l19",
+            "mem-memory-candidates-michelle-cunningham-social-harvest-md-l19"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:19",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00014",
+          "classification": "social-online-signal",
+          "text": "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l21",
+            "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l21",
+            "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l21",
+            "mem-memory-candidates-michelle-cunningham-social-harvest-md-l21"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:21",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-michelle-cunningham-0001",
+          "evidenceRowId": "em-michelle-cunningham-00012",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Ballot / filing status: KPDC lists Michelle Cunningham in the State Board of Education District 5 finance index; this pass did not verify a final certified candidate list.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-michelle-cunningham-0003",
+          "evidenceRowId": "em-michelle-cunningham-00005",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "This artifact was created because the candidate-completeness audit found Michelle Cunningham in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-michelle-cunningham-0004",
+          "evidenceRowId": "em-michelle-cunningham-00014",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-michelle-cunningham-0012",
+          "evidenceRowId": "em-michelle-cunningham-00035",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"whoTheyAre\": \"Michelle Cunningham appears in KPDC's State Board of Education odd-district index under District 5. Party, platform, and final ballot status were not confirmed in this pass.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-michelle-cunningham-0016",
+          "evidenceRowId": "em-michelle-cunningham-00037",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-michelle-cunningham-0017",
+          "evidenceRowId": "em-michelle-cunningham-00067",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-michelle-cunningham-0018",
+          "evidenceRowId": "em-michelle-cunningham-00133",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 1,
+        "secondary": 0,
+        "social": 3,
+        "internalMemory": 16,
+        "publicUrlRows": 1
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 11,
+      "title": "Public safety / law enforcement / criminal justice",
+      "summary": "Public safety / law enforcement / criminal justice: 1 selected evidence items from 1 mapped rows. Public URL-backed rows: 1.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-michelle-cunningham-00045",
+          "classification": "documented-record",
+          "text": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05MC_AT.pdf\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l26",
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l37",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l124",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l135"
+          ],
+          "sourceUrl": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05MC_AT.pdf",
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:37",
+          "confidence": "confirmed",
+          "useDecision": "use"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 1,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 12,
+      "title": "Agriculture / rural economy / water",
+      "summary": "Agriculture / rural economy / water: 3 selected evidence items from 3 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-michelle-cunningham-00115",
+          "classification": "documented-record",
+          "text": "\"Hays city elections are not the main focus of the 2026 ballot, but the people already in office still make decisions about water, housing, growth, budgeting, and city services. This page groups the current city leadership in one place.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l247"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:247",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00117",
+          "classification": "documented-record",
+          "text": "\"The Hays city commission is the group that runs the city. Five commissioners and a mayor set water rates, approve new housing developments, hire the city manager, decide where tax money goes, and vote on everything from road repairs to whether a new business gets built. The city manager handles day-to-day operations. These are the people who decide what Hays looks like, how much city services cost, and how the city grows.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l251"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:251",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00116",
+          "classification": "background-context",
+          "text": "\"Local city decisions shape day-to-day life faster than almost anything else: utility projects, zoning, housing growth, city spending, and how Hays responds to long-running issues like water.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l249"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:249",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 3,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 13,
+      "title": "Local governance / transparency / ethics",
+      "summary": "Local governance / transparency / ethics: 23 selected evidence items from 45 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-michelle-cunningham-00033",
+          "classification": "documented-record",
+          "text": "\"incumbent\": false,",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l11",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l15"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:11",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00034",
+          "classification": "documented-record",
+          "text": "\"occupation\": \"State Board of Education candidate / campaign-finance account holder\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l12",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l16"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:12",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00037",
+          "classification": "documented-record",
+          "text": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l15"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:15",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00046",
+          "classification": "documented-record",
+          "text": "\"title\": \"State Board of Education Odd Districts - 2026 Election Cycle\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l27",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l125"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/michelle-cunningham.ts:125",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00052",
+          "classification": "documented-record",
+          "text": "\"title\": \"Ballot / filing status\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l44",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l20"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:44",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00061",
+          "classification": "documented-record",
+          "text": "\"body\": \"Michelle Cunningham was identified in the reviewed official or campaign-finance source for Kansas State Board of Education District 5 campaign-finance account holder.\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l56",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l32"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:56",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00067",
+          "classification": "documented-record",
+          "text": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l79",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l55"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:79",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00078",
+          "classification": "documented-record",
+          "text": "\"source\": \"State Board of Education Odd Districts - 2026 Election Cycle\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l117",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l117"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:117",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00035",
+          "classification": "donor-organization-signal",
+          "text": "\"whoTheyAre\": \"Michelle Cunningham appears in KPDC's State Board of Education odd-district index under District 5. Party, platform, and final ballot status were not confirmed in this pass.\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l13",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l110"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:13",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00036",
+          "classification": "donor-organization-signal",
+          "text": "\"recordSummary\": \"This profile exists because the SBOE District 5 roster was missing current KPDC account entries and incorrectly treated the current officeholder profile as the only 2026 candidate view.\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l14",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l111"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:14",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00040",
+          "classification": "donor-organization-signal",
+          "text": "\"publisher\": \"Kansas Governmental Ethics Commission / KPDC\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l20",
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l31",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l126",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l137"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:20",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00042",
+          "classification": "donor-organization-signal",
+          "text": "\"KPDC index lists Michelle Cunningham in District 5\"",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l22",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l129"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:22",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00047",
+          "classification": "donor-organization-signal",
+          "text": "\"Appointment-of-treasurer PDF is linked from the District 5 KPDC index\"",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l33",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l140"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:33",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00054",
+          "classification": "donor-organization-signal",
+          "text": "\"text\": \"KPDC lists Michelle Cunningham in the State Board of Education District 5 finance index; this pass did not verify a final certified candidate list.\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l46",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l22"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:46",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00005",
+          "classification": "social-online-signal",
+          "text": "This artifact was created because the candidate-completeness audit found Michelle Cunningham in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l8",
+            "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l8",
+            "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l8",
+            "mem-memory-candidates-michelle-cunningham-social-harvest-md-l8"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:8",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00012",
+          "classification": "social-online-signal",
+          "text": "Ballot / filing status: KPDC lists Michelle Cunningham in the State Board of Education District 5 finance index; this pass did not verify a final certified candidate list.",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l19",
+            "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l19",
+            "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l19",
+            "mem-memory-candidates-michelle-cunningham-social-harvest-md-l19"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:19",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00014",
+          "classification": "social-online-signal",
+          "text": "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-in-their-own-words-md-l21",
+            "mem-memory-candidates-michelle-cunningham-raw-dump-v2-md-l21",
+            "mem-memory-candidates-michelle-cunningham-sleuth-pass-md-l21",
+            "mem-memory-candidates-michelle-cunningham-social-harvest-md-l21"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/social-harvest.md:21",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00032",
+          "classification": "background-context",
+          "text": "\"electionSlug\": \"sboe-district-5\",",
+          "sourceIds": [
+            "mem-memory-candidates-michelle-cunningham-v2-issues-yaml-l10",
+            "mem-ui-src-data-v2-michelle-cunningham-ts-l14"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/michelle-cunningham/v2-issues.yaml:10",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00083",
+          "classification": "background-context",
+          "text": "slug: \"sboe-district-5\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l209"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:209",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00100",
+          "classification": "background-context",
+          "text": "slug: \"hays-city-current\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l228"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:228",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00101",
+          "classification": "background-context",
+          "text": "name: \"Hays City Leadership\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l229"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:229",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00102",
+          "classification": "background-context",
+          "text": "level: \"Local\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l230"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:230",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-michelle-cunningham-00104",
+          "classification": "background-context",
+          "text": "jurisdiction: \"City of Hays, Kansas\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l232"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:232",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-michelle-cunningham-0001",
+          "evidenceRowId": "em-michelle-cunningham-00012",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Ballot / filing status: KPDC lists Michelle Cunningham in the State Board of Education District 5 finance index; this pass did not verify a final certified candidate list.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-michelle-cunningham-0003",
+          "evidenceRowId": "em-michelle-cunningham-00005",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "This artifact was created because the candidate-completeness audit found Michelle Cunningham in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-michelle-cunningham-0004",
+          "evidenceRowId": "em-michelle-cunningham-00014",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-michelle-cunningham-0012",
+          "evidenceRowId": "em-michelle-cunningham-00035",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"whoTheyAre\": \"Michelle Cunningham appears in KPDC's State Board of Education odd-district index under District 5. Party, platform, and final ballot status were not confirmed in this pass.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-michelle-cunningham-0016",
+          "evidenceRowId": "em-michelle-cunningham-00037",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-michelle-cunningham-0017",
+          "evidenceRowId": "em-michelle-cunningham-00067",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-michelle-cunningham-0018",
+          "evidenceRowId": "em-michelle-cunningham-00133",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 3,
+        "internalMemory": 42,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 14,
+      "title": "Environment / energy / land use",
+      "summary": "Environment / energy / land use: 1 selected evidence items from 1 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-michelle-cunningham-00116",
+          "classification": "background-context",
+          "text": "\"Local city decisions shape day-to-day life faster than almost anything else: utility projects, zoning, housing growth, city spending, and how Hays responds to long-running issues like water.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l249"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:249",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 1,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    }
   ]
 }

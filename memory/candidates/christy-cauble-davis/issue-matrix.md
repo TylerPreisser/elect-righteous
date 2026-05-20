@@ -1,0 +1,1472 @@
+# Fixed 14-Issue Matrix — christy-cauble-davis — 2026-05-20
+
+This matrix is built from `evidence-matrix.json`, `social-evidence-matrix.json`, and `source-audit.json`. It is a candidate-rebuild input, not final public prose.
+
+## 1. Abortion / life
+
+Abortion / life: 27 selected evidence items from 61 mapped rows. Public URL-backed rows: 1.
+
+### Evidence
+- **candidate-stated** [em-christy-cauble-davis-01191] Opposes taxpayer funding of abortion providers
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1661
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01193] Has said he opposes abortion including in cases of rape and incest
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1663
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00128] Candidate-controlled campaign homepage text accessible on 2026-05-19 did not include detailed abortion-policy text in the scraped lines. News From The States/Kansas Reflector convention coverage did include Davis in a reproductive-rights section, saying rural Kansas could not be counted out based on Chase County's 2022 abortion amendment vote.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:222
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00508] Changed from pro-life to pro-choice after "Kansans voted for bodily autonomy" in the 2022 abortion referendum
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:504
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00522] Key Quote: His website says he changed his mind on abortion after "Kansans voted for bodily autonomy." (KCUR)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:524
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00697] Kansas is not as red as it looks on paper. The 2022 abortion referendum (Value Them Both Amendment) was defeated 59%-41%, proving that Kansas voters will cross party lines on specific issues. Gov. Laura Kelly, a Democrat, won two terms. The question is whether any of these Democrats can replicate that crossover appeal at the federal level.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:821
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00927] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1272
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00962] Weaknesses: The SB 360 debacle is a gift to his opponent. Being overruled 104-17 by your own caucus is humiliating. The "Pro-Trump" branding may help in a primary but could limit crossover appeal in a general election -- especially after the 2022 abortion referendum showed Kansas voters will cross party lines. The term-limit motivation for running (he's being forced out as Speaker) makes this look like a fallback rather than a calling.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1329
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-01149] His first bill as a U.S. Senator was pro-life legislation protecting the unborn
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1603
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-01150] Supported the "Value Them Both" Kansas constitutional amendment on abortion in 2022
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1604
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01652] [National Pro-Life Scorecard](https://sbaprolife.org/senator/roger-marshall)
+  - Source: https://sbaprolife.org/senator/roger-marshall
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-christy-cauble-davis-00607] Five candidates spoke to 150+ attendees: Hart, Davis, Spidel Neumann, Parelkar, Murray. This was the first major joint appearance. Issues raised: education, immigration, healthcare, tariffs, reproductive rights.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01183] Pro-life scorecard: 100% -- Voted pro-life on every single recorded vote (20/20 as House member, continued in Senate)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1653
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01184] National Pro-Life Scorecard (SBA Pro-Life America): Perfect score
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1654
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01620] Very few vulnerabilities from the right; Heritage Action 89-94%, pro-life 100%, NRA-aligned, Trump-endorsed
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2254
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-christy-cauble-davis-02683] Context: Kansas Democratic Party annual convention discussion of reproductive rights.
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:286
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02702] Across the captured Bluesky period, the feed contains no posts focused on Social Security, Medicare, detailed farm bill text, the Ogallala Aquifer, abortion policy details beyond convention coverage, foster care, adoption, capital punishment, housing policy specifics beyond campaign-site language, or district-level water policy.
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:309
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-christy-cauble-davis-01148] His pro-life stance is directly connected to his faith and his experience delivering 5,000+ babies
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1602
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-01169] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-01475] "Tonight, we must still go to bed with faith and hope, for tomorrow we must be as dedicated to the sanctity of life." (After Value Them Both defeat)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2051
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-01900] Adoption: Given up for adoption at birth into a "right wing, fundamentalist, Roman Catholic family" (pre-Roe v. Wade)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2736
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00127] Reproductive rights / abortion
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:220
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00129] This is evidence of public positioning in favor of the reproductive-rights side of the Kansas debate, but not a detailed federal abortion-policy plan.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:224
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00364] Protecting reproductive freedom
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:251
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00519] Former Republican who called himself "conservative" and "pro-life" as recently as 2019 -- position shifts invite scrutiny
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:520
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00524] Ideological inconsistency (conservative pro-life Republican in 2019, now running as a Democrat)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:530
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00787] Reproductive freedom
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:975
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0002] Context: Kansas Democratic Party annual convention discussion of reproductive rights.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-christy-cauble-davis-0003] Across the captured Bluesky period, the feed contains no posts focused on Social Security, Medicare, detailed farm bill text, the Ogallala Aquifer, abortion policy details beyond convention coverage, foster care, adoption, capital punishment, housing policy specifics beyond campaign-site language, or district-level water policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0208] *"In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0209] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-christy-cauble-davis-0210] "observation": "Across the captured Bluesky period, the feed contains no posts focused on Social Security, Medicare, detailed farm bill text, the Ogallala Aquifer, abortion policy details beyond convention coverage, foster care, adoption, capital punishment, housing policy specifics beyond campaign-site language, or district-level water policy.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 2. LGBT / gender / parental rights
+
+LGBT / gender / parental rights: 11 selected evidence items from 11 mapped rows. Public URL-backed rows: 0.
+
+### Evidence
+- **candidate-stated** [em-christy-cauble-davis-01920] LGBTQ+ rights champion: Supports the Equality Act and the Respect for Marriage Act
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2761
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-02354] Marriage & Family / LGBTQ+ Policy: Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources.
+  - Source: memory/candidates/christy-cauble-davis/site-profile.md:21
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-02358] School Choice / Parental Rights in Education: Supports restoring federal funding for special education and affordable housing programs.
+  - Source: memory/candidates/christy-cauble-davis/site-profile.md:29
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-02527] Could not find a candidate-controlled detailed statement on guns, marriage/LGBTQ policy, religious liberty, marijuana/drug policy, foster care/adoption, capital punishment, or a detailed Farm Bill/Ogallala Aquifer plan in the verified accessible sources.
+  - Source: memory/candidates/christy-cauble-davis/sleuth-pass.md:152
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-02917] "Candidate-controlled detailed positions on guns, marriage/LGBTQ policy, religious liberty, marijuana/drug policy, foster care/adoption, capital punishment, detailed Farm Bill text, Ogallala Aquifer, or district-level water policy."
+  - Source: memory/candidates/christy-cauble-davis/v2-issues.yaml:386
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-02897] No candidate-controlled detailed position was found in the verified accessible sources for guns, marriage and family/LGBTQ policy, religious liberty as a legal-policy issue, marijuana/drug policy, foster care/adoption, capital punishment, detailed Farm Bill text, the Ogallala Aquifer, or district-level water policy. This page should not infer positions on those issues from party label, faith language, follows, events, or associations.
+  - Source: memory/candidates/christy-cauble-davis/v2-issues.yaml:352
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-03162] "text": "No candidate-controlled detailed position was found in the verified accessible sources for guns, marriage and family/LGBTQ policy, religious liberty as a legal-policy issue, marijuana/drug policy, foster care/adoption, capital punishment, detailed Farm Bill text, the Ogallala Aquifer, or district-level water policy. This page should not infer positions on those issues from party label, faith language, follows, events, or associations.",
+  - Source: ui/src/data/v2/christy-cauble-davis.ts:313
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00167] Marriage and family / LGBTQ+ policy
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:289
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00509] Supported the Respect for Marriage Act (2022) -- protections for same-sex marriage
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:505
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-03020] "issue": "Marriage & Family / LGBTQ+ Policy",
+  - Source: ui/src/data/candidates.ts:4407
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-03026] "issue": "School Choice / Parental Rights in Education",
+  - Source: ui/src/data/candidates.ts:4423
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0211] Marriage & Family / LGBTQ+ Policy: Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 3. Education / curriculum / schools
+
+Education / curriculum / schools: 34 selected evidence items from 110 mapped rows. Public URL-backed rows: 2.
+
+### Evidence
+- **candidate-stated** [em-christy-cauble-davis-00110] The site says Davis will defend public education from cuts and privatization.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:159
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-00112] The launch says Davis is focused on public education and funding strong public schools.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:163
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01369] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1899
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-02358] School Choice / Parental Rights in Education: Supports restoring federal funding for special education and affordable housing programs.
+  - Source: memory/candidates/christy-cauble-davis/site-profile.md:29
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-02471] KCUR reported that Davis said by email she wants to restore funding for Medicaid, special education, and affordable housing programs.
+  - Source: memory/candidates/christy-cauble-davis/sleuth-pass.md:53
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-03027] "stance": "Supports restoring federal funding for special education and affordable housing programs."
+  - Source: ui/src/data/candidates.ts:4424
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-03140] "observation": "2025-12-30 — Davis said in an email that she wants \"to restore funding for Medicaid, special education and affordable housing programs\"; KCUR also reported that her website says she will \"fight for immigration reform that provides a pathway to citizenship and ends inhumane policies that terrorize families and unconstitutionally deprive Kansans of due process.\"",
+  - Source: ui/src/data/v2/christy-cauble-davis.ts:109
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-03148] "observation": "At the Kansas Democratic Party convention, News From The States reported that she said, \"Only 2% of the folks who live in rural America are engaged in production agriculture\" (source); the same coverage said she named health care, mental health care, and education as rural issues.",
+  - Source: ui/src/data/v2/christy-cauble-davis.ts:154
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00008] Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farmers, and small businesses in broad issue statements ([source](https://www.christydavisforkansas.com/)). KCUR reported that an email from Davis listed restoration of funding for Medicaid, special education, and affordable housing programs, and said tariffs were causing instability for Kansas farmers and rural communities ([source](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-can…
+  - Source: https://www.christydavisforkansas.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-00268] Sedgwick High School (Harvey County, Kansas)
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:99
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00757] Education: Restore funding for special education
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:117
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00763] Said she wants to restore funding for Medicaid, special education and affordable housing programs (KCUR, Dec 30, 2025)
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:125
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-01617] Gun Vote -- Voted against bipartisan gun safety bill after Uvalde school shooting
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2250
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-02345] Christy Cauble Davis is a Democratic U.S. Senate candidate from Cottonwood Falls and one of the few contenders in the field with a long résumé in rural development work. She is a fifth-generation Kansan who graduated from Sedgwick High School, earned a bachelor's degree from Kansas State University in 1997, and completed a graduate degree at Wichita State University in 1999.
+  - Source: memory/candidates/christy-cauble-davis/site-profile.md:4
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-02461] The campaign launch post says Davis worked in all 105 Kansas counties and would focus on rural healthcare, public education, inflation, immigration, and accountability.
+  - Source: memory/candidates/christy-cauble-davis/sleuth-pass.md:38
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-02469] The campaign homepage says Davis will defend Social Security, Medicare, Medicaid, and public education from cuts and privatization. It also says she will fight for affordable housing, clean water, and hospitals.
+  - Source: memory/candidates/christy-cauble-davis/sleuth-pass.md:49
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-00607] Five candidates spoke to 150+ attendees: Hart, Davis, Spidel Neumann, Parelkar, Murray. This was the first major joint appearance. Issues raised: education, immigration, healthcare, tariffs, reproductive rights.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-00819] Born/Raised: Kansas City, Kansas. Attended Sumner Academy (magnet high school).
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1053
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01597] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2224
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-christy-cauble-davis-00007] For Kansas-specific engagement, Davis's feed emphasizes in-person stops, small-town businesses, veterans' events, local Democrats, and rural community identity. On November 30, she posted, "Shop Small Saturday in Cottonwood Falls was a reminder of what makes Kansas special. Stopped by Harshman Creek, Tallgrass Antiques, Prairie PastTimes, and the courthouse lighting with Cowboy Santa. These hometown businesses and traditions keep our communities strong" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m6ukjjx3622q)). On October 16, she wrote, "Touring the Babcock & Wilcox plant in Humboldt today — impressive work happening right here in Kansas! Downtown Humboldt looks amazing, and I’m proud to have been part of its story through my work with Freedom’s Frontier National Heritage Area" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m3dktirvxs2y)). At …
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m6ukjjx3622q
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02617] 2025-11-11 — "For almost 200 years, Kansas has played a proud role in that legacy — especially here in Leavenworth, home to the oldest active Army post west of the Mississippi and the U.S. Army Command and General Staff College."
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:141
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02652] 2025-08-27 — "Heartbroken by the tragedy at Annunciation Catholic School in Minneapolis. Our thoughts are with the children, families, first responders, and community facing unimaginable loss. Please hold them in your hearts."
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:231
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02688] 2025-12-30 — Davis said in an email that she wants "to restore funding for Medicaid, special education and affordable housing programs"; KCUR also reported that her website says she will "fight for immigration reform that provides a pathway to citizenship and ends inhumane policies that terrorize families and unconstitutionally deprive Kansans of due process."
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:293
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02703] The candidate website issue page addresses healthcare, education, immigration, and agriculture in broad terms; the Bluesky feed contains fewer issue-specific policy posts than event, accountability, and campaign-presence posts.
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:310
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-christy-cauble-davis-00970] Education: B.A. in Business Administration, Trevecca Nazarene University (1999) -- *note: Trevecca is a Church of the Nazarene university in Nashville, TN, suggesting a faith background*
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1348
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-01559] First Christian Church, Great Bend -- Elder, Deacon, Board Chairman, Sunday School Teacher (25+ years)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2165
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-01624] 25+ years of genuine church leadership (elder, deacon, board chair, Sunday school teacher)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2259
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-01829] Childhood faith: Attended Fellowship Christian Church with his grandmother; also attended St. Patrick's Catholic School
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2604
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00104] "I’ll defend Social Security, Medicare, Medicaid, and public education from cuts and privatization."
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:143
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00106] Davis wants to restore funding for Medicaid, special education, and affordable housing programs.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:147
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00108] Education:
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:889
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00251] Education: Associate degree, Cowley County Community College (2017)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1214
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00312] Family: Married to Megan; parents were both public school teachers; six generations of Kansas farmers, miners, and teachers
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:167
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00314] Education: Bachelor's degree, Tufts University (2013)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:169
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-christy-cauble-davis-0001] Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farmers, and small businesses in broad issue statements ([source](https://www.christydavisforkansas.com/)). KCUR reported that an email from Davis listed restoration of funding for Medicaid, special education, and affordable housing programs, and said tariffs were causing instability for Kansas farmers and rural communities ([source](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-can…
+  - Source: https://www.christydavisforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-christy-cauble-davis-0004] For Kansas-specific engagement, Davis's feed emphasizes in-person stops, small-town businesses, veterans' events, local Democrats, and rural community identity. On November 30, she posted, "Shop Small Saturday in Cottonwood Falls was a reminder of what makes Kansas special. Stopped by Harshman Creek, Tallgrass Antiques, Prairie PastTimes, and the courthouse lighting with Cowboy Santa. These hometown businesses and traditions keep our communities strong" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m6ukjjx3622q)). On October 16, she wrote, "Touring the Babcock & Wilcox plant in Humboldt today — impressive work happening right here in Kansas! Downtown Humboldt looks amazing, and I’m proud to have been part of its story through my work with Freedom’s Frontier National Heritage Area" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m3dktirvxs2y)). At …
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m6ukjjx3622q
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0005] 2025-11-11 — "For almost 200 years, Kansas has played a proud role in that legacy — especially here in Leavenworth, home to the oldest active Army post west of the Mississippi and the U.S. Army Command and General Staff College."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0006] 2025-08-27 — "Heartbroken by the tragedy at Annunciation Catholic School in Minneapolis. Our thoughts are with the children, families, first responders, and community facing unimaginable loss. Please hold them in your hearts."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0007] 2025-12-30 — Davis said in an email that she wants "to restore funding for Medicaid, special education and affordable housing programs"; KCUR also reported that her website says she will "fight for immigration reform that provides a pathway to citizenship and ends inhumane policies that terrorize families and unconstitutionally deprive Kansans of due process."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-christy-cauble-davis-0008] The candidate website issue page addresses healthcare, education, immigration, and agriculture in broad terms; the Bluesky feed contains fewer issue-specific policy posts than event, accountability, and campaign-presence posts.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0208] *"In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0212] "I’ll defend Social Security, Medicare, Medicaid, and public education from cuts and privatization."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0213] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0214] The campaign homepage says Davis will defend Social Security, Medicare, Medicaid, and public education from cuts and privatization. It also says she will fight for affordable housing, clean water, and hospitals.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 4. Religious liberty / church / civic morality
+
+Religious liberty / church / civic morality: 10 selected evidence items from 80 mapped rows. Public URL-backed rows: 0.
+
+### Evidence
+- **candidate-stated** [em-christy-cauble-davis-02355] Religious Liberty: Runs as a Democrat. No specific personal statement found in public sources.
+  - Source: memory/candidates/christy-cauble-davis/site-profile.md:23
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-02527] Could not find a candidate-controlled detailed statement on guns, marriage/LGBTQ policy, religious liberty, marijuana/drug policy, foster care/adoption, capital punishment, or a detailed Farm Bill/Ogallala Aquifer plan in the verified accessible sources.
+  - Source: memory/candidates/christy-cauble-davis/sleuth-pass.md:152
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-02917] "Candidate-controlled detailed positions on guns, marriage/LGBTQ policy, religious liberty, marijuana/drug policy, foster care/adoption, capital punishment, detailed Farm Bill text, Ogallala Aquifer, or district-level water policy."
+  - Source: memory/candidates/christy-cauble-davis/v2-issues.yaml:386
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-00163] said she attended church three times a week growing up, publicly identified with Christianity, and discussed leaving a sermon she considered hate speech
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:279
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-00164] Faith-related quotes should be treated as attributable public speech only, not as policy inference or spiritual certification.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:281
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-00175] The narrative compiler should not infer any of these from party label, faith language, events, or associations.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:298
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-00475] Self-described as "white, male, Christian, hetero, 2A-friendly, LEO-friendly" -- consciously positions himself as electable in red Kansas
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:447
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00168] Religious liberty as a legal-policy issue
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:290
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-02893] "title": "Religion / Public Identity",
+  - Source: ui/src/data/v2/christy-cauble-davis.ts:299
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-03022] "issue": "Religious Liberty",
+  - Source: ui/src/data/candidates.ts:4411
+  - Confidence/use: unknown / background-only
+
+### Caveats
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 5. Taxes / spending / debt
+
+Taxes / spending / debt: 24 selected evidence items from 42 mapped rows. Public URL-backed rows: 4.
+
+### Evidence
+- **candidate-stated** [em-christy-cauble-davis-00430] Supports Opportunity Zones program (tax incentives for economically distressed areas)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:371
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-00829] Described the disconnect *"between what capital wants and what community wants"* as his motivation. Said *"politician-created problems"* such as tariffs and tax policies that benefit billionaires *"are tearing apart the fabric of our communities."*
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1066
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-00833] Opportunity Zones: Supports federal tax incentive programs for investment in economically distressed areas
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1078
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01247] Said the US is "$34 trillion in debt, paying a trillion dollars on interest alone"
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1723
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01358] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1884
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01850] Supports Opportunity Zones program (tax incentives for investment in distressed areas)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2642
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00505] Campaign Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (hosted on Canva -- indicates minimal campaign budget/infrastructure)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-00054] Kansas SOS states that national, state, legislative, and judicial candidates must file with the Secretary of State, and that a candidate is not considered filed until petition/declaration and fee are received.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:57
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00327] Property tax reform (top issue in Statehouse; broke with party to support constitutional amendment capping property value increases for tax purposes)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:189
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-01190] Voted multiple times against using tax dollars for abortion
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1660
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-01738] Property Tax Champion: Made property taxes his top issue; broke with party lines to support a proposed state constitutional amendment capping annual property value increases for tax purposes
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2433
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-02125] Fiscal: "Ellis County spending too much money" was his top campaign concern in 2020
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:3074
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-02450] Kansas SOS filing process verified, candidate-list access blocked. The Kansas Secretary of State says candidates for national, state, legislative, and judicial offices must file with the Secretary of State, and a candidate is not considered filed until petition/declaration and fee are received. The same page lists the 2026 primary filing deadline as 12:00 p.m. Monday, June 1, 2026. The SOS candidate-list endpoint (elections_upcoming_candidate.aspx) returned a CloudFront 403 in this environment, so I could not independently confirm the live Kansas SOS candidate-list entry.
+  - Source: memory/candidates/christy-cauble-davis/sleuth-pass.md:22
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-02750] "A candidate is not considered filed until petition or declaration and fee are received"
+  - Source: memory/candidates/christy-cauble-davis/v2-issues.yaml:61
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01300] Koch Industries was the biggest overall corporate donor to GOP spending groups ($13.75M total) -- strong Kansas connection
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1803
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01600] Senate Budget Committee
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2228
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01605] Budget Committee
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2234
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-01169] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00861] Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **background-context** [em-christy-cauble-davis-01754] [Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)
+  - Source: https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/
+  - Confidence/use: likely / use
+- **background-context** [em-christy-cauble-davis-02138] [Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)
+  - Source: https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec
+  - Confidence/use: likely / use
+- **background-context** [em-christy-cauble-davis-00334] Property tax stance could appeal to rural/suburban voters across party lines
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:199
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00837] *"Politician-created problems, such as tariffs and tax policies that benefit billionaires, are tearing apart the fabric of our communities."* (KCUR, Dec 30, 2025)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1084
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-01201] Fire Arms Safety Act -- tax credit for firearms safety courses or purchasing gun safes
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1672
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0220] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0221] "A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 6. Economy / jobs / labor
+
+Economy / jobs / labor: 25 selected evidence items from 62 mapped rows. Public URL-backed rows: 3.
+
+### Evidence
+- **candidate-stated** [em-christy-cauble-davis-01700] Small business: Supports reducing costs for working families and small businesses
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2370
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-02349] Davis's record is defined less by roll-call votes than by programs and projects. At USDA Rural Development, she became the public face of housing, infrastructure, healthcare, and business financing programs across the state. The source material says her office oversaw more than $1.3 billion in Kansas investments and worked on a broader push to cut red tape in how federal programs reached communities.
+  - Source: memory/candidates/christy-cauble-davis/site-profile.md:11
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00677] Individual candidate property/business/court records -- requires deeper public records investigation per candidate
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:783
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00770] Retired Ameriprise financial executive with 40 years in business, an economics degree from University of Chicago, and an MBA from Northwestern. The money candidate -- has made 120+ donations to Democratic candidates and organizations. Brings corporate-world gravitas but zero political experience.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:943
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-02461] The campaign launch post says Davis worked in all 105 Kansas counties and would focus on rural healthcare, public education, inflation, immigration, and accountability.
+  - Source: memory/candidates/christy-cauble-davis/sleuth-pass.md:38
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-02480] The campaign homepage says Davis would push for immigration reform that honors work, offers legal pathways, ends inhumane detention, and protects people who keep the economy alive.
+  - Source: memory/candidates/christy-cauble-davis/sleuth-pass.md:69
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-02488] Issue-mapping note: belongs to tariffs/agriculture/economy; secondary source, candidate-attributed by email.
+  - Source: memory/candidates/christy-cauble-davis/sleuth-pass.md:84
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-02504] Campaign website is active and links to Instagram, Facebook, X/Twitter, and Bluesky. Accessible website text includes broad issue language on local control, public schools, healthcare/public benefits, farmers/small business, immigration, and voting rights.
+  - Source: memory/candidates/christy-cauble-davis/sleuth-pass.md:112
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-02780] "Campaign says she is focused on rural healthcare, public education, inflation, immigration, economic policy, and Washington accountability"
+  - Source: memory/candidates/christy-cauble-davis/v2-issues.yaml:124
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-02869] Davis's campaign says she would push for immigration reform that honors work, offers legal pathways, ends inhumane detention, and protects the people who keep the economy alive. KCUR also reported campaign website language saying she supports immigration reform that provides a pathway to citizenship and ends policies the campaign described as terrorizing families and depriving Kansans of due process.
+  - Source: memory/candidates/christy-cauble-davis/v2-issues.yaml:279
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01597] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2224
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-03156] "observation": "Topic distribution of Bluesky posts by manual coding: federal accountability / opposition to named national figures — 16 posts (35.6%); Kansas local events, local economy, and community presence — 14 posts (31.1%); veterans, public safety, political violence, and national tragedies — 8 posts (17.8%); fundraising and campaign asks — 3 posts (6.7%); personal, family, and cultural observances — 4 posts (8.9%).",
+  - Source: ui/src/data/v2/christy-cauble-davis.ts:232
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-christy-cauble-davis-00003] Across 45 Bluesky posts captured between August 17, 2025, and March 29, 2026, Davis's most frequent topic is federal accountability and opposition to named national political figures, a category that accounts for 16 posts, or 35.6 percent of the captured feed ([harvest](social-harvest.md)). On March 20, she posted, "Roger Marshall doesn't want voter ID. He wants voter suppression. And Kansas has seen this ALLLLL before. I’ll fight like hell to protect your right to vote" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u)). In a September 30 thread, she wrote, "As DC prepares for a shutdown and Kansans brace for the impact of failed leadership, we are getting another example of Roger Marshall putting national politics and appeasing the White House ahead of the real costs to Kansas families" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-00005] The highest-engagement post by likes in the captured Bluesky set was a March 29 post from Wyandotte County, with 8 likes, 0 reposts, 1 reply, and 0 quotes as of the May 11, 2026 capture. It read, "Kansans stood up today alongside millions across the country. In Wyandotte County, I stood with parents, veterans, teachers, union members, small business owners, and neighbors. And we don't do kings" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mi5ubacwqc2p)). A September 30 government-shutdown post tied it in total interactions, with 5 likes, 2 reposts, 1 reply, and 1 quote as of the same capture date ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m23jsbsx6k2q)). Her Facebook page showed 4,588 likes and 1,878 talking about this as of capture, but individual Facebook comments and post-level engagement were not accessible from the logged-out capture pa…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mi5ubacwqc2p
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02560] In Wyandotte County, I stood with parents, veterans, teachers, union members, small business owners, and neighbors.
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:34
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02608] Topic: Local economy
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:122
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02643] 2025-09-15 — "I caught up with Daisy, my mom’s insurance agent from El Dorado who has known her for a lifetime. I met two of my sister’s former art students from Maize High—he’s now an accountant, she’s a social worker."
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:203
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02696] Topic distribution of Bluesky posts by manual coding: federal accountability / opposition to named national figures — 16 posts (35.6%); Kansas local events, local economy, and community presence — 14 posts (31.1%); veterans, public safety, political violence, and national tragedies — 8 posts (17.8%); fundraising and campaign asks — 3 posts (6.7%); personal, family, and cultural observances — 4 posts (8.9%).
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:302
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-christy-cauble-davis-00970] Education: B.A. in Business Administration, Trevecca Nazarene University (1999) -- *note: Trevecca is a Church of the Nazarene university in Nashville, TN, suggesting a faith background*
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1348
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-02021] [Nex-Tech: Shaun](https://www.nex-tech.com/business/shaun/)
+  - Source: https://www.nex-tech.com/business/shaun/
+  - Confidence/use: likely / use
+- **background-context** [em-christy-cauble-davis-00115] "I’ll push for immigration reform that honors work, offers legal pathways, ends inhumane detention, and protects the people who keep our economy alive."
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:174
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00118] Trade / tariffs / agriculture / small business
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:185
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00253] Career: Business administrator
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1215
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00354] 40-year career in business/financial services
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:236
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00373] 40-year business career gives "I know how the economy works" credibility
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:263
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak Bluesky like** [soc-christy-cauble-davis-0009] Across 45 Bluesky posts captured between August 17, 2025, and March 29, 2026, Davis's most frequent topic is federal accountability and opposition to named national political figures, a category that accounts for 16 posts, or 35.6 percent of the captured feed ([harvest](social-harvest.md)). On March 20, she posted, "Roger Marshall doesn't want voter ID. He wants voter suppression. And Kansas has seen this ALLLLL before. I’ll fight like hell to protect your right to vote" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u)). In a September 30 thread, she wrote, "As DC prepares for a shutdown and Kansans brace for the impact of failed leadership, we are getting another example of Roger Marshall putting national politics and appeasing the White House ahead of the real costs to Kansas families" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky comment** [soc-christy-cauble-davis-0010] The highest-engagement post by likes in the captured Bluesky set was a March 29 post from Wyandotte County, with 8 likes, 0 reposts, 1 reply, and 0 quotes as of the May 11, 2026 capture. It read, "Kansans stood up today alongside millions across the country. In Wyandotte County, I stood with parents, veterans, teachers, union members, small business owners, and neighbors. And we don't do kings" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mi5ubacwqc2p)). A September 30 government-shutdown post tied it in total interactions, with 5 likes, 2 reposts, 1 reply, and 1 quote as of the same capture date ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m23jsbsx6k2q)). Her Facebook page showed 4,588 likes and 1,878 talking about this as of capture, but individual Facebook comments and post-level engagement were not accessible from the logged-out capture pa…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mi5ubacwqc2p
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0011] In Wyandotte County, I stood with parents, veterans, teachers, union members, small business owners, and neighbors.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0012] Topic: Local economy
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0013] 2025-09-15 — "I caught up with Daisy, my mom’s insurance agent from El Dorado who has known her for a lifetime. I met two of my sister’s former art students from Maize High—he’s now an accountant, she’s a social worker."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-christy-cauble-davis-0014] Topic distribution of Bluesky posts by manual coding: federal accountability / opposition to named national figures — 16 posts (35.6%); Kansas local events, local economy, and community presence — 14 posts (31.1%); veterans, public safety, political violence, and national tragedies — 8 posts (17.8%); fundraising and campaign asks — 3 posts (6.7%); personal, family, and cultural observances — 4 posts (8.9%).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-christy-cauble-davis-0222] Personal Facebook: Limited; appears to post primarily through DXI Training Solutions LLC business page
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0223] DXI business page is his primary public-facing social media presence
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-christy-cauble-davis-0224] Campaign website is active and links to Instagram, Facebook, X/Twitter, and Bluesky. Accessible website text includes broad issue language on local control, public schools, healthcare/public benefits, farmers/small business, immigration, and voting rights.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0225] "observation": "2025-09-15 — \"I caught up with Daisy, my mom’s insurance agent from El Dorado who has known her for a lifetime. I met two of my sister’s former art students from Maize High—he’s now an accountant, she’s a social worker.\"",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 7. Guns / Second Amendment
+
+Guns / Second Amendment: 19 selected evidence items from 26 mapped rows. Public URL-backed rows: 0.
+
+### Evidence
+- **documented-record** [em-christy-cauble-davis-00169] Guns / Second Amendment
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:291
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00462] Friendly to the Second Amendment
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:430
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00927] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1272
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-01195] Gun / Second Amendment Votes
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1666
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-01196] Voted AGAINST the Bipartisan Safer Communities Act (June 2022) -- the gun reform bill that passed after Uvalde
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1667
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-01197] Called red flag laws provisions a "gun-grabbing scheme" that "violate the Second Amendment" and are "begging to be abused"
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1668
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-01199] Introduced pro-2A legislation:
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1670
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-01325] Second Amendment
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1837
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01620] Very few vulnerabilities from the right; Heritage Action 89-94%, pro-life 100%, NRA-aligned, Trump-endorsed
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2254
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-00475] Self-described as "white, male, Christian, hetero, 2A-friendly, LEO-friendly" -- consciously positions himself as electable in red Kansas
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:447
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-00486] Described himself as "white, male, Christian, hetero, 2A-friendly, LEO-friendly, and very clearly anti-pedo" as reasons he's the best Democratic candidate. (Kansas Reflector)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:462
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-00601] Hart has explicitly positioned himself as the most electable Democrat ("white, male, Christian, hetero, 2A-friendly, LEO-friendly"). This electability-vs-values tension will define the primary.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:673
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-01169] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00474] Pro-2A, pro-law enforcement positioning is unusual for a Democrat and could attract crossover voters
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:446
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00945] Website headline: "PRO-LIFE. PRO-GUN. PRO-TRUMP."
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1301
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00960] *"PRO-LIFE. PRO-GUN. PRO-TRUMP."* (hawkinsforinsurance.com)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1324
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-01030] | Branding | "Pro-Life. Pro-Gun. Pro-Trump." | Consumer champion; anti-industry |
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1435
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-01201] Fire Arms Safety Act -- tax credit for firearms safety courses or purchasing gun safes
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1672
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-01203] ATF Transparency Act -- speed up application processes for gun owners
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1674
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0209] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0228] Guns / Second Amendment: Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 8. Immigration / border
+
+Immigration / border: 26 selected evidence items from 73 mapped rows. Public URL-backed rows: 6.
+
+### Evidence
+- **candidate-stated** [em-christy-cauble-davis-00117] KCUR reported that Davis's website says she will fight for immigration reform that provides a pathway to citizenship and ends inhumane policies that terrorize families and unconstitutionally deprive Kansans of due process.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:178
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-00806] Immigration Reform: *"We have a very big problem with immigration in our country right now, in the sense that there's a lot of confusion over it."* Supports reform that is "a solution, not another problem."
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1024
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01358] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1884
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01369] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1899
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01387] Platform: Consolidated children's healthcare program (replace Medicaid/CHIP patchwork), stronger antitrust and consumer protection laws, immigration reform
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1923
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-02357] Immigration / Border: Supports immigration reform that "provides a pathway to citizenship and ends inhumane policies that terrorize families and unconstitutionally deprive Kansans of due process."
+  - Source: memory/candidates/christy-cauble-davis/site-profile.md:27
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-03025] "stance": "Supports immigration reform that \"provides a pathway to citizenship and ends inhumane policies that terrorize families and unconstitutionally deprive Kansans of due process.\""
+  - Source: ui/src/data/candidates.ts:4420
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-03140] "observation": "2025-12-30 — Davis said in an email that she wants \"to restore funding for Medicaid, special education and affordable housing programs\"; KCUR also reported that her website says she will \"fight for immigration reform that provides a pathway to citizenship and ends inhumane policies that terrorize families and unconstitutionally deprive Kansans of due process.\"",
+  - Source: ui/src/data/v2/christy-cauble-davis.ts:109
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00008] Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farmers, and small businesses in broad issue statements ([source](https://www.christydavisforkansas.com/)). KCUR reported that an email from Davis listed restoration of funding for Medicaid, special education, and affordable housing programs, and said tariffs were causing instability for Kansas farmers and rural communities ([source](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-can…
+  - Source: https://www.christydavisforkansas.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-00760] Immigration: "Fight for immigration reform that provides a pathway to citizenship and ends inhumane policies that terrorize families and unconstitutionally deprive Kansans of due process"
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:120
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00765] Weaknesses: Lost her only previous campaign (2020 KS-1 primary). The USDA role ties her directly to Biden, which is a liability in Kansas. Immigration platform (pathway to citizenship) may be too progressive for Kansas general election voters. The NRSC disclosure complaint, while procedural, gives opponents ammunition.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:929
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00796] Immigration attorney running on fixing the broken immigration system and children's healthcare. First-time candidate. Filed in August 2025, making her one of the earliest entrants alongside Davis and Soetaert.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1000
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00810] Called for a full investigation of federal immigration enforcement actions (KCUR, Dec 30, 2025)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1030
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-01212] Called Biden's border policy an "open borders agenda" that "exposed states to invasion"
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1684
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-01244] Voted against continuing resolutions that don't include border security funding
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1720
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-01383] Background: Immigration attorney licensed in Kansas, Arkansas, and Missouri. First-time candidate.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1919
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-00607] Five candidates spoke to 150+ attendees: Hart, Davis, Spidel Neumann, Parelkar, Murray. This was the first major joint appearance. Issues raised: education, immigration, healthcare, tariffs, reproductive rights.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-christy-cauble-davis-02688] 2025-12-30 — Davis said in an email that she wants "to restore funding for Medicaid, special education and affordable housing programs"; KCUR also reported that her website says she will "fight for immigration reform that provides a pathway to citizenship and ends inhumane policies that terrorize families and unconstitutionally deprive Kansans of due process."
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:293
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02703] The candidate website issue page addresses healthcare, education, immigration, and agriculture in broad terms; the Bluesky feed contains fewer issue-specific policy posts than event, accountability, and campaign-presence posts.
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:310
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-christy-cauble-davis-01169] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00406] [Within Reason with Mike Matson (News Radio KMAN, March 2026)](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)
+  - Source: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+  - Confidence/use: likely / use
+- **background-context** [em-christy-cauble-davis-00417] [Kansas Reflector - Announcement (Aug 2025)](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-christy-cauble-davis-01041] [Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/) (Aug 25, 2025)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-christy-cauble-davis-01887] [Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-christy-cauble-davis-01890] [KMAN Radio: Within Reason interview](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)
+  - Source: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+  - Confidence/use: likely / use
+- **background-context** [em-christy-cauble-davis-00114] Immigration
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:170
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-christy-cauble-davis-0001] Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farmers, and small businesses in broad issue statements ([source](https://www.christydavisforkansas.com/)). KCUR reported that an email from Davis listed restoration of funding for Medicaid, special education, and affordable housing programs, and said tariffs were causing instability for Kansas farmers and rural communities ([source](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-can…
+  - Source: https://www.christydavisforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0007] 2025-12-30 — Davis said in an email that she wants "to restore funding for Medicaid, special education and affordable housing programs"; KCUR also reported that her website says she will "fight for immigration reform that provides a pathway to citizenship and ends inhumane policies that terrorize families and unconstitutionally deprive Kansans of due process."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-christy-cauble-davis-0008] The candidate website issue page addresses healthcare, education, immigration, and agriculture in broad terms; the Bluesky feed contains fewer issue-specific policy posts than event, accountability, and campaign-presence posts.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0213] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0215] "Campaign lists local control, infrastructure, affordable housing, broadband, strong schools, clean water, hospitals, Social Security, Medicare, Medicaid, public education, farmers, small businesses, immigration reform, voting rights, and transparency"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-christy-cauble-davis-0218] "observation": "The candidate website issue page addresses healthcare, education, immigration, and agriculture in broad terms; the Bluesky feed contains fewer issue-specific policy posts than event, accountability, and campaign-presence posts.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-christy-cauble-davis-0219] "observation": "Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals,...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0220] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-christy-cauble-davis-0224] Campaign website is active and links to Instagram, Facebook, X/Twitter, and Bluesky. Accessible website text includes broad issue language on local control, public schools, healthcare/public benefits, farmers/small business, immigration, and voting rights.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0229] Weaknesses: Lost her only previous campaign (2020 KS-1 primary). The USDA role ties her directly to Biden, which is a liability in Kansas. Immigration platform (pathway to citizenship) may be too progressive for Kansas general election voters. The NRSC disclosure complaint, while procedural, gives opponents ammunition.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 9. Health care / insurance / Medicaid
+
+Health care / insurance / Medicaid: 36 selected evidence items from 172 mapped rows. Public URL-backed rows: 7.
+
+### Evidence
+- **candidate-stated** [em-christy-cauble-davis-01014] On her insurance commissioner platform: Focused on *"lowering costs, consumer protection and holding big insurance companies accountable."* (Kansas Reflector, January 2026)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1408
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01226] Has said: "I came to Congress to fix the cost of health care"
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1700
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01227] Called Obamacare a "miserable failure" -- said premiums doubled and average family deductible is $7,000-$9,000
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1701
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01231] Supports health ministry plans and association healthcare plans as alternatives
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1705
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01233] Promised healthcare vote before end of 2025
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1707
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01369] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1899
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01387] Platform: Consolidated children's healthcare program (replace Medicaid/CHIP patchwork), stronger antitrust and consumer protection laws, immigration reform
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1923
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01434] BUT strongly opposes all vaccine mandates -- calls it a personal choice between individuals and their doctors
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1989
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00008] Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farmers, and small businesses in broad issue statements ([source](https://www.christydavisforkansas.com/)). KCUR reported that an email from Davis listed restoration of funding for Medicaid, special education, and affordable housing programs, and said tariffs were causing instability for Kansas farmers and rural communities ([source](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-can…
+  - Source: https://www.christydavisforkansas.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-01045] [Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/) (May 13, 2025)
+  - Source: https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-01055] [Ballotpedia: Kansas Insurance Commissioner Election 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-02408] [Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/)
+  - Source: https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-00284] Healthcare access (especially rural hospitals and clinics)
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:119
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00368] Reversing Medicaid cuts (called the "big abomination of a bill")
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:255
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00382] Key Quote: Called Medicaid cuts "the big abomination of a bill" and said reversing them "would be a good first step because health care is a significant concern in rural Kansas." (Kansas Reflector)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:275
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00688] DEEP INVESTIGATION: 2026 Kansas U.S. Senate (Democratic Challengers) & Insurance Commissioner Race
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:801
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-00607] Five candidates spoke to 150+ attendees: Hart, Davis, Spidel Neumann, Parelkar, Murray. This was the first major joint appearance. Issues raised: education, immigration, healthcare, tariffs, reproductive rights.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-00954] Ordered SB 360 transferred between the House Insurance Committee and Health Committee four times since February 25, 2026
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1314
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01027] | Fundraising | ~$384K cash on hand (end of 2025) | Unknown; pledged no insurance industry money |
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1432
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01296] | Health/medical industry | Sector | Major donor category given his background |
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1798
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01597] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2224
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-christy-cauble-davis-00007] For Kansas-specific engagement, Davis's feed emphasizes in-person stops, small-town businesses, veterans' events, local Democrats, and rural community identity. On November 30, she posted, "Shop Small Saturday in Cottonwood Falls was a reminder of what makes Kansas special. Stopped by Harshman Creek, Tallgrass Antiques, Prairie PastTimes, and the courthouse lighting with Cowboy Santa. These hometown businesses and traditions keep our communities strong" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m6ukjjx3622q)). On October 16, she wrote, "Touring the Babcock & Wilcox plant in Humboldt today — impressive work happening right here in Kansas! Downtown Humboldt looks amazing, and I’m proud to have been part of its story through my work with Freedom’s Frontier National Heritage Area" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m3dktirvxs2y)). At …
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m6ukjjx3622q
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02643] 2025-09-15 — "I caught up with Daisy, my mom’s insurance agent from El Dorado who has known her for a lifetime. I met two of my sister’s former art students from Maize High—he’s now an accountant, she’s a social worker."
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:203
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02644] 2025-09-15 — "And I spent time with my Uncle Steve Cauble, an optometrist who’s been volunteering at the Lions Club booth all fair long, offering health checks to anyone who stopped by."
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:207
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02649] 2025-09-07 — "Wait... isn't this guy supposed to be a licensed medical professional? Hmmmmm... 👀"
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:223
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02650] Topic: Health
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:226
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02653] 2025-08-26 — "Happy #NationalDogDay! Floyd joined our family during COVID, learned to load the washer, and loves bacon + Flint Hills hikes. His nemesis? Our orange tabby, Pluto."
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:235
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02688] 2025-12-30 — Davis said in an email that she wants "to restore funding for Medicaid, special education and affordable housing programs"; KCUR also reported that her website says she will "fight for immigration reform that provides a pathway to citizenship and ends inhumane policies that terrorize families and unconstitutionally deprive Kansans of due process."
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:293
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02702] Across the captured Bluesky period, the feed contains no posts focused on Social Security, Medicare, detailed farm bill text, the Ogallala Aquifer, abortion policy details beyond convention coverage, foster care, adoption, capital punishment, housing policy specifics beyond campaign-site language, or district-level water policy.
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:309
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-christy-cauble-davis-01169] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-01043] [Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker](https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/) (Jan 10, 2026)
+  - Source: https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/
+  - Confidence/use: likely / use
+- **background-context** [em-christy-cauble-davis-02406] [Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker](https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/)
+  - Source: https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/
+  - Confidence/use: likely / use
+- **background-context** [em-christy-cauble-davis-00103] Healthcare / Medicaid / Medicare / Social Security
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:139
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00104] "I’ll defend Social Security, Medicare, Medicaid, and public education from cuts and privatization."
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:143
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00106] Davis wants to restore funding for Medicaid, special education, and affordable housing programs.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:147
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00243] Support for Medicaid cuts threatening rural hospitals
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:63
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-christy-cauble-davis-0001] Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farmers, and small businesses in broad issue statements ([source](https://www.christydavisforkansas.com/)). KCUR reported that an email from Davis listed restoration of funding for Medicaid, special education, and affordable housing programs, and said tariffs were causing instability for Kansas farmers and rural communities ([source](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-can…
+  - Source: https://www.christydavisforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-christy-cauble-davis-0003] Across the captured Bluesky period, the feed contains no posts focused on Social Security, Medicare, detailed farm bill text, the Ogallala Aquifer, abortion policy details beyond convention coverage, foster care, adoption, capital punishment, housing policy specifics beyond campaign-site language, or district-level water policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-christy-cauble-davis-0004] For Kansas-specific engagement, Davis's feed emphasizes in-person stops, small-town businesses, veterans' events, local Democrats, and rural community identity. On November 30, she posted, "Shop Small Saturday in Cottonwood Falls was a reminder of what makes Kansas special. Stopped by Harshman Creek, Tallgrass Antiques, Prairie PastTimes, and the courthouse lighting with Cowboy Santa. These hometown businesses and traditions keep our communities strong" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m6ukjjx3622q)). On October 16, she wrote, "Touring the Babcock & Wilcox plant in Humboldt today — impressive work happening right here in Kansas! Downtown Humboldt looks amazing, and I’m proud to have been part of its story through my work with Freedom’s Frontier National Heritage Area" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m3dktirvxs2y)). At …
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m6ukjjx3622q
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0007] 2025-12-30 — Davis said in an email that she wants "to restore funding for Medicaid, special education and affordable housing programs"; KCUR also reported that her website says she will "fight for immigration reform that provides a pathway to citizenship and ends inhumane policies that terrorize families and unconstitutionally deprive Kansans of due process."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-christy-cauble-davis-0008] The candidate website issue page addresses healthcare, education, immigration, and agriculture in broad terms; the Bluesky feed contains fewer issue-specific policy posts than event, accountability, and campaign-presence posts.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0013] 2025-09-15 — "I caught up with Daisy, my mom’s insurance agent from El Dorado who has known her for a lifetime. I met two of my sister’s former art students from Maize High—he’s now an accountant, she’s a social worker."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0015] 2025-09-15 — "And I spent time with my Uncle Steve Cauble, an optometrist who’s been volunteering at the Lions Club booth all fair long, offering health checks to anyone who stopped by."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0016] 2025-09-07 — "Wait... isn't this guy supposed to be a licensed medical professional? Hmmmmm... 👀"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0017] Topic: Health
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0018] 2025-08-26 — "Happy #NationalDogDay! Floyd joined our family during COVID, learned to load the washer, and loves bacon + Flint Hills hikes. His nemesis? Our orange tabby, Pluto."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 10. Election integrity / voting / courts
+
+Election integrity / voting / courts: 30 selected evidence items from 587 mapped rows. Public URL-backed rows: 100.
+
+### Evidence
+- **candidate-stated** [em-christy-cauble-davis-01179] He called it "a decision from my heart" and said he was "concerned then and I still am today that six states broke their own laws or their own constitution."
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1648
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01233] Promised healthcare vote before end of 2025
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1707
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-02462] Issue-mapping note: rural-development profile evidence and issue-statement evidence; not a voting record.
+  - Source: memory/candidates/christy-cauble-davis/sleuth-pass.md:39
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00008] Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farmers, and small businesses in broad issue statements ([source](https://www.christydavisforkansas.com/)). KCUR reported that an email from Davis listed restoration of funding for Medicaid, special education, and affordable housing programs, and said tariffs were causing instability for Kansas farmers and rural communities ([source](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-can…
+  - Source: https://www.christydavisforkansas.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-00059] Candidate information: https://www.sos.ks.gov/elections/candidate-information.html
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html`
+  - Confidence/use: confirmed / use
+- **documented-record** [em-christy-cauble-davis-00060] Important election dates: https://sos.ks.gov/elections/important-election-dates.html
+  - Source: https://sos.ks.gov/elections/important-election-dates.html`
+  - Confidence/use: confirmed / use
+- **documented-record** [em-christy-cauble-davis-00061] Candidate list endpoint attempted: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx
+  - Source: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx`
+  - Confidence/use: confirmed / use
+- **documented-record** [em-christy-cauble-davis-00099] Campaign homepage: https://www.christydavisforkansas.com/
+  - Source: https://www.christydavisforkansas.com/`
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-00107] KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates`
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-00113] https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u
+  - Source: https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u`
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-00186] Kansas SOS Candidate Information — https://www.sos.ks.gov/elections/candidate-information.html — primary/official — accessed 2026-05-19
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html`
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-christy-cauble-davis-00386] [FEC Filing](https://www.fec.gov/data/candidate/S6KS00262/)
+  - Source: https://www.fec.gov/data/candidate/S6KS00262/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-christy-cauble-davis-00610] FEC Race Page: [2026 Election - U.S. Senate - Kansas](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-christy-cauble-davis-01050] [FEC: 2026 Kansas Senate Election](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-christy-cauble-davis-01933] FEC Filing: [FEC Candidate H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/)
+  - Source: https://www.fec.gov/data/candidate/H6KS03258/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-christy-cauble-davis-02942] https://www.fec.gov/data/elections/senate/KS/2026/ -- FEC filing data -- accessed 2026-03-30
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-christy-cauble-davis-00257] FEC Filing: Filed for Republican primary
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:82
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-christy-cauble-davis-00003] Across 45 Bluesky posts captured between August 17, 2025, and March 29, 2026, Davis's most frequent topic is federal accountability and opposition to named national political figures, a category that accounts for 16 posts, or 35.6 percent of the captured feed ([harvest](social-harvest.md)). On March 20, she posted, "Roger Marshall doesn't want voter ID. He wants voter suppression. And Kansas has seen this ALLLLL before. I’ll fight like hell to protect your right to vote" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u)). In a September 30 thread, she wrote, "As DC prepares for a shutdown and Kansans brace for the impact of failed leadership, we are getting another example of Roger Marshall putting national politics and appeasing the White House ahead of the real costs to Kansas families" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02564] Topic: Democracy
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:41
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02566] I’ll fight like hell to protect your right to vote.
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:44
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02568] Topic: Voting
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:49
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02620] 2025-11-11 — "We appreciate your commitment to the constitution and the people of this country. To all who have worn the uniform, and to the families who serve alongside them, thank you. www.christydavisforkansas.com"
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:153
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-christy-cauble-davis-01169] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-christy-cauble-davis-00956] Advocates accused him of "desperately maneuvering to sabotage" the vote
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1316
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00188] Kansas SOS 2020 Primary Official Vote Totals — https://sos.ks.gov/elections/20elec/2020_Primary_Official_Vote_Totals.pdf — primary/official — accessed 2026-05-19
+  - Source: https://sos.ks.gov/elections/20elec/2020_Primary_Official_Vote_Totals.pdf`
+  - Confidence/use: confirmed / use
+- **background-context** [em-christy-cauble-davis-00198] Hays Post Democracy Fest coverage — https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9 — secondary — accessed 2026-05-19
+  - Source: https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9`
+  - Confidence/use: likely / use
+- **background-context** [em-christy-cauble-davis-01005] Full voting record available at [kslegislature.gov](https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/)
+  - Source: https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/
+  - Confidence/use: confirmed / use
+- **background-context** [em-christy-cauble-davis-00024] Kansas Secretary of State 2020 Primary Official Vote Totals
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:17
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00031] Hays Post Democracy Fest coverage
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:26
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00121] Voting rights / transparency / government accountability
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:200
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-christy-cauble-davis-0001] Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farmers, and small businesses in broad issue statements ([source](https://www.christydavisforkansas.com/)). KCUR reported that an email from Davis listed restoration of funding for Medicaid, special education, and affordable housing programs, and said tariffs were causing instability for Kansas farmers and rural communities ([source](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-can…
+  - Source: https://www.christydavisforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky like** [soc-christy-cauble-davis-0009] Across 45 Bluesky posts captured between August 17, 2025, and March 29, 2026, Davis's most frequent topic is federal accountability and opposition to named national political figures, a category that accounts for 16 posts, or 35.6 percent of the captured feed ([harvest](social-harvest.md)). On March 20, she posted, "Roger Marshall doesn't want voter ID. He wants voter suppression. And Kansas has seen this ALLLLL before. I’ll fight like hell to protect your right to vote" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u)). In a September 30 thread, she wrote, "As DC prepares for a shutdown and Kansans brace for the impact of failed leadership, we are getting another example of Roger Marshall putting national politics and appeasing the White House ahead of the real costs to Kansas families" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0019] Topic: Democracy
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest like** [soc-christy-cauble-davis-0020] I’ll fight like hell to protect your right to vote.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0021] Topic: Voting
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0022] 2025-11-11 — "We appreciate your commitment to the constitution and the people of this country. To all who have worn the uniform, and to the families who serve alongside them, thank you. www.christydavisforkansas.com"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0209] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-christy-cauble-davis-0210] "observation": "Across the captured Bluesky period, the feed contains no posts focused on Social Security, Medicare, detailed farm bill text, the Ogallala Aquifer, abortion policy details beyond convention coverage, foster care, adoption, capital punishment, housing policy specifics beyond campaign-site language, or district-level water policy.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0214] The campaign homepage says Davis will defend Social Security, Medicare, Medicaid, and public education from cuts and privatization. It also says she will fight for affordable housing, clean water, and hospitals.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0215] "Campaign lists local control, infrastructure, affordable housing, broadband, strong schools, clean water, hospitals, Social Security, Medicare, Medicaid, public education, farmers, small businesses, immigration reform, voting rights, and transparency"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 11. Public safety / law enforcement / criminal justice
+
+Public safety / law enforcement / criminal justice: 22 selected evidence items from 145 mapped rows. Public URL-backed rows: 8.
+
+### Evidence
+- **candidate-stated** [em-christy-cauble-davis-00715] The January 2026 killing of Alex Pretti by federal agents in Minneapolis was the catalyst. As a career federal law enforcement official, Hart said this event -- and the broader direction of the federal government -- compelled him to leave his career and enter politics for the first time.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:848
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00642] [KCUR - "Who's running to represent Kansas in the U.S. Senate in 2026?" (Dec 30, 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-00643] [Ballotpedia - Kansas Senate 2026](https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026)
+  - Source: https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-00653] [Sharice Davids Senate Speculation (Jan 29, 2026)](https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/)
+  - Source: https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-00752] Website: [christydavisforkansas.com](https://www.christydavisforkansas.com/)
+  - Source: https://www.christydavisforkansas.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-01062] [NRSC: Calls for investigation of four Kansas Democrats](https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/) (Mar 11, 2026)
+  - Source: https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-02411] [NRSC: Calls for investigation of four Kansas Democrats](https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/)
+  - Source: https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-03005] "url": "https://www.kansas.gov/ethics/"
+  - Source: https://www.kansas.gov/ethics/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-christy-cauble-davis-00202] 2026 Kansas U.S. Senate Race -- Complete Investigation Report
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:7
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-03156] "observation": "Topic distribution of Bluesky posts by manual coding: federal accountability / opposition to named national figures — 16 posts (35.6%); Kansas local events, local economy, and community presence — 14 posts (31.1%); veterans, public safety, political violence, and national tragedies — 8 posts (17.8%); fundraising and campaign asks — 3 posts (6.7%); personal, family, and cultural observances — 4 posts (8.9%).",
+  - Source: ui/src/data/v2/christy-cauble-davis.ts:232
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-christy-cauble-davis-00006] On national and foreign-policy issues, Davis's feed is narrower than her accountability and Kansas-event posting. The captured set contains one direct foreign-policy post, written after reported U.S. combat casualties in Iran: "Today we mourn the lives lost in the first U.S. combat casualties of this new conflict with Iran. May we hold their families close, honor their sacrifice, and never forget the human cost of war" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mfz7t2nklk2d)). She also posted about National Guard soldiers shot near the White House, political violence after Charlie Kirk's death, and a Kansas report about federal agents using lethal force. In that January 28 thread she wrote, "Kansans should be deeply alarmed by reports of federal agents using lethal force on American soil. This isn’t about politics. It’s about accountability, transparency, and the…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mfz7t2nklk2d
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02578] Topic: Public safety
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:67
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02598] 2026-01-28 — "Kansans should be deeply alarmed by reports of federal agents using lethal force on American soil. This isn’t about politics. It’s about accountability, transparency, and the basic expectation that law enforcement follows the rule of law.
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:105
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02601] Topic: Law enforcement
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:110
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02696] Topic distribution of Bluesky posts by manual coding: federal accountability / opposition to named national figures — 16 posts (35.6%); Kansas local events, local economy, and community presence — 14 posts (31.1%); veterans, public safety, political violence, and national tragedies — 8 posts (17.8%); fundraising and campaign asks — 3 posts (6.7%); personal, family, and cultural observances — 4 posts (8.9%).
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:302
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-christy-cauble-davis-01711] Hart is the most unconventional candidate in the Democratic primary. A career federal prosecutor who switched parties twice in one month, running on a blunt "electability" argument centered on his identity as a straight white Christian male in Kansas. His wife's quip has become his most quoted line. His lack of political experience or campaign infrastructure is either refreshingly authentic or dangerously unprepared -- depends on the voter. His 21-year record prosecuting child predators is his strongest credential.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2389
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00461] Pro-law enforcement
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:429
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00473] 16 years as federal prosecutor gives instant credibility on rule of law
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:445
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00474] Pro-2A, pro-law enforcement positioning is unusual for a Democrat and could attract crossover voters
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:446
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00704] Career: 21+ years in public service as a prosecutor
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:836
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00722] Frames himself as a nonpartisan law enforcement veteran who served under both Democratic and Republican administrations
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:859
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00729] Strengths: The strongest biographical story in the field. A career prosecutor who protected children from predators for 21 years is extraordinarily hard to attack. His party-switching story (independent -> Republican -> Democrat) could genuinely appeal to crossover voters. The "law enforcement Democrat" archetype has worked in red states before.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:869
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak Bluesky post** [soc-christy-cauble-davis-0014] Topic distribution of Bluesky posts by manual coding: federal accountability / opposition to named national figures — 16 posts (35.6%); Kansas local events, local economy, and community presence — 14 posts (31.1%); veterans, public safety, political violence, and national tragedies — 8 posts (17.8%); fundraising and campaign asks — 3 posts (6.7%); personal, family, and cultural observances — 4 posts (8.9%).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky follow** [soc-christy-cauble-davis-0023] On national and foreign-policy issues, Davis's feed is narrower than her accountability and Kansas-event posting. The captured set contains one direct foreign-policy post, written after reported U.S. combat casualties in Iran: "Today we mourn the lives lost in the first U.S. combat casualties of this new conflict with Iran. May we hold their families close, honor their sacrifice, and never forget the human cost of war" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mfz7t2nklk2d)). She also posted about National Guard soldiers shot near the White House, political violence after Charlie Kirk's death, and a Kansas report about federal agents using lethal force. In that January 28 thread she wrote, "Kansans should be deeply alarmed by reports of federal agents using lethal force on American soil. This isn’t about politics. It’s about accountability, transparency, and the…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mfz7t2nklk2d
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0024] Topic: Public safety
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest follow** [soc-christy-cauble-davis-0025] 2026-01-28 — "Kansans should be deeply alarmed by reports of federal agents using lethal force on American soil. This isn’t about politics. It’s about accountability, transparency, and the basic expectation that law enforcement follows the rule of law.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0026] Topic: Law enforcement
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0221] "A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-christy-cauble-davis-0227] "observation": "Topic distribution of Bluesky posts by manual coding: federal accountability / opposition to named national figures — 16 posts (35.6%); Kansas local events, local economy, and community presence — 14 posts (31.1%); veterans, public safety, political violence, and national tragedies — 8 posts (17.8%); fundraising and campaign asks — 3 posts (6.7%); personal, family, and cultural observances — 4 posts (8.9%).",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0229] Weaknesses: Lost her only previous campaign (2020 KS-1 primary). The USDA role ties her directly to Biden, which is a liability in Kansas. Immigration platform (pathway to citizenship) may be too progressive for Kansas general election voters. The NRSC disclosure complaint, while procedural, gives opponents ammunition.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0253] Platform / Key Positions:
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0254] Platform
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 12. Agriculture / rural economy / water
+
+Agriculture / rural economy / water: 38 selected evidence items from 194 mapped rows. Public URL-backed rows: 9.
+
+### Evidence
+- **candidate-stated** [em-christy-cauble-davis-00120] KCUR reported Davis says President Trump's tariffs are causing instability for farmers and rural communities.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:193
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-00154] "What that says to me is we can’t count rural Kansas out"
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:265
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01221] Opposes federal control over cattle markets
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1694
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01369] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1899
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01810] Opposes Medicaid cuts threatening rural hospitals
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2564
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-02319] She says she helped move more than $1.3 billion into Kansas communities through USDA Rural Development.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:3380
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-02347] Her highest-profile job came in federal government. Davis served as Kansas state director of USDA Rural Development from 2023 until January 2025, an office that she says oversaw more than $1.3 billion in investment across Kansas communities.
+  - Source: memory/candidates/christy-cauble-davis/site-profile.md:8
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-02349] Davis's record is defined less by roll-call votes than by programs and projects. At USDA Rural Development, she became the public face of housing, infrastructure, healthcare, and business financing programs across the state. The source material says her office oversaw more than $1.3 billion in Kansas investments and worked on a broader push to cut red tape in how federal programs reached communities.
+  - Source: memory/candidates/christy-cauble-davis/site-profile.md:11
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00008] Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farmers, and small businesses in broad issue statements ([source](https://www.christydavisforkansas.com/)). KCUR reported that an email from Davis listed restoration of funding for Medicaid, special education, and affordable housing programs, and said tariffs were causing instability for Kansas farmers and rural communities ([source](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-can…
+  - Source: https://www.christydavisforkansas.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-00128] Candidate-controlled campaign homepage text accessible on 2026-05-19 did not include detailed abortion-policy text in the scraped lines. News From The States/Kansas Reflector convention coverage did include Davis in a reproductive-rights section, saying rural Kansas could not be counted out based on Chase County's 2022 abortion amendment vote.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:222
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00173] Detailed Farm Bill text
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:295
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00244] Failure to pass Farm Bill cited by multiple challengers
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:64
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00277] Kansas State Director, USDA Rural Development (Biden administration, 2023-January 2025) -- oversaw more than $1.3 billion of investment in Kansas (community centers, housing developments, hospitals, clinics, nursing homes). Also led a nationwide effort to cut red tape in federal programs.
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:109
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00283] Rural investment and infrastructure
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:118
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00284] Healthcare access (especially rural hospitals and clinics)
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:119
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00291] Deep institutional knowledge of rural Kansas (25 years working across all 105 counties)
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:128
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-00298] Based in very rural Chase County -- small donor/volunteer base
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:142
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01215] Serves on Senate Agriculture Committee -- a pillar of his identity
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1688
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01293] | Kansas Farm Bureau | Endorsement + support | Agricultural sector backing |
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1795
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01295] | Agriculture industry | Sector | Major donor category |
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1797
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01324] Multiple Farm Bill provisions as Agriculture Committee member
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1835
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-01405] Served on House Agriculture Committee -- key for representing the Big First
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1949
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-christy-cauble-davis-00007] For Kansas-specific engagement, Davis's feed emphasizes in-person stops, small-town businesses, veterans' events, local Democrats, and rural community identity. On November 30, she posted, "Shop Small Saturday in Cottonwood Falls was a reminder of what makes Kansas special. Stopped by Harshman Creek, Tallgrass Antiques, Prairie PastTimes, and the courthouse lighting with Cowboy Santa. These hometown businesses and traditions keep our communities strong" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m6ukjjx3622q)). On October 16, she wrote, "Touring the Babcock & Wilcox plant in Humboldt today — impressive work happening right here in Kansas! Downtown Humboldt looks amazing, and I’m proud to have been part of its story through my work with Freedom’s Frontier National Heritage Area" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m3dktirvxs2y)). At …
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m6ukjjx3622q
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02657] 2025-08-18 — "I’m proud to share my story with the Kansas Reflector. Kansans deserve a real voice in Washington—one that shows up, listens, and fights for our communities, from rural towns to our biggest cities.
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:245
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02681] 2026-03-08 — "What that says to me is we can’t count rural Kansas out," and "We need to work statewide.There are more people who agree on issues than disagree."
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:284
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02686] 2026-03-08 — "Only 2% of the folks who live in rural America are engaged in production agriculture"
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:290
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02687] Context: Kansas Democratic Party annual convention discussion of rural Kansas.
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:292
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02702] Across the captured Bluesky period, the feed contains no posts focused on Social Security, Medicare, detailed farm bill text, the Ogallala Aquifer, abortion policy details beyond convention coverage, foster care, adoption, capital punishment, housing policy specifics beyond campaign-site language, or district-level water policy.
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:309
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02703] The candidate website issue page addresses healthcare, education, immigration, and agriculture in broad terms; the Bluesky feed contains fewer issue-specific policy posts than event, accountability, and campaign-presence posts.
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:310
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-christy-cauble-davis-01169] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-02897] No candidate-controlled detailed position was found in the verified accessible sources for guns, marriage and family/LGBTQ policy, religious liberty as a legal-policy issue, marijuana/drug policy, foster care/adoption, capital punishment, detailed Farm Bill text, the Ogallala Aquifer, or district-level water policy. This page should not infer positions on those issues from party label, faith language, follows, events, or associations.
+  - Source: memory/candidates/christy-cauble-davis/v2-issues.yaml:352
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-03162] "text": "No candidate-controlled detailed position was found in the verified accessible sources for guns, marriage and family/LGBTQ policy, religious liberty as a legal-policy issue, marijuana/drug policy, foster care/adoption, capital punishment, detailed Farm Bill text, the Ogallala Aquifer, or district-level water policy. This page should not infer positions on those issues from party label, faith language, follows, events, or associations.",
+  - Source: ui/src/data/v2/christy-cauble-davis.ts:313
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00069] https://www.rd.usda.gov/newsroom/news-release/usda-announces-new-presidential-appointee-serve-rural-kansas
+  - Source: https://www.rd.usda.gov/newsroom/news-release/usda-announces-new-presidential-appointee-serve-rural-kansas`
+  - Confidence/use: confirmed / use
+- **background-context** [em-christy-cauble-davis-00189] USDA current Kansas state director announcement — https://www.rd.usda.gov/newsroom/news-release/usda-announces-new-presidential-appointee-serve-rural-kansas — primary/official — accessed 2026-05-19
+  - Source: https://www.rd.usda.gov/newsroom/news-release/usda-announces-new-presidential-appointee-serve-rural-kansas`
+  - Confidence/use: confirmed / use
+- **background-context** [em-christy-cauble-davis-01789] [USDA: KS State Director announcement](https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas)
+  - Source: https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas
+  - Confidence/use: confirmed / use
+- **background-context** [em-christy-cauble-davis-02104] [Municipal Water Leader Magazine](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)
+  - Source: https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849
+  - Confidence/use: likely / use
+- **background-context** [em-christy-cauble-davis-02105] [KWCH: $15M grant](https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/)
+  - Source: https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/
+  - Confidence/use: likely / use
+- **background-context** [em-christy-cauble-davis-02106] [E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)
+  - Source: https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-christy-cauble-davis-0001] Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farmers, and small businesses in broad issue statements ([source](https://www.christydavisforkansas.com/)). KCUR reported that an email from Davis listed restoration of funding for Medicaid, special education, and affordable housing programs, and said tariffs were causing instability for Kansas farmers and rural communities ([source](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-can…
+  - Source: https://www.christydavisforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-christy-cauble-davis-0003] Across the captured Bluesky period, the feed contains no posts focused on Social Security, Medicare, detailed farm bill text, the Ogallala Aquifer, abortion policy details beyond convention coverage, foster care, adoption, capital punishment, housing policy specifics beyond campaign-site language, or district-level water policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-christy-cauble-davis-0004] For Kansas-specific engagement, Davis's feed emphasizes in-person stops, small-town businesses, veterans' events, local Democrats, and rural community identity. On November 30, she posted, "Shop Small Saturday in Cottonwood Falls was a reminder of what makes Kansas special. Stopped by Harshman Creek, Tallgrass Antiques, Prairie PastTimes, and the courthouse lighting with Cowboy Santa. These hometown businesses and traditions keep our communities strong" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m6ukjjx3622q)). On October 16, she wrote, "Touring the Babcock & Wilcox plant in Humboldt today — impressive work happening right here in Kansas! Downtown Humboldt looks amazing, and I’m proud to have been part of its story through my work with Freedom’s Frontier National Heritage Area" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m3dktirvxs2y)). At …
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m6ukjjx3622q
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky post** [soc-christy-cauble-davis-0008] The candidate website issue page addresses healthcare, education, immigration, and agriculture in broad terms; the Bluesky feed contains fewer issue-specific policy posts than event, accountability, and campaign-presence posts.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0027] 2025-08-18 — "I’m proud to share my story with the Kansas Reflector. Kansans deserve a real voice in Washington—one that shows up, listens, and fights for our communities, from rural towns to our biggest cities.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0028] 2026-03-08 — "What that says to me is we can’t count rural Kansas out," and "We need to work statewide.There are more people who agree on issues than disagree."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0029] 2026-03-08 — "Only 2% of the folks who live in rural America are engaged in production agriculture"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0030] Context: Kansas Democratic Party annual convention discussion of rural Kansas.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-christy-cauble-davis-0210] "observation": "Across the captured Bluesky period, the feed contains no posts focused on Social Security, Medicare, detailed farm bill text, the Ogallala Aquifer, abortion policy details beyond convention coverage, foster care, adoption, capital punishment, housing policy specifics beyond campaign-site language, or district-level water policy.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-christy-cauble-davis-0213] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 13. Local governance / transparency / ethics
+
+Local governance / transparency / ethics: 42 selected evidence items from 779 mapped rows. Public URL-backed rows: 124.
+
+### Evidence
+- **candidate-stated** [em-christy-cauble-davis-00715] The January 2026 killing of Alex Pretti by federal agents in Minneapolis was the catalyst. As a career federal law enforcement official, Hart said this event -- and the broader direction of the federal government -- compelled him to leave his career and enter politics for the first time.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:848
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-01358] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1884
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-02124] Hands-on: Pledged to spend 1-2 hours minimum in every county department to assess staffing
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:3073
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-02347] Her highest-profile job came in federal government. Davis served as Kansas state director of USDA Rural Development from 2023 until January 2025, an office that she says oversaw more than $1.3 billion in investment across Kansas communities.
+  - Source: memory/candidates/christy-cauble-davis/site-profile.md:8
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-02349] Davis's record is defined less by roll-call votes than by programs and projects. At USDA Rural Development, she became the public face of housing, infrastructure, healthcare, and business financing programs across the state. The source material says her office oversaw more than $1.3 billion in Kansas investments and worked on a broader push to cut red tape in how federal programs reached communities.
+  - Source: memory/candidates/christy-cauble-davis/site-profile.md:11
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-02365] From 2023 to January 2025, she served as Kansas state director of USDA Rural Development and says the office oversaw more than $1.3 billion in investment across the state.
+  - Source: memory/candidates/christy-cauble-davis/site-profile.md:43
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-02801] "KCUR says Davis ran unsuccessfully for Kansas's 1st Congressional District in 2020"
+  - Source: memory/candidates/christy-cauble-davis/v2-issues.yaml:165
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-christy-cauble-davis-02906] The public Bluesky profile is the only platform with post text and engagement accessible during this pass. Facebook, Instagram, and X/Twitter are presence-only from logged-out capture unless a later browser-authenticated harvest captures post text. Bluesky API showed 46 posts on 2026-05-19, one more than the May 11 local harvest.
+  - Source: memory/candidates/christy-cauble-davis/v2-issues.yaml:371
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-00008] Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farmers, and small businesses in broad issue statements ([source](https://www.christydavisforkansas.com/)). KCUR reported that an email from Davis listed restoration of funding for Medicaid, special education, and affordable housing programs, and said tariffs were causing instability for Kansas farmers and rural communities ([source](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-can…
+  - Source: https://www.christydavisforkansas.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-00059] Candidate information: https://www.sos.ks.gov/elections/candidate-information.html
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html`
+  - Confidence/use: confirmed / use
+- **documented-record** [em-christy-cauble-davis-00060] Important election dates: https://sos.ks.gov/elections/important-election-dates.html
+  - Source: https://sos.ks.gov/elections/important-election-dates.html`
+  - Confidence/use: confirmed / use
+- **documented-record** [em-christy-cauble-davis-00061] Candidate list endpoint attempted: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx
+  - Source: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx`
+  - Confidence/use: confirmed / use
+- **documented-record** [em-christy-cauble-davis-00099] Campaign homepage: https://www.christydavisforkansas.com/
+  - Source: https://www.christydavisforkansas.com/`
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-00107] KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates`
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-00113] https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u
+  - Source: https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u`
+  - Confidence/use: likely / use
+- **documented-record** [em-christy-cauble-davis-00186] Kansas SOS Candidate Information — https://www.sos.ks.gov/elections/candidate-information.html — primary/official — accessed 2026-05-19
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html`
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-christy-cauble-davis-00052] PDF source: https://docquery.fec.gov/pdf/057/202508139789468057/202508139789468057.pdf
+  - Source: https://docquery.fec.gov/pdf/057/202508139789468057/202508139789468057.pdf`
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-christy-cauble-davis-00183] FEC candidate page — https://www.fec.gov/data/candidate/S6KS00247/?cycle=2026 — primary/official — accessed 2026-05-19
+  - Source: https://www.fec.gov/data/candidate/S6KS00247/?cycle=2026`
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-christy-cauble-davis-00184] FEC committee page — https://www.fec.gov/data/committee/C00915934/?cycle=2026 — primary/official — accessed 2026-05-19
+  - Source: https://www.fec.gov/data/committee/C00915934/?cycle=2026`
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-christy-cauble-davis-00185] FEC Statement of Organization PDF — https://docquery.fec.gov/pdf/057/202508139789468057/202508139789468057.pdf — primary/official — accessed 2026-05-19
+  - Source: https://docquery.fec.gov/pdf/057/202508139789468057/202508139789468057.pdf`
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-christy-cauble-davis-00386] [FEC Filing](https://www.fec.gov/data/candidate/S6KS00262/)
+  - Source: https://www.fec.gov/data/candidate/S6KS00262/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-christy-cauble-davis-00610] FEC Race Page: [2026 Election - U.S. Senate - Kansas](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **social-online-signal** [em-christy-cauble-davis-00003] Across 45 Bluesky posts captured between August 17, 2025, and March 29, 2026, Davis's most frequent topic is federal accountability and opposition to named national political figures, a category that accounts for 16 posts, or 35.6 percent of the captured feed ([harvest](social-harvest.md)). On March 20, she posted, "Roger Marshall doesn't want voter ID. He wants voter suppression. And Kansas has seen this ALLLLL before. I’ll fight like hell to protect your right to vote" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u)). In a September 30 thread, she wrote, "As DC prepares for a shutdown and Kansans brace for the impact of failed leadership, we are getting another example of Roger Marshall putting national politics and appeasing the White House ahead of the real costs to Kansas families" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-00004] Davis's public alignment network is concentrated in Kansas Democratic events, Kansas political media, and a small set of issue-linked public figures. She posted from Washington Days, the Shawnee County Democrats' Bean Feed, a Harvey County Democrats meeting, the Johnson County Dems Gala, and the Kansas Democratic Party booth at the Kansas State Fair. On March 8, she wrote, "Great weekend at Washington Days talking with Democrats from across Kansas. This is a statewide race, and Kansans want leaders who show up and do the work, not just show up for photo ops" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mgl44co6c22d)). She shared or referenced Kansas Reflector coverage, Reuters, AP, KSAL, Kansas City Star, ActBlue, Aaron Rupar, and Gov. Laura Kelly by name in captured posts. The captured Bluesky period contains no post amplifying a Democratic U.S. Senate primary opp…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mgl44co6c22d
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-00005] The highest-engagement post by likes in the captured Bluesky set was a March 29 post from Wyandotte County, with 8 likes, 0 reposts, 1 reply, and 0 quotes as of the May 11, 2026 capture. It read, "Kansans stood up today alongside millions across the country. In Wyandotte County, I stood with parents, veterans, teachers, union members, small business owners, and neighbors. And we don't do kings" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mi5ubacwqc2p)). A September 30 government-shutdown post tied it in total interactions, with 5 likes, 2 reposts, 1 reply, and 1 quote as of the same capture date ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m23jsbsx6k2q)). Her Facebook page showed 4,588 likes and 1,878 talking about this as of capture, but individual Facebook comments and post-level engagement were not accessible from the logged-out capture pa…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mi5ubacwqc2p
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-00006] On national and foreign-policy issues, Davis's feed is narrower than her accountability and Kansas-event posting. The captured set contains one direct foreign-policy post, written after reported U.S. combat casualties in Iran: "Today we mourn the lives lost in the first U.S. combat casualties of this new conflict with Iran. May we hold their families close, honor their sacrifice, and never forget the human cost of war" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mfz7t2nklk2d)). She also posted about National Guard soldiers shot near the White House, political violence after Charlie Kirk's death, and a Kansas report about federal agents using lethal force. In that January 28 thread she wrote, "Kansans should be deeply alarmed by reports of federal agents using lethal force on American soil. This isn’t about politics. It’s about accountability, transparency, and the…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mfz7t2nklk2d
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-00007] For Kansas-specific engagement, Davis's feed emphasizes in-person stops, small-town businesses, veterans' events, local Democrats, and rural community identity. On November 30, she posted, "Shop Small Saturday in Cottonwood Falls was a reminder of what makes Kansas special. Stopped by Harshman Creek, Tallgrass Antiques, Prairie PastTimes, and the courthouse lighting with Cowboy Santa. These hometown businesses and traditions keep our communities strong" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m6ukjjx3622q)). On October 16, she wrote, "Touring the Babcock & Wilcox plant in Humboldt today — impressive work happening right here in Kansas! Downtown Humboldt looks amazing, and I’m proud to have been part of its story through my work with Freedom’s Frontier National Heritage Area" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m3dktirvxs2y)). At …
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m6ukjjx3622q
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-01994] Facebook (Official): [musilcomish](https://www.facebook.com/musilcomish/)
+  - Source: https://www.facebook.com/musilcomish/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02560] In Wyandotte County, I stood with parents, veterans, teachers, union members, small business owners, and neighbors.
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:34
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-christy-cauble-davis-02591] Topic: Accountability
+  - Source: memory/candidates/christy-cauble-davis/social-harvest.md:86
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-christy-cauble-davis-02156] Board involvement: Assigned to present for TMP schools during scholarship award presentations as a county commissioner, suggesting ongoing connection to the Catholic school community.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:3126
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-02239] | Official | Church/Faith | Confidence |
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:3256
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-02897] No candidate-controlled detailed position was found in the verified accessible sources for guns, marriage and family/LGBTQ policy, religious liberty as a legal-policy issue, marijuana/drug policy, foster care/adoption, capital punishment, detailed Farm Bill text, the Ogallala Aquifer, or district-level water policy. This page should not infer positions on those issues from party label, faith language, follows, events, or associations.
+  - Source: memory/candidates/christy-cauble-davis/v2-issues.yaml:352
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-christy-cauble-davis-03162] "text": "No candidate-controlled detailed position was found in the verified accessible sources for guns, marriage and family/LGBTQ policy, religious liberty as a legal-policy issue, marijuana/drug policy, foster care/adoption, capital punishment, detailed Farm Bill text, the Ogallala Aquifer, or district-level water policy. This page should not infer positions on those issues from party label, faith language, follows, events, or associations.",
+  - Source: ui/src/data/v2/christy-cauble-davis.ts:313
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-christy-cauble-davis-00816] Kansas City commercial real estate developer behind a nearly $1 billion redevelopment project in Wyandotte County. First-time candidate who grew up in KCK, left for USC and a decade in Oakland/San Francisco, then returned in 2023. Has a significant controversy flagged by the Washington Free Beacon.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1048
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-christy-cauble-davis-01167] Criticism: The Kansas City Star editorial board criticized the newsletter as being used primarily to attack Democrats (Biden/Harris) rather than to help Kansans, calling it partisan rather than informative.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:1629
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00188] Kansas SOS 2020 Primary Official Vote Totals — https://sos.ks.gov/elections/20elec/2020_Primary_Official_Vote_Totals.pdf — primary/official — accessed 2026-05-19
+  - Source: https://sos.ks.gov/elections/20elec/2020_Primary_Official_Vote_Totals.pdf`
+  - Confidence/use: confirmed / use
+- **background-context** [em-christy-cauble-davis-00189] USDA current Kansas state director announcement — https://www.rd.usda.gov/newsroom/news-release/usda-announces-new-presidential-appointee-serve-rural-kansas — primary/official — accessed 2026-05-19
+  - Source: https://www.rd.usda.gov/newsroom/news-release/usda-announces-new-presidential-appointee-serve-rural-kansas`
+  - Confidence/use: confirmed / use
+- **background-context** [em-christy-cauble-davis-00190] USDA State Directors — https://www.rd.usda.gov/about-rd/leadership/state-directors — primary/official — accessed 2026-05-19
+  - Source: https://www.rd.usda.gov/about-rd/leadership/state-directors`
+  - Confidence/use: confirmed / use
+- **background-context** [em-christy-cauble-davis-01820] [Johnson County Post photo](https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/)
+  - Source: https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/
+  - Confidence/use: likely / use
+- **background-context** [em-christy-cauble-davis-01926] [City of Wellington: Resignation press release](https://www.cityofwellington.net/newsview.aspx?nid=6940)
+  - Source: https://www.cityofwellington.net/newsview.aspx?nid=6940
+  - Confidence/use: likely / use
+- **background-context** [em-christy-cauble-davis-02081] City Page: [haysusa.com/directory.aspx?eid=6](https://www.haysusa.com/directory.aspx?eid=6)
+  - Source: https://www.haysusa.com/directory.aspx?eid=6
+  - Confidence/use: confirmed / use
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-christy-cauble-davis-0001] Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farmers, and small businesses in broad issue statements ([source](https://www.christydavisforkansas.com/)). KCUR reported that an email from Davis listed restoration of funding for Medicaid, special education, and affordable housing programs, and said tariffs were causing instability for Kansas farmers and rural communities ([source](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-can…
+  - Source: https://www.christydavisforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-christy-cauble-davis-0003] Across the captured Bluesky period, the feed contains no posts focused on Social Security, Medicare, detailed farm bill text, the Ogallala Aquifer, abortion policy details beyond convention coverage, foster care, adoption, capital punishment, housing policy specifics beyond campaign-site language, or district-level water policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-christy-cauble-davis-0004] For Kansas-specific engagement, Davis's feed emphasizes in-person stops, small-town businesses, veterans' events, local Democrats, and rural community identity. On November 30, she posted, "Shop Small Saturday in Cottonwood Falls was a reminder of what makes Kansas special. Stopped by Harshman Creek, Tallgrass Antiques, Prairie PastTimes, and the courthouse lighting with Cowboy Santa. These hometown businesses and traditions keep our communities strong" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m6ukjjx3622q)). On October 16, she wrote, "Touring the Babcock & Wilcox plant in Humboldt today — impressive work happening right here in Kansas! Downtown Humboldt looks amazing, and I’m proud to have been part of its story through my work with Freedom’s Frontier National Heritage Area" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m3dktirvxs2y)). At …
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m6ukjjx3622q
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky post** [soc-christy-cauble-davis-0008] The candidate website issue page addresses healthcare, education, immigration, and agriculture in broad terms; the Bluesky feed contains fewer issue-specific policy posts than event, accountability, and campaign-presence posts.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky like** [soc-christy-cauble-davis-0009] Across 45 Bluesky posts captured between August 17, 2025, and March 29, 2026, Davis's most frequent topic is federal accountability and opposition to named national political figures, a category that accounts for 16 posts, or 35.6 percent of the captured feed ([harvest](social-harvest.md)). On March 20, she posted, "Roger Marshall doesn't want voter ID. He wants voter suppression. And Kansas has seen this ALLLLL before. I’ll fight like hell to protect your right to vote" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u)). In a September 30 thread, she wrote, "As DC prepares for a shutdown and Kansans brace for the impact of failed leadership, we are getting another example of Roger Marshall putting national politics and appeasing the White House ahead of the real costs to Kansas families" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky comment** [soc-christy-cauble-davis-0010] The highest-engagement post by likes in the captured Bluesky set was a March 29 post from Wyandotte County, with 8 likes, 0 reposts, 1 reply, and 0 quotes as of the May 11, 2026 capture. It read, "Kansans stood up today alongside millions across the country. In Wyandotte County, I stood with parents, veterans, teachers, union members, small business owners, and neighbors. And we don't do kings" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mi5ubacwqc2p)). A September 30 government-shutdown post tied it in total interactions, with 5 likes, 2 reposts, 1 reply, and 1 quote as of the same capture date ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m23jsbsx6k2q)). Her Facebook page showed 4,588 likes and 1,878 talking about this as of capture, but individual Facebook comments and post-level engagement were not accessible from the logged-out capture pa…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mi5ubacwqc2p
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0011] In Wyandotte County, I stood with parents, veterans, teachers, union members, small business owners, and neighbors.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-christy-cauble-davis-0012] Topic: Local economy
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-christy-cauble-davis-0014] Topic distribution of Bluesky posts by manual coding: federal accountability / opposition to named national figures — 16 posts (35.6%); Kansas local events, local economy, and community presence — 14 posts (31.1%); veterans, public safety, political violence, and national tragedies — 8 posts (17.8%); fundraising and campaign asks — 3 posts (6.7%); personal, family, and cultural observances — 4 posts (8.9%).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky follow** [soc-christy-cauble-davis-0023] On national and foreign-policy issues, Davis's feed is narrower than her accountability and Kansas-event posting. The captured set contains one direct foreign-policy post, written after reported U.S. combat casualties in Iran: "Today we mourn the lives lost in the first U.S. combat casualties of this new conflict with Iran. May we hold their families close, honor their sacrifice, and never forget the human cost of war" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mfz7t2nklk2d)). She also posted about National Guard soldiers shot near the White House, political violence after Charlie Kirk's death, and a Kansas report about federal agents using lethal force. In that January 28 thread she wrote, "Kansans should be deeply alarmed by reports of federal agents using lethal force on American soil. This isn’t about politics. It’s about accountability, transparency, and the…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mfz7t2nklk2d
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 14. Environment / energy / land use
+
+Environment / energy / land use: 10 selected evidence items from 11 mapped rows. Public URL-backed rows: 0.
+
+### Evidence
+- **documented-record** [em-christy-cauble-davis-00057] The live Kansas SOS candidate-list endpoint returned 403 / CloudFront blocked in this environment; therefore, live SOS candidate-list confirmation is a blocker.
+  - Source: memory/candidates/christy-cauble-davis/raw-dump-v2.md:60
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-christy-cauble-davis-02450] Kansas SOS filing process verified, candidate-list access blocked. The Kansas Secretary of State says candidates for national, state, legislative, and judicial offices must file with the Secretary of State, and a candidate is not considered filed until petition/declaration and fee are received. The same page lists the 2026 primary filing deadline as 12:00 p.m. Monday, June 1, 2026. The SOS candidate-list endpoint (elections_upcoming_candidate.aspx) returned a CloudFront 403 in this environment, so I could not independently confirm the live Kansas SOS candidate-list entry.
+  - Source: memory/candidates/christy-cauble-davis/sleuth-pass.md:22
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-02517] Itemized donor names were not reliably extracted in this environment. The FEC website exposes transaction pages, but the OpenFEC API DEMO_KEY was over rate limit during this pass; the FEC HTML transaction tables did not render donor rows server-side.
+  - Source: memory/candidates/christy-cauble-davis/sleuth-pass.md:137
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-christy-cauble-davis-02524] Could not confirm Davis on the live Kansas SOS candidate list because the candidate-list endpoint returned CloudFront 403 to this environment. FEC federal candidacy and committee status are confirmed.
+  - Source: memory/candidates/christy-cauble-davis/sleuth-pass.md:149
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-00415] First-generation immigrant spouse could become a liability in anti-immigration political climate
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:334
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-01594] Member, Subcommittee on Energy, Natural Resources, and Infrastructure
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2220
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-01836] Eastside Innovation LLC (Kansas City, KS, 2023) -- Founded to bring clean energy to low-income communities in KCK
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:2613
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-02085] R9 Ranch Pipeline -- The Defining Project
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:3017
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-02087] Distance: 65-90 mile pipeline from R9 Ranch wellfield (Edwards County) to Hays/Russell
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:3019
+  - Confidence/use: unknown / background-only
+- **background-context** [em-christy-cauble-davis-02092] Status (March 2026): Pipeline design wrapping up; right-of-way permits being sought; expected to bid early 2026
+  - Source: memory/candidates/christy-cauble-davis/raw-dump.md:3024
+  - Confidence/use: unknown / background-only
+
+### Caveats
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.

@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "craig-musser",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/craig-musser/evidence-matrix-raw.json",
+    "memory/candidates/craig-musser/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/craig-musser/evidence-matrix.json",
+    "memory/candidates/craig-musser/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/craig-musser/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/craig-musser/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs craig-musser"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for craig-musser.",
+    "Run source-tier-validator for craig-musser."
+  ],
+  "handoff_summary": "Built final evidence matrix for craig-musser: 3616 raw rows to 1409 deduplicated rows."
+}

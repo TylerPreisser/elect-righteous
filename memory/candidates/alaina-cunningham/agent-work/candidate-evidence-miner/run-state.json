@@ -1,0 +1,43 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "alaina-cunningham",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/alaina-cunningham/in-their-own-words.md",
+    "memory/candidates/alaina-cunningham/raw-dump-v2.md",
+    "memory/candidates/alaina-cunningham/raw-dump.md",
+    "memory/candidates/alaina-cunningham/site-profile.md",
+    "memory/candidates/alaina-cunningham/sleuth-pass.md",
+    "memory/candidates/alaina-cunningham/social-harvest.md",
+    "memory/candidates/alaina-cunningham/v2-issues.yaml",
+    "reports/ellis-county-elected-officials-deep-investigation.md",
+    "reports/faith-church-investigation-2026-03-31.md",
+    "reports/hays-city-commission-deep-investigation-2026-03-30.md",
+    "reports/hays-kansas-election-finder-2026-03-30.md",
+    "reports/mason-ruder-complete-dossier.md",
+    "reports/senate-challengers-local-officials-complete.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/alaina-cunningham.ts"
+  ],
+  "files_written": [
+    "memory/candidates/alaina-cunningham/evidence-matrix-raw.json",
+    "memory/candidates/alaina-cunningham/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/alaina-cunningham/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/alaina-cunningham/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/alaina-cunningham/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs alaina-cunningham"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for alaina-cunningham."
+  ],
+  "handoff_summary": "Extracted 9899 raw evidence rows for alaina-cunningham."
+}

@@ -1,0 +1,36 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "doug-billings",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/doug-billings/in-their-own-words.md",
+    "memory/candidates/doug-billings/raw-dump-v2.md",
+    "memory/candidates/doug-billings/sleuth-pass.md",
+    "memory/candidates/doug-billings/social-harvest.md",
+    "memory/candidates/doug-billings/v2-issues.yaml",
+    "reports/jeff-colyer-complete-dossier.md",
+    "reports/vicki-schmidt-complete-dossier.md",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/doug-billings.ts"
+  ],
+  "files_written": [
+    "memory/candidates/doug-billings/evidence-matrix-raw.json",
+    "memory/candidates/doug-billings/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/doug-billings/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/doug-billings/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/doug-billings/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs doug-billings"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for doug-billings."
+  ],
+  "handoff_summary": "Extracted 544 raw evidence rows for doug-billings."
+}

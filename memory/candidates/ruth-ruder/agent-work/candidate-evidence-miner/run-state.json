@@ -1,0 +1,42 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "ruth-ruder",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/ruth-ruder/in-their-own-words.md",
+    "memory/candidates/ruth-ruder/raw-dump-v2.md",
+    "memory/candidates/ruth-ruder/raw-dump.md",
+    "memory/candidates/ruth-ruder/site-profile.md",
+    "memory/candidates/ruth-ruder/sleuth-pass.md",
+    "memory/candidates/ruth-ruder/v2-issues.yaml",
+    "reports/2026-03-30-education-elections-hays-ks.md",
+    "reports/ellis-county-elected-officials-deep-investigation.md",
+    "reports/faith-church-investigation-2026-03-31.md",
+    "reports/ken-brooks-complete-dossier.md",
+    "reports/mason-ruder-complete-dossier.md",
+    "reports/usd489-board-deep-investigation-2026-03-30.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/ruth-ruder.ts"
+  ],
+  "files_written": [
+    "memory/candidates/ruth-ruder/evidence-matrix-raw.json",
+    "memory/candidates/ruth-ruder/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/ruth-ruder/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/ruth-ruder/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/ruth-ruder/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs ruth-ruder"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for ruth-ruder."
+  ],
+  "handoff_summary": "Extracted 5236 raw evidence rows for ruth-ruder."
+}

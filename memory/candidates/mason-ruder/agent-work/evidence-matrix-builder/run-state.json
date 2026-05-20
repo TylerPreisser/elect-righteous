@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "mason-ruder",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/mason-ruder/evidence-matrix-raw.json",
+    "memory/candidates/mason-ruder/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/mason-ruder/evidence-matrix.json",
+    "memory/candidates/mason-ruder/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/mason-ruder/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/mason-ruder/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs mason-ruder"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for mason-ruder.",
+    "Run source-tier-validator for mason-ruder."
+  ],
+  "handoff_summary": "Built final evidence matrix for mason-ruder: 8062 raw rows to 4005 deduplicated rows."
+}

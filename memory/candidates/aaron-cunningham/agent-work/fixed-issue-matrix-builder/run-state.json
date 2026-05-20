@@ -1,0 +1,31 @@
+{
+  "agent_id": "fixed-issue-matrix-builder",
+  "agent_role": "Issue-by-issue content builder",
+  "candidate_slug": "aaron-cunningham",
+  "phase": "3",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/aaron-cunningham/evidence-matrix.json",
+    "memory/candidates/aaron-cunningham/social-evidence-matrix.json",
+    "memory/candidates/aaron-cunningham/source-audit.json"
+  ],
+  "files_written": [
+    "memory/candidates/aaron-cunningham/issue-matrix.md",
+    "memory/candidates/aaron-cunningham/fixed-issue-matrix.json",
+    "memory/candidates/aaron-cunningham/v2-issues.yaml",
+    "memory/candidates/aaron-cunningham/agent-work/fixed-issue-matrix-builder/run-state.json",
+    "memory/candidates/aaron-cunningham/agent-work/fixed-issue-matrix-builder/notes.md",
+    "memory/candidates/aaron-cunningham/agent-work/fixed-issue-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-fixed-issue-matrix.mjs aaron-cunningham"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run biography/record/funding/faith/profile assembler passes for aaron-cunningham."
+  ],
+  "handoff_summary": "Built fixed 14-issue matrix for aaron-cunningham."
+}

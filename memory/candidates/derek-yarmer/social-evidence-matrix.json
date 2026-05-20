@@ -1,0 +1,3937 @@
+{
+  "candidateSlug": "derek-yarmer",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceFiles": [
+    "memory/candidates/derek-yarmer/social-harvest.md",
+    "memory/candidates/derek-yarmer/evidence-matrix.json"
+  ],
+  "platformPresence": [],
+  "signals": [
+    {
+      "id": "soc-derek-yarmer-0001",
+      "evidenceRowId": "em-derek-yarmer-00008",
+      "platform": "hayspost.com",
+      "actionType": "online-reference",
+      "target": "https://hayspost.com/posts/753ae9c5-9a0b-4bc2-b319-57e7fc4efdeb",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        5,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use",
+      "confidence": "likely",
+      "observation": "On education policy, Yarmer's public comments emphasize core academics, leaner operations, and skepticism of expansive school roles. During a 2025 discussion of special education funding and district spending, he said the district could \"work a little leaner,\" questioned whether requested items were needs, and said, \"I don't think money is the problem of the education system. I think we need to be better at doing what we do.\" In the same meeting coverage, he criticized social-emotional and mental-health programming and said schools should teach \"math, science and history\" rather than be \"touchy-feely.\" [Source](https://hayspost.com/posts/753ae9c5-9a0b-4bc2-b319-57e7fc4efdeb)",
+      "sourceUrl": "https://hayspost.com/posts/753ae9c5-9a0b-4bc2-b319-57e7fc4efdeb",
+      "sourceFile": "memory/candidates/derek-yarmer/in-their-own-words.md:17",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-in-their-own-words-md-l17"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0002",
+      "evidenceRowId": "em-derek-yarmer-01843",
+      "platform": "hayspost.com",
+      "actionType": "online-reference",
+      "target": "https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Taxes / spending / debt",
+        "Economy / jobs / labor",
+        "Guns / Second Amendment",
+        "Immigration / border",
+        "Health care / insurance / Medicaid",
+        "Election integrity / voting / courts",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use-with-caveat",
+      "confidence": "likely",
+      "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition coordinator, and 25 years as Washington Elementary principal. [Source](https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7)\\n\\nThe core phrase in Park's campaign record is \\\"kids and families first.\\\" He used that framing in 2019 when he told KLC Journal he wanted to be part of a school-board team with that priority, and he returned to it in 2023 when he said he would use it as a reference point for decisions. His related test for school decisions was whether they are best for kids. [Source](https://klcjournal.com/local2019hays/) [Source](https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7)\\n\\nPark's most consistent theme is trust through communication. In 2019, he said USD 489 needed to reconnect with the Hays community by rebuilding trust, encouraging involvement, increasing communication, and genuinely listening. In his 2023 Q&A, he again identified communication as the main thing he would change, saying minority opinions should be heard and board meetings should be inclusive and transparent. [Source](https://klcjournal.com/local2019hays/) [Source](https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922)\\n\\nFacilities and bond oversight are another major throughline. Before joining the board, Park said he had supported prior bond issues and wanted community, teacher, and staff input in planning. After the $143.5 million bond passed, he framed the work as unfinished: residents needed information, answers, and chances to give input on how their investment was being spent. He said the board had to ensure the bond process was done correctly, on time, and fiscally responsibly. [Source](https://archive.hayspost.com/2019/06/page/37/) [Source](https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922)\\n\\nHis facilities comments often combine support for school investment with questions about process and cost. In USD 489's 2022 bond article, Park asked how much a special election would cost, raised concerns about replacing a two-section elementary school with a four-section school, asked about school choice under realignment, and asked about using local contractors. In 2025 property-sale coverage, he asked why the district was moving quickly, wanted an appraisal, and questioned the value of water rights. [Source](https://www.usd489.com/article/651221) [Source](https://tigermedianet.com/?p=92038)\\n\\nPark also presents fiscal responsibility as a board duty tied to student outcomes. In 2023, he said he would keep asking budget questions and connect spending decisions to academic achievement. He also said he would look for local purchasing, appropriate cuts, grant writing, community partnerships, and efficient use of district facilities. In 2019, his published goals included fiscal soundness, safe facilities, local businesses, and data-informed decisions. [Source](https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7) [Source](https://archive.hayspost.com/2019/06/page/37/)\\n\\nOn board role and administration, Park's stated position is policy governance rather than day-to-day management. In the 2023 Q&A, he said the board writes policy, should make sure policy follows state law, and should clearly communicate expectations, but daily management is not the board's job. He also said administrators need tools, guidance, and expectations from the board. [Source](https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922)\\n\\nHis board record shows repeated interest in process, minutes, personnel review, and policy clarity. In 2023, he argued board minutes should include more detail about why members vote no, though the board attorney said Kansas law did not require that. In the same year, he objected with Curt Vajnar to hiring the superintendent's wife and later asked the board to review whether the district was following its nepotism policy. [Source](https://greatbendpost.com/posts/11e68e53-1cdc-4676-afb0-aef5b6ee450e) [Source](https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8)\\n\\nPark's education-policy messaging is local and operational, not partisan. He has publicly supported technology needs and teacher training, smaller or manageable class sizes, reduced student fees, strong staff, safe facilities, and professional learning for board members. During a 2024 calendar discussion, he asked whether the district was giving parents support on student days off, then voted against the calendar with Derek Yarmer. [Source](https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7) [Source](https://www.usd489.com/article/1447496)\\n\\nHis campaign-finance answer was limited and local. In 2023, he said he had not received money from outside the school district, that the few donations he received came from family, friends, and community members who care about kids and education in Hays, and that additional expenses were paid personally. [Source](https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922)\\n\\nThe visible absences matter. I did not verify a current campaign website, public candidate-controlled social account, campaign video channel, endorsement page, donation page, or long-form platform. The accessible record also did not show substantial candidate-authored messaging on state or national partisan issues, religion, abortion, guns, immigration, vouchers, library policy, or federal politics. This is a limitation of the accessible public record, not a claim about private, deleted, restricted, or unindexed content.\\n\\nMethodology: Sources checked included USD 489 official pages and meeting portal, Hays Post, Hays Post archive, Great Bend Post, Tiger Media Network, KLC Journal, BoardDocs-style search results, and web searches for campaign, civic, professional, and social accounts. Date range covered: public material available through 2026-05-11. Public social harvest: no verified candidate-controlled social posts were found, so no inaccessible social content was fabricated or summarized. We report patterns in public, candidate-controlled or attributed messaging; we do not interpret intent.\",",
+      "sourceUrl": "https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7",
+      "sourceFile": "ui/src/data/candidates.ts:48047",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l48047"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0003",
+      "evidenceRowId": "em-derek-yarmer-01808",
+      "platform": "hayspost.com",
+      "actionType": "online-reference",
+      "target": "https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        2,
+        3,
+        5,
+        9,
+        10,
+        11,
+        13
+      ],
+      "issueLabels": [
+        "LGBT / gender / parental rights",
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Health care / insurance / Medicaid",
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use-with-caveat",
+      "confidence": "likely",
+      "observation": "narrative: \"*A summary of what Derek Yarmer has publicly said, written, and been quoted saying in campaign questionnaires, a published written statement, USD 489 board coverage, school/public pages, and professional profiles through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nDerek Yarmer's public record is built around local school-board oversight rather than a broad campaign-media operation. In his 2023 Hays Post questionnaire, he described himself as an ER doctor, a parent of children in USD 489, and a non-incumbent candidate whose campaign was \\\"100 percent personally financed.\\\" He said he thought there were \\\"a lot of great things going on within the district,\\\" including new facilities, but framed his main goal as making sure Hays residents got \\\"the new schools they were promised at the price they were promised.\\\" [Source](https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649)\\n\\nHis earliest accessible school-board statement, a 2021 application letter for a vacant USD 489 seat, presented education as a parental responsibility and community duty. He wrote that educating children is \\\"one of the most important responsibilities we have as parents,\\\" said he wanted to be active in his daughters' education and the education of other district students, and argued that his emergency-medicine background could help the district take a pragmatic approach to pandemic decisions while keeping interruptions to education low. [Source](https://hayspost.com/posts/f743144f-86f5-409f-af1d-729253115b28)\\n\\nThe clearest throughline in Yarmer's board messaging is fiscal scrutiny. In his 2023 questionnaire, he said the board has \\\"the absolute responsibility\\\" to keep the $143.5 million bond project on budget and deliver the school structures promised to the community. In a 2025 written statement published by Hays Post, he argued that the district was using capital outlay funds for items that should be covered by the bond, criticized spending on a concession stand, scoreboards, tennis courts, and a marquee sign while other building needs waited, and wrote that the school board was also to blame for \\\"reckless spending\\\" because it failed to provide proper oversight. [Source](https://hayspost.com/posts/52e53c90-5182-42f0-919e-2c7dc145305b)\\n\\nHis process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \\\"This would be an example of giving us the numbers and voting on it the same night, which I'm against,\\\" and in 2026 saying purchases over $100,000 should be discussed at the prior board meeting before a vote. [Source](https://tigermedianet.com/?p=90779) [Source](https://tigermedianet.com/?p=94701)\\n\\nYarmer's oversight posture also shows up in personnel and contract discussions. At his first 2024 board meeting, he abstained from extending administrator contracts after a short executive session, saying, \\\"You're asking me to vote on something I know nothing about.\\\" In 2026 coverage, he supported delaying district contract-extension votes for more review, flagged superintendent contract language that appeared to make the superintendent his own supervisor, and moved to vote on administrator contracts individually. [Source](https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf) [Source](https://hayspost.com/posts/0c27e966-61e9-4c00-b6d7-7f37f6d3bba7) [Source](https://tigermedianet.com/?p=95549)\\n\\nOn education policy, Yarmer's public comments emphasize core academics, leaner operations, and skepticism of expansive school roles. During a 2025 discussion of special education funding and district spending, he said the district could \\\"work a little leaner,\\\" questioned whether requested items were needs, and said, \\\"I don't think money is the problem of the education system. I think we need to be better at doing what we do.\\\" In the same meeting coverage, he criticized social-emotional and mental-health programming and said schools should teach \\\"math, science and history\\\" rather than be \\\"touchy-feely.\\\" [Source](https://hayspost.com/posts/753ae9c5-9a0b-4bc2-b319-57e7fc4efdeb)\\n\\nHis public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involves before going into it. In Hays High bathroom and vandalism coverage, he said cameras outside bathrooms were not adequate for safety or security purposes. In asbestos-abatement coverage, he seconded a motion to table and said, \\\"If everything is an emergency, nothing is an emergency.\\\" [Source](https://hayspost.com/posts/f5e69fbd-0165-4db1-b896-07613f7a31ed) [Source](https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede) [Source](https://tigermedianet.com/?p=93176)\\n\\nHis medical background is part of the public persona, but the political messaging remains local and operational. HaysMed identifies him as an Emergency Department physician trained at the University of Kansas School of Medicine and the University of Missouri-Kansas City. Pawnee Valley Community Hospital's 2023 announcement of him as Emergency Department medical director quotes him saying PVCH was \\\"well-equipped to care for patients\\\" and that he hoped to help provide quality care to central and western Kansas by offering guidance and support when needed. [Source](https://www.haysmed.com/provider/derek-m-yarmer-md/) [Source](https://pawneevalleyhospital.com/dr-yarmer-new-ed-medical-director-at-pawnee-valley-community-hospital/)\\n\\nThe visible absences matter. I did not verify a current campaign website, public candidate-controlled social account, campaign video channel, endorsement page, donation page, or long-form civic platform. The accessible record also did not show substantial candidate-authored messaging on state or national partisan issues, school vouchers, library policy, curriculum culture-war topics beyond the quoted social-emotional-learning discussion, teacher unions, school finance formulas beyond special education and local mill levies, or non-school local government issues. This is a limitation of the accessible public record, not a claim about private, deleted, restricted, or unindexed content.\\n\\nMethodology: Sources checked included USD 489 official pages and meeting portal, Hays Post, Tiger Media Network, BoardDocs search results, HaysMed, Pawnee Valley Community Hospital, Great Bend Tribune, and web searches for campaign, civic, professional, and social accounts. Date range covered: public material available through 2026-05-11. Public social harvest: no verified candidate-controlled social posts were found, so no inaccessible social content was fabricated or summarized. We report patterns in public, candidate-controlled or attributed messaging; we do not interpret intent.\",",
+      "sourceUrl": "https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649",
+      "sourceFile": "ui/src/data/candidates.ts:47378",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l47378"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0004",
+      "evidenceRowId": "em-derek-yarmer-01194",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:5",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Race: USD 489 Board Member, Hays USD 489",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:5",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l5"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0005",
+      "evidenceRowId": "em-derek-yarmer-01195",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:6",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        10
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Election slug: usd-489-current",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:6",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l6"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0006",
+      "evidenceRowId": "em-derek-yarmer-01199",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:12",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Derek Yarmer's accessible public messaging is not centered on a campaign website or active campaign social accounts. The usable record is primarily attributed local-news questionnaires and quotes, a published written statement, USD 489 board coverage and meeting materials, and professional medical profiles. The current candidate data's campaignWebsite value was not used because I did not verify a current official campaign site from school, public, campaign, civic, or professional sources.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:12",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l12"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0007",
+      "evidenceRowId": "em-derek-yarmer-01202",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:16",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Campaign website | No verified current campaign site found | Searched by name, office, campaign terms, and Hays/USD 489 terms. No official candidate-controlled campaign site was verified. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:16",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l16"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0008",
+      "evidenceRowId": "em-derek-yarmer-01210",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Local news / Q&A | [Hays Post 2023 Q&A](https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649), [Hays Post 2021 vacancy letter](https://hayspost.com/posts/f743144f-86f5-409f-af1d-729253115b28) | Candidate-authored or candidate-attributed statements about education, transparency, bond oversight, school safety during COVID, construction experience, and self-financing. |",
+      "sourceUrl": "https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:24",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l24"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-derek-yarmer-0009",
+      "evidenceRowId": "em-derek-yarmer-01212",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:26",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Local board coverage | Hays Post and Tiger Media Network articles from 2024-2026 | Attributed comments on budgets, bond/capital outlay, administrator contracts, special education funding, mental health/social-emotional learning, HVAC bids, bathrooms, and board process. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:26",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l26"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0010",
+      "evidenceRowId": "em-derek-yarmer-01215",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:31",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "2021 USD 489 Vacancy Application",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:31",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l31"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0011",
+      "evidenceRowId": "em-derek-yarmer-01216",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:33",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "In a 2021 application letter published by Hays Post, Yarmer wrote that educating children is \"one of the most important responsibilities we have as parents\" and said he wanted to be active in the education of his daughters and other students in the district. He also presented his medical background as directly relevant to pandemic-era school decisions, saying his \"front-line healthcare\" experience and access to medical literature could help the district take a pragmatic approach to protecting students and staff while minimizing interruptions to education.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:33",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l33"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0012",
+      "evidenceRowId": "em-derek-yarmer-01219",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:41",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        9
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Health care / insurance / Medicaid"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "In the 2023 Hays Post candidate questionnaire, Yarmer described himself as a 39-year-old ER doctor with children in USD 489 schools. His campaign financing answer was: \"My campaign is 100 percent personally financed.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:41",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l41"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0013",
+      "evidenceRowId": "em-derek-yarmer-01222",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:46",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Board transparency: he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add agenda items easily.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:46",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l46"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0014",
+      "evidenceRowId": "em-derek-yarmer-01227",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:54",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Hays Post published a Yarmer email statement in full after asking him to elaborate on concerns that the community was not receiving what residents expected from the bond projects. Yarmer argued that the district was using capital outlay money for items that should have been covered by the bond and criticized priorities including a concession stand, scoreboards, tennis courts, and a marquee sign while roofing and classroom work remained deferred.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:54",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l54"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0015",
+      "evidenceRowId": "em-derek-yarmer-01230",
+      "platform": "Public web / internal harvest",
+      "actionType": "follow",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:59",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "He wrote that \"the school's administration has failed to follow through on its promise to the taxpayers of USD 489 regarding its use of the bond money.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:59",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l59"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0016",
+      "evidenceRowId": "em-derek-yarmer-01231",
+      "platform": "Public web / internal harvest",
+      "actionType": "share/repost",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:60",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        5
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Taxes / spending / debt"
+      ],
+      "signalStrength": "moderate",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "He wrote that the school board shared blame for \"reckless spending\" because of insufficient oversight.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:60",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l60"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0017",
+      "evidenceRowId": "em-derek-yarmer-01238",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/753ae9c5-9a0b-4bc2-b319-57e7fc4efdeb",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        5,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| 2025-02-20 | [Hays Post](https://hayspost.com/posts/753ae9c5-9a0b-4bc2-b319-57e7fc4efdeb) | Special education funding and district spending | Said the district could \"work a little leaner,\" questioned whether requested items were needs, said money was not the core problem in education, and criticized social-emotional/mental-health framing in schools. |",
+      "sourceUrl": "https://hayspost.com/posts/753ae9c5-9a0b-4bc2-b319-57e7fc4efdeb",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:71",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l71"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-derek-yarmer-0018",
+      "evidenceRowId": "em-derek-yarmer-01248",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:83",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "HaysMed's provider page identifies Yarmer as an Emergency Department physician, with medical school at the University of Kansas School of Medicine and emergency medicine residency at the University of Missouri-Kansas City.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:83",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l83"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0019",
+      "evidenceRowId": "em-derek-yarmer-01255",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:95",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        9
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Health care / insurance / Medicaid"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Student education, core academics, special education, mental health/social-emotional learning, and what schools should teach: 5 source items.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:95",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l95"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0020",
+      "evidenceRowId": "em-derek-yarmer-01256",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:96",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        9
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Health care / insurance / Medicaid"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Parent/student safety, pandemic response, bathrooms, vandalism, cameras, and health/safety: 4 source items.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:96",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l96"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0021",
+      "evidenceRowId": "em-derek-yarmer-01263",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:105",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "USD 489 meeting portal/video pages were checked, but static capture did not expose full transcripts or all video content. I used local-news reports and official district pages where meeting statements were attributed in accessible text.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:105",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l105"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0022",
+      "evidenceRowId": "em-derek-yarmer-01268",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:113",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Search terms included variations of \"Derek Yarmer,\" \"Derek M Yarmer,\" \"Derek Yarmer USD 489,\" \"Derek Yarmer school board,\" \"Derek Yarmer campaign,\" \"Derek Yarmer Facebook,\" \"Derek Yarmer Instagram,\" \"Derek Yarmer Twitter/X,\" \"Derek Yarmer LinkedIn,\" \"Yarmer Hays USD 489 2026,\" and source-restricted searches for USD 489, BoardDocs, YouTube, and social platforms.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:113",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l113"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0023",
+      "evidenceRowId": "em-derek-yarmer-01224",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:48",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Bond oversight: he said the board has \"the absolute responsibility\" to keep the project on budget and deliver the structures promised to the community.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:48",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l48"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0024",
+      "evidenceRowId": "em-derek-yarmer-01226",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:52",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "2025 Written Statement On Bond And Capital Outlay Spending",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:52",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l52"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0025",
+      "evidenceRowId": "em-derek-yarmer-01237",
+      "platform": "hayspost.com",
+      "actionType": "like",
+      "target": "https://hayspost.com/posts/4c6383bb-a3d5-40fe-9d6e-f35e54674e93",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| 2025-02-05 | [Hays Post](https://hayspost.com/posts/4c6383bb-a3d5-40fe-9d6e-f35e54674e93) | Capital outlay and bond projects | Questioned budget changes between years, said \"It seems like we have no budget,\" and called some items \"wants and not needs.\" |",
+      "sourceUrl": "https://hayspost.com/posts/4c6383bb-a3d5-40fe-9d6e-f35e54674e93",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:70",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l70"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0026",
+      "evidenceRowId": "em-derek-yarmer-01253",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:93",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Fiscal oversight, bond management, capital outlay, bids, project timing, and large purchases: 11 source items.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:93",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l93"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0027",
+      "evidenceRowId": "em-derek-yarmer-01213",
+      "platform": "haysmed.com",
+      "actionType": "post",
+      "target": "https://www.haysmed.com/provider/derek-m-yarmer-md/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9,
+        12
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid",
+        "Agriculture / rural economy / water"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Professional profile | [HaysMed provider page](https://www.haysmed.com/provider/derek-m-yarmer-md/), [Pawnee Valley Community Hospital profile](https://pawneevalleyhospital.com/dr-yarmer-new-ed-medical-director-at-pawnee-valley-community-hospital/) | Confirms Emergency Department role, training, and professional statements about rural emergency care and leadership. |",
+      "sourceUrl": "https://www.haysmed.com/provider/derek-m-yarmer-md/",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:27",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l27"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-derek-yarmer-0028",
+      "evidenceRowId": "em-derek-yarmer-01217",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:35",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "The same letter cited his post-secondary and medical training as a different perspective for the board and said his construction-industry experience could help with infrastructure decisions.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:35",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l35"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0029",
+      "evidenceRowId": "em-derek-yarmer-01249",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:85",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9,
+        12
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid",
+        "Agriculture / rural economy / water"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Pawnee Valley Community Hospital's 2023 announcement of Yarmer as Emergency Department medical director includes his public statements about rural emergency care. He said PVCH was \"well-equipped to care for patients\" and said he hoped to be a resource by offering \"guidance and support when needed.\" The profile also says he would supervise providers and review and create policies and protocols.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:85",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l85"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0030",
+      "evidenceRowId": "em-derek-yarmer-01257",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:97",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9,
+        12
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid",
+        "Agriculture / rural economy / water"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Professional medical/rural health background: 3 source items.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:97",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l97"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0031",
+      "evidenceRowId": "em-derek-yarmer-01264",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:106",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "I did not use people-search pages, generic doctor-rating pages, or private/social-login-only pages as messaging sources.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:106",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l106"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0032",
+      "evidenceRowId": "em-derek-yarmer-01239",
+      "platform": "tigermedianet.com",
+      "actionType": "post",
+      "target": "https://tigermedianet.com/?p=90779",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| 2025-10-14 | [Tiger Media Network](https://tigermedianet.com/?p=90779) | Furniture and playground expenses | Objected to receiving numbers and voting the same night, saying larger purchases should come to the board earlier. |",
+      "sourceUrl": "https://tigermedianet.com/?p=90779",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:72",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l72"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-derek-yarmer-0033",
+      "evidenceRowId": "em-derek-yarmer-01242",
+      "platform": "tigermedianet.com",
+      "actionType": "post",
+      "target": "https://tigermedianet.com/?p=94701",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| 2026-02-24 | [Tiger Media Network](https://tigermedianet.com/?p=94701) | Felten Elementary project | Said purchases over $100,000 should be discussed at the prior board meeting before a vote, and distinguished estimates from final proposals. |",
+      "sourceUrl": "https://tigermedianet.com/?p=94701",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:75",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l75"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-derek-yarmer-0034",
+      "evidenceRowId": "em-derek-yarmer-01245",
+      "platform": "tigermedianet.com",
+      "actionType": "post",
+      "target": "https://tigermedianet.com/?p=95549",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| 2026-03-10 | [Tiger Media Network](https://tigermedianet.com/?p=95549) | Administrator/director contracts | Flagged contract language that appeared to place the superintendent under his own supervision; moved to vote on contracts individually. |",
+      "sourceUrl": "https://tigermedianet.com/?p=95549",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:78",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l78"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-derek-yarmer-0035",
+      "evidenceRowId": "em-derek-yarmer-01203",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:17",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Facebook | No verified public candidate/campaign page found | Searches did not surface a reliable Yarmer-controlled campaign page. Public district discussion may mention him, but no candidate-authored public feed was verified. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:17",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l17"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0036",
+      "evidenceRowId": "em-derek-yarmer-01207",
+      "platform": "YouTube",
+      "actionType": "absence",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:21",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| YouTube | No candidate channel found; board videos linked from local articles and district meeting portal | Hays Post links to full meeting video for at least one 2026 board discussion, but candidate-controlled posts were not found. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:21",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l21"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-derek-yarmer-0037",
+      "evidenceRowId": "em-derek-yarmer-01211",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/52e53c90-5182-42f0-919e-2c7dc145305b",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Local news / published statement | [Hays Post opinion statement](https://hayspost.com/posts/52e53c90-5182-42f0-919e-2c7dc145305b) | Hays Post says Yarmer responded by email and published the written statement in full. |",
+      "sourceUrl": "https://hayspost.com/posts/52e53c90-5182-42f0-919e-2c7dc145305b",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:25",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l25"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-derek-yarmer-0038",
+      "evidenceRowId": "em-derek-yarmer-01223",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:47",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Board role: he said the board should oversee \"the broad goals of the district, how money is spent, and what students are taught,\" while not managing day-to-day operations.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:47",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l47"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0039",
+      "evidenceRowId": "em-derek-yarmer-01233",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:64",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Attributed Board-Meeting Messaging",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:64",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l64"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0040",
+      "evidenceRowId": "em-derek-yarmer-01258",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:98",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Campaign finance and campaign operations: 1 source item.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:98",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l98"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0041",
+      "evidenceRowId": "em-derek-yarmer-01191",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Social Harvest - Derek Yarmer",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:1",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0042",
+      "evidenceRowId": "em-derek-yarmer-01192",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Candidate: Derek Yarmer",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:3",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0043",
+      "evidenceRowId": "em-derek-yarmer-01193",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:4",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Slug: derek-yarmer",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:4",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l4"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0044",
+      "evidenceRowId": "em-derek-yarmer-01196",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:7",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Party: NP",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:7",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l7"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0045",
+      "evidenceRowId": "em-derek-yarmer-01197",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Capture date: 2026-05-11",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:8",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l8"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0046",
+      "evidenceRowId": "em-derek-yarmer-01198",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:10",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Presence Detector",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:10",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l10"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0047",
+      "evidenceRowId": "em-derek-yarmer-01200",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:14",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Source type | Public source | Capture result |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:14",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l14"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0048",
+      "evidenceRowId": "em-derek-yarmer-01201",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:67",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| --- | --- | --- | --- |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:67",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l15",
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l67"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0049",
+      "evidenceRowId": "em-derek-yarmer-01204",
+      "platform": "X / Twitter",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:18",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| X / Twitter | No verified public candidate/campaign account found | Searches did not surface a reliable Yarmer-controlled account. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:18",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l18"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0050",
+      "evidenceRowId": "em-derek-yarmer-01205",
+      "platform": "Instagram",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:19",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Instagram | No verified public candidate/campaign account found | Searches did not surface a reliable Yarmer-controlled account. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:19",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l19"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0051",
+      "evidenceRowId": "em-derek-yarmer-01206",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:20",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| LinkedIn | No verified public candidate/campaign profile found | Searches did not surface a reliable current profile for this candidate. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:20",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l20"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0052",
+      "evidenceRowId": "em-derek-yarmer-01214",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:29",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Candidate-Controlled Or Attributed Statements",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:29",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l29"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0053",
+      "evidenceRowId": "em-derek-yarmer-01220",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:43",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Recurring themes in the questionnaire:",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:43",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l43"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0054",
+      "evidenceRowId": "em-derek-yarmer-01221",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:45",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Better facilities, but with cost control: \"I want to help make sure that the Hays residents get the new schools they were promised at the price they were promised.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:45",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l45"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0055",
+      "evidenceRowId": "em-derek-yarmer-01228",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:56",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Key attributed messages:",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:56",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l56"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0056",
+      "evidenceRowId": "em-derek-yarmer-01229",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:58",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "He said capital outlay was \"meant to maintain our facilities\" and should not be used for things he believed belonged under the bond.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:58",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l58"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0057",
+      "evidenceRowId": "em-derek-yarmer-01234",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:66",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Date | Source | Topic | Attributed Yarmer message |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:66",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l66"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0058",
+      "evidenceRowId": "em-derek-yarmer-01240",
+      "platform": "tigermedianet.com",
+      "actionType": "post",
+      "target": "https://tigermedianet.com/?p=93176",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| 2025-12-16 | [Tiger Media Network](https://tigermedianet.com/?p=93176) | Asbestos abatement | Seconded a tabling motion and said, \"If everything is an emergency, nothing is an emergency.\" |",
+      "sourceUrl": "https://tigermedianet.com/?p=93176",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:73",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l73"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0059",
+      "evidenceRowId": "em-derek-yarmer-01241",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/8eeba75c-7a82-4bf4-983a-15ce03bd6f7f",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| 2026-02-10 | [Hays Post](https://hayspost.com/posts/8eeba75c-7a82-4bf4-983a-15ce03bd6f7f) | HVAC maintenance | Asked how many man-hours were included, said the cost was too high, and argued the work should be bid out. |",
+      "sourceUrl": "https://hayspost.com/posts/8eeba75c-7a82-4bf4-983a-15ce03bd6f7f",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:74",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l74"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0060",
+      "evidenceRowId": "em-derek-yarmer-01243",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/f5e69fbd-0165-4db1-b896-07613f7a31ed",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| 2026-02-25 | [Hays Post](https://hayspost.com/posts/f5e69fbd-0165-4db1-b896-07613f7a31ed) | Felten Elementary construction contract | Asked whether plumbing had been scoped before bidding and said it is good to know project conditions before proceeding. Voted no because he wanted more time. |",
+      "sourceUrl": "https://hayspost.com/posts/f5e69fbd-0165-4db1-b896-07613f7a31ed",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:76",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l76"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0061",
+      "evidenceRowId": "em-derek-yarmer-01244",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/0c27e966-61e9-4c00-b6d7-7f37f6d3bba7",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| 2026-02-26 | [Hays Post](https://hayspost.com/posts/0c27e966-61e9-4c00-b6d7-7f37f6d3bba7) | HVAC and administrator contracts | Joined questions on price and bidding; supported delaying contract-extension votes until more review. |",
+      "sourceUrl": "https://hayspost.com/posts/0c27e966-61e9-4c00-b6d7-7f37f6d3bba7",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:77",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l77"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0062",
+      "evidenceRowId": "em-derek-yarmer-01246",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| 2026-04-22 | [Hays Post](https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede) | Hays High bathrooms and vandalism | Said cameras outside bathrooms were not adequate for safety or security purposes. |",
+      "sourceUrl": "https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:79",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l79"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0063",
+      "evidenceRowId": "em-derek-yarmer-01247",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:81",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Professional Public Messaging",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:81",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l81"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0064",
+      "evidenceRowId": "em-derek-yarmer-01251",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:89",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Topic Signals",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:89",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l89"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0065",
+      "evidenceRowId": "em-derek-yarmer-01252",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:91",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Approximate topic distribution across the accessible candidate-controlled or attributed record:",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:91",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l91"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0066",
+      "evidenceRowId": "em-derek-yarmer-01254",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:94",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Board process, transparency, agenda timing, broadcasts, contracts, and oversight: 8 source items.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:94",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l94"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0067",
+      "evidenceRowId": "em-derek-yarmer-01259",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:100",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Visible Absences And Limits",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:100",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l100"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0068",
+      "evidenceRowId": "em-derek-yarmer-01260",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:102",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "No verified current campaign website was found; the known bad campaignWebsite value was not used.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:102",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l102"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0069",
+      "evidenceRowId": "em-derek-yarmer-01261",
+      "platform": "Bluesky",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:103",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "No verified public candidate-controlled Facebook, X/Twitter, Instagram, LinkedIn, TikTok, YouTube, Bluesky, Threads, Substack, Reddit, Truth Social, Gab, or Gettr presence was found.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:103",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l103"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0070",
+      "evidenceRowId": "em-derek-yarmer-01262",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:104",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "No candidate-authored public social posts were harvested.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:104",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l104"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0071",
+      "evidenceRowId": "em-derek-yarmer-01265",
+      "platform": "Public web / internal harvest",
+      "actionType": "absence",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:107",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Absence of accessible posts is not evidence that private, deleted, restricted, or algorithmically hidden content does not exist.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:107",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l107"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-derek-yarmer-0072",
+      "evidenceRowId": "em-derek-yarmer-01266",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:109",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Methodology",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:109",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l109"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0073",
+      "evidenceRowId": "em-derek-yarmer-01269",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:115",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Date range covered: public material available through 2026-05-11, with candidate statements from 2021, 2023, 2025, and attributed board comments through 2026-04-22.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:115",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l115"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0074",
+      "evidenceRowId": "em-derek-yarmer-01270",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:117",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "We report patterns in public, candidate-controlled or attributed messaging; we do not interpret intent.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:117",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l117"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0075",
+      "evidenceRowId": "em-derek-yarmer-01634",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:605",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        2,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "LGBT / gender / parental rights",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "candidate-authored safety, bathroom, or emergency-policy platform was found.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:605",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l605"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0076",
+      "evidenceRowId": "em-derek-yarmer-01939",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:357",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        2
+      ],
+      "issueLabels": [
+        "LGBT / gender / parental rights"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"summary\": \"The public record shows facility and safety questions, but no complete\\ncandidate-authored safety, bathroom, or emergency-policy platform was found.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:357",
+      "sourceIds": [
+        "mem-ui-src-data-v2-derek-yarmer-ts-l357"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0077",
+      "evidenceRowId": "em-derek-yarmer-00002",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/in-their-own-words.md:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "*A summary of what Derek Yarmer has publicly said, written, and been quoted saying in campaign questionnaires, a published written statement, USD 489 board coverage, school/public pages, and professional profiles through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/in-their-own-words.md:3",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-in-their-own-words-md-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0078",
+      "evidenceRowId": "em-derek-yarmer-00011",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/in-their-own-words.md:23",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "The visible absences matter. I did not verify a current campaign website, public candidate-controlled social account, campaign video channel, endorsement page, donation page, or long-form civic platform. The accessible record also did not show substantial candidate-authored messaging on state or national partisan issues, school vouchers, library policy, curriculum culture-war topics beyond the quoted social-emotional-learning discussion, teacher unions, school finance formulas beyond special education and local mill levies, or non-school local government issues. This is a limitation of the accessible public record, not a claim about private, deleted, restricted, or unindexed content.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/in-their-own-words.md:23",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-in-their-own-words-md-l23"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0079",
+      "evidenceRowId": "em-derek-yarmer-00012",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/in-their-own-words.md:25",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Methodology: Sources checked included USD 489 official pages and meeting portal, Hays Post, Tiger Media Network, BoardDocs search results, HaysMed, Pawnee Valley Community Hospital, Great Bend Tribune, and web searches for campaign, civic, professional, and social accounts. Date range covered: public material available through 2026-05-11. Public social harvest: no verified candidate-controlled social posts were found, so no inaccessible social content was fabricated or summarized. We report patterns in public, candidate-controlled or attributed messaging; we do not interpret intent.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/in-their-own-words.md:25",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-in-their-own-words-md-l25"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0080",
+      "evidenceRowId": "em-derek-yarmer-00078",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/raw-dump-v2.md:87",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "He said he did not think money was the education system's core problem and criticized \"social-emotional\" school programming.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/raw-dump-v2.md:87",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-raw-dump-v2-md-l87"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0081",
+      "evidenceRowId": "em-derek-yarmer-00153",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/raw-dump-v2.md:212",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No comprehensive written platform found on vouchers, curriculum standards, library materials, teacher unions, state testing, or statewide school finance.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/raw-dump-v2.md:212",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-raw-dump-v2-md-l212"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0082",
+      "evidenceRowId": "em-derek-yarmer-01143",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/sleuth-pass.md:7",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Derek Yarmer's public profile is local and operational rather than campaign-media driven. The strongest evidence is not a candidate website or social feed; it is a combination of official USD 489 HighBond/Diligent minutes, Hays Post candidate questionnaires and a published written statement, plus contemporaneous Hays Post and Tiger Media meeting coverage.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/sleuth-pass.md:7",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-sleuth-pass-md-l7"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0083",
+      "evidenceRowId": "em-derek-yarmer-01144",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/sleuth-pass.md:9",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "He is a current USD 489 Board of Education member and emergency medicine physician. The public record shows a consistent oversight posture: bond and capital-outlay scrutiny, earlier agenda/material access, more deliberate contract review, and skepticism toward rushed large purchases. His education-policy comments emphasize parent responsibility, core academics, and concern that schools are expanding too far into social-emotional or mental-health roles.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/sleuth-pass.md:9",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-sleuth-pass-md-l9"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0084",
+      "evidenceRowId": "em-derek-yarmer-01175",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/sleuth-pass.md:60",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        9,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Health care / insurance / Medicaid",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "The record here is more statement-heavy than vote-heavy. His 2021 application framed education first as a parental responsibility. Hays Post's Feb. 20, 2025 coverage records him questioning whether district requests were needs, saying the district could work leaner, and criticizing expansive social-emotional/mental-health school roles while emphasizing core subjects.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/sleuth-pass.md:60",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-sleuth-pass-md-l60"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0085",
+      "evidenceRowId": "em-derek-yarmer-01176",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/sleuth-pass.md:62",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "This is a real signal but not a full curriculum platform. No detailed written position was found on standards, testing, library policy, vouchers, teacher unions, or state education finance formulas.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/sleuth-pass.md:62",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-sleuth-pass-md-l62"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0086",
+      "evidenceRowId": "em-derek-yarmer-01188",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/sleuth-pass.md:81",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No comprehensive platform found on vouchers, library materials, curriculum standards, teacher unions, or statewide education policy.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/sleuth-pass.md:81",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-sleuth-pass-md-l81"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0087",
+      "evidenceRowId": "em-derek-yarmer-01298",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:32",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "in the existing social harvest or this v2 pass. The USD 489 HighBond member page is",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:32",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l32"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0088",
+      "evidenceRowId": "em-derek-yarmer-01596",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:538",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "body: \"No candidate-controlled social posts on curriculum, SEL, or special education were verified.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:538",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l538"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0089",
+      "evidenceRowId": "em-derek-yarmer-01598",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:544",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "curriculum plan. No public platform was found on vouchers, library materials,",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:544",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l544"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0090",
+      "evidenceRowId": "em-derek-yarmer-01632",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:599",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "body: \"No candidate-controlled social posts about bathrooms, emergency policy, or school safety were verified.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:599",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l599"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0091",
+      "evidenceRowId": "em-derek-yarmer-01718",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:763",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "summary: \"No comprehensive written platform found on vouchers, library materials, curriculum standards, teacher unions, state testing, or statewide school finance.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:763",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l763"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0092",
+      "evidenceRowId": "em-derek-yarmer-01754",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:46522",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Methodology: Date range covered: July 2023 to April 2026. Platforms surveyed: Facebook, X / Twitter, Instagram, LinkedIn, YouTube, Substack, Truth Social, Reddit, TikTok. Personal accounts detected: zero. Indirect sources used: two 2023 Hays Post candidate questionnaires and approximately ten Hays Post articles covering USD 489 board meetings between 2024 and 2026. Quotes are verbatim from indexed sources; links lead to source. We report patterns; we do not interpret intent.,",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:46522",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l46522"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0093",
+      "evidenceRowId": "em-derek-yarmer-01809",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:47380",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"USD 489 official pages\",\"USD 489 meeting portal\",\"Hays Post\",\"Tiger Media Network\",\"BoardDocs search results\",\"HaysMed\",\"Pawnee Valley Community Hospital\",\"Great Bend Tribune\",\"Campaign search\",\"Professional profile search\",\"Public social search\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:47380",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l47380"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0094",
+      "evidenceRowId": "em-derek-yarmer-01844",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:48049",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"USD 489 official pages\",\"USD 489 meeting portal\",\"Hays Post\",\"Hays Post archive\",\"Great Bend Post\",\"Tiger Media Network\",\"KLC Journal\",\"BoardDocs-style search results\",\"Campaign search\",\"Civic/professional search\",\"Public social search\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:48049",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l48049"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0095",
+      "evidenceRowId": "em-derek-yarmer-01905",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:87",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"Derek Yarmer's accessible public messaging is not centered on a campaign website or active campaign social accounts. The usable record is primarily attributed local-news questionnaires and quotes, a published written statement, USD 489 board coverage and meeting materials, and professional medical profiles. The current candidate data's campaignWebsite value was not used because I did not verify a current official...\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:87",
+      "sourceIds": [
+        "mem-ui-src-data-v2-derek-yarmer-ts-l87"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0096",
+      "evidenceRowId": "em-derek-yarmer-01925",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:247",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"No candidate-controlled social posts on curriculum, SEL, or special education were verified.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:247",
+      "sourceIds": [
+        "mem-ui-src-data-v2-derek-yarmer-ts-l247"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0097",
+      "evidenceRowId": "em-derek-yarmer-01929",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:274",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"summary\": \"This issue lane is mostly attributed statements, not a detailed written\\ncurriculum plan. No public platform was found on vouchers, library materials,\\nteacher unions, state standards, or state testing policy.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:274",
+      "sourceIds": [
+        "mem-ui-src-data-v2-derek-yarmer-ts-l274"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0098",
+      "evidenceRowId": "em-derek-yarmer-01935",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:330",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"No candidate-controlled social posts about bathrooms, emergency policy, or school safety were verified.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:330",
+      "sourceIds": [
+        "mem-ui-src-data-v2-derek-yarmer-ts-l330"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0099",
+      "evidenceRowId": "em-derek-yarmer-01947",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:375",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"socialResearchNote\": \"No verified public candidate-controlled campaign website or social account was found\\nin the existing social harvest or this v2 pass. The USD 489 HighBond member page is\\nan official board-member page, not a campaign website.\\n\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:375",
+      "sourceIds": [
+        "mem-ui-src-data-v2-derek-yarmer-ts-l375"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0100",
+      "evidenceRowId": "em-derek-yarmer-00331",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/raw-dump.md:309",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No faith or church references found in her candidate profiles, HaysPost Q&As, or social media",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/raw-dump.md:309",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-raw-dump-md-l309"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0101",
+      "evidenceRowId": "em-derek-yarmer-01091",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/raw-dump.md:1743",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4,
+        13
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No church affiliation was verified. I also did not find a donor ledger, a PAC breakdown, or any archived social account that changed the profile in a reliable way.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/raw-dump.md:1743",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-raw-dump-md-l1743"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0102",
+      "evidenceRowId": "em-derek-yarmer-01190",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/sleuth-pass.md:85",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4,
+        5,
+        13
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality",
+        "Taxes / spending / debt",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Use Yarmer as a \"process and fiscal oversight\" profile, not a broad partisan or social-media profile. The evidence supports strong statements about board votes and local spending/process priorities. It does not support claims about private faith, party ideology, social-network activity, or donor networks.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/sleuth-pass.md:85",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-sleuth-pass-md-l85"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0103",
+      "evidenceRowId": "em-derek-yarmer-01516",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:409",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "body: \"No candidate-controlled social posts about bond spending were verified.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:409",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l409"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0104",
+      "evidenceRowId": "em-derek-yarmer-01901",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:79",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"No candidate-controlled social posts about bond spending were verified.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:79",
+      "sourceIds": [
+        "mem-ui-src-data-v2-derek-yarmer-ts-l79"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0105",
+      "evidenceRowId": "em-derek-yarmer-01578",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:508",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "social-emotional or mental-health framing in schools.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:508",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l508"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0106",
+      "evidenceRowId": "em-derek-yarmer-00136",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/raw-dump-v2.md:189",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No verified public candidate-controlled Facebook, X, Instagram, TikTok, LinkedIn, YouTube, Bluesky, Threads, Substack, Reddit, Truth Social, Gab, or Gettr account found.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/raw-dump-v2.md:189",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-raw-dump-v2-md-l189"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0107",
+      "evidenceRowId": "em-derek-yarmer-01183",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/sleuth-pass.md:76",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Campaign site/social: none verified.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/sleuth-pass.md:76",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-sleuth-pass-md-l76"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0108",
+      "evidenceRowId": "em-derek-yarmer-01297",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:31",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No verified public candidate-controlled campaign website or social account was found",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:31",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l31"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0109",
+      "evidenceRowId": "em-derek-yarmer-01461",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:341",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"No verified current campaign website or candidate-controlled public social account was found.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:341",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l341"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0110",
+      "evidenceRowId": "em-derek-yarmer-01462",
+      "platform": "Public web / internal harvest",
+      "actionType": "share/repost",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:342",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"No public follows, likes, comments, reposts, or candidate-authored social posts were harvested.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:342",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l342"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0111",
+      "evidenceRowId": "em-derek-yarmer-01684",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:704",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "platform: \"Campaign website\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:704",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l704"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0112",
+      "evidenceRowId": "em-derek-yarmer-01689",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:711",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "signal: \"No verified public candidate-controlled Facebook, X, Instagram, TikTok, LinkedIn, YouTube, Bluesky, Threads, Substack, Reddit, Truth Social, Gab, or Gettr account found.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:711",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l711"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0113",
+      "evidenceRowId": "em-derek-yarmer-01708",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:739",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "summary: \"No verified campaign site or candidate-controlled public social presence found.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:739",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l739"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0114",
+      "evidenceRowId": "em-derek-yarmer-00150",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/raw-dump-v2.md:209",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No verified campaign social, website, or donation page.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/raw-dump-v2.md:209",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-raw-dump-v2-md-l209"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0115",
+      "evidenceRowId": "em-derek-yarmer-01165",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/sleuth-pass.md:41",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No verified public candidate-controlled Facebook, X, Instagram, LinkedIn, YouTube, website, donation page, or endorsement page was found in the existing social harvest or this v2 pass.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/sleuth-pass.md:41",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-sleuth-pass-md-l41"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0116",
+      "evidenceRowId": "em-derek-yarmer-01517",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:411",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "s-local-social-harvest",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:411",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l411",
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l493",
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l540",
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l601",
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l708",
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l714",
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l720",
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l731",
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l741",
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l745",
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l750",
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l765"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0117",
+      "evidenceRowId": "em-derek-yarmer-01568",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:491",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "body: \"No candidate-controlled social posts about board process or contracts were verified.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:491",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l491"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0118",
+      "evidenceRowId": "em-derek-yarmer-01756",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:46524",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"Facebook\", \"X\", \"Instagram\", \"LinkedIn\", \"YouTube\", \"Substack\", \"Truth Social\", \"Reddit\", \"TikTok\", \"Local news\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:46524",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l46524"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0119",
+      "evidenceRowId": "em-derek-yarmer-01917",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:181",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"No candidate-controlled social posts about board process or contracts were verified.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:181",
+      "sourceIds": [
+        "mem-ui-src-data-v2-derek-yarmer-ts-l181"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0120",
+      "evidenceRowId": "em-derek-yarmer-00134",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/raw-dump-v2.md:186",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social And Online Signals",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/raw-dump-v2.md:186",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-raw-dump-v2-md-l186"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0121",
+      "evidenceRowId": "em-derek-yarmer-00139",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/raw-dump-v2.md:192",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Absence of public social records is not evidence about private, deleted, restricted, or unindexed accounts.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/raw-dump-v2.md:192",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-raw-dump-v2-md-l192"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0122",
+      "evidenceRowId": "em-derek-yarmer-00301",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/raw-dump.md:255",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social media (Facebook, about.me, LinkedIn)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/raw-dump.md:255",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-raw-dump-md-l255"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0123",
+      "evidenceRowId": "em-derek-yarmer-01035",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/raw-dump.md:1651",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social media profiles -- Facebook, Instagram, Twitter/X accounts for each member could not be directly accessed via search tools. Manual review recommended.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/raw-dump.md:1651",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-raw-dump-md-l1651"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0124",
+      "evidenceRowId": "em-derek-yarmer-01164",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/sleuth-pass.md:39",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social/online:",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/sleuth-pass.md:39",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-sleuth-pass-md-l39"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0125",
+      "evidenceRowId": "em-derek-yarmer-01166",
+      "platform": "Public web / internal harvest",
+      "actionType": "share/repost",
+      "target": "memory/candidates/derek-yarmer/sleuth-pass.md:42",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No public follows, likes, reposts, or comments were harvested. Therefore, social signal is an absence/limits note, not a behavioral inference.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/sleuth-pass.md:42",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-sleuth-pass-md-l42"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0126",
+      "evidenceRowId": "em-derek-yarmer-01296",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:30",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "social_presence_note: |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:30",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l30"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0127",
+      "evidenceRowId": "em-derek-yarmer-01459",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:337",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "title: \"Social Harvest - Derek Yarmer\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:337",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l337"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0128",
+      "evidenceRowId": "em-derek-yarmer-01593",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:532",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Hays Post attributed to Yarmer a critique of social-emotional and mental",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:532",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l532"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0129",
+      "evidenceRowId": "em-derek-yarmer-01682",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:702",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "social_online_signals:",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:702",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l702"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0130",
+      "evidenceRowId": "em-derek-yarmer-01688",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:710",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "platform: \"Public social platforms\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:710",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l710"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0131",
+      "evidenceRowId": "em-derek-yarmer-01692",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:716",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "platform: \"Social interactions\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:716",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l716"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0132",
+      "evidenceRowId": "em-derek-yarmer-01694",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:718",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "inference_limit: \"Do not infer social-network alignment from absence of harvested interactions.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:718",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l718"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0133",
+      "evidenceRowId": "em-derek-yarmer-01888",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:1",
+      "sourceIds": [
+        "mem-ui-src-data-v2-derek-yarmer-ts-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0134",
+      "evidenceRowId": "em-derek-yarmer-01890",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "node scripts/hydrate-v2-social-signals.mjs",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:3",
+      "sourceIds": [
+        "mem-ui-src-data-v2-derek-yarmer-ts-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0135",
+      "evidenceRowId": "em-derek-yarmer-01900",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:78",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Public web\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:78",
+      "sourceIds": [
+        "mem-ui-src-data-v2-derek-yarmer-ts-l78",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l86",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l180",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l188",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l246",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l254",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l264",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l329",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l337"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0136",
+      "evidenceRowId": "em-derek-yarmer-01907",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:96",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Hays Post\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:96",
+      "sourceIds": [
+        "mem-ui-src-data-v2-derek-yarmer-ts-l96",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l198",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l347"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0137",
+      "evidenceRowId": "em-derek-yarmer-01924",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:237",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"body\": \"Hays Post attributed to Yarmer a critique of social-emotional and mental\\nhealth programming inside schools and a preference for core academic focus.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:237",
+      "sourceIds": [
+        "mem-ui-src-data-v2-derek-yarmer-ts-l237"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0138",
+      "evidenceRowId": "em-derek-yarmer-01752",
+      "platform": "hayspost.com",
+      "actionType": "online-reference",
+      "target": "https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        3,
+        4,
+        8,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Immigration / border",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "likely",
+      "observation": "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays ([source](https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a)). Second, the candidate-profiler raw intelligence from this project records that no reliable public source identifies Ruder's church affiliation; that data point is absent from the harvested set. The captured period contains no posts or quotes from Ruder on healthcare, immigration, abortion specifics, foreign policy, federal elections, K–12 curriculum content beyond test-score performance, or social-issue topics.",
+      "sourceUrl": "https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a",
+      "sourceFile": "ui/src/data/candidates.ts:46516",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l46516"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0139",
+      "evidenceRowId": "em-derek-yarmer-01235",
+      "platform": "hayspost.com",
+      "actionType": "share/repost",
+      "target": "https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        10
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "| 2024-01-24 | [Hays Post](https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf) and [USD 489 repost](https://www.usd489.com/article/1425433) | Administrator contracts | Abstained and said, \"You're asking me to vote on something I know nothing about,\" after he and Allen Park wanted more time to review evaluations. |",
+      "sourceUrl": "https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:68",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l68"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0140",
+      "evidenceRowId": "em-derek-yarmer-01267",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/derek-yarmer/social-harvest.md:111",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Sources checked: USD 489 Board of Education page, USD 489 article archive, USD 489 meeting portal, BoardDocs search results, Hays Post, Tiger Media Network, Pawnee Valley Community Hospital, HaysMed provider profile, Great Bend Tribune duplicate of the PVCH announcement, and web searches for campaign/civic/professional pages and major social platforms.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:111",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l111"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0141",
+      "evidenceRowId": "em-derek-yarmer-01250",
+      "platform": "haysmed.com",
+      "actionType": "post",
+      "target": "https://www.haysmed.com/provider/derek-m-yarmer-md/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Sources: [HaysMed](https://www.haysmed.com/provider/derek-m-yarmer-md/), [Pawnee Valley Community Hospital](https://pawneevalleyhospital.com/dr-yarmer-new-ed-medical-director-at-pawnee-valley-community-hospital/)",
+      "sourceUrl": "https://www.haysmed.com/provider/derek-m-yarmer-md/",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:87",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l87"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0142",
+      "evidenceRowId": "em-derek-yarmer-01748",
+      "platform": "Facebook",
+      "actionType": "absence",
+      "target": "https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "At time of harvest, Ruth Ruder does not maintain a detectable personal public social-media presence. No campaign Facebook page, no X / Twitter account, no Instagram account, no public LinkedIn profile, no YouTube channel, and no Substack or Truth Social account was found indexed under her name during the harvest window. The single Facebook hit returned for her name is a 2023 community-organization post congratulating her on a Wonder Women League honor ([source](https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447)). The harvested record consists of two 2023 candidate questionnaires published by Hays Post and a recurring set of board-meeting quotes captured by Hays Post over the 2024 to 2026 period. Voters who want to read her own direct statements will find them almost exclusively in board-meeting coverage, not on a candidate-controlled feed.",
+      "sourceUrl": "https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447",
+      "sourceFile": "ui/src/data/candidates.ts:46508",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l46508"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-derek-yarmer-0143",
+      "evidenceRowId": "em-derek-yarmer-00910",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/ron-wilson-96762118a/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "LinkedIn: [linkedin.com/in/ron-wilson-96762118a](https://www.linkedin.com/in/ron-wilson-96762118a/)",
+      "sourceUrl": "https://www.linkedin.com/in/ron-wilson-96762118a/",
+      "sourceFile": "memory/candidates/derek-yarmer/raw-dump.md:1482",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-raw-dump-md-l1482"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0144",
+      "evidenceRowId": "em-derek-yarmer-01124",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/ron-wilson-96762118a/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[linkedin.com/in/ron-wilson-96762118a](https://www.linkedin.com/in/ron-wilson-96762118a/)",
+      "sourceUrl": "https://www.linkedin.com/in/ron-wilson-96762118a/",
+      "sourceFile": "memory/candidates/derek-yarmer/site-profile.md:174",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-site-profile-md-l174"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0145",
+      "evidenceRowId": "em-derek-yarmer-01218",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/f743144f-86f5-409f-af1d-729253115b28",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Source: [Hays Post, Sept. 15, 2021](https://hayspost.com/posts/f743144f-86f5-409f-af1d-729253115b28)",
+      "sourceUrl": "https://hayspost.com/posts/f743144f-86f5-409f-af1d-729253115b28",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:37",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l37"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0146",
+      "evidenceRowId": "em-derek-yarmer-01225",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Source: [Hays Post, Oct. 23, 2023](https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649)",
+      "sourceUrl": "https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:50",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l50"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0147",
+      "evidenceRowId": "em-derek-yarmer-01232",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/52e53c90-5182-42f0-919e-2c7dc145305b",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Source: [Hays Post, Mar. 28, 2025](https://hayspost.com/posts/52e53c90-5182-42f0-919e-2c7dc145305b)",
+      "sourceUrl": "https://hayspost.com/posts/52e53c90-5182-42f0-919e-2c7dc145305b",
+      "sourceFile": "memory/candidates/derek-yarmer/social-harvest.md:62",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-social-harvest-md-l62"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0148",
+      "evidenceRowId": "em-derek-yarmer-00643",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/raw-dump.md:1018",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        4,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Assessment: Jeff Colyer has a Catholic education background from Hays, and his policy positions align with Catholic social teaching on life issues. However, his international medical work is through a secular organization (International Medical Corps), not a faith-based one. His current church affiliation is unknown. He may still be Catholic, he may have shifted denominations, or he may be a private worshiper. The fact that his campaign and official profiles do not prominently feature church membership is notable for a Republican running in a Kansas primary. Recommend direct inquiry.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/raw-dump.md:1018",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-raw-dump-md-l1018"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0149",
+      "evidenceRowId": "em-derek-yarmer-01753",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:46518",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        6,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Economy / jobs / labor",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Ruder's platform footprint at the time of this harvest is effectively zero personal accounts and several institutional surfaces where she appears as a representative of Golden Plains Credit Union, where she serves as Vice-President of the Hays branch, or as a USD 489 board member. Voters seeking direct statements from Ruth Ruder will find them in Hays Post candidate questionnaires, in Hays Post and KAYS Radio coverage of USD 489 board meetings, in the live and archived USD 489 board-meeting video stream published by the district, and at in-person USD 489 board meetings open to the public.",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:46518",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l46518"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0150",
+      "evidenceRowId": "em-derek-yarmer-01515",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:77",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"ss-bond-no-candidate-social\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:77",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l408",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l77"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0151",
+      "evidenceRowId": "em-derek-yarmer-01567",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:179",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"ss-process-no-candidate-social\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:179",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l490",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l179"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0152",
+      "evidenceRowId": "em-derek-yarmer-01595",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:245",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"ss-academics-no-candidate-social\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:245",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l537",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l245"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0153",
+      "evidenceRowId": "em-derek-yarmer-01631",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:328",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"ss-safety-no-candidate-social\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:328",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l598",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l328"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0154",
+      "evidenceRowId": "em-derek-yarmer-01455",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:333",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "id: s-local-social-harvest",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:333",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l333"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0155",
+      "evidenceRowId": "em-derek-yarmer-01456",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:334",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "tier: social",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:334",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l334"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0156",
+      "evidenceRowId": "em-derek-yarmer-01458",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:336",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "url: \"memory/candidates/derek-yarmer/social-harvest.md\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:336",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l336"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0157",
+      "evidenceRowId": "em-derek-yarmer-01514",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/derek-yarmer.ts:75",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"socialSignals\": [",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/derek-yarmer.ts:75",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l407",
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l489",
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l536",
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l597",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l75",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l177",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l243",
+        "mem-ui-src-data-v2-derek-yarmer-ts-l326"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0158",
+      "evidenceRowId": "em-derek-yarmer-01687",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:709",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "id: so-no-public-social",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:709",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l709"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-derek-yarmer-0159",
+      "evidenceRowId": "em-derek-yarmer-01717",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/derek-yarmer/v2-issues.yaml:762",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "id: gap-policy-platform",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/derek-yarmer/v2-issues.yaml:762",
+      "sourceIds": [
+        "mem-memory-candidates-derek-yarmer-v2-issues-yaml-l762"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    }
+  ],
+  "issueCoverage": {
+    "1": {
+      "issue": "Abortion / life",
+      "total": 2,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "2": {
+      "issue": "LGBT / gender / parental rights",
+      "total": 3,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 3
+    },
+    "3": {
+      "issue": "Education / curriculum / schools",
+      "total": 50,
+      "strong": 2,
+      "moderate": 1,
+      "weak": 16,
+      "ambiguous": 26
+    },
+    "4": {
+      "issue": "Religious liberty / church / civic morality",
+      "total": 6,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 4
+    },
+    "5": {
+      "issue": "Taxes / spending / debt",
+      "total": 12,
+      "strong": 1,
+      "moderate": 1,
+      "weak": 4,
+      "ambiguous": 6
+    },
+    "6": {
+      "issue": "Economy / jobs / labor",
+      "total": 2,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "7": {
+      "issue": "Guns / Second Amendment",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "8": {
+      "issue": "Immigration / border",
+      "total": 2,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "9": {
+      "issue": "Health care / insurance / Medicaid",
+      "total": 27,
+      "strong": 3,
+      "moderate": 0,
+      "weak": 11,
+      "ambiguous": 9
+    },
+    "10": {
+      "issue": "Election integrity / voting / courts",
+      "total": 27,
+      "strong": 3,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 18
+    },
+    "11": {
+      "issue": "Public safety / law enforcement / criminal justice",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "12": {
+      "issue": "Agriculture / rural economy / water",
+      "total": 4,
+      "strong": 1,
+      "moderate": 0,
+      "weak": 2,
+      "ambiguous": 1
+    },
+    "13": {
+      "issue": "Local governance / transparency / ethics",
+      "total": 63,
+      "strong": 4,
+      "moderate": 0,
+      "weak": 12,
+      "ambiguous": 37
+    },
+    "14": {
+      "issue": "Environment / energy / land use",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    }
+  },
+  "caveats": [
+    "Social evidence is signal, not fact. A follow, like, share, or platform absence is not treated as a belief or policy position.",
+    "Candidate-controlled posts and campaign pages may be used as stated positions only when the text itself says the position.",
+    "Login-walled, blocked, or inaccessible platform content is documented as a capture limitation, not as evidence of silence."
+  ]
+}

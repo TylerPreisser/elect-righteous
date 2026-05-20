@@ -1,0 +1,3115 @@
+{
+  "candidateSlug": "allen-park",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceFiles": [
+    "memory/candidates/allen-park/social-harvest.md",
+    "memory/candidates/allen-park/evidence-matrix.json"
+  ],
+  "platformPresence": [],
+  "signals": [
+    {
+      "id": "soc-allen-park-0001",
+      "evidenceRowId": "em-allen-park-01597",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "LGBT / gender / parental rights",
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Taxes / spending / debt",
+        "Guns / Second Amendment",
+        "Immigration / border",
+        "Health care / insurance / Medicaid",
+        "Election integrity / voting / courts",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use-with-caveat",
+      "confidence": "likely",
+      "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he described himself as someone with \\\"a love for our community\\\" and \\\"a love for kids,\\\" said he listens to people and studies board materials, and framed school-board service as a way to improve Hays and USD 489. ([Hays Post](https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220))\\n\\nFacilities and the bond program are central to his own account of why he ran again. Brooks said that when he first ran, he did not have an agenda \\\"so much,\\\" but he did want the bond passed. By 2025, he pointed to the new high school opening, remaining bond projects, O'Loughlin work, and the five-year capital outlay plan as evidence that the district was staying on track. He said the capital outlay plan helps the board budget and plan for the future. ([Hays Post](https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220))\\n\\nHe also repeatedly talks about direct family costs. In 2021, he called high enrollment costs the most negative thing about USD 489 and said they put hardship on many families. In 2025, he returned to the same issue, saying it cost him $1,000 to enroll three children when his oldest was a senior and that the board had lowered fees in most years since he joined. ([Hays Post 2021](https://hayspost.com/posts/2613aaa8-8055-4feb-9a79-d1b5479babca), [Hays Post 2025](https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220))\\n\\nBrooks' clearest governing philosophy is anti-micromanagement. In the 2025 Q&A, he said the board should provide oversight while administrators and teachers handle day-to-day operations, and that the superintendent is the only employee who answers directly to the board. In later board coverage, he used the same frame on handbooks, contracts, and bathroom/vandalism disputes. ([Hays Post](https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220), [Tiger Media Network](https://tigermedianet.com/?p=87800), [Tiger Media Network](https://tigermedianet.com/?p=96863))\\n\\nThat posture often becomes a defense of administrators. Brooks told Hays Post in 2025 that Chris Hipp, Ron Wilson, and district administrators had proven trustworthy on budget matters. In March 2026 contract coverage, Tiger Media Network quoted him saying the board had an incredible administrative staff and had no reason not to approve every contract. ([Hays Post](https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220), [Tiger Media Network](https://tigermedianet.com/?p=95549))\\n\\nOn budget, he argues the district has been responsible while acknowledging uncertain outside funding. Brooks said he believed USD 489 was adequately managing its budget and that critics had not shown the district to be irresponsible. He also said national and state conditions were uncertain, that the board needed proven leadership, and that special education had never been fully funded by the state. ([Hays Post](https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220))\\n\\nHis older 2021 profile shows the same mix of facilities, costs, and community relations. Brooks said he opposed the 2016 bond but supported the 2017 version because he thought it better matched district needs. He said future facilities work should include classroom updates, new administrative offices, and a new auditorium, and that maintenance outside a bond would require community involvement and information. He also said board unity mattered and that good decisions require listening to other points of view. ([Hays Post](https://hayspost.com/posts/2613aaa8-8055-4feb-9a79-d1b5479babca))\\n\\nHis faith and civic-service statements are visible but not campaign-social. In the 2021 profile, Brooks listed Kiwanis, helping lead children's ministry at Celebration Community Church for almost 14 years, and coordinating the Thanksgiving Community Food Drive with ECMA and First Call For Help since 2008. The current Celebration Community Church Hays campus page confirms the Hays campus context and its public mission language, but Brooks' own church-service claim comes from the candidate profile. ([Hays Post](https://hayspost.com/posts/2613aaa8-8055-4feb-9a79-d1b5479babca), [Celebration Community Church](https://www.celebratejesus.org/hays-campus))\\n\\nAfter the November 2025 election, Brooks kept his public comments focused on the board's work. Hays Post reported that Brooks and Craig Pallister tied with 1,948 unofficial votes; official Ellis County results later listed each at 1,962 votes. Brooks said he hoped to keep the district on track while finishing the bond project and was excited about the next four years. ([Hays Post](https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d), [Ellis County official results](https://www.ellisco.net/DocumentCenter/View/5892/Official-Results-2025-General-Election))\\n\\nOn contentious high-school bathroom and vandalism discussions, Brooks' visible remarks are less about bathroom design itself and more about process, data, and treatment of administrators. In April 2026 coverage, he challenged Allen Park's claim about Hays High having the highest percentage of single-stall bathrooms in the state, saying, \\\"You make up data,\\\" and then said administrators should not feel attacked or that it is \\\"us versus them.\\\" Hays Post separately quoted Brooks saying the board had discussed the issue many times and that micromanaging administrators was not the board's job. ([Tiger Media Network](https://tigermedianet.com/?p=96863), [Hays Post](https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede))\\n\\nThe accessible social footprint is thin. A LinkedIn public preview identifies Allen Ken Brooks in Hays with Insurance Planning, Inc., University of Central Oklahoma, CSP and CFPS credentials, 234 followers, and 238 connections, but the visible activity snippets are limited and do not provide a reliable school-board campaign post inventory. A GoodParty.org candidate shell exists, but it says Brooks had not filled out occupation, top issues, or running-against sections. ([LinkedIn](https://www.linkedin.com/in/allen-ken-brooks-csp-cfps-a3416623), [GoodParty.org](https://goodparty.org/candidate/ken-brooks/hays-usd-489-school-board))\\n\\nRole records should be handled carefully. The user-facing profile labels Brooks as USD 489 Board President, but verified public sources did not support that as of May 11, 2026. Tiger Media Network reported in July 2025 that Curt Vajnar was re-elected board president and Brooks was elected vice president; Hays Post called Brooks the current vice president after the November 2025 election; Tiger Media Network reported in January 2026 that Vajnar was elected president and Ruth Ruder vice president; and the Hays Chamber USD 489 member page lists Brooks as Board Member, Ruder as Board Vice President, and Vajnar as Board President. The USD 489 Diligent portal still listed Brooks as vice president in the accessible capture, which appears stale relative to January 2026 coverage and the Chamber page. This harvest therefore treats Brooks as a USD 489 board member with prior vice-president status, not as current board president. ([Tiger Media Network, July 2025](https://tigermedianet.com/?p=87800), [Hays Post](https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d), [Tiger Media Network, Jan. 2026](https://tigermedianet.com/?p=93501), [Hays Chamber listing](https://members.hayschamber.com/list/member/usd-489-1040), [USD 489 portal](https://usd489.community.highbond.com/portal/members.aspx?id=18))\\n\\nThe absences matter. No verified candidate-controlled campaign website surfaced, and the known bad campaignWebsite value was not used. No clear candidate-controlled campaign account was found on Facebook, X/Twitter, Instagram, YouTube, TikTok, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, Medium, Reddit, or a newsletter platform. Public Facebook discussion of USD 489 bathrooms was reported by local media, but no Brooks-authored public Facebook content was verified. ([harvest](social-harvest.md#visible-absences))\\n\\nAcross the accessible set, Brooks does not center national partisan issues. I found no candidate-controlled or candidate-attributed messaging focused on Donald Trump, Joe Biden, abortion, guns, immigration, LGBTQ policy, Medicaid, rural hospitals, water/Ogallala policy, roads, broadband, policing, or tax policy beyond school-budget and school-fee issues. His visible words stay close to USD 489 operations: bond projects, facilities, enrollment fees, special education funding, administrative trust, staff contracts, bathrooms/vandalism, and board process. ([harvest](social-harvest.md#topic-share-analysis))\\n\\nMethodology: Public capture was conducted on May 11, 2026. Date range covered: October 20, 2021 through May 11, 2026. Sources surveyed included USD 489 official pages, USD 489 Diligent/HighBond board portal, meeting/video entry points where indexed, Ellis County election pages and official results, Hays Post, Tiger Media Network, LinkedIn, GoodParty.org, Celebration Community Church, Facebook, X/Twitter, Instagram, YouTube, TikTok, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, Medium, Reddit, broad public web search, and existing project memory for source leads. Login-walled, script-blocked, unindexed, or otherwise inaccessible social feeds were not counted as reviewed content. We report visible patterns and documented absences; we do not infer private views, inaccessible account activity, or intent.\",",
+      "sourceUrl": "https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220",
+      "sourceFile": "ui/src/data/candidates.ts:45108",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l45108"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0002",
+      "evidenceRowId": "em-allen-park-01704",
+      "platform": "hayspost.com",
+      "actionType": "online-reference",
+      "target": "https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Taxes / spending / debt",
+        "Economy / jobs / labor",
+        "Guns / Second Amendment",
+        "Immigration / border",
+        "Health care / insurance / Medicaid",
+        "Election integrity / voting / courts",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use-with-caveat",
+      "confidence": "likely",
+      "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition coordinator, and 25 years as Washington Elementary principal. [Source](https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7)\\n\\nThe core phrase in Park's campaign record is \\\"kids and families first.\\\" He used that framing in 2019 when he told KLC Journal he wanted to be part of a school-board team with that priority, and he returned to it in 2023 when he said he would use it as a reference point for decisions. His related test for school decisions was whether they are best for kids. [Source](https://klcjournal.com/local2019hays/) [Source](https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7)\\n\\nPark's most consistent theme is trust through communication. In 2019, he said USD 489 needed to reconnect with the Hays community by rebuilding trust, encouraging involvement, increasing communication, and genuinely listening. In his 2023 Q&A, he again identified communication as the main thing he would change, saying minority opinions should be heard and board meetings should be inclusive and transparent. [Source](https://klcjournal.com/local2019hays/) [Source](https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922)\\n\\nFacilities and bond oversight are another major throughline. Before joining the board, Park said he had supported prior bond issues and wanted community, teacher, and staff input in planning. After the $143.5 million bond passed, he framed the work as unfinished: residents needed information, answers, and chances to give input on how their investment was being spent. He said the board had to ensure the bond process was done correctly, on time, and fiscally responsibly. [Source](https://archive.hayspost.com/2019/06/page/37/) [Source](https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922)\\n\\nHis facilities comments often combine support for school investment with questions about process and cost. In USD 489's 2022 bond article, Park asked how much a special election would cost, raised concerns about replacing a two-section elementary school with a four-section school, asked about school choice under realignment, and asked about using local contractors. In 2025 property-sale coverage, he asked why the district was moving quickly, wanted an appraisal, and questioned the value of water rights. [Source](https://www.usd489.com/article/651221) [Source](https://tigermedianet.com/?p=92038)\\n\\nPark also presents fiscal responsibility as a board duty tied to student outcomes. In 2023, he said he would keep asking budget questions and connect spending decisions to academic achievement. He also said he would look for local purchasing, appropriate cuts, grant writing, community partnerships, and efficient use of district facilities. In 2019, his published goals included fiscal soundness, safe facilities, local businesses, and data-informed decisions. [Source](https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7) [Source](https://archive.hayspost.com/2019/06/page/37/)\\n\\nOn board role and administration, Park's stated position is policy governance rather than day-to-day management. In the 2023 Q&A, he said the board writes policy, should make sure policy follows state law, and should clearly communicate expectations, but daily management is not the board's job. He also said administrators need tools, guidance, and expectations from the board. [Source](https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922)\\n\\nHis board record shows repeated interest in process, minutes, personnel review, and policy clarity. In 2023, he argued board minutes should include more detail about why members vote no, though the board attorney said Kansas law did not require that. In the same year, he objected with Curt Vajnar to hiring the superintendent's wife and later asked the board to review whether the district was following its nepotism policy. [Source](https://greatbendpost.com/posts/11e68e53-1cdc-4676-afb0-aef5b6ee450e) [Source](https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8)\\n\\nPark's education-policy messaging is local and operational, not partisan. He has publicly supported technology needs and teacher training, smaller or manageable class sizes, reduced student fees, strong staff, safe facilities, and professional learning for board members. During a 2024 calendar discussion, he asked whether the district was giving parents support on student days off, then voted against the calendar with Derek Yarmer. [Source](https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7) [Source](https://www.usd489.com/article/1447496)\\n\\nHis campaign-finance answer was limited and local. In 2023, he said he had not received money from outside the school district, that the few donations he received came from family, friends, and community members who care about kids and education in Hays, and that additional expenses were paid personally. [Source](https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922)\\n\\nThe visible absences matter. I did not verify a current campaign website, public candidate-controlled social account, campaign video channel, endorsement page, donation page, or long-form platform. The accessible record also did not show substantial candidate-authored messaging on state or national partisan issues, religion, abortion, guns, immigration, vouchers, library policy, or federal politics. This is a limitation of the accessible public record, not a claim about private, deleted, restricted, or unindexed content.\\n\\nMethodology: Sources checked included USD 489 official pages and meeting portal, Hays Post, Hays Post archive, Great Bend Post, Tiger Media Network, KLC Journal, BoardDocs-style search results, and web searches for campaign, civic, professional, and social accounts. Date range covered: public material available through 2026-05-11. Public social harvest: no verified candidate-controlled social posts were found, so no inaccessible social content was fabricated or summarized. We report patterns in public, candidate-controlled or attributed messaging; we do not interpret intent.\",",
+      "sourceUrl": "https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7",
+      "sourceFile": "ui/src/data/candidates.ts:48047",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l48047"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0003",
+      "evidenceRowId": "em-allen-park-01717",
+      "platform": "Bluesky",
+      "actionType": "share/repost",
+      "target": "https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8,
+        9,
+        10,
+        12,
+        13,
+        14
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "LGBT / gender / parental rights",
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Guns / Second Amendment",
+        "Immigration / border",
+        "Health care / insurance / Medicaid",
+        "Election integrity / voting / courts",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics",
+        "Environment / energy / land use"
+      ],
+      "signalStrength": "moderate",
+      "useDecision": "use-with-caveat",
+      "confidence": "likely",
+      "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local, educator-centered, and mostly candidate-attributed through Hays Post and Tiger Media Network rather than through campaign social media. She presents herself as a lifelong Hays resident, USD 489 graduate, former Hays High teacher, FHSU math instructor, wife, mother of two, and supporter of public education. FHSU's faculty page confirms her current professional role as a mathematics instructor active in Algebra. ([Hays Post](https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9), [Tiger Media Network](https://tigermedianet.com/?p=75249), [FHSU](https://www.fhsu.edu/macs/faculty-and-staff/))\\n\\nHer main self-selected improvement area is transparency. In her October 2023 Hays Post Q&A, when asked what one thing she would change about USD 489, she answered \\\"the transparency of the district.\\\" In the same campaign cycle, she said she believed in clear communication with community members who entrust the district with their children and tax dollars, and that board decisions affect someone in the community. ([Hays Post Q&A](https://hayspost.com/posts/74087102-4ca2-4d13-89e0-5ddd64e94d6f), [Hays Post profile](https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9))\\n\\nShe links education quality to her own path through USD 489 and FHSU. Goetz said she and her husband were products of USD 489 and benefited from a system that emphasized relationships, rigor, and relevance. She said teaching at different levels of education showed her that quality instruction benefits students and the community. ([Hays Post](https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9), [Tiger Media Network](https://tigermedianet.com/?p=75249))\\n\\nHer board message is collaborative but not passive. As a candidate, she said she wanted to strengthen and unify the board, improve relations with stakeholders, and ensure a positive work environment for educators. At the same time, she said board members have a responsibility to research, ask questions, and understand options before selecting the best one. ([Hays Post](https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9), [Tiger Media Network](https://tigermedianet.com/?p=75249))\\n\\nOn board role, she says day-to-day operations belong to hired professionals while policy and accountability remain board work. In the October 2023 Q&A, she said the board oversees policy and that day-to-day operations are left to professionals hired for those positions. In 2025 handbook debates, she treated discipline language as policy, arguing that operational definitions help teachers and students know whether consequences will be consistent. ([Hays Post Q&A](https://hayspost.com/posts/74087102-4ca2-4d13-89e0-5ddd64e94d6f), [Tiger Media Network](https://tigermedianet.com/?p=87800), [Hays Post](https://hayspost.com/posts/bc933c79-2f23-4279-8171-bc6dcf391cf0))\\n\\nFacilities and the bond are a major part of her message, but she frames them through students, staff, and accountability. She said the bond would give staff and students improved facilities that foster growth and safety. She also said the buildings are for what staff and students need, not what she needs, and that accountability and fiscal responsibility around the money are priorities. ([Hays Post profile](https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9), [Hays Post Q&A](https://hayspost.com/posts/74087102-4ca2-4d13-89e0-5ddd64e94d6f))\\n\\nOn private bathrooms at the new Hays High, Goetz's visible position is supportive. During the October 2023 candidate forum, Hays Post reported that she favored the new bathroom design because students were avoiding bathrooms due to privacy and bullying issues. In April 2024 board coverage, she questioned why bathrooms were the focus and said she did not think the bathrooms would change who children are, putting responsibility on parents to talk with their children. ([Hays Post forum](https://hayspost.com/posts/19aa6807-369c-4e64-9c1c-8af9d88c84df), [Tiger Media Network](https://tigermedianet.com/?p=78383))\\n\\nOn professional development calendars, she used her classroom experience to support full in-service days over early release. USD 489's reposted article says she found it hard to transition between teaching and professional development during early-release days and believed full in-service days were better for staff and ultimately students, while acknowledging child-care issues for families. ([USD 489](https://www.usd489.com/article/1447496))\\n\\nOn cell phones, Goetz called student phone use a real problem but not only a school problem. Tiger Media reported that, as a Hays High teacher, she used classroom phone holders and still saw students work around them. She also noted that cell phones can be used positively in classroom lessons. ([Tiger Media Network](https://tigermedianet.com/?p=79974))\\n\\nOn discipline and handbooks, she has been one of the more visible voices for clearer written consequences. Tiger Media reported that she opposed the Hays High handbook when it removed operational definitions, saying those definitions help ensure consequences are equal for all students. Hays Post later reported that she had received at least six complaints about consistency in high-school discipline and encouraged a teacher committee for future handbook work. ([Tiger Media Network](https://tigermedianet.com/?p=87800), [Hays Post](https://hayspost.com/posts/bc933c79-2f23-4279-8171-bc6dcf391cf0))\\n\\nOn mascot issues, Goetz brought the Hays Middle School mascot discussion back to the board after receiving emails and having questions about keeping the middle school mascot as Falcons. Tiger Media reported that she pointed to the Kansas Board of Education recommendation to phase out Indian mascots and asked the board to consider future costs if that recommendation became a mandate. Later Hays Post coverage reported she supported changing the middle school mascot to Indians after reviewing survey responses. ([Tiger Media Network](https://tigermedianet.com/?p=78383), [USD 489](https://www.usd489.com/article/1542245), [Hays Post](https://hayspost.com/posts/5b2cf14f-06bc-4086-9693-c33581fe6a7c))\\n\\nHer fiscal/process comments are usually questions about clarity rather than blanket opposition. In June 2025, Hays Post reported she questioned how a 2.5 percent raise figure was calculated when the same dollar increase affected newer and seasoned teachers differently. In September 2025, she voted against exceeding the revenue-neutral rate, while the budget itself passed with only Allen Park opposed. In Felten project coverage, she said she was trying to make sure the board had the right information before approval. ([Hays Post raises](https://hayspost.com/posts/de2764c1-3767-4d5a-8353-888aa39a31cf), [Hays Post budget](https://hayspost.com/posts/78d0c0ef-e656-4526-892f-35f245aa0336), [Tiger Media Network](https://tigermedianet.com/?p=94701))\\n\\nHer post-election public comment was brief and district-focused. After the November 2023 canvass gave her the final USD 489 seat by three votes over Craig Pallister, Hays Post quoted her saying she looked forward to working with the board to make the district the best it could be. ([Hays Post](https://hayspost.com/posts/c83d9d32-2242-4092-8fa5-f0a1321bb826))\\n\\nRole records are straightforward as of this capture. The USD 489 Diligent/HighBond member page lists Jayme Goetz as Board Member, and public meeting pages list her among members for 2025-2026 meetings. A June 2025 Hays Post story reported she was then vice president and willing to serve another term if elected, but the current official portal listing reviewed here identifies her as Board Member. ([USD 489 member page](https://usd489.community.highbond.com/portal/members.aspx?id=18), [USD 489 meeting page](https://usd489.community.highbond.com/Portal/MeetingInformation.aspx?Id=217), [Hays Post](https://hayspost.com/posts/17bd928c-22c6-4be8-980e-34e878be6c58))\\n\\nThe accessible social footprint is thin. A LinkedIn public preview identifies Jayme Goetz in Hays with Fort Hays State University and 167 followers/connections, but it does not expose a reliable school-board campaign post inventory. No verified campaign website or candidate-controlled campaign social feed surfaced. ([LinkedIn](https://www.linkedin.com/in/jayme-goetz), [harvest](social-harvest.md#visible-absences))\\n\\nThe absences matter. No clear candidate-controlled campaign account was found on Facebook, X/Twitter, Instagram, YouTube, TikTok, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, Medium, Reddit, or a newsletter platform. No candidate-controlled public video channel surfaced; USD 489 YouTube links are public meeting records maintained by the district. ([harvest](social-harvest.md#visible-absences))\\n\\nAcross the accessible set, Goetz does not center national partisan issues. I found no candidate-controlled or candidate-attributed messaging focused on Donald Trump, Joe Biden, abortion, guns, immigration, Medicaid, rural hospitals, water/Ogallala policy, roads, broadband, policing, or statewide tax policy outside USD 489 budget/tax/rate votes. Her visible words stay close to USD 489 operations: transparency, board role, bond/facility work, bathrooms/privacy, discipline/handbook consistency, cell phones, professional development, staff/admin support, taxes/raises, and mascot process. ([harvest](social-harvest.md#topic-share-analysis))\\n\\nMethodology: Public capture was conducted on May 11, 2026. Date range covered: March 10, 2020 through May 11, 2026. Sources surveyed included USD 489 official pages, USD 489 Diligent/HighBond board portal, USD 489 meeting/video entry points where indexed, Hays Post, Tiger Media Network, Hays High Guidon, FHSU, LinkedIn, Ballotpedia, Facebook, X/Twitter, Instagram, YouTube, TikTok, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, Medium, Reddit, broad public web search, and existing project memory for source leads. Login-walled, script-blocked, unindexed, or otherwise inaccessible social feeds were not counted as reviewed content. We report visible patterns and documented absences; we do not infer private views, inaccessible account activity, or intent.\",",
+      "sourceUrl": "https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9",
+      "sourceFile": "ui/src/data/candidates.ts:48724",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l48724"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0004",
+      "evidenceRowId": "em-allen-park-01632",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "https://usd489.community.highbond.com/portal/members.aspx?id=18",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        5,
+        6,
+        10,
+        12,
+        13,
+        14
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics",
+        "Environment / energy / land use"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use-with-caveat",
+      "confidence": "likely",
+      "observation": "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and connects him to board retreat, regular, special, and work-study sessions. Source: [USD 489 public portal](https://usd489.community.highbond.com/portal/members.aspx?id=18).\\n\\nHis core credential is his long USD 489 teaching record. In the 2021 Hays NEA candidate profile published by Hays Post, Vajnar said he taught 31 years in USD 489, held National Board Certification, had Kansas teaching endorsements in agriculture education, biology, drivers education, and administration, and had been Kansas Teacher of the Year. Emporia State's public Kansas Master Teacher archive also lists Curt Vajnar of USD 489 Hays among the 1999 Kansas Master Teachers. Sources: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a), [Emporia State 1999 award winners](https://www.emporia.edu/teachers-college/about-college/honors-awards/kansas-master-teacher-award-home/previous-winners/kansas-master-teacher-award-1999/).\\n\\nHis basic decision rule is student-centered. In 2021, he said his reason for seeking the board was to secure the best possible education for all USD 489 students, including his own children. Asked for the philosophy behind his decisions, he framed the test as whether the decision is best for USD 489 students. He also said the board's accountability role includes appropriate use of funds and facilities, superintendent oversight, and creating the best daily environment for teachers and students. Source: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a).\\n\\nFacilities have been a defining theme. Before the 2022 bond vote, he argued facilities badly needed improvement and said passing a bond was critical after decades without a successful bond issue. By 2025, his message had shifted from passing the bond to finishing it well. In his reelection Q&A, he said he wanted the district to finish the new and renovated facilities, finish strong, and plan beyond a five-year capital cycle because turf and major facility components will come due in waves. Sources: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a), [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).\\n\\nThat support for facilities does not mean he treats construction decisions as automatic. In 2023, he voted against the guaranteed maximum price contract for Hays High and Roosevelt, saying he did not believe he had enough chance to study the contract. In 2025, he joined the losing side of a vote to explore a separate bond-project manager, while also being quoted as thinking the idea came late in the process. His pattern is pro-facility but review-heavy: the board should finish the bond, but contracts and oversight should not be rushed. Sources: [Hays Post, Oct. 5, 2023](https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984), [Hays Post, Mar. 28, 2025](https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126).\\n\\nVajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose incomes are not rising as fast as costs. He paired that with the teacher-pay problem: if the district does not stay competitive, it risks losing good teachers or failing to recruit them. Source: [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).\\n\\nTeacher recruitment and retention are long-running concerns for him. In 2021, he named teacher shortages and retention as one of the greatest problems facing public education and suggested using student-teacher placements, early postings, and incentives for timely retirement decisions as ways to improve hiring. In 2025 forum coverage, he again connected class size to qualified-teacher retention and the additional space created by the bond. Sources: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a), [Hays Post, Oct. 7, 2025](https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536).\\n\\nHis governance style is built around policy, process, and chain of command. In 2021, he said the board's role is overseeing and approving policy, not daily management. In 2025, he told Hays Post that board members discuss items brought by administration and leaders, and that he is willing to listen to concerned residents after they have tried the chain of command. At the candidate forum, he described the superintendent as bringing items to the board while concerns move from teachers to principals, building administrators, superintendent, and then the board if needed. Sources: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a), [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8), [Hays Post, Oct. 7, 2025](https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536).\\n\\nThe same process instinct shows up in ethics and hiring. Hays Post reported that Vajnar and Allen Park objected in 2023 to hiring the superintendent's wife through the consent-agenda personnel process, leading to another debate over the district's nepotism policy. In his 2025 Q&A, Vajnar said one policy area he had questioned was how the district hires people, including interviews, background checks, and selection steps. Sources: [Hays Post, Apr. 26, 2023](https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8), [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).\\n\\nThe Golden Belt Bank naming-rights debate is the clearest example of his sponsorship philosophy. Vajnar delayed action on the $200,000 offer for the Hays High football field, arguing the district should decide what is named, set contract terms, avoid merely reacting to the first offer, and give other supporting businesses an opportunity. Later, he said facility names belong to Hays citizens, not a business, and that any naming-rights money should be tied to field maintenance. Sources: [Hays Post, Aug. 19, 2025](https://hayspost.com/posts/a90fb672-f7e5-4826-b5f3-1decd214e83c), [Tiger Media Network, Aug. 19, 2025](https://tigermedianet.com/?p=88429), [Hays Post, Sept. 11, 2025](https://hayspost.com/posts/aefb9f40-2e86-4bb2-976e-2f731e7ce14f).\\n\\nOn safety, Vajnar has a specific ask: more school resource officer coverage. In the 2025 Q&A, he said he was proud of helping push the first resource officer for the 2023-24 year and would continue pushing for a second one. He framed it as student and staff safety in a more dangerous world, while acknowledging the budget cost. Source: [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).\\n\\nOn technology and operations, Vajnar sounds practical rather than ideological. In 2021, he called technology essential but wanted better staff availability, repairs, replacements, and individual help for educators. In 2025, he supported vehicle leasing because of safety and long road trips, and he praised the board's laptop decision for high-school students because it was researched rather than simply accepting the first recommendation. Sources: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a), [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).\\n\\nOn curriculum and assessment, his visible comments favor practical learning. Hays Post reported in 2024 that a graduation-policy revision was tabled because Vajnar wanted a list of electives that would meet a new STEM requirement. In 2025, as board president, he said he hoped curriculum would focus on real-world math instead of teaching only to the test. Sources: [Hays Post, Mar. 5, 2024](https://hayspost.com/posts/4186bd0a-c7d1-4fe4-8622-6b0204fed740), [Hays Post, Nov. 14, 2025](https://hayspost.com/posts/a1ad62ca-72ac-46d4-a3c1-e2248ae736b3).\\n\\nHis reelection result reinforces the local profile. Hays Post reported that Vajnar, the current board president, was re-elected in 2025 with 2,531 votes, the highest total in the USD 489 race, and that all three winning candidates focused on completing bond projects. Vajnar's election-night comment was that he wanted to complete the bond work on budget. Source: [Hays Post, Nov. 5, 2025](https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d).\\n\\nVisible absences matter. I found no verified campaign website, no campaign donation page, no campaign finance page, and no clearly attributable public Facebook, X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, LinkedIn activity archive, or personal YouTube channel. USD 489 has official district communications and public meeting infrastructure, but those are not Vajnar-controlled campaign channels. Because no accessible controlled social feed was verified, this summary does not claim post counts, likes, shares, comments, or deleted/private social content.\\n\\nMethodology: I reviewed public sources visible through May 11, 2026, including USD 489 official pages and public meeting portal, Hays Post candidate profiles, Q&As, forum and board-meeting coverage, Tiger Media Network reporting, Emporia State teaching-award records, and targeted searches for campaign and social platforms. I prioritized official/school sources and clearly attributed candidate or board-member statements. Disclaimer: this is a public-source messaging summary, not a complete biography, endorsement, legal assessment, or transcript archive; inaccessible, private, deleted, login-only, or unverified social content was not reconstructed or invented.\",",
+      "sourceUrl": "https://usd489.community.highbond.com/portal/members.aspx?id=18",
+      "sourceFile": "ui/src/data/candidates.ts:45836",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l45836"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0005",
+      "evidenceRowId": "em-allen-park-01324",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:95",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        3,
+        7,
+        8
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Education / curriculum / schools",
+        "Guns / Second Amendment",
+        "Immigration / border"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "The accessible record did not show clear candidate-authored positions on state or national partisan issues such as abortion, guns, immigration, federal elections, or partisan education debates outside USD 489 operations.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:95",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l95"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0006",
+      "evidenceRowId": "em-allen-park-01262",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:5",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Race: USD 489 Board Member, Hays USD 489",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:5",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l5"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0007",
+      "evidenceRowId": "em-allen-park-01263",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:6",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        10
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Election slug: usd-489-current",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:6",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l6"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0008",
+      "evidenceRowId": "em-allen-park-01267",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:12",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Allen Park's accessible public messaging is not centered on a verified campaign website or public campaign social account. The usable record is primarily candidate questionnaires, attributed local-news quotes, USD 489 board coverage, and official district meeting/member pages. The current candidate data's campaignWebsite value was treated as unverified and was not used.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:12",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l12"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0009",
+      "evidenceRowId": "em-allen-park-01270",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:16",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Campaign website | No verified current campaign site found | Searched by name, office, campaign terms, Hays/USD 489 terms, and quote text from known questionnaires. No official Park-controlled campaign site was verified. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:16",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l16"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0010",
+      "evidenceRowId": "em-allen-park-01271",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:17",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Facebook | No verified public candidate/campaign page found | Searches did not surface a reliable public Allen Park for USD 489 or similar candidate-controlled page. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:17",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l17"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0011",
+      "evidenceRowId": "em-allen-park-01280",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:26",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        4,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Civic/professional pages | Hays Post archive and KLC Journal | Public material describes Park's education background, Leadership Hays, Hays Sunrise Rotary, Cottonwood Extension District student-development committee, Roosevelt Site Council, and church activities; no current official professional campaign platform was verified. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:26",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l26"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0012",
+      "evidenceRowId": "em-allen-park-01283",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:32",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "The 2019 KLC Journal survey presented Park as a longtime Hays resident and former para, teacher, coach, and school administrator. He said he wanted to join a board team that puts \"kids and families first\" and identified reconnecting with the Hays community as the single most important issue. His stated approach was to rebuild trust, encourage involvement, increase communication, listen genuinely, and create an open culture that values multiple opinions.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:32",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l32"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0013",
+      "evidenceRowId": "em-allen-park-01285",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:36",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        5,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Hays Post's 2019 profile quoted Park on facilities and community involvement. He supported previous bond issues, said anything that helps kids deserves support, and argued that bond planning should invite community, teacher, and staff input. His listed goals included what is best for all kids, public trust and involvement, safe facilities, fiscal soundness, local businesses, board teamwork, data-informed decisions, and inclusion of the whole school community.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:36",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l36"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0014",
+      "evidenceRowId": "em-allen-park-01288",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:42",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        6,
+        8,
+        9
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Economy / jobs / labor",
+        "Immigration / border",
+        "Health care / insurance / Medicaid"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "In the July 2023 Hays Post profile, Park described himself as a retired USD 489 elementary principal, licensed insurance agent, part-time UPS worker, incumbent board member, and parent of four Hays High graduates. He emphasized that he came from a family of educators, that his wife Patti had also worked in education, and that his USD 489 service included paraprofessional, teacher, coach, migrant director, transition coordinator, and 25 years as Washington Elementary principal.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:42",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l42"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0015",
+      "evidenceRowId": "em-allen-park-01291",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:47",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Keep class sizes manageable and reduce student fees where possible.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:47",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l47"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0016",
+      "evidenceRowId": "em-allen-park-01292",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:48",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Support district technology and teacher training.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:48",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l48"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0017",
+      "evidenceRowId": "em-allen-park-01300",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:61",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "He also said he had not received money outside the school district; donations came from family, friends, and community members, with remaining expenses paid personally.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:61",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l61"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0018",
+      "evidenceRowId": "em-allen-park-01309",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        10
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| 2025-09-23 | [Hays Post](https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17) | Asbestos removal and change-order process | Said his no vote was about process, not opposition to safety; said he was \"No. 1 on safety.\" Also voted against an $88,347 high-school change order. |",
+      "sourceUrl": "https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17",
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:74",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l74"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-allen-park-0019",
+      "evidenceRowId": "em-allen-park-01310",
+      "platform": "tigermedianet.com",
+      "actionType": "post",
+      "target": "https://tigermedianet.com/?p=92038",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        12
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Agriculture / rural economy / water"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| 2025-11-11 | [Tiger Media Network](https://tigermedianet.com/?p=92038) | Property sale north of Hays Middle School | Asked why the board was rushing the sale, wanted an appraisal completed, and asked what water rights were worth. |",
+      "sourceUrl": "https://tigermedianet.com/?p=92038",
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:75",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l75"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-allen-park-0020",
+      "evidenceRowId": "em-allen-park-01316",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:84",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Education background, kids/families-first framing, student achievement, class size, fees, staff support, and technology/training: 7 source items.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:84",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l84"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0021",
+      "evidenceRowId": "em-allen-park-01322",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:93",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "USD 489 meeting portal and BoardDocs-style pages were checked, but static capture did not expose full transcripts or all video content. I used accessible official district pages and local-news accounts where Park's comments were attributed in text.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:93",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l93"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0022",
+      "evidenceRowId": "em-allen-park-01328",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:102",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Search terms included variations of \"Allen Park,\" \"Allen Park USD 489,\" \"Allen Park school board,\" \"Allen Park campaign,\" \"Allen Park Hays Facebook,\" \"Allen Park Hays LinkedIn,\" \"Allen Park kids and families first,\" \"Allen Park communication trust Hays,\" and source-restricted searches for USD 489, Hays Post, KLC Journal, Facebook, Instagram, X/Twitter, YouTube, and LinkedIn.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:102",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l102"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0023",
+      "evidenceRowId": "em-allen-park-01278",
+      "platform": "klcjournal.com",
+      "actionType": "post",
+      "target": "https://klcjournal.com/local2019hays/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Local candidate questionnaires | [KLC Journal 2019 survey](https://klcjournal.com/local2019hays/), [Hays Post July 2023 profile](https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7), [Hays Post Oct. 2023 Q&A](https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922) | Candidate-authored or candidate-attributed statements on trust, communication, public involvement, bond oversight, facilities, fiscal responsibility, local purchasing, technology, and campaign support. |",
+      "sourceUrl": "https://klcjournal.com/local2019hays/",
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:24",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l24"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-allen-park-0024",
+      "evidenceRowId": "em-allen-park-01293",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:49",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Ask budget questions tied to academic achievement.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:49",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l49"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0025",
+      "evidenceRowId": "em-allen-park-01294",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:50",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Improve spending through local purchasing, appropriate cuts, grants, partnerships, and efficient use of facilities.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:50",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l50"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0026",
+      "evidenceRowId": "em-allen-park-01315",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:83",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Fiscal responsibility, taxpayer oversight, local purchasing, grants, cuts, bids, appraisals, and efficient facility use: 8 source items.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:83",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l83"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0027",
+      "evidenceRowId": "em-allen-park-01298",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:57",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "In the October 2023 Q&A, Park said the one thing he would change was communication, especially communication that includes minority opinions and makes board meetings inclusive and transparent. He framed the bond as an exciting opportunity but said nearly half of the community did not vote for it and needed information, answers, and input on how the investment was being spent.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:57",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l57"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0028",
+      "evidenceRowId": "em-allen-park-01275",
+      "platform": "YouTube",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:21",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| YouTube / video | No candidate channel found; board meetings appear through district/meeting ecosystem and local coverage | Search did not locate a Park-controlled video channel. Static capture of meeting portal pages did not expose full transcripts. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:21",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l21"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0029",
+      "evidenceRowId": "em-allen-park-01279",
+      "platform": "Public web / internal harvest",
+      "actionType": "share/repost",
+      "target": "memory/candidates/allen-park/social-harvest.md:25",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "moderate",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Local board coverage | Hays Post, Hays Post archive, Great Bend Post repost, Tiger Media Network | Attributed comments on meeting minutes, nepotism policy, board process, bond/facility planning, property sale, asbestos/change-order process, and community involvement. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:25",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l25"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0030",
+      "evidenceRowId": "em-allen-park-01299",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:59",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "He described board compromise as frequent, open, honest dialog and consensus-building. He said public deliberations should not happen behind closed doors. On district administration, he said administrators need tools, guidance, and expectations from the board. On day-to-day operations, he said the board writes policy and should not run daily management. On the bond, he said the board has responsibility to ensure the process is executed correctly, timely, and fiscally responsibly.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:59",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l59"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0031",
+      "evidenceRowId": "em-allen-park-01302",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:65",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Attributed Board-Meeting Messaging",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:65",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l65"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0032",
+      "evidenceRowId": "em-allen-park-01306",
+      "platform": "greatbendpost.com",
+      "actionType": "post",
+      "target": "https://greatbendpost.com/posts/11e68e53-1cdc-4676-afb0-aef5b6ee450e",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| 2023-02-21 | [Great Bend Post / Hays Post](https://greatbendpost.com/posts/11e68e53-1cdc-4676-afb0-aef5b6ee450e) | Board minutes | Alleged board minutes were not including all required information and argued that his reasons for no votes should appear in minutes; board counsel disagreed that Kansas law required that detail. |",
+      "sourceUrl": "https://greatbendpost.com/posts/11e68e53-1cdc-4676-afb0-aef5b6ee450e",
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:71",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l71"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-allen-park-0033",
+      "evidenceRowId": "em-allen-park-01313",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:81",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Communication, transparency, public trust, board culture, public involvement, and meeting process: 12 source items.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:81",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l81"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0034",
+      "evidenceRowId": "em-allen-park-01317",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:85",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Board role, policy governance, administration expectations, personnel/nepotism, and contract/process review: 5 source items.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:85",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l85"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0035",
+      "evidenceRowId": "em-allen-park-01318",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:86",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Campaign finance/campaign operations: 1 source item.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:86",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l86"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0036",
+      "evidenceRowId": "em-allen-park-01212",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:92",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "No candidate-authored public social posts were harvested.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:92",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-sleuth-pass-md-l35",
+        "mem-memory-candidates-allen-park-social-harvest-md-l92"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0037",
+      "evidenceRowId": "em-allen-park-01259",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Social Harvest - Allen Park",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:1",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0038",
+      "evidenceRowId": "em-allen-park-01260",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Candidate: Allen Park",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:3",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0039",
+      "evidenceRowId": "em-allen-park-01261",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:4",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Slug: allen-park",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:4",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l4"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0040",
+      "evidenceRowId": "em-allen-park-01264",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:7",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Party: NP",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:7",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l7"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0041",
+      "evidenceRowId": "em-allen-park-01265",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Capture date: 2026-05-11",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:8",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l8"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0042",
+      "evidenceRowId": "em-allen-park-01266",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:10",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Presence Detector",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:10",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l10"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0043",
+      "evidenceRowId": "em-allen-park-01268",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:14",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Source type | Public source | Capture result |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:14",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l14"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0044",
+      "evidenceRowId": "em-allen-park-01269",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:68",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| --- | --- | --- | --- |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:68",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l15",
+        "mem-memory-candidates-allen-park-social-harvest-md-l68"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0045",
+      "evidenceRowId": "em-allen-park-01272",
+      "platform": "X / Twitter",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:18",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| X / Twitter | No verified public candidate/campaign account found | Searches did not surface a reliable candidate-controlled X account. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:18",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l18"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0046",
+      "evidenceRowId": "em-allen-park-01273",
+      "platform": "Instagram",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:19",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Instagram | No verified public candidate/campaign account found | Searches did not surface a reliable candidate-controlled Instagram account. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:19",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l19"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0047",
+      "evidenceRowId": "em-allen-park-01274",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:20",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| LinkedIn | No verified public campaign/professional profile found | Searches did not surface a reliable current candidate-controlled LinkedIn profile. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:20",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l20"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0048",
+      "evidenceRowId": "em-allen-park-01281",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:28",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Candidate-Controlled Or Attributed Statements",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:28",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l28"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0049",
+      "evidenceRowId": "em-allen-park-01282",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:30",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "2019 Candidate Messaging",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:30",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l30"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0050",
+      "evidenceRowId": "em-allen-park-01287",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:40",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "2023 Candidate Profile",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:40",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l40"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0051",
+      "evidenceRowId": "em-allen-park-01289",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:44",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "His campaign themes in that profile:",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:44",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l44"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0052",
+      "evidenceRowId": "em-allen-park-01290",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:46",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Continue facilities replacement and repair after the bond.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:46",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l46"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0053",
+      "evidenceRowId": "em-allen-park-01295",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:51",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Improve communication and transparency among the board, administration, staff, parents, students, and community.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:51",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l51"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0054",
+      "evidenceRowId": "em-allen-park-01297",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:55",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "2023 Hays Post Q&A",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:55",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l55"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0055",
+      "evidenceRowId": "em-allen-park-01303",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:67",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Date | Source | Topic | Attributed Park message |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:67",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l67"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0056",
+      "evidenceRowId": "em-allen-park-01311",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:77",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Topic Signals",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:77",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l77"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0057",
+      "evidenceRowId": "em-allen-park-01312",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:79",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Approximate topic distribution across accessible candidate-controlled or attributed material:",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:79",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l79"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0058",
+      "evidenceRowId": "em-allen-park-01314",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:82",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Facilities, bond planning, bond execution, building safety, property, and construction process: 10 source items.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:82",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l82"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0059",
+      "evidenceRowId": "em-allen-park-01319",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:88",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Visible Absences And Limits",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:88",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l88"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0060",
+      "evidenceRowId": "em-allen-park-01320",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:90",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "No verified current campaign website was found; the known bad campaignWebsite value was not used.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:90",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l90"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0061",
+      "evidenceRowId": "em-allen-park-01321",
+      "platform": "Bluesky",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:91",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "No verified public candidate-controlled Facebook, X/Twitter, Instagram, LinkedIn, TikTok, YouTube, Bluesky, Threads, Substack, Reddit, Truth Social, Gab, or Gettr presence was found.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:91",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l91"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0062",
+      "evidenceRowId": "em-allen-park-01323",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:94",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "I did not use people-search pages, private/social-login-only pages, or unrelated same-name results as messaging sources.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:94",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l94"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0063",
+      "evidenceRowId": "em-allen-park-01325",
+      "platform": "Public web / internal harvest",
+      "actionType": "absence",
+      "target": "memory/candidates/allen-park/social-harvest.md:96",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Absence of accessible posts is not evidence that private, deleted, restricted, or unindexed content does not exist.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:96",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l96"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-allen-park-0064",
+      "evidenceRowId": "em-allen-park-01326",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:98",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Methodology",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:98",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l98"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0065",
+      "evidenceRowId": "em-allen-park-01329",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:104",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Date range covered: public material available through 2026-05-11, with candidate statements from 2019 and 2023 and attributed board comments through 2025-11-11 in accessible text found during this harvest.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:104",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l104"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0066",
+      "evidenceRowId": "em-allen-park-01330",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/allen-park/social-harvest.md:106",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "We report patterns in public, candidate-controlled or attributed messaging; we do not interpret intent.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:106",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l106"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0067",
+      "evidenceRowId": "em-allen-park-00013",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/in-their-own-words.md:27",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        3,
+        4,
+        7,
+        8,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Guns / Second Amendment",
+        "Immigration / border",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "The visible absences matter. I did not verify a current campaign website, public candidate-controlled social account, campaign video channel, endorsement page, donation page, or long-form platform. The accessible record also did not show substantial candidate-authored messaging on state or national partisan issues, religion, abortion, guns, immigration, vouchers, library policy, or federal politics. This is a limitation of the accessible public record, not a claim about private, deleted, restricted, or unindexed content.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/in-their-own-words.md:27",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-in-their-own-words-md-l27"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0068",
+      "evidenceRowId": "em-allen-park-00002",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/in-their-own-words.md:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/in-their-own-words.md:3",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-in-their-own-words-md-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0069",
+      "evidenceRowId": "em-allen-park-00014",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/in-their-own-words.md:29",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Methodology: Sources checked included USD 489 official pages and meeting portal, Hays Post, Hays Post archive, Great Bend Post, Tiger Media Network, KLC Journal, BoardDocs-style search results, and web searches for campaign, civic, professional, and social accounts. Date range covered: public material available through 2026-05-11. Public social harvest: no verified candidate-controlled social posts were found, so no inaccessible social content was fabricated or summarized. We report patterns in public, candidate-controlled or attributed messaging; we do not interpret intent.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/in-their-own-words.md:29",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-in-their-own-words-md-l29"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0070",
+      "evidenceRowId": "em-allen-park-01599",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:45110",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        4,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"USD 489 official pages\",\"USD 489 Diligent/HighBond portal\",\"USD 489 meeting/video entry points\",\"Ellis County election pages\",\"Hays Post\",\"Tiger Media Network\",\"LinkedIn\",\"GoodParty.org\",\"Celebration Community Church\",\"Facebook\",\"X / Twitter\",\"Instagram\",\"YouTube\",\"TikTok\",\"Bluesky\",\"Threads\",\"Truth Social\",\"Gab\",\"Gettr\",\"Substack\",\"Medium\",\"Reddit\",\"Public search\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:45110",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l45110"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0071",
+      "evidenceRowId": "em-allen-park-01633",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:45838",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"USD 489 official pages\",\"USD 489 public meeting portal\",\"Hays Post\",\"Tiger Media Network\",\"Emporia State teaching-award records\",\"Facebook\",\"X / Twitter\",\"Instagram\",\"Threads\",\"Bluesky\",\"TikTok\",\"Substack\",\"LinkedIn\",\"YouTube\",\"Public search\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:45838",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l45838"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0072",
+      "evidenceRowId": "em-allen-park-01644",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:46522",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Methodology: Date range covered: July 2023 to April 2026. Platforms surveyed: Facebook, X / Twitter, Instagram, LinkedIn, YouTube, Substack, Truth Social, Reddit, TikTok. Personal accounts detected: zero. Indirect sources used: two 2023 Hays Post candidate questionnaires and approximately ten Hays Post articles covering USD 489 board meetings between 2024 and 2026. Quotes are verbatim from indexed sources; links lead to source. We report patterns; we do not interpret intent.,",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:46522",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l46522"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0073",
+      "evidenceRowId": "em-allen-park-01681",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:47380",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"USD 489 official pages\",\"USD 489 meeting portal\",\"Hays Post\",\"Tiger Media Network\",\"BoardDocs search results\",\"HaysMed\",\"Pawnee Valley Community Hospital\",\"Great Bend Tribune\",\"Campaign search\",\"Professional profile search\",\"Public social search\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:47380",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l47380"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0074",
+      "evidenceRowId": "em-allen-park-01705",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:48049",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"USD 489 official pages\",\"USD 489 meeting portal\",\"Hays Post\",\"Hays Post archive\",\"Great Bend Post\",\"Tiger Media Network\",\"KLC Journal\",\"BoardDocs-style search results\",\"Campaign search\",\"Civic/professional search\",\"Public social search\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:48049",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l48049"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0075",
+      "evidenceRowId": "em-allen-park-01718",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:48726",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"USD 489 official pages\",\"USD 489 Diligent/HighBond board portal\",\"USD 489 meeting/video entry points\",\"Hays Post\",\"Tiger Media Network\",\"Hays High Guidon\",\"FHSU\",\"LinkedIn\",\"Ballotpedia\",\"Facebook\",\"X / Twitter\",\"Instagram\",\"YouTube\",\"TikTok\",\"Bluesky\",\"Threads\",\"Truth Social\",\"Gab\",\"Gettr\",\"Substack\",\"Medium\",\"Reddit\",\"Public search\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:48726",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l48726"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0076",
+      "evidenceRowId": "em-allen-park-01767",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/allen-park.ts:67",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"Allen Park's accessible public messaging is not centered on a verified campaign website or public campaign social account. The usable record is primarily candidate questionnaires, attributed local-news quotes, USD 489 board coverage, and official district meeting/member pages. The current candidate data's campaignWebsite value was treated as unverified and was not used.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/allen-park.ts:67",
+      "sourceIds": [
+        "mem-ui-src-data-v2-allen-park-ts-l67"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0077",
+      "evidenceRowId": "em-allen-park-00379",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/raw-dump.md:309",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No faith or church references found in her candidate profiles, HaysPost Q&As, or social media",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/raw-dump.md:309",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-raw-dump-md-l309"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0078",
+      "evidenceRowId": "em-allen-park-01139",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/raw-dump.md:1744",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4,
+        13
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "I still do not have a verified church source or a donor table. Archived social content and other public-record paths did not yield any stronger candidate-specific evidence.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/raw-dump.md:1744",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-raw-dump-md-l1744"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0079",
+      "evidenceRowId": "em-allen-park-00030",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/raw-dump-v2.md:20",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social: candidate-controlled or public social-media material. None verified for this pass.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/raw-dump-v2.md:20",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-raw-dump-v2-md-l20"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0080",
+      "evidenceRowId": "em-allen-park-00186",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/raw-dump-v2.md:329",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Verified candidate-controlled Facebook: none found.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/raw-dump-v2.md:329",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-raw-dump-v2-md-l329"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0081",
+      "evidenceRowId": "em-allen-park-00187",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/raw-dump-v2.md:330",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Verified candidate-controlled X/Twitter: none found.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/raw-dump-v2.md:330",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-raw-dump-v2-md-l330"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0082",
+      "evidenceRowId": "em-allen-park-00188",
+      "platform": "Instagram",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/raw-dump-v2.md:331",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Verified candidate-controlled Instagram: none found.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/raw-dump-v2.md:331",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-raw-dump-v2-md-l331"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0083",
+      "evidenceRowId": "em-allen-park-00189",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/raw-dump-v2.md:332",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Verified candidate-controlled LinkedIn: none found.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/raw-dump-v2.md:332",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-raw-dump-v2-md-l332"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0084",
+      "evidenceRowId": "em-allen-park-00190",
+      "platform": "YouTube",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/raw-dump-v2.md:333",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Verified candidate-controlled YouTube/TikTok/other video: none found.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/raw-dump-v2.md:333",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-raw-dump-v2-md-l333"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0085",
+      "evidenceRowId": "em-allen-park-00191",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/raw-dump-v2.md:334",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Candidate-authored public social posts harvested: none.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/raw-dump-v2.md:334",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-raw-dump-v2-md-l334"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0086",
+      "evidenceRowId": "em-allen-park-00201",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/raw-dump-v2.md:348",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Verified current candidate-controlled campaign website or social account.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/raw-dump-v2.md:348",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-raw-dump-v2-md-l348"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0087",
+      "evidenceRowId": "em-allen-park-01083",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "reports/usd489-board-deep-investigation-2026-03-30.md:483",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social media profiles -- Facebook, Instagram, Twitter/X accounts for each member could not be directly accessed via search tools. Manual review recommended.",
+      "sourceUrl": null,
+      "sourceFile": "reports/usd489-board-deep-investigation-2026-03-30.md:483",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-raw-dump-md-l1651",
+        "mem-reports-usd489-board-deep-investigation-2026-03-30-md-l483"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0088",
+      "evidenceRowId": "em-allen-park-01210",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/sleuth-pass.md:33",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No verified current candidate-controlled Facebook page found.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/sleuth-pass.md:33",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-sleuth-pass-md-l33"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0089",
+      "evidenceRowId": "em-allen-park-01211",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/sleuth-pass.md:34",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No verified current candidate-controlled X/Twitter, Instagram, LinkedIn, TikTok, YouTube, Bluesky, Threads, Substack, Reddit, Truth Social, Gab, or Gettr account found.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/sleuth-pass.md:34",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-sleuth-pass-md-l34"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0090",
+      "evidenceRowId": "em-allen-park-01242",
+      "platform": "Public web / internal harvest",
+      "actionType": "share/repost",
+      "target": "memory/candidates/allen-park/sleuth-pass.md:86",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Because no verified candidate-controlled social accounts were found, no social-media tone, engagement, follows, likes, reposts, or audience-response claims should be made.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/sleuth-pass.md:86",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-sleuth-pass-md-l86"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0091",
+      "evidenceRowId": "em-allen-park-01243",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/sleuth-pass.md:87",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social/online relevance, if rendered later, should be phrased as \"low verified campaign-social footprint\" and mapped to transparency/availability of public candidate messaging, not to ideology or character.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/sleuth-pass.md:87",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-sleuth-pass-md-l87"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0092",
+      "evidenceRowId": "em-allen-park-01258",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/sleuth-pass.md:122",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Current campaign/social accounts: no verified current candidate-controlled accounts were found. Absence of public accounts is not evidence that private, deleted, restricted, or unindexed content does not exist.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/sleuth-pass.md:122",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-sleuth-pass-md-l122"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0093",
+      "evidenceRowId": "em-allen-park-01343",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/v2-issues.yaml:16",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "campaign_social_presence: \"No verified current candidate-controlled campaign website or public social account found.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/v2-issues.yaml:16",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-v2-issues-yaml-l16"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0094",
+      "evidenceRowId": "em-allen-park-01371",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/allen-park.ts:59",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"No verified candidate-controlled campaign website or public social account was found. Public messaging available for this issue comes from candidate questionnaires, official district pages, and attributed local coverage rather than social media.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/allen-park.ts:59",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-v2-issues-yaml-l49",
+        "mem-ui-src-data-v2-allen-park-ts-l59"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0095",
+      "evidenceRowId": "em-allen-park-01394",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/allen-park.ts:139",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Hays Post candidate Q&A\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/allen-park.ts:139",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-v2-issues-yaml-l85",
+        "mem-ui-src-data-v2-allen-park-ts-l139"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0096",
+      "evidenceRowId": "em-allen-park-01496",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/v2-issues.yaml:303",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"No verified candidate-controlled social/campaign accounts found during this pass.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/v2-issues.yaml:303",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-v2-issues-yaml-l303"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0097",
+      "evidenceRowId": "em-allen-park-01502",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/v2-issues.yaml:310",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"No verified current campaign website or candidate-controlled social account found.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/v2-issues.yaml:310",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-v2-issues-yaml-l310"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0098",
+      "evidenceRowId": "em-allen-park-01241",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/sleuth-pass.md:85",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Park's online footprint is not campaign-social driven. The useful public record is candidate questionnaires, attributed board quotes, official district pages, and local meeting coverage.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/sleuth-pass.md:85",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-sleuth-pass-md-l85"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0099",
+      "evidenceRowId": "em-allen-park-01645",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:46524",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"Facebook\", \"X\", \"Instagram\", \"LinkedIn\", \"YouTube\", \"Substack\", \"Truth Social\", \"Reddit\", \"TikTok\", \"Local news\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:46524",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l46524"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0100",
+      "evidenceRowId": "em-allen-park-00184",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/raw-dump-v2.md:326",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social / Online Record",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/raw-dump-v2.md:326",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-raw-dump-v2-md-l326"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0101",
+      "evidenceRowId": "em-allen-park-00349",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/raw-dump.md:255",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social media (Facebook, about.me, LinkedIn)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/raw-dump.md:255",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-raw-dump-md-l255"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0102",
+      "evidenceRowId": "em-allen-park-01240",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/sleuth-pass.md:83",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social / Online Relevance",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/sleuth-pass.md:83",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-sleuth-pass-md-l83"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0103",
+      "evidenceRowId": "em-allen-park-01367",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/v2-issues.yaml:106",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "social_signals: []",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/v2-issues.yaml:106",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-v2-issues-yaml-l45",
+        "mem-memory-candidates-allen-park-v2-issues-yaml-l83",
+        "mem-memory-candidates-allen-park-v2-issues-yaml-l106"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0104",
+      "evidenceRowId": "em-allen-park-01369",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/allen-park.ts:58",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Public web\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/allen-park.ts:58",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-v2-issues-yaml-l47",
+        "mem-ui-src-data-v2-allen-park-ts-l58",
+        "mem-ui-src-data-v2-allen-park-ts-l66",
+        "mem-ui-src-data-v2-allen-park-ts-l76",
+        "mem-ui-src-data-v2-allen-park-ts-l198",
+        "mem-ui-src-data-v2-allen-park-ts-l208",
+        "mem-ui-src-data-v2-allen-park-ts-l218"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0105",
+      "evidenceRowId": "em-allen-park-01755",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/allen-park.ts:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/allen-park.ts:1",
+      "sourceIds": [
+        "mem-ui-src-data-v2-allen-park-ts-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0106",
+      "evidenceRowId": "em-allen-park-01757",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/allen-park.ts:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "node scripts/hydrate-v2-social-signals.mjs",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/allen-park.ts:3",
+      "sourceIds": [
+        "mem-ui-src-data-v2-allen-park-ts-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0107",
+      "evidenceRowId": "em-allen-park-01775",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/allen-park.ts:149",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Hays Post\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/allen-park.ts:149",
+      "sourceIds": [
+        "mem-ui-src-data-v2-allen-park-ts-l149",
+        "mem-ui-src-data-v2-allen-park-ts-l159"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0108",
+      "evidenceRowId": "em-allen-park-01642",
+      "platform": "hayspost.com",
+      "actionType": "online-reference",
+      "target": "https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        3,
+        4,
+        8,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Immigration / border",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "likely",
+      "observation": "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays ([source](https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a)). Second, the candidate-profiler raw intelligence from this project records that no reliable public source identifies Ruder's church affiliation; that data point is absent from the harvested set. The captured period contains no posts or quotes from Ruder on healthcare, immigration, abortion specifics, foreign policy, federal elections, K–12 curriculum content beyond test-score performance, or social-issue topics.",
+      "sourceUrl": "https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a",
+      "sourceFile": "ui/src/data/candidates.ts:46516",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l46516"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0109",
+      "evidenceRowId": "em-allen-park-01680",
+      "platform": "hayspost.com",
+      "actionType": "online-reference",
+      "target": "https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        2,
+        3,
+        5,
+        9,
+        10,
+        11,
+        13
+      ],
+      "issueLabels": [
+        "LGBT / gender / parental rights",
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Health care / insurance / Medicaid",
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "likely",
+      "observation": "narrative: \"*A summary of what Derek Yarmer has publicly said, written, and been quoted saying in campaign questionnaires, a published written statement, USD 489 board coverage, school/public pages, and professional profiles through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nDerek Yarmer's public record is built around local school-board oversight rather than a broad campaign-media operation. In his 2023 Hays Post questionnaire, he described himself as an ER doctor, a parent of children in USD 489, and a non-incumbent candidate whose campaign was \\\"100 percent personally financed.\\\" He said he thought there were \\\"a lot of great things going on within the district,\\\" including new facilities, but framed his main goal as making sure Hays residents got \\\"the new schools they were promised at the price they were promised.\\\" [Source](https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649)\\n\\nHis earliest accessible school-board statement, a 2021 application letter for a vacant USD 489 seat, presented education as a parental responsibility and community duty. He wrote that educating children is \\\"one of the most important responsibilities we have as parents,\\\" said he wanted to be active in his daughters' education and the education of other district students, and argued that his emergency-medicine background could help the district take a pragmatic approach to pandemic decisions while keeping interruptions to education low. [Source](https://hayspost.com/posts/f743144f-86f5-409f-af1d-729253115b28)\\n\\nThe clearest throughline in Yarmer's board messaging is fiscal scrutiny. In his 2023 questionnaire, he said the board has \\\"the absolute responsibility\\\" to keep the $143.5 million bond project on budget and deliver the school structures promised to the community. In a 2025 written statement published by Hays Post, he argued that the district was using capital outlay funds for items that should be covered by the bond, criticized spending on a concession stand, scoreboards, tennis courts, and a marquee sign while other building needs waited, and wrote that the school board was also to blame for \\\"reckless spending\\\" because it failed to provide proper oversight. [Source](https://hayspost.com/posts/52e53c90-5182-42f0-919e-2c7dc145305b)\\n\\nHis process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \\\"This would be an example of giving us the numbers and voting on it the same night, which I'm against,\\\" and in 2026 saying purchases over $100,000 should be discussed at the prior board meeting before a vote. [Source](https://tigermedianet.com/?p=90779) [Source](https://tigermedianet.com/?p=94701)\\n\\nYarmer's oversight posture also shows up in personnel and contract discussions. At his first 2024 board meeting, he abstained from extending administrator contracts after a short executive session, saying, \\\"You're asking me to vote on something I know nothing about.\\\" In 2026 coverage, he supported delaying district contract-extension votes for more review, flagged superintendent contract language that appeared to make the superintendent his own supervisor, and moved to vote on administrator contracts individually. [Source](https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf) [Source](https://hayspost.com/posts/0c27e966-61e9-4c00-b6d7-7f37f6d3bba7) [Source](https://tigermedianet.com/?p=95549)\\n\\nOn education policy, Yarmer's public comments emphasize core academics, leaner operations, and skepticism of expansive school roles. During a 2025 discussion of special education funding and district spending, he said the district could \\\"work a little leaner,\\\" questioned whether requested items were needs, and said, \\\"I don't think money is the problem of the education system. I think we need to be better at doing what we do.\\\" In the same meeting coverage, he criticized social-emotional and mental-health programming and said schools should teach \\\"math, science and history\\\" rather than be \\\"touchy-feely.\\\" [Source](https://hayspost.com/posts/753ae9c5-9a0b-4bc2-b319-57e7fc4efdeb)\\n\\nHis public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involves before going into it. In Hays High bathroom and vandalism coverage, he said cameras outside bathrooms were not adequate for safety or security purposes. In asbestos-abatement coverage, he seconded a motion to table and said, \\\"If everything is an emergency, nothing is an emergency.\\\" [Source](https://hayspost.com/posts/f5e69fbd-0165-4db1-b896-07613f7a31ed) [Source](https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede) [Source](https://tigermedianet.com/?p=93176)\\n\\nHis medical background is part of the public persona, but the political messaging remains local and operational. HaysMed identifies him as an Emergency Department physician trained at the University of Kansas School of Medicine and the University of Missouri-Kansas City. Pawnee Valley Community Hospital's 2023 announcement of him as Emergency Department medical director quotes him saying PVCH was \\\"well-equipped to care for patients\\\" and that he hoped to help provide quality care to central and western Kansas by offering guidance and support when needed. [Source](https://www.haysmed.com/provider/derek-m-yarmer-md/) [Source](https://pawneevalleyhospital.com/dr-yarmer-new-ed-medical-director-at-pawnee-valley-community-hospital/)\\n\\nThe visible absences matter. I did not verify a current campaign website, public candidate-controlled social account, campaign video channel, endorsement page, donation page, or long-form civic platform. The accessible record also did not show substantial candidate-authored messaging on state or national partisan issues, school vouchers, library policy, curriculum culture-war topics beyond the quoted social-emotional-learning discussion, teacher unions, school finance formulas beyond special education and local mill levies, or non-school local government issues. This is a limitation of the accessible public record, not a claim about private, deleted, restricted, or unindexed content.\\n\\nMethodology: Sources checked included USD 489 official pages and meeting portal, Hays Post, Tiger Media Network, BoardDocs search results, HaysMed, Pawnee Valley Community Hospital, Great Bend Tribune, and web searches for campaign, civic, professional, and social accounts. Date range covered: public material available through 2026-05-11. Public social harvest: no verified candidate-controlled social posts were found, so no inaccessible social content was fabricated or summarized. We report patterns in public, candidate-controlled or attributed messaging; we do not interpret intent.\",",
+      "sourceUrl": "https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649",
+      "sourceFile": "ui/src/data/candidates.ts:47378",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l47378"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0110",
+      "evidenceRowId": "em-allen-park-01327",
+      "platform": "Public web / internal harvest",
+      "actionType": "share/repost",
+      "target": "memory/candidates/allen-park/social-harvest.md:100",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Sources checked: USD 489 Board of Education page, USD 489 article archive, USD 489 meeting/member portal, Hays Post and Hays Post archive, Great Bend Post reposts of Hays Post coverage, Tiger Media Network, KLC Journal, web searches for campaign/civic/professional pages, and source-restricted searches for major social/video platforms.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:100",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l100"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0111",
+      "evidenceRowId": "em-allen-park-01307",
+      "platform": "hayspost.com",
+      "actionType": "follow",
+      "target": "https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "| 2023-04-26 | [Hays Post](https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8) | Nepotism/personnel policy | Objected, with Curt Vajnar, to hiring the superintendent's wife; later said he was unsure whether the district was following policy and asked the board to review it further. |",
+      "sourceUrl": "https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8",
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:72",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l72"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0112",
+      "evidenceRowId": "em-allen-park-01638",
+      "platform": "Facebook",
+      "actionType": "absence",
+      "target": "https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "At time of harvest, Ruth Ruder does not maintain a detectable personal public social-media presence. No campaign Facebook page, no X / Twitter account, no Instagram account, no public LinkedIn profile, no YouTube channel, and no Substack or Truth Social account was found indexed under her name during the harvest window. The single Facebook hit returned for her name is a 2023 community-organization post congratulating her on a Wonder Women League honor ([source](https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447)). The harvested record consists of two 2023 candidate questionnaires published by Hays Post and a recurring set of board-meeting quotes captured by Hays Post over the 2024 to 2026 period. Voters who want to read her own direct statements will find them almost exclusively in board-meeting coverage, not on a candidate-controlled feed.",
+      "sourceUrl": "https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447",
+      "sourceFile": "ui/src/data/candidates.ts:46508",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l46508"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-allen-park-0113",
+      "evidenceRowId": "em-allen-park-00958",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/ron-wilson-96762118a/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "LinkedIn: [linkedin.com/in/ron-wilson-96762118a](https://www.linkedin.com/in/ron-wilson-96762118a/)",
+      "sourceUrl": "https://www.linkedin.com/in/ron-wilson-96762118a/",
+      "sourceFile": "memory/candidates/allen-park/raw-dump.md:1482",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-raw-dump-md-l1482"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0114",
+      "evidenceRowId": "em-allen-park-01172",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/ron-wilson-96762118a/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[linkedin.com/in/ron-wilson-96762118a](https://www.linkedin.com/in/ron-wilson-96762118a/)",
+      "sourceUrl": "https://www.linkedin.com/in/ron-wilson-96762118a/",
+      "sourceFile": "memory/candidates/allen-park/site-profile.md:174",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-site-profile-md-l174"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0115",
+      "evidenceRowId": "em-allen-park-01284",
+      "platform": "klcjournal.com",
+      "actionType": "post",
+      "target": "https://klcjournal.com/local2019hays/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Source: [KLC Journal, Sept. 13, 2019](https://klcjournal.com/local2019hays/)",
+      "sourceUrl": "https://klcjournal.com/local2019hays/",
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:34",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l34"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0116",
+      "evidenceRowId": "em-allen-park-01286",
+      "platform": "archive.hayspost.com",
+      "actionType": "post",
+      "target": "https://archive.hayspost.com/2019/06/page/37/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Source: [Hays Post archive, June 19, 2019](https://archive.hayspost.com/2019/06/page/37/)",
+      "sourceUrl": "https://archive.hayspost.com/2019/06/page/37/",
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:38",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l38"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0117",
+      "evidenceRowId": "em-allen-park-01296",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Source: [Hays Post, July 19, 2023](https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7)",
+      "sourceUrl": "https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7",
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:53",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l53"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0118",
+      "evidenceRowId": "em-allen-park-01301",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Source: [Hays Post, Oct. 25, 2023](https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922)",
+      "sourceUrl": "https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922",
+      "sourceFile": "memory/candidates/allen-park/social-harvest.md:63",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-social-harvest-md-l63"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0119",
+      "evidenceRowId": "em-allen-park-00691",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/allen-park/raw-dump.md:1018",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        4,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Assessment: Jeff Colyer has a Catholic education background from Hays, and his policy positions align with Catholic social teaching on life issues. However, his international medical work is through a secular organization (International Medical Corps), not a faith-based one. His current church affiliation is unknown. He may still be Catholic, he may have shifted denominations, or he may be a private worshiper. The fact that his campaign and official profiles do not prominently feature church membership is notable for a Republican running in a Kansas primary. Recommend direct inquiry.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/allen-park/raw-dump.md:1018",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-raw-dump-md-l1018"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0120",
+      "evidenceRowId": "em-allen-park-01643",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:46518",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        6,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Economy / jobs / labor",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Ruder's platform footprint at the time of this harvest is effectively zero personal accounts and several institutional surfaces where she appears as a representative of Golden Plains Credit Union, where she serves as Vice-President of the Hays branch, or as a USD 489 board member. Voters seeking direct statements from Ruth Ruder will find them in Hays Post candidate questionnaires, in Hays Post and KAYS Radio coverage of USD 489 board meetings, in the live and archived USD 489 board-meeting video stream published by the district, and at in-person USD 489 board meetings open to the public.",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:46518",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l46518"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0121",
+      "evidenceRowId": "em-allen-park-01368",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/allen-park.ts:57",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"no-candidate-social-governance\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/allen-park.ts:57",
+      "sourceIds": [
+        "mem-memory-candidates-allen-park-v2-issues-yaml-l46",
+        "mem-ui-src-data-v2-allen-park-ts-l57"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-allen-park-0122",
+      "evidenceRowId": "em-allen-park-01763",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/allen-park.ts:55",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"socialSignals\": [",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/allen-park.ts:55",
+      "sourceIds": [
+        "mem-ui-src-data-v2-allen-park-ts-l55",
+        "mem-ui-src-data-v2-allen-park-ts-l136",
+        "mem-ui-src-data-v2-allen-park-ts-l195"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    }
+  ],
+  "issueCoverage": {
+    "1": {
+      "issue": "Abortion / life",
+      "total": 6,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 1,
+      "ambiguous": 3
+    },
+    "2": {
+      "issue": "LGBT / gender / parental rights",
+      "total": 3,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "3": {
+      "issue": "Education / curriculum / schools",
+      "total": 37,
+      "strong": 2,
+      "moderate": 1,
+      "weak": 16,
+      "ambiguous": 13
+    },
+    "4": {
+      "issue": "Religious liberty / church / civic morality",
+      "total": 9,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 6
+    },
+    "5": {
+      "issue": "Taxes / spending / debt",
+      "total": 10,
+      "strong": 1,
+      "moderate": 1,
+      "weak": 4,
+      "ambiguous": 3
+    },
+    "6": {
+      "issue": "Economy / jobs / labor",
+      "total": 4,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 2
+    },
+    "7": {
+      "issue": "Guns / Second Amendment",
+      "total": 5,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 1,
+      "ambiguous": 3
+    },
+    "8": {
+      "issue": "Immigration / border",
+      "total": 7,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 2,
+      "ambiguous": 3
+    },
+    "9": {
+      "issue": "Health care / insurance / Medicaid",
+      "total": 8,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 1,
+      "ambiguous": 3
+    },
+    "10": {
+      "issue": "Election integrity / voting / courts",
+      "total": 29,
+      "strong": 1,
+      "moderate": 1,
+      "weak": 2,
+      "ambiguous": 23
+    },
+    "11": {
+      "issue": "Public safety / law enforcement / criminal justice",
+      "total": 2,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "12": {
+      "issue": "Agriculture / rural economy / water",
+      "total": 5,
+      "strong": 1,
+      "moderate": 1,
+      "weak": 0,
+      "ambiguous": 3
+    },
+    "13": {
+      "issue": "Local governance / transparency / ethics",
+      "total": 61,
+      "strong": 2,
+      "moderate": 2,
+      "weak": 15,
+      "ambiguous": 34
+    },
+    "14": {
+      "issue": "Environment / energy / land use",
+      "total": 2,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 0,
+      "ambiguous": 1
+    }
+  },
+  "caveats": [
+    "Social evidence is signal, not fact. A follow, like, share, or platform absence is not treated as a belief or policy position.",
+    "Candidate-controlled posts and campaign pages may be used as stated positions only when the text itself says the position.",
+    "Login-walled, blocked, or inaccessible platform content is documented as a capture limitation, not as evidence of silence."
+  ]
+}

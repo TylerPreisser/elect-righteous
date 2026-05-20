@@ -1,0 +1,31 @@
+{
+  "agent_id": "social-footprint-analyst",
+  "agent_role": "Social media intelligence analyst",
+  "candidate_slug": "ric-koehn",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/ric-koehn/social-harvest.md",
+    "memory/candidates/ric-koehn/evidence-matrix.json",
+    "memory/candidates/ric-koehn/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/ric-koehn/social-evidence-matrix.json",
+    "memory/candidates/ric-koehn/social-analysis.md",
+    "memory/candidates/ric-koehn/agent-work/social-footprint-analyst/run-state.json",
+    "memory/candidates/ric-koehn/agent-work/social-footprint-analyst/notes.md",
+    "memory/candidates/ric-koehn/agent-work/social-footprint-analyst/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs ric-koehn"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run source-tier-validator for ric-koehn.",
+    "Run fixed-issue-matrix-builder for ric-koehn after source validation."
+  ],
+  "handoff_summary": "Classified 29 social/online observations for ric-koehn."
+}

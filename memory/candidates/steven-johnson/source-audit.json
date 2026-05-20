@@ -1,0 +1,883 @@
+{
+  "candidateSlug": "steven-johnson",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 22,
+  "sources": [
+    {
+      "sourceId": "src-steven-johnson-0001",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW05SJ_202601.pdf",
+      "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:51",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-steven-johnson-00053"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW05SJ_202601.pdf\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-steven-johnson-0002",
+      "url": "https://ballotpedia.org/Kansas_Treasurer_election,_2026",
+      "sourceFile": "memory/elections/2026-11-03-kansas-treasurer.md:29",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-steven-johnson-00111"
+      ],
+      "claimsAnchored": [
+        "https://ballotpedia.org/Kansas_Treasurer_election,_2026 -- Election overview -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-steven-johnson-0003",
+      "url": "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026",
+      "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:210",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-steven-johnson-00174"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: KS Governor 2026](https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-steven-johnson-0004",
+      "url": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
+      "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:211",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-steven-johnson-00175"
+      ],
+      "claimsAnchored": [
+        "[Wikipedia: 2026 KS Gubernatorial](https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-steven-johnson-0005",
+      "url": "https://ballotpedia.org/Kansas_2026_ballot_measures",
+      "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:232",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-steven-johnson-00188"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: KS 2026 Ballot Measures](https://ballotpedia.org/Kansas_2026_ballot_measures)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-steven-johnson-0006",
+      "url": "https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026",
+      "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:233",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-steven-johnson-00189"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-steven-johnson-0007",
+      "url": "https://www.votenokansas.org/",
+      "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:234",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-steven-johnson-00190"
+      ],
+      "claimsAnchored": [
+        "[Vote No Kansas 2026](https://www.votenokansas.org/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-steven-johnson-0008",
+      "url": null,
+      "sourceFile": "memory/candidates/steven-johnson/social-harvest.md:20",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social follow",
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 16,
+      "rowIds": [
+        "em-steven-johnson-00013",
+        "em-steven-johnson-00005",
+        "em-steven-johnson-00012",
+        "em-steven-johnson-00014",
+        "em-steven-johnson-00016",
+        "em-steven-johnson-00019",
+        "em-steven-johnson-00020",
+        "em-steven-johnson-00021",
+        "em-steven-johnson-00022",
+        "em-steven-johnson-00023",
+        "em-steven-johnson-00025",
+        "em-steven-johnson-00009",
+        "em-steven-johnson-00003",
+        "em-steven-johnson-00008",
+        "em-steven-johnson-00024",
+        "em-steven-johnson-00026"
+      ],
+      "claimsAnchored": [
+        "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associa",
+        "This artifact was created because the candidate-completeness audit found Steven Johnson in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+        "Ballot / filing status: Steven Johnson appears in the reviewed official or campaign-finance records connected to Kansas State Treasurer candidate. This profile does not treat that appearance as a final certified ballot until the final election-office list is c",
+        "Donor / funding information: KPDC reports for Johnson include a 202601 receipts-and-expenditures filing.",
+        "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+        "Steven Johnson - social harvest",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Slug: steven-johnson",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-steven-johnson-0009",
+      "url": "https://candidatefiling.us/Info/Default?det=Y&e=545606222&j=2795522868&pj=26405586&s=802933811&st=KS",
+      "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:28",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-steven-johnson-00047"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://candidatefiling.us/Info/Default?det=Y&e=545606222&j=2795522868&pj=26405586&s=802933811&st=KS\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-steven-johnson-0010",
+      "url": "https://stevenjohnsonks.com/",
+      "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:13",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-steven-johnson-00035"
+      ],
+      "claimsAnchored": [
+        "\"campaignWebsite\": \"https://stevenjohnsonks.com/\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-steven-johnson-0011",
+      "url": "https://ballotpedia.org/Kansas_state_executive_official_elections,_2026",
+      "sourceFile": "memory/elections/2026-11-03-kansas-treasurer.md:30",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-steven-johnson-00112",
+        "em-steven-johnson-00158"
+      ],
+      "claimsAnchored": [
+        "https://ballotpedia.org/Kansas_state_executive_official_elections,_2026 -- Statewide executive races overview -- accessed 2026-03-30",
+        "[Ballotpedia — Kansas 2026 State Executive](https://ballotpedia.org/Kansas_state_executive_official_elections,_2026) — accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-steven-johnson-0012",
+      "url": "https://ballotpedia.org/Kansas_gubernatorial_election,_2026",
+      "sourceFile": "memory/elections/2026-11-03-ks-governor.md:45",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-steven-johnson-00134"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia — Kansas 2026 Governor](https://ballotpedia.org/Kansas_gubernatorial_election,_2026) — accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-steven-johnson-0013",
+      "url": null,
+      "sourceFile": "memory/elections/2026-11-03-ks-statewide-offices.md:32",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "meeting record",
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 23,
+      "rowIds": [
+        "em-steven-johnson-00150",
+        "em-steven-johnson-00145",
+        "em-steven-johnson-00144",
+        "em-steven-johnson-00153",
+        "em-steven-johnson-00154",
+        "em-steven-johnson-00137",
+        "em-steven-johnson-00138",
+        "em-steven-johnson-00139",
+        "em-steven-johnson-00142",
+        "em-steven-johnson-00147",
+        "em-steven-johnson-00152",
+        "em-steven-johnson-00155",
+        "em-steven-johnson-00156",
+        "em-steven-johnson-00157",
+        "em-steven-johnson-00159",
+        "em-steven-johnson-00136",
+        "em-steven-johnson-00140",
+        "em-steven-johnson-00143",
+        "em-steven-johnson-00146",
+        "em-steven-johnson-00151",
+        "em-steven-johnson-00141",
+        "em-steven-johnson-00148",
+        "em-steven-johnson-00149"
+      ],
+      "claimsAnchored": [
+        "State Board of Education (District 5)",
+        "Insurance Commissioner",
+        "Status: Up for re-election",
+        "District: District 5 covers western Kansas including Ellis County",
+        "District: Statewide (all Kansas voters)",
+        "Status: May be running for Governor (if so, open seat)",
+        "Known Candidates: TBD",
+        "Secretary of State",
+        "State Treasurer",
+        "Known Candidates:",
+        "Status: Odd-numbered districts up in midterm years (2026)",
+        "Multiple open seats in one cycle is rare"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-steven-johnson-0014",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:166",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 30,
+      "rowIds": [
+        "em-steven-johnson-00204",
+        "em-steven-johnson-00206",
+        "em-steven-johnson-00215",
+        "em-steven-johnson-00207",
+        "em-steven-johnson-00208",
+        "em-steven-johnson-00214",
+        "em-steven-johnson-00196",
+        "em-steven-johnson-00202",
+        "em-steven-johnson-00200",
+        "em-steven-johnson-00217",
+        "em-steven-johnson-00218",
+        "em-steven-johnson-00191",
+        "em-steven-johnson-00192",
+        "em-steven-johnson-00193",
+        "em-steven-johnson-00194",
+        "em-steven-johnson-00195",
+        "em-steven-johnson-00197",
+        "em-steven-johnson-00198",
+        "em-steven-johnson-00199",
+        "em-steven-johnson-00201",
+        "em-steven-johnson-00203",
+        "em-steven-johnson-00205",
+        "em-steven-johnson-00209",
+        "em-steven-johnson-00210",
+        "em-steven-johnson-00216",
+        "em-steven-johnson-00219",
+        "em-steven-johnson-00212",
+        "em-steven-johnson-00213",
+        "em-steven-johnson-00211",
+        "em-steven-johnson-00220"
+      ],
+      "claimsAnchored": [
+        "\"The state treasurer oversees state cash management, debt, public deposits, unclaimed property, and college-savings programs that affect Kansas taxpayers and families.\",",
+        "\"The Kansas State Treasurer manages the state's money functions: cash management, public deposits, debt-related work, unclaimed property, and several public savings programs. The office is less flashy than governor or attorney general, but it affects how publi",
+        "\"The insurance commissioner regulates every insurance company doing business in Kansas. They approve or reject the rates you pay for health, auto, home, and crop insurance, investigate complaints when companies deny claims, and decide whether insurers are trea",
+        "slug: \"kansas-insurance-2026\",",
+        "name: \"Kansas Insurance Commissioner\",",
+        "\"Insurance decisions affect what Kansans pay for health, auto, crop, and home coverage, and whether regulators push back when companies fail consumers.\",",
+        "status: \"Incumbent Running\",",
+        "\"The treasurer race was missing from the site. It now includes the confirmed statewide filing row for incumbent Steven Johnson and the KPDC account record for Eric Lund, with final ballot status still subject to official post-deadline verification.\",",
+        "\"Steven Johnson is listed as a filed Republican candidate for state treasurer, and Eric Lund appears in the KPDC statewide campaign-finance index for the treasurer race.\",",
+        "name: \"KS House District 111\",",
+        "jurisdiction: \"Kansas House District 111\",",
+        "slug: \"kansas-treasurer-2026\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-steven-johnson-0015",
+      "url": null,
+      "sourceFile": "memory/candidates/steven-johnson/v2-issues.yaml:81",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "donor/funding",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 60,
+      "rowIds": [
+        "em-steven-johnson-00072",
+        "em-steven-johnson-00090",
+        "em-steven-johnson-00033",
+        "em-steven-johnson-00036",
+        "em-steven-johnson-00037",
+        "em-steven-johnson-00038",
+        "em-steven-johnson-00041",
+        "em-steven-johnson-00043",
+        "em-steven-johnson-00044",
+        "em-steven-johnson-00060",
+        "em-steven-johnson-00062",
+        "em-steven-johnson-00064",
+        "em-steven-johnson-00068",
+        "em-steven-johnson-00074",
+        "em-steven-johnson-00077",
+        "em-steven-johnson-00089",
+        "em-steven-johnson-00091",
+        "em-steven-johnson-00049",
+        "em-steven-johnson-00050",
+        "em-steven-johnson-00051",
+        "em-steven-johnson-00076",
+        "em-steven-johnson-00078",
+        "em-steven-johnson-00079",
+        "em-steven-johnson-00081",
+        "em-steven-johnson-00084",
+        "em-steven-johnson-00086",
+        "em-steven-johnson-00087",
+        "em-steven-johnson-00007",
+        "em-steven-johnson-00027",
+        "em-steven-johnson-00028",
+        "em-steven-johnson-00029",
+        "em-steven-johnson-00030",
+        "em-steven-johnson-00031",
+        "em-steven-johnson-00032",
+        "em-steven-johnson-00034",
+        "em-steven-johnson-00039",
+        "em-steven-johnson-00040",
+        "em-steven-johnson-00042",
+        "em-steven-johnson-00046",
+        "em-steven-johnson-00055",
+        "em-steven-johnson-00061",
+        "em-steven-johnson-00065",
+        "em-steven-johnson-00067",
+        "em-steven-johnson-00071",
+        "em-steven-johnson-00082",
+        "em-steven-johnson-00083",
+        "em-steven-johnson-00085",
+        "em-steven-johnson-00088",
+        "em-steven-johnson-00045",
+        "em-steven-johnson-00059"
+      ],
+      "claimsAnchored": [
+        "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+        "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+        "\"incumbent\": true,",
+        "\"whoTheyAre\": \"Steven Johnson is the incumbent Kansas State Treasurer and is listed in current statewide filing material as a Republican candidate for State Treasurer.\",",
+        "\"recordSummary\": \"The record captured in this pass confirms filed status through a statewide filing mirror and a campaign-finance account through KPDC. A deeper office-record pass should connect his treasurer work to specific official actions before expanding ",
+        "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+        "\"publisher\": \"Kansas candidate filing mirror / State of Kansas filing data\",",
+        "\"Steven Johnson appears as a Republican candidate for Kansas State Treasurer\",",
+        "\"The filing entry lists Assaria and links stevenjohnsonks.com\"",
+        "\"title\": \"Ballot / filing status\",",
+        "\"text\": \"Steven Johnson appears in the reviewed official or campaign-finance records connected to Kansas State Treasurer candidate. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after th",
+        "\"s-state-filing\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-steven-johnson-0016",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/steven-johnson.ts:63",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 23,
+      "rowIds": [
+        "em-steven-johnson-00229",
+        "em-steven-johnson-00048",
+        "em-steven-johnson-00054",
+        "em-steven-johnson-00233",
+        "em-steven-johnson-00057",
+        "em-steven-johnson-00221",
+        "em-steven-johnson-00222",
+        "em-steven-johnson-00223",
+        "em-steven-johnson-00224",
+        "em-steven-johnson-00225",
+        "em-steven-johnson-00226",
+        "em-steven-johnson-00228",
+        "em-steven-johnson-00230",
+        "em-steven-johnson-00231",
+        "em-steven-johnson-00232",
+        "em-steven-johnson-00234",
+        "em-steven-johnson-00235",
+        "em-steven-johnson-00236",
+        "em-steven-johnson-00237",
+        "em-steven-johnson-00238",
+        "em-steven-johnson-00239",
+        "em-steven-johnson-00240",
+        "em-steven-johnson-00227"
+      ],
+      "claimsAnchored": [
+        "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comm",
+        "\"title\": \"Candidate Filing Info - State of Kansas statewide offices\",",
+        "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+        "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+        "\"title\": \"Steven Johnson 2026 Receipts and Expenditures\",",
+        "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+        "To refresh:",
+        "node scripts/hydrate-v2-social-signals.mjs",
+        "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+        "import { validateCandidateV2 } from \"@/data/types-v2\";",
+        "export const STEVEN_JOHNSON_V2: CandidateFullV2 = {",
+        "\"platform\": \"Public web\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-steven-johnson-0017",
+      "url": null,
+      "sourceFile": "memory/elections/2026-11-03-kansas-treasurer.md:4",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 24,
+      "rowIds": [
+        "em-steven-johnson-00093",
+        "em-steven-johnson-00095",
+        "em-steven-johnson-00100",
+        "em-steven-johnson-00108",
+        "em-steven-johnson-00114",
+        "em-steven-johnson-00116",
+        "em-steven-johnson-00104",
+        "em-steven-johnson-00092",
+        "em-steven-johnson-00094",
+        "em-steven-johnson-00096",
+        "em-steven-johnson-00097",
+        "em-steven-johnson-00098",
+        "em-steven-johnson-00099",
+        "em-steven-johnson-00101",
+        "em-steven-johnson-00102",
+        "em-steven-johnson-00103",
+        "em-steven-johnson-00105",
+        "em-steven-johnson-00106",
+        "em-steven-johnson-00107",
+        "em-steven-johnson-00109",
+        "em-steven-johnson-00110",
+        "em-steven-johnson-00113",
+        "em-steven-johnson-00115",
+        "em-steven-johnson-00117"
+      ],
+      "claimsAnchored": [
+        "Filing Deadline: 2026-06-01 (noon)",
+        "General Election: 2026-11-03",
+        "Current incumbent: Steven Johnson (R) -- appears to be seeking re-election",
+        "Steven Johnson (incumbent) -- Seeking re-election. Former state representative.",
+        "This race has received limited attention compared to the governor and AG races.",
+        "The filing deadline of June 1, 2026 means additional candidates could still enter.",
+        "District/Ward: Statewide",
+        "Key Dates",
+        "Primary: 2026-08-04",
+        "Voter Registration Deadline (Primary): 2026-07-14",
+        "Voter Registration Deadline (General): 2026-10-13",
+        "Position(s)"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-steven-johnson-0018",
+      "url": null,
+      "sourceFile": "memory/elections/2026-11-03-ks-governor.md:30",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 17,
+      "rowIds": [
+        "em-steven-johnson-00122",
+        "em-steven-johnson-00123",
+        "em-steven-johnson-00126",
+        "em-steven-johnson-00129",
+        "em-steven-johnson-00118",
+        "em-steven-johnson-00119",
+        "em-steven-johnson-00120",
+        "em-steven-johnson-00121",
+        "em-steven-johnson-00124",
+        "em-steven-johnson-00128",
+        "em-steven-johnson-00130",
+        "em-steven-johnson-00133",
+        "em-steven-johnson-00135",
+        "em-steven-johnson-00127",
+        "em-steven-johnson-00125",
+        "em-steven-johnson-00131",
+        "em-steven-johnson-00132"
+      ],
+      "claimsAnchored": [
+        "Also on Ballot (Statewide)",
+        "All statewide executive offices are on the 2026 ballot:",
+        "State Treasurer (Steven Johnson, R — incumbent)",
+        "Open seat = most competitive type of race",
+        "Democratic",
+        "TBD (being researched)",
+        "Independent / Other",
+        "TBD",
+        "Attorney General",
+        "Significance",
+        "Governor Kelly (D) won in traditionally Republican Kansas TWICE",
+        "Could be a reshuffling of multiple statewide offices in one cycle"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-steven-johnson-0019",
+      "url": null,
+      "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:192",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status",
+        "voting record",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 26,
+      "rowIds": [
+        "em-steven-johnson-00160",
+        "em-steven-johnson-00161",
+        "em-steven-johnson-00162",
+        "em-steven-johnson-00163",
+        "em-steven-johnson-00164",
+        "em-steven-johnson-00165",
+        "em-steven-johnson-00168",
+        "em-steven-johnson-00170",
+        "em-steven-johnson-00176",
+        "em-steven-johnson-00177",
+        "em-steven-johnson-00178",
+        "em-steven-johnson-00179",
+        "em-steven-johnson-00180",
+        "em-steven-johnson-00181",
+        "em-steven-johnson-00182",
+        "em-steven-johnson-00183",
+        "em-steven-johnson-00184",
+        "em-steven-johnson-00185",
+        "em-steven-johnson-00186",
+        "em-steven-johnson-00187",
+        "em-steven-johnson-00169",
+        "em-steven-johnson-00171",
+        "em-steven-johnson-00166",
+        "em-steven-johnson-00167",
+        "em-steven-johnson-00172",
+        "em-steven-johnson-00173"
+      ],
+      "claimsAnchored": [
+        "STATEWIDE RACES ON THE BALLOT -- November 3, 2026",
+        "All of these affect Hays voters:",
+        "| Office | Incumbent | Party | Status |",
+        "|---|---|---|---|",
+        "| Governor | Laura Kelly | D | TERM-LIMITED -- Open seat |",
+        "| Lt. Governor | (runs on ticket with Governor) | -- | Open |",
+        "| State Treasurer | Steven Johnson | R | TBD |",
+        "Governor's Race -- Major Declared Candidates",
+        "STATEWIDE BALLOT MEASURES -- 2026",
+        "Constitutional Amendment #1 -- ON THE PRIMARY BALLOT August 4, 2026",
+        "Kansas Elections for Supreme Court Justices Amendment",
+        "Would provide for direct election of Kansas Supreme Court justices by voters"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-steven-johnson-0020",
+      "url": null,
+      "sourceFile": "memory/candidates/steven-johnson/in-their-own-words.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-steven-johnson-00001",
+        "em-steven-johnson-00002",
+        "em-steven-johnson-00004",
+        "em-steven-johnson-00006",
+        "em-steven-johnson-00011",
+        "em-steven-johnson-00010",
+        "em-steven-johnson-00015"
+      ],
+      "claimsAnchored": [
+        "Steven Johnson - in their own words",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-steven-johnson-0021",
+      "url": null,
+      "sourceFile": "memory/candidates/steven-johnson/raw-dump-v2.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-steven-johnson-00017"
+      ],
+      "claimsAnchored": [
+        "Steven Johnson - raw dump v2"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-steven-johnson-0022",
+      "url": null,
+      "sourceFile": "memory/candidates/steven-johnson/sleuth-pass.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-steven-johnson-00018"
+      ],
+      "claimsAnchored": [
+        "Steven Johnson - sleuth pass"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    }
+  ]
+}

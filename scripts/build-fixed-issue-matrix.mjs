@@ -12,7 +12,7 @@ const ROOT = new URL("..", import.meta.url).pathname.replace(/\/$/, "");
 const MEMORY_CANDIDATES = join(ROOT, "memory/candidates");
 const ORCHESTRATION_RUNS = join(ROOT, "memory/orchestration/agent-runs");
 const TODAY = "2026-05-20";
-const NOW = "2026-05-20T18:41:58Z";
+const NOW = "2026-05-20T18:46:44Z";
 
 const ISSUES = [
   [1, "Abortion / life"],
@@ -59,6 +59,12 @@ function writeText(path, value) {
 
 function compact(value) {
   return String(value ?? "").replace(/\s+/g, " ").trim();
+}
+
+function excerpt(value, limit = 900) {
+  const text = compact(value);
+  if (text.length <= limit) return text;
+  return `${text.slice(0, limit - 1)}…`;
 }
 
 function classifyEvidence(row) {
@@ -108,7 +114,7 @@ function buildIssueEntry(issueNumber, issueTitle, evidenceRows, socialSignals, s
     items.map((row) => ({
       evidenceRowId: row.id,
       classification,
-      text: compact(row.claim || row.exactEvidenceSummary),
+      text: excerpt(row.claim || row.exactEvidenceSummary),
       sourceIds: row.sourceIds ?? [],
       sourceUrl: row.sourceUrl,
       sourceFile: row.sourceFile,
@@ -132,7 +138,7 @@ function buildIssueEntry(issueNumber, issueTitle, evidenceRows, socialSignals, s
       platform: signal.platform,
       actionType: signal.actionType,
       signalStrength: signal.signalStrength,
-      observation: signal.observation,
+      observation: excerpt(signal.observation),
       sourceUrl: signal.sourceUrl,
       caveat: signal.caveat,
     }));
@@ -172,7 +178,7 @@ function yamlDump(value) {
   return execFileSync(
     "ruby",
     ["-ryaml", "-rjson", "-e", "obj=JSON.parse(STDIN.read); print YAML.dump(obj).sub(/^---\\n/, '')"],
-    { input: JSON.stringify(value), encoding: "utf8" },
+    { input: JSON.stringify(value), encoding: "utf8", maxBuffer: 1024 * 1024 * 128 },
   ).replace(/[ \t]+$/gm, "");
 }
 
@@ -283,7 +289,7 @@ function buildForSlug(slug) {
       `memory/candidates/${slug}/source-audit.json`,
     ],
     files_written: filesWritten,
-    commands_run: ["node scripts/build-fixed-issue-matrix.mjs roger-marshall damon-anderson jason-hart"],
+    commands_run: [`node scripts/build-fixed-issue-matrix.mjs ${slug}`],
     blockers: [],
     errors_encountered: [],
     next_steps: [`Run biography/record/funding/faith/profile assembler passes for ${slug}.`],
@@ -370,10 +376,10 @@ writeJson(join(runDir, "run-state.json"), {
     `memory/orchestration/agent-runs/${TODAY}/fixed-issue-matrix-builder/outputs.md`,
     `memory/orchestration/agent-runs/${TODAY}/fixed-issue-matrix-builder/handoff.md`,
   ],
-  commands_run: ["node scripts/build-fixed-issue-matrix.mjs roger-marshall damon-anderson jason-hart"],
+  commands_run: [`node scripts/build-fixed-issue-matrix.mjs ${slugs.join(" ")}`],
   blockers: [],
   errors_encountered: [],
-  next_steps: ["Run profile-writing and assembler passes for roger-marshall, damon-anderson, and jason-hart."],
+  next_steps: [`Run profile-writing and assembler passes for ${slugs.join(", ")}.`],
   handoff_summary: `Built fixed 14-issue matrices for ${slugs.join(", ")}.`,
 });
 
@@ -419,7 +425,7 @@ writeText(
     ...results.flatMap((result) => result.filesWritten.map((file) => `- ${file}`)),
     "",
     "## What the Next Task Should Do",
-    "Run profile-writing and candidate-profile-assembler for roger-marshall, damon-anderson, and jason-hart, then continue candidate-evidence-miner on the next federal batch.",
+    `Run profile-writing and candidate-profile-assembler for ${slugs.join(", ")}, then continue the remaining candidate pipeline.`,
     "",
     "## Blockers",
     "- None.",

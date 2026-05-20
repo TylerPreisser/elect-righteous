@@ -1,0 +1,875 @@
+{
+  "candidateSlug": "doug-billings",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceFiles": [
+    "memory/candidates/doug-billings/social-harvest.md",
+    "memory/candidates/doug-billings/evidence-matrix.json"
+  ],
+  "platformPresence": [],
+  "signals": [
+    {
+      "id": "soc-doug-billings-0001",
+      "evidenceRowId": "em-doug-billings-00013",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/doug-billings/social-harvest.md:20",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        3,
+        5,
+        7,
+        10
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Guns / Second Amendment",
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/social-harvest.md:20",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-in-their-own-words-md-l20",
+        "mem-memory-candidates-doug-billings-raw-dump-v2-md-l20",
+        "mem-memory-candidates-doug-billings-sleuth-pass-md-l20",
+        "mem-memory-candidates-doug-billings-social-harvest-md-l20"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0002",
+      "evidenceRowId": "em-doug-billings-00005",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/doug-billings/social-harvest.md:8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "This artifact was created because the candidate-completeness audit found Doug Billings in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/social-harvest.md:8",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-in-their-own-words-md-l8",
+        "mem-memory-candidates-doug-billings-raw-dump-v2-md-l8",
+        "mem-memory-candidates-doug-billings-sleuth-pass-md-l8",
+        "mem-memory-candidates-doug-billings-social-harvest-md-l8"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0003",
+      "evidenceRowId": "em-doug-billings-00012",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/doug-billings/social-harvest.md:19",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Ballot / filing status: Billings has campaign and KPDC account evidence connected to the 2026 governor race, but reporting says he was removed from the Secretary of State candidate list after a running-mate dispute. Treat final ballot status as unresolved until the final SOS list is checked.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/social-harvest.md:19",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-in-their-own-words-md-l19",
+        "mem-memory-candidates-doug-billings-raw-dump-v2-md-l19",
+        "mem-memory-candidates-doug-billings-sleuth-pass-md-l19",
+        "mem-memory-candidates-doug-billings-social-harvest-md-l19"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0004",
+      "evidenceRowId": "em-doug-billings-00014",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/doug-billings/social-harvest.md:21",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Donor / funding information: KPDC records provide a finance-report path for Billings, and reporting separately describes disputed accusations about a contribution; the candidate denied wrongdoing.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/social-harvest.md:21",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-in-their-own-words-md-l21",
+        "mem-memory-candidates-doug-billings-raw-dump-v2-md-l21",
+        "mem-memory-candidates-doug-billings-sleuth-pass-md-l21",
+        "mem-memory-candidates-doug-billings-social-harvest-md-l21"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0005",
+      "evidenceRowId": "em-doug-billings-00016",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/doug-billings/social-harvest.md:25",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/social-harvest.md:25",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-in-their-own-words-md-l25",
+        "mem-memory-candidates-doug-billings-raw-dump-v2-md-l25",
+        "mem-memory-candidates-doug-billings-sleuth-pass-md-l25",
+        "mem-memory-candidates-doug-billings-social-harvest-md-l25"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0006",
+      "evidenceRowId": "em-doug-billings-00019",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/doug-billings/social-harvest.md:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Doug Billings - social harvest",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/social-harvest.md:1",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-social-harvest-md-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0007",
+      "evidenceRowId": "em-doug-billings-00020",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/doug-billings/social-harvest.md:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Generated: 2026-05-20",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/social-harvest.md:3",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-social-harvest-md-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0008",
+      "evidenceRowId": "em-doug-billings-00021",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/doug-billings/social-harvest.md:6",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Scope",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/social-harvest.md:6",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-social-harvest-md-l6"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0009",
+      "evidenceRowId": "em-doug-billings-00022",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/doug-billings/social-harvest.md:10",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Current profile status",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/social-harvest.md:10",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-social-harvest-md-l10"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0010",
+      "evidenceRowId": "em-doug-billings-00023",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/doug-billings/social-harvest.md:12",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Slug: doug-billings",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/social-harvest.md:12",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-social-harvest-md-l12"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0011",
+      "evidenceRowId": "em-doug-billings-00025",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/doug-billings/social-harvest.md:17",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Evidence summary",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/social-harvest.md:17",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-social-harvest-md-l17"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0012",
+      "evidenceRowId": "em-doug-billings-00089",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/doug-billings/v2-issues.yaml:111",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        3,
+        5,
+        7,
+        10
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Guns / Second Amendment",
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"text\": \"Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:111",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-v2-issues-yaml-l111",
+        "mem-ui-src-data-v2-doug-billings-ts-l81"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0013",
+      "evidenceRowId": "em-doug-billings-00217",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/doug-billings.ts:61",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        3,
+        5,
+        7,
+        10
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Guns / Second Amendment",
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/doug-billings.ts:61",
+      "sourceIds": [
+        "mem-ui-src-data-v2-doug-billings-ts-l61"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0014",
+      "evidenceRowId": "em-doug-billings-00038",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/doug-billings/v2-issues.yaml:16",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        5,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"ownWordsNarrative\": \"Billings's campaign site frames him as a MAGA conservative and lists campaign pillars including Kansas sovereignty, gold and silver, trafficking, government efficiency, taxes, regulation, election integrity, education, property rights, and social-conservative themes.\",",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:16",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-v2-issues-yaml-l16",
+        "mem-ui-src-data-v2-doug-billings-ts-l133"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0015",
+      "evidenceRowId": "em-doug-billings-00109",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/doug-billings/v2-issues.yaml:170",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:170",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-v2-issues-yaml-l170"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0016",
+      "evidenceRowId": "em-doug-billings-00037",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/doug-billings/v2-issues.yaml:15",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"recordSummary\": \"The profile captures campaign-account status, candidate-controlled platform themes, and reporting about removal from the Secretary of State candidate list. It should be rechecked against the final SOS list.\",",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:15",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-v2-issues-yaml-l15",
+        "mem-ui-src-data-v2-doug-billings-ts-l132"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0017",
+      "evidenceRowId": "em-doug-billings-00040",
+      "platform": "Public web / internal harvest",
+      "actionType": "share/repost",
+      "target": "memory/candidates/doug-billings/v2-issues.yaml:18",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:18",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-v2-issues-yaml-l18"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0018",
+      "evidenceRowId": "em-doug-billings-00093",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/doug-billings/v2-issues.yaml:121",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"body\": \"The campaign site and launch reporting published candidate-controlled or candidate-attributed platform themes.\",",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:121",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-v2-issues-yaml-l121",
+        "mem-ui-src-data-v2-doug-billings-ts-l91"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0019",
+      "evidenceRowId": "em-doug-billings-00219",
+      "platform": "Public web / internal harvest",
+      "actionType": "share/repost",
+      "target": "ui/src/data/v2/doug-billings.ts:142",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/doug-billings.ts:142",
+      "sourceIds": [
+        "mem-ui-src-data-v2-doug-billings-ts-l142"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0020",
+      "evidenceRowId": "em-doug-billings-00205",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/doug-billings.ts:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/doug-billings.ts:1",
+      "sourceIds": [
+        "mem-ui-src-data-v2-doug-billings-ts-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0021",
+      "evidenceRowId": "em-doug-billings-00207",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/doug-billings.ts:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "node scripts/hydrate-v2-social-signals.mjs",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/doug-billings.ts:3",
+      "sourceIds": [
+        "mem-ui-src-data-v2-doug-billings-ts-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0022",
+      "evidenceRowId": "em-doug-billings-00212",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/doug-billings.ts:50",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Public web\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/doug-billings.ts:50",
+      "sourceIds": [
+        "mem-ui-src-data-v2-doug-billings-ts-l50",
+        "mem-ui-src-data-v2-doug-billings-ts-l60"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0023",
+      "evidenceRowId": "em-doug-billings-00009",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/doug-billings/social-harvest.md:14",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Election grouping: kansas-governor-2026",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/social-harvest.md:14",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-in-their-own-words-md-l14",
+        "mem-memory-candidates-doug-billings-raw-dump-v2-md-l14",
+        "mem-memory-candidates-doug-billings-sleuth-pass-md-l14",
+        "mem-memory-candidates-doug-billings-social-harvest-md-l14"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0024",
+      "evidenceRowId": "em-doug-billings-00003",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/doug-billings/social-harvest.md:4",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Agent: codex candidate-completeness generator",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/social-harvest.md:4",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-in-their-own-words-md-l4",
+        "mem-memory-candidates-doug-billings-raw-dump-v2-md-l4",
+        "mem-memory-candidates-doug-billings-sleuth-pass-md-l4",
+        "mem-memory-candidates-doug-billings-social-harvest-md-l4",
+        "mem-memory-candidates-doug-billings-v2-issues-yaml-l4"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0025",
+      "evidenceRowId": "em-doug-billings-00008",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/doug-billings/social-harvest.md:13",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Position: Kansas Governor candidate / campaign-finance account holder",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/social-harvest.md:13",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-in-their-own-words-md-l13",
+        "mem-memory-candidates-doug-billings-raw-dump-v2-md-l13",
+        "mem-memory-candidates-doug-billings-sleuth-pass-md-l13",
+        "mem-memory-candidates-doug-billings-social-harvest-md-l13",
+        "mem-memory-candidates-doug-billings-v2-issues-yaml-l9",
+        "mem-ui-src-data-v2-doug-billings-ts-l13"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0026",
+      "evidenceRowId": "em-doug-billings-00024",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/doug-billings/social-harvest.md:15",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Incumbent: no",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/social-harvest.md:15",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-social-harvest-md-l15"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0027",
+      "evidenceRowId": "em-doug-billings-00026",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/doug-billings/social-harvest.md:23",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Source handling",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/social-harvest.md:23",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-social-harvest-md-l23"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0028",
+      "evidenceRowId": "em-doug-billings-00087",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/doug-billings/v2-issues.yaml:108",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"i-campaign-platform\",",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:108",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-v2-issues-yaml-l108",
+        "mem-ui-src-data-v2-doug-billings-ts-l78"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0029",
+      "evidenceRowId": "em-doug-billings-00092",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/doug-billings/v2-issues.yaml:119",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"a-campaign-platform\",",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:119",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-v2-issues-yaml-l119",
+        "mem-ui-src-data-v2-doug-billings-ts-l89"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-doug-billings-0030",
+      "evidenceRowId": "em-doug-billings-00081",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/doug-billings/v2-issues.yaml:98",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"socialSignals\": [],",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:98",
+      "sourceIds": [
+        "mem-memory-candidates-doug-billings-v2-issues-yaml-l98",
+        "mem-memory-candidates-doug-billings-v2-issues-yaml-l128",
+        "mem-memory-candidates-doug-billings-v2-issues-yaml-l158",
+        "mem-ui-src-data-v2-doug-billings-ts-l47",
+        "mem-ui-src-data-v2-doug-billings-ts-l98",
+        "mem-ui-src-data-v2-doug-billings-ts-l128"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    }
+  ],
+  "issueCoverage": {
+    "1": {
+      "issue": "Abortion / life",
+      "total": 3,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 2
+    },
+    "2": {
+      "issue": "LGBT / gender / parental rights",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "3": {
+      "issue": "Education / curriculum / schools",
+      "total": 4,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 3
+    },
+    "4": {
+      "issue": "Religious liberty / church / civic morality",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "5": {
+      "issue": "Taxes / spending / debt",
+      "total": 4,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 3
+    },
+    "6": {
+      "issue": "Economy / jobs / labor",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "7": {
+      "issue": "Guns / Second Amendment",
+      "total": 3,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 2
+    },
+    "8": {
+      "issue": "Immigration / border",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "9": {
+      "issue": "Health care / insurance / Medicaid",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "10": {
+      "issue": "Election integrity / voting / courts",
+      "total": 13,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 3,
+      "ambiguous": 7
+    },
+    "11": {
+      "issue": "Public safety / law enforcement / criminal justice",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "12": {
+      "issue": "Agriculture / rural economy / water",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "13": {
+      "issue": "Local governance / transparency / ethics",
+      "total": 10,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 3,
+      "ambiguous": 5
+    },
+    "14": {
+      "issue": "Environment / energy / land use",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    }
+  },
+  "caveats": [
+    "Social evidence is signal, not fact. A follow, like, share, or platform absence is not treated as a belief or policy position.",
+    "Candidate-controlled posts and campaign pages may be used as stated positions only when the text itself says the position.",
+    "Login-walled, blocked, or inaccessible platform content is documented as a capture limitation, not as evidence of silence."
+  ]
+}

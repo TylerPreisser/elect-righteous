@@ -1,0 +1,401 @@
+{
+  "candidateSlug": "ric-koehn",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 8,
+  "sources": [
+    {
+      "sourceId": "src-ric-koehn-0001",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW03RK_AT.pdf",
+      "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:37",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ric-koehn-00045"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW03RK_AT.pdf\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-ric-koehn-0002",
+      "url": null,
+      "sourceFile": "memory/candidates/ric-koehn/social-harvest.md:20",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social follow",
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 16,
+      "rowIds": [
+        "em-ric-koehn-00013",
+        "em-ric-koehn-00012",
+        "em-ric-koehn-00005",
+        "em-ric-koehn-00014",
+        "em-ric-koehn-00016",
+        "em-ric-koehn-00019",
+        "em-ric-koehn-00020",
+        "em-ric-koehn-00021",
+        "em-ric-koehn-00022",
+        "em-ric-koehn-00023",
+        "em-ric-koehn-00025",
+        "em-ric-koehn-00008",
+        "em-ric-koehn-00009",
+        "em-ric-koehn-00003",
+        "em-ric-koehn-00024",
+        "em-ric-koehn-00026"
+      ],
+      "claimsAnchored": [
+        "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associa",
+        "Ballot / filing status: KPDC lists Ric Koehn under Insurance Commissioner candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+        "This artifact was created because the candidate-completeness audit found Ric Koehn in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+        "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+        "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+        "Ric Koehn - social harvest",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Slug: ric-koehn",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ric-koehn-0003",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:206",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court",
+        "biography",
+        "meeting record",
+        "donor/funding",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 33,
+      "rowIds": [
+        "em-ric-koehn-00109",
+        "em-ric-koehn-00108",
+        "em-ric-koehn-00110",
+        "em-ric-koehn-00111",
+        "em-ric-koehn-00112",
+        "em-ric-koehn-00099",
+        "em-ric-koehn-00083",
+        "em-ric-koehn-00084",
+        "em-ric-koehn-00093",
+        "em-ric-koehn-00095",
+        "em-ric-koehn-00097",
+        "em-ric-koehn-00103",
+        "em-ric-koehn-00101",
+        "em-ric-koehn-00102",
+        "em-ric-koehn-00085",
+        "em-ric-koehn-00086",
+        "em-ric-koehn-00087",
+        "em-ric-koehn-00088",
+        "em-ric-koehn-00089",
+        "em-ric-koehn-00090",
+        "em-ric-koehn-00091",
+        "em-ric-koehn-00092",
+        "em-ric-koehn-00094",
+        "em-ric-koehn-00096",
+        "em-ric-koehn-00098",
+        "em-ric-koehn-00100",
+        "em-ric-koehn-00104",
+        "em-ric-koehn-00113",
+        "em-ric-koehn-00114",
+        "em-ric-koehn-00107",
+        "em-ric-koehn-00106",
+        "em-ric-koehn-00105",
+        "em-ric-koehn-00115"
+      ],
+      "claimsAnchored": [
+        "\"Your state representative is one of 125 members of the Kansas House. They vote on every state law — property taxes, school funding, criminal penalties, road projects, gun laws, abortion policy, and the state budget. District 111 covers the Hays area, so this ",
+        "\"Your state representative votes on school funding, tax policy, roads, public safety, and the state laws that shape daily life in Ellis County.\",",
+        "slug: \"sboe-district-5\",",
+        "name: \"State Board of Education District 5\",",
+        "jurisdiction: \"Kansas State Board of Education District 5\",",
+        "\"The insurance commissioner regulates every insurance company doing business in Kansas. They approve or reject the rates you pay for health, auto, home, and crop insurance, investigate complaints when companies deny claims, and decide whether insurers are trea",
+        "slug: \"kansas-insurance-2026\",",
+        "name: \"Kansas Insurance Commissioner\",",
+        "\"The open-seat insurance commissioner race currently includes Daniel Hawkins and Dinah Sykes in filing rows, plus Ric Koehn in KPDC campaign-finance records.\",",
+        "\"Kansas elects its insurance commissioner, and this office touches rates, claims, consumer complaints, and company oversight. Daniel Hawkins and Dinah Sykes are confirmed in the statewide filing mirror; Ric Koehn is included from the KPDC account index until f",
+        "\"Insurance decisions affect what Kansans pay for health, auto, crop, and home coverage, and whether regulators push back when companies fail consumers.\",",
+        "status: \"Incumbent Running\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ric-koehn-0004",
+      "url": null,
+      "sourceFile": "memory/candidates/ric-koehn/v2-issues.yaml:69",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "biography",
+        "ballot status",
+        "donor/funding",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 54,
+      "rowIds": [
+        "em-ric-koehn-00065",
+        "em-ric-koehn-00081",
+        "em-ric-koehn-00032",
+        "em-ric-koehn-00034",
+        "em-ric-koehn-00035",
+        "em-ric-koehn-00036",
+        "em-ric-koehn-00042",
+        "em-ric-koehn-00047",
+        "em-ric-koehn-00054",
+        "em-ric-koehn-00061",
+        "em-ric-koehn-00033",
+        "em-ric-koehn-00037",
+        "em-ric-koehn-00052",
+        "em-ric-koehn-00067",
+        "em-ric-koehn-00070",
+        "em-ric-koehn-00078",
+        "em-ric-koehn-00080",
+        "em-ric-koehn-00082",
+        "em-ric-koehn-00040",
+        "em-ric-koehn-00056",
+        "em-ric-koehn-00057",
+        "em-ric-koehn-00069",
+        "em-ric-koehn-00072",
+        "em-ric-koehn-00075",
+        "em-ric-koehn-00007",
+        "em-ric-koehn-00027",
+        "em-ric-koehn-00028",
+        "em-ric-koehn-00029",
+        "em-ric-koehn-00030",
+        "em-ric-koehn-00031",
+        "em-ric-koehn-00038",
+        "em-ric-koehn-00039",
+        "em-ric-koehn-00041",
+        "em-ric-koehn-00044",
+        "em-ric-koehn-00053",
+        "em-ric-koehn-00058",
+        "em-ric-koehn-00060",
+        "em-ric-koehn-00064",
+        "em-ric-koehn-00073",
+        "em-ric-koehn-00074",
+        "em-ric-koehn-00076",
+        "em-ric-koehn-00077",
+        "em-ric-koehn-00079",
+        "em-ric-koehn-00051",
+        "em-ric-koehn-00043",
+        "em-ric-koehn-00048",
+        "em-ric-koehn-00068",
+        "em-ric-koehn-00050",
+        "em-ric-koehn-00055",
+        "em-ric-koehn-00059"
+      ],
+      "claimsAnchored": [
+        "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+        "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+        "\"electionSlug\": \"kansas-insurance-2026\",",
+        "\"occupation\": \"Insurance Commissioner candidate / campaign-finance account holder\",",
+        "\"whoTheyAre\": \"Ric Koehn appears in KPDC's statewide campaign-finance index under Insurance Commissioner candidates. This pass did not verify a current statewide filing-row entry.\",",
+        "\"recordSummary\": \"This profile keeps the insurance-race roster complete against KPDC account data while distinguishing account status from final ballot status.\",",
+        "\"KPDC index lists Koehn, Ric under Insurance Commissioner candidates\"",
+        "\"Appointment-of-treasurer report identifies Insurance Commissioner as the office sought\"",
+        "\"text\": \"KPDC lists Ric Koehn under Insurance Commissioner candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+        "\"body\": \"Ric Koehn was identified in the reviewed official or campaign-finance source for Kansas Insurance Commissioner campaign-finance account holder.\",",
+        "\"incumbent\": false,",
+        "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ric-koehn-0005",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/ric-koehn.ts:77",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "donor/funding",
+        "ballot status",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 26,
+      "rowIds": [
+        "em-ric-koehn-00127",
+        "em-ric-koehn-00124",
+        "em-ric-koehn-00046",
+        "em-ric-koehn-00126",
+        "em-ric-koehn-00129",
+        "em-ric-koehn-00132",
+        "em-ric-koehn-00130",
+        "em-ric-koehn-00049",
+        "em-ric-koehn-00116",
+        "em-ric-koehn-00117",
+        "em-ric-koehn-00118",
+        "em-ric-koehn-00119",
+        "em-ric-koehn-00120",
+        "em-ric-koehn-00121",
+        "em-ric-koehn-00123",
+        "em-ric-koehn-00125",
+        "em-ric-koehn-00128",
+        "em-ric-koehn-00131",
+        "em-ric-koehn-00133",
+        "em-ric-koehn-00134",
+        "em-ric-koehn-00135",
+        "em-ric-koehn-00136",
+        "em-ric-koehn-00137",
+        "em-ric-koehn-00138",
+        "em-ric-koehn-00139",
+        "em-ric-koehn-00122"
+      ],
+      "claimsAnchored": [
+        "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comm",
+        "\"observation\": \"Ballot / filing status: KPDC lists Ric Koehn under Insurance Commissioner candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+        "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+        "\"mappedToIssueId\": \"i-ballot-status\"",
+        "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+        "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+        "\"mappedToIssueId\": \"i-donor-funding\"",
+        "\"title\": \"Ric Koehn Appointment of Treasurer\",",
+        "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+        "To refresh:",
+        "node scripts/hydrate-v2-social-signals.mjs",
+        "import type { CandidateFullV2 } from \"@/data/types-v2\";"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ric-koehn-0006",
+      "url": null,
+      "sourceFile": "memory/candidates/ric-koehn/in-their-own-words.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-ric-koehn-00001",
+        "em-ric-koehn-00002",
+        "em-ric-koehn-00004",
+        "em-ric-koehn-00006",
+        "em-ric-koehn-00011",
+        "em-ric-koehn-00010",
+        "em-ric-koehn-00015"
+      ],
+      "claimsAnchored": [
+        "Ric Koehn - in their own words",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ric-koehn-0007",
+      "url": null,
+      "sourceFile": "memory/candidates/ric-koehn/raw-dump-v2.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ric-koehn-00017"
+      ],
+      "claimsAnchored": [
+        "Ric Koehn - raw dump v2"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-ric-koehn-0008",
+      "url": null,
+      "sourceFile": "memory/candidates/ric-koehn/sleuth-pass.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-ric-koehn-00018"
+      ],
+      "claimsAnchored": [
+        "Ric Koehn - sleuth pass"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    }
+  ]
+}

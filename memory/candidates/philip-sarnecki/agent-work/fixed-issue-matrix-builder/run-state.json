@@ -1,0 +1,31 @@
+{
+  "agent_id": "fixed-issue-matrix-builder",
+  "agent_role": "Issue-by-issue content builder",
+  "candidate_slug": "philip-sarnecki",
+  "phase": "3",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/philip-sarnecki/evidence-matrix.json",
+    "memory/candidates/philip-sarnecki/social-evidence-matrix.json",
+    "memory/candidates/philip-sarnecki/source-audit.json"
+  ],
+  "files_written": [
+    "memory/candidates/philip-sarnecki/issue-matrix.md",
+    "memory/candidates/philip-sarnecki/fixed-issue-matrix.json",
+    "memory/candidates/philip-sarnecki/v2-issues.yaml",
+    "memory/candidates/philip-sarnecki/agent-work/fixed-issue-matrix-builder/run-state.json",
+    "memory/candidates/philip-sarnecki/agent-work/fixed-issue-matrix-builder/notes.md",
+    "memory/candidates/philip-sarnecki/agent-work/fixed-issue-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-fixed-issue-matrix.mjs philip-sarnecki"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run biography/record/funding/faith/profile assembler passes for philip-sarnecki."
+  ],
+  "handoff_summary": "Built fixed 14-issue matrix for philip-sarnecki."
+}

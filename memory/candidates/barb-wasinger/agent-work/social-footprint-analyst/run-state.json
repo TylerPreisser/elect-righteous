@@ -1,0 +1,31 @@
+{
+  "agent_id": "social-footprint-analyst",
+  "agent_role": "Social media intelligence analyst",
+  "candidate_slug": "barb-wasinger",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/barb-wasinger/social-harvest.md",
+    "memory/candidates/barb-wasinger/evidence-matrix.json",
+    "memory/candidates/barb-wasinger/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/barb-wasinger/social-evidence-matrix.json",
+    "memory/candidates/barb-wasinger/social-analysis.md",
+    "memory/candidates/barb-wasinger/agent-work/social-footprint-analyst/run-state.json",
+    "memory/candidates/barb-wasinger/agent-work/social-footprint-analyst/notes.md",
+    "memory/candidates/barb-wasinger/agent-work/social-footprint-analyst/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs barb-wasinger"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run source-tier-validator for barb-wasinger.",
+    "Run fixed-issue-matrix-builder for barb-wasinger after source validation."
+  ],
+  "handoff_summary": "Classified 231 social/online observations for barb-wasinger."
+}

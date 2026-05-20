@@ -1,0 +1,31 @@
+{
+  "agent_id": "fixed-issue-matrix-builder",
+  "agent_role": "Issue-by-issue content builder",
+  "candidate_slug": "sandy-spidel-neumann",
+  "phase": "3",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/sandy-spidel-neumann/evidence-matrix.json",
+    "memory/candidates/sandy-spidel-neumann/social-evidence-matrix.json",
+    "memory/candidates/sandy-spidel-neumann/source-audit.json"
+  ],
+  "files_written": [
+    "memory/candidates/sandy-spidel-neumann/issue-matrix.md",
+    "memory/candidates/sandy-spidel-neumann/fixed-issue-matrix.json",
+    "memory/candidates/sandy-spidel-neumann/v2-issues.yaml",
+    "memory/candidates/sandy-spidel-neumann/agent-work/fixed-issue-matrix-builder/run-state.json",
+    "memory/candidates/sandy-spidel-neumann/agent-work/fixed-issue-matrix-builder/notes.md",
+    "memory/candidates/sandy-spidel-neumann/agent-work/fixed-issue-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-fixed-issue-matrix.mjs sandy-spidel-neumann"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run biography/record/funding/faith/profile assembler passes for sandy-spidel-neumann."
+  ],
+  "handoff_summary": "Built fixed 14-issue matrix for sandy-spidel-neumann."
+}

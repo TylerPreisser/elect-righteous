@@ -1,0 +1,4817 @@
+[
+  {
+    "id": "em-brandon-adams-00045",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:37",
+    "sourceUrl": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01BA_AT.pdf",
+    "sourceTier": "primary",
+    "evidenceType": "legal/court",
+    "issueMappedTo": [
+      10,
+      11
+    ],
+    "claim": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01BA_AT.pdf\",",
+    "exactEvidenceSummary": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01BA_AT.pdf\",",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Usable as sourced evidence; best available row has primary tier support. Deduplicated from 4 raw rows.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l26",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l37",
+      "mem-ui-src-data-v2-brandon-adams-ts-l135",
+      "mem-ui-src-data-v2-brandon-adams-ts-l146"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00090",
+      "raw-brandon-adams-00101",
+      "raw-brandon-adams-00370",
+      "raw-brandon-adams-00381"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [
+      "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01BA_AT.pdf"
+    ],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:26",
+      "memory/candidates/brandon-adams/v2-issues.yaml:37",
+      "ui/src/data/v2/brandon-adams.ts:135",
+      "ui/src/data/v2/brandon-adams.ts:146"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00013",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/social-harvest.md:20",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social follow",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+    "exactEvidenceSummary": "- Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-in-their-own-words-md-l20",
+      "mem-memory-candidates-brandon-adams-raw-dump-v2-md-l20",
+      "mem-memory-candidates-brandon-adams-sleuth-pass-md-l20",
+      "mem-memory-candidates-brandon-adams-social-harvest-md-l20"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00013",
+      "raw-brandon-adams-00029",
+      "raw-brandon-adams-00045",
+      "raw-brandon-adams-00061"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/in-their-own-words.md:20",
+      "memory/candidates/brandon-adams/raw-dump-v2.md:20",
+      "memory/candidates/brandon-adams/sleuth-pass.md:20",
+      "memory/candidates/brandon-adams/social-harvest.md:20"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00005",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/social-harvest.md:8",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "This artifact was created because the candidate-completeness audit found Brandon Adams in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+    "exactEvidenceSummary": "This artifact was created because the candidate-completeness audit found Brandon Adams in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-in-their-own-words-md-l8",
+      "mem-memory-candidates-brandon-adams-raw-dump-v2-md-l8",
+      "mem-memory-candidates-brandon-adams-sleuth-pass-md-l8",
+      "mem-memory-candidates-brandon-adams-social-harvest-md-l8"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00005",
+      "raw-brandon-adams-00021",
+      "raw-brandon-adams-00037",
+      "raw-brandon-adams-00053"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/in-their-own-words.md:8",
+      "memory/candidates/brandon-adams/raw-dump-v2.md:8",
+      "memory/candidates/brandon-adams/sleuth-pass.md:8",
+      "memory/candidates/brandon-adams/social-harvest.md:8"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00012",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/social-harvest.md:19",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Ballot / filing status: KPDC lists Brandon Adams under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+    "exactEvidenceSummary": "- Ballot / filing status: KPDC lists Brandon Adams under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-in-their-own-words-md-l19",
+      "mem-memory-candidates-brandon-adams-raw-dump-v2-md-l19",
+      "mem-memory-candidates-brandon-adams-sleuth-pass-md-l19",
+      "mem-memory-candidates-brandon-adams-social-harvest-md-l19"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00012",
+      "raw-brandon-adams-00028",
+      "raw-brandon-adams-00044",
+      "raw-brandon-adams-00060"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/in-their-own-words.md:19",
+      "memory/candidates/brandon-adams/raw-dump-v2.md:19",
+      "memory/candidates/brandon-adams/sleuth-pass.md:19",
+      "memory/candidates/brandon-adams/social-harvest.md:19"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00014",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/social-harvest.md:21",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+    "exactEvidenceSummary": "- Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-in-their-own-words-md-l21",
+      "mem-memory-candidates-brandon-adams-raw-dump-v2-md-l21",
+      "mem-memory-candidates-brandon-adams-sleuth-pass-md-l21",
+      "mem-memory-candidates-brandon-adams-social-harvest-md-l21"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00014",
+      "raw-brandon-adams-00030",
+      "raw-brandon-adams-00046",
+      "raw-brandon-adams-00062"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/in-their-own-words.md:21",
+      "memory/candidates/brandon-adams/raw-dump-v2.md:21",
+      "memory/candidates/brandon-adams/sleuth-pass.md:21",
+      "memory/candidates/brandon-adams/social-harvest.md:21"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00016",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/social-harvest.md:25",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+    "exactEvidenceSummary": "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-in-their-own-words-md-l25",
+      "mem-memory-candidates-brandon-adams-raw-dump-v2-md-l25",
+      "mem-memory-candidates-brandon-adams-sleuth-pass-md-l25",
+      "mem-memory-candidates-brandon-adams-social-harvest-md-l25"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00016",
+      "raw-brandon-adams-00032",
+      "raw-brandon-adams-00048",
+      "raw-brandon-adams-00064"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/in-their-own-words.md:25",
+      "memory/candidates/brandon-adams/raw-dump-v2.md:25",
+      "memory/candidates/brandon-adams/sleuth-pass.md:25",
+      "memory/candidates/brandon-adams/social-harvest.md:25"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00019",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/social-harvest.md:1",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Brandon Adams - social harvest",
+    "exactEvidenceSummary": "# Brandon Adams - social harvest",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-social-harvest-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00049"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/social-harvest.md:1"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00020",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/social-harvest.md:3",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Generated: 2026-05-20",
+    "exactEvidenceSummary": "Generated: 2026-05-20",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-social-harvest-md-l3"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00050"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/social-harvest.md:3"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00021",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/social-harvest.md:6",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Scope",
+    "exactEvidenceSummary": "## Scope",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-social-harvest-md-l6"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00052"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/social-harvest.md:6"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00022",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/social-harvest.md:10",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Current profile status",
+    "exactEvidenceSummary": "## Current profile status",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-social-harvest-md-l10"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00054"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/social-harvest.md:10"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00023",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/social-harvest.md:12",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Slug: brandon-adams",
+    "exactEvidenceSummary": "- Slug: brandon-adams",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-social-harvest-md-l12"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00055"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/social-harvest.md:12"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00025",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/social-harvest.md:17",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Evidence summary",
+    "exactEvidenceSummary": "## Evidence summary",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-social-harvest-md-l17"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00059"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/social-harvest.md:17"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00106",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:109",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      3,
+      5,
+      9
+    ],
+    "claim": "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+    "exactEvidenceSummary": "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l109"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00216"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:109"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00065",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:69",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l69",
+      "mem-ui-src-data-v2-brandon-adams-ts-l56"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00133",
+      "raw-brandon-adams-00291"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:69",
+      "ui/src/data/v2/brandon-adams.ts:56"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00081",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:124",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l124"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00188"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:124"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00133",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:77",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l77"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00312"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:77"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00108",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:111",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      5,
+      9
+    ],
+    "claim": "\"The governor is the boss of Kansas state government. They sign or veto every law the legislature passes, write the state budget, appoint the heads of state agencies, and set the direction on taxes, schools, roads, and healthcare. When there's a disaster, a crisis, or a big policy fight, the governor is the person making the call. Think of it as the CEO of the state.\",",
+    "exactEvidenceSummary": "\"The governor is the boss of Kansas state government. They sign or veto every law the legislature passes, write the state budget, appoint the heads of state agencies, and set the direction on taxes, schools, roads, and healthcare. When there's a disaster, a crisis, or a big policy fight, the governor is the person making the call. Think of it as the CEO of the state.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l111"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00218"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:111"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00033",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:11",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"incumbent\": false,",
+    "exactEvidenceSummary": "\"incumbent\": false,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l11",
+      "mem-ui-src-data-v2-brandon-adams-ts-l15"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00075",
+      "raw-brandon-adams-00250"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:11",
+      "ui/src/data/v2/brandon-adams.ts:15"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00034",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:12",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"occupation\": \"Governor candidate / campaign-finance account holder\",",
+    "exactEvidenceSummary": "\"occupation\": \"Governor candidate / campaign-finance account holder\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l12",
+      "mem-ui-src-data-v2-brandon-adams-ts-l16"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00076",
+      "raw-brandon-adams-00251"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:12",
+      "ui/src/data/v2/brandon-adams.ts:16"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00035",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:13",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"whoTheyAre\": \"Brandon Adams appears in KPDC's 2026 statewide campaign-finance index under gubernatorial candidates. Party and final ballot status were not confirmed in the reviewed filing mirror.\",",
+    "exactEvidenceSummary": "\"whoTheyAre\": \"Brandon Adams appears in KPDC's 2026 statewide campaign-finance index under gubernatorial candidates. Party and final ballot status were not confirmed in the reviewed filing mirror.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l13",
+      "mem-ui-src-data-v2-brandon-adams-ts-l121"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00077",
+      "raw-brandon-adams-00356"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:13",
+      "ui/src/data/v2/brandon-adams.ts:121"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00036",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:14",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"recordSummary\": \"This profile exists so the site does not miss a public campaign-finance account connected to the governor race. It should remain clearly marked as finance-account confirmed, not final-ballot confirmed.\",",
+    "exactEvidenceSummary": "\"recordSummary\": \"This profile exists so the site does not miss a public campaign-finance account connected to the governor race. It should remain clearly marked as finance-account confirmed, not final-ballot confirmed.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l14",
+      "mem-ui-src-data-v2-brandon-adams-ts-l122"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00078",
+      "raw-brandon-adams-00357"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:14",
+      "ui/src/data/v2/brandon-adams.ts:122"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00037",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:15",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+    "exactEvidenceSummary": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l15"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00079"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:15"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00046",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:136",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "exactEvidenceSummary": "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l27",
+      "mem-ui-src-data-v2-brandon-adams-ts-l136"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00091",
+      "raw-brandon-adams-00371"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:27",
+      "ui/src/data/v2/brandon-adams.ts:136"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00052",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:44",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"title\": \"Ballot / filing status\",",
+    "exactEvidenceSummary": "\"title\": \"Ballot / filing status\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l44",
+      "mem-ui-src-data-v2-brandon-adams-ts-l20"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00108",
+      "raw-brandon-adams-00255"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:44",
+      "ui/src/data/v2/brandon-adams.ts:20"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00054",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:46",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"text\": \"KPDC lists Brandon Adams under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+    "exactEvidenceSummary": "\"text\": \"KPDC lists Brandon Adams under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l46",
+      "mem-ui-src-data-v2-brandon-adams-ts-l22"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00110",
+      "raw-brandon-adams-00257"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:46",
+      "ui/src/data/v2/brandon-adams.ts:22"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00061",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:56",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"body\": \"Brandon Adams was identified in the reviewed official or campaign-finance source for Kansas Governor campaign-finance account holder.\",",
+    "exactEvidenceSummary": "\"body\": \"Brandon Adams was identified in the reviewed official or campaign-finance source for Kansas Governor campaign-finance account holder.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l56",
+      "mem-ui-src-data-v2-brandon-adams-ts-l32"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00120",
+      "raw-brandon-adams-00267"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:56",
+      "ui/src/data/v2/brandon-adams.ts:32"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00067",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:79",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+    "exactEvidenceSummary": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l79",
+      "mem-ui-src-data-v2-brandon-adams-ts-l66"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00143",
+      "raw-brandon-adams-00301"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:79",
+      "ui/src/data/v2/brandon-adams.ts:66"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00070",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:92",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "exactEvidenceSummary": "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l92",
+      "mem-ui-src-data-v2-brandon-adams-ts-l90"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00156",
+      "raw-brandon-adams-00325"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:92",
+      "ui/src/data/v2/brandon-adams.ts:90"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00078",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:117",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"source\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "exactEvidenceSummary": "\"source\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l117",
+      "mem-ui-src-data-v2-brandon-adams-ts-l128"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00181",
+      "raw-brandon-adams-00363"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:117",
+      "ui/src/data/v2/brandon-adams.ts:128"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00080",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:123",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.\",",
+    "exactEvidenceSummary": "\"Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l123"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00187"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:123"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00082",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:125",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication.\"",
+    "exactEvidenceSummary": "\"Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication.\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l125"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00189"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:125"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00102",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:105",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"With Laura Kelly term-limited, both parties and multiple campaign-account holders are building a large field for one of the most important open-seat races in Kansas politics.\",",
+    "exactEvidenceSummary": "\"With Laura Kelly term-limited, both parties and multiple campaign-account holders are building a large field for one of the most important open-seat races in Kansas politics.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l105"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00212"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:105"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00104",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:107",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.\",",
+    "exactEvidenceSummary": "\"Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l107"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00214"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:107"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00115",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:120",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "status: \"Incumbent Running\",",
+    "exactEvidenceSummary": "status: \"Incumbent Running\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l120"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00227"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:120"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00120",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:128",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "legal/court",
+    "issueMappedTo": [
+      10,
+      11,
+      13
+    ],
+    "claim": "\"This office decides which lawsuits Kansas joins, which criminal or civil fights get statewide attention, and how aggressively state law is enforced in court.\",",
+    "exactEvidenceSummary": "\"This office decides which lawsuits Kansas joins, which criminal or civil fights get statewide attention, and how aggressively state law is enforced in court.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l128"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00235"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:128"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00121",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:130",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "legal/court",
+    "issueMappedTo": [
+      10,
+      11,
+      13
+    ],
+    "claim": "\"The attorney general is Kansas's top lawyer. They decide which lawsuits the state files or joins, prosecute major crimes that cross county lines, protect consumers from scams, and defend or challenge state laws in court. If a company rips off Kansans, if there's a statewide criminal case, or if Kansas sues the federal government, this is the person running that fight.\",",
+    "exactEvidenceSummary": "\"The attorney general is Kansas's top lawyer. They decide which lawsuits the state files or joins, prosecute major crimes that cross county lines, protect consumers from scams, and defend or challenge state laws in court. If a company rips off Kansans, if there's a statewide criminal case, or if Kansas sues the federal government, this is the person running that fight.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l130"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00237"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:130"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00130",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:43",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"observation\": \"Ballot / filing status: KPDC lists Brandon Adams under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+    "exactEvidenceSummary": "\"observation\": \"Ballot / filing status: KPDC lists Brandon Adams under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l43"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00278"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:43"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00132",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:48",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"mappedToIssueId\": \"i-ballot-status\"",
+    "exactEvidenceSummary": "\"mappedToIssueId\": \"i-ballot-status\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l48"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00283"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:48"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00135",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:111",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "exactEvidenceSummary": "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l111"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00346"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:111"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00138",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:130",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+    "exactEvidenceSummary": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l130"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00365"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:130"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00040",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:20",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"publisher\": \"Kansas Governmental Ethics Commission / KPDC\",",
+    "exactEvidenceSummary": "\"publisher\": \"Kansas Governmental Ethics Commission / KPDC\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l20",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l31",
+      "mem-ui-src-data-v2-brandon-adams-ts-l137",
+      "mem-ui-src-data-v2-brandon-adams-ts-l148"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00084",
+      "raw-brandon-adams-00095",
+      "raw-brandon-adams-00372",
+      "raw-brandon-adams-00383"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:20",
+      "memory/candidates/brandon-adams/v2-issues.yaml:31",
+      "ui/src/data/v2/brandon-adams.ts:137",
+      "ui/src/data/v2/brandon-adams.ts:148"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00042",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:22",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"KPDC index lists Adams, Brandon under gubernatorial candidates\"",
+    "exactEvidenceSummary": "\"KPDC index lists Adams, Brandon under gubernatorial candidates\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l22",
+      "mem-ui-src-data-v2-brandon-adams-ts-l140"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00086",
+      "raw-brandon-adams-00375"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:22",
+      "ui/src/data/v2/brandon-adams.ts:140"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00047",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:33",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"Appointment-of-treasurer report identifies Governor as the office sought\"",
+    "exactEvidenceSummary": "\"Appointment-of-treasurer report identifies Governor as the office sought\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l33",
+      "mem-ui-src-data-v2-brandon-adams-ts-l151"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00097",
+      "raw-brandon-adams-00386"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:33",
+      "ui/src/data/v2/brandon-adams.ts:151"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00056",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:48",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"s-kpdc-statewide\",",
+    "exactEvidenceSummary": "\"s-kpdc-statewide\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l48",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l58",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l71",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l81",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l94",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l104",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l119",
+      "mem-ui-src-data-v2-brandon-adams-ts-l24",
+      "mem-ui-src-data-v2-brandon-adams-ts-l34",
+      "mem-ui-src-data-v2-brandon-adams-ts-l46",
+      "mem-ui-src-data-v2-brandon-adams-ts-l58",
+      "mem-ui-src-data-v2-brandon-adams-ts-l68",
+      "mem-ui-src-data-v2-brandon-adams-ts-l80",
+      "mem-ui-src-data-v2-brandon-adams-ts-l92",
+      "mem-ui-src-data-v2-brandon-adams-ts-l102",
+      "mem-ui-src-data-v2-brandon-adams-ts-l114"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00112",
+      "raw-brandon-adams-00122",
+      "raw-brandon-adams-00135",
+      "raw-brandon-adams-00145",
+      "raw-brandon-adams-00158",
+      "raw-brandon-adams-00168",
+      "raw-brandon-adams-00183",
+      "raw-brandon-adams-00259",
+      "raw-brandon-adams-00269",
+      "raw-brandon-adams-00281",
+      "raw-brandon-adams-00293",
+      "raw-brandon-adams-00303",
+      "raw-brandon-adams-00315",
+      "raw-brandon-adams-00327",
+      "raw-brandon-adams-00337",
+      "raw-brandon-adams-00349"
+    ],
+    "duplicateCount": 16,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:48",
+      "memory/candidates/brandon-adams/v2-issues.yaml:58",
+      "memory/candidates/brandon-adams/v2-issues.yaml:71",
+      "memory/candidates/brandon-adams/v2-issues.yaml:81",
+      "memory/candidates/brandon-adams/v2-issues.yaml:94",
+      "memory/candidates/brandon-adams/v2-issues.yaml:104",
+      "memory/candidates/brandon-adams/v2-issues.yaml:119",
+      "ui/src/data/v2/brandon-adams.ts:24",
+      "ui/src/data/v2/brandon-adams.ts:34",
+      "ui/src/data/v2/brandon-adams.ts:46",
+      "ui/src/data/v2/brandon-adams.ts:58",
+      "ui/src/data/v2/brandon-adams.ts:68",
+      "ui/src/data/v2/brandon-adams.ts:80",
+      "ui/src/data/v2/brandon-adams.ts:92",
+      "ui/src/data/v2/brandon-adams.ts:102",
+      "ui/src/data/v2/brandon-adams.ts:114"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00057",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:49",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"s-kpdc-at\"",
+    "exactEvidenceSummary": "\"s-kpdc-at\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l49",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l59",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l72",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l82",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l95",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l105",
+      "mem-ui-src-data-v2-brandon-adams-ts-l25",
+      "mem-ui-src-data-v2-brandon-adams-ts-l35",
+      "mem-ui-src-data-v2-brandon-adams-ts-l59",
+      "mem-ui-src-data-v2-brandon-adams-ts-l69",
+      "mem-ui-src-data-v2-brandon-adams-ts-l93",
+      "mem-ui-src-data-v2-brandon-adams-ts-l103"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00113",
+      "raw-brandon-adams-00123",
+      "raw-brandon-adams-00136",
+      "raw-brandon-adams-00146",
+      "raw-brandon-adams-00159",
+      "raw-brandon-adams-00169",
+      "raw-brandon-adams-00260",
+      "raw-brandon-adams-00270",
+      "raw-brandon-adams-00294",
+      "raw-brandon-adams-00304",
+      "raw-brandon-adams-00328",
+      "raw-brandon-adams-00338"
+    ],
+    "duplicateCount": 12,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:49",
+      "memory/candidates/brandon-adams/v2-issues.yaml:59",
+      "memory/candidates/brandon-adams/v2-issues.yaml:72",
+      "memory/candidates/brandon-adams/v2-issues.yaml:82",
+      "memory/candidates/brandon-adams/v2-issues.yaml:95",
+      "memory/candidates/brandon-adams/v2-issues.yaml:105",
+      "ui/src/data/v2/brandon-adams.ts:25",
+      "ui/src/data/v2/brandon-adams.ts:35",
+      "ui/src/data/v2/brandon-adams.ts:59",
+      "ui/src/data/v2/brandon-adams.ts:69",
+      "ui/src/data/v2/brandon-adams.ts:93",
+      "ui/src/data/v2/brandon-adams.ts:103"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00069",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:90",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"title\": \"Donor / funding information\",",
+    "exactEvidenceSummary": "\"title\": \"Donor / funding information\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l90",
+      "mem-ui-src-data-v2-brandon-adams-ts-l88"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00154",
+      "raw-brandon-adams-00323"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:90",
+      "ui/src/data/v2/brandon-adams.ts:88"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00072",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:102",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"body\": \"The reviewed finance source confirms either a campaign-finance account, committee record, or no itemized summary yet; final donor detail needs the next public report if one is not already posted.\",",
+    "exactEvidenceSummary": "\"body\": \"The reviewed finance source confirms either a campaign-finance account, committee record, or no itemized summary yet; final donor detail needs the next public report if one is not already posted.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l102",
+      "mem-ui-src-data-v2-brandon-adams-ts-l100"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00166",
+      "raw-brandon-adams-00335"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:102",
+      "ui/src/data/v2/brandon-adams.ts:100"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00075",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:114",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"narrative\": \"No donor-by-donor public finance interpretation is made from the available records in this pass.\",",
+    "exactEvidenceSummary": "\"narrative\": \"No donor-by-donor public finance interpretation is made from the available records in this pass.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l114",
+      "mem-ui-src-data-v2-brandon-adams-ts-l125"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00178",
+      "raw-brandon-adams-00360"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:114",
+      "ui/src/data/v2/brandon-adams.ts:125"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00136",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:116",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"mappedToIssueId\": \"i-donor-funding\"",
+    "exactEvidenceSummary": "\"mappedToIssueId\": \"i-donor-funding\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l116"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00351"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:116"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00001",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/in-their-own-words.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Brandon Adams - in their own words",
+    "exactEvidenceSummary": "# Brandon Adams - in their own words",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-in-their-own-words-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00001"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/in-their-own-words.md:1"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00002",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/in-their-own-words.md:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Generated: 2026-05-20",
+    "exactEvidenceSummary": "Generated: 2026-05-20",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-in-their-own-words-md-l3",
+      "mem-memory-candidates-brandon-adams-raw-dump-v2-md-l3",
+      "mem-memory-candidates-brandon-adams-sleuth-pass-md-l3"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00002",
+      "raw-brandon-adams-00018",
+      "raw-brandon-adams-00034"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/in-their-own-words.md:3",
+      "memory/candidates/brandon-adams/raw-dump-v2.md:3",
+      "memory/candidates/brandon-adams/sleuth-pass.md:3"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00004",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/in-their-own-words.md:6",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Scope",
+    "exactEvidenceSummary": "## Scope",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-in-their-own-words-md-l6",
+      "mem-memory-candidates-brandon-adams-raw-dump-v2-md-l6",
+      "mem-memory-candidates-brandon-adams-sleuth-pass-md-l6"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00004",
+      "raw-brandon-adams-00020",
+      "raw-brandon-adams-00036"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/in-their-own-words.md:6",
+      "memory/candidates/brandon-adams/raw-dump-v2.md:6",
+      "memory/candidates/brandon-adams/sleuth-pass.md:6"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00006",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/in-their-own-words.md:10",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Current profile status",
+    "exactEvidenceSummary": "## Current profile status",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-in-their-own-words-md-l10",
+      "mem-memory-candidates-brandon-adams-raw-dump-v2-md-l10",
+      "mem-memory-candidates-brandon-adams-sleuth-pass-md-l10"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00006",
+      "raw-brandon-adams-00022",
+      "raw-brandon-adams-00038"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/in-their-own-words.md:10",
+      "memory/candidates/brandon-adams/raw-dump-v2.md:10",
+      "memory/candidates/brandon-adams/sleuth-pass.md:10"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00007",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:2",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"slug\": \"brandon-adams\",",
+    "exactEvidenceSummary": "\"slug\": \"brandon-adams\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-in-their-own-words-md-l12",
+      "mem-memory-candidates-brandon-adams-raw-dump-v2-md-l12",
+      "mem-memory-candidates-brandon-adams-sleuth-pass-md-l12",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l2",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l6",
+      "mem-ui-src-data-v2-brandon-adams-ts-l10"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00007",
+      "raw-brandon-adams-00023",
+      "raw-brandon-adams-00039",
+      "raw-brandon-adams-00066",
+      "raw-brandon-adams-00070",
+      "raw-brandon-adams-00245"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/in-their-own-words.md:12",
+      "memory/candidates/brandon-adams/raw-dump-v2.md:12",
+      "memory/candidates/brandon-adams/sleuth-pass.md:12",
+      "memory/candidates/brandon-adams/v2-issues.yaml:2",
+      "memory/candidates/brandon-adams/v2-issues.yaml:6",
+      "ui/src/data/v2/brandon-adams.ts:10"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00011",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/in-their-own-words.md:17",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Evidence summary",
+    "exactEvidenceSummary": "## Evidence summary",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-in-their-own-words-md-l17",
+      "mem-memory-candidates-brandon-adams-raw-dump-v2-md-l17",
+      "mem-memory-candidates-brandon-adams-sleuth-pass-md-l17"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00011",
+      "raw-brandon-adams-00027",
+      "raw-brandon-adams-00043"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/in-their-own-words.md:17",
+      "memory/candidates/brandon-adams/raw-dump-v2.md:17",
+      "memory/candidates/brandon-adams/sleuth-pass.md:17"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00017",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/raw-dump-v2.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Brandon Adams - raw dump v2",
+    "exactEvidenceSummary": "# Brandon Adams - raw dump v2",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-raw-dump-v2-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00017"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/raw-dump-v2.md:1"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00018",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/sleuth-pass.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Brandon Adams - sleuth pass",
+    "exactEvidenceSummary": "# Brandon Adams - sleuth pass",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-sleuth-pass-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00033"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/sleuth-pass.md:1"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00027",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:16",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "},",
+    "exactEvidenceSummary": "},",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l1",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l16",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l18",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l23",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l28",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l29",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l34",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l39",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l40",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l42",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l50",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l51",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l53",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l60",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l61",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l62",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l64",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l65",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l73",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l74",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l76",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l83",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l84",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l85",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l87",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l88",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l96",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l97",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l99",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l106",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l107",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l108",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l110",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l111",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l120",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l121",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l126",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l127",
+      "mem-ui-src-data-elections-ts-l103",
+      "mem-ui-src-data-elections-ts-l112",
+      "mem-ui-src-data-elections-ts-l113",
+      "mem-ui-src-data-v2-brandon-adams-ts-l4",
+      "mem-ui-src-data-v2-brandon-adams-ts-l18",
+      "mem-ui-src-data-v2-brandon-adams-ts-l26",
+      "mem-ui-src-data-v2-brandon-adams-ts-l27",
+      "mem-ui-src-data-v2-brandon-adams-ts-l29",
+      "mem-ui-src-data-v2-brandon-adams-ts-l36",
+      "mem-ui-src-data-v2-brandon-adams-ts-l37",
+      "mem-ui-src-data-v2-brandon-adams-ts-l38",
+      "mem-ui-src-data-v2-brandon-adams-ts-l40",
+      "mem-ui-src-data-v2-brandon-adams-ts-l47",
+      "mem-ui-src-data-v2-brandon-adams-ts-l49",
+      "mem-ui-src-data-v2-brandon-adams-ts-l50",
+      "mem-ui-src-data-v2-brandon-adams-ts-l51",
+      "mem-ui-src-data-v2-brandon-adams-ts-l52",
+      "mem-ui-src-data-v2-brandon-adams-ts-l60",
+      "mem-ui-src-data-v2-brandon-adams-ts-l61",
+      "mem-ui-src-data-v2-brandon-adams-ts-l63",
+      "mem-ui-src-data-v2-brandon-adams-ts-l70",
+      "mem-ui-src-data-v2-brandon-adams-ts-l71",
+      "mem-ui-src-data-v2-brandon-adams-ts-l72",
+      "mem-ui-src-data-v2-brandon-adams-ts-l74",
+      "mem-ui-src-data-v2-brandon-adams-ts-l81",
+      "mem-ui-src-data-v2-brandon-adams-ts-l83",
+      "mem-ui-src-data-v2-brandon-adams-ts-l84",
+      "mem-ui-src-data-v2-brandon-adams-ts-l85",
+      "mem-ui-src-data-v2-brandon-adams-ts-l86",
+      "mem-ui-src-data-v2-brandon-adams-ts-l94",
+      "mem-ui-src-data-v2-brandon-adams-ts-l95",
+      "mem-ui-src-data-v2-brandon-adams-ts-l97",
+      "mem-ui-src-data-v2-brandon-adams-ts-l104",
+      "mem-ui-src-data-v2-brandon-adams-ts-l105",
+      "mem-ui-src-data-v2-brandon-adams-ts-l106",
+      "mem-ui-src-data-v2-brandon-adams-ts-l108",
+      "mem-ui-src-data-v2-brandon-adams-ts-l115",
+      "mem-ui-src-data-v2-brandon-adams-ts-l117",
+      "mem-ui-src-data-v2-brandon-adams-ts-l118",
+      "mem-ui-src-data-v2-brandon-adams-ts-l119",
+      "mem-ui-src-data-v2-brandon-adams-ts-l120",
+      "mem-ui-src-data-v2-brandon-adams-ts-l129",
+      "mem-ui-src-data-v2-brandon-adams-ts-l132",
+      "mem-ui-src-data-v2-brandon-adams-ts-l141",
+      "mem-ui-src-data-v2-brandon-adams-ts-l142",
+      "mem-ui-src-data-v2-brandon-adams-ts-l143",
+      "mem-ui-src-data-v2-brandon-adams-ts-l152",
+      "mem-ui-src-data-v2-brandon-adams-ts-l153",
+      "mem-ui-src-data-v2-brandon-adams-ts-l154",
+      "mem-ui-src-data-v2-brandon-adams-ts-l155",
+      "mem-ui-src-data-v2-brandon-adams-ts-l164",
+      "mem-ui-src-data-v2-brandon-adams-ts-l165",
+      "mem-ui-src-data-v2-brandon-adams-ts-l166"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00065",
+      "raw-brandon-adams-00080",
+      "raw-brandon-adams-00082",
+      "raw-brandon-adams-00087",
+      "raw-brandon-adams-00092",
+      "raw-brandon-adams-00093",
+      "raw-brandon-adams-00098",
+      "raw-brandon-adams-00103",
+      "raw-brandon-adams-00104",
+      "raw-brandon-adams-00106",
+      "raw-brandon-adams-00114",
+      "raw-brandon-adams-00115",
+      "raw-brandon-adams-00117",
+      "raw-brandon-adams-00124",
+      "raw-brandon-adams-00125",
+      "raw-brandon-adams-00126",
+      "raw-brandon-adams-00128",
+      "raw-brandon-adams-00129",
+      "raw-brandon-adams-00137",
+      "raw-brandon-adams-00138",
+      "raw-brandon-adams-00140",
+      "raw-brandon-adams-00147",
+      "raw-brandon-adams-00148",
+      "raw-brandon-adams-00149",
+      "raw-brandon-adams-00151",
+      "raw-brandon-adams-00152",
+      "raw-brandon-adams-00160",
+      "raw-brandon-adams-00161",
+      "raw-brandon-adams-00163",
+      "raw-brandon-adams-00170",
+      "raw-brandon-adams-00171",
+      "raw-brandon-adams-00172",
+      "raw-brandon-adams-00174",
+      "raw-brandon-adams-00175",
+      "raw-brandon-adams-00184",
+      "raw-brandon-adams-00185",
+      "raw-brandon-adams-00190",
+      "raw-brandon-adams-00191",
+      "raw-brandon-adams-00210",
+      "raw-brandon-adams-00219",
+      "raw-brandon-adams-00220",
+      "raw-brandon-adams-00241",
+      "raw-brandon-adams-00253",
+      "raw-brandon-adams-00261",
+      "raw-brandon-adams-00262",
+      "raw-brandon-adams-00264",
+      "raw-brandon-adams-00271",
+      "raw-brandon-adams-00272",
+      "raw-brandon-adams-00273",
+      "raw-brandon-adams-00275",
+      "raw-brandon-adams-00282",
+      "raw-brandon-adams-00284",
+      "raw-brandon-adams-00285",
+      "raw-brandon-adams-00286",
+      "raw-brandon-adams-00287",
+      "raw-brandon-adams-00295",
+      "raw-brandon-adams-00296",
+      "raw-brandon-adams-00298",
+      "raw-brandon-adams-00305",
+      "raw-brandon-adams-00306",
+      "raw-brandon-adams-00307",
+      "raw-brandon-adams-00309",
+      "raw-brandon-adams-00316",
+      "raw-brandon-adams-00318",
+      "raw-brandon-adams-00319",
+      "raw-brandon-adams-00320",
+      "raw-brandon-adams-00321",
+      "raw-brandon-adams-00329",
+      "raw-brandon-adams-00330",
+      "raw-brandon-adams-00332",
+      "raw-brandon-adams-00339",
+      "raw-brandon-adams-00340",
+      "raw-brandon-adams-00341",
+      "raw-brandon-adams-00343",
+      "raw-brandon-adams-00350",
+      "raw-brandon-adams-00352",
+      "raw-brandon-adams-00353",
+      "raw-brandon-adams-00354",
+      "raw-brandon-adams-00355",
+      "raw-brandon-adams-00364",
+      "raw-brandon-adams-00367",
+      "raw-brandon-adams-00376",
+      "raw-brandon-adams-00377",
+      "raw-brandon-adams-00378",
+      "raw-brandon-adams-00387",
+      "raw-brandon-adams-00388",
+      "raw-brandon-adams-00389",
+      "raw-brandon-adams-00390",
+      "raw-brandon-adams-00398",
+      "raw-brandon-adams-00399",
+      "raw-brandon-adams-00400"
+    ],
+    "duplicateCount": 91,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:1",
+      "memory/candidates/brandon-adams/v2-issues.yaml:16",
+      "memory/candidates/brandon-adams/v2-issues.yaml:18",
+      "memory/candidates/brandon-adams/v2-issues.yaml:23",
+      "memory/candidates/brandon-adams/v2-issues.yaml:28",
+      "memory/candidates/brandon-adams/v2-issues.yaml:29",
+      "memory/candidates/brandon-adams/v2-issues.yaml:34",
+      "memory/candidates/brandon-adams/v2-issues.yaml:39",
+      "memory/candidates/brandon-adams/v2-issues.yaml:40",
+      "memory/candidates/brandon-adams/v2-issues.yaml:42",
+      "memory/candidates/brandon-adams/v2-issues.yaml:50",
+      "memory/candidates/brandon-adams/v2-issues.yaml:51",
+      "memory/candidates/brandon-adams/v2-issues.yaml:53",
+      "memory/candidates/brandon-adams/v2-issues.yaml:60",
+      "memory/candidates/brandon-adams/v2-issues.yaml:61",
+      "memory/candidates/brandon-adams/v2-issues.yaml:62",
+      "memory/candidates/brandon-adams/v2-issues.yaml:64",
+      "memory/candidates/brandon-adams/v2-issues.yaml:65",
+      "memory/candidates/brandon-adams/v2-issues.yaml:73",
+      "memory/candidates/brandon-adams/v2-issues.yaml:74",
+      "memory/candidates/brandon-adams/v2-issues.yaml:76",
+      "memory/candidates/brandon-adams/v2-issues.yaml:83",
+      "memory/candidates/brandon-adams/v2-issues.yaml:84",
+      "memory/candidates/brandon-adams/v2-issues.yaml:85",
+      "memory/candidates/brandon-adams/v2-issues.yaml:87",
+      "memory/candidates/brandon-adams/v2-issues.yaml:88",
+      "memory/candidates/brandon-adams/v2-issues.yaml:96",
+      "memory/candidates/brandon-adams/v2-issues.yaml:97",
+      "memory/candidates/brandon-adams/v2-issues.yaml:99",
+      "memory/candidates/brandon-adams/v2-issues.yaml:106",
+      "memory/candidates/brandon-adams/v2-issues.yaml:107",
+      "memory/candidates/brandon-adams/v2-issues.yaml:108",
+      "memory/candidates/brandon-adams/v2-issues.yaml:110",
+      "memory/candidates/brandon-adams/v2-issues.yaml:111",
+      "memory/candidates/brandon-adams/v2-issues.yaml:120",
+      "memory/candidates/brandon-adams/v2-issues.yaml:121",
+      "memory/candidates/brandon-adams/v2-issues.yaml:126",
+      "memory/candidates/brandon-adams/v2-issues.yaml:127",
+      "ui/src/data/elections.ts:103",
+      "ui/src/data/elections.ts:112",
+      "ui/src/data/elections.ts:113",
+      "ui/src/data/v2/brandon-adams.ts:4",
+      "ui/src/data/v2/brandon-adams.ts:18",
+      "ui/src/data/v2/brandon-adams.ts:26",
+      "ui/src/data/v2/brandon-adams.ts:27",
+      "ui/src/data/v2/brandon-adams.ts:29",
+      "ui/src/data/v2/brandon-adams.ts:36",
+      "ui/src/data/v2/brandon-adams.ts:37",
+      "ui/src/data/v2/brandon-adams.ts:38",
+      "ui/src/data/v2/brandon-adams.ts:40",
+      "ui/src/data/v2/brandon-adams.ts:47",
+      "ui/src/data/v2/brandon-adams.ts:49",
+      "ui/src/data/v2/brandon-adams.ts:50",
+      "ui/src/data/v2/brandon-adams.ts:51",
+      "ui/src/data/v2/brandon-adams.ts:52",
+      "ui/src/data/v2/brandon-adams.ts:60",
+      "ui/src/data/v2/brandon-adams.ts:61",
+      "ui/src/data/v2/brandon-adams.ts:63",
+      "ui/src/data/v2/brandon-adams.ts:70",
+      "ui/src/data/v2/brandon-adams.ts:71",
+      "ui/src/data/v2/brandon-adams.ts:72",
+      "ui/src/data/v2/brandon-adams.ts:74",
+      "ui/src/data/v2/brandon-adams.ts:81",
+      "ui/src/data/v2/brandon-adams.ts:83",
+      "ui/src/data/v2/brandon-adams.ts:84",
+      "ui/src/data/v2/brandon-adams.ts:85",
+      "ui/src/data/v2/brandon-adams.ts:86",
+      "ui/src/data/v2/brandon-adams.ts:94",
+      "ui/src/data/v2/brandon-adams.ts:95",
+      "ui/src/data/v2/brandon-adams.ts:97",
+      "ui/src/data/v2/brandon-adams.ts:104",
+      "ui/src/data/v2/brandon-adams.ts:105",
+      "ui/src/data/v2/brandon-adams.ts:106",
+      "ui/src/data/v2/brandon-adams.ts:108",
+      "ui/src/data/v2/brandon-adams.ts:115",
+      "ui/src/data/v2/brandon-adams.ts:117",
+      "ui/src/data/v2/brandon-adams.ts:118",
+      "ui/src/data/v2/brandon-adams.ts:119",
+      "ui/src/data/v2/brandon-adams.ts:120",
+      "ui/src/data/v2/brandon-adams.ts:129",
+      "ui/src/data/v2/brandon-adams.ts:132",
+      "ui/src/data/v2/brandon-adams.ts:141",
+      "ui/src/data/v2/brandon-adams.ts:142",
+      "ui/src/data/v2/brandon-adams.ts:143",
+      "ui/src/data/v2/brandon-adams.ts:152",
+      "ui/src/data/v2/brandon-adams.ts:153",
+      "ui/src/data/v2/brandon-adams.ts:154",
+      "ui/src/data/v2/brandon-adams.ts:155",
+      "ui/src/data/v2/brandon-adams.ts:164",
+      "ui/src/data/v2/brandon-adams.ts:165",
+      "ui/src/data/v2/brandon-adams.ts:166"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00028",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"generated\": \"2026-05-20T02:11:14.686Z\",",
+    "exactEvidenceSummary": "\"generated\": \"2026-05-20T02:11:14.686Z\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l3"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00067"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:3"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00029",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:5",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"candidate_metadata\": {",
+    "exactEvidenceSummary": "\"candidate_metadata\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l5"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00069"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:5"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00030",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:7",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"name\": \"Brandon Adams\",",
+    "exactEvidenceSummary": "\"name\": \"Brandon Adams\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l7",
+      "mem-ui-src-data-v2-brandon-adams-ts-l11"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00071",
+      "raw-brandon-adams-00246"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:7",
+      "ui/src/data/v2/brandon-adams.ts:11"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00031",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:8",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"party\": \"NP\",",
+    "exactEvidenceSummary": "\"party\": \"NP\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l8",
+      "mem-ui-src-data-v2-brandon-adams-ts-l12"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00072",
+      "raw-brandon-adams-00247"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:8",
+      "ui/src/data/v2/brandon-adams.ts:12"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00032",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:10",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"electionSlug\": \"kansas-governor-2026\",",
+    "exactEvidenceSummary": "\"electionSlug\": \"kansas-governor-2026\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l10",
+      "mem-ui-src-data-v2-brandon-adams-ts-l14"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00074",
+      "raw-brandon-adams-00249"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:10",
+      "ui/src/data/v2/brandon-adams.ts:14"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00038",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:17",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sources\": [",
+    "exactEvidenceSummary": "\"sources\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l17",
+      "mem-ui-src-data-v2-brandon-adams-ts-l131"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00081",
+      "raw-brandon-adams-00366"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:17",
+      "ui/src/data/v2/brandon-adams.ts:131"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00039",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:19",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"accessed\": \"2026-05-20\",",
+    "exactEvidenceSummary": "\"accessed\": \"2026-05-20\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l19",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l30",
+      "mem-ui-src-data-v2-brandon-adams-ts-l138",
+      "mem-ui-src-data-v2-brandon-adams-ts-l149"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00083",
+      "raw-brandon-adams-00094",
+      "raw-brandon-adams-00373",
+      "raw-brandon-adams-00384"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:19",
+      "memory/candidates/brandon-adams/v2-issues.yaml:30",
+      "ui/src/data/v2/brandon-adams.ts:138",
+      "ui/src/data/v2/brandon-adams.ts:149"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00041",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:21",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"claimsAnchored\": [",
+    "exactEvidenceSummary": "\"claimsAnchored\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l21",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l32",
+      "mem-ui-src-data-v2-brandon-adams-ts-l139",
+      "mem-ui-src-data-v2-brandon-adams-ts-l150"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00085",
+      "raw-brandon-adams-00096",
+      "raw-brandon-adams-00374",
+      "raw-brandon-adams-00385"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:21",
+      "memory/candidates/brandon-adams/v2-issues.yaml:32",
+      "ui/src/data/v2/brandon-adams.ts:139",
+      "ui/src/data/v2/brandon-adams.ts:150"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00044",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:25",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"tier\": \"primary\",",
+    "exactEvidenceSummary": "\"tier\": \"primary\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l25",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l36",
+      "mem-ui-src-data-v2-brandon-adams-ts-l134",
+      "mem-ui-src-data-v2-brandon-adams-ts-l145"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00089",
+      "raw-brandon-adams-00100",
+      "raw-brandon-adams-00369",
+      "raw-brandon-adams-00380"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:25",
+      "memory/candidates/brandon-adams/v2-issues.yaml:36",
+      "ui/src/data/v2/brandon-adams.ts:134",
+      "ui/src/data/v2/brandon-adams.ts:145"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00049",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:147",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"title\": \"Brandon Adams Appointment of Treasurer\",",
+    "exactEvidenceSummary": "\"title\": \"Brandon Adams Appointment of Treasurer\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l38",
+      "mem-ui-src-data-v2-brandon-adams-ts-l147"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00102",
+      "raw-brandon-adams-00382"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:38",
+      "ui/src/data/v2/brandon-adams.ts:147"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00053",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:45",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"stated\": {",
+    "exactEvidenceSummary": "\"stated\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l45",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l68",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l91",
+      "mem-ui-src-data-v2-brandon-adams-ts-l21",
+      "mem-ui-src-data-v2-brandon-adams-ts-l55",
+      "mem-ui-src-data-v2-brandon-adams-ts-l89"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00109",
+      "raw-brandon-adams-00132",
+      "raw-brandon-adams-00155",
+      "raw-brandon-adams-00256",
+      "raw-brandon-adams-00290",
+      "raw-brandon-adams-00324"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:45",
+      "memory/candidates/brandon-adams/v2-issues.yaml:68",
+      "memory/candidates/brandon-adams/v2-issues.yaml:91",
+      "ui/src/data/v2/brandon-adams.ts:21",
+      "ui/src/data/v2/brandon-adams.ts:55",
+      "ui/src/data/v2/brandon-adams.ts:89"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00058",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:52",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"actions\": [",
+    "exactEvidenceSummary": "\"actions\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l52",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l75",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l98",
+      "mem-ui-src-data-v2-brandon-adams-ts-l28",
+      "mem-ui-src-data-v2-brandon-adams-ts-l62",
+      "mem-ui-src-data-v2-brandon-adams-ts-l96"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00116",
+      "raw-brandon-adams-00139",
+      "raw-brandon-adams-00162",
+      "raw-brandon-adams-00263",
+      "raw-brandon-adams-00297",
+      "raw-brandon-adams-00331"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:52",
+      "memory/candidates/brandon-adams/v2-issues.yaml:75",
+      "memory/candidates/brandon-adams/v2-issues.yaml:98",
+      "ui/src/data/v2/brandon-adams.ts:28",
+      "ui/src/data/v2/brandon-adams.ts:62",
+      "ui/src/data/v2/brandon-adams.ts:96"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00060",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:55",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"date\": \"2026-05-20\",",
+    "exactEvidenceSummary": "\"date\": \"2026-05-20\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l55",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l78",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l101",
+      "mem-ui-src-data-v2-brandon-adams-ts-l31",
+      "mem-ui-src-data-v2-brandon-adams-ts-l65",
+      "mem-ui-src-data-v2-brandon-adams-ts-l99"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00119",
+      "raw-brandon-adams-00142",
+      "raw-brandon-adams-00165",
+      "raw-brandon-adams-00266",
+      "raw-brandon-adams-00300",
+      "raw-brandon-adams-00334"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:55",
+      "memory/candidates/brandon-adams/v2-issues.yaml:78",
+      "memory/candidates/brandon-adams/v2-issues.yaml:101",
+      "ui/src/data/v2/brandon-adams.ts:31",
+      "ui/src/data/v2/brandon-adams.ts:65",
+      "ui/src/data/v2/brandon-adams.ts:99"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00064",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:67",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"title\": \"Where they stand on big issues\",",
+    "exactEvidenceSummary": "\"title\": \"Where they stand on big issues\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l67",
+      "mem-ui-src-data-v2-brandon-adams-ts-l54"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00131",
+      "raw-brandon-adams-00289"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:67",
+      "ui/src/data/v2/brandon-adams.ts:54"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00073",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:112",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"campaign_finance\": {",
+    "exactEvidenceSummary": "\"campaign_finance\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l112"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00176"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:112"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00074",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:113",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"totalRaised\": \"Not itemized in the reviewed public records for this pass\",",
+    "exactEvidenceSummary": "\"totalRaised\": \"Not itemized in the reviewed public records for this pass\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l113",
+      "mem-ui-src-data-v2-brandon-adams-ts-l124"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00177",
+      "raw-brandon-adams-00359"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:113",
+      "ui/src/data/v2/brandon-adams.ts:124"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00076",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:115",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"donors\": [],",
+    "exactEvidenceSummary": "\"donors\": [],",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l115",
+      "mem-ui-src-data-v2-brandon-adams-ts-l126"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00179",
+      "raw-brandon-adams-00361"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:115",
+      "ui/src/data/v2/brandon-adams.ts:126"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00077",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:116",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"reportingPeriod\": \"Most recent public record reviewed\",",
+    "exactEvidenceSummary": "\"reportingPeriod\": \"Most recent public record reviewed\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l116",
+      "mem-ui-src-data-v2-brandon-adams-ts-l127"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00180",
+      "raw-brandon-adams-00362"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:116",
+      "ui/src/data/v2/brandon-adams.ts:127"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00079",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:122",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"editorial_notes\": [",
+    "exactEvidenceSummary": "\"editorial_notes\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l122"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00186"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:122"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00083",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:85",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "status: \"Open Seat\",",
+    "exactEvidenceSummary": "status: \"Open Seat\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l85"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00192"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:85"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00084",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:86",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateCount: 15,",
+    "exactEvidenceSummary": "candidateCount: 15,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l86"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00193"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:86"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00085",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:87",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateSlugs: [",
+    "exactEvidenceSummary": "candidateSlugs: [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l87"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00194"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:87"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00091",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:93",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"charlotte-ohara\",",
+    "exactEvidenceSummary": "\"charlotte-ohara\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l93"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00200"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:93"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00093",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:95",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"brandon-adams\",",
+    "exactEvidenceSummary": "\"brandon-adams\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l95"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00202"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:95"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00101",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:104",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "description:",
+    "exactEvidenceSummary": "description:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l104",
+      "mem-ui-src-data-elections-ts-l123"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00211",
+      "raw-brandon-adams-00230"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:104",
+      "ui/src/data/elections.ts:123"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00103",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:106",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "plainEnglish:",
+    "exactEvidenceSummary": "plainEnglish:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l106",
+      "mem-ui-src-data-elections-ts-l125"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00213",
+      "raw-brandon-adams-00232"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:106",
+      "ui/src/data/elections.ts:125"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00105",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:108",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "whyItMatters:",
+    "exactEvidenceSummary": "whyItMatters:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l108",
+      "mem-ui-src-data-elections-ts-l127"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00215",
+      "raw-brandon-adams-00234"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:108",
+      "ui/src/data/elections.ts:127"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00107",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:110",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "jobDescription:",
+    "exactEvidenceSummary": "jobDescription:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l110",
+      "mem-ui-src-data-elections-ts-l129"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00217",
+      "raw-brandon-adams-00236"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:110",
+      "ui/src/data/elections.ts:129"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00109",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:114",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "slug: \"kansas-ag-2026\",",
+    "exactEvidenceSummary": "slug: \"kansas-ag-2026\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l114"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00221"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:114"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00110",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:115",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "name: \"Kansas Attorney General\",",
+    "exactEvidenceSummary": "name: \"Kansas Attorney General\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l115"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00222"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:115"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00111",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:116",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "level: \"State\",",
+    "exactEvidenceSummary": "level: \"State\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l116"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00223"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:116"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00112",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:117",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "date: \"2026-11-03\",",
+    "exactEvidenceSummary": "date: \"2026-11-03\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l117"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00224"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:117"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00113",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:118",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "jurisdiction: \"State of Kansas\",",
+    "exactEvidenceSummary": "jurisdiction: \"State of Kansas\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l118"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00225"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:118"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00114",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:119",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "seats: 1,",
+    "exactEvidenceSummary": "seats: 1,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l119"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00226"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:119"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00116",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:121",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateCount: 2,",
+    "exactEvidenceSummary": "candidateCount: 2,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l121"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00228"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:121"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00122",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+    "exactEvidenceSummary": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l1"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00238"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:1"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00123",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:2",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "To refresh:",
+    "exactEvidenceSummary": "* To refresh:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l2"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00239"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:2"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00124",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "node scripts/hydrate-v2-social-signals.mjs",
+    "exactEvidenceSummary": "* node scripts/hydrate-v2-social-signals.mjs",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l3"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00240"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:3"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00125",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:6",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+    "exactEvidenceSummary": "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l6"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00242"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:6"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00126",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:7",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "import { validateCandidateV2 } from \"@/data/types-v2\";",
+    "exactEvidenceSummary": "import { validateCandidateV2 } from \"@/data/types-v2\";",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l7"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00243"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:7"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00127",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:9",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "export const BRANDON_ADAMS_V2: CandidateFullV2 = {",
+    "exactEvidenceSummary": "export const BRANDON_ADAMS_V2: CandidateFullV2 = {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l9"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00244"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:9"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00129",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:42",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "campaign statement",
+    "issueMappedTo": [],
+    "claim": "\"platform\": \"Public web\",",
+    "exactEvidenceSummary": "\"platform\": \"Public web\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l42",
+      "mem-ui-src-data-v2-brandon-adams-ts-l76",
+      "mem-ui-src-data-v2-brandon-adams-ts-l110"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00277",
+      "raw-brandon-adams-00311",
+      "raw-brandon-adams-00345"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:42",
+      "ui/src/data/v2/brandon-adams.ts:76",
+      "ui/src/data/v2/brandon-adams.ts:110"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00131",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:44",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"observedAt\": \"2026-05-19\",",
+    "exactEvidenceSummary": "\"observedAt\": \"2026-05-19\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l44",
+      "mem-ui-src-data-v2-brandon-adams-ts-l78",
+      "mem-ui-src-data-v2-brandon-adams-ts-l112"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00279",
+      "raw-brandon-adams-00313",
+      "raw-brandon-adams-00347"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:44",
+      "ui/src/data/v2/brandon-adams.ts:78",
+      "ui/src/data/v2/brandon-adams.ts:112"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00134",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:82",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"mappedToIssueId\": \"i-public-issue-record\"",
+    "exactEvidenceSummary": "\"mappedToIssueId\": \"i-public-issue-record\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l82"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00317"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:82"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00137",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:123",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"campaignFinance\": {",
+    "exactEvidenceSummary": "\"campaignFinance\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l123"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00358"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:123"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00139",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:157",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "if (process.env.NODE_ENV !== \"production\") {",
+    "exactEvidenceSummary": "if (process.env.NODE_ENV !== \"production\") {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l157"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00391"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:157"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00140",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:158",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "const result = validateCandidateV2(BRANDON_ADAMS_V2);",
+    "exactEvidenceSummary": "const result = validateCandidateV2(BRANDON_ADAMS_V2);",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l158"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00392"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:158"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00141",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:159",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "if (!result.ok) {",
+    "exactEvidenceSummary": "if (!result.ok) {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l159"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00393"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:159"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00142",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:160",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "// eslint-disable-next-line no-console",
+    "exactEvidenceSummary": "// eslint-disable-next-line no-console",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l160"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00394"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:160"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00143",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:161",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "console.error(",
+    "exactEvidenceSummary": "console.error(",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l161"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00395"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:161"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00144",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:162",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"[brandon-adams.ts] validateCandidateV2 FAILED:\\n\" +",
+    "exactEvidenceSummary": "\"[brandon-adams.ts] validateCandidateV2 FAILED:\\n\" +",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l162"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00396"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:162"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00145",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:163",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "result.errors.join(\"\\n\"),",
+    "exactEvidenceSummary": "result.errors.join(\"\\n\"),",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l163"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00397"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:163"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00009",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/social-harvest.md:14",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10
+    ],
+    "claim": "Election grouping: kansas-governor-2026",
+    "exactEvidenceSummary": "- Election grouping: kansas-governor-2026",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-in-their-own-words-md-l14",
+      "mem-memory-candidates-brandon-adams-raw-dump-v2-md-l14",
+      "mem-memory-candidates-brandon-adams-sleuth-pass-md-l14",
+      "mem-memory-candidates-brandon-adams-social-harvest-md-l14"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00009",
+      "raw-brandon-adams-00025",
+      "raw-brandon-adams-00041",
+      "raw-brandon-adams-00057"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/in-their-own-words.md:14",
+      "memory/candidates/brandon-adams/raw-dump-v2.md:14",
+      "memory/candidates/brandon-adams/sleuth-pass.md:14",
+      "memory/candidates/brandon-adams/social-harvest.md:14"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00003",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/social-harvest.md:4",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Agent: codex candidate-completeness generator",
+    "exactEvidenceSummary": "Agent: codex candidate-completeness generator",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-in-their-own-words-md-l4",
+      "mem-memory-candidates-brandon-adams-raw-dump-v2-md-l4",
+      "mem-memory-candidates-brandon-adams-sleuth-pass-md-l4",
+      "mem-memory-candidates-brandon-adams-social-harvest-md-l4",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l4"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00003",
+      "raw-brandon-adams-00019",
+      "raw-brandon-adams-00035",
+      "raw-brandon-adams-00051",
+      "raw-brandon-adams-00068"
+    ],
+    "duplicateCount": 5,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/in-their-own-words.md:4",
+      "memory/candidates/brandon-adams/raw-dump-v2.md:4",
+      "memory/candidates/brandon-adams/sleuth-pass.md:4",
+      "memory/candidates/brandon-adams/social-harvest.md:4",
+      "memory/candidates/brandon-adams/v2-issues.yaml:4"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00008",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/social-harvest.md:13",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Position: Kansas Governor campaign-finance account holder",
+    "exactEvidenceSummary": "- Position: Kansas Governor campaign-finance account holder",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-in-their-own-words-md-l13",
+      "mem-memory-candidates-brandon-adams-raw-dump-v2-md-l13",
+      "mem-memory-candidates-brandon-adams-sleuth-pass-md-l13",
+      "mem-memory-candidates-brandon-adams-social-harvest-md-l13",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l9",
+      "mem-ui-src-data-v2-brandon-adams-ts-l13"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00008",
+      "raw-brandon-adams-00024",
+      "raw-brandon-adams-00040",
+      "raw-brandon-adams-00056",
+      "raw-brandon-adams-00073",
+      "raw-brandon-adams-00248"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/in-their-own-words.md:13",
+      "memory/candidates/brandon-adams/raw-dump-v2.md:13",
+      "memory/candidates/brandon-adams/sleuth-pass.md:13",
+      "memory/candidates/brandon-adams/social-harvest.md:13",
+      "memory/candidates/brandon-adams/v2-issues.yaml:9",
+      "ui/src/data/v2/brandon-adams.ts:13"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00024",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/social-harvest.md:15",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Incumbent: no",
+    "exactEvidenceSummary": "- Incumbent: no",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-social-harvest-md-l15"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00058"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/social-harvest.md:15"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00026",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/social-harvest.md:23",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Source handling",
+    "exactEvidenceSummary": "## Source handling",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-social-harvest-md-l23"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00063"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/social-harvest.md:23"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00010",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/in-their-own-words.md:15",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Incumbent: no",
+    "exactEvidenceSummary": "- Incumbent: no",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-in-their-own-words-md-l15",
+      "mem-memory-candidates-brandon-adams-raw-dump-v2-md-l15",
+      "mem-memory-candidates-brandon-adams-sleuth-pass-md-l15"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00010",
+      "raw-brandon-adams-00026",
+      "raw-brandon-adams-00042"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/in-their-own-words.md:15",
+      "memory/candidates/brandon-adams/raw-dump-v2.md:15",
+      "memory/candidates/brandon-adams/sleuth-pass.md:15"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00051",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:43",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"id\": \"i-ballot-status\",",
+    "exactEvidenceSummary": "\"id\": \"i-ballot-status\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l43",
+      "mem-ui-src-data-v2-brandon-adams-ts-l19"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00107",
+      "raw-brandon-adams-00254"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:43",
+      "ui/src/data/v2/brandon-adams.ts:19"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00043",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:24",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"s-kpdc-statewide\",",
+    "exactEvidenceSummary": "\"id\": \"s-kpdc-statewide\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l24",
+      "mem-ui-src-data-v2-brandon-adams-ts-l133"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00088",
+      "raw-brandon-adams-00368"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:24",
+      "ui/src/data/v2/brandon-adams.ts:133"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00048",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:35",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"s-kpdc-at\",",
+    "exactEvidenceSummary": "\"id\": \"s-kpdc-at\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l35",
+      "mem-ui-src-data-v2-brandon-adams-ts-l144"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00099",
+      "raw-brandon-adams-00379"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:35",
+      "ui/src/data/v2/brandon-adams.ts:144"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00068",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:89",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"i-donor-funding\",",
+    "exactEvidenceSummary": "\"id\": \"i-donor-funding\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l89",
+      "mem-ui-src-data-v2-brandon-adams-ts-l87"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00153",
+      "raw-brandon-adams-00322"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:89",
+      "ui/src/data/v2/brandon-adams.ts:87"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00119",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:126",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "meeting record",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"The attorney general is Kansas's top lawyer and one of its most visible statewide offices. Kris Kobach is the incumbent, and Chris Mann is the main challenger on the board right now.\",",
+    "exactEvidenceSummary": "\"The attorney general is Kansas's top lawyer and one of its most visible statewide offices. Kris Kobach is the incumbent, and Chris Mann is the main challenger on the board right now.\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l126"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00233"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:126"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00015",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/in-their-own-words.md:23",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Source handling",
+    "exactEvidenceSummary": "## Source handling",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-in-their-own-words-md-l23",
+      "mem-memory-candidates-brandon-adams-raw-dump-v2-md-l23",
+      "mem-memory-candidates-brandon-adams-sleuth-pass-md-l23"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00015",
+      "raw-brandon-adams-00031",
+      "raw-brandon-adams-00047"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/in-their-own-words.md:23",
+      "memory/candidates/brandon-adams/raw-dump-v2.md:23",
+      "memory/candidates/brandon-adams/sleuth-pass.md:23"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00050",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:41",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"issues\": [",
+    "exactEvidenceSummary": "\"issues\": [",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l41",
+      "mem-ui-src-data-v2-brandon-adams-ts-l17"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00105",
+      "raw-brandon-adams-00252"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:41",
+      "ui/src/data/v2/brandon-adams.ts:17"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00055",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:47",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sourceIds\": [",
+    "exactEvidenceSummary": "\"sourceIds\": [",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l47",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l57",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l70",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l80",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l93",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l103",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l118",
+      "mem-ui-src-data-v2-brandon-adams-ts-l23",
+      "mem-ui-src-data-v2-brandon-adams-ts-l33",
+      "mem-ui-src-data-v2-brandon-adams-ts-l45",
+      "mem-ui-src-data-v2-brandon-adams-ts-l57",
+      "mem-ui-src-data-v2-brandon-adams-ts-l67",
+      "mem-ui-src-data-v2-brandon-adams-ts-l79",
+      "mem-ui-src-data-v2-brandon-adams-ts-l91",
+      "mem-ui-src-data-v2-brandon-adams-ts-l101",
+      "mem-ui-src-data-v2-brandon-adams-ts-l113"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00111",
+      "raw-brandon-adams-00121",
+      "raw-brandon-adams-00134",
+      "raw-brandon-adams-00144",
+      "raw-brandon-adams-00157",
+      "raw-brandon-adams-00167",
+      "raw-brandon-adams-00182",
+      "raw-brandon-adams-00258",
+      "raw-brandon-adams-00268",
+      "raw-brandon-adams-00280",
+      "raw-brandon-adams-00292",
+      "raw-brandon-adams-00302",
+      "raw-brandon-adams-00314",
+      "raw-brandon-adams-00326",
+      "raw-brandon-adams-00336",
+      "raw-brandon-adams-00348"
+    ],
+    "duplicateCount": 16,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:47",
+      "memory/candidates/brandon-adams/v2-issues.yaml:57",
+      "memory/candidates/brandon-adams/v2-issues.yaml:70",
+      "memory/candidates/brandon-adams/v2-issues.yaml:80",
+      "memory/candidates/brandon-adams/v2-issues.yaml:93",
+      "memory/candidates/brandon-adams/v2-issues.yaml:103",
+      "memory/candidates/brandon-adams/v2-issues.yaml:118",
+      "ui/src/data/v2/brandon-adams.ts:23",
+      "ui/src/data/v2/brandon-adams.ts:33",
+      "ui/src/data/v2/brandon-adams.ts:45",
+      "ui/src/data/v2/brandon-adams.ts:57",
+      "ui/src/data/v2/brandon-adams.ts:67",
+      "ui/src/data/v2/brandon-adams.ts:79",
+      "ui/src/data/v2/brandon-adams.ts:91",
+      "ui/src/data/v2/brandon-adams.ts:101",
+      "ui/src/data/v2/brandon-adams.ts:113"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00059",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:54",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-record-appearance\",",
+    "exactEvidenceSummary": "\"id\": \"a-record-appearance\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l54",
+      "mem-ui-src-data-v2-brandon-adams-ts-l30"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00118",
+      "raw-brandon-adams-00265"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:54",
+      "ui/src/data/v2/brandon-adams.ts:30"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00062",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:63",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"socialSignals\": []",
+    "exactEvidenceSummary": "\"socialSignals\": []",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l63",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l86",
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l109",
+      "mem-ui-src-data-v2-brandon-adams-ts-l39",
+      "mem-ui-src-data-v2-brandon-adams-ts-l73",
+      "mem-ui-src-data-v2-brandon-adams-ts-l107"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00127",
+      "raw-brandon-adams-00150",
+      "raw-brandon-adams-00173",
+      "raw-brandon-adams-00274",
+      "raw-brandon-adams-00308",
+      "raw-brandon-adams-00342"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:63",
+      "memory/candidates/brandon-adams/v2-issues.yaml:86",
+      "memory/candidates/brandon-adams/v2-issues.yaml:109",
+      "ui/src/data/v2/brandon-adams.ts:39",
+      "ui/src/data/v2/brandon-adams.ts:73",
+      "ui/src/data/v2/brandon-adams.ts:107"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00063",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:66",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"i-public-issue-record\",",
+    "exactEvidenceSummary": "\"id\": \"i-public-issue-record\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l66",
+      "mem-ui-src-data-v2-brandon-adams-ts-l53"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00130",
+      "raw-brandon-adams-00288"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:66",
+      "ui/src/data/v2/brandon-adams.ts:53"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00066",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:77",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "campaign statement",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-platform-gap\",",
+    "exactEvidenceSummary": "\"id\": \"a-platform-gap\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l77",
+      "mem-ui-src-data-v2-brandon-adams-ts-l64"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00141",
+      "raw-brandon-adams-00299"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:77",
+      "ui/src/data/v2/brandon-adams.ts:64"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00071",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/brandon-adams/v2-issues.yaml:100",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-finance-record\",",
+    "exactEvidenceSummary": "\"id\": \"a-finance-record\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-brandon-adams-v2-issues-yaml-l100",
+      "mem-ui-src-data-v2-brandon-adams-ts-l98"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00164",
+      "raw-brandon-adams-00333"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/brandon-adams/v2-issues.yaml:100",
+      "ui/src/data/v2/brandon-adams.ts:98"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00086",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:88",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"scott-schwab\",",
+    "exactEvidenceSummary": "\"scott-schwab\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l88"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00195"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:88"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00087",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:89",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"vicki-schmidt\",",
+    "exactEvidenceSummary": "\"vicki-schmidt\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l89"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00196"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:89"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00088",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:90",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"ty-masterson\",",
+    "exactEvidenceSummary": "\"ty-masterson\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l90"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00197"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:90"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00089",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:91",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"jeff-colyer\",",
+    "exactEvidenceSummary": "\"jeff-colyer\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l91"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00198"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:91"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00090",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:92",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"philip-sarnecki\",",
+    "exactEvidenceSummary": "\"philip-sarnecki\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l92"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00199"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:92"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00092",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:94",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"stacy-rogers\",",
+    "exactEvidenceSummary": "\"stacy-rogers\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l94"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00201"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:94"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00094",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:96",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"doug-billings\",",
+    "exactEvidenceSummary": "\"doug-billings\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l96"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00203"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:96"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00095",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:97",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"joy-eakins\",",
+    "exactEvidenceSummary": "\"joy-eakins\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l97"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00204"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:97"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00096",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:98",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"ethan-corson\",",
+    "exactEvidenceSummary": "\"ethan-corson\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l98"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00205"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:98"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00097",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:99",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"cindy-holscher\",",
+    "exactEvidenceSummary": "\"cindy-holscher\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l99"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00206"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:99"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00098",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:100",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"mark-lane\",",
+    "exactEvidenceSummary": "\"mark-lane\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l100"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00207"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:100"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00099",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:101",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"marty-tuley\",",
+    "exactEvidenceSummary": "\"marty-tuley\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l101"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00208"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:101"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00100",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:102",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sharilyn-ray\",",
+    "exactEvidenceSummary": "\"sharilyn-ray\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l102"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00209"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:102"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00117",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:122",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateSlugs: [\"kris-kobach\", \"chris-mann\"],",
+    "exactEvidenceSummary": "candidateSlugs: [\"kris-kobach\", \"chris-mann\"],",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l122"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00229"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:122"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00118",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:124",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"Kris Kobach is seeking another term as attorney general while Chris Mann runs as the Democratic challenger.\",",
+    "exactEvidenceSummary": "\"Kris Kobach is seeking another term as attorney general while Chris Mann runs as the Democratic challenger.\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l124"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00231"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:124"
+    ]
+  },
+  {
+    "id": "em-brandon-adams-00128",
+    "candidateSlug": "brandon-adams",
+    "candidateName": "Brandon Adams",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/brandon-adams.ts:41",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"ss-crossref-1\",",
+    "exactEvidenceSummary": "\"id\": \"ss-crossref-1\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-brandon-adams-ts-l41",
+      "mem-ui-src-data-v2-brandon-adams-ts-l75",
+      "mem-ui-src-data-v2-brandon-adams-ts-l109"
+    ],
+    "rawRowIds": [
+      "raw-brandon-adams-00276",
+      "raw-brandon-adams-00310",
+      "raw-brandon-adams-00344"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/brandon-adams.ts:41",
+      "ui/src/data/v2/brandon-adams.ts:75",
+      "ui/src/data/v2/brandon-adams.ts:109"
+    ]
+  }
+]

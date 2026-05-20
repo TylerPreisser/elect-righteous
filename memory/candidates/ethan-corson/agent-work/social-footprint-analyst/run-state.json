@@ -1,0 +1,31 @@
+{
+  "agent_id": "social-footprint-analyst",
+  "agent_role": "Social media intelligence analyst",
+  "candidate_slug": "ethan-corson",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/ethan-corson/social-harvest.md",
+    "memory/candidates/ethan-corson/evidence-matrix.json",
+    "memory/candidates/ethan-corson/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/ethan-corson/social-evidence-matrix.json",
+    "memory/candidates/ethan-corson/social-analysis.md",
+    "memory/candidates/ethan-corson/agent-work/social-footprint-analyst/run-state.json",
+    "memory/candidates/ethan-corson/agent-work/social-footprint-analyst/notes.md",
+    "memory/candidates/ethan-corson/agent-work/social-footprint-analyst/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs ethan-corson"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run source-tier-validator for ethan-corson.",
+    "Run fixed-issue-matrix-builder for ethan-corson after source validation."
+  ],
+  "handoff_summary": "Classified 243 social/online observations for ethan-corson."
+}

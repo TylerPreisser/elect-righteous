@@ -1,0 +1,31 @@
+{
+  "agent_id": "fixed-issue-matrix-builder",
+  "agent_role": "Issue-by-issue content builder",
+  "candidate_slug": "rebecca-herzog",
+  "phase": "3",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/rebecca-herzog/evidence-matrix.json",
+    "memory/candidates/rebecca-herzog/social-evidence-matrix.json",
+    "memory/candidates/rebecca-herzog/source-audit.json"
+  ],
+  "files_written": [
+    "memory/candidates/rebecca-herzog/issue-matrix.md",
+    "memory/candidates/rebecca-herzog/fixed-issue-matrix.json",
+    "memory/candidates/rebecca-herzog/v2-issues.yaml",
+    "memory/candidates/rebecca-herzog/agent-work/fixed-issue-matrix-builder/run-state.json",
+    "memory/candidates/rebecca-herzog/agent-work/fixed-issue-matrix-builder/notes.md",
+    "memory/candidates/rebecca-herzog/agent-work/fixed-issue-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-fixed-issue-matrix.mjs rebecca-herzog"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run biography/record/funding/faith/profile assembler passes for rebecca-herzog."
+  ],
+  "handoff_summary": "Built fixed 14-issue matrix for rebecca-herzog."
+}

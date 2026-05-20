@@ -1,0 +1,38 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "steven-johnson",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/steven-johnson/in-their-own-words.md",
+    "memory/candidates/steven-johnson/raw-dump-v2.md",
+    "memory/candidates/steven-johnson/sleuth-pass.md",
+    "memory/candidates/steven-johnson/social-harvest.md",
+    "memory/candidates/steven-johnson/v2-issues.yaml",
+    "memory/elections/2026-11-03-kansas-treasurer.md",
+    "memory/elections/2026-11-03-ks-governor.md",
+    "memory/elections/2026-11-03-ks-statewide-offices.md",
+    "reports/hays-kansas-election-finder-2026-03-30.md",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/steven-johnson.ts"
+  ],
+  "files_written": [
+    "memory/candidates/steven-johnson/evidence-matrix-raw.json",
+    "memory/candidates/steven-johnson/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/steven-johnson/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/steven-johnson/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/steven-johnson/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs steven-johnson"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for steven-johnson."
+  ],
+  "handoff_summary": "Extracted 509 raw evidence rows for steven-johnson."
+}

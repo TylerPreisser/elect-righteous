@@ -1,0 +1,31 @@
+{
+  "agent_id": "fixed-issue-matrix-builder",
+  "agent_role": "Issue-by-issue content builder",
+  "candidate_slug": "toby-dougherty",
+  "phase": "3",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/toby-dougherty/evidence-matrix.json",
+    "memory/candidates/toby-dougherty/social-evidence-matrix.json",
+    "memory/candidates/toby-dougherty/source-audit.json"
+  ],
+  "files_written": [
+    "memory/candidates/toby-dougherty/issue-matrix.md",
+    "memory/candidates/toby-dougherty/fixed-issue-matrix.json",
+    "memory/candidates/toby-dougherty/v2-issues.yaml",
+    "memory/candidates/toby-dougherty/agent-work/fixed-issue-matrix-builder/run-state.json",
+    "memory/candidates/toby-dougherty/agent-work/fixed-issue-matrix-builder/notes.md",
+    "memory/candidates/toby-dougherty/agent-work/fixed-issue-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-fixed-issue-matrix.mjs toby-dougherty"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run biography/record/funding/faith/profile assembler passes for toby-dougherty."
+  ],
+  "handoff_summary": "Built fixed 14-issue matrix for toby-dougherty."
+}

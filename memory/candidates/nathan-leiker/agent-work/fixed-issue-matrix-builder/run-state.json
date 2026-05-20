@@ -1,0 +1,31 @@
+{
+  "agent_id": "fixed-issue-matrix-builder",
+  "agent_role": "Issue-by-issue content builder",
+  "candidate_slug": "nathan-leiker",
+  "phase": "3",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/nathan-leiker/evidence-matrix.json",
+    "memory/candidates/nathan-leiker/social-evidence-matrix.json",
+    "memory/candidates/nathan-leiker/source-audit.json"
+  ],
+  "files_written": [
+    "memory/candidates/nathan-leiker/issue-matrix.md",
+    "memory/candidates/nathan-leiker/fixed-issue-matrix.json",
+    "memory/candidates/nathan-leiker/v2-issues.yaml",
+    "memory/candidates/nathan-leiker/agent-work/fixed-issue-matrix-builder/run-state.json",
+    "memory/candidates/nathan-leiker/agent-work/fixed-issue-matrix-builder/notes.md",
+    "memory/candidates/nathan-leiker/agent-work/fixed-issue-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-fixed-issue-matrix.mjs nathan-leiker"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run biography/record/funding/faith/profile assembler passes for nathan-leiker."
+  ],
+  "handoff_summary": "Built fixed 14-issue matrix for nathan-leiker."
+}

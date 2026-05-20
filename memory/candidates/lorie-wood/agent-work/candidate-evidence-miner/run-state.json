@@ -1,0 +1,35 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "lorie-wood",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/lorie-wood/in-their-own-words.md",
+    "memory/candidates/lorie-wood/raw-dump-v2.md",
+    "memory/candidates/lorie-wood/sleuth-pass.md",
+    "memory/candidates/lorie-wood/social-harvest.md",
+    "memory/candidates/lorie-wood/v2-issues.yaml",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/lorie-wood.ts"
+  ],
+  "files_written": [
+    "memory/candidates/lorie-wood/evidence-matrix-raw.json",
+    "memory/candidates/lorie-wood/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/lorie-wood/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/lorie-wood/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/lorie-wood/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs lorie-wood"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for lorie-wood."
+  ],
+  "handoff_summary": "Extracted 507 raw evidence rows for lorie-wood."
+}

@@ -1,0 +1,62 @@
+# Social Analysis — scott-braun — 2026-05-20
+
+## Scope
+Read social-harvest.md and 2774 evidence-matrix rows; classified 224 social/online/platform observations.
+
+## Platform Presence
+- No structured presence summary was found in social-harvest.md.
+
+## Issue Coverage
+| Issue | Title                                              | Total | Strong | Moderate | Weak | Ambiguous |
+| ----- | -------------------------------------------------- | ----- | ------ | -------- | ---- | --------- |
+| 1     | Abortion / life                                    | 3     | 0      | 0        | 1    | 2         |
+| 2     | LGBT / gender / parental rights                    | 2     | 0      | 0        | 1    | 1         |
+| 3     | Education / curriculum / schools                   | 3     | 1      | 0        | 1    | 0         |
+| 4     | Religious liberty / church / civic morality        | 7     | 2      | 0        | 0    | 4         |
+| 5     | Taxes / spending / debt                            | 6     | 2      | 0        | 1    | 2         |
+| 6     | Economy / jobs / labor                             | 2     | 0      | 0        | 0    | 2         |
+| 7     | Guns / Second Amendment                            | 2     | 0      | 0        | 0    | 2         |
+| 8     | Immigration / border                               | 7     | 5      | 0        | 0    | 2         |
+| 9     | Health care / insurance / Medicaid                 | 12    | 3      | 0        | 1    | 6         |
+| 10    | Election integrity / voting / courts               | 25    | 0      | 0        | 2    | 21        |
+| 11    | Public safety / law enforcement / criminal justice | 58    | 20     | 0        | 7    | 29        |
+| 12    | Agriculture / rural economy / water                | 1     | 0      | 0        | 0    | 0         |
+| 13    | Local governance / transparency / ethics           | 87    | 22     | 0        | 11   | 43        |
+| 14    | Environment / energy / land use                    | 8     | 2      | 0        | 1    | 5         |
+
+## Representative Signals
+- **strong / LinkedIn / post** — [LinkedIn](https://www.linkedin.com/in/aaron-cunningham-653b3094/) -- lists K-State education (https://www.linkedin.com/in/aaron-cunningham-653b3094/)
+- **strong / LinkedIn / post** — | Civic, faith, and professional identity | 3 | [2019 campaign announcement](https://archive.hayspost.com/2019/10/31/undersheriff-braun-announces-run-for-ellis-county-sheriff-in-2020/), [LinkedIn profile](https://www.linkedin.com/in/scott-braun-cpm-62833366), [Big Brothers Big Sisters Northwest listing](https://www.kansasbigs.org/northwest-hays) | (https://archive.hayspost.com/2019/10/31/undersheriff-braun-announces-run-for-ellis-county-sheriff-in-2020/)
+- **strong / archive.hayspost.com / post** — In his 2019 candidacy announcement, Braun framed his sheriff campaign around "Dedication, Experience and Integrity" after describing his long law-enforcement career, Rotary service, St. Nicholas of Myra Church Council role, Knights of Columbus membership, and professional boards. Source: [Hays Post archive, Oct. 31, 2019](https://archive.hayspost.com/2019/10 (https://archive.hayspost.com/2019/10/31/undersheriff-braun-announces-run-for-ellis-county-sheriff-in-2020/)
+- **strong / hayspost.com / post** — In HB 2771 testimony coverage, Braun framed the bill as liability clarity, fiscal responsibility, and taxpayer protection, while also saying community safety remained the main reason for staying in the ICE program. Source: [Hays Post, Mar. 6, 2026](https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07). (https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07)
+- **strong / hayspost.com / post** — [Crisis center budget coverage, Hays Post, July 16, 2025](https://hayspost.com/posts/fbac2993-56a7-4ebb-b494-5a194944d2c2) (https://hayspost.com/posts/fbac2993-56a7-4ebb-b494-5a194944d2c2)
+- **strong / fastdemocracy.com / post** — | Kansas Legislature/public meeting | Yes | [HB 2771 tracking and testimony listing](https://fastdemocracy.com/bill-search/ks/2025-2026/bills/KSB00012057/), [Hays Post hearing coverage](https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07) | Public record shows Braun testified on February 25, 2026 in support of HB 2771 on ICE detainers/liability p (https://fastdemocracy.com/bill-search/ks/2025-2026/bills/KSB00012057/)
+- **strong / hayspost.com / post** — | Drug enforcement, forfeiture, fentanyl/opioids | 4 | [Jan. 11, 2024 forfeiture](https://hayspost.com/posts/5e9ec24b-53c4-40ff-9c9d-36bfbdf8808a), [May 31, 2025 border release](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-visits-southern-border-alongside-kansas-law-enforcement-officials/), [Apr. 14, 2025 opioid training request]( (https://hayspost.com/posts/5e9ec24b-53c4-40ff-9c9d-36bfbdf8808a)
+- **strong / hayspost.com / post** — On the ICE memorandum, Braun emphasized that Ellis County cannot hold someone beyond the legal detainer window and that deputies are not stopping people on the street for immigration investigations. Source: [Hays Post, Nov. 20, 2025](https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6). (https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6)
+- **strong / hayspost.com / post** — [ICE agreement explanation, Hays Post, Nov. 20, 2025](https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6) (https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6)
+- **strong / LinkedIn / post** — The largest visible social-audience marker found was his [LinkedIn profile](https://www.linkedin.com/in/scott-braun-cpm-62833366), which publicly showed 455 followers and 452 connections during review. That profile reinforces the same pattern: sheriff, Certified Public Manager, KSA leadership, law-enforcement credentials, Rotary, Knights of Columbus, mental- (https://www.linkedin.com/in/scott-braun-cpm-62833366)
+- **strong / LinkedIn / post** — | Mental health and crisis response | 4 | [Jan. 11, 2024 KSA priorities](https://hayspost.com/posts/5e9ec24b-53c4-40ff-9c9d-36bfbdf8808a), [July 11, 2024 jail/mental health](https://hayspost.com/posts/3f35aea3-a505-43de-a463-78d6976e129d), [July 16, 2025 crisis center funding](https://hayspost.com/posts/fbac2993-56a7-4ebb-b494-5a194944d2c2), [LinkedIn profil (https://hayspost.com/posts/5e9ec24b-53c4-40ff-9c9d-36bfbdf8808a)
+- **strong / hayspost.com / post** — On mental health, he said every Kansas sheriff is struggling with mental-health issues and questioned whether people with serious mental illness should be in county facilities. Source: [Hays Post, Jan. 11, 2024](https://hayspost.com/posts/5e9ec24b-53c4-40ff-9c9d-36bfbdf8808a). (https://hayspost.com/posts/5e9ec24b-53c4-40ff-9c9d-36bfbdf8808a)
+- **strong / LinkedIn / post** — | s-linkedin-braun | candidate_controlled | https://www.linkedin.com/in/scott-braun-cpm-62833366 | 2026-05-19 | Public profile: Ellis County Sheriff, FHSU, Heartland Certified Public Manager, KSA president, volunteer roles, likes | biography, social | (https://www.linkedin.com/in/scott-braun-cpm-62833366)
+- **strong / X / Twitter / post** — | Official sheriff Twitter/X | Yes, inaccessible through crawler | [@ELCoSheriffKS](https://twitter.com/ELCoSheriffKS) | Linked from the official county page as "Sheriff's Twitter Page." The page could not be fetched in the crawler, and exact-handle search returned no usable indexed posts. | (https://twitter.com/ELCoSheriffKS)
+- **strong / LinkedIn / post** — | LinkedIn | Yes | [Scott Braun, CPM](https://www.linkedin.com/in/scott-braun-cpm-62833366) | Profile-controlled professional page. Public preview shows 455 followers and 452 connections, his Ellis County sheriff role, public credentials, volunteer roles, and KSA leadership. Visible activity is mostly likes, not authored campaign messaging. | (https://www.linkedin.com/in/scott-braun-cpm-62833366)
+- **strong / hayspost.com / post** — | Jail capacity, jail operations, public safety administration | 7 | [Dec. 21, 2023 jail assessment](https://hayspost.com/posts/bc5f6d5c-cc32-4e29-8666-c9d7f0edd70e), [July 11, 2024 new jail](https://hayspost.com/posts/3f35aea3-a505-43de-a463-78d6976e129d), [Jan. 6, 2025 sheriff app](https://hayspost.com/posts/4de7954a-f04e-4832-9c84-46b4aaf24657), [Jan. 20, (https://hayspost.com/posts/bc5f6d5c-cc32-4e29-8666-c9d7f0edd70e)
+- **strong / hayspost.com / post** — | Public communication, warnings, transparency tools | 3 | [Jan. 6, 2025 sheriff app](https://hayspost.com/posts/4de7954a-f04e-4832-9c84-46b4aaf24657), [Mar. 14, 2025 scam warning](https://hayspost.com/posts/df831461-e829-4c10-8fc1-2e905e69de88), [official county sheriff page](https://ellisco.net/102/Sheriff) | (https://hayspost.com/posts/4de7954a-f04e-4832-9c84-46b4aaf24657)
+- **strong / hayspost.com / post** — On jail capacity, he said the proposed jail is not something he wants personally: "We need a jail. I don't want it. We need it..." Source: [Hays Post, July 11, 2024](https://hayspost.com/posts/3f35aea3-a505-43de-a463-78d6976e129d). (https://hayspost.com/posts/3f35aea3-a505-43de-a463-78d6976e129d)
+- **strong / hayspost.com / post** — On the sheriff app, he said the office needed a direct way to push information to the community, especially during road and weather emergencies. Source: [Hays Post, Jan. 6, 2025](https://hayspost.com/posts/4de7954a-f04e-4832-9c84-46b4aaf24657). (https://hayspost.com/posts/4de7954a-f04e-4832-9c84-46b4aaf24657)
+- **strong / hayspost.com / post** — On scam calls, Braun said the sheriff's office will not call, text, or email people demanding money or personal information. Source: [Hays Post, Mar. 14, 2025](https://hayspost.com/posts/df831461-e829-4c10-8fc1-2e905e69de88). (https://hayspost.com/posts/df831461-e829-4c10-8fc1-2e905e69de88)
+- **strong / Facebook / post** — [Official county-linked sheriff Facebook page](https://www.facebook.com/EllisCoSheriff.KS/) (https://www.facebook.com/EllisCoSheriff.KS/)
+- **strong / X / Twitter / post** — [Official county-linked sheriff Twitter/X page](https://twitter.com/ELCoSheriffKS) (https://twitter.com/ELCoSheriffKS)
+- **strong / archive.hayspost.com / post** — [2019 campaign announcement, Hays Post archive](https://archive.hayspost.com/2019/10/31/undersheriff-braun-announces-run-for-ellis-county-sheriff-in-2020/) (https://archive.hayspost.com/2019/10/31/undersheriff-braun-announces-run-for-ellis-county-sheriff-in-2020/)
+- **strong / hayspost.com / post** — [Jail assessment, Hays Post, Dec. 21, 2023](https://hayspost.com/posts/bc5f6d5c-cc32-4e29-8666-c9d7f0edd70e) (https://hayspost.com/posts/bc5f6d5c-cc32-4e29-8666-c9d7f0edd70e)
+- **strong / hayspost.com / post** — [New jail need, Hays Post, July 11, 2024](https://hayspost.com/posts/3f35aea3-a505-43de-a463-78d6976e129d) (https://hayspost.com/posts/3f35aea3-a505-43de-a463-78d6976e129d)
+- **strong / hayspost.com / post** — [Sheriff app, Hays Post, Jan. 6, 2025](https://hayspost.com/posts/4de7954a-f04e-4832-9c84-46b4aaf24657) (https://hayspost.com/posts/4de7954a-f04e-4832-9c84-46b4aaf24657)
+- **strong / Facebook / post** — There are also clear absences. I found no verified active campaign website, no reliable personal campaign Facebook page, and no verified Instagram, Threads, TikTok, or YouTube account for Braun. The official county page links to [Facebook](https://www.facebook.com/EllisCoSheriff.KS/) and [X](https://twitter.com/ELCoSheriffKS), but Facebook was login/script b (https://www.facebook.com/EllisCoSheriff.KS/)
+- **strong / Facebook / post** — [Facebook -- Commissioner Ellis County 1st District](https://www.facebook.com/EllisCountyDistrict1/) -- Active public page for his commissioner seat (https://www.facebook.com/EllisCountyDistrict1/)
+- **strong / Facebook / post** — [Facebook Page](https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/) (https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/)
+- **strong / Facebook / post** — Facebook (Official): [musilcomish](https://www.facebook.com/musilcomish/) (https://www.facebook.com/musilcomish/)
+
+## Required Caveats
+- Social evidence is signal, not fact. A follow, like, share, or platform absence is not treated as a belief or policy position.
+- Candidate-controlled posts and campaign pages may be used as stated positions only when the text itself says the position.
+- Login-walled, blocked, or inaccessible platform content is documented as a capture limitation, not as evidence of silence.

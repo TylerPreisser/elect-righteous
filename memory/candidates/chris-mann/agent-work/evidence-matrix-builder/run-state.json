@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "chris-mann",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/chris-mann/evidence-matrix-raw.json",
+    "memory/candidates/chris-mann/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/chris-mann/evidence-matrix.json",
+    "memory/candidates/chris-mann/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/chris-mann/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/chris-mann/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs chris-mann"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for chris-mann.",
+    "Run source-tier-validator for chris-mann."
+  ],
+  "handoff_summary": "Built final evidence matrix for chris-mann: 6022 raw rows to 2821 deduplicated rows."
+}

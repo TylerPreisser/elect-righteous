@@ -1,0 +1,28 @@
+{
+  "agent_id": "source-tier-validator",
+  "agent_role": "Source quality auditor",
+  "candidate_slug": "chris-mann",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/chris-mann/evidence-matrix.json"
+  ],
+  "files_written": [
+    "memory/candidates/chris-mann/source-audit.json",
+    "memory/candidates/chris-mann/source-audit.md",
+    "memory/candidates/chris-mann/agent-work/source-tier-validator/run-state.json",
+    "memory/candidates/chris-mann/agent-work/source-tier-validator/notes.md",
+    "memory/candidates/chris-mann/agent-work/source-tier-validator/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs chris-mann"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Use source-audit.md during fixed-issue-matrix-builder for chris-mann."
+  ],
+  "handoff_summary": "Audited 273 unique source records for chris-mann."
+}

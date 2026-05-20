@@ -1,0 +1,4170 @@
+{
+  "candidateSlug": "charlotte-ohara",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 120,
+  "sources": [
+    {
+      "sourceId": "src-charlotte-ohara-0001",
+      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:25",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-charlotte-ohara-00035",
+        "em-charlotte-ohara-00429"
+      ],
+      "claimsAnchored": [
+        "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | 2026 offices, filing deadline, filed-candidate rule | election status |"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0002",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:26",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-charlotte-ohara-00036",
+        "em-charlotte-ohara-00206",
+        "em-charlotte-ohara-00283",
+        "em-charlotte-ohara-01126"
+      ],
+      "claimsAnchored": [
+        "| s-kpdc-statewide-index | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm | accessed 2026-05-19 | O'Hara listed under gubernatorial candidates with AT/amendment/202601 links | campaign finance, status |",
+        "Kansas Ethics filing index: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
+        "[SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
+        "[Kansas Ethics Commission -- 2026 Campaign Finance](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0003",
+      "url": "https://www.kslegislature.gov/li_2012/b2011_12/members/rep_ohara_charlotte_1/",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:29",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00039"
+      ],
+      "claimsAnchored": [
+        "| s-ksleg-archive | primary | https://www.kslegislature.gov/li_2012/b2011_12/members/rep_ohara_charlotte_1/ | accessed 2026-05-19 | 2011-2012 House District 27 service, party, committees, sponsored bills | legislative record |"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0004",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/HB2206/",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:35",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00045"
+      ],
+      "claimsAnchored": [
+        "| s-ksleg-hb2206 | primary | https://www.kslegislature.gov/b2025_26/bills/HB2206/ | accessed 2026-05-19 | HB 2206 subject/status and testimony listing O'Hara opponent/in-person | campaign finance law, transparency |"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0005",
+      "url": "https://www.kslegislature.gov/b2025_26/committees/testimony/pdf/?apn=b2025_26/year2/senate/committees/ctte_s_fed_st_1/testimony/published/ctte_s_fed_st_1_20250312_03_testimony.html",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:36",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-charlotte-ohara-00046",
+        "em-charlotte-ohara-00461"
+      ],
+      "claimsAnchored": [
+        "| s-ksleg-hb2206-testimony | primary | https://www.kslegislature.gov/b2025_26/committees/testimony/pdf/?apn=b2025_26/year2/senate/committees/ctte_s_fed_st_1/testimony/published/ctte_s_fed_st_1_20250312_03_testimony.html | testimony dated 2025-03-12; accessed 2",
+        "\"url\": \"https://www.kslegislature.gov/b2025_26/committees/testimony/pdf/?apn=b2025_26/year2/senate/committees/ctte_s_fed_st_1/testimony/published/ctte_s_fed_st_1_20250312_03_testimony.html\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0006",
+      "url": "https://kslegislature.gov/li_2024/b2023_24/committees/ctte_s_fed_st_1/documents/minutes/20240124.pdf",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:37",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-charlotte-ohara-00047",
+        "em-charlotte-ohara-00479"
+      ],
+      "claimsAnchored": [
+        "| s-ksleg-sb366-minutes | primary | https://kslegislature.gov/li_2024/b2023_24/committees/ctte_s_fed_st_1/documents/minutes/20240124.pdf | minutes approved 2024-01-31; accessed 2026-05-19 | O'Hara proponent testimony for SB 366 on advance-ballot applications |",
+        "\"url\": \"https://kslegislature.gov/li_2024/b2023_24/committees/ctte_s_fed_st_1/documents/minutes/20240124.pdf\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0007",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CO_202601.pdf",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump.md:28",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 6,
+      "rowIds": [
+        "em-charlotte-ohara-00207",
+        "em-charlotte-ohara-00213",
+        "em-charlotte-ohara-00227",
+        "em-charlotte-ohara-00284",
+        "em-charlotte-ohara-00438",
+        "em-charlotte-ohara-00038"
+      ],
+      "claimsAnchored": [
+        "2026 filing PDF: [SW01CO_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CO_202601.pdf)",
+        "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CO_202601.pdf",
+        "Kansas Ethics filing: [SW01CO_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CO_202601.pdf)",
+        "[SW01CO_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CO_202601.pdf)",
+        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CO_202601.pdf\"",
+        "| s-kpdc-202601 | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CO_202601.pdf | filed 2026-01-12; accessed 2026-05-19 | 2025 receipts, expenditures, cash on hand, in-kind, loans/other transactions | campaign finance |"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0008",
+      "url": "https://sos.ks.gov/elections/important-election-dates.html",
+      "sourceFile": "memory/elections/2026-11-03-kansas-governor.md:44",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00808"
+      ],
+      "claimsAnchored": [
+        "https://sos.ks.gov/elections/important-election-dates.html -- Official election dates -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0009",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01CO_AT.pdf",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:27",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00037"
+      ],
+      "claimsAnchored": [
+        "| s-kpdc-at | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01CO_AT.pdf | accessed 2026-05-19 | Appointment of treasurer; office sought Governor; treasurer Lisa Huesers | campaign finance, status |"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0010",
+      "url": "https://oharaforkansas.com/when-did-you-begin/",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:45",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat",
+        "reject"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-charlotte-ohara-00055",
+        "em-charlotte-ohara-00366",
+        "em-charlotte-ohara-00379",
+        "em-charlotte-ohara-00009"
+      ],
+      "claimsAnchored": [
+        "| s-when-did-you-begin | primary | https://oharaforkansas.com/when-did-you-begin/ | published 2026-02-17; accessed 2026-05-19 | Candidate-controlled pro-life poem | abortion/life |",
+        "The Feb. 17, 2026 post \"When Did You Begin\" is a pro-life poem that asks when human dignity begins, reinforcing abortion as a recurring campaign theme. ([source](https://oharaforkansas.com/when-did-you-begin/))",
+        "\"When Did You Begin,\" 2026-02-17. Pro-life poem and religious/moral framing. ([source](https://oharaforkansas.com/when-did-you-begin/))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0011",
+      "url": "https://oharaforkansas.com/we-the-people-vs-the-kansas-bar-association/",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:46",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00056"
+      ],
+      "claimsAnchored": [
+        "| s-bar-association-post | primary | https://oharaforkansas.com/we-the-people-vs-the-kansas-bar-association/ | published 2026-05-19; accessed 2026-05-19 | Judicial-selection amendment, clergy outreach, abortion framing | courts, abortion |"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0012",
+      "url": "https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:52",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography",
+        "social post",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat",
+        "source-only",
+        "reject"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-charlotte-ohara-00062",
+        "em-charlotte-ohara-00387",
+        "em-charlotte-ohara-00807",
+        "em-charlotte-ohara-00920",
+        "em-charlotte-ohara-00007"
+      ],
+      "claimsAnchored": [
+        "| s-ksreflector-debate | secondary | https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/ | published 2026-01-30; accessed 2026-05-19 | GOP debate coverage, abortion/marijuana/ju",
+        "Kansas Reflector, Jan. 30, 2026: first GOP debate coverage. O'Hara attacked what she called a \"vast sea of RINOs\" in the Republican Party; the piece also reports broad GOP debate agreement on abortion opposition, marijuana opposition, and elected Supreme Court",
+        "https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/ -- GOP debate coverage (Jan 2026) -- accessed 2026-03-30",
+        "[Kansas Reflector: GOP debate (Jan 30, 2026)](https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0013",
+      "url": "https://oharaforkansas.com/men-in-womens-ymca-locker-rooms/",
+      "sourceFile": "memory/candidates/charlotte-ohara/in-their-own-words.md:27",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-charlotte-ohara-00014",
+        "em-charlotte-ohara-00059",
+        "em-charlotte-ohara-00383",
+        "em-charlotte-ohara-00367"
+      ],
+      "claimsAnchored": [
+        "Social-conservative gender messaging appears in the May 2, 2025 post \"Men in Women's YMCA Locker Rooms?\" The piece opens from a religious creation frame and argues the locker-room policy issue should be simple. This fits the broader homepage promise to remove ",
+        "| s-locker-room-post | primary | https://oharaforkansas.com/men-in-womens-ymca-locker-rooms/ | published 2025-05-02; accessed 2026-05-19 | Sex-segregated spaces/gender commentary | sex/gender policy |",
+        "\"Men in Women's YMCA Locker Rooms?,\" 2025-05-02. Social-conservative gender/locker-room issue framing. ([source](https://oharaforkansas.com/men-in-womens-ymca-locker-rooms/))",
+        "The May 2, 2025 post \"Men in Women's YMCA Locker Rooms?\" frames sex-segregated spaces through O'Hara's religious and social-conservative worldview. ([source](https://oharaforkansas.com/men-in-womens-ymca-locker-rooms/))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0014",
+      "url": "https://oharaforkansas.com/",
+      "sourceFile": "memory/candidates/charlotte-ohara/in-their-own-words.md:21",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "campaign statement",
+        "church/worship",
+        "ballot status",
+        "voting record",
+        "donor/funding",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 14,
+      "rowIds": [
+        "em-charlotte-ohara-00011",
+        "em-charlotte-ohara-00010",
+        "em-charlotte-ohara-00003",
+        "em-charlotte-ohara-00012",
+        "em-charlotte-ohara-00008",
+        "em-charlotte-ohara-00201",
+        "em-charlotte-ohara-00202",
+        "em-charlotte-ohara-00048",
+        "em-charlotte-ohara-01352",
+        "em-charlotte-ohara-00344",
+        "em-charlotte-ohara-00372",
+        "em-charlotte-ohara-00360",
+        "em-charlotte-ohara-00373",
+        "em-charlotte-ohara-00359"
+      ],
+      "claimsAnchored": [
+        "Education is framed through local control, parental values, anti-DEI/CRT language, and distrust of the state education bureaucracy. The homepage says public schools should have \"freedom to learn\" with DEI, WOKE, and CRT replaced by reading, writing, history, a",
+        "Her biography folds faith into governing identity. The homepage says her faith is the cornerstone of her life, ties \"one nation under God\" to strong families and faith communities, and says she would bring a common-sense voice to Kansas. It also says she and h",
+        "Across the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as m",
+        "O'Hara also posts in the COVID and health-freedom lane. Her site biography says she has first-hand experience with the damage of COVID shutdowns to small business. In \"The Great Property Tax Shift,\" she says that as a Johnson County commissioner during COVID s",
+        "O'Hara's judicial message is unusually specific. Her homepage calls for \"direct partisan election of judges\" and says the Kansas Bar Association's control over judicial selection must end. Kansas Reflector's debate coverage quoted her saying Kansas needs direc",
+        "\"I look forward to visiting with you on the campaign trail!\" - campaign site, 2026-04-01, https://oharaforkansas.com/ - topic: campaign tone.",
+        "\"conservative values\" - campaign site language, 2026-04-01, https://oharaforkansas.com/ - topic: governing philosophy.",
+        "| s-campaign-home | primary | https://oharaforkansas.com/ | accessed 2026-05-19 | Current campaign homepage, priorities, biography, donation footer | stated platform |",
+        "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, ",
+        "| Campaign site | https://oharaforkansas.com/ | FOUND | Current candidate-controlled site. Homepage frames the campaign as \"WOKE and BROKE Out...Common Sense IN for Kansas\" and lists seven priorities including DOGE-style spending cuts, stopping tax incentives,",
+        "Campaign homepage, captured 2026-05-11. Key signals: \"WOKE and BROKE Out...Common Sense IN for Kansas\"; DOGE must come to Kansas; stop tax incentives; transparency; partisan judicial elections; anti-DEI/CRT education language; opposition to industrial wind/sol",
+        "The site biography presents O'Hara as a former general contractor/developer, small-business owner, former Kansas House member, former Johnson County commissioner, mother, grandmother, and person whose faith is central to public life. It says her family busines"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0015",
+      "url": "https://oharaforkansas.com/dismantling-the-kansas-department-of-education/",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:43",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-charlotte-ohara-00053",
+        "em-charlotte-ohara-00365",
+        "em-charlotte-ohara-00377"
+      ],
+      "claimsAnchored": [
+        "| s-education-post | primary | https://oharaforkansas.com/dismantling-the-kansas-department-of-education/ | published 2026-04-28; accessed 2026-05-19 | Education localism, closing KSDE, federal funds, curriculum | education |",
+        "The April 28, 2026 post \"Dismantling the Kansas Department of Education\" argues education should be local and criticizes what she describes as tax-incentive funded candidates and the state education bureaucracy. ([source](https://oharaforkansas.com/dismantling",
+        "\"Dismantling the Kansas Department of Education,\" 2026-04-28. Education-localism and anti-state-education-bureaucracy signal. ([source](https://oharaforkansas.com/dismantling-the-kansas-department-of-education/))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0016",
+      "url": "https://oharaforkansas.com/about-charlotte-ohara/",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:39",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 8,
+      "rowIds": [
+        "em-charlotte-ohara-00049",
+        "em-charlotte-ohara-00230",
+        "em-charlotte-ohara-00232",
+        "em-charlotte-ohara-00200",
+        "em-charlotte-ohara-00231",
+        "em-charlotte-ohara-00278",
+        "em-charlotte-ohara-01344",
+        "em-charlotte-ohara-00285"
+      ],
+      "claimsAnchored": [
+        "| s-campaign-about | primary | https://oharaforkansas.com/about-charlotte-ohara/ | accessed 2026-05-19 | Biography, House/commission service, COVID statements, faith/family language | biography, COVID, faith language |",
+        "\"I grew up in our farm family’s tradition of faith, grit and hard work.\" - campaign about page, 2026-04-01, [oharaforkansas.com/about-charlotte-ohara](https://oharaforkansas.com/about-charlotte-ohara/) - topic: biography.",
+        "\"God bless you all.\" - campaign about page, 2026-04-01, [oharaforkansas.com/about-charlotte-ohara](https://oharaforkansas.com/about-charlotte-ohara/) - topic: faith/campaign tone.",
+        "\"A proven fighter for Kansas\" - campaign site, 2026-04-01, https://oharaforkansas.com/about-charlotte-ohara/ - topic: self-description.",
+        "\"I would be honored to earn your support for a PROVEN conservative to bring Kansas back to its promise\" - campaign about page, 2026-04-01, [oharaforkansas.com/about-charlotte-ohara](https://oharaforkansas.com/about-charlotte-ohara/) - topic: campaign pitch.",
+        "> -- O'Hara campaign biography, April 1, 2026, https://oharaforkansas.com/about-charlotte-ohara/",
+        "\"source\": \"O'Hara campaign biography, April 1, 2026, https://oharaforkansas.com/about-charlotte-ohara/\",",
+        "[oharaforkansas.com/about-charlotte-ohara](https://oharaforkansas.com/about-charlotte-ohara/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0017",
+      "url": "https://www.realmediakc.com/podcast/philip-sarnecki-for-kansas-governor-faith-business-outsider-vision/",
+      "sourceFile": "ui/src/data/candidates.ts:12302",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "church/worship"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-charlotte-ohara-01305",
+        "em-charlotte-ohara-00948"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.realmediakc.com/podcast/philip-sarnecki-for-kansas-governor-faith-business-outsider-vision/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0018",
+      "url": "https://oharaforkansas.com/the-great-property-tax-shift/",
+      "sourceFile": "memory/candidates/charlotte-ohara/in-their-own-words.md:7",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record",
+        "biography",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-charlotte-ohara-00004",
+        "em-charlotte-ohara-00052",
+        "em-charlotte-ohara-00376",
+        "em-charlotte-ohara-00363"
+      ],
+      "claimsAnchored": [
+        "The strongest candidate-controlled signal is property taxes and opposition to development incentives. In her May 5, 2026 post \"The Great Property Tax Shift,\" O'Hara argues homeowners are being crushed by a shift in property-tax burden and says economic-develop",
+        "| s-property-tax-shift | primary | https://oharaforkansas.com/the-great-property-tax-shift/ | published 2026-05-05; accessed 2026-05-19 | Property tax, incentives, COVID spending, proposed actions | taxes, spending, COVID |",
+        "\"The Great Property Tax Shift,\" 2026-05-05. Recent anchor post on property taxes, economic-development incentives, COVID funding, local/state spending, school-board/city/county activism, and proposed property-tax elimination. ([source](https://oharaforkansas.c",
+        "The campaign's May 5, 2026 post \"The Great Property Tax Shift\" is a representative recent piece. O'Hara argues residential homeowners are carrying a larger share of Johnson County property-tax revenue, attacks STAR bonds, TIFs, IRBs, HPIP and PEAK programs, an"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0019",
+      "url": "https://oharaforkansas.com/wp-json/wp/v2/posts?per_page=100&_fields=date,slug,link,title.rendered,categories",
+      "sourceFile": "memory/candidates/charlotte-ohara/in-their-own-words.md:29",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record",
+        "ballot status",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-charlotte-ohara-00015",
+        "em-charlotte-ohara-00006",
+        "em-charlotte-ohara-00050",
+        "em-charlotte-ohara-00361",
+        "em-charlotte-ohara-00374"
+      ],
+      "claimsAnchored": [
+        "The archive also gives her campaign a strong Johnson County-local frame despite the statewide race. Titles and categories repeatedly reference JoCo spending, the Board of County Commissioners, property-tax shifts, county sales taxes, county budget growth, John",
+        "The second major signal is election integrity, partisan election rules, and suspicion of establishment Republicans. Her campaign archive includes titles such as \"Election Integrity: the Ghost of 2020,\" \"Kansas Voter Rolls - A Dirty Business,\" \"STOP the Cheat!,",
+        "| s-campaign-archive | primary | https://oharaforkansas.com/wp-json/wp/v2/posts?per_page=100&_fields=date,slug,link,title.rendered,categories | accessed 2026-05-19 | 73 public campaign-site posts, dates/titles/links | online presence, issue frequency |",
+        "The campaign archive contained 71 public posts in the WordPress API on capture. The earliest listed post was \"A Sobering Look at Abortion Statistics in Kansas\" on 2025-01-14; the latest listed post was \"The Great Property Tax Shift\" on 2026-05-05. ([archive so",
+        "Campaign-site archive/API, captured 2026-05-11: 71 posts from 2025-01-14 to 2026-05-05. ([source](https://oharaforkansas.com/wp-json/wp/v2/posts?per_page=100&_fields=date,slug,link,title.rendered,categories))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0020",
+      "url": "https://www.jocogov.org/newsroom/board-county-commissioners-monthly-recap-june-2023",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:32",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00042"
+      ],
+      "claimsAnchored": [
+        "| s-joco-june-2023 | primary | https://www.jocogov.org/newsroom/board-county-commissioners-monthly-recap-june-2023 | published 2023-06-30; accessed 2026-05-19 | O'Hara votes on budget, pay table, coalitions, CNANO IRB/PILOT, planning items, opioid funds | taxe"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0021",
+      "url": "https://www.jocogov.org/newsroom/board-county-commissioners-meeting-recap-jan-16-2025",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:34",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00044"
+      ],
+      "claimsAnchored": [
+        "| s-joco-cnano-2025 | primary | https://www.jocogov.org/newsroom/board-county-commissioners-meeting-recap-jan-16-2025 | published 2025-01-16; accessed 2026-05-19 | CNANO annual certification after 2023 tax abatement | incentives, CNANO |"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0022",
+      "url": "https://johnsoncountypost.com/2025/03/10/charlotte-ohara-kansas-governor-bid-254803/",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:50",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-charlotte-ohara-00060",
+        "em-charlotte-ohara-00921",
+        "em-charlotte-ohara-00005",
+        "em-charlotte-ohara-00389"
+      ],
+      "claimsAnchored": [
+        "| s-jcp-launch | secondary | https://johnsoncountypost.com/2025/03/10/charlotte-ohara-kansas-governor-bid-254803/ | published 2025-03-10; accessed 2026-05-19 | Launch coverage, property taxes, incentives, DEI/COVID reputation | campaign context |",
+        "[Johnson County Post: O'Hara governor bid (March 10, 2025)](https://johnsoncountypost.com/2025/03/10/charlotte-ohara-kansas-governor-bid-254803/)",
+        "That anti-incentive theme is also central to her launch coverage. Johnson County Post reported on March 10, 2025 that O'Hara made property taxes a focus of the campaign and was already known locally for skepticism toward development tax incentives, diversity p",
+        "Johnson County Post, March 10, 2025: campaign launch coverage reporting that she made property taxes a focus and was known for skepticism toward development tax incentives, diversity programs, and COVID mitigation measures. ([source](https://johnsoncountypost."
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0023",
+      "url": "https://kansasreflector.com/2026/02/16/kansas-gop-candidate-for-governor-says-state-needs-a-true-conservative/",
+      "sourceFile": "memory/candidates/charlotte-ohara/in-their-own-words.md:33",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding",
+        "ballot status",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-charlotte-ohara-00017",
+        "em-charlotte-ohara-00063",
+        "em-charlotte-ohara-00918",
+        "em-charlotte-ohara-00388"
+      ],
+      "claimsAnchored": [
+        "Kansas Reflector's Feb. 16, 2026 profile placed the same voice in campaign context. O'Hara argued that the issue is not whether someone has served in office but whether they have become a career politician focused on \"the big boys.\" She emphasized being raised",
+        "| s-ksreflector-profile | secondary | https://kansasreflector.com/2026/02/16/kansas-gop-candidate-for-governor-says-state-needs-a-true-conservative/ | published 2026-02-16; accessed 2026-05-19 | Profile and policy summary | campaign context |",
+        "[Kansas Reflector: O'Hara \"true conservative\" (Feb 16, 2026)](https://kansasreflector.com/2026/02/16/kansas-gop-candidate-for-governor-says-state-needs-a-true-conservative/)",
+        "Kansas Reflector, Feb. 16, 2026: profile/podcast coverage describing her campaign as a \"true conservative\" pitch and summarizing her views on abortion, education, taxes, elections, rural background, and career-politician critiques. ([source](https://kansasrefl"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0024",
+      "url": "https://oharaforkansas.com/the-wonder-drug-war-ivermectin-covid-and-politics/",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:48",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-charlotte-ohara-00058",
+        "em-charlotte-ohara-00368",
+        "em-charlotte-ohara-00382"
+      ],
+      "claimsAnchored": [
+        "| s-ivermectin-post | primary | https://oharaforkansas.com/the-wonder-drug-war-ivermectin-covid-and-politics/ | published 2025-07-22; accessed 2026-05-19 | Health-freedom/ivermectin campaign commentary | COVID, health freedom |",
+        "The July 22, 2025 post \"The Wonder Drug War - Ivermectin, COVID and Politics!\" says she is not a doctor but supports the \"health freedom movement\" in the politics around ivermectin. ([source](https://oharaforkansas.com/the-wonder-drug-war-ivermectin-covid-and-",
+        "\"The Wonder Drug War - Ivermectin, COVID and Politics!,\" 2025-07-22. COVID/health-freedom theme and skepticism toward FDA/Big Pharma. ([source](https://oharaforkansas.com/the-wonder-drug-war-ivermectin-covid-and-politics/))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0025",
+      "url": "https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:725",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00895"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0026",
+      "url": "https://oharaforkansas.com/trump-vs-the-old-guard-a-new-era-for-kansas-and-american-politics/",
+      "sourceFile": "memory/candidates/charlotte-ohara/in-their-own-words.md:25",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "background-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-charlotte-ohara-00013",
+        "em-charlotte-ohara-00369",
+        "em-charlotte-ohara-00384"
+      ],
+      "claimsAnchored": [
+        "The campaign's anti-establishment Republican posture is tied to Trump. In \"A New Era for Kansas and American Politics,\" O'Hara praises President Trump's rapid executive-order pace as refreshing and says it is unseating Democrats while also disrupting the old R",
+        "The Jan. 28, 2025 post \"A New Era for Kansas and American Politics\" praises President Trump's executive-order pace and presents it as a model for breaking both Democrats and the \"old Republican guard.\" ([source](https://oharaforkansas.com/trump-vs-the-old-guar",
+        "\"A New Era for Kansas and American Politics,\" 2025-01-28. Trump-aligned anti-establishment Republican theme. ([source](https://oharaforkansas.com/trump-vs-the-old-guard-a-new-era-for-kansas-and-american-politics/))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0027",
+      "url": "https://kansasreflector.com/2025/11/28/its-an-honesty-dozens-of-columns-voice-the-politics-of-one-candidate-for-kansas-governor/",
+      "sourceFile": "memory/candidates/charlotte-ohara/in-their-own-words.md:31",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "background-only"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-charlotte-ohara-00016",
+        "em-charlotte-ohara-00061",
+        "em-charlotte-ohara-00919",
+        "em-charlotte-ohara-00386"
+      ],
+      "claimsAnchored": [
+        "Kansas Reflector's Nov. 28, 2025 column about her website explains why the archive matters. O'Hara told the outlet she loves writing columns, said many candidates speak in platitudes instead of specifics, and said she wants voters to know where she is coming f",
+        "| s-ksreflector-columns | secondary | https://kansasreflector.com/2025/11/28/its-an-honesty-dozens-of-columns-voice-the-politics-of-one-candidate-for-kansas-governor/ | published 2025-11-28; accessed 2026-05-19 | Explains her column-heavy campaign style | onli",
+        "[Kansas Reflector: Dozens of columns (Nov 28, 2025)](https://kansasreflector.com/2025/11/28/its-an-honesty-dozens-of-columns-voice-the-politics-of-one-candidate-for-kansas-governor/)",
+        "Kansas Reflector, Nov. 28, 2025: O'Hara explained why she publishes dozens of political columns, saying many candidates avoid specifics and she wants voters to know where she is coming from. ([source](https://kansasreflector.com/2025/11/28/its-an-honesty-dozen"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0028",
+      "url": "https://www.jocoelection.org/sites/default/files/2024-11/GN2024%20Official%20Final%20Results.pdf",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:31",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00041"
+      ],
+      "claimsAnchored": [
+        "| s-joco-2024-results | primary | https://www.jocoelection.org/sites/default/files/2024-11/GN2024%20Official%20Final%20Results.pdf | certified 2024-11-18; accessed 2026-05-19 | 2024 County Commissioner District 3 result | election history |"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0029",
+      "url": "https://www.jocogov.org/newsroom/information-and-next-steps-regarding-koma-complaint",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:33",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00043"
+      ],
+      "claimsAnchored": [
+        "| s-joco-koma | primary | https://www.jocogov.org/newsroom/information-and-next-steps-regarding-koma-complaint | published 2023-08-22; accessed 2026-05-19 | O'Hara KOMA complaint and county/AG status update | transparency, process |"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0030",
+      "url": "https://oharaforkansas.com/wp-json/wp/v2/categories?per_page=100",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:41",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-charlotte-ohara-00051",
+        "em-charlotte-ohara-00362",
+        "em-charlotte-ohara-00375"
+      ],
+      "claimsAnchored": [
+        "| s-campaign-categories | primary | https://oharaforkansas.com/wp-json/wp/v2/categories?per_page=100 | accessed 2026-05-19 | category counts: Kansas Issues 72, Transparency 59, Elections 52, etc. | online presence, issue frequency |",
+        "The highest-frequency campaign-archive themes are Kansas issues, transparency, elections/voting, taxes, Johnson County spending, public safety, and property taxes. WordPress category counts are overlapping because most posts carry multiple categories: Kansas I",
+        "Campaign-site category metadata, captured 2026-05-11: 70 Kansas Issues posts; 57 Transparency; 50 Elections; 45 Voting; 31 Taxes; 23 JoCo Spending; 20 Public Safety; 19 Property Taxes; 15 Safety; 12 JoCo Budget; 4 BOCC; 1 Podcasts; 1 Uncategorized. ([source](h"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0031",
+      "url": "https://oharaforkansas.com/election-integrity-the-ghost-of-2020/",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:44",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-charlotte-ohara-00054",
+        "em-charlotte-ohara-00364",
+        "em-charlotte-ohara-00378"
+      ],
+      "claimsAnchored": [
+        "| s-election-integrity-post | primary | https://oharaforkansas.com/election-integrity-the-ghost-of-2020/ | published 2026-03-24; accessed 2026-05-19 | SAVE Act, voter information, paper ballots, election integrity claims | election administration |",
+        "The March 24, 2026 post \"Election Integrity: the Ghost of 2020\" tied election-integrity messaging to opposition to the sports authority/STAR bond package and asked readers to contact state senators. ([source](https://oharaforkansas.com/election-integrity-the-g",
+        "\"Election Integrity: the Ghost of 2020,\" 2026-03-24. Election-integrity and anti-sports-authority/STAR-bond signal. ([source](https://oharaforkansas.com/election-integrity-the-ghost-of-2020/))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0032",
+      "url": "https://oharaforkansas.com",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:336",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00194"
+      ],
+      "claimsAnchored": [
+        "Campaign Website: [oharaforkansas.com](https://oharaforkansas.com)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0033",
+      "url": "https://www.kansascatholic.org/current-news/election-2026",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump.md:40",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-charlotte-ohara-00214",
+        "em-charlotte-ohara-00287"
+      ],
+      "claimsAnchored": [
+        "https://www.kansascatholic.org/current-news/election-2026",
+        "[kansascatholic.org](https://www.kansascatholic.org/current-news/election-2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0034",
+      "url": "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026",
+      "sourceFile": "memory/elections/2026-11-03-kansas-governor.md:40",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-charlotte-ohara-00804",
+        "em-charlotte-ohara-00963"
+      ],
+      "claimsAnchored": [
+        "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026 -- Full candidate list, election timeline -- accessed 2026-03-30",
+        "[Ballotpedia: KS Governor 2026](https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0035",
+      "url": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
+      "sourceFile": "memory/elections/2026-11-03-kansas-governor.md:41",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-charlotte-ohara-00805",
+        "em-charlotte-ohara-00964"
+      ],
+      "claimsAnchored": [
+        "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election -- Candidate details and background -- accessed 2026-03-30",
+        "[Wikipedia: 2026 KS Gubernatorial](https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0036",
+      "url": "https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates",
+      "sourceFile": "memory/elections/2026-11-03-kansas-governor.md:42",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-charlotte-ohara-00806",
+        "em-charlotte-ohara-00929"
+      ],
+      "claimsAnchored": [
+        "https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates -- KCUR candidate guide -- accessed 2026-03-30",
+        "[KCUR: Kansas governor 2026 guide (July 24, 2025)](https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0037",
+      "url": "https://ethanforkansas.com",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:31",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-charlotte-ohara-00826",
+        "em-charlotte-ohara-00905"
+      ],
+      "claimsAnchored": [
+        "Campaign Website: [ethanforkansas.com](https://ethanforkansas.com)",
+        "[ethanforkansas.com](https://ethanforkansas.com)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0038",
+      "url": "https://kansasreflector.com/2026/01/09/latest-kansas-campaign-finance-reports-schwab-takes-in-1-3m-corson-receives-900k/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:726",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00896"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Campaign finance reports (Jan 9, 2026)](https://kansasreflector.com/2026/01/09/latest-kansas-campaign-finance-reports-schwab-takes-in-1-3m-corson-receives-900k/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0039",
+      "url": "https://kansasreflector.com/2025/08/01/kansas-governor-candidate-cindy-holscher-objects-to-alleged-pressure-campaign-by-kellys-staff/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:739",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00908"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Kelly staff pressure (Aug 1, 2025)](https://kansasreflector.com/2025/08/01/kansas-governor-candidate-cindy-holscher-objects-to-alleged-pressure-campaign-by-kellys-staff/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0040",
+      "url": "https://kansasreflector.com/2025/10/06/kansas-senator-leans-into-bipartisan-allure-in-campaign-for-kansas-governor/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:740",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00909"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Bipartisan allure (Oct 6, 2025)](https://kansasreflector.com/2025/10/06/kansas-senator-leans-into-bipartisan-allure-in-campaign-for-kansas-governor/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0041",
+      "url": "https://johnsoncountypost.com/2024/11/05/county-commission-races-2024-general-246243/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:764",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00922"
+      ],
+      "claimsAnchored": [
+        "[Johnson County Post: 2024 election results (Nov 5, 2024)](https://johnsoncountypost.com/2024/11/05/county-commission-races-2024-general-246243/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0042",
+      "url": "https://www.ksn.com/news/your-local-election-hq/republican-woman-wants-to-be-next-kansas-governor/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:771",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00927"
+      ],
+      "claimsAnchored": [
+        "[KSN: Republican woman for governor](https://www.ksn.com/news/your-local-election-hq/republican-woman-wants-to-be-next-kansas-governor/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0043",
+      "url": "https://ballotpedia.org/Kansas_2026_ballot_measures",
+      "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:232",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00977"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: KS 2026 Ballot Measures](https://ballotpedia.org/Kansas_2026_ballot_measures)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0044",
+      "url": "https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026",
+      "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:233",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00978"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0045",
+      "url": "https://www.votenokansas.org/",
+      "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:234",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00979"
+      ],
+      "claimsAnchored": [
+        "[Vote No Kansas 2026](https://www.votenokansas.org/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0046",
+      "url": "https://www.yahoo.com/news/articles/stacy-rogers-says-shes-taking-090609003.html",
+      "sourceFile": "ui/src/data/candidates.ts:21406",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-charlotte-ohara-01407",
+        "em-charlotte-ohara-01408"
+      ],
+      "claimsAnchored": [
+        "\"source\": \"Yahoo News / campaign coverage, 2026-04-01, https://www.yahoo.com/news/articles/stacy-rogers-says-shes-taking-090609003.html\",",
+        "\"url\": \"https://www.yahoo.com/news/articles/stacy-rogers-says-shes-taking-090609003.html\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0047",
+      "url": "https://oharaforkansas.com/gas-station-heroin-distributors-campaign-contributors/",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:47",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00057"
+      ],
+      "claimsAnchored": [
+        "| s-kratom-post | primary | https://oharaforkansas.com/gas-station-heroin-distributors-campaign-contributors/ | published 2026-05-13; accessed 2026-05-19 | Kratom/7-OH, opponent-donor criticism | public safety, donor scrutiny |"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0048",
+      "url": "https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:727",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-charlotte-ohara-00897",
+        "em-charlotte-ohara-00911"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Rural voter appeal (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)",
+        "[Kansas Reflector: Rural voters (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0049",
+      "url": "https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:774",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00930"
+      ],
+      "claimsAnchored": [
+        "[Schooley Mitchell: Eberly Farm / Kids Closet story](https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0050",
+      "url": "https://www.jocoelection.org/candidates-elected-officials/charlotte-ohara",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:30",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00040"
+      ],
+      "claimsAnchored": [
+        "| s-joco-profile | primary | https://www.jocoelection.org/candidates-elected-officials/charlotte-ohara | accessed 2026-05-19 | County Commissioner District 3 profile, term end 2025, elected-official flag | prior local office |"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0051",
+      "url": "https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:779",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00934"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Millionaire candidates (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0052",
+      "url": "https://trendingpoliticsnews.com/new-frontrunner-emerges-in-key-race-as-gop-candidate-shatters-fundraising-records-mace/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:793",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-charlotte-ohara-00944",
+        "em-charlotte-ohara-01300"
+      ],
+      "claimsAnchored": [
+        "[Trending Politics: Frontrunner emerges](https://trendingpoliticsnews.com/new-frontrunner-emerges-in-key-race-as-gop-candidate-shatters-fundraising-records-mace/)",
+        "\"url\": \"https://trendingpoliticsnews.com/new-frontrunner-emerges-in-key-race-as-gop-candidate-shatters-fundraising-records-mace/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0053",
+      "url": "https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:795",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00946"
+      ],
+      "claimsAnchored": [
+        "[NOLN: Strickland Brothers franchise owner](https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0054",
+      "url": null,
+      "sourceFile": "memory/candidates/charlotte-ohara/social-harvest.md:96",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social post",
+        "public absence"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 51,
+      "rowIds": [
+        "em-charlotte-ohara-00406",
+        "em-charlotte-ohara-00413",
+        "em-charlotte-ohara-00397",
+        "em-charlotte-ohara-00398",
+        "em-charlotte-ohara-00400",
+        "em-charlotte-ohara-00402",
+        "em-charlotte-ohara-00338",
+        "em-charlotte-ohara-00396",
+        "em-charlotte-ohara-00416",
+        "em-charlotte-ohara-00399",
+        "em-charlotte-ohara-00357",
+        "em-charlotte-ohara-00418",
+        "em-charlotte-ohara-00334",
+        "em-charlotte-ohara-00335",
+        "em-charlotte-ohara-00336",
+        "em-charlotte-ohara-00337",
+        "em-charlotte-ohara-00339",
+        "em-charlotte-ohara-00340",
+        "em-charlotte-ohara-00341",
+        "em-charlotte-ohara-00342",
+        "em-charlotte-ohara-00343",
+        "em-charlotte-ohara-00348",
+        "em-charlotte-ohara-00349",
+        "em-charlotte-ohara-00350",
+        "em-charlotte-ohara-00351",
+        "em-charlotte-ohara-00352",
+        "em-charlotte-ohara-00353",
+        "em-charlotte-ohara-00354",
+        "em-charlotte-ohara-00355",
+        "em-charlotte-ohara-00356",
+        "em-charlotte-ohara-00358",
+        "em-charlotte-ohara-00371",
+        "em-charlotte-ohara-00390",
+        "em-charlotte-ohara-00391",
+        "em-charlotte-ohara-00392",
+        "em-charlotte-ohara-00393",
+        "em-charlotte-ohara-00394",
+        "em-charlotte-ohara-00395",
+        "em-charlotte-ohara-00401",
+        "em-charlotte-ohara-00403",
+        "em-charlotte-ohara-00404",
+        "em-charlotte-ohara-00405",
+        "em-charlotte-ohara-00407",
+        "em-charlotte-ohara-00408",
+        "em-charlotte-ohara-00409",
+        "em-charlotte-ohara-00410",
+        "em-charlotte-ohara-00411",
+        "em-charlotte-ohara-00412",
+        "em-charlotte-ohara-00414",
+        "em-charlotte-ohara-00415"
+      ],
+      "claimsAnchored": [
+        "Manual review of titles and selected article text shows a tighter set of recurring message clusters: property taxes and incentive programs; election integrity, voter rolls, and partisan elections; anti-establishment attacks on \"RINOs\" and \"career politicians\";",
+        "Issue absences are more limited because O'Hara's archive is large. In the accessible set reviewed, no dominant candidate-controlled messaging centered Medicaid expansion, hospital finance, child care, foster care, housing affordability, broadband, higher-educa",
+        "| Taxes category | 31 of 71 posts | 44% |",
+        "| JoCo Spending category | 23 of 71 posts | 32% |",
+        "| Property Taxes category | 19 of 71 posts | 27% |",
+        "| JoCo Budget category | 12 of 71 posts | 17% |",
+        "Election slug: kansas-governor-2026",
+        "| Voting category | 45 of 71 posts | 63% |",
+        "Platforms surveyed: campaign website, campaign WordPress archive/API, Facebook, JoCo election profile, X/Twitter, Instagram, YouTube, Bluesky, TikTok, Truth Social, Gab, Gettr, Substack, Reddit, public search, Kansas Reflector, Johnson County Post, and existin",
+        "| Public Safety category | 20 of 71 posts | 28% |",
+        "| Reddit | Public web/search check | NOT FOUND | No official candidate-controlled account surfaced. |",
+        "Disclaimer: This is a public, logged-out harvest of candidate-controlled and official/public channels plus credible indexed public posts. It reports visible patterns and documented absences in the capture set; it does not infer intent, private strategy, or uno"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0055",
+      "url": "https://oharaforkansas.com/kansas-voter-rolls-a-dirty-business/",
+      "sourceFile": "memory/candidates/charlotte-ohara/social-harvest.md:66",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00381"
+      ],
+      "claimsAnchored": [
+        "\"Kansas Voter Rolls - A Dirty Business,\" 2025-06-24. Voter-roll and election-integrity theme, citing outside WatchDog Lab material. ([source](https://oharaforkansas.com/kansas-voter-rolls-a-dirty-business/))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0056",
+      "url": "https://www.jocoelection.org/candidates-elected-officials/charlotte-o-hara",
+      "sourceFile": "memory/candidates/charlotte-ohara/social-harvest.md:17",
+      "assignedTiers": [
+        "social",
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post",
+        "biography"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "source-only"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-charlotte-ohara-00347",
+        "em-charlotte-ohara-00034",
+        "em-charlotte-ohara-00286",
+        "em-charlotte-ohara-01316"
+      ],
+      "claimsAnchored": [
+        "| JoCo election profile | https://www.jocoelection.org/candidates-elected-officials/charlotte-o-hara | FOUND | Candidate data lists this as campaignWebsite, but current governor campaign branding and active archive are at oharaforkansas.com. |",
+        "https://www.jocoelection.org/candidates-elected-officials/charlotte-o-hara",
+        "[jocoelection.org](https://www.jocoelection.org/candidates-elected-officials/charlotte-o-hara)",
+        "\"campaignWebsite\": \"https://www.jocoelection.org/candidates-elected-officials/charlotte-o-hara\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0057",
+      "url": "https://www.facebook.com/oharaforjoco/",
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:54",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-charlotte-ohara-00064",
+        "em-charlotte-ohara-00018",
+        "em-charlotte-ohara-00346",
+        "em-charlotte-ohara-00370",
+        "em-charlotte-ohara-00385"
+      ],
+      "claimsAnchored": [
+        "| s-facebook-page | social | https://www.facebook.com/oharaforjoco/ | local capture 2026-05-11; current access blocked 2026-05-19 | Facebook page identity; local capture showed 1,513 likes and 389 talking | social presence |",
+        "The accessible campaign footprint is heavily website-centered. The active Facebook page at the old JoCo URL is publicly branded \"O'Hara for Kansas\" and showed 1,513 likes and 389 talking about this on May 11, 2026, with the description \"O'Hara for Kansas Gover",
+        "| Campaign Facebook | https://www.facebook.com/oharaforjoco/ | FOUND | Public metadata captured 2026-05-11 identified the page as \"O'Hara for Kansas\" with 1,513 likes and 389 talking about this. The URL reflects the former \"O'Hara for JoCo\" page, but the metad",
+        "The public Facebook page metadata is much thinner than the campaign site but confirms a current page identity: \"O'Hara for Kansas,\" 1,513 likes, 389 talking about this, and the description \"O'Hara for Kansas Governor.\" Individual Facebook posts were not reliab",
+        "Facebook page metadata, captured 2026-05-11: O'Hara for Kansas; 1,513 likes; 389 talking about this; governor campaign description. ([source](https://www.facebook.com/oharaforjoco/))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0058",
+      "url": "https://sos.ks.gov/media/press-releases.html",
+      "sourceFile": "reports/scott-schwab-complete-dossier.md:780",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-01124"
+      ],
+      "claimsAnchored": [
+        "[Kansas Secretary of State -- Press Releases](https://sos.ks.gov/media/press-releases.html)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0059",
+      "url": "https://oharaforkansas.com/meet-charlotte-ohara/",
+      "sourceFile": "memory/candidates/charlotte-ohara/site-profile.md:74",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00282"
+      ],
+      "claimsAnchored": [
+        "[oharaforkansas.com](https://oharaforkansas.com/meet-charlotte-ohara/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0060",
+      "url": "https://www.amazon.com/Get-Off-Your-Ass-Definitive/dp/1591201292",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:752",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00912"
+      ],
+      "claimsAnchored": [
+        "[Amazon: Get Off Your Ass!](https://www.amazon.com/Get-Off-Your-Ass-Definitive/dp/1591201292)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0061",
+      "url": "https://www.amazon.com/Busting-Your-Butt-Gut-Minimizing/dp/1591202086",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:753",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00913"
+      ],
+      "claimsAnchored": [
+        "[Amazon: Busting Your Butt and Gut](https://www.amazon.com/Busting-Your-Butt-Gut-Minimizing/dp/1591202086)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0062",
+      "url": "https://www2.ljworld.com/news/2003/mar/27/legal_battles_weigh/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:755",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00915"
+      ],
+      "claimsAnchored": [
+        "[Lawrence Journal-World: Total Fitness legal battles (2003)](https://www2.ljworld.com/news/2003/mar/27/legal_battles_weigh/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0063",
+      "url": "https://www.tuley4gov2026.com",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:757",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00917"
+      ],
+      "claimsAnchored": [
+        "[tuley4gov2026.com](https://www.tuley4gov2026.com)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0064",
+      "url": "https://en.wikipedia.org/wiki/Charlotte_O",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:765",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00923"
+      ],
+      "claimsAnchored": [
+        "[Wikipedia: Charlotte O'Hara](https://en.wikipedia.org/wiki/Charlotte_O'Hara)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0065",
+      "url": "https://ballotpedia.org/Charlotte_O",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:766",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00924"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Charlotte O'Hara](https://ballotpedia.org/Charlotte_O'Hara)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0066",
+      "url": "https://stacyrogersforks.com",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:776",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00932"
+      ],
+      "claimsAnchored": [
+        "[stacyrogersforks.com](https://stacyrogersforks.com)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0067",
+      "url": "https://cornerstonedata.com/about-us/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:784",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00938"
+      ],
+      "claimsAnchored": [
+        "[Cornerstone Data: About Us](https://cornerstonedata.com/about-us/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0068",
+      "url": "https://www.kansascomeback.com",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:786",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00940"
+      ],
+      "claimsAnchored": [
+        "[kansascomeback.com](https://www.kansascomeback.com)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0069",
+      "url": "https://wltreport.com/2026/03/18/meet-republican-businessman-outsider-running-kansas-governor-gaining/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:792",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00943"
+      ],
+      "claimsAnchored": [
+        "[WLT Report: Meet the Republican businessman outsider (March 18, 2026)](https://wltreport.com/2026/03/18/meet-republican-businessman-outsider-running-kansas-governor-gaining/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0070",
+      "url": "https://philipsarnecki.org",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:799",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00950"
+      ],
+      "claimsAnchored": [
+        "[philipsarnecki.org](https://philipsarnecki.org)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0071",
+      "url": "https://oharaforkansas.com/wp-json/wp/v2/posts",
+      "sourceFile": "memory/candidates/charlotte-ohara/social-harvest.md:15",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00345"
+      ],
+      "claimsAnchored": [
+        "| Campaign commentary archive | https://oharaforkansas.com/wp-json/wp/v2/posts | FOUND | WordPress public API exposed 71 posts from 2025-01-14 through 2026-05-05. Posts are largely first-person columns signed or bylined by O'Hara. |"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0072",
+      "url": "https://oharaforkansas.com/stop-the-steal-star-bonds-for-chiefs-and-royals/",
+      "sourceFile": "memory/candidates/charlotte-ohara/social-harvest.md:65",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00380"
+      ],
+      "claimsAnchored": [
+        "\"Stop the Steal - Star Bonds for Chiefs and Royals!,\" 2025-06-10. Anti-STAR-bond campaign against public financing for stadiums. ([source](https://oharaforkansas.com/stop-the-steal-star-bonds-for-chiefs-and-royals/))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0073",
+      "url": "https://www.linkedin.com/in/jeff-colyer-6894363/",
+      "sourceFile": "ui/src/data/candidates.ts:21787",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00575"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.linkedin.com/in/jeff-colyer-6894363/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0074",
+      "url": null,
+      "sourceFile": "memory/candidates/charlotte-ohara/in-their-own-words.md:37",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court",
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-charlotte-ohara-00019",
+        "em-charlotte-ohara-00002",
+        "em-charlotte-ohara-00020",
+        "em-charlotte-ohara-00001",
+        "em-charlotte-ohara-00021"
+      ],
+      "claimsAnchored": [
+        "Several issue areas were not prominent in the accessible material reviewed. The public set did not include dominant candidate-controlled messaging on Medicaid expansion, hospital finance, child care, foster care, housing affordability, broadband, higher-educat",
+        "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook pag",
+        "Methodology: Public capture was conducted on May 11, 2026. Date range covered: Jan. 14, 2025 to May 11, 2026. Platforms surveyed: campaign website, campaign WordPress archive/API, Facebook, JoCo election profile, X/Twitter, Instagram, YouTube, Bluesky, TikTok,",
+        "In Their Own Words - Charlotte O'Hara (R, Kansas Governor)",
+        "Disclaimer: This summary reports visible public patterns from the capture set; it does not infer intent, private strategy, or unobserved activity."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0075",
+      "url": null,
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump-v2.md:74",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court",
+        "church/worship",
+        "voting record",
+        "biography",
+        "ballot status",
+        "campaign statement",
+        "controversy",
+        "meeting record",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 133,
+      "rowIds": [
+        "em-charlotte-ohara-00073",
+        "em-charlotte-ohara-00108",
+        "em-charlotte-ohara-00116",
+        "em-charlotte-ohara-00120",
+        "em-charlotte-ohara-00121",
+        "em-charlotte-ohara-00100",
+        "em-charlotte-ohara-00134",
+        "em-charlotte-ohara-00097",
+        "em-charlotte-ohara-00118",
+        "em-charlotte-ohara-00030",
+        "em-charlotte-ohara-00068",
+        "em-charlotte-ohara-00080",
+        "em-charlotte-ohara-00083",
+        "em-charlotte-ohara-00084",
+        "em-charlotte-ohara-00088",
+        "em-charlotte-ohara-00092",
+        "em-charlotte-ohara-00096",
+        "em-charlotte-ohara-00126",
+        "em-charlotte-ohara-00132",
+        "em-charlotte-ohara-00161",
+        "em-charlotte-ohara-00162",
+        "em-charlotte-ohara-00164",
+        "em-charlotte-ohara-00166",
+        "em-charlotte-ohara-00177",
+        "em-charlotte-ohara-00124",
+        "em-charlotte-ohara-00127",
+        "em-charlotte-ohara-00179",
+        "em-charlotte-ohara-00023",
+        "em-charlotte-ohara-00024",
+        "em-charlotte-ohara-00027",
+        "em-charlotte-ohara-00029",
+        "em-charlotte-ohara-00031",
+        "em-charlotte-ohara-00065",
+        "em-charlotte-ohara-00066",
+        "em-charlotte-ohara-00077",
+        "em-charlotte-ohara-00081",
+        "em-charlotte-ohara-00087",
+        "em-charlotte-ohara-00103",
+        "em-charlotte-ohara-00104",
+        "em-charlotte-ohara-00106",
+        "em-charlotte-ohara-00107",
+        "em-charlotte-ohara-00109",
+        "em-charlotte-ohara-00112",
+        "em-charlotte-ohara-00113",
+        "em-charlotte-ohara-00114",
+        "em-charlotte-ohara-00119",
+        "em-charlotte-ohara-00136",
+        "em-charlotte-ohara-00139",
+        "em-charlotte-ohara-00155",
+        "em-charlotte-ohara-00160"
+      ],
+      "claimsAnchored": [
+        "The Kansas Legislature archive lists \"Representative Charlotte O'Hara,\" District 27, Republican, first term 2011. Committees were Insurance, Agriculture and Natural Resources, Federal and State Affairs, and Financial Institutions. Sponsored-bill list included ",
+        "\"We the People vs. the Kansas Bar Association\" (2026-05-19) urges support for an August 4 primary ballot constitutional amendment for direct election of Kansas Supreme Court justices. The post asks pastors and priests to support the amendment and frames the co",
+        "Issue Area 4 - Abortion / Life Issues and Faith-Language Context",
+        "\"We the People vs. the Kansas Bar Association\" (2026-05-19) links the judicial-selection amendment to abortion and asks clergy to support direct election of Kansas Supreme Court justices.",
+        "Her 2011-2012 Kansas Legislature profile lists sponsored bills on late-term/partial-birth abortion regulation and abortion regulation based on capacity of unborn child to feel pain.",
+        "\"Dismantling the Kansas Department of Education\" (2026-04-28) argues education should be \"Local, Local, Local.\" The post proposes stopping federal funds, closing the Kansas State Department of Education, and putting curriculum decisions at the local district/c",
+        "\"Men in Women's YMCA Locker Rooms?\" (2025-05-02) is the clearest candidate-controlled post on sex-segregated spaces/gender policy in the accessible archive.",
+        "Issue Area 2 - Education, Local Control, and DEI/CRT Language",
+        "The campaign biography says she grew up in a family tradition of faith and says she would bring Kansas back to the promise of \"Life, Property Rights; Education, not indoctrination: Election Integrity and embrace the FREE MARKET-stop corporate welfare.\"",
+        "Official ballot wording needs caution. The Kansas SOS candidate-information page says statewide candidates file with the Secretary of State and are not considered filed until the petition or declaration and fee are received. The same page lists the 2026 primar",
+        "The SOS candidate-information page lists Governor/Lt. Governor among offices to be elected or retained in 2026 and says Democratic and Republican candidates must run in the primary. It states candidates for national, state, legislative, and judicial offices mu",
+        "Issue Area 1 - Taxes, Spending, Incentives, and Property Taxes"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0076",
+      "url": null,
+      "sourceFile": "memory/candidates/charlotte-ohara/site-profile.md:15",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status",
+        "campaign statement",
+        "meeting record",
+        "church/worship",
+        "biography",
+        "voting record",
+        "donor/funding",
+        "endorsement"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 32,
+      "rowIds": [
+        "em-charlotte-ohara-00255",
+        "em-charlotte-ohara-00256",
+        "em-charlotte-ohara-00260",
+        "em-charlotte-ohara-00253",
+        "em-charlotte-ohara-00262",
+        "em-charlotte-ohara-00257",
+        "em-charlotte-ohara-00273",
+        "em-charlotte-ohara-00274",
+        "em-charlotte-ohara-00277",
+        "em-charlotte-ohara-00250",
+        "em-charlotte-ohara-00252",
+        "em-charlotte-ohara-00263",
+        "em-charlotte-ohara-00269",
+        "em-charlotte-ohara-00258",
+        "em-charlotte-ohara-00259",
+        "em-charlotte-ohara-00270",
+        "em-charlotte-ohara-00265",
+        "em-charlotte-ohara-00271",
+        "em-charlotte-ohara-00272",
+        "em-charlotte-ohara-00275",
+        "em-charlotte-ohara-00276",
+        "em-charlotte-ohara-00249",
+        "em-charlotte-ohara-00267",
+        "em-charlotte-ohara-00264",
+        "em-charlotte-ohara-00268",
+        "em-charlotte-ohara-00248",
+        "em-charlotte-ohara-00251",
+        "em-charlotte-ohara-00254",
+        "em-charlotte-ohara-00261",
+        "em-charlotte-ohara-00266",
+        "em-charlotte-ohara-00279",
+        "em-charlotte-ohara-00280"
+      ],
+      "claimsAnchored": [
+        "Abortion / Sanctity of Life: Her campaign platform includes \"supporting families and protecting life,\" though specific policy details beyond that broad framing have not been elaborated in the source material.",
+        "Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.",
+        "School Choice / Parental Rights in Education: She homeschooled her two youngest children and her campaign emphasizes restoring parental rights in education.",
+        "During the COVID-19 years, O'Hara made opposition to masks, vaccines, school closures, and business shutdowns a central part of her public message. Her 2026 campaign carries that same approach into statewide politics, pairing anti-shutdown rhetoric with broade",
+        "COVID / Government Overreach: O'Hara has made opposition to masks, vaccines, school closures, and business shutdowns one of the most visible parts of her political identity. She says she refused masks and vaccines while serving on the Johnson County Commission",
+        "Religious Liberty: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources.",
+        "Where They Worship",
+        "Public sources do not identify a current church affiliation. O'Hara's campaign biography says she grew up in a family tradition of faith, but the source material does not name a current congregation or church website.",
+        "> \"I grew up in our farm family's tradition of faith, grit and hard work.\"",
+        "O'Hara is not a new face in Kansas politics. She served in the Kansas House and later on the Johnson County Commission, where she built a public identity around taxes, spending, property rights, and confrontational local politics. By the time she entered the 2",
+        "O'Hara's record is rooted more in local government and movement politics than in statewide office. In Johnson County she became closely identified with fights over tax policy, public spending, and the direction of county government. Her earlier service in the ",
+        "Property Taxes: A central campaign issue. She has said she \"cannot stand silent and watch small businesses and homeowners be destroyed through high property taxes\" and opposes tax incentive programs that she says increase property taxes for everyone else."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0077",
+      "url": null,
+      "sourceFile": "memory/candidates/charlotte-ohara/sleuth-pass.md:24",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court",
+        "voting record",
+        "ballot status",
+        "church/worship",
+        "meeting record",
+        "biography",
+        "donor/funding",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 45,
+      "rowIds": [
+        "em-charlotte-ohara-00303",
+        "em-charlotte-ohara-00316",
+        "em-charlotte-ohara-00317",
+        "em-charlotte-ohara-00315",
+        "em-charlotte-ohara-00325",
+        "em-charlotte-ohara-00332",
+        "em-charlotte-ohara-00295",
+        "em-charlotte-ohara-00304",
+        "em-charlotte-ohara-00309",
+        "em-charlotte-ohara-00314",
+        "em-charlotte-ohara-00326",
+        "em-charlotte-ohara-00333",
+        "em-charlotte-ohara-00318",
+        "em-charlotte-ohara-00294",
+        "em-charlotte-ohara-00296",
+        "em-charlotte-ohara-00297",
+        "em-charlotte-ohara-00299",
+        "em-charlotte-ohara-00300",
+        "em-charlotte-ohara-00305",
+        "em-charlotte-ohara-00306",
+        "em-charlotte-ohara-00308",
+        "em-charlotte-ohara-00311",
+        "em-charlotte-ohara-00312",
+        "em-charlotte-ohara-00322",
+        "em-charlotte-ohara-00323",
+        "em-charlotte-ohara-00327",
+        "em-charlotte-ohara-00329",
+        "em-charlotte-ohara-00330",
+        "em-charlotte-ohara-00291",
+        "em-charlotte-ohara-00293",
+        "em-charlotte-ohara-00301",
+        "em-charlotte-ohara-00302",
+        "em-charlotte-ohara-00319",
+        "em-charlotte-ohara-00320",
+        "em-charlotte-ohara-00331",
+        "em-charlotte-ohara-00288",
+        "em-charlotte-ohara-00292",
+        "em-charlotte-ohara-00298",
+        "em-charlotte-ohara-00307",
+        "em-charlotte-ohara-00310",
+        "em-charlotte-ohara-00313",
+        "em-charlotte-ohara-00321",
+        "em-charlotte-ohara-00324",
+        "em-charlotte-ohara-00328",
+        "em-charlotte-ohara-00290"
+      ],
+      "claimsAnchored": [
+        "Kansas Legislature 2011-2012 profile: official archive lists District 27, Republican, first term 2011, committees, and sponsored bills including abortion regulation, voter photo ID, health care freedom, court appointment changes, and parental-rights resolution",
+        "Election administration / voting / judicial selection: Campaign homepage calls for direct partisan election of judges; March 24 post supports proof-of-citizenship/SAVE Act and paper ballots; 2024 legislative minutes show O'Hara testified for SB 366 on advance-",
+        "Abortion / life issues: Feb. 17 poem and Jan. 14 abortion-statistics post are candidate-controlled anchors; May 19 judicial-selection post also frames the Kansas Supreme Court selection issue through abortion.",
+        "Education / local control / DEI: Campaign homepage calls for \"Freedom to learn\" and removal of DEI/WOKE/CRT; Apr. 28 post proposes closing the Kansas State Department of Education, ending federal funds, and localizing curriculum.",
+        "No verified current church membership or congregation page was found. Campaign biography uses faith language, but no congregation should be named.",
+        "Any current church affiliation.",
+        "Ballot-list caveat: The official Kansas SOS candidate-information page says statewide candidates file with the Secretary of State and are not considered filed until the petition/declaration and fee are received. It lists the 2026 primary filing deadline as noo",
+        "Johnson County BOCC June 2023 official recap: records O'Hara voting no on proposed FY2024 budget publication, pay-table changes, Sustainability Coalition, DEI Coalition, CNANO industrial revenue bonds/tax abatement, zoning-board rename, rural comprehensive pla",
+        "Campaign commentary archive: top categories on 2026-05-19 were Kansas Issues 72, Transparency 59, Elections 52, Voting 47, Taxes 31, JoCo Spending 23, Public Safety 22, Property Taxes 19, Safety 17, JoCo Budget 12, BOCC 4, Podcasts 1, Uncategorized 1. Categori",
+        "Taxes / spending / incentives: Strongest issue. Campaign homepage, May 5 property-tax post, June 2023 Johnson County votes, CNANO tax-abatement no vote, and finance-themed posts map here.",
+        "No full court/property/business-record sweep was completed beyond official campaign finance, legislative, and Johnson County public records.",
+        "Any formal endorsements from Kansas Right to Life, NRA-PVF, Kansas Chamber, or similar groups current to 2026."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0078",
+      "url": null,
+      "sourceFile": "memory/candidates/charlotte-ohara/v2-issues.yaml:70",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court",
+        "voting record",
+        "ballot status",
+        "campaign statement",
+        "biography",
+        "church/worship",
+        "meeting record",
+        "donor/funding",
+        "controversy"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 221,
+      "rowIds": [
+        "em-charlotte-ohara-00466",
+        "em-charlotte-ohara-00547",
+        "em-charlotte-ohara-00571",
+        "em-charlotte-ohara-00669",
+        "em-charlotte-ohara-00676",
+        "em-charlotte-ohara-00560",
+        "em-charlotte-ohara-00511",
+        "em-charlotte-ohara-00516",
+        "em-charlotte-ohara-00533",
+        "em-charlotte-ohara-00620",
+        "em-charlotte-ohara-00625",
+        "em-charlotte-ohara-00687",
+        "em-charlotte-ohara-00175",
+        "em-charlotte-ohara-00517",
+        "em-charlotte-ohara-00436",
+        "em-charlotte-ohara-00483",
+        "em-charlotte-ohara-00486",
+        "em-charlotte-ohara-00524",
+        "em-charlotte-ohara-00528",
+        "em-charlotte-ohara-00529",
+        "em-charlotte-ohara-00566",
+        "em-charlotte-ohara-00593",
+        "em-charlotte-ohara-00597",
+        "em-charlotte-ohara-00701",
+        "em-charlotte-ohara-00512",
+        "em-charlotte-ohara-00785",
+        "em-charlotte-ohara-00426",
+        "em-charlotte-ohara-00465",
+        "em-charlotte-ohara-00556",
+        "em-charlotte-ohara-00691",
+        "em-charlotte-ohara-00783",
+        "em-charlotte-ohara-00174",
+        "em-charlotte-ohara-00423",
+        "em-charlotte-ohara-00424",
+        "em-charlotte-ohara-00425",
+        "em-charlotte-ohara-00430",
+        "em-charlotte-ohara-00435",
+        "em-charlotte-ohara-00439",
+        "em-charlotte-ohara-00442",
+        "em-charlotte-ohara-00450",
+        "em-charlotte-ohara-00451",
+        "em-charlotte-ohara-00475",
+        "em-charlotte-ohara-00484",
+        "em-charlotte-ohara-00485",
+        "em-charlotte-ohara-00487",
+        "em-charlotte-ohara-00491",
+        "em-charlotte-ohara-00495",
+        "em-charlotte-ohara-00500",
+        "em-charlotte-ohara-00501",
+        "em-charlotte-ohara-00506"
+      ],
+      "claimsAnchored": [
+        "\"Sponsored-bill list included abortion regulation, voter photo ID, court appointment changes, health care freedom, and parental-rights/school-choice resolutions\"",
+        "\"Post asks pastors and priests to support the amendment and frames the issue through abortion\"",
+        "\"Debate coverage reports broad Republican candidate agreement on abortion opposition, marijuana opposition, praise for President Trump, and elected Kansas Supreme Court justices\"",
+        "description: \"Kansas Legislature archive lists O'Hara-sponsored bills on late-term/partial-birth abortion regulation and abortion regulation based on capacity of unborn child to feel pain.\"",
+        "description: \"O'Hara's judicial-selection post asks clergy to support direct election of Supreme Court justices and links the issue to abortion.\"",
+        "\"Candidate-controlled post addresses sex-segregated spaces and gender policy\"",
+        "\"Homepage lists seven priorities including spending restraint, stopping tax incentives, transparency, direct partisan election of judges, education changes, and opposition to industrial energy/eminent-domain projects\"",
+        "\"Biography says she refused mask, shot, and school/business closures during COVID\"",
+        "\"Post proposes stopping federal education funds, closing the Kansas State Department of Education, and placing curriculum decisions at the local level\"",
+        "description: \"O'Hara published a candidate-controlled post proposing local curriculum control, stopping federal funds, and closing KSDE.\"",
+        "description: \"Kansas Legislature archive lists O'Hara-sponsored parental-rights and school-choice resolutions during her House term.\"",
+        "description: \"Campaign biography states she refused mask and shot and opposed school/business closures during COVID.\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0079",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/charlotte-ohara.ts:258",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "legal/court",
+        "endorsement",
+        "ballot status",
+        "voting record",
+        "campaign statement",
+        "church/worship",
+        "donor/funding",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 197,
+      "rowIds": [
+        "em-charlotte-ohara-00665",
+        "em-charlotte-ohara-00666",
+        "em-charlotte-ohara-00677",
+        "em-charlotte-ohara-00679",
+        "em-charlotte-ohara-00680",
+        "em-charlotte-ohara-01477",
+        "em-charlotte-ohara-01493",
+        "em-charlotte-ohara-01495",
+        "em-charlotte-ohara-01496",
+        "em-charlotte-ohara-01498",
+        "em-charlotte-ohara-01500",
+        "em-charlotte-ohara-01518",
+        "em-charlotte-ohara-00531",
+        "em-charlotte-ohara-00611",
+        "em-charlotte-ohara-00612",
+        "em-charlotte-ohara-00613",
+        "em-charlotte-ohara-00628",
+        "em-charlotte-ohara-00630",
+        "em-charlotte-ohara-00632",
+        "em-charlotte-ohara-00683",
+        "em-charlotte-ohara-01481",
+        "em-charlotte-ohara-01482",
+        "em-charlotte-ohara-01484",
+        "em-charlotte-ohara-01501",
+        "em-charlotte-ohara-01517",
+        "em-charlotte-ohara-01504",
+        "em-charlotte-ohara-00526",
+        "em-charlotte-ohara-00583",
+        "em-charlotte-ohara-00585",
+        "em-charlotte-ohara-00588",
+        "em-charlotte-ohara-00602",
+        "em-charlotte-ohara-00607",
+        "em-charlotte-ohara-00609",
+        "em-charlotte-ohara-00698",
+        "em-charlotte-ohara-01470",
+        "em-charlotte-ohara-01471",
+        "em-charlotte-ohara-01475",
+        "em-charlotte-ohara-01490",
+        "em-charlotte-ohara-01491",
+        "em-charlotte-ohara-01506",
+        "em-charlotte-ohara-01514",
+        "em-charlotte-ohara-00554",
+        "em-charlotte-ohara-00682",
+        "em-charlotte-ohara-00692",
+        "em-charlotte-ohara-00694",
+        "em-charlotte-ohara-00695",
+        "em-charlotte-ohara-01502",
+        "em-charlotte-ohara-01503",
+        "em-charlotte-ohara-01505",
+        "em-charlotte-ohara-01515"
+      ],
+      "claimsAnchored": [
+        "\"title\": \"Abortion / Sanctity of Life\",",
+        "\"text\": \"O'Hara states a pro-life position in campaign-controlled material. Her biography lists 'Life' among promises she says she would bring Kansas back to. Her Feb. 17 poem 'When Did You Begin' argues dignity and worth begin at conception. Her May 19 judici",
+        "\"summary\": \"No current endorsement/rating from abortion-policy advocacy groups was confirmed in this pass.\",",
+        "\"observation\": \"Campaign archive includes 'A Sobering Look at Abortion Statistics in Kansas' as the earliest exposed post on Jan. 14, 2025 and 'When Did You Begin' on Feb. 17, 2026.\",",
+        "\"mappedToIssueId\": \"abortion-life-issues\"",
+        "\"observation\": \"The campaign archive contained 71 public posts in the WordPress API on capture. The earliest listed post was \\\"A Sobering Look at Abortion Statistics in Kansas\\\" on 2025-01-14; the latest listed post was \\\"The Great Property Tax Shift\\\" on 2026",
+        "\"body\": \"Kansas Legislature archive lists O'Hara-sponsored bills on late-term/partial-birth abortion regulation and abortion regulation based on capacity of unborn child to feel pain.\",",
+        "\"body\": \"O'Hara's judicial-selection post asks clergy to support direct election of Supreme Court justices and links the issue to abortion.\",",
+        "\"observation\": \"The Feb. 17, 2026 post \\\"When Did You Begin\\\" is a pro-life poem that asks when human dignity begins, reinforcing abortion as a recurring campaign theme. (source)\",",
+        "\"observation\": \"O'Hara attacked what she called a \\\"vast sea of RINOs\\\" in the Republican Party; the piece also reports broad GOP debate agreement on abortion opposition, marijuana opposition, and elected Supreme Court justices. (source) 17. Kansas Reflector, ",
+        "\"action-house-abortion-sponsorship-history\"",
+        "\"Observed public online activity mapped to Abortion / Sanctity of Life.\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0080",
+      "url": null,
+      "sourceFile": "reports/jeff-colyer-complete-dossier.md:606",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "legal/court",
+        "ballot status",
+        "campaign statement",
+        "endorsement",
+        "meeting record",
+        "controversy"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 60,
+      "rowIds": [
+        "em-charlotte-ohara-00993",
+        "em-charlotte-ohara-00994",
+        "em-charlotte-ohara-01009",
+        "em-charlotte-ohara-01011",
+        "em-charlotte-ohara-01012",
+        "em-charlotte-ohara-01002",
+        "em-charlotte-ohara-00995",
+        "em-charlotte-ohara-00996",
+        "em-charlotte-ohara-01001",
+        "em-charlotte-ohara-00998",
+        "em-charlotte-ohara-01000",
+        "em-charlotte-ohara-01038",
+        "em-charlotte-ohara-00997",
+        "em-charlotte-ohara-01014",
+        "em-charlotte-ohara-01024",
+        "em-charlotte-ohara-01027",
+        "em-charlotte-ohara-01033",
+        "em-charlotte-ohara-00794",
+        "em-charlotte-ohara-01040",
+        "em-charlotte-ohara-00983",
+        "em-charlotte-ohara-00984",
+        "em-charlotte-ohara-00985",
+        "em-charlotte-ohara-00986",
+        "em-charlotte-ohara-00987",
+        "em-charlotte-ohara-00988",
+        "em-charlotte-ohara-00989",
+        "em-charlotte-ohara-00991",
+        "em-charlotte-ohara-00992",
+        "em-charlotte-ohara-00999",
+        "em-charlotte-ohara-01003",
+        "em-charlotte-ohara-01004",
+        "em-charlotte-ohara-01005",
+        "em-charlotte-ohara-01008",
+        "em-charlotte-ohara-01010",
+        "em-charlotte-ohara-01013",
+        "em-charlotte-ohara-01023",
+        "em-charlotte-ohara-01025",
+        "em-charlotte-ohara-01026",
+        "em-charlotte-ohara-01031",
+        "em-charlotte-ohara-01034",
+        "em-charlotte-ohara-01035",
+        "em-charlotte-ohara-01036",
+        "em-charlotte-ohara-01037",
+        "em-charlotte-ohara-01039",
+        "em-charlotte-ohara-01041",
+        "em-charlotte-ohara-01021",
+        "em-charlotte-ohara-01022",
+        "em-charlotte-ohara-01018",
+        "em-charlotte-ohara-01016",
+        "em-charlotte-ohara-01019"
+      ],
+      "claimsAnchored": [
+        "On Abortion:",
+        "> \"How do we defend innocent life? I think this is one of the civil rights issues of our time. We have a Supreme Court that has found this right to abortion that is nowhere found in that constitution. It's our fastest-growing industry in the state of Kansas.\"",
+        "All six candidates found unity on: abortion opposition, marijuana legalization opposition, judicial bias concerns, and praise for President Trump",
+        "Abortion",
+        "Strongly pro-life",
+        "Promoting education to world class",
+        "On Property Tax Relief:",
+        "> \"I will work to cut residential property taxes for everyone, and I'll also add exemptions to make sure seniors and disabled veterans can afford to stay in their homes. This starts with fully funding our schools to avoid localities having to shift the burden ",
+        "Lowering taxes and initiating a property tax lid",
+        "> \"I'm running for governor to make this the best place to raise a family and have a small business.\"",
+        "Developing higher paying jobs",
+        "Fox Business"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0081",
+      "url": null,
+      "sourceFile": "reports/plain-english-voter-guide.md:225",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status",
+        "voting record",
+        "biography",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 23,
+      "rowIds": [
+        "em-charlotte-ohara-01045",
+        "em-charlotte-ohara-01043",
+        "em-charlotte-ohara-01046",
+        "em-charlotte-ohara-01053",
+        "em-charlotte-ohara-01064",
+        "em-charlotte-ohara-01047",
+        "em-charlotte-ohara-01042",
+        "em-charlotte-ohara-01044",
+        "em-charlotte-ohara-01050",
+        "em-charlotte-ohara-01054",
+        "em-charlotte-ohara-01055",
+        "em-charlotte-ohara-01057",
+        "em-charlotte-ohara-01061",
+        "em-charlotte-ohara-01063",
+        "em-charlotte-ohara-01056",
+        "em-charlotte-ohara-01048",
+        "em-charlotte-ohara-01052",
+        "em-charlotte-ohara-01060",
+        "em-charlotte-ohara-01058",
+        "em-charlotte-ohara-01059",
+        "em-charlotte-ohara-01049",
+        "em-charlotte-ohara-01051",
+        "em-charlotte-ohara-01062"
+      ],
+      "claimsAnchored": [
+        "Governor Laura Kelly (Democrat) is term-limited and cannot run again. This is the first open governor's race in Kansas since 2018. Open seats are rare and always attract crowded fields because there is no incumbent advantage. The winner will shape Kansas polic",
+        "The governor is the most powerful person in Kansas state government. They sign or veto every bill the Legislature passes. They appoint the heads of nearly every state department and agency. They submit the state budget. They command the Kansas National Guard. ",
+        "Kansas has a history of electing moderate governors even though the Legislature is heavily Republican. Kelly won twice as a Democrat. Before her, Republican Sam Brownback's aggressive tax cuts nearly bankrupted the state. The question for 2026 is whether Kansa",
+        "He worked to move USAID's Food for Peace program under the Department of Agriculture -- directly relevant to Kansas farmers. He has introduced legislation to codify DOGE spending cuts.",
+        "Kansas's 1st Congressional District covers the entire western two-thirds of the state -- from the Nebraska border to the Oklahoma border, from the Colorado line almost to Topeka. It is the second-largest congressional district east of the Mississippi. It is ov",
+        "Republican primary (crowded): Former Governor Jeff Colyer (plastic surgeon, served 2018-19), Secretary of State Scott Schwab, Senate President Ty Masterson, Insurance Commissioner Vicki Schmidt, Charlotte O'Hara (former Johnson County commissioner), Stacy Roge",
+        "What Does the Governor Actually Do?",
+        "Why Does This Open Seat Matter?",
+        "Primary: August 4, 2026 | General: November 3, 2026",
+        "Why Do 8 Democrats Think They Can Beat Him?",
+        "Kansas has not elected a Democrat to the U.S. Senate since 1932. That is not a typo. Ninety-four years. So why are 8 Democrats running?",
+        "Notable Democratic challengers:"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0082",
+      "url": null,
+      "sourceFile": "reports/scott-schwab-complete-dossier.md:563",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "voting record",
+        "biography",
+        "legal/court",
+        "church/worship",
+        "ballot status",
+        "campaign statement",
+        "controversy"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 60,
+      "rowIds": [
+        "em-charlotte-ohara-01070",
+        "em-charlotte-ohara-01074",
+        "em-charlotte-ohara-01080",
+        "em-charlotte-ohara-01065",
+        "em-charlotte-ohara-01085",
+        "em-charlotte-ohara-01086",
+        "em-charlotte-ohara-01095",
+        "em-charlotte-ohara-01068",
+        "em-charlotte-ohara-01076",
+        "em-charlotte-ohara-01117",
+        "em-charlotte-ohara-01067",
+        "em-charlotte-ohara-01082",
+        "em-charlotte-ohara-01087",
+        "em-charlotte-ohara-01089",
+        "em-charlotte-ohara-01097",
+        "em-charlotte-ohara-01113",
+        "em-charlotte-ohara-01116",
+        "em-charlotte-ohara-01118",
+        "em-charlotte-ohara-01081",
+        "em-charlotte-ohara-01122",
+        "em-charlotte-ohara-01066",
+        "em-charlotte-ohara-01069",
+        "em-charlotte-ohara-01071",
+        "em-charlotte-ohara-01072",
+        "em-charlotte-ohara-01073",
+        "em-charlotte-ohara-01077",
+        "em-charlotte-ohara-01078",
+        "em-charlotte-ohara-01079",
+        "em-charlotte-ohara-01084",
+        "em-charlotte-ohara-01090",
+        "em-charlotte-ohara-01091",
+        "em-charlotte-ohara-01092",
+        "em-charlotte-ohara-01093",
+        "em-charlotte-ohara-01094",
+        "em-charlotte-ohara-01096",
+        "em-charlotte-ohara-01103",
+        "em-charlotte-ohara-01104",
+        "em-charlotte-ohara-01106",
+        "em-charlotte-ohara-01107",
+        "em-charlotte-ohara-01108",
+        "em-charlotte-ohara-01109",
+        "em-charlotte-ohara-01110",
+        "em-charlotte-ohara-01111",
+        "em-charlotte-ohara-01112",
+        "em-charlotte-ohara-01114",
+        "em-charlotte-ohara-01115",
+        "em-charlotte-ohara-01120",
+        "em-charlotte-ohara-01128",
+        "em-charlotte-ohara-01100",
+        "em-charlotte-ohara-01088"
+      ],
+      "claimsAnchored": [
+        "ABC News (August 2022) -- Discussed Kansas abortion amendment vote as Secretary of State",
+        "Topics: STAR bonds, federal-state relations, education, marijuana legalization, abortion",
+        "On abortion: \"It is frustration that the court hates its Legislature. That's unholy. I feel horrible that a young woman can be manipulated to have an abortion, and there's no recourse.\"",
+        "FOX4 Kansas City (2018) -- Extended sit-down with John Holt about grief journey and faith",
+        "On Faith",
+        "> \"As a Christian, my faith has guided me at home and in my work as Secretary of State. As Governor, I will bring those values to the job everyday.\"",
+        "-- Caleb's funeral, LifeMission Church, August 12, 2016",
+        "Kansas Reflector Podcast (May 2025, recorded) -- Discussed election security and property taxes",
+        "Struggled with a health issue that weakened his speaking voice",
+        "Health concerns (cancer, weakened voice at debate)",
+        "KAKE TV (May 22, 2025) -- Gubernatorial candidate interview",
+        "On Johnson County ballot destruction: Stated that election ballots were destroyed after the 2020 elections because \"after waiting for a warrant that never showed, the county voted to destroy the ballots as the law says\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0083",
+      "url": null,
+      "sourceFile": "reports/ty-masterson-complete-dossier.md:316",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court",
+        "voting record",
+        "biography",
+        "meeting record",
+        "donor/funding",
+        "campaign statement",
+        "ballot status",
+        "controversy",
+        "endorsement",
+        "church/worship"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 132,
+      "rowIds": [
+        "em-charlotte-ohara-01142",
+        "em-charlotte-ohara-01240",
+        "em-charlotte-ohara-01185",
+        "em-charlotte-ohara-01187",
+        "em-charlotte-ohara-01221",
+        "em-charlotte-ohara-01171",
+        "em-charlotte-ohara-01177",
+        "em-charlotte-ohara-01180",
+        "em-charlotte-ohara-01181",
+        "em-charlotte-ohara-01205",
+        "em-charlotte-ohara-01212",
+        "em-charlotte-ohara-01219",
+        "em-charlotte-ohara-01141",
+        "em-charlotte-ohara-01143",
+        "em-charlotte-ohara-01144",
+        "em-charlotte-ohara-01151",
+        "em-charlotte-ohara-01157",
+        "em-charlotte-ohara-01162",
+        "em-charlotte-ohara-01179",
+        "em-charlotte-ohara-01184",
+        "em-charlotte-ohara-01186",
+        "em-charlotte-ohara-01196",
+        "em-charlotte-ohara-01216",
+        "em-charlotte-ohara-01218",
+        "em-charlotte-ohara-01250",
+        "em-charlotte-ohara-01251",
+        "em-charlotte-ohara-01130",
+        "em-charlotte-ohara-01132",
+        "em-charlotte-ohara-01146",
+        "em-charlotte-ohara-01170",
+        "em-charlotte-ohara-01217",
+        "em-charlotte-ohara-01225",
+        "em-charlotte-ohara-01256",
+        "em-charlotte-ohara-01131",
+        "em-charlotte-ohara-01133",
+        "em-charlotte-ohara-01138",
+        "em-charlotte-ohara-01140",
+        "em-charlotte-ohara-01145",
+        "em-charlotte-ohara-01147",
+        "em-charlotte-ohara-01148",
+        "em-charlotte-ohara-01149",
+        "em-charlotte-ohara-01150",
+        "em-charlotte-ohara-01152",
+        "em-charlotte-ohara-01153",
+        "em-charlotte-ohara-01154",
+        "em-charlotte-ohara-01156",
+        "em-charlotte-ohara-01158",
+        "em-charlotte-ohara-01160",
+        "em-charlotte-ohara-01161",
+        "em-charlotte-ohara-01164"
+      ],
+      "claimsAnchored": [
+        "All six candidates agreed on: opposing abortion destination status, supporting Supreme Court selection amendment, opposing Medicaid expansion.",
+        "Ally on school choice, pro-life legislation, tax policy",
+        "On Transgender Issues",
+        "-- After transgender sports ban veto override, April 2023 (Kansas Reflector)",
+        "Hugh Hewitt Show Appearance: Appeared as ALEC National Chairman to discuss \"Resisting Medicaid Expansion and Embracing School Choice\" -- directly tied ALEC policy priorities to Kansas legislative agenda.",
+        "Filed for Chapter 7 bankruptcy (~$885K in unsecured debts) while serving as a member of the Senate Ways & Means Committee -- the committee overseeing the state budget.",
+        "On Taxes",
+        "> \"Property taxes are squeezing Kansas families, seniors on fixed incomes, and farmers. Kansans expect action, not excuses. I will keep fighting to deliver real relief and I urge the House to put taxpayers first.\"",
+        "-- After House rejected property tax amendment, March 2026 (Kansas Reflector)",
+        "> Said legalizing medical marijuana could lead to \"gang activity\" and put kids at risk",
+        "> \"We won for lower healthcare costs. We will ring that bell every time we put more money back in Kansans' pockets.\"",
+        "On Medicaid Expansion"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0084",
+      "url": null,
+      "sourceFile": "reports/vicki-schmidt-complete-dossier.md:430",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "endorsement",
+        "ballot status",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 25,
+      "rowIds": [
+        "em-charlotte-ohara-01266",
+        "em-charlotte-ohara-01269",
+        "em-charlotte-ohara-01280",
+        "em-charlotte-ohara-01264",
+        "em-charlotte-ohara-01282",
+        "em-charlotte-ohara-01263",
+        "em-charlotte-ohara-01278",
+        "em-charlotte-ohara-01262",
+        "em-charlotte-ohara-01265",
+        "em-charlotte-ohara-01267",
+        "em-charlotte-ohara-01270",
+        "em-charlotte-ohara-01272",
+        "em-charlotte-ohara-01273",
+        "em-charlotte-ohara-01274",
+        "em-charlotte-ohara-01276",
+        "em-charlotte-ohara-01277",
+        "em-charlotte-ohara-01283",
+        "em-charlotte-ohara-01284",
+        "em-charlotte-ohara-01285",
+        "em-charlotte-ohara-01275",
+        "em-charlotte-ohara-01271",
+        "em-charlotte-ohara-01261",
+        "em-charlotte-ohara-01268",
+        "em-charlotte-ohara-01279",
+        "em-charlotte-ohara-01281"
+      ],
+      "claimsAnchored": [
+        "Six Republican candidates participated without Schmidt: Jeff Colyer, Scott Schwab, Ty Masterson, Doug Billings, Joy Eakins, and Charlotte O'Hara (and/or Stacy Rogers). The Kansas Reflector described it as \"Six Kansas GOP candidates for governor toss haymakers ",
+        "Upside: She avoids being attacked on her abortion record in a hostile environment, maintains her \"above the fray\" positioning, and scores points with voters skeptical of party establishment",
+        "| NRA | Unknown | No endorsement data found |",
+        "She argued the Republican Party should remain neutral during the primary campaign and that every GOP candidate should have equal opportunities to share their views at party-sanctioned events.",
+        "The early stage of the race (primary not until August 2026)",
+        "> \"President Trump has brought new voters to the party and we need to be encouraging good folks to run for office as Republicans, not creating road blocks and challenges that discourage them.\"",
+        "| Kansans for Life PAC | ACTIVELY OPPOSING | Released formal statement calling her record \"the worst on life of any Republican to ever seek office in Kansas\" |",
+        "> \"Under this agreement, the party picks winners and losers.\"",
+        "The Debate Itself",
+        "Assessment",
+        "Downside: She misses a chance to introduce herself to primary voters, and opponents can frame her as afraid to face scrutiny",
+        "ENDORSEMENTS"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0085",
+      "url": null,
+      "sourceFile": "ui/src/data/candidates.ts:21123",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "meeting record",
+        "church/worship",
+        "donor/funding",
+        "campaign statement",
+        "voting record",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 148,
+      "rowIds": [
+        "em-charlotte-ohara-01320",
+        "em-charlotte-ohara-01390",
+        "em-charlotte-ohara-01322",
+        "em-charlotte-ohara-01328",
+        "em-charlotte-ohara-01329",
+        "em-charlotte-ohara-01398",
+        "em-charlotte-ohara-01318",
+        "em-charlotte-ohara-01332",
+        "em-charlotte-ohara-01387",
+        "em-charlotte-ohara-01324",
+        "em-charlotte-ohara-01342",
+        "em-charlotte-ohara-01343",
+        "em-charlotte-ohara-01402",
+        "em-charlotte-ohara-01317",
+        "em-charlotte-ohara-01333",
+        "em-charlotte-ohara-01334",
+        "em-charlotte-ohara-01348",
+        "em-charlotte-ohara-01350",
+        "em-charlotte-ohara-01392",
+        "em-charlotte-ohara-01399",
+        "em-charlotte-ohara-01325",
+        "em-charlotte-ohara-01326",
+        "em-charlotte-ohara-01327",
+        "em-charlotte-ohara-01331",
+        "em-charlotte-ohara-01393",
+        "em-charlotte-ohara-01394",
+        "em-charlotte-ohara-01406",
+        "em-charlotte-ohara-01312",
+        "em-charlotte-ohara-01314",
+        "em-charlotte-ohara-01321",
+        "em-charlotte-ohara-01337",
+        "em-charlotte-ohara-01338",
+        "em-charlotte-ohara-01349",
+        "em-charlotte-ohara-01354",
+        "em-charlotte-ohara-01360",
+        "em-charlotte-ohara-01366",
+        "em-charlotte-ohara-01367",
+        "em-charlotte-ohara-01380",
+        "em-charlotte-ohara-01400",
+        "em-charlotte-ohara-01401",
+        "em-charlotte-ohara-01410",
+        "em-charlotte-ohara-01315",
+        "em-charlotte-ohara-01336",
+        "em-charlotte-ohara-01378",
+        "em-charlotte-ohara-00199",
+        "em-charlotte-ohara-00281",
+        "em-charlotte-ohara-00419",
+        "em-charlotte-ohara-00722",
+        "em-charlotte-ohara-00726",
+        "em-charlotte-ohara-00727"
+      ],
+      "claimsAnchored": [
+        "\"issue\": \"Abortion / Sanctity of Life\",",
+        "\"stance\": \"Describes herself as pro-life. Her campaign lists \\\"Supporting families and protecting life\\\" with expanded resources for parents and affordable healthcare.\"",
+        "\"issue\": \"Marriage & Family / LGBTQ+ Policy\",",
+        "\"issue\": \"School Choice / Parental Rights in Education\",",
+        "\"stance\": \"She homeschooled her two youngest children and her campaign emphasizes restoring parental rights in education.\"",
+        "\"She has made raising children with learning challenges a central part of her political identity and uses that experience when talking about school policy and parental rights\",",
+        "\"theirRecord\": \"O'Hara's record is rooted more in local government and movement politics than in statewide office. In Johnson County she became closely identified with fights over tax policy, public spending, and the direction of county government. Her earlier",
+        "\"stance\": \"O'Hara has made opposition to masks, vaccines, school closures, and business shutdowns one of the most visible parts of her political identity. She says she refused masks and vaccines while serving on the Johnson County Commission, and her 2026 camp",
+        "\"occupation\": \"Businesswoman / Former School Board Member\",",
+        "\"issue\": \"Religious Liberty\",",
+        "\"whereTheyWorship\": \"Public sources do not identify a current church affiliation. O'Hara's campaign biography says she grew up in a family tradition of faith, but the source material does not name a current congregation or church website.\",",
+        "\"text\": \"I grew up in our farm family's tradition of faith, grit and hard work.\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0086",
+      "url": null,
+      "sourceFile": "memory/candidates/charlotte-ohara/raw-dump.md:53",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "meeting record",
+        "ballot status",
+        "church/worship",
+        "biography",
+        "legal/court",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 46,
+      "rowIds": [
+        "em-charlotte-ohara-00221",
+        "em-charlotte-ohara-00223",
+        "em-charlotte-ohara-00203",
+        "em-charlotte-ohara-00204",
+        "em-charlotte-ohara-00224",
+        "em-charlotte-ohara-00225",
+        "em-charlotte-ohara-00238",
+        "em-charlotte-ohara-00244",
+        "em-charlotte-ohara-00198",
+        "em-charlotte-ohara-00210",
+        "em-charlotte-ohara-00240",
+        "em-charlotte-ohara-00192",
+        "em-charlotte-ohara-00205",
+        "em-charlotte-ohara-00216",
+        "em-charlotte-ohara-00219",
+        "em-charlotte-ohara-00226",
+        "em-charlotte-ohara-00229",
+        "em-charlotte-ohara-00235",
+        "em-charlotte-ohara-00237",
+        "em-charlotte-ohara-00241",
+        "em-charlotte-ohara-00245",
+        "em-charlotte-ohara-00246",
+        "em-charlotte-ohara-00218",
+        "em-charlotte-ohara-00195",
+        "em-charlotte-ohara-00197",
+        "em-charlotte-ohara-00208",
+        "em-charlotte-ohara-00222",
+        "em-charlotte-ohara-00228",
+        "em-charlotte-ohara-00236",
+        "em-charlotte-ohara-00242",
+        "em-charlotte-ohara-00188",
+        "em-charlotte-ohara-00189",
+        "em-charlotte-ohara-00190",
+        "em-charlotte-ohara-00191",
+        "em-charlotte-ohara-00193",
+        "em-charlotte-ohara-00196",
+        "em-charlotte-ohara-00209",
+        "em-charlotte-ohara-00211",
+        "em-charlotte-ohara-00215",
+        "em-charlotte-ohara-00217",
+        "em-charlotte-ohara-00220",
+        "em-charlotte-ohara-00233",
+        "em-charlotte-ohara-00234",
+        "em-charlotte-ohara-00239",
+        "em-charlotte-ohara-00243",
+        "em-charlotte-ohara-00212"
+      ],
+      "claimsAnchored": [
+        "O'Hara says that during COVID she refused masks and vaccines and opposed school and business closures while serving on the Johnson County Commission.",
+        "Her public brand is centered on life, property rights, education, election integrity, and free-market politics.",
+        "Faith / Church",
+        "I did not verify a public church affiliation in the sources reviewed.",
+        "Faith / Church / Denomination / Church URL",
+        "She says she grew up in a family tradition of faith, but I did not verify a current church membership page or church website.",
+        "I did not verify a specific church despite the explicit faith language in her biography.",
+        "No current church membership page was verified.",
+        "Her political identity has long been tied to Johnson County tax and spending fights.",
+        "O'Hara has been a persistent fiscal conservative voice in Johnson County politics.",
+        "The campaign site presents her as a contractor, homeschool parent, and business owner, which is a stronger image than a typical one-page political landing page.",
+        "Charlotte O'Hara is a former Johnson County commissioner and a 2026 Republican gubernatorial candidate."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0087",
+      "url": null,
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:38",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "church/worship",
+        "ballot status",
+        "meeting record",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 80,
+      "rowIds": [
+        "em-charlotte-ohara-00831",
+        "em-charlotte-ohara-00832",
+        "em-charlotte-ohara-00833",
+        "em-charlotte-ohara-00835",
+        "em-charlotte-ohara-00848",
+        "em-charlotte-ohara-00849",
+        "em-charlotte-ohara-00879",
+        "em-charlotte-ohara-00880",
+        "em-charlotte-ohara-00884",
+        "em-charlotte-ohara-00863",
+        "em-charlotte-ohara-00866",
+        "em-charlotte-ohara-00868",
+        "em-charlotte-ohara-00869",
+        "em-charlotte-ohara-00838",
+        "em-charlotte-ohara-00851",
+        "em-charlotte-ohara-00859",
+        "em-charlotte-ohara-00861",
+        "em-charlotte-ohara-00864",
+        "em-charlotte-ohara-00867",
+        "em-charlotte-ohara-00889",
+        "em-charlotte-ohara-00890",
+        "em-charlotte-ohara-00951",
+        "em-charlotte-ohara-00830",
+        "em-charlotte-ohara-00847",
+        "em-charlotte-ohara-00854",
+        "em-charlotte-ohara-00856",
+        "em-charlotte-ohara-00857",
+        "em-charlotte-ohara-00858",
+        "em-charlotte-ohara-00860",
+        "em-charlotte-ohara-00874",
+        "em-charlotte-ohara-00877",
+        "em-charlotte-ohara-00247",
+        "em-charlotte-ohara-00815",
+        "em-charlotte-ohara-00816",
+        "em-charlotte-ohara-00820",
+        "em-charlotte-ohara-00821",
+        "em-charlotte-ohara-00825",
+        "em-charlotte-ohara-00827",
+        "em-charlotte-ohara-00829",
+        "em-charlotte-ohara-00834",
+        "em-charlotte-ohara-00837",
+        "em-charlotte-ohara-00839",
+        "em-charlotte-ohara-00840",
+        "em-charlotte-ohara-00841",
+        "em-charlotte-ohara-00844",
+        "em-charlotte-ohara-00845",
+        "em-charlotte-ohara-00846",
+        "em-charlotte-ohara-00850",
+        "em-charlotte-ohara-00852",
+        "em-charlotte-ohara-00853"
+      ],
+      "claimsAnchored": [
+        "Education:",
+        "Shawnee Mission South High School (Johnson County native)",
+        "Garden City Community College -- played baseball (left-handed pitcher), Academic All-American",
+        "Washington University School of Law -- Juris Doctor",
+        "Education: Not specified in available records",
+        "Faith: Describes herself as \"a woman of deep faith.\" Campaign states \"strong families and strong faith communities are building blocks for a strong and safe Kansas.\" No specific church or denomination identified.",
+        "Faith/Church Summary",
+        "| Candidate | Faith Identified | Details |",
+        "| Charlotte O'Hara | Christian (non-specific) | \"Woman of deep faith\"; no specific church |",
+        "O'Hara was the only incumbent Johnson County Commissioner in a contested race to lose re-election. She lost to Democrat Julie Brewer by approximately 3,500 votes. Her combative style and skepticism of development tax incentives, diversity programs, and COVID m",
+        "Property Taxes:",
+        "\"I cannot stand silent and watch small businesses and homeowners be destroyed through high property taxes.\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0088",
+      "url": null,
+      "sourceFile": "reports/hays-kansas-election-finder-2026-03-30.md:240",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "meeting record",
+        "ballot status",
+        "voting record",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 26,
+      "rowIds": [
+        "em-charlotte-ohara-00981",
+        "em-charlotte-ohara-00960",
+        "em-charlotte-ohara-00952",
+        "em-charlotte-ohara-00953",
+        "em-charlotte-ohara-00954",
+        "em-charlotte-ohara-00959",
+        "em-charlotte-ohara-00965",
+        "em-charlotte-ohara-00966",
+        "em-charlotte-ohara-00967",
+        "em-charlotte-ohara-00968",
+        "em-charlotte-ohara-00969",
+        "em-charlotte-ohara-00970",
+        "em-charlotte-ohara-00971",
+        "em-charlotte-ohara-00972",
+        "em-charlotte-ohara-00973",
+        "em-charlotte-ohara-00974",
+        "em-charlotte-ohara-00975",
+        "em-charlotte-ohara-00976",
+        "em-charlotte-ohara-00980",
+        "em-charlotte-ohara-00982",
+        "em-charlotte-ohara-00958",
+        "em-charlotte-ohara-00955",
+        "em-charlotte-ohara-00956",
+        "em-charlotte-ohara-00957",
+        "em-charlotte-ohara-00961",
+        "em-charlotte-ohara-00962"
+      ],
+      "claimsAnchored": [
+        "Hays Public Library Board",
+        "Republican primary: Jeff Colyer (former Gov.), Ty Masterson (Senate President), Vicki Schmidt (Insurance Comm.), Scott Schwab (Sec. of State), Charlotte O'Hara (Johnson Co. Commissioner)",
+        "| Office | Incumbent | Party | Status |",
+        "| Governor | Laura Kelly | D | TERM-LIMITED -- Open seat |",
+        "| Lt. Governor | (runs on ticket with Governor) | -- | Open |",
+        "Governor's Race -- Major Declared Candidates",
+        "STATEWIDE BALLOT MEASURES -- 2026",
+        "Constitutional Amendment #1 -- ON THE PRIMARY BALLOT August 4, 2026",
+        "Kansas Elections for Supreme Court Justices Amendment",
+        "Would provide for direct election of Kansas Supreme Court justices by voters",
+        "Would abolish the existing Kansas Supreme Court Nominating Commission",
+        "Justices' terms remain six years; vacancies filled by election"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0089",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:109",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "donor/funding",
+        "legal/court",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 32,
+      "rowIds": [
+        "em-charlotte-ohara-01451",
+        "em-charlotte-ohara-01453",
+        "em-charlotte-ohara-01447",
+        "em-charlotte-ohara-01449",
+        "em-charlotte-ohara-01458",
+        "em-charlotte-ohara-01463",
+        "em-charlotte-ohara-01432",
+        "em-charlotte-ohara-01433",
+        "em-charlotte-ohara-01434",
+        "em-charlotte-ohara-01435",
+        "em-charlotte-ohara-01436",
+        "em-charlotte-ohara-01440",
+        "em-charlotte-ohara-01446",
+        "em-charlotte-ohara-01448",
+        "em-charlotte-ohara-01450",
+        "em-charlotte-ohara-01452",
+        "em-charlotte-ohara-01454",
+        "em-charlotte-ohara-01455",
+        "em-charlotte-ohara-01456",
+        "em-charlotte-ohara-01457",
+        "em-charlotte-ohara-01459",
+        "em-charlotte-ohara-01462",
+        "em-charlotte-ohara-01437",
+        "em-charlotte-ohara-01438",
+        "em-charlotte-ohara-01439",
+        "em-charlotte-ohara-01441",
+        "em-charlotte-ohara-01442",
+        "em-charlotte-ohara-01443",
+        "em-charlotte-ohara-01444",
+        "em-charlotte-ohara-01445",
+        "em-charlotte-ohara-01460",
+        "em-charlotte-ohara-01461"
+      ],
+      "claimsAnchored": [
+        "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+        "\"The governor is the boss of Kansas state government. They sign or veto every law the legislature passes, write the state budget, appoint the heads of state agencies, and set the direction on taxes, schools, roads, and healthcare. When there's a disaster, a cr",
+        "\"With Laura Kelly term-limited, both parties and multiple campaign-account holders are building a large field for one of the most important open-seat races in Kansas politics.\",",
+        "\"Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.\",",
+        "status: \"Incumbent Running\",",
+        "\"This office decides which lawsuits Kansas joins, which criminal or civil fights get statewide attention, and how aggressively state law is enforced in court.\",",
+        "jurisdiction: \"State of Kansas\",",
+        "seats: 1,",
+        "status: \"Open Seat\",",
+        "candidateCount: 15,",
+        "candidateSlugs: [",
+        "\"charlotte-ohara\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0090",
+      "url": null,
+      "sourceFile": "memory/elections/2026-11-03-kansas-governor.md:51",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 23,
+      "rowIds": [
+        "em-charlotte-ohara-00814",
+        "em-charlotte-ohara-00810",
+        "em-charlotte-ohara-00811",
+        "em-charlotte-ohara-00812",
+        "em-charlotte-ohara-00786",
+        "em-charlotte-ohara-00798",
+        "em-charlotte-ohara-00787",
+        "em-charlotte-ohara-00788",
+        "em-charlotte-ohara-00789",
+        "em-charlotte-ohara-00796",
+        "em-charlotte-ohara-00797",
+        "em-charlotte-ohara-00799",
+        "em-charlotte-ohara-00800",
+        "em-charlotte-ohara-00809",
+        "em-charlotte-ohara-00802",
+        "em-charlotte-ohara-00792",
+        "em-charlotte-ohara-00795",
+        "em-charlotte-ohara-00791",
+        "em-charlotte-ohara-00790",
+        "em-charlotte-ohara-00801",
+        "em-charlotte-ohara-00793",
+        "em-charlotte-ohara-00803",
+        "em-charlotte-ohara-00813"
+      ],
+      "claimsAnchored": [
+        "The winner will have significant power over Kansas policy including Medicaid expansion (which Kelly championed but legislature blocked).",
+        "This is a WIDE-OPEN race with no incumbent. Laura Kelly (D) is term-limited.",
+        "The Republican primary is extremely crowded (8-10 candidates) and will be the most competitive race on the ballot.",
+        "The six-candidate GOP debate in January 2026 suggests a highly competitive primary.",
+        "District/Ward: Statewide",
+        "Dayton Moore -- Former Kansas City Royals executive. Exploring.",
+        "Eligible Voters: All registered Kansas voters",
+        "Declared Candidates",
+        "Republican Primary",
+        "Ron Estes -- U.S. Representative (KS-04, Wichita area). Exploring/declared.",
+        "Jake LaTurner -- U.S. Representative (KS-02, eastern Kansas). Exploring/declared.",
+        "Mark Steffen -- Former state senator."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0091",
+      "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_corson_ethan_1/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:734",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00904"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0092",
+      "url": "https://sos.ks.gov/about/schwab-biography.html",
+      "sourceFile": "reports/scott-schwab-complete-dossier.md:779",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-01123"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0093",
+      "url": "https://www.kslegislature.gov/li_2018/b2017_18/members/rep_schwab_scott_1/",
+      "sourceFile": "reports/scott-schwab-complete-dossier.md:781",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-01125"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0094",
+      "url": "https://stacyrogersforks.com/",
+      "sourceFile": "ui/src/data/candidates.ts:21413",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-charlotte-ohara-01409",
+        "em-charlotte-ohara-01404"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0095",
+      "url": "https://www.wichitachamber.org/blog/2023/01/04/wichita-chamber-business-accelerator/faithful-investment-in-people-episode-104-wichita-chamber-business-accelerator-joy-eakins/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:783",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00937"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0096",
+      "url": "https://kansasreflector.com/2025/07/22/kansas-sen-ethan-corson-enters-race-for-democratic-partys-nomination-for-governor/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:722",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00892"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0097",
+      "url": "https://kansasreflector.com/briefs/former-kansas-gov-kathleen-sebelius-endorses-sen-ethan-corson-in-democratic-race-for-governor/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:724",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00894"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0098",
+      "url": "https://johnsoncountypost.com/2025/07/22/ethan-corson-governor-264717/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:733",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00903"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0099",
+      "url": "https://kansasreflector.com/2025/06/12/democrat-steps-forward-in-race-for-kansas-governor-focuses-on-schools-and-kitchen-table-issues/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:738",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00907"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0100",
+      "url": "https://rileyks.gop/2025/01/23/meet-gubernatorial-candidate-stacy-rogers-in-randolph/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:775",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00931"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0101",
+      "url": "https://www.ksn.com/news/your-local-election-hq/joy-eakins-announces-bid-for-kansas-governor/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:781",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00935"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0102",
+      "url": "https://kansasreflector.com/briefs/johnson-county-businessman-launches-campaign-to-win-gop-nomination-for-governor/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:789",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00942"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0103",
+      "url": "https://www.wibw.com/2025/09/02/kansas-businessman-announces-campaign-governor/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:794",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00945"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0104",
+      "url": "https://bottradionetwork.com/ministry/encounter-special-edition/2025-10-03-philip-sarnecki-on-leadership-and-the-kansas-governors-race/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:796",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00947"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0105",
+      "url": "https://scottschwab.com/",
+      "sourceFile": "reports/scott-schwab-complete-dossier.md:783",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-01127"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0106",
+      "url": "https://www.kcjc.com/index.php/current-news/latest-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:728",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00898"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0107",
+      "url": "https://www.kake.com/news/joy-eakins-discusses-her-run-for-the-governors-office/article_7947e2be-8651-4a43-963e-5ee064c2d6c5.html",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:782",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00936"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0108",
+      "url": "https://kansasreflector.com/2025/11/17/gov-laura-kelly-offers-formal-endorsement-of-democratic-sen-ethan-corson-for-governor/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:723",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "endorsement"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00893"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0109",
+      "url": "https://en.wikipedia.org/wiki/Ethan_Corson",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:729",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00899"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0110",
+      "url": "https://ballotpedia.org/Ethan_Corson",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:730",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00900"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0111",
+      "url": "https://www.kssenatedems.org/ethan-corson",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:731",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00901"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0112",
+      "url": "https://doleinstitute.org/about/fellows/ethan-corson/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:732",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00902"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0113",
+      "url": "https://www.wibw.com/2025/07/28/democrat-marty-tuley-announces-candidacy-2026-kansas-governor/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:749",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00910"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0114",
+      "url": "https://www.readhowyouwant.com/authors/details/Marty-Tuley/6407",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:754",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00914"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0115",
+      "url": "https://openpowerlifting.org/u/martytuley",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:756",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00916"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0116",
+      "url": "https://www.kake.com/news/wichitan-stacy-rogers-announces-candidacy-for-kansas-governor/article_8298d24e-ea47-11ef-aa00-ab042b86252d.html",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:770",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00926"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0117",
+      "url": "https://ballotpedia.org/Stacy_Rogers",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:772",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00928"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0118",
+      "url": "https://ballotpedia.org/Joy_Eakins",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:785",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00939"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0119",
+      "url": "https://www.imdb.com/name/nm3671154/",
+      "sourceFile": "reports/governor-2026-all-remaining-candidates-complete.md:798",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-00949"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-charlotte-ohara-0120",
+      "url": "https://en.wikipedia.org/wiki/Scott_Schwab",
+      "sourceFile": "reports/scott-schwab-complete-dossier.md:786",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-charlotte-ohara-01129"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    }
+  ]
+}

@@ -1,0 +1,1510 @@
+{
+  "candidateSlug": "doug-billings",
+  "generated": "2026-05-20T18:46:44Z",
+  "issueCount": 14,
+  "issues": [
+    {
+      "issueNumber": 1,
+      "title": "Abortion / life",
+      "summary": "Abortion / life: 5 selected evidence items from 5 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-doug-billings-00089",
+          "classification": "documented-record",
+          "text": "\"text\": \"Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l111",
+            "mem-ui-src-data-v2-doug-billings-ts-l81"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:111",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00217",
+          "classification": "documented-record",
+          "text": "\"observation\": \"Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceIds": [
+            "mem-ui-src-data-v2-doug-billings-ts-l61"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/doug-billings.ts:61",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00013",
+          "classification": "social-online-signal",
+          "text": "Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-in-their-own-words-md-l20",
+            "mem-memory-candidates-doug-billings-raw-dump-v2-md-l20",
+            "mem-memory-candidates-doug-billings-sleuth-pass-md-l20",
+            "mem-memory-candidates-doug-billings-social-harvest-md-l20"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/social-harvest.md:20",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00147",
+          "classification": "background-context",
+          "text": "Six Republican candidates participated without Schmidt: Jeff Colyer, Scott Schwab, Ty Masterson, Doug Billings, Joy Eakins, and Charlotte O'Hara (and/or Stacy Rogers). The Kansas Reflector described it as \"Six Kansas GOP candidates for governor toss haymakers in first debate, find unity on key issues.\" Candidates found consensus on abortion, marijuana opposition, judicial bias concerns, and praise for President Trump.",
+          "sourceIds": [
+            "mem-reports-vicki-schmidt-complete-dossier-md-l430"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/vicki-schmidt-complete-dossier.md:430",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00150",
+          "classification": "background-context",
+          "text": "Upside: She avoids being attacked on her abortion record in a hostile environment, maintains her \"above the fray\" positioning, and scores points with voters skeptical of party establishment",
+          "sourceIds": [
+            "mem-reports-vicki-schmidt-complete-dossier-md-l435"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/vicki-schmidt-complete-dossier.md:435",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-doug-billings-0001",
+          "evidenceRowId": "em-doug-billings-00013",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0012",
+          "evidenceRowId": "em-doug-billings-00089",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"text\": \"Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0013",
+          "evidenceRowId": "em-doug-billings-00217",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"observation\": \"Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 1,
+        "internalMemory": 4,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 2,
+      "title": "LGBT / gender / parental rights",
+      "summary": "No relevant public evidence was found for LGBT / gender / parental rights after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 3,
+      "title": "Education / curriculum / schools",
+      "summary": "Education / curriculum / schools: 5 selected evidence items from 5 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-doug-billings-00038",
+          "classification": "documented-record",
+          "text": "\"ownWordsNarrative\": \"Billings's campaign site frames him as a MAGA conservative and lists campaign pillars including Kansas sovereignty, gold and silver, trafficking, government efficiency, taxes, regulation, election integrity, education, property rights, and social-conservative themes.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l16",
+            "mem-ui-src-data-v2-doug-billings-ts-l133"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:16",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00089",
+          "classification": "documented-record",
+          "text": "\"text\": \"Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l111",
+            "mem-ui-src-data-v2-doug-billings-ts-l81"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:111",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00217",
+          "classification": "documented-record",
+          "text": "\"observation\": \"Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceIds": [
+            "mem-ui-src-data-v2-doug-billings-ts-l61"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/doug-billings.ts:61",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00013",
+          "classification": "social-online-signal",
+          "text": "Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-in-their-own-words-md-l20",
+            "mem-memory-candidates-doug-billings-raw-dump-v2-md-l20",
+            "mem-memory-candidates-doug-billings-sleuth-pass-md-l20",
+            "mem-memory-candidates-doug-billings-social-harvest-md-l20"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/social-harvest.md:20",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00189",
+          "classification": "background-context",
+          "text": "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l109"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:109",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-doug-billings-0001",
+          "evidenceRowId": "em-doug-billings-00013",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0012",
+          "evidenceRowId": "em-doug-billings-00089",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"text\": \"Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0013",
+          "evidenceRowId": "em-doug-billings-00217",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"observation\": \"Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0014",
+          "evidenceRowId": "em-doug-billings-00038",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"ownWordsNarrative\": \"Billings's campaign site frames him as a MAGA conservative and lists campaign pillars including Kansas sovereignty, gold and silver, trafficking, government efficiency, taxes, regulation, election integrity, education, property rights, and social-conservative themes.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 1,
+        "internalMemory": 4,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 4,
+      "title": "Religious liberty / church / civic morality",
+      "summary": "Religious liberty / church / civic morality: 2 selected evidence items from 2 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-doug-billings-00039",
+          "classification": "faith-community-record",
+          "text": "\"whereTheyWorship\": \"Campaign and reporting describe Billings in explicitly Christian/conservative terms; that background is descriptive and is not used as a substitute for governance evidence.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l17",
+            "mem-ui-src-data-v2-doug-billings-ts-l134"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:17",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00109",
+          "classification": "faith-community-record",
+          "text": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l170"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:170",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-doug-billings-0015",
+          "evidenceRowId": "em-doug-billings-00109",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 2,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 5,
+      "title": "Taxes / spending / debt",
+      "summary": "Taxes / spending / debt: 7 selected evidence items from 7 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-doug-billings-00038",
+          "classification": "documented-record",
+          "text": "\"ownWordsNarrative\": \"Billings's campaign site frames him as a MAGA conservative and lists campaign pillars including Kansas sovereignty, gold and silver, trafficking, government efficiency, taxes, regulation, election integrity, education, property rights, and social-conservative themes.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l16",
+            "mem-ui-src-data-v2-doug-billings-ts-l133"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:16",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00059",
+          "classification": "documented-record",
+          "text": "\"Reporting summarized campaign themes including K-DOGE, tax cuts, and regulation cuts\"",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l50",
+            "mem-ui-src-data-v2-doug-billings-ts-l177"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:50",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00089",
+          "classification": "documented-record",
+          "text": "\"text\": \"Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l111",
+            "mem-ui-src-data-v2-doug-billings-ts-l81"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:111",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00217",
+          "classification": "documented-record",
+          "text": "\"observation\": \"Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceIds": [
+            "mem-ui-src-data-v2-doug-billings-ts-l61"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/doug-billings.ts:61",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00013",
+          "classification": "social-online-signal",
+          "text": "Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-in-their-own-words-md-l20",
+            "mem-memory-candidates-doug-billings-raw-dump-v2-md-l20",
+            "mem-memory-candidates-doug-billings-sleuth-pass-md-l20",
+            "mem-memory-candidates-doug-billings-social-harvest-md-l20"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/social-harvest.md:20",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00189",
+          "classification": "background-context",
+          "text": "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l109"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:109",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00191",
+          "classification": "background-context",
+          "text": "\"The governor is the boss of Kansas state government. They sign or veto every law the legislature passes, write the state budget, appoint the heads of state agencies, and set the direction on taxes, schools, roads, and healthcare. When there's a disaster, a crisis, or a big policy fight, the governor is the person making the call. Think of it as the CEO of the state.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l111"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:111",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-doug-billings-0001",
+          "evidenceRowId": "em-doug-billings-00013",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0012",
+          "evidenceRowId": "em-doug-billings-00089",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"text\": \"Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0013",
+          "evidenceRowId": "em-doug-billings-00217",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"observation\": \"Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0014",
+          "evidenceRowId": "em-doug-billings-00038",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"ownWordsNarrative\": \"Billings's campaign site frames him as a MAGA conservative and lists campaign pillars including Kansas sovereignty, gold and silver, trafficking, government efficiency, taxes, regulation, election integrity, education, property rights, and social-conservative themes.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 1,
+        "internalMemory": 6,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 6,
+      "title": "Economy / jobs / labor",
+      "summary": "Economy / jobs / labor: 1 selected evidence items from 1 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-doug-billings-00137",
+          "classification": "background-context",
+          "text": "Fox Business",
+          "sourceIds": [
+            "mem-reports-jeff-colyer-complete-dossier-md-l779"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/jeff-colyer-complete-dossier.md:779",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 1,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 7,
+      "title": "Guns / Second Amendment",
+      "summary": "Guns / Second Amendment: 4 selected evidence items from 4 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-doug-billings-00089",
+          "classification": "documented-record",
+          "text": "\"text\": \"Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l111",
+            "mem-ui-src-data-v2-doug-billings-ts-l81"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:111",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00217",
+          "classification": "documented-record",
+          "text": "\"observation\": \"Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceIds": [
+            "mem-ui-src-data-v2-doug-billings-ts-l61"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/doug-billings.ts:61",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00161",
+          "classification": "donor-organization-signal",
+          "text": "| NRA | Unknown | No endorsement data found |",
+          "sourceIds": [
+            "mem-reports-vicki-schmidt-complete-dossier-md-l455"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/vicki-schmidt-complete-dossier.md:455",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00013",
+          "classification": "social-online-signal",
+          "text": "Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-in-their-own-words-md-l20",
+            "mem-memory-candidates-doug-billings-raw-dump-v2-md-l20",
+            "mem-memory-candidates-doug-billings-sleuth-pass-md-l20",
+            "mem-memory-candidates-doug-billings-social-harvest-md-l20"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/social-harvest.md:20",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-doug-billings-0001",
+          "evidenceRowId": "em-doug-billings-00013",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0012",
+          "evidenceRowId": "em-doug-billings-00089",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"text\": \"Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0013",
+          "evidenceRowId": "em-doug-billings-00217",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"observation\": \"Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 1,
+        "internalMemory": 3,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 8,
+      "title": "Immigration / border",
+      "summary": "No relevant public evidence was found for Immigration / border after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 9,
+      "title": "Health care / insurance / Medicaid",
+      "summary": "Health care / insurance / Medicaid: 2 selected evidence items from 2 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-doug-billings-00189",
+          "classification": "background-context",
+          "text": "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l109"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:109",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00191",
+          "classification": "background-context",
+          "text": "\"The governor is the boss of Kansas state government. They sign or veto every law the legislature passes, write the state budget, appoint the heads of state agencies, and set the direction on taxes, schools, roads, and healthcare. When there's a disaster, a crisis, or a big policy fight, the governor is the person making the call. Think of it as the CEO of the state.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l111"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:111",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 2,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 10,
+      "title": "Election integrity / voting / courts",
+      "summary": "Election integrity / voting / courts: 17 selected evidence items from 41 mapped rows. Public URL-backed rows: 1.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-doug-billings-00049",
+          "classification": "documented-record",
+          "text": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l30",
+            "mem-ui-src-data-v2-doug-billings-ts-l147"
+          ],
+          "sourceUrl": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:30",
+          "confidence": "confirmed",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00033",
+          "classification": "documented-record",
+          "text": "\"incumbent\": false,",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l11",
+            "mem-ui-src-data-v2-doug-billings-ts-l15"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:11",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00037",
+          "classification": "documented-record",
+          "text": "\"recordSummary\": \"The profile captures campaign-account status, candidate-controlled platform themes, and reporting about removal from the Secretary of State candidate list. It should be rechecked against the final SOS list.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l15",
+            "mem-ui-src-data-v2-doug-billings-ts-l132"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:15",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00038",
+          "classification": "documented-record",
+          "text": "\"ownWordsNarrative\": \"Billings's campaign site frames him as a MAGA conservative and lists campaign pillars including Kansas sovereignty, gold and silver, trafficking, government efficiency, taxes, regulation, election integrity, education, property rights, and social-conservative themes.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l16",
+            "mem-ui-src-data-v2-doug-billings-ts-l133"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:16",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00040",
+          "classification": "documented-record",
+          "text": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l18"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:18",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00050",
+          "classification": "documented-record",
+          "text": "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l31",
+            "mem-ui-src-data-v2-doug-billings-ts-l148"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/doug-billings.ts:148",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00052",
+          "classification": "documented-record",
+          "text": "\"Campaign site presents Billings as a 2026 Kansas Governor candidate\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l37",
+            "mem-ui-src-data-v2-doug-billings-ts-l164"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:37",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00053",
+          "classification": "documented-record",
+          "text": "\"Campaign site lists candidate-controlled policy pillars\"",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l38",
+            "mem-ui-src-data-v2-doug-billings-ts-l165"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:38",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00036",
+          "classification": "donor-organization-signal",
+          "text": "\"whoTheyAre\": \"Doug Billings is a conservative broadcaster and Republican governor candidate associated with a 2026 gubernatorial campaign and KPDC account. Reporting also says his SOS candidate-list status changed after a running-mate dispute, so the page must distinguish campaign/account evidence from final ballot certification.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l14",
+            "mem-ui-src-data-v2-doug-billings-ts-l131"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:14",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00071",
+          "classification": "donor-organization-signal",
+          "text": "\"text\": \"Billings has campaign and KPDC account evidence connected to the 2026 governor race, but reporting says he was removed from the Secretary of State candidate list after a running-mate dispute. Treat final ballot status as unresolved until the final SOS list is checked.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l74",
+            "mem-ui-src-data-v2-doug-billings-ts-l23"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:74",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00083",
+          "classification": "donor-organization-signal",
+          "text": "\"summary\": \"Campaign/KPDC-account evidence and reported SOS-list status point in different directions; this is a ballot-status conflict, not a policy inference.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l100",
+            "mem-ui-src-data-v2-doug-billings-ts-l70"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:100",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00187",
+          "classification": "donor-organization-signal",
+          "text": "\"Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l107"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:107",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00213",
+          "classification": "donor-organization-signal",
+          "text": "\"observation\": \"Ballot / filing status: Billings has campaign and KPDC account evidence connected to the 2026 governor race, but reporting says he was removed from the Secretary of State candidate list after a running-mate dispute. Treat final ballot status as unresolved until the final SOS list is checked.\",",
+          "sourceIds": [
+            "mem-ui-src-data-v2-doug-billings-ts-l51"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/doug-billings.ts:51",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00005",
+          "classification": "social-online-signal",
+          "text": "This artifact was created because the candidate-completeness audit found Doug Billings in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-in-their-own-words-md-l8",
+            "mem-memory-candidates-doug-billings-raw-dump-v2-md-l8",
+            "mem-memory-candidates-doug-billings-sleuth-pass-md-l8",
+            "mem-memory-candidates-doug-billings-social-harvest-md-l8"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/social-harvest.md:8",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00012",
+          "classification": "social-online-signal",
+          "text": "Ballot / filing status: Billings has campaign and KPDC account evidence connected to the 2026 governor race, but reporting says he was removed from the Secretary of State candidate list after a running-mate dispute. Treat final ballot status as unresolved until the final SOS list is checked.",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-in-their-own-words-md-l19",
+            "mem-memory-candidates-doug-billings-raw-dump-v2-md-l19",
+            "mem-memory-candidates-doug-billings-sleuth-pass-md-l19",
+            "mem-memory-candidates-doug-billings-social-harvest-md-l19"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/social-harvest.md:19",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00013",
+          "classification": "social-online-signal",
+          "text": "Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-in-their-own-words-md-l20",
+            "mem-memory-candidates-doug-billings-raw-dump-v2-md-l20",
+            "mem-memory-candidates-doug-billings-sleuth-pass-md-l20",
+            "mem-memory-candidates-doug-billings-social-harvest-md-l20"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/social-harvest.md:20",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00147",
+          "classification": "background-context",
+          "text": "Six Republican candidates participated without Schmidt: Jeff Colyer, Scott Schwab, Ty Masterson, Doug Billings, Joy Eakins, and Charlotte O'Hara (and/or Stacy Rogers). The Kansas Reflector described it as \"Six Kansas GOP candidates for governor toss haymakers in first debate, find unity on key issues.\" Candidates found consensus on abortion, marijuana opposition, judicial bias concerns, and praise for President Trump.",
+          "sourceIds": [
+            "mem-reports-vicki-schmidt-complete-dossier-md-l430"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/vicki-schmidt-complete-dossier.md:430",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-doug-billings-0001",
+          "evidenceRowId": "em-doug-billings-00013",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0002",
+          "evidenceRowId": "em-doug-billings-00005",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "This artifact was created because the candidate-completeness audit found Doug Billings in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0003",
+          "evidenceRowId": "em-doug-billings-00012",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Ballot / filing status: Billings has campaign and KPDC account evidence connected to the 2026 governor race, but reporting says he was removed from the Secretary of State candidate list after a running-mate dispute. Treat final ballot status as unresolved until the final SOS list is checked.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0012",
+          "evidenceRowId": "em-doug-billings-00089",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"text\": \"Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0013",
+          "evidenceRowId": "em-doug-billings-00217",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"observation\": \"Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0014",
+          "evidenceRowId": "em-doug-billings-00038",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"ownWordsNarrative\": \"Billings's campaign site frames him as a MAGA conservative and lists campaign pillars including Kansas sovereignty, gold and silver, trafficking, government efficiency, taxes, regulation, election integrity, education, property rights, and social-conservative themes.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0016",
+          "evidenceRowId": "em-doug-billings-00037",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"recordSummary\": \"The profile captures campaign-account status, candidate-controlled platform themes, and reporting about removal from the Secretary of State candidate list. It should be rechecked against the final SOS list.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0017",
+          "evidenceRowId": "em-doug-billings-00040",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0018",
+          "evidenceRowId": "em-doug-billings-00093",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"body\": \"The campaign site and launch reporting published candidate-controlled or candidate-attributed platform themes.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0019",
+          "evidenceRowId": "em-doug-billings-00219",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 1,
+        "secondary": 0,
+        "social": 3,
+        "internalMemory": 37,
+        "publicUrlRows": 1
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 11,
+      "title": "Public safety / law enforcement / criminal justice",
+      "summary": "Public safety / law enforcement / criminal justice: 3 selected evidence items from 3 mapped rows. Public URL-backed rows: 1.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-doug-billings-00049",
+          "classification": "documented-record",
+          "text": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l30",
+            "mem-ui-src-data-v2-doug-billings-ts-l147"
+          ],
+          "sourceUrl": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:30",
+          "confidence": "confirmed",
+          "useDecision": "use"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00203",
+          "classification": "documented-record",
+          "text": "\"This office decides which lawsuits Kansas joins, which criminal or civil fights get statewide attention, and how aggressively state law is enforced in court.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l128"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:128",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00204",
+          "classification": "documented-record",
+          "text": "\"The attorney general is Kansas's top lawyer. They decide which lawsuits the state files or joins, prosecute major crimes that cross county lines, protect consumers from scams, and defend or challenge state laws in court. If a company rips off Kansans, if there's a statewide criminal case, or if Kansas sues the federal government, this is the person running that fight.\",",
+          "sourceIds": [
+            "mem-ui-src-data-elections-ts-l130"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/elections.ts:130",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 1,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 2,
+        "publicUrlRows": 1
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 12,
+      "title": "Agriculture / rural economy / water",
+      "summary": "No relevant public evidence was found for Agriculture / rural economy / water after searching the evidence matrix, social-evidence-matrix, and source audit for this candidate.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No relevant public evidence found in the current matrix pass; do not infer a position from party, faith, follows, likes, or associations."
+      ]
+    },
+    {
+      "issueNumber": 13,
+      "title": "Local governance / transparency / ethics",
+      "summary": "Local governance / transparency / ethics: 22 selected evidence items from 55 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-doug-billings-00159",
+          "classification": "candidate-stated",
+          "text": "| Kansans for Life PAC | ACTIVELY OPPOSING | Released formal statement calling her record \"the worst on life of any Republican to ever seek office in Kansas\" |",
+          "sourceIds": [
+            "mem-reports-vicki-schmidt-complete-dossier-md-l453"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/vicki-schmidt-complete-dossier.md:453",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00033",
+          "classification": "documented-record",
+          "text": "\"incumbent\": false,",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l11",
+            "mem-ui-src-data-v2-doug-billings-ts-l15"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:11",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00037",
+          "classification": "documented-record",
+          "text": "\"recordSummary\": \"The profile captures campaign-account status, candidate-controlled platform themes, and reporting about removal from the Secretary of State candidate list. It should be rechecked against the final SOS list.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l15",
+            "mem-ui-src-data-v2-doug-billings-ts-l132"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:15",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00038",
+          "classification": "documented-record",
+          "text": "\"ownWordsNarrative\": \"Billings's campaign site frames him as a MAGA conservative and lists campaign pillars including Kansas sovereignty, gold and silver, trafficking, government efficiency, taxes, regulation, election integrity, education, property rights, and social-conservative themes.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l16",
+            "mem-ui-src-data-v2-doug-billings-ts-l133"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:16",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00040",
+          "classification": "documented-record",
+          "text": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l18"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:18",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00050",
+          "classification": "documented-record",
+          "text": "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l31",
+            "mem-ui-src-data-v2-doug-billings-ts-l148"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "ui/src/data/v2/doug-billings.ts:148",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00052",
+          "classification": "documented-record",
+          "text": "\"Campaign site presents Billings as a 2026 Kansas Governor candidate\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l37",
+            "mem-ui-src-data-v2-doug-billings-ts-l164"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:37",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00053",
+          "classification": "documented-record",
+          "text": "\"Campaign site lists candidate-controlled policy pillars\"",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l38",
+            "mem-ui-src-data-v2-doug-billings-ts-l165"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:38",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00059",
+          "classification": "documented-record",
+          "text": "\"Reporting summarized campaign themes including K-DOGE, tax cuts, and regulation cuts\"",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l50",
+            "mem-ui-src-data-v2-doug-billings-ts-l177"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:50",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00036",
+          "classification": "donor-organization-signal",
+          "text": "\"whoTheyAre\": \"Doug Billings is a conservative broadcaster and Republican governor candidate associated with a 2026 gubernatorial campaign and KPDC account. Reporting also says his SOS candidate-list status changed after a running-mate dispute, so the page must distinguish campaign/account evidence from final ballot certification.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l14",
+            "mem-ui-src-data-v2-doug-billings-ts-l131"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:14",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00043",
+          "classification": "donor-organization-signal",
+          "text": "\"publisher\": \"Kansas Governmental Ethics Commission / KPDC\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l23",
+            "mem-ui-src-data-v2-doug-billings-ts-l149"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:23",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00045",
+          "classification": "donor-organization-signal",
+          "text": "\"KPDC index lists Billings, Doug under gubernatorial candidates\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l25",
+            "mem-ui-src-data-v2-doug-billings-ts-l152"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:25",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00046",
+          "classification": "donor-organization-signal",
+          "text": "\"KPDC links a 202601 report for Billings\"",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l26",
+            "mem-ui-src-data-v2-doug-billings-ts-l153"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:26",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00071",
+          "classification": "donor-organization-signal",
+          "text": "\"text\": \"Billings has campaign and KPDC account evidence connected to the 2026 governor race, but reporting says he was removed from the Secretary of State candidate list after a running-mate dispute. Treat final ballot status as unresolved until the final SOS list is checked.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l74",
+            "mem-ui-src-data-v2-doug-billings-ts-l23"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:74",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00073",
+          "classification": "donor-organization-signal",
+          "text": "\"s-kpdc-statewide\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l76",
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l86",
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l136",
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l146",
+            "mem-ui-src-data-v2-doug-billings-ts-l25",
+            "mem-ui-src-data-v2-doug-billings-ts-l35",
+            "mem-ui-src-data-v2-doug-billings-ts-l54",
+            "mem-ui-src-data-v2-doug-billings-ts-l64",
+            "mem-ui-src-data-v2-doug-billings-ts-l106",
+            "mem-ui-src-data-v2-doug-billings-ts-l116"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:76",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00005",
+          "classification": "social-online-signal",
+          "text": "This artifact was created because the candidate-completeness audit found Doug Billings in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-in-their-own-words-md-l8",
+            "mem-memory-candidates-doug-billings-raw-dump-v2-md-l8",
+            "mem-memory-candidates-doug-billings-sleuth-pass-md-l8",
+            "mem-memory-candidates-doug-billings-social-harvest-md-l8"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/social-harvest.md:8",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00012",
+          "classification": "social-online-signal",
+          "text": "Ballot / filing status: Billings has campaign and KPDC account evidence connected to the 2026 governor race, but reporting says he was removed from the Secretary of State candidate list after a running-mate dispute. Treat final ballot status as unresolved until the final SOS list is checked.",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-in-their-own-words-md-l19",
+            "mem-memory-candidates-doug-billings-raw-dump-v2-md-l19",
+            "mem-memory-candidates-doug-billings-sleuth-pass-md-l19",
+            "mem-memory-candidates-doug-billings-social-harvest-md-l19"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/social-harvest.md:19",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00014",
+          "classification": "social-online-signal",
+          "text": "Donor / funding information: KPDC records provide a finance-report path for Billings, and reporting separately describes disputed accusations about a contribution; the candidate denied wrongdoing.",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-in-their-own-words-md-l21",
+            "mem-memory-candidates-doug-billings-raw-dump-v2-md-l21",
+            "mem-memory-candidates-doug-billings-sleuth-pass-md-l21",
+            "mem-memory-candidates-doug-billings-social-harvest-md-l21"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/social-harvest.md:21",
+          "confidence": "weak-signal",
+          "useDecision": "use-with-caveat",
+          "caveat": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief."
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00039",
+          "classification": "faith-community-record",
+          "text": "\"whereTheyWorship\": \"Campaign and reporting describe Billings in explicitly Christian/conservative terms; that background is descriptive and is not used as a substitute for governance evidence.\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l17",
+            "mem-ui-src-data-v2-doug-billings-ts-l134"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:17",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00063",
+          "classification": "background-context",
+          "text": "\"publisher\": \"Kansas City Star\",",
+          "sourceIds": [
+            "mem-memory-candidates-doug-billings-v2-issues-yaml-l59",
+            "mem-ui-src-data-v2-doug-billings-ts-l185"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:59",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00139",
+          "classification": "background-context",
+          "text": "Kansas City Star",
+          "sourceIds": [
+            "mem-reports-jeff-colyer-complete-dossier-md-l781"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/jeff-colyer-complete-dossier.md:781",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        },
+        {
+          "evidenceRowId": "em-doug-billings-00144",
+          "classification": "background-context",
+          "text": "> \"President Trump has brought new voters to the party and we need to be encouraging good folks to run for office as Republicans, not creating road blocks and challenges that discourage them.\"",
+          "sourceIds": [
+            "mem-reports-vicki-schmidt-complete-dossier-md-l424"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/vicki-schmidt-complete-dossier.md:424",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [
+        {
+          "socialSignalId": "soc-doug-billings-0002",
+          "evidenceRowId": "em-doug-billings-00005",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "This artifact was created because the candidate-completeness audit found Doug Billings in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0003",
+          "evidenceRowId": "em-doug-billings-00012",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Ballot / filing status: Billings has campaign and KPDC account evidence connected to the 2026 governor race, but reporting says he was removed from the Secretary of State candidate list after a running-mate dispute. Treat final ballot status as unresolved until the final SOS list is checked.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0004",
+          "evidenceRowId": "em-doug-billings-00014",
+          "platform": "Public web / internal harvest",
+          "actionType": "post",
+          "signalStrength": "weak",
+          "observation": "Donor / funding information: KPDC records provide a finance-report path for Billings, and reporting separately describes disputed accusations about a contribution; the candidate denied wrongdoing.",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0014",
+          "evidenceRowId": "em-doug-billings-00038",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"ownWordsNarrative\": \"Billings's campaign site frames him as a MAGA conservative and lists campaign pillars including Kansas sovereignty, gold and silver, trafficking, government efficiency, taxes, regulation, election integrity, education, property rights, and social-conservative themes.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0016",
+          "evidenceRowId": "em-doug-billings-00037",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"recordSummary\": \"The profile captures campaign-account status, candidate-controlled platform themes, and reporting about removal from the Secretary of State candidate list. It should be rechecked against the final SOS list.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0017",
+          "evidenceRowId": "em-doug-billings-00040",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0018",
+          "evidenceRowId": "em-doug-billings-00093",
+          "platform": "Public web / internal harvest",
+          "actionType": "online-reference",
+          "signalStrength": "ambiguous",
+          "observation": "\"body\": \"The campaign site and launch reporting published candidate-controlled or candidate-attributed platform themes.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        },
+        {
+          "socialSignalId": "soc-doug-billings-0019",
+          "evidenceRowId": "em-doug-billings-00219",
+          "platform": "Public web / internal harvest",
+          "actionType": "share/repost",
+          "signalStrength": "ambiguous",
+          "observation": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+          "sourceUrl": null,
+          "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+        }
+      ],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 3,
+        "internalMemory": 52,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    },
+    {
+      "issueNumber": 14,
+      "title": "Environment / energy / land use",
+      "summary": "Environment / energy / land use: 1 selected evidence items from 1 mapped rows. Public URL-backed rows: 0.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-doug-billings-00150",
+          "classification": "background-context",
+          "text": "Upside: She avoids being attacked on her abortion record in a hostile environment, maintains her \"above the fray\" positioning, and scores points with voters skeptical of party establishment",
+          "sourceIds": [
+            "mem-reports-vicki-schmidt-complete-dossier-md-l435"
+          ],
+          "sourceUrl": null,
+          "sourceFile": "reports/vicki-schmidt-complete-dossier.md:435",
+          "confidence": "unknown",
+          "useDecision": "background-only"
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 1,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
+      ]
+    }
+  ]
+}

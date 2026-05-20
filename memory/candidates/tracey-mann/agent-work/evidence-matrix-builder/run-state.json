@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "tracey-mann",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/tracey-mann/evidence-matrix-raw.json",
+    "memory/candidates/tracey-mann/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/tracey-mann/evidence-matrix.json",
+    "memory/candidates/tracey-mann/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/tracey-mann/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/tracey-mann/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs tracey-mann"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for tracey-mann.",
+    "Run source-tier-validator for tracey-mann."
+  ],
+  "handoff_summary": "Built final evidence matrix for tracey-mann: 6113 raw rows to 3228 deduplicated rows."
+}

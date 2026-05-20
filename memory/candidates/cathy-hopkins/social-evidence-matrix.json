@@ -1,0 +1,1203 @@
+{
+  "candidateSlug": "cathy-hopkins",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceFiles": [
+    "memory/candidates/cathy-hopkins/social-harvest.md",
+    "memory/candidates/cathy-hopkins/evidence-matrix.json"
+  ],
+  "platformPresence": [],
+  "signals": [
+    {
+      "id": "soc-cathy-hopkins-0001",
+      "evidenceRowId": "em-cathy-hopkins-00376",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/sleuth-pass.md:34",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Public online commentary: Kansas Reflector/Hays Post, The Sentinel/Kansas Policy Institute, Kansas News Service/KMUW, and State Affairs have coverage quoting or describing Hopkins on core academics, assessment cut scores, board pay, cell-phone policy, commissioner search, and public-school funding. These are secondary-source issue leads, not candidate-controlled social signals.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/sleuth-pass.md:34",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l34"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0002",
+      "evidenceRowId": "em-cathy-hopkins-00698",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/v2-issues.yaml:610",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "social_presence_note: \"Hopkins remains a current-officeholder profile. The 2026 SBOE District 5 election page now uses the KPDC District 5 campaign-account records for Michelle Cunningham and Lorie Wood instead of treating Hopkins as the only 2026 candidate.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/v2-issues.yaml:610",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l610"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0003",
+      "evidenceRowId": "em-cathy-hopkins-00813",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "reports/plain-english-voter-guide.md:370",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Curriculum standards -- what Kansas kids learn in math, science, reading, writing, and social studies (yes, including what gets taught about evolution, history, and sex education)",
+      "sourceUrl": null,
+      "sourceFile": "reports/plain-english-voter-guide.md:370",
+      "sourceIds": [
+        "mem-reports-plain-english-voter-guide-md-l370"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0004",
+      "evidenceRowId": "em-cathy-hopkins-00884",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/cathy-hopkins.ts:51",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"Public online commentary: Kansas Reflector/Hays Post, The Sentinel/Kansas Policy Institute, Kansas News Service/KMUW, and State Affairs have coverage quoting or describing Hopkins on core academics, assessment cut scores, board pay, cell-phone policy, commissioner search, and public-school funding. These are secondary-source issue leads, not candidate-controlled social signals.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/cathy-hopkins.ts:51",
+      "sourceIds": [
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l51"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0005",
+      "evidenceRowId": "em-cathy-hopkins-00937",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/cathy-hopkins.ts:435",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"socialResearchNote\": \"Hopkins remains a current-officeholder profile. The 2026 SBOE District 5 election page now uses the KPDC District 5 campaign-account records for Michelle Cunningham and Lorie Wood instead of treating Hopkins as the only 2026 candidate.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/cathy-hopkins.ts:435",
+      "sourceIds": [
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l435"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0006",
+      "evidenceRowId": "em-cathy-hopkins-00010",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/raw-dump-v2.md:16",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "This dump does not treat dated 2022 questionnaire answers as a 2026 platform, does not infer beliefs from faith references, and does not call Hopkins a filed 2026 candidate without an official filing source.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/raw-dump-v2.md:16",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l16"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0007",
+      "evidenceRowId": "em-cathy-hopkins-00014",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/raw-dump-v2.md:24",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social: public social or platform pages only where visible. No candidate-controlled post corpus was captured.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/raw-dump-v2.md:24",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l24"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0008",
+      "evidenceRowId": "em-cathy-hopkins-00151",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/raw-dump-v2.md:304",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Caveat: Candidate-guide archive is 2022 material. Do not present as a 2026 platform unless re-confirmed.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/raw-dump-v2.md:304",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l304"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0009",
+      "evidenceRowId": "em-cathy-hopkins-00256",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/raw-dump-v2.md:543",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No verified candidate-controlled public Facebook page with readable post history or engagement counts was confirmed.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/raw-dump-v2.md:543",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l543"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0010",
+      "evidenceRowId": "em-cathy-hopkins-00345",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/raw-dump-v2.md:773",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No current candidate-controlled 2026 campaign site or social feed was confirmed.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/raw-dump-v2.md:773",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l773"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0011",
+      "evidenceRowId": "em-cathy-hopkins-00374",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/sleuth-pass.md:32",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Facebook / X / Instagram / LinkedIn: No verified candidate-controlled public account with readable post corpus or engagement counts was confirmed. Searches surfaced news pages that link their own social accounts, not Hopkins-controlled feeds.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/sleuth-pass.md:32",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l32"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0012",
+      "evidenceRowId": "em-cathy-hopkins-00375",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/sleuth-pass.md:33",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Questionnaire archive: iVoterGuide's public 2022 profile contains Hopkins's own questionnaire responses. This should be treated as dated candidate questionnaire material from the 2022 race, not a fresh 2026 campaign platform.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/sleuth-pass.md:33",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l33"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0013",
+      "evidenceRowId": "em-cathy-hopkins-00389",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/sleuth-pass.md:51",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No current candidate-controlled 2026 campaign site or active campaign social feed was verified.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/sleuth-pass.md:51",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l51"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0014",
+      "evidenceRowId": "em-cathy-hopkins-00395",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/sleuth-pass.md:59",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Any current 2026 Hopkins campaign website, Facebook page, X account, Instagram account, LinkedIn profile, or engagement metrics.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/sleuth-pass.md:59",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l59"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0015",
+      "evidenceRowId": "em-cathy-hopkins-00407",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/v2-issues.yaml:10",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"No candidate-controlled current social feed or engagement corpus was verified.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/v2-issues.yaml:10",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l10"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0016",
+      "evidenceRowId": "em-cathy-hopkins-00572",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/v2-issues.yaml:391",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "outcome: \"Dated candidate-submitted questionnaire material; not a fresh 2026 platform.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/v2-issues.yaml:391",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l391"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0017",
+      "evidenceRowId": "em-cathy-hopkins-00585",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/cathy-hopkins.ts:269",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Candidate questionnaire archive\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/cathy-hopkins.ts:269",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l414",
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l269"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0018",
+      "evidenceRowId": "em-cathy-hopkins-00669",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/v2-issues.yaml:565",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Candidate-controlled Facebook page\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/v2-issues.yaml:565",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l565"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0019",
+      "evidenceRowId": "em-cathy-hopkins-00670",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/v2-issues.yaml:566",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Candidate-controlled X/Twitter account\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/v2-issues.yaml:566",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l566"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0020",
+      "evidenceRowId": "em-cathy-hopkins-00671",
+      "platform": "Instagram",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/v2-issues.yaml:567",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Candidate-controlled Instagram account\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/v2-issues.yaml:567",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l567"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0021",
+      "evidenceRowId": "em-cathy-hopkins-00672",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/v2-issues.yaml:568",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Candidate-controlled LinkedIn profile\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/v2-issues.yaml:568",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l568"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0022",
+      "evidenceRowId": "em-cathy-hopkins-00685",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/v2-issues.yaml:589",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "summary: \"No candidate-controlled 2026 campaign/social feed was verified, so social evidence is limited to official profile pages and a 2022 questionnaire archive.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/v2-issues.yaml:589",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l589"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0023",
+      "evidenceRowId": "em-cathy-hopkins-00689",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/v2-issues.yaml:598",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Hopkins has verified candidate-controlled Facebook, X, Instagram, LinkedIn, TikTok, YouTube, Reddit, or Bluesky accounts with public post metrics.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/v2-issues.yaml:598",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l598"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0024",
+      "evidenceRowId": "em-cathy-hopkins-00930",
+      "platform": "Facebook",
+      "actionType": "share/repost",
+      "target": "ui/src/data/v2/cathy-hopkins.ts:426",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"ownWordsNarrative\": \"candidateControlled: found: KSDE official board profile and contact page; 2022 iVoterGuide questionnaire archive; notConfirmed: Current 2026 Hopkins campaign website; Candidate-controlled Facebook page; Candidate-controlled X/Twitter account; Candidate-controlled Instagram account; Candidate-controlled LinkedIn profile; Native post engagement metrics, likes, comments, shares, follows, or reposts; observedSignals: id: online-questionnaire-2022; platform: iVoterGuide; type: candidate_questionnaire_archive; mappedToIssueId: local-control-core-academics-state-mandates; summary: 2022 questionnaire responses are the only substantial candidate-authored issue corpus surfaced in this pass.; sourceIds: s-ivoterguide-hopkins\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/cathy-hopkins.ts:426",
+      "sourceIds": [
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l426"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0025",
+      "evidenceRowId": "em-cathy-hopkins-00255",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/raw-dump-v2.md:539",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Pass 5: Facebook",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/raw-dump-v2.md:539",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l539"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0026",
+      "evidenceRowId": "em-cathy-hopkins-00257",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/raw-dump-v2.md:544",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Search results surfaced articles that link publisher social accounts, not Hopkins-controlled feeds.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/raw-dump-v2.md:544",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l544"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0027",
+      "evidenceRowId": "em-cathy-hopkins-00259",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/raw-dump-v2.md:550",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Pass 6: X / Twitter",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/raw-dump-v2.md:550",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l550"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0028",
+      "evidenceRowId": "em-cathy-hopkins-00262",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/raw-dump-v2.md:561",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Pass 7: Other Social Media",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/raw-dump-v2.md:561",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l561"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0029",
+      "evidenceRowId": "em-cathy-hopkins-00263",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/raw-dump-v2.md:565",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No verified Instagram, TikTok, Reddit, YouTube, Bluesky, or LinkedIn account controlled by Hopkins was confirmed.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/raw-dump-v2.md:565",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l565"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0030",
+      "evidenceRowId": "em-cathy-hopkins-00287",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/raw-dump-v2.md:649",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No separate professional license or LinkedIn record was verified.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/raw-dump-v2.md:649",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l649"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0031",
+      "evidenceRowId": "em-cathy-hopkins-00372",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/sleuth-pass.md:29",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social / Online Presence Leads",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/sleuth-pass.md:29",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l29"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0032",
+      "evidenceRowId": "em-cathy-hopkins-00392",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/sleuth-pass.md:54",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No authenticated social-media likes, follows, shares, comments, or engagement counts were captured for Hopkins.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/sleuth-pass.md:54",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l54"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0033",
+      "evidenceRowId": "em-cathy-hopkins-00662",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/v2-issues.yaml:558",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "social_online_relevance:",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/v2-issues.yaml:558",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l558"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0034",
+      "evidenceRowId": "em-cathy-hopkins-00676",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/v2-issues.yaml:572",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "platform: \"iVoterGuide\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/v2-issues.yaml:572",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l572"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0035",
+      "evidenceRowId": "em-cathy-hopkins-00873",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/cathy-hopkins.ts:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/cathy-hopkins.ts:1",
+      "sourceIds": [
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0036",
+      "evidenceRowId": "em-cathy-hopkins-00875",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/cathy-hopkins.ts:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "node scripts/hydrate-v2-social-signals.mjs",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/cathy-hopkins.ts:3",
+      "sourceIds": [
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0037",
+      "evidenceRowId": "em-cathy-hopkins-00883",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/cathy-hopkins.ts:50",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Kansas Reflector\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/cathy-hopkins.ts:50",
+      "sourceIds": [
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l50",
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l279"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0038",
+      "evidenceRowId": "em-cathy-hopkins-00887",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/cathy-hopkins.ts:60",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Public web\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/cathy-hopkins.ts:60",
+      "sourceIds": [
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l60",
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l70",
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l126",
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l146",
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l202",
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l212",
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l289",
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l327"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0039",
+      "evidenceRowId": "em-cathy-hopkins-00898",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/cathy-hopkins.ts:136",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Hays Post\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/cathy-hopkins.ts:136",
+      "sourceIds": [
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l136"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0040",
+      "evidenceRowId": "em-cathy-hopkins-00920",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/cathy-hopkins.ts:337",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"kwch\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/cathy-hopkins.ts:337",
+      "sourceIds": [
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l337"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0041",
+      "evidenceRowId": "em-cathy-hopkins-00922",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/cathy-hopkins.ts:341",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"s-social-crossref-1\"",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/cathy-hopkins.ts:341",
+      "sourceIds": [
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l341"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0042",
+      "evidenceRowId": "em-cathy-hopkins-00584",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/cathy-hopkins.ts:268",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"social-questionnaire-archive-local-control\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/cathy-hopkins.ts:268",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l413",
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l268"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0043",
+      "evidenceRowId": "em-cathy-hopkins-00527",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/cathy-hopkins.ts:390",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"socialSignals\": [],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/cathy-hopkins.ts:390",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l303",
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l339",
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l375",
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l412",
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l439",
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l476",
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l496",
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l47",
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l123",
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l199",
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l266",
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l324",
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l390",
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l417"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0044",
+      "evidenceRowId": "em-cathy-hopkins-00683",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/cathy-hopkins/v2-issues.yaml:587",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "id: blocker-current-social-absence",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/v2-issues.yaml:587",
+      "sourceIds": [
+        "mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l587"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-cathy-hopkins-0045",
+      "evidenceRowId": "em-cathy-hopkins-00938",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/cathy-hopkins.ts:628",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"s-social-crossref-1\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/cathy-hopkins.ts:628",
+      "sourceIds": [
+        "mem-ui-src-data-v2-cathy-hopkins-ts-l628"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    }
+  ],
+  "issueCoverage": {
+    "1": {
+      "issue": "Abortion / life",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "2": {
+      "issue": "LGBT / gender / parental rights",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "3": {
+      "issue": "Education / curriculum / schools",
+      "total": 5,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 5
+    },
+    "4": {
+      "issue": "Religious liberty / church / civic morality",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "5": {
+      "issue": "Taxes / spending / debt",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "6": {
+      "issue": "Economy / jobs / labor",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "7": {
+      "issue": "Guns / Second Amendment",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "8": {
+      "issue": "Immigration / border",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "9": {
+      "issue": "Health care / insurance / Medicaid",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "10": {
+      "issue": "Election integrity / voting / courts",
+      "total": 20,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 20
+    },
+    "11": {
+      "issue": "Public safety / law enforcement / criminal justice",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "12": {
+      "issue": "Agriculture / rural economy / water",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "13": {
+      "issue": "Local governance / transparency / ethics",
+      "total": 24,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 23
+    },
+    "14": {
+      "issue": "Environment / energy / land use",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    }
+  },
+  "caveats": [
+    "Social evidence is signal, not fact. A follow, like, share, or platform absence is not treated as a belief or policy position.",
+    "Candidate-controlled posts and campaign pages may be used as stated positions only when the text itself says the position.",
+    "Login-walled, blocked, or inaccessible platform content is documented as a capture limitation, not as evidence of silence."
+  ]
+}

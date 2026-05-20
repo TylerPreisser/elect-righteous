@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "michael-berges",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/michael-berges/evidence-matrix-raw.json",
+    "memory/candidates/michael-berges/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/michael-berges/evidence-matrix.json",
+    "memory/candidates/michael-berges/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/michael-berges/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/michael-berges/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs michael-berges"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for michael-berges.",
+    "Run source-tier-validator for michael-berges."
+  ],
+  "handoff_summary": "Built final evidence matrix for michael-berges: 3564 raw rows to 1335 deduplicated rows."
+}

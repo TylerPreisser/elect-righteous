@@ -1,0 +1,31 @@
+{
+  "agent_id": "social-footprint-analyst",
+  "agent_role": "Social media intelligence analyst",
+  "candidate_slug": "noah-taylor",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/noah-taylor/social-harvest.md",
+    "memory/candidates/noah-taylor/evidence-matrix.json",
+    "memory/candidates/noah-taylor/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/noah-taylor/social-evidence-matrix.json",
+    "memory/candidates/noah-taylor/social-analysis.md",
+    "memory/candidates/noah-taylor/agent-work/social-footprint-analyst/run-state.json",
+    "memory/candidates/noah-taylor/agent-work/social-footprint-analyst/notes.md",
+    "memory/candidates/noah-taylor/agent-work/social-footprint-analyst/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs noah-taylor"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run source-tier-validator for noah-taylor.",
+    "Run fixed-issue-matrix-builder for noah-taylor after source validation."
+  ],
+  "handoff_summary": "Classified 30 social/online observations for noah-taylor."
+}

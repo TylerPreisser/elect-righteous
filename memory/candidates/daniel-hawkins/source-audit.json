@@ -1,0 +1,3560 @@
+{
+  "candidateSlug": "daniel-hawkins",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 100,
+  "sources": [
+    {
+      "sourceId": "src-daniel-hawkins-0001",
+      "url": "https://www.kslegislature.gov/b2025_26/legislators/rep_hawkins_daniel_1/",
+      "sourceFile": "memory/candidates/daniel-hawkins/social-harvest.md:18",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-daniel-hawkins-00935",
+        "em-daniel-hawkins-00225",
+        "em-daniel-hawkins-00851",
+        "em-daniel-hawkins-00994"
+      ],
+      "claimsAnchored": [
+        "[Kansas Legislature profile](https://www.kslegislature.gov/b2025_26/legislators/rep_hawkins_daniel_1/), which confirms he is Speaker of the House, Republican, District 100, and an insurance agent.",
+        "Kansas Legislature Hawkins profile: https://www.kslegislature.gov/b2025_26/legislators/rep_hawkins_daniel_1/",
+        "Kansas Legislature profile: https://www.kslegislature.gov/b2025_26/legislators/rep_hawkins_daniel_1/",
+        "[Kansas Legislature: Daniel Hawkins](https://www.kslegislature.gov/b2025_26/legislators/rep_hawkins_daniel_1/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0002",
+      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
+      "sourceFile": "ui/src/data/v2/daniel-hawkins.ts:546",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00038",
+        "em-daniel-hawkins-00221"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.sos.ks.gov/elections/candidate-information.html\",",
+        "Kansas SOS candidate information: https://www.sos.ks.gov/elections/candidate-information.html"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0003",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW03DH_AT.pdf",
+      "sourceFile": "ui/src/data/v2/daniel-hawkins.ts:572",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-daniel-hawkins-00065",
+        "em-daniel-hawkins-00271",
+        "em-daniel-hawkins-00277",
+        "em-daniel-hawkins-00796",
+        "em-daniel-hawkins-00223"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW03DH_AT.pdf\",",
+        "2026 filing PDF: [SW03DH_AT.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW03DH_AT.pdf)",
+        "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW03DH_AT.pdf",
+        "[SW03DH_AT.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW03DH_AT.pdf)",
+        "KPDC Hawkins appointment of treasurer: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW03DH_AT.pdf"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0004",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20260128172436_774228/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump-v2.md:307",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00185",
+        "em-daniel-hawkins-00230"
+      ],
+      "claimsAnchored": [
+        "Final action vote URL: https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20260128172436_774228/",
+        "SB 244 final action vote: https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20260128172436_774228/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0005",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/SB244/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump-v2.md:308",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-00186"
+      ],
+      "claimsAnchored": [
+        "Bill URL: https://www.kslegislature.gov/b2025_26/bills/SB244/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0006",
+      "url": "https://www.kslegislature.gov/li/b2025_26/members/documents/rep_hawkins_daniel_1_vote_record_2025.pdf",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump-v2.md:388",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00226",
+        "em-daniel-hawkins-00054"
+      ],
+      "claimsAnchored": [
+        "Hawkins 2025 vote record: https://www.kslegislature.gov/li/b2025_26/members/documents/rep_hawkins_daniel_1_vote_record_2025.pdf",
+        "\"url\": \"https://www.kslegislature.gov/li/b2025_26/members/documents/rep_hawkins_daniel_1_vote_record_2025.pdf\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0007",
+      "url": "https://candidatefiling.us/Info/CFPdf?c=118926085287&e=545606222&j=2795522868&s=802933811&st=KS",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump-v2.md:393",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-00231"
+      ],
+      "claimsAnchored": [
+        "Douglas County/state candidate filing PDF: https://candidatefiling.us/Info/CFPdf?c=118926085287&e=545606222&j=2795522868&s=802933811&st=KS"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0008",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:27",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-daniel-hawkins-00270",
+        "em-daniel-hawkins-00795",
+        "em-daniel-hawkins-00222",
+        "em-daniel-hawkins-00850"
+      ],
+      "claimsAnchored": [
+        "Kansas Ethics filing index: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
+        "[SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
+        "KPDC statewide 2026 filings: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+        "KPDC statewide 2026 filings page: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0009",
+      "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_hawkins_daniel_1/",
+      "sourceFile": "reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:489",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-daniel-hawkins-00548",
+        "em-daniel-hawkins-00691",
+        "em-daniel-hawkins-00023",
+        "em-daniel-hawkins-00813"
+      ],
+      "claimsAnchored": [
+        "Kansas Legislature page: [kslegislature.gov](https://www.kslegislature.gov/li/b2025_26/members/rep_hawkins_daniel_1/)",
+        "[Daniel Hawkins Legislature Page](https://www.kslegislature.gov/li/b2025_26/members/rep_hawkins_daniel_1/)",
+        "https://www.kslegislature.gov/li/b2025_26/members/rep_hawkins_daniel_1/",
+        "[kslegislature.gov](https://www.kslegislature.gov/li/b2025_26/members/rep_hawkins_daniel_1/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0010",
+      "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:636",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00614",
+        "em-daniel-hawkins-00692"
+      ],
+      "claimsAnchored": [
+        "Full voting record available at [kslegislature.gov](https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0011",
+      "url": "https://www.fec.gov/data/elections/senate/KS/2026/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:707",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-00660"
+      ],
+      "claimsAnchored": [
+        "[FEC: 2026 Kansas Senate Election](https://www.fec.gov/data/elections/senate/KS/2026/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0012",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW03DH_202601.pdf",
+      "sourceFile": "memory/candidates/daniel-hawkins/site-profile.md:128",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00839",
+        "em-daniel-hawkins-00224"
+      ],
+      "claimsAnchored": [
+        "[State of Kansas](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW03DH_202601.pdf)",
+        "KPDC Hawkins January 2026 report: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW03DH_202601.pdf"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0013",
+      "url": "https://www.fec.gov/data/candidate/S6KS00262/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:209",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-daniel-hawkins-00382",
+        "em-daniel-hawkins-00803",
+        "em-daniel-hawkins-01466",
+        "em-daniel-hawkins-00662"
+      ],
+      "claimsAnchored": [
+        "FEC Page: [FEC Candidate S6KS00262](https://www.fec.gov/data/candidate/S6KS00262/)",
+        "[FEC Candidate S6KS00262](https://www.fec.gov/data/candidate/S6KS00262/)",
+        "\"url\": \"https://www.fec.gov/data/candidate/S6KS00262/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0014",
+      "url": "https://www.fec.gov/data/candidate/S2KS00097/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:376",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-daniel-hawkins-00467",
+        "em-daniel-hawkins-00809",
+        "em-daniel-hawkins-00663"
+      ],
+      "claimsAnchored": [
+        "FEC Page: [FEC Candidate S2KS00097](https://www.fec.gov/data/candidate/S2KS00097/)",
+        "[FEC Candidate S2KS00097](https://www.fec.gov/data/candidate/S2KS00097/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0015",
+      "url": "https://www.hawkinsforinsurance.com/",
+      "sourceFile": "memory/candidates/daniel-hawkins/in-their-own-words.md:3",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record",
+        "biography",
+        "legal/court",
+        "endorsement",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat",
+        "source-only",
+        "background-only"
+      ],
+      "rowCount": 15,
+      "rowIds": [
+        "em-daniel-hawkins-00002",
+        "em-daniel-hawkins-00233",
+        "em-daniel-hawkins-00793",
+        "em-daniel-hawkins-01426",
+        "em-daniel-hawkins-00549",
+        "em-daniel-hawkins-00688",
+        "em-daniel-hawkins-01428",
+        "em-daniel-hawkins-00933",
+        "em-daniel-hawkins-00970",
+        "em-daniel-hawkins-00971",
+        "em-daniel-hawkins-00972",
+        "em-daniel-hawkins-00992",
+        "em-daniel-hawkins-00814",
+        "em-daniel-hawkins-01395",
+        "em-daniel-hawkins-00940"
+      ],
+      "claimsAnchored": [
+        "Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack [\"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\"](https://www.hawkinsforinsurance.com/) and frames his ",
+        "Hawkins for Insurance: https://www.hawkinsforinsurance.com/",
+        "> -- Hawkins for Insurance, accessed April 1, 2026, https://www.hawkinsforinsurance.com/",
+        "\"source\": \"Hawkins for Insurance, accessed April 1, 2026, https://www.hawkinsforinsurance.com/\",",
+        "Website: [hawkinsforinsurance.com](https://www.hawkinsforinsurance.com/)",
+        "[Daniel Hawkins: hawkinsforinsurance.com](https://www.hawkinsforinsurance.com/)",
+        "narrative: \"Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack [\\\"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\\\"](https://www.hawkinsforinsurance.com/) a",
+        "[Hawkins for Insurance](https://www.hawkinsforinsurance.com/), which brands the campaign as \"Pro-Life. Pro-Gun. Pro-Trump.\" and lays out accomplishments and insurance priorities.",
+        "\"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\" - [Hawkins for Insurance](https://www.hawkinsforinsurance.com/)",
+        "\"Dan has been a strong supporter of President Trump and will serve as a vocal ally for his agenda.\" - [Hawkins for Insurance](https://www.hawkinsforinsurance.com/)",
+        "\"Dan Hawkins is devoted to creating a fair and transparent insurance system that works for all Kansans.\" - [Hawkins for Insurance](https://www.hawkinsforinsurance.com/)",
+        "[Hawkins for Insurance](https://www.hawkinsforinsurance.com/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0016",
+      "url": "https://danhawkinskansas.com/",
+      "sourceFile": "memory/candidates/daniel-hawkins/in-their-own-words.md:7",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "endorsement",
+        "ballot status",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 12,
+      "rowIds": [
+        "em-daniel-hawkins-00004",
+        "em-daniel-hawkins-00266",
+        "em-daniel-hawkins-00258",
+        "em-daniel-hawkins-00746",
+        "em-daniel-hawkins-00976",
+        "em-daniel-hawkins-00973",
+        "em-daniel-hawkins-00975",
+        "em-daniel-hawkins-00934",
+        "em-daniel-hawkins-00941",
+        "em-daniel-hawkins-00966",
+        "em-daniel-hawkins-00974",
+        "em-daniel-hawkins-00993"
+      ],
+      "claimsAnchored": [
+        "His older [Hawkins for Kansas](https://danhawkinskansas.com/) site supplies the ideological baseline: unchecked government expansion limits freedom and hurts business growth; he says he is dedicated to defending life, strengthening the family, and protecting r",
+        "\"insurance commissioner\" - campaign framing, 2026-04-01, https://danhawkinskansas.com/ - topic: office bid.",
+        "Campaign website: [danhawkinskansas.com](https://danhawkinskansas.com/)",
+        "\"Conservative Leadership.\" - campaign slogan, source: https://danhawkinskansas.com/ (accessed 2026-04-01)",
+        "\"HB 2043 gives taxpayers a way to fight back against skyrocketing property taxes.\" - visible \"Speaker Dan Hawkins\" Facebook-feed item embedded on [Hawkins for Kansas](https://danhawkinskansas.com/), relative timestamp two days in indexed preview accessed May 1",
+        "\"Unchecked government expansion limits our freedom as individuals and hinders the growth of the businesses our state's economy relies on to thrive.\" - [Hawkins for Kansas](https://danhawkinskansas.com/)",
+        "\"We're going to lower costs, cut through the complexity, and make insurance more accessible for Kansans.\" - visible \"Speaker Dan Hawkins\" Facebook-feed item embedded on [Hawkins for Kansas](https://danhawkinskansas.com/), relative timestamp 18 hours in indexed",
+        "[Hawkins for Kansas](https://danhawkinskansas.com/), which includes issue language and an embedded public Facebook feed from \"Speaker Dan Hawkins.\"",
+        "| Older campaign/legislative campaign site | Found | [danhawkinskansas.com](https://danhawkinskansas.com/) |",
+        "Facebook feed visibility: [danhawkinskansas.com](https://danhawkinskansas.com/) embeds recent posts from \"Speaker Dan Hawkins,\" making Facebook the richest public social feed surfaced without login.",
+        "\"I believe in the importance of defending life, strengthening the family, and protecting our most cherished rights.\" - [Hawkins for Kansas](https://danhawkinskansas.com/)",
+        "[Hawkins for Kansas](https://danhawkinskansas.com/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0017",
+      "url": "https://www.wibw.com/2026/04/27/gov-kelly-vetoes-property-tax-protest-bill-kansas-house-speaker-responds/",
+      "sourceFile": "memory/candidates/daniel-hawkins/in-their-own-words.md:11",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-daniel-hawkins-00006",
+        "em-daniel-hawkins-00977",
+        "em-daniel-hawkins-00999"
+      ],
+      "claimsAnchored": [
+        "Recurring topics are taxes, budget restraint, anti-Kelly contrast, Trump alignment, abortion, gun rights, family/gender policy, election integrity, immigration enforcement, and insurance affordability through deregulation. In April 2026, his public messaging l",
+        "\"The high cost of property taxes in Kansas has reached crisis level and HB 2043 simply gave taxpayers a voice.\" - Hawkins statement quoted by [WIBW](https://www.wibw.com/2026/04/27/gov-kelly-vetoes-property-tax-protest-bill-kansas-house-speaker-responds/), Apr",
+        "[WIBW: HB 2043 veto response](https://www.wibw.com/2026/04/27/gov-kelly-vetoes-property-tax-protest-bill-kansas-house-speaker-responds/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0018",
+      "url": "https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:19",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-daniel-hawkins-00264",
+        "em-daniel-hawkins-00236",
+        "em-daniel-hawkins-00278",
+        "em-daniel-hawkins-00655",
+        "em-daniel-hawkins-00827",
+        "em-daniel-hawkins-00968",
+        "em-daniel-hawkins-00998"
+      ],
+      "claimsAnchored": [
+        "\"PRO-LIFE\" - Kansas Reflector coverage of his launch, 2026-04-01, https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/ - topic: ideological branding.",
+        "Kansas Reflector campaign launch / SSI detail: https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/",
+        "https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/",
+        "[Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/) (May 13, 2025)",
+        "[Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/)",
+        "News amplification: the launch message was picked up by [Kansas Reflector](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/); later statements were republished or quoted by outl",
+        "[Kansas Reflector: campaign launch](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0019",
+      "url": "https://mikeforkansas.my.canva.site/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:373",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only",
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-daniel-hawkins-00464",
+        "em-daniel-hawkins-00806",
+        "em-daniel-hawkins-00687"
+      ],
+      "claimsAnchored": [
+        "Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)",
+        "[mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0020",
+      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:697",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00651",
+        "em-daniel-hawkins-00823"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/) (Aug 25, 2025)",
+        "[Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0021",
+      "url": "https://kansasreflector.com/2024/04/18/kansas-house-speaker-meets-opposition-as-he-makes-case-against-medicaid-expansion-in-plainville/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:20",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00265",
+        "em-daniel-hawkins-00837"
+      ],
+      "claimsAnchored": [
+        "\"We have nothing to do with Medicaid\" - Kansas Reflector coverage, 2026-04-01, https://kansasreflector.com/2024/04/18/kansas-house-speaker-meets-opposition-as-he-makes-case-against-medicaid-expansion-in-plainville/ - topic: health policy.",
+        "[Kansas Reflector](https://kansasreflector.com/2024/04/18/kansas-house-speaker-meets-opposition-as-he-makes-case-against-medicaid-expansion-in-plainville/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0022",
+      "url": "https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:699",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-daniel-hawkins-00653",
+        "em-daniel-hawkins-00825",
+        "em-daniel-hawkins-01500"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker](https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/) (Jan 10, 2026)",
+        "[Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker](https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/)",
+        "\"source\": \"Kansas Reflector, April 1, 2026, https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0023",
+      "url": "https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:712",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00665",
+        "em-daniel-hawkins-01275"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas Insurance Commissioner Election 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)",
+        "https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026 -- Full election overview -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0024",
+      "url": "https://sunflowerstatejournal.com/hawkins-reveals-campaign-fundraising-for-insurance-commissioner/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:719",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-00672"
+      ],
+      "claimsAnchored": [
+        "[Sunflower State Journal: Hawkins reveals fundraising](https://sunflowerstatejournal.com/hawkins-reveals-campaign-fundraising-for-insurance-commissioner/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0025",
+      "url": "https://www.kmuw.org/government/2026-03-26/kansas-house-passes-bill-providing-stricter-regulation-of-prescription-drug-middlemen",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump-v2.md:401",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-daniel-hawkins-00237",
+        "em-daniel-hawkins-00658",
+        "em-daniel-hawkins-00830"
+      ],
+      "claimsAnchored": [
+        "KMUW / HPPR PBM bill report: https://www.kmuw.org/government/2026-03-26/kansas-house-passes-bill-providing-stricter-regulation-of-prescription-drug-middlemen",
+        "[KMUW: Kansas House passes bill on prescription drug middlemen](https://www.kmuw.org/government/2026-03-26/kansas-house-passes-bill-providing-stricter-regulation-of-prescription-drug-middlemen) (Mar 26, 2026)",
+        "[KMUW: Kansas House passes bill on prescription drug middlemen](https://www.kmuw.org/government/2026-03-26/kansas-house-passes-bill-providing-stricter-regulation-of-prescription-drug-middlemen)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0026",
+      "url": "https://heartlandsignal.com/2026/03/26/kansas-republicans-defy-house-speaker-dan-hawkins-and-pass-prescription-drug-consumer-protections-bill/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump-v2.md:402",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-daniel-hawkins-00238",
+        "em-daniel-hawkins-00657",
+        "em-daniel-hawkins-00829",
+        "em-daniel-hawkins-01227"
+      ],
+      "claimsAnchored": [
+        "Heartland Signal PBM article: https://heartlandsignal.com/2026/03/26/kansas-republicans-defy-house-speaker-dan-hawkins-and-pass-prescription-drug-consumer-protections-bill/",
+        "[Heartland Signal: Kansas Republicans defy Hawkins, pass prescription drug bill](https://heartlandsignal.com/2026/03/26/kansas-republicans-defy-house-speaker-dan-hawkins-and-pass-prescription-drug-consumer-protections-bill/) (Mar 26, 2026)",
+        "[Heartland Signal: Kansas Republicans defy Hawkins, pass prescription drug bill](https://heartlandsignal.com/2026/03/26/kansas-republicans-defy-house-speaker-dan-hawkins-and-pass-prescription-drug-consumer-protections-bill/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0027",
+      "url": "https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:694",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00648",
+        "em-daniel-hawkins-00820"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Kansas Democrats in U.S. Senate campaign focus on defeating GOP incumbent](https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/) (Mar 8, 2026)",
+        "[Kansas Reflector: Kansas Democrats in U.S. Senate campaign focus on defeating GOP incumbent](https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0028",
+      "url": "https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:695",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00649",
+        "em-daniel-hawkins-00821"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Democratic candidate opens arms to Kansas Republicans lost 'in the wilderness'](https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/) (Mar 23, 2026)",
+        "[Kansas Reflector: Democratic candidate opens arms to Kansas Republicans lost 'in the wilderness'](https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0029",
+      "url": "https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:696",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00650",
+        "em-daniel-hawkins-00822"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Kansas City entrepreneur prioritizes passion, decency](https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/) (Mar 16, 2026)",
+        "[Kansas Reflector: Kansas City entrepreneur prioritizes passion, decency](https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0030",
+      "url": "https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:698",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00652",
+        "em-daniel-hawkins-00824"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Democratic U.S. Senate candidate eager to broaden Kansas voice](https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/) (Aug 18, 2025)",
+        "[Kansas Reflector: Democratic U.S. Senate candidate eager to broaden Kansas voice](https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0031",
+      "url": "https://kansasreflector.com/2026/03/22/kansas-house-speaker-desperately-maneuvers-to-sabotage-vote-on-senate-bill-capping-drug-costs/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:700",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00654",
+        "em-daniel-hawkins-00826"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Kansas House speaker desperately maneuvers to sabotage vote on drug costs bill](https://kansasreflector.com/2026/03/22/kansas-house-speaker-desperately-maneuvers-to-sabotage-vote-on-senate-bill-capping-drug-costs/) (Mar 22, 2026)",
+        "[Kansas Reflector: Kansas House speaker desperately maneuvers to sabotage vote on drug costs bill](https://kansasreflector.com/2026/03/22/kansas-house-speaker-desperately-maneuvers-to-sabotage-vote-on-senate-bill-capping-drug-costs/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0032",
+      "url": "https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:702",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00656",
+        "em-daniel-hawkins-00828"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Kansas Democrat launches U.S. Senate campaign](https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/) (2025)",
+        "[Kansas Reflector: Kansas Democrat launches U.S. Senate campaign](https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0033",
+      "url": "https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:711",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-00664"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: 2026 Kansas Senate Election](https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0034",
+      "url": "https://ballotpedia.org/Daniel_Hawkins_(Kansas",
+      "sourceFile": "reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:670",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-00666"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Daniel Hawkins](https://ballotpedia.org/Daniel_Hawkins_(Kansas))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0035",
+      "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:716",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-00669"
+      ],
+      "claimsAnchored": [
+        "[Wikipedia: 2026 Kansas Senate Election](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0036",
+      "url": "https://www.cookpolitical.com/senate/race/488581",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:717",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-00670"
+      ],
+      "claimsAnchored": [
+        "[Cook Political Report: KS Senate 2026](https://www.cookpolitical.com/senate/race/488581)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0037",
+      "url": "https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:718",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-00671"
+      ],
+      "claimsAnchored": [
+        "[Smart Politics: How Well Can Democrats Fare in Kansas 2026?](https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0038",
+      "url": "https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:722",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00674",
+        "em-daniel-hawkins-00831"
+      ],
+      "claimsAnchored": [
+        "[NRSC: Calls for investigation of four Kansas Democrats](https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/) (Mar 11, 2026)",
+        "[NRSC: Calls for investigation of four Kansas Democrats](https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0039",
+      "url": "https://freebeacon.com/democrats/kansas-senate-candidate-names-his-political-inspiration-a-black-panther-soldier-working-to-destroy-the-american-empire/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:723",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00675",
+        "em-daniel-hawkins-00832"
+      ],
+      "claimsAnchored": [
+        "[Washington Free Beacon: Kansas Senate candidate names Black Panther inspiration](https://freebeacon.com/democrats/kansas-senate-candidate-names-his-political-inspiration-a-black-panther-soldier-working-to-destroy-the-american-empire/) (2026)",
+        "[Washington Free Beacon: Kansas Senate candidate names Black Panther inspiration](https://freebeacon.com/democrats/kansas-senate-candidate-names-his-political-inspiration-a-black-panther-soldier-working-to-destroy-the-american-empire/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0040",
+      "url": "https://www.ksn.com/news/state-regional/kansas-us-senate-candidates-under-scrutiny-over-missing-financial-disclosures/",
+      "sourceFile": "reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:681",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00676",
+        "em-daniel-hawkins-00833"
+      ],
+      "claimsAnchored": [
+        "[KSN: Kansas US Senate candidates under scrutiny over missing financial disclosures](https://www.ksn.com/news/state-regional/kansas-us-senate-candidates-under-scrutiny-over-missing-financial-disclosures/) (2026)",
+        "[KSN: Kansas US Senate candidates under scrutiny over missing financial disclosures](https://www.ksn.com/news/state-regional/kansas-us-senate-candidates-under-scrutiny-over-missing-financial-disclosures/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0041",
+      "url": "https://www.cnn.com/2018/12/19/politics/kansas-legislature-republican-democrat/index.html",
+      "sourceFile": "reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:684",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00678",
+        "em-daniel-hawkins-00834"
+      ],
+      "claimsAnchored": [
+        "[CNN: 3 Kansas legislators switch from Republican to Democrat](https://www.cnn.com/2018/12/19/politics/kansas-legislature-republican-democrat/index.html) (Dec 19, 2018)",
+        "[CNN: 3 Kansas legislators switch from Republican to Democrat](https://www.cnn.com/2018/12/19/politics/kansas-legislature-republican-democrat/index.html)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0042",
+      "url": "https://www.kcur.org/politics-elections-and-government/2018-12-19/more-kansas-legislative-republicans-jump-ship-become-democrats",
+      "sourceFile": "reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:685",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00679",
+        "em-daniel-hawkins-00835"
+      ],
+      "claimsAnchored": [
+        "[KCUR: More Kansas Legislative Republicans Jump Ship](https://www.kcur.org/politics-elections-and-government/2018-12-19/more-kansas-legislative-republicans-jump-ship-become-democrats) (Dec 19, 2018)",
+        "[KCUR: More Kansas Legislative Republicans Jump Ship](https://www.kcur.org/politics-elections-and-government/2018-12-19/more-kansas-legislative-republicans-jump-ship-become-democrats)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0043",
+      "url": "https://www.salon.com/2018/12/21/three-kansas-republicans-switch-parties-in-one-week-more-defections-expected/",
+      "sourceFile": "reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:686",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00680",
+        "em-daniel-hawkins-00836"
+      ],
+      "claimsAnchored": [
+        "[Salon: Three Kansas Republicans switch parties in one week](https://www.salon.com/2018/12/21/three-kansas-republicans-switch-parties-in-one-week-more-defections-expected/) (Dec 21, 2018)",
+        "[Salon: Three Kansas Republicans switch parties in one week](https://www.salon.com/2018/12/21/three-kansas-republicans-switch-parties-in-one-week-more-defections-expected/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0044",
+      "url": "https://danhawkinskansas.com/about/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:842",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-daniel-hawkins-00747",
+        "em-daniel-hawkins-00748",
+        "em-daniel-hawkins-00749",
+        "em-daniel-hawkins-00791",
+        "em-daniel-hawkins-01422",
+        "em-daniel-hawkins-00234",
+        "em-daniel-hawkins-00794"
+      ],
+      "claimsAnchored": [
+        "\"Unchecked government expansion limits our freedom...\" - campaign language, source: https://danhawkinskansas.com/about/ (accessed 2026-04-01)",
+        "\"I believe in the importance of defending life...\" - campaign language, source: https://danhawkinskansas.com/about/ (accessed 2026-04-01)",
+        "\"Serving 25 years in the U.S. Army, I've defended our freedoms and fought for the ideals of democracy.\" - campaign bio, source: https://danhawkinskansas.com/about/ (accessed 2026-04-01)",
+        "> -- Daniel Hawkins campaign website, accessed April 1, 2026, https://danhawkinskansas.com/about/",
+        "\"source\": \"Daniel Hawkins campaign website, accessed April 1, 2026, https://danhawkinskansas.com/about/\",",
+        "Older Hawkins for Kansas about page, now suspended: https://danhawkinskansas.com/about/",
+        "[danhawkinskansas.com](https://danhawkinskansas.com/about/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0045",
+      "url": "https://www.wibw.com/2023/10/18/ks-republicans-call-creation-independent-child-welfare-agency-following-dcf-report-zoey-felix/",
+      "sourceFile": "memory/candidates/daniel-hawkins/in-their-own-words.md:13",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "campaign statement",
+        "social follow"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-daniel-hawkins-00007",
+        "em-daniel-hawkins-00981",
+        "em-daniel-hawkins-01003"
+      ],
+      "claimsAnchored": [
+        "Hawkins also uses public statements to mark law-and-order and cultural lines. A 2023 [WIBW story](https://www.wibw.com/2023/10/18/ks-republicans-call-creation-independent-child-welfare-agency-following-dcf-report-zoey-felix/) quoted a joint Hawkins/Masterson s",
+        "\"This coming session, the Legislature will act to create an independent Office of Child Advocate...\" - joint Masterson/Hawkins statement quoted by [WIBW](https://www.wibw.com/2023/10/18/ks-republicans-call-creation-independent-child-welfare-agency-following-dc",
+        "[WIBW: Zoey Felix/Office of Child Advocate statement](https://www.wibw.com/2023/10/18/ks-republicans-call-creation-independent-child-welfare-agency-following-dcf-report-zoey-felix/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0046",
+      "url": "https://kansasreflector.com/2025/11/07/kansas-house-speaker-punishes-gop-colleagues-for-not-supporting-special-session/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump-v2.md:404",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00240",
+        "em-daniel-hawkins-00196"
+      ],
+      "claimsAnchored": [
+        "Kansas Reflector redistricting/committee-chair article: https://kansasreflector.com/2025/11/07/kansas-house-speaker-punishes-gop-colleagues-for-not-supporting-special-session/",
+        "Kansas Reflector / News From The States URL: https://kansasreflector.com/2025/11/07/kansas-house-speaker-punishes-gop-colleagues-for-not-supporting-special-session/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0047",
+      "url": null,
+      "sourceFile": "memory/candidates/daniel-hawkins/social-harvest.md:39",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 43,
+      "rowIds": [
+        "em-daniel-hawkins-00952",
+        "em-daniel-hawkins-00959",
+        "em-daniel-hawkins-00957",
+        "em-daniel-hawkins-00961",
+        "em-daniel-hawkins-00926",
+        "em-daniel-hawkins-00927",
+        "em-daniel-hawkins-00931",
+        "em-daniel-hawkins-00951",
+        "em-daniel-hawkins-00954",
+        "em-daniel-hawkins-00958",
+        "em-daniel-hawkins-00950",
+        "em-daniel-hawkins-00960",
+        "em-daniel-hawkins-00948",
+        "em-daniel-hawkins-00956",
+        "em-daniel-hawkins-00990",
+        "em-daniel-hawkins-00964",
+        "em-daniel-hawkins-00923",
+        "em-daniel-hawkins-00924",
+        "em-daniel-hawkins-00925",
+        "em-daniel-hawkins-00929",
+        "em-daniel-hawkins-00930",
+        "em-daniel-hawkins-00932",
+        "em-daniel-hawkins-00937",
+        "em-daniel-hawkins-00938",
+        "em-daniel-hawkins-00939",
+        "em-daniel-hawkins-00943",
+        "em-daniel-hawkins-00946",
+        "em-daniel-hawkins-00947",
+        "em-daniel-hawkins-00949",
+        "em-daniel-hawkins-00953",
+        "em-daniel-hawkins-00955",
+        "em-daniel-hawkins-00962",
+        "em-daniel-hawkins-00963",
+        "em-daniel-hawkins-00969",
+        "em-daniel-hawkins-00982",
+        "em-daniel-hawkins-00983",
+        "em-daniel-hawkins-00984",
+        "em-daniel-hawkins-00985",
+        "em-daniel-hawkins-00986",
+        "em-daniel-hawkins-00987",
+        "em-daniel-hawkins-00988",
+        "em-daniel-hawkins-00989",
+        "em-daniel-hawkins-00991"
+      ],
+      "claimsAnchored": [
+        "Latest visible candidate-controlled material: the older campaign site's embedded Facebook feed showed relative timestamps within days of access on May 11, 2026, including posts on legislative wrap-up, United WE, Moody's, law enforcement valor awards, White Hou",
+        "| Abortion, family, religious liberty, and gender policy | 4 | Pro-life bills, \"strengthening the family,\" girls' sports, gender-transition surgery bans, religious freedom/foster care |",
+        "| Taxes, budget, spending, and property tax relief | 6 | Food sales tax, Social Security income tax, income/property tax cuts, $210 million budget-process savings, HB 2043 property-tax posts/statements |",
+        "| Immigration, election integrity, COVID authority | 3 | Sanctuary cities, election integrity veto overrides, ending COVID lockdowns |",
+        "Race: Kansas Insurance Commissioner, 2026",
+        "Election slug: kansas-insurance-2026",
+        "Daniel Hawkins has an active candidate-controlled web presence anchored by the insurance commissioner site, an older House campaign site, and a public X account. The insurance site links to X, Instagram, and Facebook. The older House campaign site links to Fac",
+        "Earliest candidate-controlled item used for the current insurance campaign: May 13, 2025 campaign launch coverage quoting Hawkins' statement and describing his campaign site.",
+        "Counts are hand-coded from 27 public, candidate-controlled or candidate-attributed items: the insurance site's 14 accomplishment/priorities bullets, the older site's issue statement and five visible feed posts, plus eight indexed/quoted X/news items. One item ",
+        "| Insurance affordability, consumer navigation, anti-fraud | 4 | More insurance options, fewer regulations, taxpayer-friendly department, fraud/securities enforcement |",
+        "Earliest candidate-attributed social item found in public articles: May 3, 2021, when KSRA PAC thanked @DanHawkinsKS as House majority leader in an embedded X post about election-integrity and concealed-carry veto overrides.",
+        "| Law-and-order, child welfare, public safety, seniors | 3 | Bane's Law/police animals, Office of Child Advocate after Zoey Felix, police valor awards, crypto scam protections |"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0048",
+      "url": "https://x.com/DanHawkinsKS",
+      "sourceFile": "memory/candidates/daniel-hawkins/in-their-own-words.md:9",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post",
+        "social follow"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 6,
+      "rowIds": [
+        "em-daniel-hawkins-00005",
+        "em-daniel-hawkins-00942",
+        "em-daniel-hawkins-00936",
+        "em-daniel-hawkins-00965",
+        "em-daniel-hawkins-00995",
+        "em-daniel-hawkins-00979"
+      ],
+      "claimsAnchored": [
+        "The highest visible engagement signal is not a single viral post but the durability of his public platforms. Indexed profile previews put [@DanHawkinsKS](https://x.com/DanHawkinsKS) at about 2,000 followers, while the older campaign site embeds his Facebook fe",
+        "| X/Twitter | Found | [@DanHawkinsKS](https://x.com/DanHawkinsKS); campaign site links X; indexed profile preview lists \"HawkinsForInsurance.com\" and \"KS House Speaker & candidate for KS Insurance Commissioner.\" |",
+        "Publicly indexed or mirrored X material for [@DanHawkinsKS](https://x.com/DanHawkinsKS), including indexed profile previews and news articles embedding posts.",
+        "X profile scale: indexed Twitter profile preview listed [@DanHawkinsKS](https://x.com/DanHawkinsKS) at about 2,000 followers and 339 following.",
+        "[X: @DanHawkinsKS](https://x.com/DanHawkinsKS)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0049",
+      "url": "https://kansasreflector.com/2025/08/25/kansas-house-speaker-wants-to-slash-200-million-from-state-budget-target-medicaid-for-cuts/",
+      "sourceFile": "memory/candidates/daniel-hawkins/social-harvest.md:104",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-01002"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Medicaid/budget interview coverage](https://kansasreflector.com/2025/08/25/kansas-house-speaker-wants-to-slash-200-million-from-state-budget-target-medicaid-for-cuts/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0050",
+      "url": "https://www.instagram.com/danhawkinsks/",
+      "sourceFile": "memory/candidates/daniel-hawkins/social-harvest.md:29",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00944",
+        "em-daniel-hawkins-00996"
+      ],
+      "claimsAnchored": [
+        "| Instagram | Found but mostly blocked | Insurance site and older campaign site link Instagram; indexed people-search preview identifies [@danhawkinsks](https://www.instagram.com/danhawkinsks/) as \"Speaker Dan Hawkins.\" Direct content was not publicly readable",
+        "[Instagram: @danhawkinsks](https://www.instagram.com/danhawkinsks/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0051",
+      "url": "https://www.hppr.org/hppr-news/2026-04-20/food-assistance-audit-finds-potential-1-2-million-paid-to-people-living-outside-kansas?_amp=true",
+      "sourceFile": "memory/candidates/daniel-hawkins/social-harvest.md:74",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00978",
+        "em-daniel-hawkins-01000"
+      ],
+      "claimsAnchored": [
+        "\"A new audit showed what we suspected. Is this what the Kelly Cover-Up was hiding?\" - Hawkins release quoted by [HPPR/Kansas Reflector](https://www.hppr.org/hppr-news/2026-04-20/food-assistance-audit-finds-potential-1-2-million-paid-to-people-living-outside-ka",
+        "[HPPR/Kansas Reflector: SNAP audit statement](https://www.hppr.org/hppr-news/2026-04-20/food-assistance-audit-finds-potential-1-2-million-paid-to-people-living-outside-kansas?_amp=true)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0052",
+      "url": null,
+      "sourceFile": "memory/candidates/daniel-hawkins/sleuth-pass.md:125",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "voting record",
+        "church/worship",
+        "donor/funding",
+        "endorsement",
+        "meeting record",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 82,
+      "rowIds": [
+        "em-daniel-hawkins-00914",
+        "em-daniel-hawkins-00854",
+        "em-daniel-hawkins-00855",
+        "em-daniel-hawkins-00870",
+        "em-daniel-hawkins-00888",
+        "em-daniel-hawkins-00889",
+        "em-daniel-hawkins-00890",
+        "em-daniel-hawkins-00891",
+        "em-daniel-hawkins-00892",
+        "em-daniel-hawkins-00893",
+        "em-daniel-hawkins-00920",
+        "em-daniel-hawkins-00847",
+        "em-daniel-hawkins-00880",
+        "em-daniel-hawkins-00881",
+        "em-daniel-hawkins-00882",
+        "em-daniel-hawkins-00883",
+        "em-daniel-hawkins-00886",
+        "em-daniel-hawkins-00922",
+        "em-daniel-hawkins-00877",
+        "em-daniel-hawkins-00894",
+        "em-daniel-hawkins-00895",
+        "em-daniel-hawkins-00845",
+        "em-daniel-hawkins-00846",
+        "em-daniel-hawkins-00862",
+        "em-daniel-hawkins-00871",
+        "em-daniel-hawkins-00872",
+        "em-daniel-hawkins-00874",
+        "em-daniel-hawkins-00875",
+        "em-daniel-hawkins-00876",
+        "em-daniel-hawkins-00884",
+        "em-daniel-hawkins-00885",
+        "em-daniel-hawkins-00887",
+        "em-daniel-hawkins-00899",
+        "em-daniel-hawkins-00907",
+        "em-daniel-hawkins-00908",
+        "em-daniel-hawkins-00915",
+        "em-daniel-hawkins-00842",
+        "em-daniel-hawkins-00848",
+        "em-daniel-hawkins-00856",
+        "em-daniel-hawkins-00859",
+        "em-daniel-hawkins-00863",
+        "em-daniel-hawkins-00864",
+        "em-daniel-hawkins-00865",
+        "em-daniel-hawkins-00866",
+        "em-daniel-hawkins-00868",
+        "em-daniel-hawkins-00878",
+        "em-daniel-hawkins-00896",
+        "em-daniel-hawkins-00897",
+        "em-daniel-hawkins-00898",
+        "em-daniel-hawkins-00912"
+      ],
+      "claimsAnchored": [
+        "The older danhawkinskansas.com site is now suspended, creating a live-source conflict with prior local captures from that site.",
+        "Current campaign branding: \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\"",
+        "Campaign issue emphasis: insurance affordability through more options and less regulation, fraud/securities enforcement, taxpayer-friendly department, opposition to Medicaid expansion, tax cuts, pro-life bills, gun-rights measures, election integrity, immigrat",
+        "Website and prior social signals map mainly to insurance affordability, taxes/property taxes, anti-Kelly contrast, Trump alignment, abortion/gender policy, guns, election integrity, immigration, and anti-Medicaid-expansion messaging.",
+        "Abortion / Family / Gender Policy / Religious Liberty",
+        "Campaign site says Hawkins is pro-life and says his leadership helped override vetoes on pro-life bills, protect girls' sports, and ban gender-transition surgeries on Kansas children.",
+        "2025 official vote record shows Hawkins voting yea on HB 2062 final action and veto consideration, a bill concerning child-support orders for unborn children.",
+        "2025 official vote record shows Hawkins voting yea on SB 63 final action and veto consideration, the Help Not Harm Act concerning gender-transition care for minors.",
+        "2025 official vote record shows Hawkins voting yea on HB 2311 final action, concurrence, and veto consideration, a foster-care/religious-or-moral-beliefs bill involving sexual orientation or gender identity.",
+        "2026 official roll-call page shows Hawkins in the yea column on SB 244 emergency final action, concerning sex-designated private spaces, gender definitions, driver's licenses, and birth certificates. The same measure also had a February 18, 2026 veto-override ",
+        "Current church membership or regular worship attendance.",
+        "Candidate / filing chain: KPDC's statewide 2026 election-cycle page lists \"Hawkins, Daniel\" under Insurance Commissioner Candidates and links his appointment-of-treasurer and January 2026 report. The treasurer filing identifies Daniel Hawkins, office sought \"I"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0053",
+      "url": "https://kslegislature.gov/b2025_26/bills/sb20/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump-v2.md:257",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00158",
+        "em-daniel-hawkins-00227"
+      ],
+      "claimsAnchored": [
+        "SB 20 URL: https://kslegislature.gov/b2025_26/bills/sb20/",
+        "SB 20: https://kslegislature.gov/b2025_26/bills/sb20/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0054",
+      "url": "https://kslegislature.gov/b2025_26/bills/sb360/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump-v2.md:258",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00159",
+        "em-daniel-hawkins-00228"
+      ],
+      "claimsAnchored": [
+        "SB 360 URL: https://kslegislature.gov/b2025_26/bills/sb360/",
+        "SB 360: https://kslegislature.gov/b2025_26/bills/sb360/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0055",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/hb2043/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump-v2.md:391",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-00229"
+      ],
+      "claimsAnchored": [
+        "HB 2043: https://www.kslegislature.gov/b2025_26/bills/hb2043/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0056",
+      "url": "https://www.kcur.org/politics-elections-and-government/2026-01-06/kansas-republicans-redistricting-congress-sharice-davids",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump-v2.md:323",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00192",
+        "em-daniel-hawkins-00239"
+      ],
+      "claimsAnchored": [
+        "KCUR/The Beacon URL: https://www.kcur.org/politics-elections-and-government/2026-01-06/kansas-republicans-redistricting-congress-sharice-davids",
+        "KCUR/The Beacon redistricting article: https://www.kcur.org/politics-elections-and-government/2026-01-06/kansas-republicans-redistricting-congress-sharice-davids"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0057",
+      "url": "https://hartforsenate.com/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:94",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "source-only",
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-daniel-hawkins-00310",
+        "em-daniel-hawkins-00797",
+        "em-daniel-hawkins-00682"
+      ],
+      "claimsAnchored": [
+        "Website: [hartforsenate.com](https://hartforsenate.com/)",
+        "[hartforsenate.com](https://hartforsenate.com/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0058",
+      "url": "https://www.christydavisforkansas.com/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:151",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "source-only",
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-daniel-hawkins-00350",
+        "em-daniel-hawkins-00798",
+        "em-daniel-hawkins-00683"
+      ],
+      "claimsAnchored": [
+        "Website: [christydavisforkansas.com](https://www.christydavisforkansas.com/)",
+        "[christydavisforkansas.com](https://www.christydavisforkansas.com/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0059",
+      "url": "https://sandyforkansas.com/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:205",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "source-only",
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-daniel-hawkins-00378",
+        "em-daniel-hawkins-00800",
+        "em-daniel-hawkins-00684"
+      ],
+      "claimsAnchored": [
+        "Website: [sandyforkansas.com](https://sandyforkansas.com/)",
+        "[sandyforkansas.com](https://sandyforkansas.com/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0060",
+      "url": "https://erikforkansas.com/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:312",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "source-only",
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-daniel-hawkins-00433",
+        "em-daniel-hawkins-00804",
+        "em-daniel-hawkins-00685"
+      ],
+      "claimsAnchored": [
+        "Website: [erikforkansas.com](https://erikforkansas.com/)",
+        "[erikforkansas.com](https://erikforkansas.com/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0061",
+      "url": "https://patrickforkansas.com/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:415",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "source-only",
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-daniel-hawkins-00484",
+        "em-daniel-hawkins-00810",
+        "em-daniel-hawkins-00686"
+      ],
+      "claimsAnchored": [
+        "Website: [patrickforkansas.com](https://patrickforkansas.com/)",
+        "[patrickforkansas.com](https://patrickforkansas.com/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0062",
+      "url": "https://www.dinahsykes.com/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:610",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography",
+        "church/worship",
+        "legal/court",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "source-only",
+        "reject"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-daniel-hawkins-00593",
+        "em-daniel-hawkins-00816",
+        "em-daniel-hawkins-01504",
+        "em-daniel-hawkins-00689",
+        "em-daniel-hawkins-01502"
+      ],
+      "claimsAnchored": [
+        "Website: [dinahsykes.com](https://www.dinahsykes.com/)",
+        "[dinahsykes.com](https://www.dinahsykes.com/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0063",
+      "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:693",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00647",
+        "em-daniel-hawkins-00819"
+      ],
+      "claimsAnchored": [
+        "[KCUR: Who's running to represent Kansas in the U.S. Senate in 2026?](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates) (Dec 30, 2025)",
+        "[KCUR: Who's running to represent Kansas in the U.S. Senate in 2026?](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0064",
+      "url": "https://www.jocoelection.org/candidates-elected-officials/daniel-hawkins",
+      "sourceFile": "memory/candidates/daniel-hawkins/site-profile.md:126",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-00838"
+      ],
+      "claimsAnchored": [
+        "[jocoelection.org](https://www.jocoelection.org/candidates-elected-officials/daniel-hawkins)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0065",
+      "url": "https://ballotpedia.org/Kansas_state_executive_official_elections,_2026",
+      "sourceFile": "memory/elections/2026-11-03-kansas-insurance-commissioner.md:30",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-01276",
+        "em-daniel-hawkins-01317"
+      ],
+      "claimsAnchored": [
+        "https://ballotpedia.org/Kansas_state_executive_official_elections,_2026 -- Statewide executive races overview -- accessed 2026-03-30",
+        "[Ballotpedia — Kansas 2026 State Executive](https://ballotpedia.org/Kansas_state_executive_official_elections,_2026) — accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0066",
+      "url": "https://ballotpedia.org/Kansas_gubernatorial_election,_2026",
+      "sourceFile": "memory/elections/2026-11-03-ks-governor.md:45",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-01298"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia — Kansas 2026 Governor](https://ballotpedia.org/Kansas_gubernatorial_election,_2026) — accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0067",
+      "url": "https://x.com/speumann",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:206",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-00379"
+      ],
+      "claimsAnchored": [
+        "X/Twitter: [@speumann](https://x.com/speumann)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0068",
+      "url": "https://www.instagram.com/speumann/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:207",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00380",
+        "em-daniel-hawkins-00801"
+      ],
+      "claimsAnchored": [
+        "Instagram: [@speumann](https://www.instagram.com/speumann/)",
+        "[@speumann](https://www.instagram.com/speumann/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0069",
+      "url": "https://www.facebook.com/michael.soetaert1/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:375",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00466",
+        "em-daniel-hawkins-00808"
+      ],
+      "claimsAnchored": [
+        "Facebook: [michael.soetaert1](https://www.facebook.com/michael.soetaert1/)",
+        "[michael.soetaert1](https://www.facebook.com/michael.soetaert1/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0070",
+      "url": "https://www.facebook.com/patrickforkansas/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:416",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00485",
+        "em-daniel-hawkins-00811"
+      ],
+      "claimsAnchored": [
+        "Facebook: [@patrickforkansas](https://www.facebook.com/patrickforkansas/)",
+        "[@patrickforkansas](https://www.facebook.com/patrickforkansas/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0071",
+      "url": "https://x.com/danhawkinsks",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:536",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00550",
+        "em-daniel-hawkins-00815"
+      ],
+      "claimsAnchored": [
+        "X/Twitter: [@DanHawkinsKS](https://x.com/danhawkinsks)",
+        "[@DanHawkinsKS](https://x.com/danhawkinsks)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0072",
+      "url": "https://www.hawkinsforinsurance.com",
+      "sourceFile": "memory/candidates/daniel-hawkins/social-harvest.md:7",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-00928"
+      ],
+      "claimsAnchored": [
+        "Campaign site checked: https://www.hawkinsforinsurance.com"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0073",
+      "url": "https://www.youtube.com/@vote4hawkins",
+      "sourceFile": "memory/candidates/daniel-hawkins/social-harvest.md:30",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-daniel-hawkins-00945",
+        "em-daniel-hawkins-00967",
+        "em-daniel-hawkins-00997"
+      ],
+      "claimsAnchored": [
+        "| YouTube | Found, low activity signal | Older site links a Dan Hawkins channel; indexed preview identifies [@vote4hawkins](https://www.youtube.com/@vote4hawkins) as the political page for Kansas House Speaker Dan Hawkins with about 57-58 subscribers. |",
+        "YouTube scale: indexed YouTube preview for [@vote4hawkins](https://www.youtube.com/@vote4hawkins) showed about 57-58 subscribers, suggesting a minor channel compared with X/Facebook.",
+        "[YouTube: @vote4hawkins](https://www.youtube.com/@vote4hawkins)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0074",
+      "url": "https://www.jns.org/generally-we-feel-very-safe-in-kansas-says-rabbi-of-vandalized-topeka-temple/",
+      "sourceFile": "memory/candidates/daniel-hawkins/social-harvest.md:76",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00980",
+        "em-daniel-hawkins-01004"
+      ],
+      "claimsAnchored": [
+        "\"The rot of antisemitism has no place in Kansas and I proudly stand with the Jewish community against this hateful act.\" - embedded @DanHawkinsKS post quoted by [JNS](https://www.jns.org/generally-we-feel-very-safe-in-kansas-says-rabbi-of-vandalized-topeka-tem",
+        "[JNS: antisemitism statement with embedded X post](https://www.jns.org/generally-we-feel-very-safe-in-kansas-says-rabbi-of-vandalized-topeka-temple/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0075",
+      "url": "https://www.wibw.com/2026/01/06/2026-session-countdown-rep-dan-hawkins-ks-house-speaker/",
+      "sourceFile": "memory/candidates/daniel-hawkins/social-harvest.md:103",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-01001"
+      ],
+      "claimsAnchored": [
+        "[WIBW: 2026 session interview page](https://www.wibw.com/2026/01/06/2026-session-countdown-rep-dan-hawkins-ks-house-speaker/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0076",
+      "url": "https://thefederalist.com/2025/04/08/kansas-republicans-plan-veto-override-to-protect-adopting-families-from-religious-discrimination/",
+      "sourceFile": "memory/candidates/daniel-hawkins/social-harvest.md:107",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-01005"
+      ],
+      "claimsAnchored": [
+        "[Federalist: HB 2311 religious-freedom/foster-care veto statement](https://thefederalist.com/2025/04/08/kansas-republicans-plan-veto-override-to-protect-adopting-families-from-religious-discrimination/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0077",
+      "url": "https://www.linkedin.com/in/sandy-spidel-neumann-a278536/",
+      "sourceFile": "ui/src/data/candidates.ts:28932",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-daniel-hawkins-01460",
+        "em-daniel-hawkins-00381",
+        "em-daniel-hawkins-00802"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.linkedin.com/in/sandy-spidel-neumann-a278536/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0078",
+      "url": null,
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump-v2.md:146",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "voting record",
+        "ballot status",
+        "legal/court",
+        "church/worship",
+        "donor/funding",
+        "campaign statement",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 201,
+      "rowIds": [
+        "em-daniel-hawkins-00095",
+        "em-daniel-hawkins-00097",
+        "em-daniel-hawkins-00102",
+        "em-daniel-hawkins-00150",
+        "em-daniel-hawkins-00156",
+        "em-daniel-hawkins-00211",
+        "em-daniel-hawkins-00153",
+        "em-daniel-hawkins-00155",
+        "em-daniel-hawkins-00188",
+        "em-daniel-hawkins-00190",
+        "em-daniel-hawkins-00251",
+        "em-daniel-hawkins-00035",
+        "em-daniel-hawkins-00045",
+        "em-daniel-hawkins-00048",
+        "em-daniel-hawkins-00059",
+        "em-daniel-hawkins-00089",
+        "em-daniel-hawkins-00177",
+        "em-daniel-hawkins-00178",
+        "em-daniel-hawkins-00182",
+        "em-daniel-hawkins-00183",
+        "em-daniel-hawkins-00099",
+        "em-daniel-hawkins-00130",
+        "em-daniel-hawkins-00151",
+        "em-daniel-hawkins-00017",
+        "em-daniel-hawkins-00019",
+        "em-daniel-hawkins-00024",
+        "em-daniel-hawkins-00026",
+        "em-daniel-hawkins-00027",
+        "em-daniel-hawkins-00028",
+        "em-daniel-hawkins-00030",
+        "em-daniel-hawkins-00032",
+        "em-daniel-hawkins-00047",
+        "em-daniel-hawkins-00058",
+        "em-daniel-hawkins-00069",
+        "em-daniel-hawkins-00087",
+        "em-daniel-hawkins-00090",
+        "em-daniel-hawkins-00092",
+        "em-daniel-hawkins-00096",
+        "em-daniel-hawkins-00098",
+        "em-daniel-hawkins-00100",
+        "em-daniel-hawkins-00128",
+        "em-daniel-hawkins-00129",
+        "em-daniel-hawkins-00131",
+        "em-daniel-hawkins-00134",
+        "em-daniel-hawkins-00138",
+        "em-daniel-hawkins-00140",
+        "em-daniel-hawkins-00148",
+        "em-daniel-hawkins-00154",
+        "em-daniel-hawkins-00169",
+        "em-daniel-hawkins-00173"
+      ],
+      "claimsAnchored": [
+        "The page brands Hawkins as \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\"",
+        "Accomplishment claims include food sales tax elimination, Social Security income tax elimination, state income tax reduction, state property tax reduction, pro-Second Amendment measures, veto overrides on pro-life bills, girls' sports and gender-transition sur",
+        "Insurance regulation, taxes/budget, abortion, guns, gender policy, election integrity, immigration, Medicaid/healthcare, COVID authority, biography.",
+        "HB 2062 final action / CCR / veto consideration, 2025-02-19, 2025-03-27, 2025-04-10: Hawkins Yea. Subject included child-support orders for unborn children from conception and related tax/medical/pregnancy-expense provisions.",
+        "Abortion, family/gender policy, religious liberty, guns, election integrity, immigration, public health authority, insurance.",
+        "Topic-share count from 27 public items emphasized conservative/Trump/GOP alignment, anti-Kelly contrast, taxes/budget/property tax relief, insurance affordability/consumer navigation/anti-fraud, abortion/family/religious liberty/gender policy, law-and-order/ch",
+        "HB 2311 final action / concurrence / veto consideration, 2025-02-20, 2025-03-24, 2025-04-10: Hawkins Yea. Subject prohibited DCF policies for placement/custody/custodian appointments conflicting with sincerely held religious or moral beliefs regarding sexual o",
+        "SB 63 final action / veto consideration, 2025-01-31 and 2025-02-18: Hawkins Yea. Subject was the Help Not Harm Act restricting gender-transition care for minors and related state funding/liability/professional discipline provisions.",
+        "Bill description: identification of biological sex; sex-designated multiple-occupancy private spaces in public buildings; criminal and civil penalties; cause of action; Women's Bill of Rights amendments; gender definition as biological sex at birth for statuto",
+        "Marriage/family/LGBTQ+ policy, gender policy, public facilities, state IDs.",
+        "No verified current church affiliation found.",
+        "| News coverage | secondary | yes | Used for PBM maneuvering, redistricting, campaign launch/SSI detail, property-tax and Medicaid context. |"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0079",
+      "url": null,
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:33",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status",
+        "voting record",
+        "biography",
+        "campaign statement",
+        "endorsement",
+        "church/worship",
+        "donor/funding",
+        "legal/court",
+        "controversy",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 408,
+      "rowIds": [
+        "em-daniel-hawkins-00275",
+        "em-daniel-hawkins-00290",
+        "em-daniel-hawkins-00387",
+        "em-daniel-hawkins-00392",
+        "em-daniel-hawkins-00569",
+        "em-daniel-hawkins-00571",
+        "em-daniel-hawkins-00606",
+        "em-daniel-hawkins-00625",
+        "em-daniel-hawkins-00639",
+        "em-daniel-hawkins-00642",
+        "em-daniel-hawkins-00708",
+        "em-daniel-hawkins-00298",
+        "em-daniel-hawkins-00303",
+        "em-daniel-hawkins-00334",
+        "em-daniel-hawkins-00335",
+        "em-daniel-hawkins-00355",
+        "em-daniel-hawkins-00361",
+        "em-daniel-hawkins-00372",
+        "em-daniel-hawkins-00389",
+        "em-daniel-hawkins-00400",
+        "em-daniel-hawkins-00422",
+        "em-daniel-hawkins-00423",
+        "em-daniel-hawkins-00462",
+        "em-daniel-hawkins-00479",
+        "em-daniel-hawkins-00489",
+        "em-daniel-hawkins-00498",
+        "em-daniel-hawkins-00507",
+        "em-daniel-hawkins-00579",
+        "em-daniel-hawkins-00604",
+        "em-daniel-hawkins-00608",
+        "em-daniel-hawkins-00611",
+        "em-daniel-hawkins-00635",
+        "em-daniel-hawkins-00696",
+        "em-daniel-hawkins-00267",
+        "em-daniel-hawkins-00268",
+        "em-daniel-hawkins-00306",
+        "em-daniel-hawkins-00705",
+        "em-daniel-hawkins-00707",
+        "em-daniel-hawkins-00737",
+        "em-daniel-hawkins-00738",
+        "em-daniel-hawkins-00739",
+        "em-daniel-hawkins-00740",
+        "em-daniel-hawkins-00760",
+        "em-daniel-hawkins-00432",
+        "em-daniel-hawkins-00436",
+        "em-daniel-hawkins-00440",
+        "em-daniel-hawkins-00368",
+        "em-daniel-hawkins-00373",
+        "em-daniel-hawkins-00435",
+        "em-daniel-hawkins-00508"
+      ],
+      "claimsAnchored": [
+        "His public record on Medicaid expansion and pro-life politics is likely to be scrutinized in the race.",
+        "Kansas is not as red as it looks on paper. The 2022 abortion referendum (Value Them Both Amendment) was defeated 59%-41%, proving that Kansas voters will cross party lines on specific issues. Gov. Laura Kelly, a Democrat, won two terms. The question is whether",
+        "Reproductive freedom",
+        "*\"In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regard",
+        "*\"PRO-LIFE. PRO-GUN. PRO-TRUMP.\"* (hawkinsforinsurance.com)",
+        "Weaknesses: The SB 360 debacle is a gift to his opponent. Being overruled 104-17 by your own caucus is humiliating. The \"Pro-Trump\" branding may help in a primary but could limit crossover appeal in a general election -- especially after the 2022 abortion refe",
+        "Access to abortion",
+        "Weaknesses: Running as a Democrat in a Republican state. The party switch will be attacked as betrayal by Republican voters. Her platform (Medicaid expansion, abortion access) is standard Democratic fare that may limit crossover appeal with conservative voters",
+        "| Branding | \"Pro-Life. Pro-Gun. Pro-Trump.\" | Consumer champion; anti-industry |",
+        "Can Sykes replicate the Laura Kelly / 2022 abortion referendum formula -- winning enough moderate Republicans and independents to overcome Kansas's structural Republican advantage? The Sebelius + Praeger dual endorsement and the SB 360 controversy give her a c",
+        "I did not verify a current public church affiliation for Daniel Hawkins. His educational background includes Trevecca Nazarene University, which suggests a Christian environment, and his campaign uses explicitly pro-life and family language, but I did not conf",
+        "Started practicing law in Dodge City after law school"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0080",
+      "url": null,
+      "sourceFile": "reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:472",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 33,
+      "rowIds": [
+        "em-daniel-hawkins-00536",
+        "em-daniel-hawkins-00554",
+        "em-daniel-hawkins-00538",
+        "em-daniel-hawkins-01322",
+        "em-daniel-hawkins-00542",
+        "em-daniel-hawkins-00543",
+        "em-daniel-hawkins-00547",
+        "em-daniel-hawkins-00346",
+        "em-daniel-hawkins-00534",
+        "em-daniel-hawkins-00535",
+        "em-daniel-hawkins-00537",
+        "em-daniel-hawkins-00539",
+        "em-daniel-hawkins-00540",
+        "em-daniel-hawkins-00541",
+        "em-daniel-hawkins-00545",
+        "em-daniel-hawkins-00546",
+        "em-daniel-hawkins-00552",
+        "em-daniel-hawkins-00555",
+        "em-daniel-hawkins-00556",
+        "em-daniel-hawkins-00557",
+        "em-daniel-hawkins-00673",
+        "em-daniel-hawkins-01319",
+        "em-daniel-hawkins-01320",
+        "em-daniel-hawkins-01321",
+        "em-daniel-hawkins-01323",
+        "em-daniel-hawkins-01324",
+        "em-daniel-hawkins-01325",
+        "em-daniel-hawkins-01326",
+        "em-daniel-hawkins-01327",
+        "em-daniel-hawkins-01329",
+        "em-daniel-hawkins-01330",
+        "em-daniel-hawkins-00553",
+        "em-daniel-hawkins-00677"
+      ],
+      "claimsAnchored": [
+        "Kansas House Speaker with 30 years in the insurance industry, running on a \"Pro-Life. Pro-Gun. Pro-Trump.\" platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy ",
+        "Website headline: \"PRO-LIFE. PRO-GUN. PRO-TRUMP.\"",
+        "Associate degree in Business, Hutchison Community College (1981)",
+        "Education:",
+        "30+ years in the insurance business, specializing in employee benefits",
+        "Started in insurance in 1995, helping small businesses and their employees",
+        "A rule passed in 2023 limits speakers to two consecutive terms. Hawkins has cited this term limit as part of his reason for running for Insurance Commissioner.",
+        "Family: Not detailed in available sources",
+        "Two candidates are running (one per party -- no primary contests announced):",
+        "DANIEL HAWKINS (Republican -- Wichita)",
+        "Residence: 9406 Harvest Ln., Wichita, KS 67212",
+        "B.S. in Marketing, Emporia State University (1983)"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0081",
+      "url": null,
+      "sourceFile": "memory/candidates/daniel-hawkins/site-profile.md:9",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court",
+        "ballot status",
+        "biography",
+        "campaign statement",
+        "donor/funding",
+        "church/worship",
+        "voting record",
+        "endorsement"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 29,
+      "rowIds": [
+        "em-daniel-hawkins-00767",
+        "em-daniel-hawkins-00770",
+        "em-daniel-hawkins-00785",
+        "em-daniel-hawkins-00771",
+        "em-daniel-hawkins-00775",
+        "em-daniel-hawkins-00765",
+        "em-daniel-hawkins-00772",
+        "em-daniel-hawkins-00788",
+        "em-daniel-hawkins-00777",
+        "em-daniel-hawkins-00766",
+        "em-daniel-hawkins-00779",
+        "em-daniel-hawkins-00781",
+        "em-daniel-hawkins-00783",
+        "em-daniel-hawkins-00773",
+        "em-daniel-hawkins-00774",
+        "em-daniel-hawkins-00768",
+        "em-daniel-hawkins-00780",
+        "em-daniel-hawkins-00792",
+        "em-daniel-hawkins-00778",
+        "em-daniel-hawkins-00784",
+        "em-daniel-hawkins-00786",
+        "em-daniel-hawkins-00789",
+        "em-daniel-hawkins-00790",
+        "em-daniel-hawkins-00782",
+        "em-daniel-hawkins-00763",
+        "em-daniel-hawkins-00764",
+        "em-daniel-hawkins-00769",
+        "em-daniel-hawkins-00776",
+        "em-daniel-hawkins-00787"
+      ],
+      "claimsAnchored": [
+        "His record in this race is tied directly to his legislative leadership. As speaker, Hawkins has been part of the Republican governing core on taxes, abortion, and Medicaid expansion, and his insurance commissioner candidacy turns that broader conservative reco",
+        "Abortion / Sanctity of Life: Describes himself as \"pro-life\" and lists defending life as a core belief. His campaign website leads with \"PRO-LIFE. PRO-GUN. PRO-TRUMP.\"",
+        "He is running with overtly conservative branding built around Trump alignment, abortion politics, and limited government.",
+        "Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.",
+        "School Choice / Parental Rights in Education: Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources.",
+        "Daniel Hawkins is the Kansas House speaker and the 2026 Republican candidate for insurance commissioner. He is a Wichita-area legislator who first won his House seat in 2012 and climbed through committee and leadership posts before becoming speaker in 2023. Pu",
+        "Religious Liberty: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources.",
+        "Public sources do not identify a current church affiliation.",
+        "Healthcare / Medicaid: Opposes Medicaid expansion. As House Speaker, made a public case against Medicaid expansion in Plainville and said the insurance commissioner's office has \"nothing to do with Medicaid.\" He also proposed cutting $200 million from the stat",
+        "Hawkins is not running as an outsider. He is one of the central Republican power brokers in Topeka, and his campaign for insurance commissioner leans heavily on that fact. The pitch is that he knows business, regulation, and the Legislature well enough to step",
+        "Limited Government: Says \"unchecked government expansion limits our freedom as individuals and hinders the growth of the businesses our state's economy relies on to thrive.\"",
+        "Insurance Regulation: Has spent about 30 years in the insurance business and frames that experience as his core qualification for the office. He receives commissions from six insurance companies, which his opponents have flagged as a potential conflict of inte"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0082",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/daniel-hawkins.ts:325",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "voting record",
+        "church/worship",
+        "campaign statement",
+        "donor/funding",
+        "legal/court",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 239,
+      "rowIds": [
+        "em-daniel-hawkins-01112",
+        "em-daniel-hawkins-01113",
+        "em-daniel-hawkins-01126",
+        "em-daniel-hawkins-01127",
+        "em-daniel-hawkins-01564",
+        "em-daniel-hawkins-01589",
+        "em-daniel-hawkins-01594",
+        "em-daniel-hawkins-01617",
+        "em-daniel-hawkins-01590",
+        "em-daniel-hawkins-01591",
+        "em-daniel-hawkins-01592",
+        "em-daniel-hawkins-01128",
+        "em-daniel-hawkins-01076",
+        "em-daniel-hawkins-01077",
+        "em-daniel-hawkins-01091",
+        "em-daniel-hawkins-01092",
+        "em-daniel-hawkins-01093",
+        "em-daniel-hawkins-01221",
+        "em-daniel-hawkins-01573",
+        "em-daniel-hawkins-01574",
+        "em-daniel-hawkins-01575",
+        "em-daniel-hawkins-01577",
+        "em-daniel-hawkins-01579",
+        "em-daniel-hawkins-01581",
+        "em-daniel-hawkins-01593",
+        "em-daniel-hawkins-01616",
+        "em-daniel-hawkins-01063",
+        "em-daniel-hawkins-01171",
+        "em-daniel-hawkins-01597",
+        "em-daniel-hawkins-01130",
+        "em-daniel-hawkins-01131",
+        "em-daniel-hawkins-01143",
+        "em-daniel-hawkins-01144",
+        "em-daniel-hawkins-01624",
+        "em-daniel-hawkins-01145",
+        "em-daniel-hawkins-00094",
+        "em-daniel-hawkins-01021",
+        "em-daniel-hawkins-01023",
+        "em-daniel-hawkins-01024",
+        "em-daniel-hawkins-01049",
+        "em-daniel-hawkins-01051",
+        "em-daniel-hawkins-01054",
+        "em-daniel-hawkins-01095",
+        "em-daniel-hawkins-01096",
+        "em-daniel-hawkins-01108",
+        "em-daniel-hawkins-01109",
+        "em-daniel-hawkins-01110",
+        "em-daniel-hawkins-01148",
+        "em-daniel-hawkins-01162",
+        "em-daniel-hawkins-01237"
+      ],
+      "claimsAnchored": [
+        "\"title\": \"Abortion / Family / Gender Policy / Religious Liberty\",",
+        "\"text\": \"Hawkins' campaign describes him as pro-life and says legislative leadership helped override vetoes on pro-life bills, protect girls' sports, ban gender-transition surgeries on Kansas children, and pass religious-liberty/foster-care protections.\",",
+        "\"observation\": \"The May 11 harvest coded four of 27 public items as abortion, family, religious liberty, or gender policy, including campaign-site and prior embedded-feed observations.\",",
+        "\"mappedToIssueId\": \"i-abortion-family-gender-religious-liberty\"",
+        "\"observation\": \"Latest visible candidate-controlled material: the older campaign site's embedded Facebook feed showed relative timestamps within days of access on May 11, 2026, including posts on legislative wrap-up, United WE, Moody's, law enforcement valor a",
+        "\"body\": \"2025 vote record shows Hawkins voting yea on HB 2062 veto consideration, a bill concerning child-support orders for unborn children and related tax/medical/pregnancy-expense provisions.\",",
+        "\"observation\": \"Website and prior social signals map mainly to insurance affordability, taxes/property taxes, anti-Kelly contrast, Trump alignment, abortion/gender policy, guns, election integrity, immigration, and anti-Medicaid-expansion messaging.\",",
+        "\"Observed public online activity mapped to Abortion / Family / Gender Policy / Religious Liberty.\"",
+        "\"body\": \"2025 vote record shows Hawkins voting yea on SB 63 veto consideration, the Help Not Harm Act restricting gender-transition care for minors and related state funding, liability, and professional-discipline provisions.\",",
+        "\"body\": \"2025 vote record shows Hawkins voting yea on HB 2311 veto consideration, a foster-care placement/custody bill involving sincerely held religious or moral beliefs regarding sexual orientation or gender identity.\",",
+        "\"body\": \"Official SB 244 final-action roll call lists Hawkins in the yea column on a bill concerning biological sex, public multiple-occupancy private spaces, driver's licenses, birth certificates, and statutory gender definitions.\",",
+        "\"summary\": \"No current church affiliation was verified. Do not infer faith practice from policy positions or party label.\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0083",
+      "url": null,
+      "sourceFile": "memory/candidates/daniel-hawkins/v2-issues.yaml:197",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "voting record",
+        "ballot status",
+        "biography",
+        "church/worship",
+        "donor/funding",
+        "legal/court",
+        "campaign statement",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 120,
+      "rowIds": [
+        "em-daniel-hawkins-01115",
+        "em-daniel-hawkins-01211",
+        "em-daniel-hawkins-01118",
+        "em-daniel-hawkins-01120",
+        "em-daniel-hawkins-01123",
+        "em-daniel-hawkins-01264",
+        "em-daniel-hawkins-01080",
+        "em-daniel-hawkins-01085",
+        "em-daniel-hawkins-01089",
+        "em-daniel-hawkins-01222",
+        "em-daniel-hawkins-01137",
+        "em-daniel-hawkins-00076",
+        "em-daniel-hawkins-01007",
+        "em-daniel-hawkins-01010",
+        "em-daniel-hawkins-01012",
+        "em-daniel-hawkins-01029",
+        "em-daniel-hawkins-01060",
+        "em-daniel-hawkins-01070",
+        "em-daniel-hawkins-01100",
+        "em-daniel-hawkins-01102",
+        "em-daniel-hawkins-01106",
+        "em-daniel-hawkins-01141",
+        "em-daniel-hawkins-01176",
+        "em-daniel-hawkins-01181",
+        "em-daniel-hawkins-01190",
+        "em-daniel-hawkins-01194",
+        "em-daniel-hawkins-01199",
+        "em-daniel-hawkins-01203",
+        "em-daniel-hawkins-01235",
+        "em-daniel-hawkins-01240",
+        "em-daniel-hawkins-01259",
+        "em-daniel-hawkins-01261",
+        "em-daniel-hawkins-00075",
+        "em-daniel-hawkins-01014",
+        "em-daniel-hawkins-01017",
+        "em-daniel-hawkins-01028",
+        "em-daniel-hawkins-01032",
+        "em-daniel-hawkins-01037",
+        "em-daniel-hawkins-01038",
+        "em-daniel-hawkins-01044",
+        "em-daniel-hawkins-01066",
+        "em-daniel-hawkins-01072",
+        "em-daniel-hawkins-01073",
+        "em-daniel-hawkins-01084",
+        "em-daniel-hawkins-01086",
+        "em-daniel-hawkins-01134",
+        "em-daniel-hawkins-01139",
+        "em-daniel-hawkins-01170",
+        "em-daniel-hawkins-01172",
+        "em-daniel-hawkins-01178"
+      ],
+      "claimsAnchored": [
+        "summary: \"2025 vote record shows Hawkins voting yea on HB 2062 veto consideration, a bill concerning child-support orders for unborn children and related tax/medical/pregnancy-expense provisions.\"",
+        "\"Selected 2025 votes on insurance, guns, election administration, noncitizen driver-license reporting, unborn-child support, foster care/religious beliefs, public health authority, and Help Not Harm Act.\"",
+        "summary: \"2025 vote record shows Hawkins voting yea on SB 63 veto consideration, the Help Not Harm Act restricting gender-transition care for minors and related state funding, liability, and professional-discipline provisions.\"",
+        "summary: \"2025 vote record shows Hawkins voting yea on HB 2311 veto consideration, a foster-care placement/custody bill involving sincerely held religious or moral beliefs regarding sexual orientation or gender identity.\"",
+        "summary: \"Official SB 244 final-action roll call lists Hawkins in the yea column on a bill concerning biological sex, public multiple-occupancy private spaces, driver's licenses, birth certificates, and statutory gender definitions.\"",
+        "\"No current church affiliation or worship location was verified.\"",
+        "summary: \"Kansas Legislature page for HB 2043 describes a property-tax protest-petition bill and marks it vetoed by the governor.\"",
+        "summary: \"2025 vote record shows Hawkins voting yea on SB 35 emergency final action, a bill discontinuing state property tax levies for the Kansas educational building fund and state institutions building fund and financing them from the state general fund.\"",
+        "summary: \"2025 vote record shows Hawkins voting yea on HB 2318 final action, a bill making future income and privilege tax rate decreases contingent on revenue triggers.\"",
+        "\"Property-tax protest-petition bill vetoed by governor.\"",
+        "summary: \"2025 vote record shows Hawkins voting yea on HB 2016 concurrence, a voter-roll/election administration bill involving deceased-voter removal, poll-worker citizenship/residency, and advance-voting application provisions.\"",
+        "\"Office sought Insurance Commissioner.\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0084",
+      "url": null,
+      "sourceFile": "ui/src/data/candidates.ts:28761",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court",
+        "biography",
+        "ballot status",
+        "meeting record",
+        "donor/funding",
+        "church/worship",
+        "campaign statement",
+        "voting record",
+        "endorsement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 118,
+      "rowIds": [
+        "em-daniel-hawkins-01397",
+        "em-daniel-hawkins-01399",
+        "em-daniel-hawkins-01400",
+        "em-daniel-hawkins-01484",
+        "em-daniel-hawkins-01401",
+        "em-daniel-hawkins-01407",
+        "em-daniel-hawkins-01394",
+        "em-daniel-hawkins-01396",
+        "em-daniel-hawkins-01485",
+        "em-daniel-hawkins-01403",
+        "em-daniel-hawkins-01420",
+        "em-daniel-hawkins-01410",
+        "em-daniel-hawkins-01414",
+        "em-daniel-hawkins-01418",
+        "em-daniel-hawkins-01421",
+        "em-daniel-hawkins-01473",
+        "em-daniel-hawkins-01404",
+        "em-daniel-hawkins-01405",
+        "em-daniel-hawkins-01406",
+        "em-daniel-hawkins-01011",
+        "em-daniel-hawkins-01392",
+        "em-daniel-hawkins-01409",
+        "em-daniel-hawkins-01416",
+        "em-daniel-hawkins-01417",
+        "em-daniel-hawkins-01425",
+        "em-daniel-hawkins-01452",
+        "em-daniel-hawkins-01486",
+        "em-daniel-hawkins-01487",
+        "em-daniel-hawkins-01488",
+        "em-daniel-hawkins-01492",
+        "em-daniel-hawkins-01495",
+        "em-daniel-hawkins-01496",
+        "em-daniel-hawkins-01497",
+        "em-daniel-hawkins-01498",
+        "em-daniel-hawkins-01499",
+        "em-daniel-hawkins-01501",
+        "em-daniel-hawkins-01008",
+        "em-daniel-hawkins-01412",
+        "em-daniel-hawkins-01430",
+        "em-daniel-hawkins-01435",
+        "em-daniel-hawkins-01446",
+        "em-daniel-hawkins-01453",
+        "em-daniel-hawkins-01454",
+        "em-daniel-hawkins-01491",
+        "em-daniel-hawkins-01505",
+        "em-daniel-hawkins-01508",
+        "em-daniel-hawkins-01393",
+        "em-daniel-hawkins-01465",
+        "em-daniel-hawkins-01469",
+        "em-daniel-hawkins-01478"
+      ],
+      "claimsAnchored": [
+        "\"theirRecord\": \"His record in this race is tied directly to his legislative leadership. As speaker, Hawkins has been part of the Republican governing core on taxes, abortion, and Medicaid expansion, and his insurance commissioner candidacy turns that broader c",
+        "\"issue\": \"Abortion / Sanctity of Life\",",
+        "\"stance\": \"Describes himself as \\\"pro-life\\\" and lists defending life as a core belief. His campaign website leads with \\\"PRO-LIFE. PRO-GUN. PRO-TRUMP.\\\"\"",
+        "\"stance\": \"Supports access to abortion. Her legislative platform includes abortion access as part of her broader healthcare and consumer-protection agenda.\"",
+        "\"issue\": \"Marriage & Family / LGBTQ+ Policy\",",
+        "\"issue\": \"School Choice / Parental Rights in Education\",",
+        "\"family\": \"Diane Hawkins (married 1985, \\\"college sweetheart\\\")\",",
+        "\"whoTheyAre\": \"Daniel Hawkins is the Kansas House speaker and the 2026 Republican candidate for insurance commissioner. He is a Wichita-area legislator who first won his House seat in 2012 and climbed through committee and leadership posts before becoming spea",
+        "\"stance\": \"Has been an advocate for public school funding and early childhood education throughout her Senate career.\"",
+        "\"issue\": \"Religious Liberty\",",
+        "\"whereTheyWorship\": \"Public sources do not identify a current church affiliation.\",",
+        "\"stance\": \"Opposes Medicaid expansion. As House Speaker, made a public case against Medicaid expansion in Plainville and said the insurance commissioner's office has \\\"nothing to do with Medicaid.\\\" He also proposed cutting $200 million from the state budget, "
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0085",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:206",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court",
+        "biography",
+        "meeting record",
+        "donor/funding",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 32,
+      "rowIds": [
+        "em-daniel-hawkins-01534",
+        "em-daniel-hawkins-01533",
+        "em-daniel-hawkins-01535",
+        "em-daniel-hawkins-01536",
+        "em-daniel-hawkins-01537",
+        "em-daniel-hawkins-01524",
+        "em-daniel-hawkins-01509",
+        "em-daniel-hawkins-01510",
+        "em-daniel-hawkins-01518",
+        "em-daniel-hawkins-01520",
+        "em-daniel-hawkins-01522",
+        "em-daniel-hawkins-01528",
+        "em-daniel-hawkins-01526",
+        "em-daniel-hawkins-01527",
+        "em-daniel-hawkins-01511",
+        "em-daniel-hawkins-01512",
+        "em-daniel-hawkins-01513",
+        "em-daniel-hawkins-01514",
+        "em-daniel-hawkins-01515",
+        "em-daniel-hawkins-01516",
+        "em-daniel-hawkins-01517",
+        "em-daniel-hawkins-01519",
+        "em-daniel-hawkins-01521",
+        "em-daniel-hawkins-01523",
+        "em-daniel-hawkins-01525",
+        "em-daniel-hawkins-01529",
+        "em-daniel-hawkins-01538",
+        "em-daniel-hawkins-01539",
+        "em-daniel-hawkins-01532",
+        "em-daniel-hawkins-01531",
+        "em-daniel-hawkins-01530",
+        "em-daniel-hawkins-01540"
+      ],
+      "claimsAnchored": [
+        "\"Your state representative is one of 125 members of the Kansas House. They vote on every state law — property taxes, school funding, criminal penalties, road projects, gun laws, abortion policy, and the state budget. District 111 covers the Hays area, so this ",
+        "\"Your state representative votes on school funding, tax policy, roads, public safety, and the state laws that shape daily life in Ellis County.\",",
+        "slug: \"sboe-district-5\",",
+        "name: \"State Board of Education District 5\",",
+        "jurisdiction: \"Kansas State Board of Education District 5\",",
+        "\"The insurance commissioner regulates every insurance company doing business in Kansas. They approve or reject the rates you pay for health, auto, home, and crop insurance, investigate complaints when companies deny claims, and decide whether insurers are trea",
+        "slug: \"kansas-insurance-2026\",",
+        "name: \"Kansas Insurance Commissioner\",",
+        "\"The open-seat insurance commissioner race currently includes Daniel Hawkins and Dinah Sykes in filing rows, plus Ric Koehn in KPDC campaign-finance records.\",",
+        "\"Kansas elects its insurance commissioner, and this office touches rates, claims, consumer complaints, and company oversight. Daniel Hawkins and Dinah Sykes are confirmed in the statewide filing mirror; Ric Koehn is included from the KPDC account index until f",
+        "\"Insurance decisions affect what Kansans pay for health, auto, crop, and home coverage, and whether regulators push back when companies fail consumers.\",",
+        "status: \"Incumbent Running\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0086",
+      "url": null,
+      "sourceFile": "memory/elections/2026-11-03-ks-statewide-offices.md:32",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "meeting record",
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 18,
+      "rowIds": [
+        "em-daniel-hawkins-01309",
+        "em-daniel-hawkins-01304",
+        "em-daniel-hawkins-01302",
+        "em-daniel-hawkins-01312",
+        "em-daniel-hawkins-01313",
+        "em-daniel-hawkins-01300",
+        "em-daniel-hawkins-01303",
+        "em-daniel-hawkins-01306",
+        "em-daniel-hawkins-01307",
+        "em-daniel-hawkins-01311",
+        "em-daniel-hawkins-01314",
+        "em-daniel-hawkins-01315",
+        "em-daniel-hawkins-01316",
+        "em-daniel-hawkins-01318",
+        "em-daniel-hawkins-01301",
+        "em-daniel-hawkins-01305",
+        "em-daniel-hawkins-01310",
+        "em-daniel-hawkins-01308"
+      ],
+      "claimsAnchored": [
+        "State Board of Education (District 5)",
+        "Insurance Commissioner",
+        "Status: Up for re-election",
+        "District: District 5 covers western Kansas including Ellis County",
+        "District: Statewide (all Kansas voters)",
+        "State Treasurer",
+        "Known Candidates: TBD",
+        "Known Candidates:",
+        "Daniel Hawkins (R) — announced for primary",
+        "Status: Odd-numbered districts up in midterm years (2026)",
+        "Multiple open seats in one cycle is rare",
+        "Governor, Secretary of State, and possibly AG are all open seats"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0087",
+      "url": null,
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:334",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "church/worship",
+        "ballot status",
+        "legal/court",
+        "meeting record",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 56,
+      "rowIds": [
+        "em-daniel-hawkins-01340",
+        "em-daniel-hawkins-01362",
+        "em-daniel-hawkins-01367",
+        "em-daniel-hawkins-01349",
+        "em-daniel-hawkins-01331",
+        "em-daniel-hawkins-01334",
+        "em-daniel-hawkins-01347",
+        "em-daniel-hawkins-01348",
+        "em-daniel-hawkins-01350",
+        "em-daniel-hawkins-01351",
+        "em-daniel-hawkins-01352",
+        "em-daniel-hawkins-01385",
+        "em-daniel-hawkins-01332",
+        "em-daniel-hawkins-01372",
+        "em-daniel-hawkins-01383",
+        "em-daniel-hawkins-01338",
+        "em-daniel-hawkins-01357",
+        "em-daniel-hawkins-01358",
+        "em-daniel-hawkins-01359",
+        "em-daniel-hawkins-00085",
+        "em-daniel-hawkins-01335",
+        "em-daniel-hawkins-01336",
+        "em-daniel-hawkins-01337",
+        "em-daniel-hawkins-01339",
+        "em-daniel-hawkins-01341",
+        "em-daniel-hawkins-01342",
+        "em-daniel-hawkins-01343",
+        "em-daniel-hawkins-01344",
+        "em-daniel-hawkins-01345",
+        "em-daniel-hawkins-01346",
+        "em-daniel-hawkins-01353",
+        "em-daniel-hawkins-01354",
+        "em-daniel-hawkins-01355",
+        "em-daniel-hawkins-01356",
+        "em-daniel-hawkins-01360",
+        "em-daniel-hawkins-01361",
+        "em-daniel-hawkins-01378",
+        "em-daniel-hawkins-01384",
+        "em-daniel-hawkins-01379",
+        "em-daniel-hawkins-01363",
+        "em-daniel-hawkins-01364",
+        "em-daniel-hawkins-01365",
+        "em-daniel-hawkins-01366",
+        "em-daniel-hawkins-01368",
+        "em-daniel-hawkins-01369",
+        "em-daniel-hawkins-01370",
+        "em-daniel-hawkins-01371",
+        "em-daniel-hawkins-01375",
+        "em-daniel-hawkins-01333",
+        "em-daniel-hawkins-01376"
+      ],
+      "claimsAnchored": [
+        "| Spouse | Diane Hawkins (married 1985, \"college sweetheart\") |",
+        "Church Affiliations Not Found",
+        "Daniel Hawkins: Board member of Higher Ground (faith-based org), but specific church not confirmed",
+        "Small business owner since 1991",
+        "PART II: KANSAS INSURANCE COMMISSIONER",
+        "DANIEL HAWKINS (R) -- House Speaker, 30-Year Insurance Executive",
+        "Insurance Career (30 Years)",
+        "President, The Hawkins Group, Inc. -- employee benefits insurance agency",
+        "Started insurance career in 1995",
+        "Specializes in employee benefits, helping small businesses and their employees navigate insurance",
+        "30 years in the insurance industry",
+        "Races covered: 3 (Secretary of State, Insurance Commissioner, KS-01 U.S. House)"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0088",
+      "url": null,
+      "sourceFile": "memory/candidates/daniel-hawkins/in-their-own-words.md:5",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-daniel-hawkins-00003",
+        "em-daniel-hawkins-00008",
+        "em-daniel-hawkins-00009",
+        "em-daniel-hawkins-00010",
+        "em-daniel-hawkins-00001"
+      ],
+      "claimsAnchored": [
+        "For the insurance commissioner race, Hawkins presents himself less as a consumer advocate against the insurance industry and more as a conservative regulator who knows the business from the inside. The central promise is to make insurance \"more accessible and ",
+        "There are notable absences. Direct X, Facebook, and Instagram pages were partly login-walled or script-blocked in this environment, so this harvest does not claim full timelines or platform-native engagement counts. Instagram presence is confirmed by campaign ",
+        "Methodology: I reviewed Hawkins' current insurance campaign site, older campaign site and embedded Facebook feed, official Kansas Legislature profile, linked social accounts, indexed social previews, public X mirrors/snippets, public video/interview pages, and",
+        "Disclaimer: This summary reflects public, candidate-controlled or candidate-attributed messaging available in open web sources at the time of harvest. It is not a complete archive of every post, deleted item, private account interaction, or platform-native eng",
+        "Daniel Hawkins In Their Own Words"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0089",
+      "url": null,
+      "sourceFile": "memory/elections/2026-11-03-kansas-insurance-commissioner.md:34",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 16,
+      "rowIds": [
+        "em-daniel-hawkins-01279",
+        "em-daniel-hawkins-01280",
+        "em-daniel-hawkins-01281",
+        "em-daniel-hawkins-01282",
+        "em-daniel-hawkins-01269",
+        "em-daniel-hawkins-00495",
+        "em-daniel-hawkins-01266",
+        "em-daniel-hawkins-01267",
+        "em-daniel-hawkins-01268",
+        "em-daniel-hawkins-01270",
+        "em-daniel-hawkins-01271",
+        "em-daniel-hawkins-01272",
+        "em-daniel-hawkins-01273",
+        "em-daniel-hawkins-01277",
+        "em-daniel-hawkins-01274",
+        "em-daniel-hawkins-01278"
+      ],
+      "claimsAnchored": [
+        "Kansas is one of only 11 states that elects its Insurance Commissioner.",
+        "The Insurance Commissioner regulates all insurance companies operating in Kansas, reviews rate increases, and handles consumer complaints.",
+        "This office has significant impact on healthcare costs and insurance availability, especially in rural areas like Hays.",
+        "Both candidates need deep research during the Candidate Profiler phase.",
+        "District/Ward: Statewide",
+        "Republican Primary",
+        "Term length: 4 years",
+        "Jurisdiction",
+        "Level: State",
+        "Eligible Voters: All registered Kansas voters",
+        "Declared Candidates",
+        "Daniel Hawkins -- Limited public profile information available. Needs further research."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0090",
+      "url": null,
+      "sourceFile": "memory/elections/2026-11-03-ks-governor.md:35",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 16,
+      "rowIds": [
+        "em-daniel-hawkins-01291",
+        "em-daniel-hawkins-01286",
+        "em-daniel-hawkins-01287",
+        "em-daniel-hawkins-01293",
+        "em-daniel-hawkins-01283",
+        "em-daniel-hawkins-01284",
+        "em-daniel-hawkins-01285",
+        "em-daniel-hawkins-01288",
+        "em-daniel-hawkins-01292",
+        "em-daniel-hawkins-01294",
+        "em-daniel-hawkins-01297",
+        "em-daniel-hawkins-01299",
+        "em-daniel-hawkins-01290",
+        "em-daniel-hawkins-01289",
+        "em-daniel-hawkins-01295",
+        "em-daniel-hawkins-01296"
+      ],
+      "claimsAnchored": [
+        "Insurance Commissioner (Vicki Schmidt, R — Daniel Hawkins (R) and Dinah Sykes (D) announced)",
+        "Also on Ballot (Statewide)",
+        "All statewide executive offices are on the 2026 ballot:",
+        "Open seat = most competitive type of race",
+        "TBD (being researched)",
+        "Independent / Other",
+        "TBD",
+        "Attorney General",
+        "Significance",
+        "Governor Kelly (D) won in traditionally Republican Kansas TWICE",
+        "Could be a reshuffling of multiple statewide offices in one cycle",
+        "Kansas Secretary of State website — accessed 2026-03-30"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0091",
+      "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_schmidt_patrick_1/",
+      "sourceFile": "reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:701",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-00693"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0092",
+      "url": "https://www.fec.gov/data/candidate/S0KS00315/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:708",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-00661"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0093",
+      "url": "https://ballotpedia.org/Patrick_Schmidt",
+      "sourceFile": "reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:672",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-daniel-hawkins-00668"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0094",
+      "url": "https://ballotpedia.org/Dinah_Sykes",
+      "sourceFile": "reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:671",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-01328",
+        "em-daniel-hawkins-00667"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0095",
+      "url": "https://secure.actblue.com/donate/michael-soetaert",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:374",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00465",
+        "em-daniel-hawkins-00807"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0096",
+      "url": "https://www.kssenatedems.org/patrick-schmidt",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:417",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00486",
+        "em-daniel-hawkins-00812"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0097",
+      "url": "https://www.kssenatedems.org/dinah-sykes",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:612",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00595",
+        "em-daniel-hawkins-00818"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0098",
+      "url": "https://www.facebook.com/christy.davis.710/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:152",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00351",
+        "em-daniel-hawkins-00799"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0099",
+      "url": "https://www.facebook.com/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:313",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00434",
+        "em-daniel-hawkins-00805"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-daniel-hawkins-0100",
+      "url": "https://www.facebook.com/Sykes4KS/",
+      "sourceFile": "memory/candidates/daniel-hawkins/raw-dump.md:611",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-daniel-hawkins-00594",
+        "em-daniel-hawkins-00817"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    }
+  ]
+}

@@ -608,3 +608,1823 @@ candidate_metadata:
   incumbent: true
   occupation: "Kansas State Board of Education District 5 member/chair"
   social_presence_note: "Hopkins remains a current-officeholder profile. The 2026 SBOE District 5 election page now uses the KPDC District 5 campaign-account records for Michelle Cunningham and Lorie Wood instead of treating Hopkins as the only 2026 candidate."
+
+# BEGIN FIXED 14 ISSUE MATRIX
+fixed_issue_matrix:
+- issueNumber: 1
+  title: Abortion / life
+  summary: 'Abortion / life: 1 selected evidence items from 1 mapped rows. Public
+    URL-backed rows: 0.'
+  evidenceItems:
+  - evidenceRowId: em-cathy-hopkins-00289
+    classification: documented-record
+    text: iVoterGuide says Hopkins was Republican in the 2022 State Board race and
+      links to a Kansans for Life PAC note that she was pro-life/supports VTB. This
+      was not independently opened in this pass and should remain secondary/linked
+      questionnaire-archive evidence.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l659
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:659
+    confidence: unknown
+    useDecision: background-only
+  socialSignals: []
+  sourceCoverage:
+    primary: 0
+    secondary: 0
+    social: 0
+    internalMemory: 1
+    publicUrlRows: 0
+  caveats:
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 2
+  title: LGBT / gender / parental rights
+  summary: 'LGBT / gender / parental rights: 1 selected evidence items from 1 mapped
+    rows. Public URL-backed rows: 0.'
+  evidenceItems:
+  - evidenceRowId: em-cathy-hopkins-00822
+    classification: documented-record
+    text: 'Why this matters: The Board of Education has been a battleground over science
+      standards (evolution vs. intelligent design), sex education, school library
+      books, and transgender student policies. In recent years, conservative and moderate
+      factions have fought for control. The 2026 elections could shift the balance
+      of power on the board.'
+    sourceIds:
+    - mem-reports-plain-english-voter-guide-md-l381
+    sourceUrl:
+    sourceFile: reports/plain-english-voter-guide.md:381
+    confidence: unknown
+    useDecision: background-only
+  socialSignals: []
+  sourceCoverage:
+    primary: 0
+    secondary: 0
+    social: 0
+    internalMemory: 1
+    publicUrlRows: 0
+  caveats:
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 3
+  title: Education / curriculum / schools
+  summary: 'Education / curriculum / schools: 22 selected evidence items from 154
+    mapped rows. Public URL-backed rows: 10.'
+  evidenceItems:
+  - evidenceRowId: em-cathy-hopkins-00265
+    classification: documented-record
+    text: https://www.change.org/decision-makers/cathy-hopkins-kansas-state-board-of-education-district-5
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l570
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l689
+    sourceUrl: https://www.change.org/decision-makers/cathy-hopkins-kansas-state-board-of-education-district-5
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:570
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00718
+    classification: documented-record
+    text: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026 --
+      2026 SBOE election overview -- accessed 2026-03-30
+    sourceIds:
+    - mem-memory-elections-2026-11-03-kansas-sboe-district-5-md-l27
+    sourceUrl: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026
+    sourceFile: memory/elections/2026-11-03-kansas-sboe-district-5.md:27
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00719
+    classification: documented-record
+    text: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5 --
+      KSDE District 5 details and counties -- accessed 2026-03-30
+    sourceIds:
+    - mem-memory-elections-2026-11-03-kansas-sboe-district-5-md-l28
+    sourceUrl: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+    sourceFile: memory/elections/2026-11-03-kansas-sboe-district-5.md:28
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00746
+    classification: documented-record
+    text: "[USD 489 BoardDocs](https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic)"
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l55
+    sourceUrl: https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:55
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00763
+    classification: documented-record
+    text: "[KSDE District 5 page](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)"
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l89
+    sourceUrl: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:89
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00764
+    classification: documented-record
+    text: "[Ballotpedia: Kansas State Board of Education election, 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)"
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l90
+    sourceUrl: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:90
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00766
+    classification: documented-record
+    text: "[Kansas Reflector: Board of Education races](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)"
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l92
+    sourceUrl: https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:92
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00767
+    classification: documented-record
+    text: "[Hays Post: KS Board of Education conservative wing](https://hayspost.com/posts/eee8fa4b-005e-4c47-8558-a0c9729e7bd0)"
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l93
+    sourceUrl: https://hayspost.com/posts/eee8fa4b-005e-4c47-8558-a0c9729e7bd0
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:93
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00030
+    classification: donor-organization-signal
+    text: Committee assignments listed include Coordinating Council, Professional
+      Standards Board Liaison, Teacher Vacancy and Supply Committee, and Governor's
+      Education Council.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l52
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:52
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00119
+    classification: donor-organization-signal
+    text: House Education minutes identify HB 2468 as a private-school funding / federal
+      program issue in committee testimony.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l238
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:238
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00325
+    classification: donor-organization-signal
+    text: Hopkins's official committee assignments include Teacher Vacancy and Supply
+      Committee and Professional Standards Board Liaison.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l738
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:738
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00359
+    classification: donor-organization-signal
+    text: 'Current office confirmed: KSDE''s State Board page identifies Cathy Hopkins
+      as the current State Board chair and District 5 member. The District 5 page
+      lists her as chair, legislative liaison, phone/email contact, years of service
+      2023-2026, and committee assignments including Coordinating Council, Professional
+      Standards Board Liaison, Teacher Vacancy and Supply Committee, and Governor''s
+      Education Council.'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l13
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/sleuth-pass.md:13
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00365
+    classification: donor-organization-signal
+    text: 'KSDE District 5 page: Confirms Hopkins contact, years of service, committee
+      assignments, Hays residence, biography, and District 5 school-district coverage
+      including Hays USD 489, Ellis USD 388, and Victoria USD 432.'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l21
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/sleuth-pass.md:21
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00367
+    classification: donor-organization-signal
+    text: 'KPDC 2026 State Board odd districts index: Confirms current public finance/committee
+      status for odd-numbered SBOE races and shows District 5 committee filings for
+      Cunningham and Wood, not Hopkins, as of the page update.'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l23
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/sleuth-pass.md:23
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00149
+    classification: faith-community-record
+    text: Candidate responses include dated statements supporting local school-board/parent
+      control, opposing Common Core, supporting parental permission before sex education
+      or SEL, opposing mandatory vaccinations and mask mandates, supporting teachers
+      with carry licenses carrying guns with additional training/background checks,
+      and describing faith/spiritual beliefs.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l302
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:302
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00481
+    classification: faith-community-record
+    text: '"Questionnaire includes dated positions on local control, Common Core,
+      parental opt-in, school safety, health mandates, and faith self-description"'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l198
+    - mem-ui-src-data-v2-cathy-hopkins-ts-l579
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/v2-issues.yaml:198
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00032
+    classification: background-context
+    text: District 5 page includes Hays USD 489, Ellis USD 388, Victoria USD 432,
+      and many western/central Kansas school districts.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l54
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:54
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00092
+    classification: background-context
+    text: 'KSDE announced three finalists for Kansas commissioner of education: Dr.
+      Lisa Coons, Dr. Reginald Eggleston, and Dr. Jake Steel.'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l186
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:186
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00195
+    classification: background-context
+    text: Reports Hopkins and Beryl New testified neutrally on a proposed statewide
+      school cellphone ban.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l391
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:391
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00285
+    classification: background-context
+    text: KSDE biography lists small-business ownership, chamber work, national law-firm
+      administrative training/curriculum work, staff supervision, and ministry-administration
+      experience.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l647
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:647
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00300
+    classification: background-context
+    text: Statewide K-12 Education Governance
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l697
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:697
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00316
+    classification: background-context
+    text: 2022 questionnaire archive states Hopkins's local-control positions on K-12
+      funding, academics, parents, Common Core, SEL/sex education opt-in, and federal/state
+      involvement.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l723
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:723
+    confidence: unknown
+    useDecision: background-only
+  socialSignals:
+  - socialSignalId: soc-cathy-hopkins-0001
+    evidenceRowId: em-cathy-hopkins-00376
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'Public online commentary: Kansas Reflector/Hays Post, The Sentinel/Kansas
+      Policy Institute, Kansas News Service/KMUW, and State Affairs have coverage
+      quoting or describing Hopkins on core academics, assessment cut scores, board
+      pay, cell-phone policy, commissioner search, and public-school funding. These
+      are secondary-source issue leads, not candidate-controlled social signals.'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0002
+    evidenceRowId: em-cathy-hopkins-00698
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'social_presence_note: "Hopkins remains a current-officeholder profile.
+      The 2026 SBOE District 5 election page now uses the KPDC District 5 campaign-account
+      records for Michelle Cunningham and Lorie Wood instead of treating Hopkins as
+      the only 2026 candidate."'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0003
+    evidenceRowId: em-cathy-hopkins-00813
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: Curriculum standards -- what Kansas kids learn in math, science,
+      reading, writing, and social studies (yes, including what gets taught about
+      evolution, history, and sex education)
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0004
+    evidenceRowId: em-cathy-hopkins-00884
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: '"observation": "Public online commentary: Kansas Reflector/Hays
+      Post, The Sentinel/Kansas Policy Institute, Kansas News Service/KMUW, and State
+      Affairs have coverage quoting or describing Hopkins on core academics, assessment
+      cut scores, board pay, cell-phone policy, commissioner search, and public-school
+      funding. These are secondary-source issue leads, not candidate-controlled social
+      signals.",'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0005
+    evidenceRowId: em-cathy-hopkins-00937
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: '"socialResearchNote": "Hopkins remains a current-officeholder profile.
+      The 2026 SBOE District 5 election page now uses the KPDC District 5 campaign-account
+      records for Michelle Cunningham and Lorie Wood instead of treating Hopkins as
+      the only 2026 candidate.",'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  sourceCoverage:
+    primary: 2
+    secondary: 8
+    social: 0
+    internalMemory: 144
+    publicUrlRows: 10
+  caveats:
+  - Social signals are observations only and are not treated as confirmed beliefs
+    or policy positions.
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 4
+  title: Religious liberty / church / civic morality
+  summary: 'Religious liberty / church / civic morality: 4 selected evidence items
+    from 5 mapped rows. Public URL-backed rows: 0.'
+  evidenceItems:
+  - evidenceRowId: em-cathy-hopkins-00010
+    classification: faith-community-record
+    text: This dump does not treat dated 2022 questionnaire answers as a 2026 platform,
+      does not infer beliefs from faith references, and does not call Hopkins a filed
+      2026 candidate without an official filing source.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l16
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:16
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00149
+    classification: faith-community-record
+    text: Candidate responses include dated statements supporting local school-board/parent
+      control, opposing Common Core, supporting parental permission before sex education
+      or SEL, opposing mandatory vaccinations and mask mandates, supporting teachers
+      with carry licenses carrying guns with additional training/background checks,
+      and describing faith/spiritual beliefs.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l302
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:302
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00282
+    classification: faith-community-record
+    text: iVoterGuide includes Hopkins's 2022 faith self-description and says she
+      identified the Bible as a major influence.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l635
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:635
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00283
+    classification: faith-community-record
+    text: These are public self-description/biographical data. Do not infer policy
+      positions from faith references beyond what specific questionnaire answers say.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l636
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:636
+    confidence: unknown
+    useDecision: background-only
+  socialSignals:
+  - socialSignalId: soc-cathy-hopkins-0006
+    evidenceRowId: em-cathy-hopkins-00010
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: This dump does not treat dated 2022 questionnaire answers as a 2026
+      platform, does not infer beliefs from faith references, and does not call Hopkins
+      a filed 2026 candidate without an official filing source.
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  sourceCoverage:
+    primary: 0
+    secondary: 0
+    social: 0
+    internalMemory: 5
+    publicUrlRows: 0
+  caveats:
+  - Social signals are observations only and are not treated as confirmed beliefs
+    or policy positions.
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 5
+  title: Taxes / spending / debt
+  summary: 'Taxes / spending / debt: 11 selected evidence items from 12 mapped rows.
+    Public URL-backed rows: 0.'
+  evidenceItems:
+  - evidenceRowId: em-cathy-hopkins-00039
+    classification: documented-record
+    text: A candidate is not considered filed until petition/declaration and fee are
+      received.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l66
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:66
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00042
+    classification: documented-record
+    text: State Board of Education filing fee total is listed as $95.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l69
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:69
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00338
+    classification: documented-record
+    text: 'SOS candidate information: "A candidate is not considered filed until their
+      petition or declaration and fee is received by the Secretary of State." Source:
+      s-sos-candidate-info.'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l762
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:762
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00360
+    classification: documented-record
+    text: 'Office scope confirmed: Kansas SOS candidate-information page lists State
+      Board of Education districts 1, 3, 5, 7, and 9 among offices to be elected in
+      2026, with a primary filing deadline of noon on June 1, 2026. State Board of
+      Education filing fee is listed as $95 total.'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l14
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/sleuth-pass.md:14
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00366
+    classification: documented-record
+    text: 'Kansas SOS candidate information: Confirms 2026 SBOE District 5 is an office
+      to be elected and that candidates are not considered filed until required declaration/petition
+      and fee are received.'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l22
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/sleuth-pass.md:22
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00422
+    classification: documented-record
+    text: '"A candidate is not considered filed until declaration or petition and
+      fee are received"'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l43
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/v2-issues.yaml:43
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00795
+    classification: documented-record
+    text: Watch USD 489 board meetings for any bond/sales tax renewal proposals that
+      could trigger a special election.
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l209
+    sourceUrl:
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:209
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00820
+    classification: documented-record
+    text: Budget requests -- the Board requested over $105 million in enhancements
+      for FY2026
+    sourceIds:
+    - mem-reports-plain-english-voter-guide-md-l377
+    sourceUrl:
+    sourceFile: reports/plain-english-voter-guide.md:377
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00388
+    classification: donor-organization-signal
+    text: No official 2026 Hopkins candidate committee, appointment of treasurer,
+      receipts report, or filing-fee evidence was found in the KPDC 2026 odd-numbered
+      State Board index.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l50
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/sleuth-pass.md:50
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00809
+    classification: background-context
+    text: "| No new bond/mill levy vote scheduled | MEDIUM | No announcements found;
+      could change |"
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l229
+    sourceUrl:
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:229
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00870
+    classification: background-context
+    text: '"Local city decisions shape day-to-day life faster than almost anything
+      else: utility projects, zoning, housing growth, city spending, and how Hays
+      responds to long-running issues like water.",'
+    sourceIds:
+    - mem-ui-src-data-elections-ts-l249
+    sourceUrl:
+    sourceFile: ui/src/data/elections.ts:249
+    confidence: unknown
+    useDecision: background-only
+  socialSignals: []
+  sourceCoverage:
+    primary: 0
+    secondary: 0
+    social: 0
+    internalMemory: 12
+    publicUrlRows: 0
+  caveats:
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 6
+  title: Economy / jobs / labor
+  summary: 'Economy / jobs / labor: 12 selected evidence items from 12 mapped rows.
+    Public URL-backed rows: 0.'
+  evidenceItems:
+  - evidenceRowId: em-cathy-hopkins-00031
+    classification: candidate-stated
+    text: Biography says Hopkins owned a small business, worked for a local chamber
+      of commerce, worked for a national law firm on administrative-staff training,
+      served at a global ministry headquarters, and lives in Hays with her husband.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l53
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:53
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00250
+    classification: candidate-stated
+    text: KSDE biography says Hopkins owned a small business for nine years, worked
+      for a local chamber of commerce, and worked for a national law firm. iVoterGuide
+      biography says she worked at BP-Cleanrite in Hays during the 2022 profile period.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l520
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:520
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00251
+    classification: documented-record
+    text: No Kansas Secretary of State business-entity filing or county property record
+      was independently verified in this pass.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l521
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:521
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00826
+    classification: documented-record
+    text: '| In one sentence | Changes how KS Supreme Court justices get their jobs
+      -- from commission-appointed to elected | Changes "every citizen can vote" to
+      "only citizens can vote" in the state constitution |'
+    sourceIds:
+    - mem-reports-plain-english-voter-guide-md-l392
+    sourceUrl:
+    sourceFile: reports/plain-english-voter-guide.md:392
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00871
+    classification: documented-record
+    text: '"The Hays city commission is the group that runs the city. Five commissioners
+      and a mayor set water rates, approve new housing developments, hire the city
+      manager, decide where tax money goes, and vote on everything from road repairs
+      to whether a new business gets built. The city manager handles day-to-day operations.
+      These are the people who decide what Hays looks like, how much city services
+      cost, and how the city grows.",'
+    sourceIds:
+    - mem-ui-src-data-elections-ts-l251
+    sourceUrl:
+    sourceFile: ui/src/data/elections.ts:251
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00334
+    classification: donor-organization-signal
+    text: 2022 Hopkins finance reports show modest local/individual and business donor
+      activity, with largest visible receipts at $1,000.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l753
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:753
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00248
+    classification: background-context
+    text: Notable 2022 itemized receipts included local Hays-area individuals plus
+      business/organized donors including Crossland Heavy Contractors, Life Force
+      Ventures, Pop Up For Production LLC, Lite Em Up Fireworks LLC, American Made
+      LLC, and Ellis County Kansas Republican Party.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l506
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:506
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00249
+    classification: background-context
+    text: 'Pass 3: Property & Business Records'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l516
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:516
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00285
+    classification: background-context
+    text: KSDE biography lists small-business ownership, chamber work, national law-firm
+      administrative training/curriculum work, staff supervision, and ministry-administration
+      experience.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l647
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:647
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00296
+    classification: background-context
+    text: No business reviews or BBB/Glassdoor/Indeed review records were verified
+      for Hopkins.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l683
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:683
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00648
+    classification: background-context
+    text: 'category: "construction/business"'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l531
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/v2-issues.yaml:531
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00652
+    classification: background-context
+    text: 'category: "business"'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l537
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l543
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l546
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l552
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/v2-issues.yaml:537
+    confidence: unknown
+    useDecision: background-only
+  socialSignals: []
+  sourceCoverage:
+    primary: 0
+    secondary: 0
+    social: 0
+    internalMemory: 12
+    publicUrlRows: 0
+  caveats:
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 7
+  title: Guns / Second Amendment
+  summary: 'Guns / Second Amendment: 1 selected evidence items from 1 mapped rows.
+    Public URL-backed rows: 0.'
+  evidenceItems:
+  - evidenceRowId: em-cathy-hopkins-00149
+    classification: faith-community-record
+    text: Candidate responses include dated statements supporting local school-board/parent
+      control, opposing Common Core, supporting parental permission before sex education
+      or SEL, opposing mandatory vaccinations and mask mandates, supporting teachers
+      with carry licenses carrying guns with additional training/background checks,
+      and describing faith/spiritual beliefs.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l302
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:302
+    confidence: unknown
+    useDecision: background-only
+  socialSignals: []
+  sourceCoverage:
+    primary: 0
+    secondary: 0
+    social: 0
+    internalMemory: 1
+    publicUrlRows: 0
+  caveats:
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 8
+  title: Immigration / border
+  summary: No relevant public evidence was found for Immigration / border after searching
+    the evidence matrix, social-evidence-matrix, and source audit for this candidate.
+  evidenceItems: []
+  socialSignals: []
+  sourceCoverage:
+    primary: 0
+    secondary: 0
+    social: 0
+    internalMemory: 0
+    publicUrlRows: 0
+  caveats:
+  - No relevant public evidence found in the current matrix pass; do not infer a position
+    from party, faith, follows, likes, or associations.
+- issueNumber: 9
+  title: Health care / insurance / Medicaid
+  summary: 'Health care / insurance / Medicaid: 3 selected evidence items from 3 mapped
+    rows. Public URL-backed rows: 0.'
+  evidenceItems:
+  - evidenceRowId: em-cathy-hopkins-00481
+    classification: faith-community-record
+    text: '"Questionnaire includes dated positions on local control, Common Core,
+      parental opt-in, school safety, health mandates, and faith self-description"'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l198
+    - mem-ui-src-data-v2-cathy-hopkins-ts-l579
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/v2-issues.yaml:198
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00587
+    classification: background-context
+    text: '"observation": "The public iVoterGuide archive contains Hopkins''s 2022
+      responses on local control, parental opt-in, Common Core, school safety, and
+      health mandates.",'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l416
+    - mem-ui-src-data-v2-cathy-hopkins-ts-l270
+    sourceUrl:
+    sourceFile: ui/src/data/v2/cathy-hopkins.ts:270
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00729
+    classification: background-context
+    text: Insurance Commissioner
+    sourceIds:
+    - mem-memory-elections-2026-11-03-ks-statewide-offices-md-l25
+    sourceUrl:
+    sourceFile: memory/elections/2026-11-03-ks-statewide-offices.md:25
+    confidence: unknown
+    useDecision: background-only
+  socialSignals: []
+  sourceCoverage:
+    primary: 0
+    secondary: 0
+    social: 0
+    internalMemory: 3
+    publicUrlRows: 0
+  caveats:
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 10
+  title: Election integrity / voting / courts
+  summary: 'Election integrity / voting / courts: 20 selected evidence items from
+    179 mapped rows. Public URL-backed rows: 6.'
+  evidenceItems:
+  - evidenceRowId: em-cathy-hopkins-00718
+    classification: documented-record
+    text: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026 --
+      2026 SBOE election overview -- accessed 2026-03-30
+    sourceIds:
+    - mem-memory-elections-2026-11-03-kansas-sboe-district-5-md-l27
+    sourceUrl: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026
+    sourceFile: memory/elections/2026-11-03-kansas-sboe-district-5.md:27
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00720
+    classification: documented-record
+    text: https://ballotpedia.org/Kansas_State_Board_of_Education -- Board overview,
+      election schedule -- accessed 2026-03-30
+    sourceIds:
+    - mem-memory-elections-2026-11-03-kansas-sboe-district-5-md-l29
+    sourceUrl: https://ballotpedia.org/Kansas_State_Board_of_Education
+    sourceFile: memory/elections/2026-11-03-kansas-sboe-district-5.md:29
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00764
+    classification: documented-record
+    text: "[Ballotpedia: Kansas State Board of Education election, 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)"
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l90
+    sourceUrl: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:90
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00797
+    classification: documented-record
+    text: 'Ellis County Clerk (elections): 785-628-9410 | [ellisco.net/425/Election](https://www.ellisco.net/425/Election)'
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l212
+    sourceUrl: https://www.ellisco.net/425/Election
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:212
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00799
+    classification: documented-record
+    text: 'Kansas Secretary of State candidate filings: [sos.ks.gov/elections/candidate-information.html](https://www.sos.ks.gov/elections/candidate-information.html)'
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l214
+    sourceUrl: https://www.sos.ks.gov/elections/candidate-information.html
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:214
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00005
+    classification: documented-record
+    text: 'Candidate slug: cathy-hopkins'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l6
+    - mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l5
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:6
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00007
+    classification: documented-record
+    text: 'Election: sboe-district-5'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l8
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:8
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00013
+    classification: documented-record
+    text: 'Secondary: local/state news, policy-media coverage, candidate-guide summaries.'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l23
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:23
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00009
+    classification: donor-organization-signal
+    text: This is an additive Phase 2 scrape for Cathy Hopkins. There was no existing
+      memory/candidates/cathy-hopkins/ folder, so this pass used local cross-candidate
+      references, ui/src/data/v2/cathy-hopkins.ts, election-memory files, and targeted
+      current web verification. The focus is official status, State Board governance,
+      2026 filing/finance caveats, board actions, dated questionnaire material, and
+      donor/funding evidence where public records exist.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l14
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:14
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00388
+    classification: donor-organization-signal
+    text: No official 2026 Hopkins candidate committee, appointment of treasurer,
+      receipts report, or filing-fee evidence was found in the KPDC 2026 odd-numbered
+      State Board index.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l50
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/sleuth-pass.md:50
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00526
+    classification: donor-organization-signal
+    text: '"summary": "The office is up in 2026, but Hopkins''s own 2026 filing was
+      not confirmed. SOS live candidate list was blocked, and KPDC''s readable 2026
+      index did not list Hopkins.",'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l298
+    - mem-ui-src-data-v2-cathy-hopkins-ts-l80
+    sourceUrl:
+    sourceFile: ui/src/data/v2/cathy-hopkins.ts:80
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00698
+    classification: donor-organization-signal
+    text: 'social_presence_note: "Hopkins remains a current-officeholder profile.
+      The 2026 SBOE District 5 election page now uses the KPDC District 5 campaign-account
+      records for Michelle Cunningham and Lorie Wood instead of treating Hopkins as
+      the only 2026 candidate."'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l610
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/v2-issues.yaml:610
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00937
+    classification: donor-organization-signal
+    text: '"socialResearchNote": "Hopkins remains a current-officeholder profile.
+      The 2026 SBOE District 5 election page now uses the KPDC District 5 campaign-account
+      records for Michelle Cunningham and Lorie Wood instead of treating Hopkins as
+      the only 2026 candidate.",'
+    sourceIds:
+    - mem-ui-src-data-v2-cathy-hopkins-ts-l435
+    sourceUrl:
+    sourceFile: ui/src/data/v2/cathy-hopkins.ts:435
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00010
+    classification: faith-community-record
+    text: This dump does not treat dated 2022 questionnaire answers as a 2026 platform,
+      does not infer beliefs from faith references, and does not call Hopkins a filed
+      2026 candidate without an official filing source.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l16
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:16
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00837
+    classification: background-context
+    text: 'Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410
+      or check https://myvoteinfo.voteks.org/'
+    sourceIds:
+    - mem-reports-plain-english-voter-guide-md-l410
+    sourceUrl: https://myvoteinfo.voteks.org/
+    sourceFile: reports/plain-english-voter-guide.md:410
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00038
+    classification: background-context
+    text: National, state, legislative, and judicial candidates file with the Secretary
+      of State.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l65
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:65
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00189
+    classification: background-context
+    text: Reports Debby Potter was the only no vote.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l379
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:379
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00809
+    classification: background-context
+    text: "| No new bond/mill levy vote scheduled | MEDIUM | No announcements found;
+      could change |"
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l229
+    sourceUrl:
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:229
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00832
+    classification: background-context
+    text: "| When you vote | August 4 PRIMARY (low turnout favors supporters) | November
+      3 general (higher turnout) |"
+    sourceIds:
+    - mem-reports-plain-english-voter-guide-md-l398
+    sourceUrl:
+    sourceFile: reports/plain-english-voter-guide.md:398
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00833
+    classification: background-context
+    text: HOW TO VOTE
+    sourceIds:
+    - mem-reports-plain-english-voter-guide-md-l402
+    sourceUrl:
+    sourceFile: reports/plain-english-voter-guide.md:402
+    confidence: unknown
+    useDecision: background-only
+  socialSignals:
+  - socialSignalId: soc-cathy-hopkins-0002
+    evidenceRowId: em-cathy-hopkins-00698
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'social_presence_note: "Hopkins remains a current-officeholder profile.
+      The 2026 SBOE District 5 election page now uses the KPDC District 5 campaign-account
+      records for Michelle Cunningham and Lorie Wood instead of treating Hopkins as
+      the only 2026 candidate."'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0005
+    evidenceRowId: em-cathy-hopkins-00937
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: '"socialResearchNote": "Hopkins remains a current-officeholder profile.
+      The 2026 SBOE District 5 election page now uses the KPDC District 5 campaign-account
+      records for Michelle Cunningham and Lorie Wood instead of treating Hopkins as
+      the only 2026 candidate.",'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0006
+    evidenceRowId: em-cathy-hopkins-00010
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: This dump does not treat dated 2022 questionnaire answers as a 2026
+      platform, does not infer beliefs from faith references, and does not call Hopkins
+      a filed 2026 candidate without an official filing source.
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0007
+    evidenceRowId: em-cathy-hopkins-00014
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'Social: public social or platform pages only where visible. No candidate-controlled
+      post corpus was captured.'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0008
+    evidenceRowId: em-cathy-hopkins-00151
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'Caveat: Candidate-guide archive is 2022 material. Do not present
+      as a 2026 platform unless re-confirmed.'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0009
+    evidenceRowId: em-cathy-hopkins-00256
+    platform: Facebook
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: No verified candidate-controlled public Facebook page with readable
+      post history or engagement counts was confirmed.
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0010
+    evidenceRowId: em-cathy-hopkins-00345
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: No current candidate-controlled 2026 campaign site or social feed
+      was confirmed.
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0011
+    evidenceRowId: em-cathy-hopkins-00374
+    platform: Facebook
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'Facebook / X / Instagram / LinkedIn: No verified candidate-controlled
+      public account with readable post corpus or engagement counts was confirmed.
+      Searches surfaced news pages that link their own social accounts, not Hopkins-controlled
+      feeds.'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0012
+    evidenceRowId: em-cathy-hopkins-00375
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'Questionnaire archive: iVoterGuide''s public 2022 profile contains
+      Hopkins''s own questionnaire responses. This should be treated as dated candidate
+      questionnaire material from the 2022 race, not a fresh 2026 campaign platform.'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0013
+    evidenceRowId: em-cathy-hopkins-00389
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: No current candidate-controlled 2026 campaign site or active campaign
+      social feed was verified.
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  sourceCoverage:
+    primary: 2
+    secondary: 4
+    social: 0
+    internalMemory: 173
+    publicUrlRows: 6
+  caveats:
+  - Social signals are observations only and are not treated as confirmed beliefs
+    or policy positions.
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 11
+  title: Public safety / law enforcement / criminal justice
+  summary: 'Public safety / law enforcement / criminal justice: 8 selected evidence
+    items from 9 mapped rows. Public URL-backed rows: 0.'
+  evidenceItems:
+  - evidenceRowId: em-cathy-hopkins-00252
+    classification: documented-record
+    text: 'Pass 4: Court & Legal Records'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l528
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:528
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00253
+    classification: documented-record
+    text: No court, criminal, bankruptcy, ethics complaint, or civil-record item tied
+      to Hopkins was found or verified in this pass.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l532
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:532
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00254
+    classification: documented-record
+    text: iVoterGuide records a candidate answer of "NO" to a question about felony
+      convictions or civil/criminal sexual misconduct penalties, but that is candidate
+      questionnaire material, not an independent court search.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l533
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:533
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00398
+    classification: documented-record
+    text: Any ethics complaint, criminal case, or public-record scandal tied to Hopkins.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l62
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/sleuth-pass.md:62
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00786
+    classification: documented-record
+    text: "| August 4, 2026 | Primary + Constitutional Amendment | KS State Board
+      of Ed Dist. 5 primary; Supreme Court Amendment |"
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l193
+    sourceUrl:
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:193
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00793
+    classification: documented-record
+    text: Vote August 4, 2026 -- Both the State Board of Ed primary AND the Supreme
+      Court constitutional amendment are on this ballot. The August election is often
+      low-turnout and high-impact.
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l205
+    sourceUrl:
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:205
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00812
+    classification: documented-record
+    text: "| Supreme Court amendment on Aug 4 ballot | HIGH | Confirmed via Ballotpedia
+      and legislative records |"
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l232
+    sourceUrl:
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:232
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00825
+    classification: documented-record
+    text: "| | Supreme Court Amendment (Aug 4) | Citizenship Voting Amendment (Nov
+      3) |"
+    sourceIds:
+    - mem-reports-plain-english-voter-guide-md-l390
+    sourceUrl:
+    sourceFile: reports/plain-english-voter-guide.md:390
+    confidence: unknown
+    useDecision: background-only
+  socialSignals: []
+  sourceCoverage:
+    primary: 0
+    secondary: 0
+    social: 0
+    internalMemory: 9
+    publicUrlRows: 0
+  caveats:
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 12
+  title: Agriculture / rural economy / water
+  summary: 'Agriculture / rural economy / water: 5 selected evidence items from 5
+    mapped rows. Public URL-backed rows: 0.'
+  evidenceItems:
+  - evidenceRowId: em-cathy-hopkins-00726
+    classification: documented-record
+    text: District 5 is a vast rural district -- candidates need to campaign across
+      dozens of counties.
+    sourceIds:
+    - mem-memory-elections-2026-11-03-kansas-sboe-district-5-md-l36
+    sourceUrl:
+    sourceFile: memory/elections/2026-11-03-kansas-sboe-district-5.md:36
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00869
+    classification: documented-record
+    text: '"Hays city elections are not the main focus of the 2026 ballot, but the
+      people already in office still make decisions about water, housing, growth,
+      budgeting, and city services. This page groups the current city leadership in
+      one place.",'
+    sourceIds:
+    - mem-ui-src-data-elections-ts-l247
+    sourceUrl:
+    sourceFile: ui/src/data/elections.ts:247
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00871
+    classification: documented-record
+    text: '"The Hays city commission is the group that runs the city. Five commissioners
+      and a mayor set water rates, approve new housing developments, hire the city
+      manager, decide where tax money goes, and vote on everything from road repairs
+      to whether a new business gets built. The city manager handles day-to-day operations.
+      These are the people who decide what Hays looks like, how much city services
+      cost, and how the city grows.",'
+    sourceIds:
+    - mem-ui-src-data-elections-ts-l251
+    sourceUrl:
+    sourceFile: ui/src/data/elections.ts:251
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00818
+    classification: background-context
+    text: School nutrition -- food service and child care food programs
+    sourceIds:
+    - mem-reports-plain-english-voter-guide-md-l375
+    sourceUrl:
+    sourceFile: reports/plain-english-voter-guide.md:375
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00870
+    classification: background-context
+    text: '"Local city decisions shape day-to-day life faster than almost anything
+      else: utility projects, zoning, housing growth, city spending, and how Hays
+      responds to long-running issues like water.",'
+    sourceIds:
+    - mem-ui-src-data-elections-ts-l249
+    sourceUrl:
+    sourceFile: ui/src/data/elections.ts:249
+    confidence: unknown
+    useDecision: background-only
+  socialSignals: []
+  sourceCoverage:
+    primary: 0
+    secondary: 0
+    social: 0
+    internalMemory: 5
+    publicUrlRows: 0
+  caveats:
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 13
+  title: Local governance / transparency / ethics
+  summary: 'Local governance / transparency / ethics: 28 selected evidence items from
+    393 mapped rows. Public URL-backed rows: 17.'
+  evidenceItems:
+  - evidenceRowId: em-cathy-hopkins-00031
+    classification: candidate-stated
+    text: Biography says Hopkins owned a small business, worked for a local chamber
+      of commerce, worked for a national law firm on administrative-staff training,
+      served at a global ministry headquarters, and lives in Hays with her husband.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l53
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:53
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00196
+    classification: candidate-stated
+    text: Says they pointed to the 2024 Blue Ribbon Task Force on Screen Time and
+      to district-level policies developed with community collaboration.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l392
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:392
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00241
+    classification: candidate-stated
+    text: The District 5 page says she and her husband live in Hays and have six children
+      and 13 grandchildren.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l489
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:489
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00250
+    classification: candidate-stated
+    text: KSDE biography says Hopkins owned a small business for nine years, worked
+      for a local chamber of commerce, and worked for a national law firm. iVoterGuide
+      biography says she worked at BP-Cleanrite in Hays during the 2022 profile period.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l520
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:520
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00265
+    classification: documented-record
+    text: https://www.change.org/decision-makers/cathy-hopkins-kansas-state-board-of-education-district-5
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l570
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l689
+    sourceUrl: https://www.change.org/decision-makers/cathy-hopkins-kansas-state-board-of-education-district-5
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:570
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00718
+    classification: documented-record
+    text: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026 --
+      2026 SBOE election overview -- accessed 2026-03-30
+    sourceIds:
+    - mem-memory-elections-2026-11-03-kansas-sboe-district-5-md-l27
+    sourceUrl: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026
+    sourceFile: memory/elections/2026-11-03-kansas-sboe-district-5.md:27
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00719
+    classification: documented-record
+    text: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5 --
+      KSDE District 5 details and counties -- accessed 2026-03-30
+    sourceIds:
+    - mem-memory-elections-2026-11-03-kansas-sboe-district-5-md-l28
+    sourceUrl: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+    sourceFile: memory/elections/2026-11-03-kansas-sboe-district-5.md:28
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00720
+    classification: documented-record
+    text: https://ballotpedia.org/Kansas_State_Board_of_Education -- Board overview,
+      election schedule -- accessed 2026-03-30
+    sourceIds:
+    - mem-memory-elections-2026-11-03-kansas-sboe-district-5-md-l29
+    sourceUrl: https://ballotpedia.org/Kansas_State_Board_of_Education
+    sourceFile: memory/elections/2026-11-03-kansas-sboe-district-5.md:29
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00746
+    classification: documented-record
+    text: "[USD 489 BoardDocs](https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic)"
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l55
+    sourceUrl: https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:55
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00763
+    classification: documented-record
+    text: "[KSDE District 5 page](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)"
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l89
+    sourceUrl: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:89
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00764
+    classification: documented-record
+    text: "[Ballotpedia: Kansas State Board of Education election, 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)"
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l90
+    sourceUrl: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:90
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00766
+    classification: documented-record
+    text: "[Kansas Reflector: Board of Education races](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)"
+    sourceIds:
+    - mem-reports-2026-03-30-education-elections-hays-ks-md-l92
+    sourceUrl: https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/
+    sourceFile: reports/2026-03-30-education-elections-hays-ks.md:92
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00009
+    classification: donor-organization-signal
+    text: This is an additive Phase 2 scrape for Cathy Hopkins. There was no existing
+      memory/candidates/cathy-hopkins/ folder, so this pass used local cross-candidate
+      references, ui/src/data/v2/cathy-hopkins.ts, election-memory files, and targeted
+      current web verification. The focus is official status, State Board governance,
+      2026 filing/finance caveats, board actions, dated questionnaire material, and
+      donor/funding evidence where public records exist.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l14
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:14
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00012
+    classification: donor-organization-signal
+    text: 'Primary: official Kansas SOS, KSDE, Kansas Legislature, and KPDC/Kansas.gov
+      records; candidate questionnaire only where it records candidate-submitted answers.'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l22
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:22
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00030
+    classification: donor-organization-signal
+    text: Committee assignments listed include Coordinating Council, Professional
+      Standards Board Liaison, Teacher Vacancy and Supply Committee, and Governor's
+      Education Council.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l52
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:52
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00048
+    classification: donor-organization-signal
+    text: s-kpdc-edodd-2026
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l82
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l510
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l302
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l500
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l586
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:82
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00119
+    classification: donor-organization-signal
+    text: House Education minutes identify HB 2468 as a private-school funding / federal
+      program issue in committee testimony.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l238
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:238
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00202
+    classification: donor-organization-signal
+    text: s-kpdc-edodd-2022-index
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l407
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l511
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:407
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00010
+    classification: faith-community-record
+    text: This dump does not treat dated 2022 questionnaire answers as a 2026 platform,
+      does not infer beliefs from faith references, and does not call Hopkins a filed
+      2026 candidate without an official filing source.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l16
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:16
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00149
+    classification: faith-community-record
+    text: Candidate responses include dated statements supporting local school-board/parent
+      control, opposing Common Core, supporting parental permission before sex education
+      or SEL, opposing mandatory vaccinations and mask mandates, supporting teachers
+      with carry licenses carrying guns with additional training/background checks,
+      and describing faith/spiritual beliefs.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l302
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:302
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00481
+    classification: faith-community-record
+    text: '"Questionnaire includes dated positions on local control, Common Core,
+      parental opt-in, school safety, health mandates, and faith self-description"'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l198
+    - mem-ui-src-data-v2-cathy-hopkins-ts-l579
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/v2-issues.yaml:198
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00381
+    classification: public-controversy
+    text: 'Literacy, assessment, and academic standards: KSDE structured-literacy
+      materials, February 2026 literacy story, State Affairs coverage, and assessment/cut-score
+      coverage map to literacy and standards. Use official KSDE sources for action
+      background and secondary sources for quoted controversy/reaction.'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l41
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/sleuth-pass.md:41
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00834
+    classification: background-context
+    text: 'Registration deadline: Check with the Ellis County Clerk''s office or visit
+      https://www.kdor.ks.gov/Apps/VoterReg/'
+    sourceIds:
+    - mem-reports-plain-english-voter-guide-md-l404
+    sourceUrl: https://www.kdor.ks.gov/Apps/VoterReg/
+    sourceFile: reports/plain-english-voter-guide.md:404
+    confidence: confirmed
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00837
+    classification: background-context
+    text: 'Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410
+      or check https://myvoteinfo.voteks.org/'
+    sourceIds:
+    - mem-reports-plain-english-voter-guide-md-l410
+    sourceUrl: https://myvoteinfo.voteks.org/
+    sourceFile: reports/plain-english-voter-guide.md:410
+    confidence: likely
+    useDecision: use
+  - evidenceRowId: em-cathy-hopkins-00024
+    classification: background-context
+    text: Page identifies Cathy Hopkins as current chair and District 5 representative.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l39
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:39
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00026
+    classification: background-context
+    text: s-ksde-district-5
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l42
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l493
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l525
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l621
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l640
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l653
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l280
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l289
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l296
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l446
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l470
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l591
+    - mem-ui-src-data-v2-cathy-hopkins-ts-l25
+    - mem-ui-src-data-v2-cathy-hopkins-ts-l35
+    - mem-ui-src-data-v2-cathy-hopkins-ts-l43
+    - mem-ui-src-data-v2-cathy-hopkins-ts-l359
+    - mem-ui-src-data-v2-cathy-hopkins-ts-l386
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:42
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00032
+    classification: background-context
+    text: District 5 page includes Hays USD 489, Ellis USD 388, Victoria USD 432,
+      and many western/central Kansas school districts.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l54
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:54
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00055
+    classification: background-context
+    text: Cathy Hopkins does not appear in the readable 2026 odd-district index as
+      of the page update.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l93
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:93
+    confidence: unknown
+    useDecision: background-only
+  socialSignals:
+  - socialSignalId: soc-cathy-hopkins-0001
+    evidenceRowId: em-cathy-hopkins-00376
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'Public online commentary: Kansas Reflector/Hays Post, The Sentinel/Kansas
+      Policy Institute, Kansas News Service/KMUW, and State Affairs have coverage
+      quoting or describing Hopkins on core academics, assessment cut scores, board
+      pay, cell-phone policy, commissioner search, and public-school funding. These
+      are secondary-source issue leads, not candidate-controlled social signals.'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0002
+    evidenceRowId: em-cathy-hopkins-00698
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'social_presence_note: "Hopkins remains a current-officeholder profile.
+      The 2026 SBOE District 5 election page now uses the KPDC District 5 campaign-account
+      records for Michelle Cunningham and Lorie Wood instead of treating Hopkins as
+      the only 2026 candidate."'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0004
+    evidenceRowId: em-cathy-hopkins-00884
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: '"observation": "Public online commentary: Kansas Reflector/Hays
+      Post, The Sentinel/Kansas Policy Institute, Kansas News Service/KMUW, and State
+      Affairs have coverage quoting or describing Hopkins on core academics, assessment
+      cut scores, board pay, cell-phone policy, commissioner search, and public-school
+      funding. These are secondary-source issue leads, not candidate-controlled social
+      signals.",'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0005
+    evidenceRowId: em-cathy-hopkins-00937
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: '"socialResearchNote": "Hopkins remains a current-officeholder profile.
+      The 2026 SBOE District 5 election page now uses the KPDC District 5 campaign-account
+      records for Michelle Cunningham and Lorie Wood instead of treating Hopkins as
+      the only 2026 candidate.",'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0006
+    evidenceRowId: em-cathy-hopkins-00010
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: This dump does not treat dated 2022 questionnaire answers as a 2026
+      platform, does not infer beliefs from faith references, and does not call Hopkins
+      a filed 2026 candidate without an official filing source.
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0007
+    evidenceRowId: em-cathy-hopkins-00014
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'Social: public social or platform pages only where visible. No candidate-controlled
+      post corpus was captured.'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0008
+    evidenceRowId: em-cathy-hopkins-00151
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'Caveat: Candidate-guide archive is 2022 material. Do not present
+      as a 2026 platform unless re-confirmed.'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0009
+    evidenceRowId: em-cathy-hopkins-00256
+    platform: Facebook
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: No verified candidate-controlled public Facebook page with readable
+      post history or engagement counts was confirmed.
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0010
+    evidenceRowId: em-cathy-hopkins-00345
+    platform: Public web / internal harvest
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: No current candidate-controlled 2026 campaign site or social feed
+      was confirmed.
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  - socialSignalId: soc-cathy-hopkins-0011
+    evidenceRowId: em-cathy-hopkins-00374
+    platform: Facebook
+    actionType: online-reference
+    signalStrength: ambiguous
+    observation: 'Facebook / X / Instagram / LinkedIn: No verified candidate-controlled
+      public account with readable post corpus or engagement counts was confirmed.
+      Searches surfaced news pages that link their own social accounts, not Hopkins-controlled
+      feeds.'
+    sourceUrl:
+    caveat: Observed online/social signal only; do not infer belief, endorsement,
+      or policy position from this item alone.
+  sourceCoverage:
+    primary: 6
+    secondary: 11
+    social: 0
+    internalMemory: 376
+    publicUrlRows: 17
+  caveats:
+  - Social signals are observations only and are not treated as confirmed beliefs
+    or policy positions.
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+- issueNumber: 14
+  title: Environment / energy / land use
+  summary: 'Environment / energy / land use: 6 selected evidence items from 6 mapped
+    rows. Public URL-backed rows: 0.'
+  evidenceItems:
+  - evidenceRowId: em-cathy-hopkins-00046
+    classification: documented-record
+    text: The official candidate-list endpoint returned a JavaScript / robot-verification
+      page in this environment.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-raw-dump-v2-md-l79
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/raw-dump-v2.md:79
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00387
+    classification: documented-record
+    text: SOS live candidate-list readback could not be completed because the official
+      endpoint requires JavaScript robot verification in this environment.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l49
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/sleuth-pass.md:49
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00390
+    classification: documented-record
+    text: Full KSDE board minutes PDFs were partially accessible through search snippets,
+      but direct PDF downloads from KSDE were blocked/rejected in this environment.
+      Use available official KSDE article pages and Legislature records unless manually
+      retrieving minutes.
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l52
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/sleuth-pass.md:52
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00426
+    classification: documented-record
+    text: '"Official live candidate-list endpoint returned JavaScript robot verification
+      in this environment"'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-v2-issues-yaml-l53
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/v2-issues.yaml:53
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00361
+    classification: donor-organization-signal
+    text: '2026 filed-candidate status not confirmed for Hopkins: The official live
+      SOS candidate-list endpoint returned a JavaScript / robot-verification page
+      in this environment. The readable official KPDC 2026 odd-numbered State Board
+      finance index, last updated March 24, 2026, lists District 5 open campaign accounts
+      for Michelle Cunningham and Lorie Wood, but does not list Cathy Hopkins. Treat
+      Hopkins as a current officeholder in an office up in 2026, not as a verified
+      filed 2026 candidate, unless the SOS list is checked manually or Hopkins files
+      before June 1.'
+    sourceIds:
+    - mem-memory-candidates-cathy-hopkins-sleuth-pass-md-l15
+    sourceUrl:
+    sourceFile: memory/candidates/cathy-hopkins/sleuth-pass.md:15
+    confidence: unknown
+    useDecision: background-only
+  - evidenceRowId: em-cathy-hopkins-00870
+    classification: background-context
+    text: '"Local city decisions shape day-to-day life faster than almost anything
+      else: utility projects, zoning, housing growth, city spending, and how Hays
+      responds to long-running issues like water.",'
+    sourceIds:
+    - mem-ui-src-data-elections-ts-l249
+    sourceUrl:
+    sourceFile: ui/src/data/elections.ts:249
+    confidence: unknown
+    useDecision: background-only
+  socialSignals: []
+  sourceCoverage:
+    primary: 0
+    secondary: 0
+    social: 0
+    internalMemory: 6
+    publicUrlRows: 0
+  caveats:
+  - This issue still relies heavily on internal-memory rows; downstream profile writers
+    should prefer public URL-backed rows where possible.
+# END FIXED 14 ISSUE MATRIX

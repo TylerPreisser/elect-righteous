@@ -1,0 +1,1219 @@
+{
+  "candidateSlug": "cathy-hopkins",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 29,
+  "sources": [
+    {
+      "sourceId": "src-cathy-hopkins-0001",
+      "url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5",
+      "sourceFile": "memory/elections/2026-11-03-kansas-sboe-district-5.md:28",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-cathy-hopkins-00719",
+        "em-cathy-hopkins-00763"
+      ],
+      "claimsAnchored": [
+        "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5 -- KSDE District 5 details and counties -- accessed 2026-03-30",
+        "[KSDE District 5 page](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0002",
+      "url": "https://www.ellisco.net/425/Election",
+      "sourceFile": "reports/2026-03-30-education-elections-hays-ks.md:212",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-cathy-hopkins-00797"
+      ],
+      "claimsAnchored": [
+        "Ellis County Clerk (elections): 785-628-9410 | [ellisco.net/425/Election](https://www.ellisco.net/425/Election)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0003",
+      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
+      "sourceFile": "reports/2026-03-30-education-elections-hays-ks.md:214",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-cathy-hopkins-00799",
+        "em-cathy-hopkins-00035"
+      ],
+      "claimsAnchored": [
+        "Kansas Secretary of State candidate filings: [sos.ks.gov/elections/candidate-information.html](https://www.sos.ks.gov/elections/candidate-information.html)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0004",
+      "url": "https://www.kansasregents.gov/about/meet_the_board",
+      "sourceFile": "reports/2026-03-30-education-elections-hays-ks.md:111",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-cathy-hopkins-00777"
+      ],
+      "claimsAnchored": [
+        "[Kansas Board of Regents: Meet the Board](https://www.kansasregents.gov/about/meet_the_board)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0005",
+      "url": "https://www.kdor.ks.gov/Apps/VoterReg/",
+      "sourceFile": "reports/plain-english-voter-guide.md:404",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-cathy-hopkins-00834"
+      ],
+      "claimsAnchored": [
+        "Registration deadline: Check with the Ellis County Clerk's office or visit https://www.kdor.ks.gov/Apps/VoterReg/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0006",
+      "url": "https://www.change.org/decision-makers/cathy-hopkins-kansas-state-board-of-education-district-5",
+      "sourceFile": "memory/candidates/cathy-hopkins/raw-dump-v2.md:570",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-cathy-hopkins-00265"
+      ],
+      "claimsAnchored": [
+        "https://www.change.org/decision-makers/cathy-hopkins-kansas-state-board-of-education-district-5"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0007",
+      "url": "https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026",
+      "sourceFile": "memory/elections/2026-11-03-kansas-sboe-district-5.md:27",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-cathy-hopkins-00718",
+        "em-cathy-hopkins-00764"
+      ],
+      "claimsAnchored": [
+        "https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026 -- 2026 SBOE election overview -- accessed 2026-03-30",
+        "[Ballotpedia: Kansas State Board of Education election, 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0008",
+      "url": "https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic",
+      "sourceFile": "reports/2026-03-30-education-elections-hays-ks.md:55",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-cathy-hopkins-00746"
+      ],
+      "claimsAnchored": [
+        "[USD 489 BoardDocs](https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0009",
+      "url": "https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/",
+      "sourceFile": "reports/2026-03-30-education-elections-hays-ks.md:92",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-cathy-hopkins-00766"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Board of Education races](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0010",
+      "url": "https://hayspost.com/posts/eee8fa4b-005e-4c47-8558-a0c9729e7bd0",
+      "sourceFile": "reports/2026-03-30-education-elections-hays-ks.md:93",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-cathy-hopkins-00767"
+      ],
+      "claimsAnchored": [
+        "[Hays Post: KS Board of Education conservative wing](https://hayspost.com/posts/eee8fa4b-005e-4c47-8558-a0c9729e7bd0)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0011",
+      "url": "https://www.kasb.org/boe-elections",
+      "sourceFile": "reports/2026-03-30-education-elections-hays-ks.md:215",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-cathy-hopkins-00800"
+      ],
+      "claimsAnchored": [
+        "KASB school board elections info: [kasb.org/boe-elections](https://www.kasb.org/boe-elections)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0012",
+      "url": "https://www.kwch.com/2026/04/14/kansas-state-board-education-selects-its-next-commissioner/",
+      "sourceFile": "ui/src/data/v2/cathy-hopkins.ts:338",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-cathy-hopkins-00921"
+      ],
+      "claimsAnchored": [
+        "\"observation\": \"URL: https://www.kwch.com/2026/04/14/kansas-state-board-education-selects-its-next-commissioner/\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0013",
+      "url": "https://ballotpedia.org/Kansas_State_Board_of_Education",
+      "sourceFile": "memory/elections/2026-11-03-kansas-sboe-district-5.md:29",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-cathy-hopkins-00720"
+      ],
+      "claimsAnchored": [
+        "https://ballotpedia.org/Kansas_State_Board_of_Education -- Board overview, election schedule -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0014",
+      "url": "https://myvoteinfo.voteks.org/",
+      "sourceFile": "reports/plain-english-voter-guide.md:410",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-cathy-hopkins-00837"
+      ],
+      "claimsAnchored": [
+        "Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0015",
+      "url": "https://en.wikipedia.org/wiki/Kansas_Board_of_Regents",
+      "sourceFile": "reports/2026-03-30-education-elections-hays-ks.md:112",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-cathy-hopkins-00778"
+      ],
+      "claimsAnchored": [
+        "[Wikipedia: Kansas Board of Regents](https://en.wikipedia.org/wiki/Kansas_Board_of_Regents)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0016",
+      "url": "https://ballotpedia.org/Kansas_state_executive_official_elections,_2026",
+      "sourceFile": "memory/elections/2026-11-03-ks-statewide-offices.md:48",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-cathy-hopkins-00744"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia — Kansas 2026 State Executive](https://ballotpedia.org/Kansas_state_executive_official_elections,_2026) — accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0017",
+      "url": "https://ballotpedia.org/Cathy_Hopkins",
+      "sourceFile": "reports/2026-03-30-education-elections-hays-ks.md:91",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-cathy-hopkins-00765"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Cathy Hopkins](https://ballotpedia.org/Cathy_Hopkins)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0018",
+      "url": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/raw-dump-v2.md:659",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "meeting record",
+        "ballot status",
+        "donor/funding",
+        "biography",
+        "voting record",
+        "church/worship",
+        "campaign statement",
+        "legal/court",
+        "controversy"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 345,
+      "rowIds": [
+        "em-cathy-hopkins-00289",
+        "em-cathy-hopkins-00007",
+        "em-cathy-hopkins-00022",
+        "em-cathy-hopkins-00030",
+        "em-cathy-hopkins-00032",
+        "em-cathy-hopkins-00041",
+        "em-cathy-hopkins-00042",
+        "em-cathy-hopkins-00052",
+        "em-cathy-hopkins-00060",
+        "em-cathy-hopkins-00067",
+        "em-cathy-hopkins-00070",
+        "em-cathy-hopkins-00077",
+        "em-cathy-hopkins-00087",
+        "em-cathy-hopkins-00092",
+        "em-cathy-hopkins-00111",
+        "em-cathy-hopkins-00119",
+        "em-cathy-hopkins-00132",
+        "em-cathy-hopkins-00141",
+        "em-cathy-hopkins-00147",
+        "em-cathy-hopkins-00148",
+        "em-cathy-hopkins-00149",
+        "em-cathy-hopkins-00154",
+        "em-cathy-hopkins-00155",
+        "em-cathy-hopkins-00195",
+        "em-cathy-hopkins-00233",
+        "em-cathy-hopkins-00234",
+        "em-cathy-hopkins-00235",
+        "em-cathy-hopkins-00274",
+        "em-cathy-hopkins-00285",
+        "em-cathy-hopkins-00300",
+        "em-cathy-hopkins-00316",
+        "em-cathy-hopkins-00320",
+        "em-cathy-hopkins-00321",
+        "em-cathy-hopkins-00324",
+        "em-cathy-hopkins-00325",
+        "em-cathy-hopkins-00329",
+        "em-cathy-hopkins-00330",
+        "em-cathy-hopkins-00010",
+        "em-cathy-hopkins-00282",
+        "em-cathy-hopkins-00283",
+        "em-cathy-hopkins-00039",
+        "em-cathy-hopkins-00338",
+        "em-cathy-hopkins-00031",
+        "em-cathy-hopkins-00248",
+        "em-cathy-hopkins-00249",
+        "em-cathy-hopkins-00250",
+        "em-cathy-hopkins-00251",
+        "em-cathy-hopkins-00296",
+        "em-cathy-hopkins-00334",
+        "em-cathy-hopkins-00005"
+      ],
+      "claimsAnchored": [
+        "iVoterGuide says Hopkins was Republican in the 2022 State Board race and links to a Kansans for Life PAC note that she was pro-life/supports VTB. This was not independently opened in this pass and should remain secondary/linked questionnaire-archive evidence.",
+        "Election: sboe-district-5",
+        "The State Board oversees public K-12 education, sets policy, adopts academic standards, oversees educator licensure, establishes accreditation, and appoints the commissioner.",
+        "Committee assignments listed include Coordinating Council, Professional Standards Board Liaison, Teacher Vacancy and Supply Committee, and Governor's Education Council.",
+        "District 5 page includes Hays USD 489, Ellis USD 388, Victoria USD 432, and many western/central Kansas school districts.",
+        "Offices to be elected in 2026 include State Board of Education districts 1, 3, 5, 7, and 9.",
+        "State Board of Education filing fee total is listed as $95.",
+        "Page title: Kansas State Board of Education, odd-numbered districts, 2026 election cycle.",
+        "Office sought: State Board of Education, District 5.",
+        "State Board of Education District 5 Republican primary: Jean Clifford 23,475 votes, 45.15%; Cathy Hopkins 28,514 votes, 54.85%.",
+        "Official general election vote totals list R-Cathy Hopkins under Member, State Board of Education 5.",
+        "Lists \"Member, State Board of Education District 5 - Cathy Hopkins, Hays, Republican.\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0019",
+      "url": null,
+      "sourceFile": "reports/plain-english-voter-guide.md:381",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "meeting record",
+        "biography",
+        "legal/court",
+        "ballot status",
+        "voting record",
+        "controversy"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 23,
+      "rowIds": [
+        "em-cathy-hopkins-00822",
+        "em-cathy-hopkins-00813",
+        "em-cathy-hopkins-00814",
+        "em-cathy-hopkins-00815",
+        "em-cathy-hopkins-00816",
+        "em-cathy-hopkins-00817",
+        "em-cathy-hopkins-00818",
+        "em-cathy-hopkins-00819",
+        "em-cathy-hopkins-00820",
+        "em-cathy-hopkins-00826",
+        "em-cathy-hopkins-00823",
+        "em-cathy-hopkins-00825",
+        "em-cathy-hopkins-00829",
+        "em-cathy-hopkins-00832",
+        "em-cathy-hopkins-00833",
+        "em-cathy-hopkins-00835",
+        "em-cathy-hopkins-00836",
+        "em-cathy-hopkins-00821",
+        "em-cathy-hopkins-00824",
+        "em-cathy-hopkins-00827",
+        "em-cathy-hopkins-00828",
+        "em-cathy-hopkins-00830",
+        "em-cathy-hopkins-00831"
+      ],
+      "claimsAnchored": [
+        "Why this matters: The Board of Education has been a battleground over science standards (evolution vs. intelligent design), sex education, school library books, and transgender student policies. In recent years, conservative and moderate factions have fought f",
+        "Curriculum standards -- what Kansas kids learn in math, science, reading, writing, and social studies (yes, including what gets taught about evolution, history, and sex education)",
+        "School accreditation -- whether schools meet state standards",
+        "Teacher licensing -- who is qualified to teach in Kansas",
+        "Special education -- programs for disabled, homebound, and exceptional students",
+        "Career and technical education -- approval of all vocational programs",
+        "School nutrition -- food service and child care food programs",
+        "School district organization -- how districts are structured",
+        "Budget requests -- the Board requested over $105 million in enhancements for FY2026",
+        "| In one sentence | Changes how KS Supreme Court justices get their jobs -- from commission-appointed to elected | Changes \"every citizen can vote\" to \"only citizens can vote\" in the state constitution |",
+        "As of March 31, 2026, no candidates have filed for District 5. The filing deadline is June 1. Watch this space -- candidates often file at the last minute.",
+        "| | Supreme Court Amendment (Aug 4) | Citizenship Voting Amendment (Nov 3) |"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0020",
+      "url": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/sleuth-pass.md:6",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "meeting record",
+        "donor/funding",
+        "ballot status",
+        "legal/court",
+        "biography",
+        "controversy",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 45,
+      "rowIds": [
+        "em-cathy-hopkins-00356",
+        "em-cathy-hopkins-00359",
+        "em-cathy-hopkins-00360",
+        "em-cathy-hopkins-00362",
+        "em-cathy-hopkins-00365",
+        "em-cathy-hopkins-00366",
+        "em-cathy-hopkins-00367",
+        "em-cathy-hopkins-00370",
+        "em-cathy-hopkins-00376",
+        "em-cathy-hopkins-00383",
+        "em-cathy-hopkins-00384",
+        "em-cathy-hopkins-00385",
+        "em-cathy-hopkins-00388",
+        "em-cathy-hopkins-00373",
+        "em-cathy-hopkins-00374",
+        "em-cathy-hopkins-00375",
+        "em-cathy-hopkins-00387",
+        "em-cathy-hopkins-00389",
+        "em-cathy-hopkins-00394",
+        "em-cathy-hopkins-00395",
+        "em-cathy-hopkins-00396",
+        "em-cathy-hopkins-00398",
+        "em-cathy-hopkins-00358",
+        "em-cathy-hopkins-00361",
+        "em-cathy-hopkins-00364",
+        "em-cathy-hopkins-00369",
+        "em-cathy-hopkins-00371",
+        "em-cathy-hopkins-00377",
+        "em-cathy-hopkins-00379",
+        "em-cathy-hopkins-00380",
+        "em-cathy-hopkins-00381",
+        "em-cathy-hopkins-00382",
+        "em-cathy-hopkins-00390",
+        "em-cathy-hopkins-00354",
+        "em-cathy-hopkins-00357",
+        "em-cathy-hopkins-00363",
+        "em-cathy-hopkins-00368",
+        "em-cathy-hopkins-00372",
+        "em-cathy-hopkins-00378",
+        "em-cathy-hopkins-00386",
+        "em-cathy-hopkins-00392",
+        "em-cathy-hopkins-00393",
+        "em-cathy-hopkins-00397",
+        "em-cathy-hopkins-00355",
+        "em-cathy-hopkins-00391"
+      ],
+      "claimsAnchored": [
+        "Office: Kansas State Board of Education, District 5",
+        "Current office confirmed: KSDE's State Board page identifies Cathy Hopkins as the current State Board chair and District 5 member. The District 5 page lists her as chair, legislative liaison, phone/email contact, years of service 2023-2026, and committee assig",
+        "Office scope confirmed: Kansas SOS candidate-information page lists State Board of Education districts 1, 3, 5, 7, and 9 among offices to be elected in 2026, with a primary filing deadline of noon on June 1, 2026. State Board of Education filing fee is listed ",
+        "2022 election history confirmed: Kansas SOS 2022 primary official totals show Hopkins defeated incumbent Jean Clifford in the Republican primary, 28,514 to 23,475. Kansas SOS's 2022 certificate of election lists \"Member, State Board of Education District 5 - C",
+        "KSDE District 5 page: Confirms Hopkins contact, years of service, committee assignments, Hays residence, biography, and District 5 school-district coverage including Hays USD 489, Ellis USD 388, and Victoria USD 432.",
+        "Kansas SOS candidate information: Confirms 2026 SBOE District 5 is an office to be elected and that candidates are not considered filed until required declaration/petition and fee are received.",
+        "KPDC 2026 State Board odd districts index: Confirms current public finance/committee status for odd-numbered SBOE races and shows District 5 committee filings for Cunningham and Wood, not Hopkins, as of the page update.",
+        "Kansas Legislature committee minutes/testimony: House Education minutes for HB 2468 identify Hopkins and Beryl New as legislative liaisons opposing a federal/private-school funding bill because the State Board's 2026 priorities favored only using public funds ",
+        "Public online commentary: Kansas Reflector/Hays Post, The Sentinel/Kansas Policy Institute, Kansas News Service/KMUW, and State Affairs have coverage quoting or describing Hopkins on core academics, assessment cut scores, board pay, cell-phone policy, commissi",
+        "Public-school funding and school choice/voucher-adjacent policy: Official HB 2468 committee minutes and testimony map to the State Board's 2026 priority of using public funds for public schools. Hopkins appears in her legislative-liaison capacity with Beryl Ne",
+        "Teacher workforce / school employee benefits: Official 2025 testimony on HB 2129 and HB 2194 identifies Hopkins and Danny Zeck as board liaisons supporting KPERS changes and retired-teacher return-to-work policy.",
+        "Campaign finance: Current 2026 finance status for Hopkins is absent from the readable KPDC odd-district index. The available donor/funding evidence is from her 2022 SBOE campaign and should not be represented as 2026 fundraising."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0021",
+      "url": null,
+      "sourceFile": "memory/candidates/cathy-hopkins/v2-issues.yaml:6",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "meeting record",
+        "donor/funding",
+        "biography",
+        "church/worship",
+        "ballot status",
+        "voting record",
+        "campaign statement",
+        "controversy",
+        "endorsement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 189,
+      "rowIds": [
+        "em-cathy-hopkins-00403",
+        "em-cathy-hopkins-00405",
+        "em-cathy-hopkins-00411",
+        "em-cathy-hopkins-00417",
+        "em-cathy-hopkins-00418",
+        "em-cathy-hopkins-00421",
+        "em-cathy-hopkins-00428",
+        "em-cathy-hopkins-00433",
+        "em-cathy-hopkins-00442",
+        "em-cathy-hopkins-00457",
+        "em-cathy-hopkins-00470",
+        "em-cathy-hopkins-00477",
+        "em-cathy-hopkins-00481",
+        "em-cathy-hopkins-00498",
+        "em-cathy-hopkins-00523",
+        "em-cathy-hopkins-00524",
+        "em-cathy-hopkins-00544",
+        "em-cathy-hopkins-00558",
+        "em-cathy-hopkins-00571",
+        "em-cathy-hopkins-00582",
+        "em-cathy-hopkins-00595",
+        "em-cathy-hopkins-00603",
+        "em-cathy-hopkins-00604",
+        "em-cathy-hopkins-00608",
+        "em-cathy-hopkins-00610",
+        "em-cathy-hopkins-00611",
+        "em-cathy-hopkins-00619",
+        "em-cathy-hopkins-00698",
+        "em-cathy-hopkins-00422",
+        "em-cathy-hopkins-00648",
+        "em-cathy-hopkins-00652",
+        "em-cathy-hopkins-00406",
+        "em-cathy-hopkins-00407",
+        "em-cathy-hopkins-00420",
+        "em-cathy-hopkins-00423",
+        "em-cathy-hopkins-00425",
+        "em-cathy-hopkins-00426",
+        "em-cathy-hopkins-00430",
+        "em-cathy-hopkins-00438",
+        "em-cathy-hopkins-00441",
+        "em-cathy-hopkins-00453",
+        "em-cathy-hopkins-00462",
+        "em-cathy-hopkins-00466",
+        "em-cathy-hopkins-00480",
+        "em-cathy-hopkins-00491",
+        "em-cathy-hopkins-00501",
+        "em-cathy-hopkins-00504",
+        "em-cathy-hopkins-00507",
+        "em-cathy-hopkins-00534",
+        "em-cathy-hopkins-00562"
+      ],
+      "claimsAnchored": [
+        "\"Hopkins is confirmed as current Kansas State Board of Education District 5 member and current State Board chair.\"",
+        "\"Issue evidence is strongest for board governance, commissioner selection, literacy/standards, public-school funding priorities, and legislative-liaison testimony.\"",
+        "\"The State Board oversees public K-12 education, standards, licensure, accreditation, and commissioner appointment\"",
+        "\"Committee assignments include Coordinating Council, Professional Standards Board Liaison, Teacher Vacancy and Supply Committee, and Governor's Education Council\"",
+        "\"District 5 includes Hays USD 489 and other western/central Kansas districts\"",
+        "\"State Board of Education districts 1, 3, 5, 7, and 9 are offices to be elected in 2026\"",
+        "title: \"Kansas State Board of Education Odd Numbered Districts 2026 Election Cycle\"",
+        "\"Lorie L. Wood lists office sought as State Board of Education District 5\"",
+        "\"State Board of Canvassers certified Cathy Hopkins, Hays, Republican, as Member, State Board of Education District 5\"",
+        "\"KSDE announced finalists for commissioner of education\"",
+        "\"Hopkins and Danny Zeck supported HB 2129 as aligned with State Board priority to move Kansas school employees from KPERS 3 to KPERS 2\"",
+        "\"Testimony cited free appropriate public education and educational-necessity concerns\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0022",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/cathy-hopkins.ts:453",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "meeting record",
+        "biography",
+        "voting record",
+        "donor/funding",
+        "ballot status",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 188,
+      "rowIds": [
+        "em-cathy-hopkins-00414",
+        "em-cathy-hopkins-00444",
+        "em-cathy-hopkins-00452",
+        "em-cathy-hopkins-00456",
+        "em-cathy-hopkins-00460",
+        "em-cathy-hopkins-00465",
+        "em-cathy-hopkins-00483",
+        "em-cathy-hopkins-00487",
+        "em-cathy-hopkins-00490",
+        "em-cathy-hopkins-00494",
+        "em-cathy-hopkins-00511",
+        "em-cathy-hopkins-00513",
+        "em-cathy-hopkins-00587",
+        "em-cathy-hopkins-00590",
+        "em-cathy-hopkins-00591",
+        "em-cathy-hopkins-00599",
+        "em-cathy-hopkins-00600",
+        "em-cathy-hopkins-00614",
+        "em-cathy-hopkins-00615",
+        "em-cathy-hopkins-00694",
+        "em-cathy-hopkins-00695",
+        "em-cathy-hopkins-00697",
+        "em-cathy-hopkins-00881",
+        "em-cathy-hopkins-00884",
+        "em-cathy-hopkins-00895",
+        "em-cathy-hopkins-00899",
+        "em-cathy-hopkins-00909",
+        "em-cathy-hopkins-00917",
+        "em-cathy-hopkins-00919",
+        "em-cathy-hopkins-00924",
+        "em-cathy-hopkins-00926",
+        "em-cathy-hopkins-00936",
+        "em-cathy-hopkins-00937",
+        "em-cathy-hopkins-00941",
+        "em-cathy-hopkins-00479",
+        "em-cathy-hopkins-00526",
+        "em-cathy-hopkins-00546",
+        "em-cathy-hopkins-00564",
+        "em-cathy-hopkins-00583",
+        "em-cathy-hopkins-00585",
+        "em-cathy-hopkins-00612",
+        "em-cathy-hopkins-00620",
+        "em-cathy-hopkins-00696",
+        "em-cathy-hopkins-00893",
+        "em-cathy-hopkins-00896",
+        "em-cathy-hopkins-00904",
+        "em-cathy-hopkins-00905",
+        "em-cathy-hopkins-00911",
+        "em-cathy-hopkins-00933",
+        "em-cathy-hopkins-00409"
+      ],
+      "claimsAnchored": [
+        "\"title\": \"Kansas State Board of Education District 5\",",
+        "\"title\": \"Kansas State Board of Education receives update on structured literacy licensure requirements\",",
+        "\"title\": \"State Board begins process of searching for a new education commissioner\",",
+        "\"title\": \"Kansas State Board of Education names finalists for commissioner of education\",",
+        "\"title\": \"Kansas BOE names Jake Steel as state's next education commissioner\",",
+        "\"title\": \"House Education minutes - HB 2468\",",
+        "\"title\": \"KS Board of Education's conservative wing emphasizes desire to focus on core subjects\",",
+        "\"title\": \"Kansas State Board of Education establishes four priorities heading into 2024 election cycle\",",
+        "\"title\": \"Seven members of Kansas Board of Education vote to reduce proficiency standards\",",
+        "\"title\": \"Kansas legislators hear divided testimony on proposed school cellphone ban\",",
+        "\"title\": \"Statewide K-12 Education Governance\",",
+        "\"text\": \"Hopkins's clearest current role is statewide education governance. KSDE identifies the State Board as the body that sets K-12 policy, standards, educator licensure, accreditation, and commissioner appointment, and lists Hopkins as the current chair an"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0023",
+      "url": null,
+      "sourceFile": "memory/elections/2026-11-03-kansas-sboe-district-5.md:11",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "meeting record",
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 24,
+      "rowIds": [
+        "em-cathy-hopkins-00706",
+        "em-cathy-hopkins-00709",
+        "em-cathy-hopkins-00712",
+        "em-cathy-hopkins-00714",
+        "em-cathy-hopkins-00722",
+        "em-cathy-hopkins-00724",
+        "em-cathy-hopkins-00725",
+        "em-cathy-hopkins-00700",
+        "em-cathy-hopkins-00702",
+        "em-cathy-hopkins-00707",
+        "em-cathy-hopkins-00716",
+        "em-cathy-hopkins-00717",
+        "em-cathy-hopkins-00726",
+        "em-cathy-hopkins-00727",
+        "em-cathy-hopkins-00701",
+        "em-cathy-hopkins-00703",
+        "em-cathy-hopkins-00704",
+        "em-cathy-hopkins-00705",
+        "em-cathy-hopkins-00708",
+        "em-cathy-hopkins-00710",
+        "em-cathy-hopkins-00711",
+        "em-cathy-hopkins-00721",
+        "em-cathy-hopkins-00723",
+        "em-cathy-hopkins-00713"
+      ],
+      "claimsAnchored": [
+        "Kansas State Board of Education, District 5 -- 1 seat",
+        "Note: 5 of 10 SBOE seats are up in 2026 (odd-numbered districts: 1, 3, 5, 7, 9)",
+        "District/Ward: SBOE District 5 -- covers western Kansas including Ellis County (Hays)",
+        "Eligible Voters: All registered voters in SBOE District 5",
+        "The State Board of Education is composed of 10 members elected from districts of 4 contiguous state senate districts each.",
+        "The SBOE sets education policy, approves curriculum standards, and oversees the Kansas Department of Education.",
+        "The 2024 SBOE elections shifted the board toward a conservative majority. The 2026 races could continue or reverse that trend.",
+        "Filing Deadline: 2026-06-01 (noon)",
+        "General Election: 2026-11-03",
+        "Current incumbent: Cathy Hopkins (R) -- elected November 2022",
+        "No candidates have officially filed as of research date (filing deadline is June 1, 2026).",
+        "Cathy Hopkins (R) was elected in 2022 and would be eligible to run for re-election."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0024",
+      "url": null,
+      "sourceFile": "memory/elections/2026-11-03-ks-statewide-offices.md:32",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "meeting record",
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 17,
+      "rowIds": [
+        "em-cathy-hopkins-00735",
+        "em-cathy-hopkins-00729",
+        "em-cathy-hopkins-00731",
+        "em-cathy-hopkins-00738",
+        "em-cathy-hopkins-00739",
+        "em-cathy-hopkins-00728",
+        "em-cathy-hopkins-00732",
+        "em-cathy-hopkins-00737",
+        "em-cathy-hopkins-00740",
+        "em-cathy-hopkins-00741",
+        "em-cathy-hopkins-00742",
+        "em-cathy-hopkins-00743",
+        "em-cathy-hopkins-00745",
+        "em-cathy-hopkins-00730",
+        "em-cathy-hopkins-00736",
+        "em-cathy-hopkins-00733",
+        "em-cathy-hopkins-00734"
+      ],
+      "claimsAnchored": [
+        "State Board of Education (District 5)",
+        "Insurance Commissioner",
+        "Status: Up for re-election",
+        "District: District 5 covers western Kansas including Ellis County",
+        "District: Statewide (all Kansas voters)",
+        "Known Candidates: TBD",
+        "Known Candidates:",
+        "Status: Odd-numbered districts up in midterm years (2026)",
+        "Significance",
+        "Multiple open seats in one cycle is rare",
+        "Governor, Secretary of State, and possibly AG are all open seats",
+        "Major reshuffling of Kansas statewide leadership"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0025",
+      "url": null,
+      "sourceFile": "reports/2026-03-30-education-elections-hays-ks.md:59",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "meeting record",
+        "ballot status",
+        "biography",
+        "legal/court",
+        "voting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 59,
+      "rowIds": [
+        "em-cathy-hopkins-00747",
+        "em-cathy-hopkins-00753",
+        "em-cathy-hopkins-00762",
+        "em-cathy-hopkins-00775",
+        "em-cathy-hopkins-00781",
+        "em-cathy-hopkins-00788",
+        "em-cathy-hopkins-00789",
+        "em-cathy-hopkins-00792",
+        "em-cathy-hopkins-00795",
+        "em-cathy-hopkins-00798",
+        "em-cathy-hopkins-00806",
+        "em-cathy-hopkins-00807",
+        "em-cathy-hopkins-00808",
+        "em-cathy-hopkins-00809",
+        "em-cathy-hopkins-00748",
+        "em-cathy-hopkins-00757",
+        "em-cathy-hopkins-00758",
+        "em-cathy-hopkins-00759",
+        "em-cathy-hopkins-00760",
+        "em-cathy-hopkins-00769",
+        "em-cathy-hopkins-00786",
+        "em-cathy-hopkins-00787",
+        "em-cathy-hopkins-00793",
+        "em-cathy-hopkins-00794",
+        "em-cathy-hopkins-00804",
+        "em-cathy-hopkins-00805",
+        "em-cathy-hopkins-00812",
+        "em-cathy-hopkins-00751",
+        "em-cathy-hopkins-00754",
+        "em-cathy-hopkins-00768",
+        "em-cathy-hopkins-00770",
+        "em-cathy-hopkins-00771",
+        "em-cathy-hopkins-00773",
+        "em-cathy-hopkins-00780",
+        "em-cathy-hopkins-00782",
+        "em-cathy-hopkins-00803",
+        "em-cathy-hopkins-00810",
+        "em-cathy-hopkins-00811",
+        "em-cathy-hopkins-00699",
+        "em-cathy-hopkins-00715",
+        "em-cathy-hopkins-00752",
+        "em-cathy-hopkins-00755",
+        "em-cathy-hopkins-00756",
+        "em-cathy-hopkins-00761",
+        "em-cathy-hopkins-00772",
+        "em-cathy-hopkins-00774",
+        "em-cathy-hopkins-00779",
+        "em-cathy-hopkins-00783",
+        "em-cathy-hopkins-00784",
+        "em-cathy-hopkins-00785"
+      ],
+      "claimsAnchored": [
+        "KANSAS STATE BOARD OF EDUCATION -- DISTRICT 5",
+        "Role: Currently serves as Chair of the Kansas State Board of Education",
+        "The Kansas State Board of Education sets statewide education policy, curriculum standards, school accreditation requirements, and oversees the Kansas State Department of Education. Five of the 10 seats (all odd-numbered districts: 1, 3, 5, 7, 9) are up in 2026",
+        "Relevance to Hays voters: The Board of Regents governs Fort Hays State University and recently approved the affiliation of FHSU with North Central Kansas Technical College (NCK Tech) and Northwest Kansas Technical College. There is no direct ballot action avai",
+        "Following the 2023-2024 affiliation with FHSU approved by the Kansas Board of Regents and HLC, the Fort Hays Tech North Central Board of Trustees became primarily advisory. The college president now reports to the FHSU president under Board of Regents authorit",
+        "| June 1, 2027 | Filing deadline | Last day to file for USD 489 school board |",
+        "| August 2027 | Primary (if needed) | USD 489 school board primary |",
+        "Monitor the KS State Board of Education District 5 race -- Filing opens soon (deadline June 1, 2026). Cathy Hopkins is the incumbent from Hays. Check the Kansas Secretary of State's candidate filing page for updates.",
+        "Watch USD 489 board meetings for any bond/sales tax renewal proposals that could trigger a special election.",
+        "USD 489 Board Clerk: Jess Reling, jreling@usd489.com",
+        "| USD 489 next election is Nov 2027 | HIGH | Kansas law: odd-year elections only |",
+        "| USD 489 board member names | HIGH | Cross-referenced from Hays Post, BoardDocs, Tiger Media |"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0026",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:209",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "meeting record",
+        "voting record",
+        "ballot status",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 35,
+      "rowIds": [
+        "em-cathy-hopkins-00838",
+        "em-cathy-hopkins-00839",
+        "em-cathy-hopkins-00841",
+        "em-cathy-hopkins-00851",
+        "em-cathy-hopkins-00853",
+        "em-cathy-hopkins-00870",
+        "em-cathy-hopkins-00871",
+        "em-cathy-hopkins-00868",
+        "em-cathy-hopkins-00869",
+        "em-cathy-hopkins-00872",
+        "em-cathy-hopkins-00847",
+        "em-cathy-hopkins-00854",
+        "em-cathy-hopkins-00855",
+        "em-cathy-hopkins-00856",
+        "em-cathy-hopkins-00858",
+        "em-cathy-hopkins-00840",
+        "em-cathy-hopkins-00842",
+        "em-cathy-hopkins-00843",
+        "em-cathy-hopkins-00844",
+        "em-cathy-hopkins-00846",
+        "em-cathy-hopkins-00848",
+        "em-cathy-hopkins-00850",
+        "em-cathy-hopkins-00852",
+        "em-cathy-hopkins-00857",
+        "em-cathy-hopkins-00859",
+        "em-cathy-hopkins-00860",
+        "em-cathy-hopkins-00861",
+        "em-cathy-hopkins-00849",
+        "em-cathy-hopkins-00845",
+        "em-cathy-hopkins-00862",
+        "em-cathy-hopkins-00863",
+        "em-cathy-hopkins-00864",
+        "em-cathy-hopkins-00865",
+        "em-cathy-hopkins-00866",
+        "em-cathy-hopkins-00867"
+      ],
+      "claimsAnchored": [
+        "slug: \"sboe-district-5\",",
+        "name: \"State Board of Education District 5\",",
+        "jurisdiction: \"Kansas State Board of Education District 5\",",
+        "\"Board members influence what schools teach, how districts are judged, and what statewide education debates look like for years to come.\",",
+        "\"The State Board of Education sets the standards for what Kansas kids learn in school. They approve curriculum frameworks, oversee school accreditation, hire the state education commissioner, and weigh in on statewide fights over textbooks, testing, and teachi",
+        "\"Local city decisions shape day-to-day life faster than almost anything else: utility projects, zoning, housing growth, city spending, and how Hays responds to long-running issues like water.\",",
+        "\"The Hays city commission is the group that runs the city. Five commissioners and a mayor set water rates, approve new housing developments, hire the city manager, decide where tax money goes, and vote on everything from road repairs to whether a new business ",
+        "\"City races are not on the 2026 Hays ballot, but these are the officeholders currently running city government and setting local direction.\",",
+        "\"Hays city elections are not the main focus of the 2026 ballot, but the people already in office still make decisions about water, housing, growth, budgeting, and city services. This page groups the current city leadership in one place.\",",
+        "slug: \"ellis-county-2026-ballot\",",
+        "\"District 5 covers western Kansas, including Ellis County. The KPDC 2026 odd-district index currently lists Michelle Cunningham and Lorie Wood for District 5; current officeholder Cathy Hopkins remains profiled separately but is not treated as the only 2026 ca",
+        "slug: \"hays-city-current\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0027",
+      "url": "https://www.ksde.gov/Home/Quick-Links/News-Room/Weekly-News/Feature-Story/ArtMID/6201/ArticleID/4005/Kansas-State-Board-of-Education-receives-update-on-structured-literacy-licensure-requirements",
+      "sourceFile": "memory/candidates/cathy-hopkins/raw-dump-v2.md:156",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-cathy-hopkins-00018"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0028",
+      "url": "https://sos.ks.gov/elections/22elec/2022-Primary-Official-Vote-Totals.pdf",
+      "sourceFile": "memory/candidates/cathy-hopkins/raw-dump-v2.md:123",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-cathy-hopkins-00045"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-cathy-hopkins-0029",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2022ElecCycle/202207/BOE05CH_amend2207.pdf",
+      "sourceFile": "memory/candidates/cathy-hopkins/raw-dump-v2.md:421",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-cathy-hopkins-00049"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    }
+  ]
+}

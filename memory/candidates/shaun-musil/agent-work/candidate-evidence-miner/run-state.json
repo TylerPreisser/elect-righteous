@@ -1,0 +1,42 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "shaun-musil",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/shaun-musil/in-their-own-words.md",
+    "memory/candidates/shaun-musil/raw-dump-v2.md",
+    "memory/candidates/shaun-musil/raw-dump.md",
+    "memory/candidates/shaun-musil/site-profile.md",
+    "memory/candidates/shaun-musil/sleuth-pass.md",
+    "memory/candidates/shaun-musil/social-harvest.md",
+    "memory/candidates/shaun-musil/v2-issues.yaml",
+    "memory/elections/2027-NO-ELECTION-hays-city-commission.md",
+    "reports/faith-church-investigation-2026-03-31.md",
+    "reports/hays-city-commission-deep-investigation-2026-03-30.md",
+    "reports/hays-kansas-election-finder-2026-03-30.md",
+    "reports/senate-challengers-local-officials-complete.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/shaun-musil.ts"
+  ],
+  "files_written": [
+    "memory/candidates/shaun-musil/evidence-matrix-raw.json",
+    "memory/candidates/shaun-musil/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/shaun-musil/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/shaun-musil/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/shaun-musil/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs shaun-musil"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for shaun-musil."
+  ],
+  "handoff_summary": "Extracted 11948 raw evidence rows for shaun-musil."
+}

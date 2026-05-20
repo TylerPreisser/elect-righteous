@@ -1,0 +1,3790 @@
+{
+  "candidateSlug": "ken-rahjes",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceFiles": [
+    "memory/candidates/ken-rahjes/social-harvest.md",
+    "memory/candidates/ken-rahjes/evidence-matrix.json"
+  ],
+  "platformPresence": [],
+  "signals": [
+    {
+      "id": "soc-ken-rahjes-0001",
+      "evidenceRowId": "em-ken-rahjes-00003",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "https://kenforkansas.com/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        10,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use",
+      "confidence": "likely",
+      "observation": "Across the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https://kenforkansas.com/)) The same page routes supporters only to Facebook and X, saying, \"Receive future updates from Ken on Facebook & X.\" ([source](https://kenforkansas.com/))",
+      "sourceUrl": "https://kenforkansas.com/",
+      "sourceFile": "memory/candidates/ken-rahjes/in-their-own-words.md:5",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-in-their-own-words-md-l5"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0002",
+      "evidenceRowId": "em-ken-rahjes-01196",
+      "platform": "Facebook",
+      "actionType": "share/repost",
+      "target": "https://kenforkansas.com/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "LGBT / gender / parental rights",
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Economy / jobs / labor",
+        "Guns / Second Amendment",
+        "Immigration / border",
+        "Health care / insurance / Medicaid",
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "moderate",
+      "useDecision": "use-with-caveat",
+      "confidence": "likely",
+      "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \\\"A family man, built from trust and integrity\\\" and uses the slogan block \\\"TRUST...BUT VERIFY\\\" and \\\"Securing Your Future with Trust and Integrity.\\\" ([source](https://kenforkansas.com/)) The same page routes supporters only to Facebook and X, saying, \\\"Receive future updates from Ken on Facebook & X.\\\" ([source](https://kenforkansas.com/))\\n\\nThe clearest candidate-controlled secretary-of-state statement is the July 2025 filing post on his campaign site. Rahjes framed the office through business filings and election administration, saying Kansas should streamline business filings, improve the One Stop portal, continue security initiatives for election officials and poll workers, increase election-audit transparency, and produce fast, accurate results. In that post, he said, \\\"We have many great assets in our state, but the best one is our people,\\\" and, \\\"I will ensure Kansas will be a leader when it comes to election integrity and election security.\\\" ([source](https://kenforkansas.com/news/rahjes-files-for-secretary-of-state/))\\n\\nLocal coverage of his campaign stops repeats the same two-part argument. At a November 2025 Hays event, Rahjes said, \\\"I believe I'm most effective by looking you in the eye and having a conversation,\\\" and tied his run to county clerks, voter ID, ending the three-day mail-ballot grace period, and civic education in schools. On the business side, he described the secretary of state's office as the \\\"front door\\\" for people trying to operate in Kansas and said, \\\"let's make Kansas business-friendly again.\\\" ([source](https://hayspost.com/posts/d7c59a6a-6884-4ac9-aad1-7c9d728f5f5f))\\n\\nHis business-services message connects process reform to property-tax pressure. In Hays, Rahjes said he wanted entrepreneurs to avoid navigating multiple agencies and argued, \\\"There's no greater solution than to grow our tax base. I firmly believe that if you grow the base, then you will lower the rate.\\\" ([source](https://hayspost.com/posts/d7c59a6a-6884-4ac9-aad1-7c9d728f5f5f)) KVOE's March 2026 Emporia coverage likewise reported that he wanted to continue Scott Schwab's work making life easier for business owners and entrepreneurs, while also stressing that voters want their votes counted and secure. ([source](https://kvoe.com/2026/03/16/rahjes-in-emporia-touting-secretary-of-state-bid/))\\n\\nThe social footprint is present but not especially broad. Public Facebook metadata captured on May 11, 2026 listed [Ken For Kansas](https://www.facebook.com/kenforkansas/) at 985 likes and 210 talking about this, with the page description identifying Rahjes as a Kansas Secretary of State candidate and Kansas House member. The campaign-linked X handle is [@kenrahjes](https://x.com/kenrahjes); Muck Rack indexes it as a personal account for a small-business owner, agriculture broadcaster, and Kansas state representative, with the note that retweets do not imply endorsement. ([source](https://muckrack.com/ken-rahjes)) Logged-out capture did not expose a reliable post-level Facebook or X feed, so the harvest does not claim post counts, repost networks, or post-level engagement.\\n\\nRahjes' public identity outside the campaign is heavily rural and agricultural. The Kansas Legislature profile lists him as House District 110, chair of Agriculture and Natural Resources, and a member of Appropriations, Agriculture and Natural Resources Budget, Joint Committee on Special Claims Against the State, and the Water Program Task Force. ([source](https://www.kslegislature.gov/b2025_26/legislators/rep_rahjes_ken_1/)) Kansas Ag Report identifies him as host of a weekly agriculture television show focused on issues important to Kansas farmers and ranchers, and Apple Podcasts lists Kansas Ag Report as a 109-episode business-news podcast active from 2021 to 2023. ([Kansas Ag Report](https://kansasagreport.net/about), [Apple Podcasts](https://podcasts.apple.com/us/podcast/kansas-ag-report/id1551218249))\\n\\nThat rural frame also shows up in legislative coffees and issue coverage. In February 2026, Rahjes spoke about senior transportation, conservation, water, AI in campaigns, and NIL funding. On conservation and local control, he said, \\\"Me living in Agra should not tell Wichita County what they should do with their kids. Johnson County shouldn't tell Hays how much water they should use, and Hays shouldn't tell Johnson County how green their yard should be.\\\" On water, he said, \\\"If we don't have good conservation, which goes into water, then we're just dust.\\\" ([source](https://hayspost.com/posts/93f5e63a-dd1b-411a-98f8-c3ca8b2c187a))\\n\\nHis education and local-control language predates the secretary-of-state campaign and appears in local legislative coverage. In February 2025, Rahjes questioned the need for the U.S. Department of Education and said, \\\"Wouldn't it be nice to have local school boards decide what's best for the local school children instead of having some edict from D.C. that says what works in Houston works in Ellis?\\\" The same coverage records his support for limiting gender-transition procedures for minors and his comment that the issue applied to minors because of long-term consequences. ([source](https://hayspost.com/posts/c009ea47-7cfc-4c71-bad9-7dae18a389c6))\\n\\nThe reviewed set shows only limited direct engagement with national culture-war language. His campaign material uses \\\"trust,\\\" \\\"integrity,\\\" \\\"security,\\\" \\\"business-friendly,\\\" and rural stewardship more often than national partisan attack language. The accessible 2025-2026 campaign record did not show Rahjes attacking, tagging, or amplifying his Republican primary opponent Pat Proctor. It also did not show a meaningful candidate-controlled presence on Instagram, TikTok, Truth Social, Gab, Gettr, Substack, Reddit, or LinkedIn.\\n\\nSeveral issue areas do not appear at meaningful frequency in the accessible material reviewed. The public set did not include repeated candidate-controlled posts centered on Medicaid expansion, child care, housing costs, broadband, veterans services, immigration, border policy, guns, crime, federal foreign policy, or abortion beyond the older 2021 Value Them Both legislative update. Gender-transition policy, rural health, senior transportation, AI campaign misuse, education, water, and conservation appear in local legislative coverage, but the dominant secretary-of-state campaign frame remains elections plus business services.\\n\\nMethodology: Public capture was conducted on May 11, 2026. Date range covered: Nov. 8, 2016 to May 11, 2026 for public campaign-news archive and indexed public presence; campaign-period analysis emphasizes Feb. 9, 2025 to May 11, 2026. Platforms surveyed: campaign website, Facebook, X/Twitter, Instagram, LinkedIn, YouTube, PBS/Smoky Hills, Kansas Ag Report, Podbean, Apple Podcasts, Kansas Legislature, Hays Post, KVOE, Muck Rack, TikTok, Truth Social, Gab, Gettr, Substack, Reddit, and public search indexes. Items examined: 16 accessible original/profile/public-record/media items and 0 verified reposts. Login-walled or script-blocked material was not counted as reviewed. Engagement was reported only when visible in public metadata or indexed public listings on capture date. We report patterns; we do not interpret intent.\",",
+      "sourceUrl": "https://kenforkansas.com/",
+      "sourceFile": "ui/src/data/candidates.ts:27749",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l27749"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0003",
+      "evidenceRowId": "em-ken-rahjes-00694",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:99",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        2,
+        7,
+        8,
+        9,
+        11
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "LGBT / gender / parental rights",
+        "Guns / Second Amendment",
+        "Immigration / border",
+        "Health care / insurance / Medicaid",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "The accessible reviewed set did not include meaningful candidate-controlled social posting on abortion after the older 2021 Value Them Both reference, immigration, border policy, guns, crime beyond AI/campaign misuse and stalking minors in a 2021 legislative update, Medicaid expansion, child care, housing costs, broadband deployment, veterans services, or federal Trump/Biden national-politics messaging. Gender-transition policy for minors appeared in Hays Post's 2025 legislative coffee coverage, but it was not a repeated dominant campaign theme in the accessible candidate-controlled set.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:99",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l99"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0004",
+      "evidenceRowId": "em-ken-rahjes-00663",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/c009ea47-7cfc-4c71-bad9-7dae18a389c6",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        2,
+        3,
+        5,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "LGBT / gender / parental rights",
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Feb. 9, 2025 Hays Post legislative coffee coverage. Key themes: state spending, water conservation, local school control, gender-transition policy for minors, rural attorney shortage, and ethanol infrastructure. ([source](https://hayspost.com/posts/c009ea47-7cfc-4c71-bad9-7dae18a389c6))",
+      "sourceUrl": "https://hayspost.com/posts/c009ea47-7cfc-4c71-bad9-7dae18a389c6",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:53",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l53"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ken-rahjes-0005",
+      "evidenceRowId": "em-ken-rahjes-00657",
+      "platform": "kenforkansas.com",
+      "actionType": "post",
+      "target": "https://kenforkansas.com/news/welcome-back/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        5,
+        12
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Agriculture / rural economy / water"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Jan. 20, 2024 campaign-site relaunch post. Rahjes said he had filed for reelection to the Kansas House and continued to serve as chair of Agriculture and Natural Resources and on appropriations, higher education budget, and special claims committees. ([source](https://kenforkansas.com/news/welcome-back/))",
+      "sourceUrl": "https://kenforkansas.com/news/welcome-back/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:47",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l47"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ken-rahjes-0006",
+      "evidenceRowId": "em-ken-rahjes-00660",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/d7c59a6a-6884-4ac9-aad1-7c9d728f5f5f",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        5,
+        6,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Nov. 24, 2025 Hays Post campaign-event coverage. Key themes: speaking directly with voters, county clerks, voter ID, ending the mail-ballot grace period, school civic education, business filings, property taxes, and review of rules and regulations. ([source](https://hayspost.com/posts/d7c59a6a-6884-4ac9-aad1-7c9d728f5f5f))",
+      "sourceUrl": "https://hayspost.com/posts/d7c59a6a-6884-4ac9-aad1-7c9d728f5f5f",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:50",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l50"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ken-rahjes-0007",
+      "evidenceRowId": "em-ken-rahjes-00673",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:67",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Election administration, election security, voter ID, ballot deadlines, audit transparency, and civic education | 5 | Campaign filing post; Hays Post filing coverage; Hays Post Hays campaign stop; KVOE Emporia stop; Feb. 2026 AI/election-misuse discussion |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:67",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l67"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0008",
+      "evidenceRowId": "em-ken-rahjes-00677",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:71",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Education, local school control, youth civic education, scholarships, and NIL funding | 4 | 2021 update; 2025 Hays legislative coffee; 2025 Hays campaign stop; 2026 Hays legislative coffee |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:71",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l71"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0009",
+      "evidenceRowId": "em-ken-rahjes-00656",
+      "platform": "kenforkansas.com",
+      "actionType": "post",
+      "target": "https://kenforkansas.com/news/rahjes-files-for-secretary-of-state/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4,
+        6,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality",
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "July 8, 2025 campaign filing post. Key themes: election integrity and security, business filings, One Stop portal, campaign prayer/support/vote ask. ([source](https://kenforkansas.com/news/rahjes-files-for-secretary-of-state/))",
+      "sourceUrl": "https://kenforkansas.com/news/rahjes-files-for-secretary-of-state/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:46",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l46"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ken-rahjes-0010",
+      "evidenceRowId": "em-ken-rahjes-00658",
+      "platform": "kenforkansas.com",
+      "actionType": "post",
+      "target": "https://kenforkansas.com/news/first-adjournment-is-here/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        9
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Health care / insurance / Medicaid"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "May 12, 2021 campaign legislative update. Key themes: Value Them Both, property-tax transparency, Kansas Promise Scholarship Act, COVID liability protections, unemployment-system overhaul, budget work, and constituent contact. ([source](https://kenforkansas.com/news/first-adjournment-is-here/))",
+      "sourceUrl": "https://kenforkansas.com/news/first-adjournment-is-here/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:48",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l48"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ken-rahjes-0011",
+      "evidenceRowId": "em-ken-rahjes-00674",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:68",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        6,
+        10,
+        13,
+        14
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics",
+        "Environment / energy / land use"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Business filings, One Stop portal, entrepreneurs, business climate, tax base, property taxes, and rules/regulations review | 5 | Campaign filing post; Hays Post filing coverage; Hays Post Hays campaign stop; KVOE Emporia stop; 2021 property-tax/unemployment/business update |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:68",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l68"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0012",
+      "evidenceRowId": "em-ken-rahjes-00007",
+      "platform": "Facebook",
+      "actionType": "share/repost",
+      "target": "https://www.facebook.com/kenforkansas/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        12
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Agriculture / rural economy / water"
+      ],
+      "signalStrength": "moderate",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "The social footprint is present but not especially broad. Public Facebook metadata captured on May 11, 2026 listed [Ken For Kansas](https://www.facebook.com/kenforkansas/) at 985 likes and 210 talking about this, with the page description identifying Rahjes as a Kansas Secretary of State candidate and Kansas House member. The campaign-linked X handle is [@kenrahjes](https://x.com/kenrahjes); Muck Rack indexes it as a personal account for a small-business owner, agriculture broadcaster, and Kansas state representative, with the note that retweets do not imply endorsement. ([source](https://muckrack.com/ken-rahjes)) Logged-out capture did not expose a reliable post-level Facebook or X feed, so the harvest does not claim post counts, repost networks, or post-level engagement.",
+      "sourceUrl": "https://www.facebook.com/kenforkansas/",
+      "sourceFile": "memory/candidates/ken-rahjes/in-their-own-words.md:13",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-in-their-own-words-md-l13"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0013",
+      "evidenceRowId": "em-ken-rahjes-00635",
+      "platform": "X / Twitter",
+      "actionType": "post",
+      "target": "https://twitter.com/kenrahjes",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| X / Twitter | https://twitter.com/kenrahjes and https://x.com/kenrahjes | FOUND | Campaign site links twitter.com/kenrahjes. Muck Rack indexes the account as a personal account for Rahjes with the bio frame \"Small Business Owner, Agriculture Broadcaster, Kansas State representative 110th District\" and \"Retweets do not imply endorsement.\" Direct post inventory was not reliably accessible in logged-out capture. |",
+      "sourceUrl": "https://twitter.com/kenrahjes",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:17",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l17"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ken-rahjes-0014",
+      "evidenceRowId": "em-ken-rahjes-00648",
+      "platform": "kenforkansas.com",
+      "actionType": "post",
+      "target": "https://kenforkansas.com/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        12
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Agriculture / rural economy / water"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Rahjes' campaign site is the central candidate-controlled channel. The homepage introduces him as a farm-and-ranch Kansan from Agra, says he lives there with his wife Lori, and connects his public identity to trust, integrity, rural Kansas, small business, agriculture communications, and legislative service. The site's current slogan block reads \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https://kenforkansas.com/))",
+      "sourceUrl": "https://kenforkansas.com/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:32",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l32"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ken-rahjes-0015",
+      "evidenceRowId": "em-ken-rahjes-00650",
+      "platform": "kenforkansas.com",
+      "actionType": "post",
+      "target": "https://kenforkansas.com/news/rahjes-files-for-secretary-of-state/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "The campaign's July 2025 filing post is the clearest candidate-controlled secretary-of-state message. It says Rahjes filed as a Republican candidate, frames his business-services priority as streamlining filings and improving the One Stop online portal, and frames the elections priority as security initiatives for election officials and poll workers, transparency in election audits, and accurate results. Rahjes is quoted saying, \"I will ensure Kansas will be a leader when it comes to election integrity and election security.\" ([source](https://kenforkansas.com/news/rahjes-files-for-secretary-of-state/))",
+      "sourceUrl": "https://kenforkansas.com/news/rahjes-files-for-secretary-of-state/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:36",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l36"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ken-rahjes-0016",
+      "evidenceRowId": "em-ken-rahjes-00652",
+      "platform": "X / Twitter",
+      "actionType": "share/repost",
+      "target": "https://muckrack.com/ken-rahjes",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "moderate",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "The X handle exists because it is linked by the campaign site and indexed by Muck Rack. Muck Rack describes the account as Rahjes' personal account and summarizes the bio as, \"Small Business Owner, Agriculture Broadcaster, Kansas State representative 110th District (Retweets do not imply endorsement.).\" ([source](https://muckrack.com/ken-rahjes)) Direct X post inventory, reposts, follower counts, and post-level engagement were not reliably visible in logged-out capture.",
+      "sourceUrl": "https://muckrack.com/ken-rahjes",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:40",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l40"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0017",
+      "evidenceRowId": "em-ken-rahjes-00654",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://kenforkansas.com/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        12
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Agriculture / rural economy / water"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Campaign homepage, captured 2026-05-11. Key visible frames: trust, integrity, rural Kansas biography, agriculture communications, small business, legislative service, and social links to Facebook and X. ([source](https://kenforkansas.com/))",
+      "sourceUrl": "https://kenforkansas.com/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:44",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l44"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ken-rahjes-0018",
+      "evidenceRowId": "em-ken-rahjes-00675",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:69",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Agriculture, water, conservation, rural economy, ethanol, rural legal services, and Kansas Ag Report identity | 6 | Campaign homepage; Kansas Legislature committee record; Kansas Ag Report; 2025 and 2026 Hays legislative coffees; 2021 legislative update |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:69",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l69"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0019",
+      "evidenceRowId": "em-ken-rahjes-00682",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:79",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "No reviewed item showed Rahjes attacking, tagging, or amplifying his Republican primary opponent Pat Proctor. The accessible record treats the secretary-of-state race mostly as Rahjes' own argument about elections, business services, and administrative experience.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:79",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l79"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0020",
+      "evidenceRowId": "em-ken-rahjes-00662",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/93f5e63a-dd1b-411a-98f8-c3ca8b2c187a",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Feb. 9, 2026 Hays Post legislative coffee coverage. Key themes: rural senior transportation, rural health funding, conservation, water, AI campaign misuse, NIL funding, and local control. ([source](https://hayspost.com/posts/93f5e63a-dd1b-411a-98f8-c3ca8b2c187a))",
+      "sourceUrl": "https://hayspost.com/posts/93f5e63a-dd1b-411a-98f8-c3ca8b2c187a",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:52",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l52"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ken-rahjes-0021",
+      "evidenceRowId": "em-ken-rahjes-00678",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:72",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9,
+        12
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid",
+        "Agriculture / rural economy / water"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Healthcare, rural health funding, senior transportation, and COVID-era liability/unemployment administration | 3 | 2021 update; 2025 legislative coffee; 2026 legislative coffee |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:72",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l72"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0022",
+      "evidenceRowId": "em-ken-rahjes-00626",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:6",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Election slug: kansas-sos-2026",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:6",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l6"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0023",
+      "evidenceRowId": "em-ken-rahjes-00633",
+      "platform": "kenforkansas.com",
+      "actionType": "post",
+      "target": "https://kenforkansas.com/news",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Campaign news | https://kenforkansas.com/news | FOUND | Public archive includes one 2025 secretary-of-state filing post, a 2024 relaunch note, and older legislative updates. |",
+      "sourceUrl": "https://kenforkansas.com/news",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:15",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l15"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ken-rahjes-0024",
+      "evidenceRowId": "em-ken-rahjes-00655",
+      "platform": "kenforkansas.com",
+      "actionType": "post",
+      "target": "https://kenforkansas.com/news",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Campaign news archive, captured 2026-05-11. Current public archive shows one 2025 secretary-of-state filing post, one 2024 relaunch note, 2021 legislative updates, and older legislative/campaign updates dating back to 2016. ([source](https://kenforkansas.com/news))",
+      "sourceUrl": "https://kenforkansas.com/news",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:45",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l45"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ken-rahjes-0025",
+      "evidenceRowId": "em-ken-rahjes-00659",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/7178f5e9-d6e8-4fe0-af51-8ebe54531561",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "July 1, 2025 Hays Post filing coverage carrying the campaign announcement. Key quotes: \"We have many great assets in our state, but the best one is our people\"; \"I will ensure Kansas will be a leader when it comes to election integrity and election security\"; and \"I enter this race with a sense of honor and conviction.\" ([source](https://hayspost.com/posts/7178f5e9-d6e8-4fe0-af51-8ebe54531561))",
+      "sourceUrl": "https://hayspost.com/posts/7178f5e9-d6e8-4fe0-af51-8ebe54531561",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:49",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l49"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ken-rahjes-0026",
+      "evidenceRowId": "em-ken-rahjes-00679",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:73",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Campaign identity and platform presence metadata | 4 | Campaign homepage/news archive; Facebook metadata; X/Muck Rack metadata; Johnson County filing/campaign-site linkage in candidate record |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:73",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l73"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0027",
+      "evidenceRowId": "em-ken-rahjes-00681",
+      "platform": "Facebook",
+      "actionType": "share/repost",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:77",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "moderate",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "The logged-out capture did not expose a reliable repost inventory from Facebook or X. No repost counts, quote-post counts, share counts, or amplification network are reported. The visible amplification pattern is channel routing: the campaign site routes users to Facebook and X; Hays Post and Western Kansas media republished or reported the July 2025 filing message; KVOE and Hays Post captured in-person campaign stops; PBS/Smoky Hills captured legislative appearances.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:77",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l77"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0028",
+      "evidenceRowId": "em-ken-rahjes-01118",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/PatProctorKS/videos/enforcing-our-election-laws/1920239725529443/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Proctor's public alignment network on his own feed centers on Kansas Republican officeholders, election-policy organizations, and his own legislative work product. His Facebook page features a campaign video titled [\"Kris Kobach Wanted This 20-Year-Old To Go To Jail For…\"](https://www.facebook.com/PatProctorKS/videos/enforcing-our-election-laws/1920239725529443/) framing his own enforcement stance against Attorney General Kris Kobach's. A separate page post identifies him as \"the chairman of your House Elections Committee and as your next Secretary of State\" ([source](https://www.facebook.com/PatProctorKS/posts/as-the-chairman-of-your-house-elections-committee-and-as-your-next-secretary-of-/1227794369167664/)). An October 2025 [YouTube video](https://www.youtube.com/watch?v=HsDMhN6Ltbs) records his endorsement of Steve Clay for Leavenworth City Commission, the only down-ballot endorsement visible in the harvested set. The harvested set contains no posts amplifying, tagging, or appearing alongside his Republican primary opponent for Secretary of State, Rep. Ken Rahjes.",
+      "sourceUrl": "https://www.facebook.com/PatProctorKS/videos/enforcing-our-election-laws/1920239725529443/",
+      "sourceFile": "ui/src/data/candidates.ts:27341",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l27341"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ken-rahjes-0029",
+      "evidenceRowId": "em-ken-rahjes-00668",
+      "platform": "kansasagreport.net",
+      "actionType": "post",
+      "target": "https://kansasagreport.net/about",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        12
+      ],
+      "issueLabels": [
+        "Agriculture / rural economy / water"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Kansas Ag Report public profile. Candidate-adjacent professional channel identifies Kansas Ag Report as a weekly agriculture television show hosted by Rahjes and part of Authentic Ag Inc.; it is not treated as campaign content. ([source](https://kansasagreport.net/about))",
+      "sourceUrl": "https://kansasagreport.net/about",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:58",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l58"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ken-rahjes-0030",
+      "evidenceRowId": "em-ken-rahjes-00676",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:70",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Legislative service, committee work, local control, and rural constituent access | 7 | Campaign homepage; 2024 relaunch; Kansas Legislature profile; PBS appearances; Hays legislative coffees; Hays campaign stop |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:70",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l70"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0031",
+      "evidenceRowId": "em-ken-rahjes-00646",
+      "platform": "Public web / internal harvest",
+      "actionType": "absence",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:28",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Reddit | Public web/search check | NOT FOUND | No official candidate account surfaced in public search. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:28",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l28"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-ken-rahjes-0032",
+      "evidenceRowId": "em-ken-rahjes-00622",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Social Media Harvest -- Ken Rahjes",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:1",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0033",
+      "evidenceRowId": "em-ken-rahjes-00623",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Candidate: Ken Rahjes",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:3",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0034",
+      "evidenceRowId": "em-ken-rahjes-00624",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:4",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Slug: ken-rahjes",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:4",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l4"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0035",
+      "evidenceRowId": "em-ken-rahjes-00625",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:5",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Race: Kansas Secretary of State (R)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:5",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l5"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0036",
+      "evidenceRowId": "em-ken-rahjes-00627",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:7",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Capture date: 2026-05-11",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:7",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l7"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0037",
+      "evidenceRowId": "em-ken-rahjes-00628",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Capture mode: logged-out public web capture, campaign-site HTML, public search results, Facebook/X public metadata, Kansas Legislature records, public media coverage, and indexed public video/podcast listings.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:8",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l8"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0038",
+      "evidenceRowId": "em-ken-rahjes-00629",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:10",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Presence Detector",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:10",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l10"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0039",
+      "evidenceRowId": "em-ken-rahjes-00630",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:12",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Platform | Account / URL | Public status | Notes |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:12",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l12"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0040",
+      "evidenceRowId": "em-ken-rahjes-00631",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:13",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| --- | --- | --- | --- |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:13",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l13",
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l66",
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l86"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0041",
+      "evidenceRowId": "em-ken-rahjes-00632",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://kenforkansas.com/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Campaign site | https://kenforkansas.com/ | FOUND | Active campaign site. Homepage links Facebook and X and says future updates are available on those platforms. |",
+      "sourceUrl": "https://kenforkansas.com/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:14",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l14"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0042",
+      "evidenceRowId": "em-ken-rahjes-00634",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/kenforkansas/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Facebook | https://www.facebook.com/kenforkansas/ | FOUND | Campaign site links this page. Public metadata captured 2026-05-11 listed 985 likes and 210 talking about this, and described Rahjes as a candidate for Kansas Secretary of State. Post inventory was not reliably accessible in logged-out capture. |",
+      "sourceUrl": "https://www.facebook.com/kenforkansas/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:16",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l16"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0043",
+      "evidenceRowId": "em-ken-rahjes-00637",
+      "platform": "YouTube",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:19",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| YouTube / PBS | Smoky Hills PBS / PBS public episodes | FOUND | Public listings identify Rahjes appearances on \"The Kansas Legislature\" on 2025-02-07, 2025-03-21, and 2025-04-04. YouTube listing for the 2025-03-21 episode showed 43 views in indexed metadata. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:19",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l19"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0044",
+      "evidenceRowId": "em-ken-rahjes-00638",
+      "platform": "kansasagreport.net",
+      "actionType": "post",
+      "target": "https://kansasagreport.net/about",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Kansas Ag Report | https://kansasagreport.net/about and https://kansasagreport.podbean.com/ | FOUND | Candidate-adjacent professional channel, not a campaign account. Kansas Ag Report identifies Rahjes as host; Podbean/Apple listings show 109 episodes active 2021-2023. |",
+      "sourceUrl": "https://kansasagreport.net/about",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:20",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l20"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0045",
+      "evidenceRowId": "em-ken-rahjes-00639",
+      "platform": "LinkedIn",
+      "actionType": "absence",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:21",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| LinkedIn | Public web/search check | NOT FOUND | No clear candidate-controlled LinkedIn account surfaced in public search. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:21",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l21"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-ken-rahjes-0046",
+      "evidenceRowId": "em-ken-rahjes-00640",
+      "platform": "Instagram",
+      "actionType": "absence",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:22",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Instagram | Public web/search check | NOT FOUND | No clear candidate-controlled Instagram account surfaced in public search or campaign-site links. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:22",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l22"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-ken-rahjes-0047",
+      "evidenceRowId": "em-ken-rahjes-00641",
+      "platform": "TikTok",
+      "actionType": "absence",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:23",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| TikTok | Public web/search check | NOT FOUND | No clear candidate account surfaced in public search. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:23",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l23"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-ken-rahjes-0048",
+      "evidenceRowId": "em-ken-rahjes-00642",
+      "platform": "Public web / internal harvest",
+      "actionType": "absence",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:24",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Truth Social | Public web/search check | NOT FOUND | No clear candidate account surfaced in public search. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:24",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l24"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-ken-rahjes-0049",
+      "evidenceRowId": "em-ken-rahjes-00643",
+      "platform": "Public web / internal harvest",
+      "actionType": "absence",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:25",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Gab | Public web/search check | NOT FOUND | No clear candidate account surfaced in public search. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:25",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l25"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-ken-rahjes-0050",
+      "evidenceRowId": "em-ken-rahjes-00644",
+      "platform": "Public web / internal harvest",
+      "actionType": "absence",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:26",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Gettr | Public web/search check | NOT FOUND | No clear candidate account surfaced in public search. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:26",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l26"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-ken-rahjes-0051",
+      "evidenceRowId": "em-ken-rahjes-00645",
+      "platform": "Public web / internal harvest",
+      "actionType": "absence",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:27",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Substack | Public web/search check | NOT FOUND | No clear candidate account surfaced in public search. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:27",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l27"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-ken-rahjes-0052",
+      "evidenceRowId": "em-ken-rahjes-00647",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:30",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Public Platform Signals",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:30",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l30"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0053",
+      "evidenceRowId": "em-ken-rahjes-00649",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/kenforkansas/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "The campaign site's own social block says, \"Receive future updates from Ken on Facebook & X,\" and the live HTML links to [Facebook kenforkansas](https://www.facebook.com/kenforkansas/) and [X/Twitter kenrahjes](https://twitter.com/kenrahjes). The site does not link Instagram, YouTube, LinkedIn, TikTok, Truth Social, Gab, Gettr, Substack, or Reddit. ([source](https://kenforkansas.com/))",
+      "sourceUrl": "https://www.facebook.com/kenforkansas/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:34",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l34"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0054",
+      "evidenceRowId": "em-ken-rahjes-00651",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/kenforkansas/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Public Facebook metadata captured on 2026-05-11 listed \"Ken For Kansas. 985 likes; 210 talking about this\" and described the page as, \"Ken Rahjes is a candidate for Kansas Secretary of State. Currently, he serves as a member of the Kansas House of Representatives for the 110th...\" ([source](https://www.facebook.com/kenforkansas/)) The page's current profile image appears tied to the 2025 secretary-of-state campaign refresh. Post-level text and engagement were not reliably visible in logged-out capture.",
+      "sourceUrl": "https://www.facebook.com/kenforkansas/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:38",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l38"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0055",
+      "evidenceRowId": "em-ken-rahjes-00653",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:42",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Public-Record Items Reviewed",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:42",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l42"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0056",
+      "evidenceRowId": "em-ken-rahjes-00665",
+      "platform": "pbs.org",
+      "actionType": "post",
+      "target": "https://www.pbs.org/video/the-kansas-legislature-02-07-25-c4vuoh/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "PBS / Smoky Hills listing for \"The Kansas Legislature\" on 2025-02-07. Public listing identifies Rahjes as a participating legislator. ([source](https://www.pbs.org/video/the-kansas-legislature-02-07-25-c4vuoh/))",
+      "sourceUrl": "https://www.pbs.org/video/the-kansas-legislature-02-07-25-c4vuoh/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:55",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l55"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0057",
+      "evidenceRowId": "em-ken-rahjes-00666",
+      "platform": "YouTube",
+      "actionType": "post",
+      "target": "https://www.pbs.org/video/the-kansas-legislature-03-21-25-oqk5aq/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "PBS / Smoky Hills listing for \"The Kansas Legislature\" on 2025-03-21. Public listing identifies Rahjes and Rep. Adam Smith as guests; YouTube indexed metadata for the same episode showed 43 views. ([source](https://www.pbs.org/video/the-kansas-legislature-03-21-25-oqk5aq/))",
+      "sourceUrl": "https://www.pbs.org/video/the-kansas-legislature-03-21-25-oqk5aq/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:56",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l56"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0058",
+      "evidenceRowId": "em-ken-rahjes-00667",
+      "platform": "pbs.org",
+      "actionType": "post",
+      "target": "https://www.pbs.org/video/the-kansas-legislature-04-04-25-lubels/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "PBS / Smoky Hills listing for \"The Kansas Legislature\" on 2025-04-04. Public listing identifies Rahjes and Rep. Rui Xu as guests. ([source](https://www.pbs.org/video/the-kansas-legislature-04-04-25-lubels/))",
+      "sourceUrl": "https://www.pbs.org/video/the-kansas-legislature-04-04-25-lubels/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:57",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l57"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0059",
+      "evidenceRowId": "em-ken-rahjes-00669",
+      "platform": "podcasts.apple.com",
+      "actionType": "post",
+      "target": "https://podcasts.apple.com/us/podcast/kansas-ag-report/id1551218249",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Kansas Ag Report podcast listing. Public listings describe Rahjes as host for closing commodity quotes and show 109 episodes, active 2021-2023. ([source](https://podcasts.apple.com/us/podcast/kansas-ag-report/id1551218249))",
+      "sourceUrl": "https://podcasts.apple.com/us/podcast/kansas-ag-report/id1551218249",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:59",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l59"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0060",
+      "evidenceRowId": "em-ken-rahjes-00670",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:61",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Topic Share Analysis",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:61",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l61"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0061",
+      "evidenceRowId": "em-ken-rahjes-00671",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:63",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "This topic read is based on 16 accessible original/profile/public-record/media items. One item may count in more than one bucket when the same public item clearly addressed multiple topics. Login-walled or script-blocked posts were not counted as reviewed.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:63",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l63"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0062",
+      "evidenceRowId": "em-ken-rahjes-00672",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:65",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Topic bucket | Items | Signal |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:65",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l65"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0063",
+      "evidenceRowId": "em-ken-rahjes-00680",
+      "platform": "Public web / internal harvest",
+      "actionType": "share/repost",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:75",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Repost / Amplification Review",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:75",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l75"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0064",
+      "evidenceRowId": "em-ken-rahjes-00683",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:81",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Engagement Review",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:81",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l81"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0065",
+      "evidenceRowId": "em-ken-rahjes-00684",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:83",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Exact post-level engagement was not visible for the captured X, Facebook, PBS, YouTube, or campaign-site items. The verified public engagement and audience metrics available in logged-out/indexed capture were:",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:83",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l83"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0066",
+      "evidenceRowId": "em-ken-rahjes-00685",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:85",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Platform | Public metric captured |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:85",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l85"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0067",
+      "evidenceRowId": "em-ken-rahjes-00686",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:87",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Facebook | 985 likes; 210 talking about this; captured from public metadata on 2026-05-11 |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:87",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l87"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0068",
+      "evidenceRowId": "em-ken-rahjes-00687",
+      "platform": "YouTube",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:88",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| YouTube / Smoky Hills PBS | Indexed metadata for \"The Kansas Legislature - March 21, 2025\" showed 43 views and SmokyHillsPBS at 3,940 followers; captured 2026-05-11 |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:88",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l88"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0069",
+      "evidenceRowId": "em-ken-rahjes-00688",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:89",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Apple Podcasts / Kansas Ag Report | Public listing showed 109 episodes, active 2021-2023, 0.0 rating with 0 ratings; candidate-adjacent professional channel, not campaign engagement |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:89",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l89"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0070",
+      "evidenceRowId": "em-ken-rahjes-00689",
+      "platform": "X / Twitter",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:90",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| X | Handle found and campaign-linked; post-level engagement and follower count not reliably visible in logged-out capture |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:90",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l90"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0071",
+      "evidenceRowId": "em-ken-rahjes-00690",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:91",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Campaign site | Public content accessible; no engagement metrics |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:91",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l91"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0072",
+      "evidenceRowId": "em-ken-rahjes-00691",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:93",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Highest visible engagement: the campaign Facebook page metadata, with 985 likes and 210 talking about this, was the largest verified public engagement/audience signal captured. The highest visible post/video-level number was the indexed 43 views for the 2025-03-21 Smoky Hills PBS YouTube episode, but that is an episode including Rahjes, not a campaign post.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:93",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l93"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0073",
+      "evidenceRowId": "em-ken-rahjes-00692",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:95",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Visible Absences",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:95",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l95"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0074",
+      "evidenceRowId": "em-ken-rahjes-00693",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:97",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "The accessible reviewed set did not show a candidate-controlled Instagram, LinkedIn, TikTok, Truth Social, Gab, Gettr, Substack, or Reddit account. The campaign site links only Facebook and X.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:97",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l97"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0075",
+      "evidenceRowId": "em-ken-rahjes-00696",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:103",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Methodology",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:103",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l103"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0076",
+      "evidenceRowId": "em-ken-rahjes-00697",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:105",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Date range covered: 2016-11-08 to 2026-05-11 for the public campaign-news archive and indexed public presence; primary 2025-2026 campaign/social read covers 2025-02-09 to 2026-05-11. Capture was conducted on 2026-05-11.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:105",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l105"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0077",
+      "evidenceRowId": "em-ken-rahjes-00698",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:107",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Platforms and sources surveyed: campaign website, campaign news archive, Facebook, X/Twitter, Instagram, LinkedIn, YouTube, PBS/Smoky Hills, Kansas Ag Report, Podbean, Apple Podcasts, Kansas Legislature, Hays Post, KVOE, Muck Rack, TikTok, Truth Social, Gab, Gettr, Substack, Reddit, and public search indexes.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:107",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l107"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0078",
+      "evidenceRowId": "em-ken-rahjes-00699",
+      "platform": "Public web / internal harvest",
+      "actionType": "share/repost",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:109",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Items examined: 16 accessible original/profile/public-record/media items and 0 verified reposts. Login-walled, JavaScript-blocked, or script-only post feeds were marked as inaccessible and were not counted as reviewed. Engagement was used only where visible in public metadata or indexed public listings on capture date.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:109",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l109"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0079",
+      "evidenceRowId": "em-ken-rahjes-00700",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:111",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Disclaimer: This is a public, logged-out harvest. It reports observable public signals and source-linked statements; it does not infer private activity, deleted posts, paid targeting, private groups, email/SMS content, or intent.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:111",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l111"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0080",
+      "evidenceRowId": "em-ken-rahjes-00821",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/kenforkansas/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "\"url\": \"https://www.facebook.com/kenforkansas/\",",
+      "sourceUrl": "https://www.facebook.com/kenforkansas/",
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:799",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l248",
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l258",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l787",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l799"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0081",
+      "evidenceRowId": "em-ken-rahjes-00539",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/site-profile.md:15",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Abortion / Sanctity of Life: Runs as a Republican. The Kansas Republican Party platform supports the right to life from conception. No specific personal statement found in public sources. on abortion in the context of this race.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/site-profile.md:15",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-site-profile-md-l15"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0082",
+      "evidenceRowId": "em-ken-rahjes-01328",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:357",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Guns / Second Amendment",
+        "Immigration / border",
+        "Health care / insurance / Medicaid",
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"The accessible reviewed set did not include meaningful candidate-controlled social posting on abortion after the older 2021 Value Them Both reference, immigration, border policy, guns, crime beyond AI/campaign misuse and stalking minors in a 2021 legislative update, Medicaid expansion, child care, housing costs, broadband deployment, veterans services, or federal Trump/Biden national-politics messaging....\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:357",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ken-rahjes-ts-l357"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0083",
+      "evidenceRowId": "em-ken-rahjes-00540",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/site-profile.md:17",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        2
+      ],
+      "issueLabels": [
+        "LGBT / gender / parental rights"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/site-profile.md:17",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-site-profile-md-l17"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0084",
+      "evidenceRowId": "em-ken-rahjes-00544",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/site-profile.md:25",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        2,
+        3
+      ],
+      "issueLabels": [
+        "LGBT / gender / parental rights",
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "School Choice / Parental Rights in Education: Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/site-profile.md:25",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-site-profile-md-l25"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0085",
+      "evidenceRowId": "em-ken-rahjes-00384",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/raw-dump.md:412",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Curriculum standards -- what Kansas kids learn in math, science, reading, writing, and social studies (yes, including what gets taught about evolution, history, and sex education)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:412",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-raw-dump-md-l412"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0086",
+      "evidenceRowId": "em-ken-rahjes-00541",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/site-profile.md:19",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Religious Liberty: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/site-profile.md:19",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-site-profile-md-l19"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0087",
+      "evidenceRowId": "em-ken-rahjes-00011",
+      "platform": "Instagram",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/in-their-own-words.md:21",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        10,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "The reviewed set shows only limited direct engagement with national culture-war language. His campaign material uses \"trust,\" \"integrity,\" \"security,\" \"business-friendly,\" and rural stewardship more often than national partisan attack language. The accessible 2025-2026 campaign record did not show Rahjes attacking, tagging, or amplifying his Republican primary opponent Pat Proctor. It also did not show a meaningful candidate-controlled presence on Instagram, TikTok, Truth Social, Gab, Gettr, Substack, Reddit, or LinkedIn.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/in-their-own-words.md:21",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-in-their-own-words-md-l21"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0088",
+      "evidenceRowId": "em-ken-rahjes-01315",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:211",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        10,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"1. Campaign homepage, captured 2026-05-11. Key visible frames: trust, integrity, rural Kansas biography, agriculture communications, small business, legislative service, and social links to Facebook and X. (source) 2. Campaign news archive, captured 2026-05-11. Current public archive shows one 2025 secretary-of-state filing post, one 2024 relaunch note, 2021 legislative updates, and older legislative/campaign...\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:211",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ken-rahjes-ts-l211"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0089",
+      "evidenceRowId": "em-ken-rahjes-01316",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:222",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"action-campaign-business-services-platform\"",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:222",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ken-rahjes-ts-l222"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0090",
+      "evidenceRowId": "em-ken-rahjes-00542",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/site-profile.md:21",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        7,
+        10
+      ],
+      "issueLabels": [
+        "Guns / Second Amendment",
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Guns / Second Amendment: Runs as a Republican. The Kansas Republican Party platform supports Second Amendment rights without restrictions. No specific personal statement found in public sources. on gun policy in the context of this race.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/site-profile.md:21",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-site-profile-md-l21"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0091",
+      "evidenceRowId": "em-ken-rahjes-00543",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/site-profile.md:23",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        8,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Immigration / border",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Immigration / Border: Runs as a Republican. The Kansas Republican Party platform supports border security and enforcement of immigration laws. No specific personal statement found in public sources. on immigration in the context of this race.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/site-profile.md:23",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-site-profile-md-l23"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0092",
+      "evidenceRowId": "em-ken-rahjes-00002",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/in-their-own-words.md:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/in-their-own-words.md:3",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-in-their-own-words-md-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0093",
+      "evidenceRowId": "em-ken-rahjes-00013",
+      "platform": "Facebook",
+      "actionType": "share/repost",
+      "target": "memory/candidates/ken-rahjes/in-their-own-words.md:25",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Methodology: Public capture was conducted on May 11, 2026. Date range covered: Nov. 8, 2016 to May 11, 2026 for public campaign-news archive and indexed public presence; campaign-period analysis emphasizes Feb. 9, 2025 to May 11, 2026. Platforms surveyed: campaign website, Facebook, X/Twitter, Instagram, LinkedIn, YouTube, PBS/Smoky Hills, Kansas Ag Report, Podbean, Apple Podcasts, Kansas Legislature, Hays Post, KVOE, Muck Rack, TikTok, Truth Social, Gab, Gettr, Substack, Reddit, and public search indexes. Items examined: 16 accessible original/profile/public-record/media items and 0 verified reposts. Login-walled or script-blocked material was not counted as reviewed. Engagement was reported only when visible in public metadata or indexed public listings on capture date. We report patterns; we do not interpret intent.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/in-their-own-words.md:25",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-in-their-own-words-md-l25"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0094",
+      "evidenceRowId": "em-ken-rahjes-00178",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/raw-dump-v2.md:273",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Campaign site links only Facebook and X.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump-v2.md:273",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-raw-dump-v2-md-l273"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0095",
+      "evidenceRowId": "em-ken-rahjes-00585",
+      "platform": "Facebook",
+      "actionType": "share/repost",
+      "target": "memory/candidates/ken-rahjes/sleuth-pass.md:32",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Facebook and X routing: The campaign homepage says supporters can receive future updates from Facebook and X and links to X/Twitter kenrahjes and Facebook kenforkansas. Logged-out post-level capture remains unreliable; do not cite unseen posts, replies, reposts, likes, or engagement.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/sleuth-pass.md:32",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-sleuth-pass-md-l32"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0096",
+      "evidenceRowId": "em-ken-rahjes-00619",
+      "platform": "Facebook",
+      "actionType": "share/repost",
+      "target": "memory/candidates/ken-rahjes/sleuth-pass.md:110",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Logged-out Facebook and X access did not expose reliable post-level timelines, engagement, comments, or repost networks. Social evidence is limited to presence, campaign-site routing, and public metadata/indexing.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/sleuth-pass.md:110",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-sleuth-pass-md-l110"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0097",
+      "evidenceRowId": "em-ken-rahjes-00621",
+      "platform": "Instagram",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/sleuth-pass.md:112",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No candidate-controlled LinkedIn, Instagram, TikTok, Truth Social, Gab, Gettr, Substack, or Reddit account was confirmed beyond the prior local harvest's absence notes.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/sleuth-pass.md:112",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-sleuth-pass-md-l112"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0098",
+      "evidenceRowId": "em-ken-rahjes-00707",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/v2-issues.yaml:8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Candidate-controlled issue statements come mainly from kenforkansas.com; no post-level social timeline was reliably accessible logged-out.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/v2-issues.yaml:8",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l8"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0099",
+      "evidenceRowId": "em-ken-rahjes-00755",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/v2-issues.yaml:100",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Campaign site links Facebook and X only\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/v2-issues.yaml:100",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l100",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l602"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0100",
+      "evidenceRowId": "em-ken-rahjes-00875",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:127",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Campaign website\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:127",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l327",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l127"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0101",
+      "evidenceRowId": "em-ken-rahjes-00876",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:128",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"The campaign site routes voters to Facebook and X for future updates, but post-level timelines were not reliably accessible logged-out.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:128",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l328",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l128"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0102",
+      "evidenceRowId": "em-ken-rahjes-00890",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/v2-issues.yaml:355",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "outcome: \"Creates a candidate-controlled platform anchor; no office action exists because Rahjes is not the incumbent Secretary of State.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/v2-issues.yaml:355",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l355"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0103",
+      "evidenceRowId": "em-ken-rahjes-00999",
+      "platform": "Instagram",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/v2-issues.yaml:550",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"LinkedIn, Instagram, TikTok, Truth Social, Gab, Gettr, Substack, or Reddit candidate-controlled accounts beyond prior absence notes.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/v2-issues.yaml:550",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l550"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0104",
+      "evidenceRowId": "em-ken-rahjes-01197",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:27751",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"Campaign website\",\"Facebook\",\"X / Twitter\",\"Instagram\",\"LinkedIn\",\"YouTube\",\"PBS / Smoky Hills\",\"Kansas Ag Report\",\"Podbean\",\"Apple Podcasts\",\"Kansas Legislature\",\"Hays Post\",\"KVOE\",\"Muck Rack\",\"TikTok\",\"Truth Social\",\"Gab\",\"Gettr\",\"Substack\",\"Reddit\",\"Public search indexes\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:27751",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l27751"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0105",
+      "evidenceRowId": "em-ken-rahjes-01237",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:28121",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"Campaign website\",\"Bluesky\",\"X / Twitter\",\"Instagram\",\"Facebook\",\"YouTube\",\"LinkedIn\",\"TikTok\",\"Threads\",\"Truth Social\",\"Gab\",\"Gettr\",\"Substack\",\"Reddit\",\"DASS\",\"Kansas Democratic Party pages\",\"Indexed election guides\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:28121",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l28121"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0106",
+      "evidenceRowId": "em-ken-rahjes-01292",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:58",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025...\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:58",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ken-rahjes-ts-l58"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0107",
+      "evidenceRowId": "em-ken-rahjes-00166",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/raw-dump-v2.md:252",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        12
+      ],
+      "issueLabels": [
+        "Agriculture / rural economy / water"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social/professional signal: Kansas Ag Report confirms agriculture-media role.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump-v2.md:252",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-raw-dump-v2-md-l252"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0108",
+      "evidenceRowId": "em-ken-rahjes-00179",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/raw-dump-v2.md:274",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Prior local harvest captured Facebook public metadata on May 11, 2026: 985 likes and 210 talking about this, but this pass did not independently re-capture page metrics.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump-v2.md:274",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-raw-dump-v2-md-l274"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0109",
+      "evidenceRowId": "em-ken-rahjes-00571",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/sleuth-pass.md:10",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "This pass uses existing local research first (raw-dump.md, social-harvest.md, in-their-own-words.md, and ui/src/data/v2/ken-rahjes.ts), then targeted current verification from official and campaign-controlled sources. Primary-source checks focused on the Kansas Secretary of State candidate page, KPDC/Kansas.gov campaign-finance reports, Kansas Legislature pages, the campaign site, and government press releases.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/sleuth-pass.md:10",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-sleuth-pass-md-l10"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0110",
+      "evidenceRowId": "em-ken-rahjes-01124",
+      "platform": "Facebook",
+      "actionType": "share/repost",
+      "target": "ui/src/data/candidates.ts:27355",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Methodology: Date range covered: April 2025 to May 2026. Platforms surveyed via direct visit where accessible and via Google indexed snippets where login-walled: X (@RealPatProctor), Facebook (PatProctorKS), YouTube (@patproctorforkansas655), Instagram (@patproctor4ks), LinkedIn. Posts examined: approximately 30 indexed posts across platforms plus campaign launch and committee-chair videos. Reposts examined: limited indexed sample. Engagement counts captured at time of harvest where visible; precise follower/like counts not captured because Facebook, X, and Instagram blocked direct profile fetch during this harvest window. Quotes are verbatim from indexed sources; links lead to source. We report patterns; we do not interpret intent.,",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:27355",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l27355"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0111",
+      "evidenceRowId": "em-ken-rahjes-00090",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/raw-dump-v2.md:127",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social links only to X/Twitter and Facebook.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump-v2.md:127",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-raw-dump-v2-md-l127"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0112",
+      "evidenceRowId": "em-ken-rahjes-00119",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/raw-dump-v2.md:185",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Profile text identifies the linked social account as personal and says retweets do not imply endorsement.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump-v2.md:185",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-raw-dump-v2-md-l185"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0113",
+      "evidenceRowId": "em-ken-rahjes-00176",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/raw-dump-v2.md:269",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social / Online Relevance",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump-v2.md:269",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-raw-dump-v2-md-l269"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0114",
+      "evidenceRowId": "em-ken-rahjes-00177",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/raw-dump-v2.md:271",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social evidence should be treated as presence-only:",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump-v2.md:271",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-raw-dump-v2-md-l271"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0115",
+      "evidenceRowId": "em-ken-rahjes-00182",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/raw-dump-v2.md:277",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No verified post-level material from Facebook, X, LinkedIn, Instagram, TikTok, Truth Social, Gab, Gettr, Substack, or Reddit is available for issue mapping.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump-v2.md:277",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-raw-dump-v2-md-l277"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0116",
+      "evidenceRowId": "em-ken-rahjes-00187",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/raw-dump-v2.md:284",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Logged-out social capture is insufficient for post-level social narrative.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump-v2.md:284",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-raw-dump-v2-md-l284"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0117",
+      "evidenceRowId": "em-ken-rahjes-00582",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/sleuth-pass.md:26",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Online / Social Presence Observations",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/sleuth-pass.md:26",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-sleuth-pass-md-l26"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0118",
+      "evidenceRowId": "em-ken-rahjes-00708",
+      "platform": "Public web / internal harvest",
+      "actionType": "share/repost",
+      "target": "memory/candidates/ken-rahjes/v2-issues.yaml:9",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Social signals are limited to platform presence/routing and professional-public identity; no likes, reposts, comments, or unseen posts are used as issue evidence.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/v2-issues.yaml:9",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l9"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0119",
+      "evidenceRowId": "em-ken-rahjes-00815",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:773",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"tier\": \"social\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:773",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l237",
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l247",
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l257",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l773",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l786",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l798"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0120",
+      "evidenceRowId": "em-ken-rahjes-00822",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:788",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"title\": \"X/Twitter kenrahjes\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:788",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l249",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l788"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0121",
+      "evidenceRowId": "em-ken-rahjes-00823",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:789",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"publisher\": \"X / Twitter\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:789",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l250",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l789"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0122",
+      "evidenceRowId": "em-ken-rahjes-00827",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:801",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"publisher\": \"Facebook\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:801",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l260",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l801"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0123",
+      "evidenceRowId": "em-ken-rahjes-00879",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/v2-issues.yaml:333",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "s-facebook",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/v2-issues.yaml:333",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l333",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l133"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0124",
+      "evidenceRowId": "em-ken-rahjes-00919",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:277",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Kansas Ag Report\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:277",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l406",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l277"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0125",
+      "evidenceRowId": "em-ken-rahjes-00923",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:287",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Muck Rack / X profile metadata\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:287",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l413",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l287"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0126",
+      "evidenceRowId": "em-ken-rahjes-00994",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/v2-issues.yaml:544",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Logged-out Facebook and X did not expose reliable post-level content or engagement; social signals are presence-only.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/v2-issues.yaml:544",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l544"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0127",
+      "evidenceRowId": "em-ken-rahjes-00998",
+      "platform": "Facebook",
+      "actionType": "share/repost",
+      "target": "memory/candidates/ken-rahjes/v2-issues.yaml:549",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Post-level Facebook/X statements, replies, reposts, or engagement totals.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/v2-issues.yaml:549",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l549"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0128",
+      "evidenceRowId": "em-ken-rahjes-01046",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "reports/sos-insurance-ks01-all-candidates-complete.md:146",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "President, Authentic Ag, Inc. (per LinkedIn)",
+      "sourceUrl": null,
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:146",
+      "sourceIds": [
+        "mem-reports-sos-insurance-ks01-all-candidates-complete-md-l146"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0129",
+      "evidenceRowId": "em-ken-rahjes-01126",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:27357",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"X\", \"Facebook\", \"YouTube\", \"Instagram\", \"LinkedIn\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:27357",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l27357"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0130",
+      "evidenceRowId": "em-ken-rahjes-01282",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:1",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ken-rahjes-ts-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0131",
+      "evidenceRowId": "em-ken-rahjes-01284",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "node scripts/hydrate-v2-social-signals.mjs",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:3",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ken-rahjes-ts-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0132",
+      "evidenceRowId": "em-ken-rahjes-01291",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:57",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Facebook\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:57",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ken-rahjes-ts-l57",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l210"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0133",
+      "evidenceRowId": "em-ken-rahjes-01295",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:67",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"kenforkansas.com\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:67",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ken-rahjes-ts-l67",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l139",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l190",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l297"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0134",
+      "evidenceRowId": "em-ken-rahjes-01298",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:77",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"hayspost.com\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:77",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ken-rahjes-ts-l77"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0135",
+      "evidenceRowId": "em-ken-rahjes-01307",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:149",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Hays Post\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:149",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ken-rahjes-ts-l149",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l346",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l356"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0136",
+      "evidenceRowId": "em-ken-rahjes-01313",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:200",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"X\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:200",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ken-rahjes-ts-l200"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0137",
+      "evidenceRowId": "em-ken-rahjes-01326",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:350",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"s-social-crossref-1\"",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:350",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ken-rahjes-ts-l350"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0138",
+      "evidenceRowId": "em-ken-rahjes-01329",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:366",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Public web\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:366",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ken-rahjes-ts-l366"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0139",
+      "evidenceRowId": "em-ken-rahjes-01236",
+      "platform": "Bluesky",
+      "actionType": "share/repost",
+      "target": "https://www.electjenday.com/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "LGBT / gender / parental rights",
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Taxes / spending / debt",
+        "Economy / jobs / labor",
+        "Guns / Second Amendment",
+        "Immigration / border",
+        "Health care / insurance / Medicaid",
+        "Election integrity / voting / courts",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "likely",
+      "observation": "narrative: \"_A summary of what Jennifer Day has publicly said, posted, and amplified across campaign channels and public social media. Drawn from public captures of her campaign website, Bluesky, X/Twitter, Instagram, Facebook, YouTube, DASS, and indexed Democratic event pages from September 2025 through May 2026. We report patterns; we do not interpret intent._\\n\\nAcross the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campaign site says, \\\"OUR RIGHT TO VOTE IS FUNDAMENTAL,\\\" and says she is \\\"running to safeguard our elections.\\\" ([source](https://www.electjenday.com/)) The same site says, \\\"The Secretary of State is charged with overseeing and protecting the electoral process across Kansas,\\\" and that Kansans deserve \\\"a safe, secure and accessible voting experience for all who are eligible.\\\" ([source](https://www.electjenday.com/))\\n\\nThe social feed most available for post-level review is Bluesky, where the campaign account had 32 followers, 37 following, and 70 posts on May 11, 2026. The accessible feed returned 55 recent entries from Nov. 18, 2025 through May 8, 2026. Of those, 16 centered voting access, election administration, mail ballots, early voting, federal/state control, voter data, or Jan. 6. On Jan. 22, 2026, Day posted, \\\"Voting should be simple, secure and accessible.\\\" ([source](https://bsky.app/profile/electjenday.bsky.social/post/3md24hfrm6u2m)) On Jan. 26, she tied that position to experience, saying she had been \\\"volunteering at polling places and serving as an election worker for the past seven years.\\\" ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mde3smr6pm2i))\\n\\nDay's campaign contrasts its voting-access frame with proposed restrictions on mail and early voting. On Feb. 9, 2026, she wrote that a Kansas Senate bill \\\"could end mail-in ballots\\\" and called it \\\"a clear attack on Kansas voters.\\\" ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mehahjlh252d)) On Feb. 14, she named military families overseas, seniors, rural voters, and working parents as Kansans who use mail-in ballots. ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mes2wul5yr2e)) That Feb. 14 post had the highest visible Bluesky post-level engagement in the captured set: 4 likes and 2 reposts.\\n\\nA second recurring theme is state and local control of election administration. On Feb. 7, 2026, Day wrote that the authority for administering elections \\\"belongs to the states, not the federal government.\\\" ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mea5ad5nrd2o)) On Feb. 16, she responded to federal efforts to obtain unredacted voter rolls by saying, \\\"Kansas deserves a Secretary of State who will protect your data and your vote.\\\" ([source](https://bsky.app/profile/electjenday.bsky.social/post/3meyy2k67iu2z)) She also said she had been meeting with county clerks \\\"who are in charge of overseeing voting and elections in their communities.\\\" ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mh76kh4iwc2h))\\n\\nThe campaign's everyday posting is more travel-and-field heavy than policy-heavy. In the 55 accessible Bluesky entries, 24 were chiefly about county visits, Democratic events, volunteer or house-party asks, supporter conversations, or campaign travel. The feed places Day in Leavenworth, Colby, Dodge City, Hays, Johnson County, Marion County, Wichita, Topeka, Pittsburg, Mound City, Ottawa, Lawrence, Riley County, Kingman County, Oberlin, Norton County, Salina, Wabaunsee County, Marshall County, Pratt County, and Lyon County. A May 8, 2026 post said it had been \\\"great getting out and talking directly with Kansans.\\\" ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mlerd3q3a22p))\\n\\nHer public alignment network is Democratic and election-administration oriented. The campaign site lists Gov. Laura Kelly, House Democratic Leader Brandon Woodard, Reps. Nikki McDonald, Dan Osman, Jerry Stogsdill, Johnson County Commission Chair Mike Kelly, and JCCC Trustee Dawn Rattan among endorsers. ([source](https://www.electjenday.com/)) On May 5, 2026, Day announced Kelly's endorsement and wrote that she shares Kelly's commitment to \\\"protecting our democracy and making government work better for everyone.\\\" ([source](https://bsky.app/profile/electjenday.bsky.social/post/3ml4yzwe4js2x)) DASS describes her as committed to safe, secure, accessible elections, fighting disinformation, protecting voting rights, increasing participation, and making it easier to start and grow a business. ([source](https://demsofstate.org/kansas-2026/))\\n\\nThe business-services message is present but secondary in the social feed. The campaign site says government should improve \\\"the ease of running a business\\\" and that Day would modernize and streamline business registration. ([source](https://www.electjenday.com/)) On Apr. 6, 2026, she personalized that issue by posting that her current LLC was formed in 2024 and that filing her report and paying the fee was easier than finding lighting for a residential rehab project. ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mithgio4yc2p)) In topic coding, business services accounted for one of the 55 accessible Bluesky entries, while the campaign site gives it a full platform plank.\\n\\nThe campaign footprint is broad but still small in public metrics. On May 11, 2026, Facebook showed 948 likes and 269 talking about this; Instagram showed 122 followers, 81 following, and 64 posts; X showed 41 followers, 97 following, 70 statuses, and 62 media items; Bluesky showed 32 followers, 37 following, and 70 posts. ([Facebook](https://www.facebook.com/ElectJenDayKS), [Instagram](https://www.instagram.com/electjenday/), [X](https://twitter.com/electjenday), [Bluesky](https://bsky.app/profile/electjenday.bsky.social)) YouTube presence was limited to a visible campaign channel and the launch video, \\\"Jennifer Day - Launch Video.\\\" ([source](https://www.youtube.com/watch?v=QsWfGPmD574))\\n\\nSeveral issue areas were not prominent in the accessible campaign-controlled material. The reviewed set did not show sustained discussion of abortion, LGBTQ policy, religious liberty, immigration, school choice, marijuana policy, Medicaid expansion, rural hospitals, water, the Ogallala Aquifer, K-12 school finance, higher education affordability, child care, housing, opioids, broadband, or road funding. The clearest non-election issue validator was an Apr. 22, 2026 post announcing a Moms Demand Action \\\"Gun Sense Candidate\\\" distinction. ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mk3pnx2lz224))\\n\\nMethodology: Public capture was conducted on May 11, 2026. Date range covered: Sept. 25, 2025 to May 11, 2026 for presence detection, and Nov. 18, 2025 to May 8, 2026 for accessible Bluesky post-level review. Platforms surveyed: campaign website, Bluesky, X/Twitter, Instagram, Facebook, YouTube, LinkedIn, TikTok, Threads, Truth Social, Gab, Gettr, Substack, Reddit, DASS, Kansas Democratic Party pages, and indexed election guides. Items examined: 26 accessible site/profile/public-record items, including 55 accessible Bluesky feed entries and 0 verified repost-network items. Login-walled or script-blocked material was not counted as reviewed. Engagement was reported only when visible in public metadata on capture date. We report patterns; we do not interpret intent.\",",
+      "sourceUrl": "https://www.electjenday.com/",
+      "sourceFile": "ui/src/data/candidates.ts:28119",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l28119"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0140",
+      "evidenceRowId": "em-ken-rahjes-01117",
+      "platform": "X / Twitter",
+      "actionType": "post",
+      "target": "https://x.com/RealPatProctor",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        10
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Across the harvested public record on X ([@RealPatProctor](https://x.com/RealPatProctor)), Facebook ([@PatProctorKS](https://www.facebook.com/PatProctorKS/)), YouTube ([Pat Proctor for Kansas](https://www.youtube.com/@patproctorforkansas655)), and Instagram ([@patproctor4ks](https://www.instagram.com/patproctor4ks/)), Proctor's dominant topic is election administration. The same phrase recurs across every platform: his Instagram bio reads \"Fighting to restore confidence in our elections,\" his Facebook page lists him as \"fighting to restore confidence in our elections,\" and his April 2025 campaign-launch [YouTube video](https://www.youtube.com/watch?v=8oGPhVyuYfs) opens with the line \"Job one is restoring confidence in our elections.\" A second recurring frame is foreign money in Kansas elections. On May 6, 2025, Proctor posted on X: \"The axis of ballot harvesting strikes again! Loudlight, Appleseed, and their allies hide behind their supposed nonpartisan, nonprofit status to rake in millions from George Soros and foreign billionaires that they use to sue every common sense measure we pass to restore…\" ([source](https://x.com/RealPatProctor)). On May 27, 2025, he posted on X: \"Why are the @aclukansas, Planned Parenthood, and the other members of the pro-abortion 'Kansans for Constitutional Freedom' suing to protect their ability to hide behind their nonprofit, supposedly 'non-partisan' status to rake in millions from foreign billionaires\" ([source](https://x.com/RealPatProctor/status/1927386363806073212)).",
+      "sourceUrl": "https://x.com/RealPatProctor",
+      "sourceFile": "ui/src/data/candidates.ts:27339",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l27339"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0141",
+      "evidenceRowId": "em-ken-rahjes-01121",
+      "platform": "YouTube",
+      "actionType": "post",
+      "target": "https://www.youtube.com/@patproctorforkansas655",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        6,
+        10,
+        11,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "For the Leavenworth district itself, Proctor's local content is less voluminous than his statewide-elections content but is present. An October 5, 2025 [YouTube video](https://www.youtube.com/@patproctorforkansas655) addresses bringing jobs and opportunity back to Leavenworth. His campaign and legislative biographies foreground his co-ownership with his wife Aree of Baan Thai Restaurant in Leavenworth. The April 2025 [Wichita State University](https://www.kslegislature.gov/li/b2025_26/members/rep_proctor_pat_1/) listing identifies him as a college professor in addition to his House role. The harvested set does not contain Leavenworth-specific posts about Fort Leavenworth military-family issues, federal-prison employment, or city infrastructure at a frequency comparable to his statewide election-administration posts.",
+      "sourceUrl": "https://www.youtube.com/@patproctorforkansas655",
+      "sourceFile": "ui/src/data/candidates.ts:27347",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l27347"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0142",
+      "evidenceRowId": "em-ken-rahjes-00661",
+      "platform": "kvoe.com",
+      "actionType": "post",
+      "target": "https://kvoe.com/2026/03/16/rahjes-in-emporia-touting-secretary-of-state-bid/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Mar. 16, 2026 KVOE Emporia coverage. Key themes: statewide campaign travel, secure/counted votes, business filings, entrepreneurs, and continuing Scott Schwab's business-owner service work. ([source](https://kvoe.com/2026/03/16/rahjes-in-emporia-touting-secretary-of-state-bid/))",
+      "sourceUrl": "https://kvoe.com/2026/03/16/rahjes-in-emporia-touting-secretary-of-state-bid/",
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:51",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l51"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0143",
+      "evidenceRowId": "em-ken-rahjes-01119",
+      "platform": "Facebook",
+      "actionType": "comment",
+      "target": "https://www.facebook.com/PatProctorKS/videos/enforcing-our-election-laws/1920239725529443/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Engagement on Proctor's content is not evenly distributed. His Facebook page hosts the highest-engagement videos when they touch enforcement of election law and ballot-integrity claims, including the [Kobach-framed enforcement video](https://www.facebook.com/PatProctorKS/videos/enforcing-our-election-laws/1920239725529443/). Critical engagement is also concentrated there: the activist account [Loud Light](https://www.facebook.com/LoudLightKS) reposts and challenges his statements at video-length, including a clip titled [\"Rep. Pat Proctor after being confronted at a town hall, the police are on their way\"](https://www.facebook.com/LoudLightKS/videos/rep-pat-proctor-after-being-confronted-at-a-town-hall-the-police-are-on-their-wa/1516695455979360/) (captured from his April 19, 2025 Leavenworth town hall) and a second video questioning a [statement about Kansas voters](https://www.facebook.com/LoudLightKS/videos/have-you-all-heard-pat-proctor-for-kansas-secretary-of-state-latest-lie-when-he-/628564576673155/). At that April 19, 2025 town hall, asked by a constituent to explain remarks about women voters, Proctor replied, \"That'd be really terrible if I'd actually said that\" ([source](https://kansasreflector.com/2025/06/13/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/)).",
+      "sourceUrl": "https://www.facebook.com/PatProctorKS/videos/enforcing-our-election-laws/1920239725529443/",
+      "sourceFile": "ui/src/data/candidates.ts:27343",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l27343"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0144",
+      "evidenceRowId": "em-ken-rahjes-00695",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/ken-rahjes/social-harvest.md:101",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "The reviewed 2025-2026 campaign material contains no visible public feud with Pat Proctor, no high-volume national partisan messaging, and no candidate-controlled video channel identified for the secretary-of-state campaign.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/social-harvest.md:101",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-social-harvest-md-l101"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0145",
+      "evidenceRowId": "em-ken-rahjes-01123",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/PatProctorKS/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Proctor's platform footprint is moderately distributed. He maintains a campaign Facebook page at [@PatProctorKS](https://www.facebook.com/PatProctorKS/), an X account at [@RealPatProctor](https://x.com/RealPatProctor), a YouTube channel at [@patproctorforkansas655](https://www.youtube.com/@patproctorforkansas655), an Instagram account at [@patproctor4ks](https://www.instagram.com/patproctor4ks/), and a LinkedIn profile at [pat-proctor-phd-b477575](https://www.linkedin.com/in/pat-proctor-phd-b477575/) listing his Kansas State House role and PhD. He does not have a detectable account on Reddit, TikTok, Truth Social, Gab, Gettr, or Substack identified at harvest time.",
+      "sourceUrl": "https://www.facebook.com/PatProctorKS/",
+      "sourceFile": "ui/src/data/candidates.ts:27351",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l27351"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0146",
+      "evidenceRowId": "em-ken-rahjes-00325",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/raw-dump.md:290",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        10,
+        12
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Election integrity / voting / courts",
+        "Agriculture / rural economy / water"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Two reasons: First, the 2022 abortion vote proved that Kansas voters will cross party lines on the right issue. If DOGE cuts hit Kansas hard -- closing rural VA clinics, cutting farm subsidies, eliminating Social Security Administration offices in small towns -- there could be an opening. Second, Marshall's close alignment with Trump and Musk is a bet that could pay off or backfire depending on how Kansans feel about federal government cuts by November.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:290",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-raw-dump-md-l290"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0147",
+      "evidenceRowId": "em-ken-rahjes-00886",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:179",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"action-campaign-business-services-platform\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:179",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l351",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l179"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0148",
+      "evidenceRowId": "em-ken-rahjes-00371",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/raw-dump.md:382",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Dinah Sykes (Democrat): Kansas Senate Minority Leader from Lenexa. She has pledged to accept zero campaign contributions from the insurance industry. Her platform focuses on lowering healthcare costs, consumer protection, and holding insurance companies accountable. She is a longtime advocate for Medicaid expansion. She has been endorsed by former Insurance Commissioner and Governor Kathleen Sebelius (Democrat) and former Insurance Commissioner Sandy Praeger (Republican).",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:382",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-raw-dump-md-l382",
+        "mem-reports-plain-english-voter-guide-md-l340"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0149",
+      "evidenceRowId": "em-ken-rahjes-00874",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:126",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"ss-campaign-social-routing-elections\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:126",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l326",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l126"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0150",
+      "evidenceRowId": "em-ken-rahjes-00339",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/raw-dump.md:316",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Lauren Reinhold -- former Social Security Administration employee who was laid off in the DOGE federal workforce reductions",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/raw-dump.md:316",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-raw-dump-md-l316"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0151",
+      "evidenceRowId": "em-ken-rahjes-00586",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ken-rahjes/sleuth-pass.md:33",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Issue mapping: this is a platform-presence signal only. It should not be used as evidence of belief or issue stance.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ken-rahjes/sleuth-pass.md:33",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-sleuth-pass-md-l33"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0152",
+      "evidenceRowId": "em-ken-rahjes-00826",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:797",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"s-facebook\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:797",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l256",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l797"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0153",
+      "evidenceRowId": "em-ken-rahjes-00854",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:403",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"socialSignals\": [],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:403",
+      "sourceIds": [
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l294",
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l325",
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l358",
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l404",
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l449",
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l472",
+        "mem-memory-candidates-ken-rahjes-v2-issues-yaml-l494",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l54",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l124",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l187",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l274",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l343",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l403",
+        "mem-ui-src-data-v2-ken-rahjes-ts-l431"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0154",
+      "evidenceRowId": "em-ken-rahjes-01116",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:27335",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "narrative: *A summary of what Pat Proctor has publicly said, posted, and amplified across social media. Drawn from public posts and indexed snippets on X, Facebook, YouTube, and Instagram between April 2025 and May 2026. We report patterns; we do not interpret intent.*",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:27335",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l27335"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ken-rahjes-0155",
+      "evidenceRowId": "em-ken-rahjes-01343",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ken-rahjes.ts:809",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"s-social-crossref-1\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ken-rahjes.ts:809",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ken-rahjes-ts-l809"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    }
+  ],
+  "issueCoverage": {
+    "1": {
+      "issue": "Abortion / life",
+      "total": 7,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 1,
+      "ambiguous": 2
+    },
+    "2": {
+      "issue": "LGBT / gender / parental rights",
+      "total": 6,
+      "strong": 1,
+      "moderate": 1,
+      "weak": 1,
+      "ambiguous": 2
+    },
+    "3": {
+      "issue": "Education / curriculum / schools",
+      "total": 10,
+      "strong": 3,
+      "moderate": 1,
+      "weak": 2,
+      "ambiguous": 2
+    },
+    "4": {
+      "issue": "Religious liberty / church / civic morality",
+      "total": 3,
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "5": {
+      "issue": "Taxes / spending / debt",
+      "total": 7,
+      "strong": 4,
+      "moderate": 1,
+      "weak": 1,
+      "ambiguous": 0
+    },
+    "6": {
+      "issue": "Economy / jobs / labor",
+      "total": 20,
+      "strong": 6,
+      "moderate": 3,
+      "weak": 3,
+      "ambiguous": 4
+    },
+    "7": {
+      "issue": "Guns / Second Amendment",
+      "total": 5,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 1,
+      "ambiguous": 2
+    },
+    "8": {
+      "issue": "Immigration / border",
+      "total": 5,
+      "strong": 0,
+      "moderate": 1,
+      "weak": 1,
+      "ambiguous": 2
+    },
+    "9": {
+      "issue": "Health care / insurance / Medicaid",
+      "total": 8,
+      "strong": 2,
+      "moderate": 1,
+      "weak": 2,
+      "ambiguous": 1
+    },
+    "10": {
+      "issue": "Election integrity / voting / courts",
+      "total": 43,
+      "strong": 7,
+      "moderate": 2,
+      "weak": 4,
+      "ambiguous": 23
+    },
+    "11": {
+      "issue": "Public safety / law enforcement / criminal justice",
+      "total": 6,
+      "strong": 1,
+      "moderate": 1,
+      "weak": 1,
+      "ambiguous": 1
+    },
+    "12": {
+      "issue": "Agriculture / rural economy / water",
+      "total": 19,
+      "strong": 7,
+      "moderate": 3,
+      "weak": 3,
+      "ambiguous": 4
+    },
+    "13": {
+      "issue": "Local governance / transparency / ethics",
+      "total": 49,
+      "strong": 10,
+      "moderate": 3,
+      "weak": 7,
+      "ambiguous": 25
+    },
+    "14": {
+      "issue": "Environment / energy / land use",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 0
+    }
+  },
+  "caveats": [
+    "Social evidence is signal, not fact. A follow, like, share, or platform absence is not treated as a belief or policy position.",
+    "Candidate-controlled posts and campaign pages may be used as stated positions only when the text itself says the position.",
+    "Login-walled, blocked, or inaccessible platform content is documented as a capture limitation, not as evidence of silence."
+  ]
+}

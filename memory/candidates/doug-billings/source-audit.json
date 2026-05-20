@@ -1,0 +1,591 @@
+{
+  "candidateSlug": "doug-billings",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 12,
+  "sources": [
+    {
+      "sourceId": "src-doug-billings-0001",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:30",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-doug-billings-00049"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-doug-billings-0002",
+      "url": null,
+      "sourceFile": "memory/candidates/doug-billings/social-harvest.md:20",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 16,
+      "rowIds": [
+        "em-doug-billings-00013",
+        "em-doug-billings-00005",
+        "em-doug-billings-00012",
+        "em-doug-billings-00014",
+        "em-doug-billings-00016",
+        "em-doug-billings-00019",
+        "em-doug-billings-00020",
+        "em-doug-billings-00021",
+        "em-doug-billings-00022",
+        "em-doug-billings-00023",
+        "em-doug-billings-00025",
+        "em-doug-billings-00009",
+        "em-doug-billings-00003",
+        "em-doug-billings-00008",
+        "em-doug-billings-00024",
+        "em-doug-billings-00026"
+      ],
+      "claimsAnchored": [
+        "Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, ",
+        "This artifact was created because the candidate-completeness audit found Doug Billings in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+        "Ballot / filing status: Billings has campaign and KPDC account evidence connected to the 2026 governor race, but reporting says he was removed from the Secretary of State candidate list after a running-mate dispute. Treat final ballot status as unresolved unti",
+        "Donor / funding information: KPDC records provide a finance-report path for Billings, and reporting separately describes disputed accusations about a contribution; the candidate denied wrongdoing.",
+        "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+        "Doug Billings - social harvest",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Slug: doug-billings",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-doug-billings-0003",
+      "url": "https://dougbillingsforkansas.com/",
+      "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:13",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-doug-billings-00035"
+      ],
+      "claimsAnchored": [
+        "\"campaignWebsite\": \"https://dougbillingsforkansas.com/\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-doug-billings-0004",
+      "url": "https://www.kctv5.com/2025/05/05/conservative-podcaster-run-kansas-governor-2026/",
+      "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:54",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-doug-billings-00055"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.kctv5.com/2025/05/05/conservative-podcaster-run-kansas-governor-2026/\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-doug-billings-0005",
+      "url": null,
+      "sourceFile": "memory/candidates/doug-billings/v2-issues.yaml:111",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "voting record",
+        "ballot status",
+        "church/worship",
+        "donor/funding",
+        "biography",
+        "controversy"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 77,
+      "rowIds": [
+        "em-doug-billings-00089",
+        "em-doug-billings-00038",
+        "em-doug-billings-00039",
+        "em-doug-billings-00109",
+        "em-doug-billings-00059",
+        "em-doug-billings-00033",
+        "em-doug-billings-00036",
+        "em-doug-billings-00037",
+        "em-doug-billings-00040",
+        "em-doug-billings-00052",
+        "em-doug-billings-00053",
+        "em-doug-billings-00064",
+        "em-doug-billings-00069",
+        "em-doug-billings-00071",
+        "em-doug-billings-00080",
+        "em-doug-billings-00083",
+        "em-doug-billings-00090",
+        "em-doug-billings-00091",
+        "em-doug-billings-00093",
+        "em-doug-billings-00108",
+        "em-doug-billings-00110",
+        "em-doug-billings-00043",
+        "em-doug-billings-00045",
+        "em-doug-billings-00046",
+        "em-doug-billings-00063",
+        "em-doug-billings-00073",
+        "em-doug-billings-00078",
+        "em-doug-billings-00085",
+        "em-doug-billings-00095",
+        "em-doug-billings-00096",
+        "em-doug-billings-00098",
+        "em-doug-billings-00100",
+        "em-doug-billings-00103",
+        "em-doug-billings-00105",
+        "em-doug-billings-00106",
+        "em-doug-billings-00007",
+        "em-doug-billings-00028",
+        "em-doug-billings-00029",
+        "em-doug-billings-00030",
+        "em-doug-billings-00031",
+        "em-doug-billings-00032",
+        "em-doug-billings-00034",
+        "em-doug-billings-00041",
+        "em-doug-billings-00042",
+        "em-doug-billings-00044",
+        "em-doug-billings-00048",
+        "em-doug-billings-00051",
+        "em-doug-billings-00057",
+        "em-doug-billings-00058",
+        "em-doug-billings-00061"
+      ],
+      "claimsAnchored": [
+        "\"text\": \"Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and an",
+        "\"ownWordsNarrative\": \"Billings's campaign site frames him as a MAGA conservative and lists campaign pillars including Kansas sovereignty, gold and silver, trafficking, government efficiency, taxes, regulation, election integrity, education, property rights, an",
+        "\"whereTheyWorship\": \"Campaign and reporting describe Billings in explicitly Christian/conservative terms; that background is descriptive and is not used as a substitute for governance evidence.\",",
+        "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+        "\"Reporting summarized campaign themes including K-DOGE, tax cuts, and regulation cuts\"",
+        "\"incumbent\": false,",
+        "\"whoTheyAre\": \"Doug Billings is a conservative broadcaster and Republican governor candidate associated with a 2026 gubernatorial campaign and KPDC account. Reporting also says his SOS candidate-list status changed after a running-mate dispute, so the page mus",
+        "\"recordSummary\": \"The profile captures campaign-account status, candidate-controlled platform themes, and reporting about removal from the Secretary of State candidate list. It should be rechecked against the final SOS list.\",",
+        "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+        "\"Campaign site presents Billings as a 2026 Kansas Governor candidate\",",
+        "\"Campaign site lists candidate-controlled policy pillars\"",
+        "\"Reporting said Billings was removed from the Secretary of State candidate list after a running-mate dispute and legal opinion\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-doug-billings-0006",
+      "url": null,
+      "sourceFile": "reports/vicki-schmidt-complete-dossier.md:430",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "endorsement",
+        "ballot status",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 25,
+      "rowIds": [
+        "em-doug-billings-00147",
+        "em-doug-billings-00150",
+        "em-doug-billings-00161",
+        "em-doug-billings-00145",
+        "em-doug-billings-00163",
+        "em-doug-billings-00144",
+        "em-doug-billings-00159",
+        "em-doug-billings-00143",
+        "em-doug-billings-00146",
+        "em-doug-billings-00148",
+        "em-doug-billings-00151",
+        "em-doug-billings-00153",
+        "em-doug-billings-00154",
+        "em-doug-billings-00155",
+        "em-doug-billings-00157",
+        "em-doug-billings-00158",
+        "em-doug-billings-00164",
+        "em-doug-billings-00165",
+        "em-doug-billings-00166",
+        "em-doug-billings-00156",
+        "em-doug-billings-00152",
+        "em-doug-billings-00142",
+        "em-doug-billings-00149",
+        "em-doug-billings-00160",
+        "em-doug-billings-00162"
+      ],
+      "claimsAnchored": [
+        "Six Republican candidates participated without Schmidt: Jeff Colyer, Scott Schwab, Ty Masterson, Doug Billings, Joy Eakins, and Charlotte O'Hara (and/or Stacy Rogers). The Kansas Reflector described it as \"Six Kansas GOP candidates for governor toss haymakers ",
+        "Upside: She avoids being attacked on her abortion record in a hostile environment, maintains her \"above the fray\" positioning, and scores points with voters skeptical of party establishment",
+        "| NRA | Unknown | No endorsement data found |",
+        "She argued the Republican Party should remain neutral during the primary campaign and that every GOP candidate should have equal opportunities to share their views at party-sanctioned events.",
+        "The early stage of the race (primary not until August 2026)",
+        "> \"President Trump has brought new voters to the party and we need to be encouraging good folks to run for office as Republicans, not creating road blocks and challenges that discourage them.\"",
+        "| Kansans for Life PAC | ACTIVELY OPPOSING | Released formal statement calling her record \"the worst on life of any Republican to ever seek office in Kansas\" |",
+        "> \"Under this agreement, the party picks winners and losers.\"",
+        "The Debate Itself",
+        "Assessment",
+        "Downside: She misses a chance to introduce herself to primary voters, and opponents can frame her as afraid to face scrutiny",
+        "ENDORSEMENTS"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-doug-billings-0007",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/doug-billings.ts:61",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "voting record",
+        "ballot status",
+        "donor/funding",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 26,
+      "rowIds": [
+        "em-doug-billings-00217",
+        "em-doug-billings-00050",
+        "em-doug-billings-00066",
+        "em-doug-billings-00213",
+        "em-doug-billings-00215",
+        "em-doug-billings-00219",
+        "em-doug-billings-00056",
+        "em-doug-billings-00062",
+        "em-doug-billings-00205",
+        "em-doug-billings-00206",
+        "em-doug-billings-00207",
+        "em-doug-billings-00208",
+        "em-doug-billings-00209",
+        "em-doug-billings-00210",
+        "em-doug-billings-00212",
+        "em-doug-billings-00214",
+        "em-doug-billings-00218",
+        "em-doug-billings-00220",
+        "em-doug-billings-00221",
+        "em-doug-billings-00222",
+        "em-doug-billings-00223",
+        "em-doug-billings-00224",
+        "em-doug-billings-00225",
+        "em-doug-billings-00226",
+        "em-doug-billings-00211",
+        "em-doug-billings-00216"
+      ],
+      "claimsAnchored": [
+        "\"observation\": \"Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integr",
+        "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+        "\"title\": \"Doug Billings removed from Kansas governor's candidate list\",",
+        "\"observation\": \"Ballot / filing status: Billings has campaign and KPDC account evidence connected to the 2026 governor race, but reporting says he was removed from the Secretary of State candidate list after a running-mate dispute. Treat final ballot status as",
+        "\"mappedToIssueId\": \"i-ballot-status\"",
+        "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+        "\"title\": \"Doug Billings For Kansas Governor 2026\",",
+        "\"title\": \"Conservative podcaster to run for Kansas Governor in 2026\",",
+        "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+        "To refresh:",
+        "node scripts/hydrate-v2-social-signals.mjs",
+        "import type { CandidateFullV2 } from \"@/data/types-v2\";"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-doug-billings-0008",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:109",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "donor/funding",
+        "legal/court",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 38,
+      "rowIds": [
+        "em-doug-billings-00189",
+        "em-doug-billings-00191",
+        "em-doug-billings-00185",
+        "em-doug-billings-00187",
+        "em-doug-billings-00198",
+        "em-doug-billings-00203",
+        "em-doug-billings-00204",
+        "em-doug-billings-00167",
+        "em-doug-billings-00168",
+        "em-doug-billings-00174",
+        "em-doug-billings-00177",
+        "em-doug-billings-00184",
+        "em-doug-billings-00186",
+        "em-doug-billings-00188",
+        "em-doug-billings-00190",
+        "em-doug-billings-00192",
+        "em-doug-billings-00193",
+        "em-doug-billings-00194",
+        "em-doug-billings-00195",
+        "em-doug-billings-00196",
+        "em-doug-billings-00197",
+        "em-doug-billings-00199",
+        "em-doug-billings-00202",
+        "em-doug-billings-00169",
+        "em-doug-billings-00170",
+        "em-doug-billings-00171",
+        "em-doug-billings-00172",
+        "em-doug-billings-00173",
+        "em-doug-billings-00175",
+        "em-doug-billings-00176",
+        "em-doug-billings-00178",
+        "em-doug-billings-00179",
+        "em-doug-billings-00180",
+        "em-doug-billings-00181",
+        "em-doug-billings-00182",
+        "em-doug-billings-00183",
+        "em-doug-billings-00200",
+        "em-doug-billings-00201"
+      ],
+      "claimsAnchored": [
+        "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+        "\"The governor is the boss of Kansas state government. They sign or veto every law the legislature passes, write the state budget, appoint the heads of state agencies, and set the direction on taxes, schools, roads, and healthcare. When there's a disaster, a cr",
+        "\"With Laura Kelly term-limited, both parties and multiple campaign-account holders are building a large field for one of the most important open-seat races in Kansas politics.\",",
+        "\"Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.\",",
+        "status: \"Incumbent Running\",",
+        "\"This office decides which lawsuits Kansas joins, which criminal or civil fights get statewide attention, and how aggressively state law is enforced in court.\",",
+        "\"The attorney general is Kansas's top lawyer. They decide which lawsuits the state files or joins, prosecute major crimes that cross county lines, protect consumers from scams, and defend or challenge state laws in court. If a company rips off Kansans, if ther",
+        "candidateCount: 15,",
+        "candidateSlugs: [",
+        "\"charlotte-ohara\",",
+        "\"doug-billings\",",
+        "description:"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-doug-billings-0009",
+      "url": null,
+      "sourceFile": "reports/jeff-colyer-complete-dossier.md:779",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "endorsement",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 32,
+      "rowIds": [
+        "em-doug-billings-00137",
+        "em-doug-billings-00112",
+        "em-doug-billings-00123",
+        "em-doug-billings-00126",
+        "em-doug-billings-00132",
+        "em-doug-billings-00139",
+        "em-doug-billings-00027",
+        "em-doug-billings-00111",
+        "em-doug-billings-00119",
+        "em-doug-billings-00122",
+        "em-doug-billings-00124",
+        "em-doug-billings-00125",
+        "em-doug-billings-00130",
+        "em-doug-billings-00133",
+        "em-doug-billings-00134",
+        "em-doug-billings-00135",
+        "em-doug-billings-00136",
+        "em-doug-billings-00138",
+        "em-doug-billings-00140",
+        "em-doug-billings-00141",
+        "em-doug-billings-00120",
+        "em-doug-billings-00121",
+        "em-doug-billings-00116",
+        "em-doug-billings-00114",
+        "em-doug-billings-00118",
+        "em-doug-billings-00117",
+        "em-doug-billings-00113",
+        "em-doug-billings-00115",
+        "em-doug-billings-00127",
+        "em-doug-billings-00128",
+        "em-doug-billings-00129",
+        "em-doug-billings-00131"
+      ],
+      "claimsAnchored": [
+        "Fox Business",
+        "| Candidate | Background | Notable |",
+        "Democratic Incumbent: Governor Laura Kelly is term-limited and cannot run again.",
+        "| Candidate | Name Recognition |",
+        "No head-to-head matchup polling publicly available as of this filing",
+        "Kansas City Star",
+        "|-----------|-----------|---------|",
+        "2026 REPUBLICAN PRIMARY FIELD {#22-primary-field}",
+        "| Doug Billings | Podcaster | |",
+        "Primary Date: August 4, 2026",
+        "POLLING DATA {#23-polling}",
+        "Kansas Speaks Survey (Fort Hays State University, October 2025)"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-doug-billings-0010",
+      "url": null,
+      "sourceFile": "memory/candidates/doug-billings/in-their-own-words.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-doug-billings-00001",
+        "em-doug-billings-00002",
+        "em-doug-billings-00004",
+        "em-doug-billings-00006",
+        "em-doug-billings-00011",
+        "em-doug-billings-00010",
+        "em-doug-billings-00015"
+      ],
+      "claimsAnchored": [
+        "Doug Billings - in their own words",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-doug-billings-0011",
+      "url": null,
+      "sourceFile": "memory/candidates/doug-billings/raw-dump-v2.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-doug-billings-00017"
+      ],
+      "claimsAnchored": [
+        "Doug Billings - raw dump v2"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-doug-billings-0012",
+      "url": null,
+      "sourceFile": "memory/candidates/doug-billings/sleuth-pass.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-doug-billings-00018"
+      ],
+      "claimsAnchored": [
+        "Doug Billings - sleuth pass"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    }
+  ]
+}

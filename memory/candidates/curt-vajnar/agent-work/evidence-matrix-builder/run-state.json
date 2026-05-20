@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "curt-vajnar",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/curt-vajnar/evidence-matrix-raw.json",
+    "memory/candidates/curt-vajnar/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/curt-vajnar/evidence-matrix.json",
+    "memory/candidates/curt-vajnar/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/curt-vajnar/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/curt-vajnar/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs curt-vajnar"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for curt-vajnar.",
+    "Run source-tier-validator for curt-vajnar."
+  ],
+  "handoff_summary": "Built final evidence matrix for curt-vajnar: 3009 raw rows to 1699 deduplicated rows."
+}

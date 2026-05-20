@@ -1,0 +1,1569 @@
+# Fixed 14-Issue Matrix — erik-murray — 2026-05-20
+
+This matrix is built from `evidence-matrix.json`, `social-evidence-matrix.json`, and `source-audit.json`. It is a candidate-rebuild input, not final public prose.
+
+## 1. Abortion / life
+
+Abortion / life: 27 selected evidence items from 61 mapped rows. Public URL-backed rows: 1.
+
+### Evidence
+- **candidate-stated** [em-erik-murray-01244] Opposes taxpayer funding of abortion providers
+  - Source: memory/candidates/erik-murray/raw-dump.md:1661
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01246] Has said he opposes abortion including in cases of rape and incest
+  - Source: memory/candidates/erik-murray/raw-dump.md:1663
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02407] Abortion / Sanctity of Life: Runs as a Democrat. The Kansas Democratic Party platform supports reproductive freedom and access to abortion. No specific personal statement found in public sources. on abortion.
+  - Source: memory/candidates/erik-murray/site-profile.md:19
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00183] Campaign issue page supports holding every branch of government accountable, transparency, voting-rights protection, easier voting access, women's rights, privacy rights, restoring reproductive freedom, and equal protection regardless of gender, race, age, orientation, or zip code. This direct candidate-controlled language updates the older local data, which had no candidate-specific abortion or LGBTQ policy statement.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:311
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00184] 2026 campaign issue page: "Protect Democracy & Civil Rights" plank includes voting rights, reproductive freedom, privacy rights, and equal protection. Source: s-campaign-issues.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:315
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00186] No specific abortion-limit, federal statutory text, court-reform, or voting-rights bill citation was found. No marriage-specific policy statement was found beyond equal-protection/orientation language.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:320
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00244] Replace older "no specific personal statement found" language on abortion/reproductive freedom, LGBTQ/civil-rights policy, and immigration with the new candidate-controlled issue-page language where appropriate.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:465
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00560] Changed from pro-life to pro-choice after "Kansans voted for bodily autonomy" in the 2022 abortion referendum
+  - Source: memory/candidates/erik-murray/raw-dump.md:504
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00574] Key Quote: His website says he changed his mind on abortion after "Kansans voted for bodily autonomy." (KCUR)
+  - Source: memory/candidates/erik-murray/raw-dump.md:524
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00750] Kansas is not as red as it looks on paper. The 2022 abortion referendum (Value Them Both Amendment) was defeated 59%-41%, proving that Kansas voters will cross party lines on specific issues. Gov. Laura Kelly, a Democrat, won two terms. The question is whether any of these Democrats can replicate that crossover appeal at the federal level.
+  - Source: memory/candidates/erik-murray/raw-dump.md:821
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00980] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:472
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01705] [National Pro-Life Scorecard](https://sbaprolife.org/senator/roger-marshall)
+  - Source: https://sbaprolife.org/senator/roger-marshall
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-erik-murray-00659] Five candidates spoke to 150+ attendees: Hart, Davis, Spidel Neumann, Parelkar, Murray. This was the first major joint appearance. Issues raised: education, immigration, healthcare, tariffs, reproductive rights.
+  - Source: memory/candidates/erik-murray/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01236] Pro-life scorecard: 100% -- Voted pro-life on every single recorded vote (20/20 as House member, continued in Senate)
+  - Source: memory/candidates/erik-murray/raw-dump.md:1653
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01237] National Pro-Life Scorecard (SBA Pro-Life America): Perfect score
+  - Source: memory/candidates/erik-murray/raw-dump.md:1654
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01673] Very few vulnerabilities from the right; Heritage Action 89-94%, pro-life 100%, NRA-aligned, Trump-endorsed
+  - Source: memory/candidates/erik-murray/raw-dump.md:2254
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-erik-murray-02657] Across the captured YouTube and campaign-update period, the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy. The captured feed includes two items that mention farms or rural hospitals and does not include a farm-policy plan.
+  - Source: memory/candidates/erik-murray/social-harvest.md:160
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-erik-murray-01201] His pro-life stance is directly connected to his faith and his experience delivering 5,000+ babies
+  - Source: memory/candidates/erik-murray/raw-dump.md:1602
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-erik-murray-01222] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/erik-murray/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-erik-murray-01528] "Tonight, we must still go to bed with faith and hope, for tomorrow we must be as dedicated to the sanctity of life." (After Value Them Both defeat)
+  - Source: memory/candidates/erik-murray/raw-dump.md:2051
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-erik-murray-01953] Adoption: Given up for adoption at birth into a "right wing, fundamentalist, Roman Catholic family" (pre-Roe v. Wade)
+  - Source: memory/candidates/erik-murray/raw-dump.md:2736
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00008] Across the captured period the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy ([harvest](social-harvest.md#visible-absences-in-captured-feed)). The captured feed includes two items that mention farms or rural hospitals, but it does not include a farm-policy plan ([harvest](social-harvest.md#visible-absences-in-captured-feed)).
+  - Source: memory/candidates/erik-murray/in-their-own-words.md:17
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00181] Issue Area 7 - Democracy, Civil Rights, Reproductive Freedom, and Privacy
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:305
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00415] Protecting reproductive freedom
+  - Source: memory/candidates/erik-murray/raw-dump.md:251
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00571] Former Republican who called himself "conservative" and "pro-life" as recently as 2019 -- position shifts invite scrutiny
+  - Source: memory/candidates/erik-murray/raw-dump.md:520
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00576] Ideological inconsistency (conservative pro-life Republican in 2019, now running as a Democrat)
+  - Source: memory/candidates/erik-murray/raw-dump.md:530
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00840] Reproductive freedom
+  - Source: memory/candidates/erik-murray/raw-dump.md:975
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak YouTube post** [soc-erik-murray-0007] Across the captured YouTube and campaign-update period, the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy. The captured feed includes two items that mention farms or rural hospitals and does not include a farm-policy plan.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0142] Across the captured period the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy ([harvest](social-harvest.md#visible-absences-in-captured-feed)). The captured feed includes two items that mention farms or rural hospitals, but it does not include a farm-policy plan ([harvest](social-harvest.md#visible-absences-in-captured-feed)).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0143] *"In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0144] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0145] Abortion / Sanctity of Life: Runs as a Democrat. The Kansas Democratic Party platform supports reproductive freedom and access to abortion. No specific personal statement found in public sources. on abortion.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0146] "observation": "Across the captured YouTube and campaign-update period, the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy. The captured feed includes two items that mention farms or rural hospitals and does not include a farm-policy plan.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 2. LGBT / gender / parental rights
+
+LGBT / gender / parental rights: 11 selected evidence items from 11 mapped rows. Public URL-backed rows: 0.
+
+### Evidence
+- **candidate-stated** [em-erik-murray-01973] LGBTQ+ rights champion: Supports the Equality Act and the Respect for Marriage Act
+  - Source: memory/candidates/erik-murray/raw-dump.md:2761
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02408] Marriage & Family / LGBTQ+ Policy: Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources.
+  - Source: memory/candidates/erik-murray/site-profile.md:21
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02412] School Choice / Parental Rights in Education: Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources.
+  - Source: memory/candidates/erik-murray/site-profile.md:29
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00183] Campaign issue page supports holding every branch of government accountable, transparency, voting-rights protection, easier voting access, women's rights, privacy rights, restoring reproductive freedom, and equal protection regardless of gender, race, age, orientation, or zip code. This direct candidate-controlled language updates the older local data, which had no candidate-specific abortion or LGBTQ policy statement.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:311
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00244] Replace older "no specific personal statement found" language on abortion/reproductive freedom, LGBTQ/civil-rights policy, and immigration with the new candidate-controlled issue-page language where appropriate.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:465
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-02530] Democracy / civil rights / reproductive freedom: campaign issue page calls for transparency, voting-rights protection, privacy rights, restoring reproductive freedom, and equal protection regardless of gender, race, age, orientation, or zip code.
+  - Source: memory/candidates/erik-murray/sleuth-pass.md:49
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-02736] "Campaign supports transparency, voting rights, privacy rights, restoring reproductive freedom, and equal protection regardless of gender, race, age, orientation, or zip code"
+  - Source: memory/candidates/erik-murray/v2-issues.yaml:125
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-02942] "text": "Murray's campaign supports transparency, voting-rights protection, easier voting access, women's rights, privacy rights, restoring reproductive freedom, and equal protection regardless of gender, race, age, orientation, or zip code.",
+  - Source: ui/src/data/v2/erik-murray.ts:398
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00561] Supported the Respect for Marriage Act (2022) -- protections for same-sex marriage
+  - Source: memory/candidates/erik-murray/raw-dump.md:505
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-03129] "issue": "Marriage & Family / LGBTQ+ Policy",
+  - Source: ui/src/data/candidates.ts:6123
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-03133] "issue": "School Choice / Parental Rights in Education",
+  - Source: ui/src/data/candidates.ts:6139
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0147] Marriage & Family / LGBTQ+ Policy: Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0148] School Choice / Parental Rights in Education: Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 3. Education / curriculum / schools
+
+Education / curriculum / schools: 36 selected evidence items from 126 mapped rows. Public URL-backed rows: 12.
+
+### Evidence
+- **candidate-stated** [em-erik-murray-00149] 2026-02-11 Iola visit: Iola Register reports Murray said he would focus on fully funding public education. Source: s-iola-register.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:215
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-00816] Said she wants to restore funding for Medicaid, special education and affordable housing programs (KCUR, Dec 30, 2025)
+  - Source: memory/candidates/erik-murray/raw-dump.md:925
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01422] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/erik-murray/raw-dump.md:1899
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02412] School Choice / Parental Rights in Education: Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources.
+  - Source: memory/candidates/erik-murray/site-profile.md:29
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02785] "Article reports Murray supports fully funding public education, congressional term limits, banning congressional stock trading, undoing tariff policy, and raising the minimum wage"
+  - Source: memory/candidates/erik-murray/v2-issues.yaml:213
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02872] summary: "The Iola Register reported Murray said he would focus on fully funding public education."
+  - Source: memory/candidates/erik-murray/v2-issues.yaml:362
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-03245] "body": "The Iola Register reported Murray said he would focus on fully funding public education.",
+  - Source: ui/src/data/v2/erik-murray.ts:92
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00007] Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, "What we are opposed to is leaving the community of Wyandotte behind." ([source](https://erikforkansas.com/news/chiefs)) In an April 19 education post, he wrote, "Thank you Sumner Academy for giving me, my parents and my kids a world class education." ([source](https://www.youtube.com/shorts/by-pc3VzOIE))
+  - Source: https://erikforkansas.com/news/chiefs
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00033] | s-campaign-bio | primary | https://www.erikforkansas.com/meet-erik | accessed 2026-05-19 | Candidate-controlled biography, family, education, Indian Springs project, Top 13 summary | biography, issue overview |
+  - Source: https://www.erikforkansas.com/meet-erik
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00045] | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ | 2026-03-16; accessed 2026-05-19 | Profile/interview, Indian Springs context, 105-county tour, healthcare/education/economy focus, immigration/tariff remarks | biography, issue statements |
+  - Source: https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00141] 2026-02-11 Iola visit: Iola Register reports Murray said his campaign hinges on healthcare, education, and affordability. Source: s-iola-register.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:195
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00146] Campaign issue page supports fully funding public education, special education, trades training, and college pathways. Campaign biography says Murray's mother was a public-school teacher and administrator and says education is part of his family story. YouTube posts discuss three generations of his family attending Sumner Academy and thank Kansas for facilitating education for families.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:209
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00147] 2026 campaign issue page: lists fully funded education as one of the "13 Areas of Focus." Source: s-campaign-issues.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:213
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00150] No school-board, legislative, or education-administration voting record was found.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:219
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00476] Education: Not specified in available sources
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:352
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-00659] Five candidates spoke to 150+ attendees: Hart, Davis, Spidel Neumann, Parelkar, Murray. This was the first major joint appearance. Issues raised: education, immigration, healthcare, tariffs, reproductive rights.
+  - Source: memory/candidates/erik-murray/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-00872] Born/Raised: Kansas City, Kansas. Attended Sumner Academy (magnet high school).
+  - Source: memory/candidates/erik-murray/raw-dump.md:1053
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01650] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: memory/candidates/erik-murray/raw-dump.md:2224
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-erik-murray-00006] National and foreign-policy posts appear in a smaller part of the feed. A March 8 YouTube description said, "We have a President who promised to end foreign wars on day one, and now he’s launching another one. At the same time we’re told there’s no money for feeding poor children, no money for education, and no money for healthcare." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY)) The same post continued, "Meanwhile our farmers are struggling. Farm closures are rising. Rural hospitals are shutting down. Small businesses are getting squeezed by tariffs. Rural economies are feeling it every single day." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY))
+  - Source: https://www.youtube.com/shorts/YLa4pXvG3rY
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02599] | 2026-04-19 | My Kids, My Mom and I, ALL went to the same SCHOOL | [source](https://www.youtube.com/shorts/by-pc3VzOIE) | 966 | 22 | Public education, Sumner Academy, family generations. |
+  - Source: https://www.youtube.com/shorts/by-pc3VzOIE
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02602] | 2026-03-08 | America's Broken Promises | [source](https://www.youtube.com/shorts/YLa4pXvG3rY) | 1,261 | 12 | Foreign wars, children, education, healthcare, farms, tariffs. |
+  - Source: https://www.youtube.com/shorts/YLa4pXvG3rY
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02606] | 2026-02-23 | STOP DEFUNDING EDUCATION | [source](https://www.youtube.com/shorts/oXIN3dR1kkI) | 260 | 9 | Title references education; description text discusses healthcare costs. |
+  - Source: https://www.youtube.com/shorts/oXIN3dR1kkI
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02614] "My kids go to the same public high school I graduated from in 2000. My mom graduated from it in 1967. Three generations. Same school." ([source](https://www.youtube.com/shorts/by-pc3VzOIE))
+  - Source: https://www.youtube.com/shorts/by-pc3VzOIE
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02616] "Thank you Sumner Academy for giving me, my parents and my kids a world class education." ([source](https://www.youtube.com/shorts/by-pc3VzOIE))
+  - Source: https://www.youtube.com/shorts/by-pc3VzOIE
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02617] "And thank you Kansas for facilitating an education for families, like mine, to flourish." ([source](https://www.youtube.com/shorts/by-pc3VzOIE))
+  - Source: https://www.youtube.com/shorts/by-pc3VzOIE
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02618] "We have a President who promised to end foreign wars on day one, and now he’s launching another one. At the same time we’re told there’s no money for feeding poor children, no money for education, and no money for healthcare." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY))
+  - Source: https://www.youtube.com/shorts/YLa4pXvG3rY
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-erik-murray-00123] Attended St. Patrick's Catholic School.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:164
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-erik-murray-00129] Use caution: childhood church and Catholic-school references are biographical only. They do not confirm current church membership or religious-liberty policy.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:171
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-erik-murray-00217] Campaign biography says Murray attended Fellowship Christian Church with his grandmother while growing up and attended St. Patrick's Catholic School. No current church affiliation or religious-liberty policy plank was found in campaign materials.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:410
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-erik-murray-00218] Do not infer current faith commitments, church membership, or policy from childhood church/school references. No religious-liberty issue card should state a policy position beyond "no candidate-controlled statement found" unless later evidence emerges.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:414
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00144] Issue Area 2 - Education
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:203
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00148] 2026-04-19 YouTube post: discusses Sumner Academy and public education as a multigenerational family institution. Sources: s-social-harvest-local, s-youtube-rss.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:214
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00227] Education: Sumner Academy/public education post.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:439
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00300] Education: Associate degree, Cowley County Community College (2017)
+  - Source: memory/candidates/erik-murray/raw-dump.md:1214
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00317] Education:
+  - Source: memory/candidates/erik-murray/raw-dump.md:889
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00318] Sedgwick High School (Harvey County, Kansas)
+  - Source: memory/candidates/erik-murray/raw-dump.md:105
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous YouTube online-reference** [soc-erik-murray-0001] Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, "What we are opposed to is leaving the community of Wyandotte behind." ([source](https://erikforkansas.com/news/chiefs)) In an April 19 education post, he wrote, "Thank you Sumner Academy for giving me, my parents and my kids a world class education." ([source](https://www.youtube.com/shorts/by-pc3VzOIE))
+  - Source: https://erikforkansas.com/news/chiefs
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong YouTube post** [soc-erik-murray-0008] National and foreign-policy posts appear in a smaller part of the feed. A March 8 YouTube description said, "We have a President who promised to end foreign wars on day one, and now he’s launching another one. At the same time we’re told there’s no money for feeding poor children, no money for education, and no money for healthcare." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY)) The same post continued, "Meanwhile our farmers are struggling. Farm closures are rising. Rural hospitals are shutting down. Small businesses are getting squeezed by tariffs. Rural economies are feeling it every single day." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY))
+  - Source: https://www.youtube.com/shorts/YLa4pXvG3rY
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0009] | 2026-04-19 | My Kids, My Mom and I, ALL went to the same SCHOOL | [source](https://www.youtube.com/shorts/by-pc3VzOIE) | 966 | 22 | Public education, Sumner Academy, family generations. |
+  - Source: https://www.youtube.com/shorts/by-pc3VzOIE
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0010] | 2026-03-08 | America's Broken Promises | [source](https://www.youtube.com/shorts/YLa4pXvG3rY) | 1,261 | 12 | Foreign wars, children, education, healthcare, farms, tariffs. |
+  - Source: https://www.youtube.com/shorts/YLa4pXvG3rY
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0011] | 2026-02-23 | STOP DEFUNDING EDUCATION | [source](https://www.youtube.com/shorts/oXIN3dR1kkI) | 260 | 9 | Title references education; description text discusses healthcare costs. |
+  - Source: https://www.youtube.com/shorts/oXIN3dR1kkI
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0012] "My kids go to the same public high school I graduated from in 2000. My mom graduated from it in 1967. Three generations. Same school." ([source](https://www.youtube.com/shorts/by-pc3VzOIE))
+  - Source: https://www.youtube.com/shorts/by-pc3VzOIE
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0013] "Thank you Sumner Academy for giving me, my parents and my kids a world class education." ([source](https://www.youtube.com/shorts/by-pc3VzOIE))
+  - Source: https://www.youtube.com/shorts/by-pc3VzOIE
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak YouTube like** [soc-erik-murray-0014] "And thank you Kansas for facilitating an education for families, like mine, to flourish." ([source](https://www.youtube.com/shorts/by-pc3VzOIE))
+  - Source: https://www.youtube.com/shorts/by-pc3VzOIE
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong YouTube post** [soc-erik-murray-0015] "We have a President who promised to end foreign wars on day one, and now he’s launching another one. At the same time we’re told there’s no money for feeding poor children, no money for education, and no money for healthcare." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY))
+  - Source: https://www.youtube.com/shorts/YLa4pXvG3rY
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0016] | Healthcare, education, disaster relief, public services | 4 | 24% | [healthcare](https://www.youtube.com/shorts/cDoxxAT-qIY), [Sumner Academy](https://www.youtube.com/shorts/by-pc3VzOIE), [tornado relief](https://erikforkansas.com/news/tornado-relief) |
+  - Source: https://www.youtube.com/shorts/cDoxxAT-qIY
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 4. Religious liberty / church / civic morality
+
+Religious liberty / church / civic morality: 12 selected evidence items from 87 mapped rows. Public URL-backed rows: 0.
+
+### Evidence
+- **candidate-stated** [em-erik-murray-00245] Preserve "no statement found" for guns, religious liberty, marijuana/drug policy, water, and Fort Riley/FHSU-specific issues.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:466
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02409] Religious Liberty: Runs as a Democrat. No specific personal statement found in public sources.
+  - Source: memory/candidates/erik-murray/site-profile.md:23
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-03266] "observation": "Across the captured YouTube and campaign-update period, the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy. The captured feed includes two items that mention farms or rural hospitals and does not include a farm-policy plan.",
+  - Source: ui/src/data/v2/erik-murray.ts:240
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-erik-murray-02657] Across the captured YouTube and campaign-update period, the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy. The captured feed includes two items that mention farms or rural hospitals and does not include a farm-policy plan.
+  - Source: memory/candidates/erik-murray/social-harvest.md:160
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-erik-murray-00122] Attended Fellowship Christian Church with his grandmother while growing up.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:163
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-erik-murray-00123] Attended St. Patrick's Catholic School.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:164
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-erik-murray-00129] Use caution: childhood church and Catholic-school references are biographical only. They do not confirm current church membership or religious-liberty policy.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:171
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-erik-murray-00215] Issue Area 12 - Religious Liberty / Faith-Related Public Record
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:404
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00008] Across the captured period the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy ([harvest](social-harvest.md#visible-absences-in-captured-feed)). The captured feed includes two items that mention farms or rural hospitals, but it does not include a farm-policy plan ([harvest](social-harvest.md#visible-absences-in-captured-feed)).
+  - Source: memory/candidates/erik-murray/in-their-own-words.md:17
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-03002] "title": "Religious Liberty",
+  - Source: ui/src/data/v2/erik-murray.ts:655
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-03130] "issue": "Religious Liberty",
+  - Source: ui/src/data/candidates.ts:6127
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-03269] "observation": "Across the captured period the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy (harvest). The captured feed includes two items that mention farms or rural hospitals, but it does not include a farm-policy plan (harvest).",
+  - Source: ui/src/data/v2/erik-murray.ts:250
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak YouTube post** [soc-erik-murray-0007] Across the captured YouTube and campaign-update period, the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy. The captured feed includes two items that mention farms or rural hospitals and does not include a farm-policy plan.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0142] Across the captured period the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy ([harvest](social-harvest.md#visible-absences-in-captured-feed)). The captured feed includes two items that mention farms or rural hospitals, but it does not include a farm-policy plan ([harvest](social-harvest.md#visible-absences-in-captured-feed)).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0146] "observation": "Across the captured YouTube and campaign-update period, the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy. The captured feed includes two items that mention farms or rural hospitals and does not include a farm-policy plan.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 5. Taxes / spending / debt
+
+Taxes / spending / debt: 28 selected evidence items from 91 mapped rows. Public URL-backed rows: 9.
+
+### Evidence
+- **candidate-stated** [em-erik-murray-00171] 2026-03-16 Kansas Reflector profile: reports Murray supports raising the minimum wage and says tariffs are a tax. Source: s-kansas-reflector-profile.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:276
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01300] Said the US is "$34 trillion in debt, paying a trillion dollars on interest alone"
+  - Source: memory/candidates/erik-murray/raw-dump.md:1723
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01411] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Source: memory/candidates/erik-murray/raw-dump.md:1884
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01903] Supports Opportunity Zones program (tax incentives for investment in distressed areas)
+  - Source: memory/candidates/erik-murray/raw-dump.md:2642
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02414] Small Business / Economy: His central issue. He wants to lower the costs of starting and running small businesses and supports Opportunity Zone tax incentives for economically distressed areas.
+  - Source: memory/candidates/erik-murray/site-profile.md:33
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02920] summary: "Kansas Reflector reported Murray supports raising the minimum wage and said tariffs are a tax."
+  - Source: memory/candidates/erik-murray/v2-issues.yaml:457
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-03136] "stance": "His central issue. He wants to lower the costs of starting and running small businesses and supports Opportunity Zone tax incentives for economically distressed areas."
+  - Source: ui/src/data/candidates.ts:6148
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-03275] "body": "Kansas Reflector reported Murray supports raising the minimum wage and said tariffs are a tax.",
+  - Source: ui/src/data/v2/erik-murray.ts:296
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00029] | s-ks-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, U.S. Senate office up in 2026, filing fee/petition requirements | ballot status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-erik-murray-00039] | s-join-feed | primary | https://join.erikforkansas.com/feed.xml | lastBuildDate 2026-05-19; accessed 2026-05-19 | RSS feed of campaign issue articles on agriculture, housing, Wyandotte development, estate tax priorities | issue activity |
+  - Source: https://join.erikforkansas.com/feed.xml
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00046] | s-kansas-reflector-forum | secondary | https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/ | 2026-03-08; accessed 2026-05-19 | Democratic candidate forum; Murray remarks on immigration, tariffs/tax policy, rural hospitals, schools | campaign forum |
+  - Source: https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00557] Campaign Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (hosted on Canva -- indicates minimal campaign budget/infrastructure)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-02350] "politician-created problems" - same coverage, https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ (tariffs and tax policy critique)
+  - Source: https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00076] A candidate is not considered filed until petition or declaration and fee is received.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:92
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00080] U.S. Senator filing fee total is $1,760, or a petition threshold of 1% party for party candidates.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:96
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00164] 2026-03-08 candidate forum: Kansas Reflector reports Murray connected immigration with tariffs/tax policy and community concerns. Source: s-kansas-reflector-forum.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:256
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-00020] Kansas SOS confirms the filing framework and 2026 election dates, but a direct candidate-list row was not readable in this environment. The SOS candidate-information page says national candidates file with the Secretary of State and are not considered filed until the declaration or petition and fee are received. The primary filing deadline is noon Monday, June 1, 2026. The SOS important-dates page lists the primary election on Aug. 4, 2026 and the general election on Nov. 3, 2026. The live SOS upcoming-candidate page returned a JavaScript/anti-bot gate here. Treat Murray as an active FEC-filed candidate with a live campaign, while noting that direct SOS candidate-list confirmation and final ballot certification remain unresolved.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:15
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01353] Koch Industries was the biggest overall corporate donor to GOP spending groups ($13.75M total) -- strong Kansas connection
+  - Source: memory/candidates/erik-murray/raw-dump.md:1803
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01653] Senate Budget Committee
+  - Source: memory/candidates/erik-murray/raw-dump.md:2228
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01658] Budget Committee
+  - Source: memory/candidates/erik-murray/raw-dump.md:2234
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-erik-murray-02639] "Politician-created problems, such as tariffs and tax policies that benefit billionaires, are tearing apart the fabric of our communities." ([source](https://www.kcur.org/politics-elections-and-government/2025-12-30/democrat-erik-murray-announces-bid-for-senate-seat-held-by-roger-marshall))
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/democrat-erik-murray-announces-bid-for-senate-seat-held-by-roger-marshall
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-erik-murray-01222] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/erik-murray/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00914] Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **background-context** [em-erik-murray-01807] [Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)
+  - Source: https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/
+  - Confidence/use: likely / use
+- **background-context** [em-erik-murray-02191] [Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)
+  - Source: https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec
+  - Confidence/use: likely / use
+- **background-context** [em-erik-murray-00132] KSHB identifies Murray as managing partner of Eastside Innovation and reports the proposed Midtown Station development at the former Indian Springs Mall site would include 2,000 multifamily units, 63 single-family homes, 150 townhomes, affordable housing, childcare, retail, a hotel, and a grocery store. KSHB reports the project remained in limbo because Eastside Innovation and the Unified Government were far apart on land price, financing/capital-stack questions, tax-credit deadlines, outside-counsel funding-agreement costs, and transparency around negotiations.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:177
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00155] Unified Government negotiations: KSHB reports disputes over land price, financing, tax-credit timing, and outside-counsel payment. Source: s-kshb-indian-springs.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:234
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00166] Issue Area 5 - Taxes, Wages, Tariffs, and Affordability
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:264
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **strong kcur.org post** [soc-erik-murray-0017] "Politician-created problems, such as tariffs and tax policies that benefit billionaires, are tearing apart the fabric of our communities." ([source](https://www.kcur.org/politics-elections-and-government/2025-12-30/democrat-erik-murray-announces-bid-for-senate-seat-held-by-roger-marshall))
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/democrat-erik-murray-announces-bid-for-senate-seat-held-by-roger-marshall
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0156] 2026-03-11 YouTube post: veterans/war spending post captured in local harvest. Source: s-social-harvest-local.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0157] The main issue page does not include a detailed energy or technology plank. YouTube RSS and local harvest include posts on alternative energy/windfarms and AI. KSHB reports the Indian Springs project included a proposed solar array/microgrid and investment tax credits tied to that infrastructure.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0158] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0159] Tariffs / agriculture: campaign issue page says tariffs are a tax and calls for eliminating broad tariffs, using targeted tariffs only for specific national-interest cases, and opening global markets for Kansas farmers, ranchers, manufacturers, and consumers. YouTube and campaign-link RSS items tie farm bankruptcies, farm closures, tariffs, rural hospitals, and affordability together.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0160] "Feed lists issue articles on estate tax/agriculture, Chiefs stadium/equitable development, mortgage crisis, farm bankruptcies, and housing affordability"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0161] "observation": "Veterans/war-spending post appears in the captured YouTube feed.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0162] "text": "No detailed energy or technology plank was found on the main campaign issue page. Social posts discuss wind/alternative energy and AI, and the Indian Springs reporting describes a proposed solar microgrid tied to investment tax credits.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0163] "A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 6. Economy / jobs / labor
+
+Economy / jobs / labor: 33 selected evidence items from 94 mapped rows. Public URL-backed rows: 14.
+
+### Evidence
+- **candidate-stated** [em-erik-murray-00170] 2026-02-11 Iola visit: Iola Register reports Murray said he would ban congressional stock trading, undo Trump tariff policy, and raise the minimum wage. Source: s-iola-register.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:275
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-00171] 2026-03-16 Kansas Reflector profile: reports Murray supports raising the minimum wage and says tariffs are a tax. Source: s-kansas-reflector-profile.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:276
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01753] Small business: Supports reducing costs for working families and small businesses
+  - Source: memory/candidates/erik-murray/raw-dump.md:2370
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02414] Small Business / Economy: His central issue. He wants to lower the costs of starting and running small businesses and supports Opportunity Zone tax incentives for economically distressed areas.
+  - Source: memory/candidates/erik-murray/site-profile.md:33
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02785] "Article reports Murray supports fully funding public education, congressional term limits, banning congressional stock trading, undoing tariff policy, and raising the minimum wage"
+  - Source: memory/candidates/erik-murray/v2-issues.yaml:213
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02918] summary: "The Iola Register reported Murray said he would undo tariff policy and raise the minimum wage."
+  - Source: memory/candidates/erik-murray/v2-issues.yaml:451
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02920] summary: "Kansas Reflector reported Murray supports raising the minimum wage and said tariffs are a tax."
+  - Source: memory/candidates/erik-murray/v2-issues.yaml:457
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-03241] "observation": "Description: \"Erik is running for U.S. Senate because he knows it’s time that we stop electing the same old politicians who let our communities falter, the economy decline, and health care become less accessible and more expensive. Kansans deserve someone in the Senate who can deliver real, purposeful change for our working families and who believes hard work should be rewarded and families from every zip code...",
+  - Source: ui/src/data/v2/erik-murray.ts:64
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00045] | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ | 2026-03-16; accessed 2026-05-19 | Profile/interview, Indian Springs context, 105-county tour, healthcare/education/economy focus, immigration/tariff remarks | biography, issue statements |
+  - Source: https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00161] The new campaign issue page says immigration is an economic engine and supports secure, orderly borders; a humane, efficient system; clear pathways; real enforcement; and a system built for the 21st-century economy. Kansas Reflector profile and forum coverage include Murray remarks criticizing current immigration conditions and calling for a functioning system.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:250
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00168] Campaign issue page supports cutting taxes on working families, exploring exempting the first $75,000 to $100,000 of income from federal taxes, requiring corporations and the ultra-wealthy to pay a fair share, raising the federal minimum wage to at least $15 per hour, and ending broad tariffs. It says tariffs are a tax paid at the register, grain elevator, and parts counter, and calls for targeted tariffs only in specific national-interest cases with clear criteria and sunset provisions.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:270
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00169] 2026 campaign issue page: lists tax, minimum wage, and tariff planks. Source: s-campaign-issues.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:274
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00176] Campaign issue page supports enforcing antitrust law and protecting workers, small businesses, and consumers from large companies that fix prices or crush competition. Homepage and biography center Murray's business/development identity and small-business/economic-development claims. Social harvest captured "extractive economy" and local business/community-investment posts.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:291
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00302] Career: Business administrator
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:415
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00490] Business/developer background could appeal to moderates and Opportunity Zone supporters
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:377
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00730] Individual candidate property/business/court records -- requires deeper public records investigation per candidate
+  - Source: memory/candidates/erik-murray/raw-dump.md:783
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01650] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: memory/candidates/erik-murray/raw-dump.md:2224
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-02552] Any PAC, union, organizational endorsement, or independent expenditure specifically supporting or opposing Murray.
+  - Source: memory/candidates/erik-murray/sleuth-pass.md:78
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-erik-murray-00003] Across 17 captured substantive candidate-controlled items, Murray's feed most often returns to local investment, housing, small business, affordability, and economic development: 6 items, or 35 percent of the set ([harvest](social-harvest.md#topic-share-analysis)). In an April 20 YouTube Short, he posted, "An extractive economy is one that takes more from a place than it puts back. You see it when wealth is generated locally but quickly transferred elsewhere through corporate structures, outside ownership, or policy decisions that prioritize short-term gain over long-term stability." ([source](https://www.youtube.com/shorts/7otJxN9_jS8)) In a February 22 housing video description, he wrote, "If there are not enough houses, build more houses." ([source](https://www.youtube.com/shorts/tDVoGEdKde0))
+  - Source: https://www.youtube.com/shorts/7otJxN9_jS8
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-00004] Murray's candidate-controlled accounts point readers back to the same campaign network: the campaign website links to Facebook, Instagram, YouTube, and X, while YouTube descriptions repeatedly list ErikForKansas.com and campaign social handles ([harvest](social-harvest.md#platform-profiles)). His local references include Trox, Sumner Academy, Lorie Wood, Wyandotte County, Quindaro, Gov. Laura Kelly, and Unified Government Mayor and CEO Christal Watson. In a May 10 post about Trox, he wrote, "That’s what makes places like this matter. It’s not just coffee. It’s art, mentorship, memory, small business, and community all in one space." ([source](https://www.youtube.com/shorts/H7J_Nnc7uyo))
+  - Source: https://www.youtube.com/shorts/H7J_Nnc7uyo
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02590] Description: "Erik is running for U.S. Senate because he knows it’s time that we stop electing the same old politicians who let our communities falter, the economy decline, and health care become less accessible and more expensive. Kansans deserve someone in the Senate who can deliver real, purposeful change for our working families and who believes hard work should be rewarded and families from every zip code should thrive." ([source](https://www.youtube.com/@Erik4KS))
+  - Source: https://www.youtube.com/@Erik4KS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02596] | 2026-05-10 | What INVESTING in Community Looks Like! | [source](https://www.youtube.com/shorts/H7J_Nnc7uyo) | 167 | 0 | Small business, arts, local incubator space, Trox. |
+  - Source: https://www.youtube.com/shorts/H7J_Nnc7uyo
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02598] | 2026-04-20 | EXTRACTIVE Economies and UNDER investment | [source](https://www.youtube.com/shorts/7otJxN9_jS8) | 80 | 2 | Local value, underinvestment, community-rooted business. |
+  - Source: https://www.youtube.com/shorts/7otJxN9_jS8
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02610] "An extractive economy is one that takes more from a place than it puts back. You see it when wealth is generated locally but quickly transferred elsewhere through corporate structures, outside ownership, or policy decisions that prioritize short-term gain over long-term stability." ([source](https://www.youtube.com/shorts/7otJxN9_jS8))
+  - Source: https://www.youtube.com/shorts/7otJxN9_jS8
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02613] "That’s what makes places like this matter. It’s not just coffee. It’s art, mentorship, memory, small business, and community all in one space." ([source](https://www.youtube.com/shorts/H7J_Nnc7uyo))
+  - Source: https://www.youtube.com/shorts/H7J_Nnc7uyo
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02620] "Farms are closing. Rural hospitals are closing. And folks in Washington keep acting like this is just the cost of doing business. It’s not. We need leadership that fights for the people and is accountable to the people" ([source](https://www.youtube.com/shorts/rvz2rpE2LRw))
+  - Source: https://www.youtube.com/shorts/rvz2rpE2LRw
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-erik-murray-01023] Education: B.A. in Business Administration, Trevecca Nazarene University (1999) -- *note: Trevecca is a Church of the Nazarene university in Nashville, TN, suggesting a faith background*
+  - Source: memory/candidates/erik-murray/raw-dump.md:1348
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-02074] [Nex-Tech: Shaun](https://www.nex-tech.com/business/shaun/)
+  - Source: https://www.nex-tech.com/business/shaun/
+  - Confidence/use: likely / use
+- **background-context** [em-erik-murray-00174] Issue Area 6 - Monopoly / Antitrust / Small Business
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:285
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00178] 2026-04-20 YouTube post: describes extractive economies, local value, underinvestment, and locally rooted business. Sources: s-social-harvest-local, s-youtube-rss.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:296
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00179] 2026-05-10 YouTube post: discusses Trox as art, mentorship, memory, small business, and community. Sources: s-social-harvest-local, s-youtube-rss.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:297
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00226] Local investment / small business: YouTube posts on extractive economies and Trox/community investment.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:438
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00405] 40-year career in business/financial services
+  - Source: memory/candidates/erik-murray/raw-dump.md:236
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **strong YouTube post** [soc-erik-murray-0018] Across 17 captured substantive candidate-controlled items, Murray's feed most often returns to local investment, housing, small business, affordability, and economic development: 6 items, or 35 percent of the set ([harvest](social-harvest.md#topic-share-analysis)). In an April 20 YouTube Short, he posted, "An extractive economy is one that takes more from a place than it puts back. You see it when wealth is generated locally but quickly transferred elsewhere through corporate structures, outside ownership, or policy decisions that prioritize short-term gain over long-term stability." ([source](https://www.youtube.com/shorts/7otJxN9_jS8)) In a February 22 housing video description, he wrote, "If there are not enough houses, build more houses." ([source](https://www.youtube.com/shorts/tDVoGEdKde0))
+  - Source: https://www.youtube.com/shorts/7otJxN9_jS8
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak YouTube like** [soc-erik-murray-0019] Murray's candidate-controlled accounts point readers back to the same campaign network: the campaign website links to Facebook, Instagram, YouTube, and X, while YouTube descriptions repeatedly list ErikForKansas.com and campaign social handles ([harvest](social-harvest.md#platform-profiles)). His local references include Trox, Sumner Academy, Lorie Wood, Wyandotte County, Quindaro, Gov. Laura Kelly, and Unified Government Mayor and CEO Christal Watson. In a May 10 post about Trox, he wrote, "That’s what makes places like this matter. It’s not just coffee. It’s art, mentorship, memory, small business, and community all in one space." ([source](https://www.youtube.com/shorts/H7J_Nnc7uyo))
+  - Source: https://www.youtube.com/shorts/H7J_Nnc7uyo
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong YouTube post** [soc-erik-murray-0020] Description: "Erik is running for U.S. Senate because he knows it’s time that we stop electing the same old politicians who let our communities falter, the economy decline, and health care become less accessible and more expensive. Kansans deserve someone in the Senate who can deliver real, purposeful change for our working families and who believes hard work should be rewarded and families from every zip code should thrive." ([source](https://www.youtube.com/@Erik4KS))
+  - Source: https://www.youtube.com/@Erik4KS
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak YouTube like** [soc-erik-murray-0021] | 2026-05-10 | What INVESTING in Community Looks Like! | [source](https://www.youtube.com/shorts/H7J_Nnc7uyo) | 167 | 0 | Small business, arts, local incubator space, Trox. |
+  - Source: https://www.youtube.com/shorts/H7J_Nnc7uyo
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong YouTube post** [soc-erik-murray-0022] | 2026-04-20 | EXTRACTIVE Economies and UNDER investment | [source](https://www.youtube.com/shorts/7otJxN9_jS8) | 80 | 2 | Local value, underinvestment, community-rooted business. |
+  - Source: https://www.youtube.com/shorts/7otJxN9_jS8
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0023] "An extractive economy is one that takes more from a place than it puts back. You see it when wealth is generated locally but quickly transferred elsewhere through corporate structures, outside ownership, or policy decisions that prioritize short-term gain over long-term stability." ([source](https://www.youtube.com/shorts/7otJxN9_jS8))
+  - Source: https://www.youtube.com/shorts/7otJxN9_jS8
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak YouTube like** [soc-erik-murray-0024] "That’s what makes places like this matter. It’s not just coffee. It’s art, mentorship, memory, small business, and community all in one space." ([source](https://www.youtube.com/shorts/H7J_Nnc7uyo))
+  - Source: https://www.youtube.com/shorts/H7J_Nnc7uyo
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak YouTube like** [soc-erik-murray-0025] "Farms are closing. Rural hospitals are closing. And folks in Washington keep acting like this is just the cost of doing business. It’s not. We need leadership that fights for the people and is accountable to the people" ([source](https://www.youtube.com/shorts/rvz2rpE2LRw))
+  - Source: https://www.youtube.com/shorts/rvz2rpE2LRw
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong YouTube post** [soc-erik-murray-0026] "All of these things ultimately save money. We can grow our economy, increase affordability. We can have everyone be healthier. And happier and that my friends, is what we want for America." ([source](https://www.youtube.com/shorts/oXIN3dR1kkI))
+  - Source: https://www.youtube.com/shorts/oXIN3dR1kkI
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong erikforkansas.com post** [soc-erik-murray-0027] "I love the Chiefs," Murray says. "I’m happy for the parties to negotiate on this. Governor Laura Kelly has a great record on the economy, and this is kind of a crowning jewel to her achievements. We’re not opposed to that. What we are opposed to is leaving the community of Wyandotte behind." ([source](https://erikforkansas.com/news/chiefs))
+  - Source: https://erikforkansas.com/news/chiefs
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 7. Guns / Second Amendment
+
+Guns / Second Amendment: 22 selected evidence items from 37 mapped rows. Public URL-backed rows: 0.
+
+### Evidence
+- **candidate-stated** [em-erik-murray-00221] Do not infer a gun-policy position from party affiliation or from the Kansas Democratic Party platform.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:426
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-00245] Preserve "no statement found" for guns, religious liberty, marijuana/drug policy, water, and Fort Riley/FHSU-specific issues.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:466
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00219] Issue Area 13 - Guns / Second Amendment
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:418
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00220] No candidate-controlled gun-policy plank was found in the reviewed campaign issue page, homepage, social harvest, or current RSS checks.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:422
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00240] Any candidate-controlled position on guns, marijuana/drug policy, detailed water policy, Fort Riley, Fort Hays State University, or the Ogallala Aquifer.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:457
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00514] Friendly to the Second Amendment
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:424
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00980] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:472
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-01248] Gun / Second Amendment Votes
+  - Source: memory/candidates/erik-murray/raw-dump.md:1666
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-01249] Voted AGAINST the Bipartisan Safer Communities Act (June 2022) -- the gun reform bill that passed after Uvalde
+  - Source: memory/candidates/erik-murray/raw-dump.md:1667
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-01250] Called red flag laws provisions a "gun-grabbing scheme" that "violate the Second Amendment" and are "begging to be abused"
+  - Source: memory/candidates/erik-murray/raw-dump.md:1668
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01673] Very few vulnerabilities from the right; Heritage Action 89-94%, pro-life 100%, NRA-aligned, Trump-endorsed
+  - Source: memory/candidates/erik-murray/raw-dump.md:2254
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-erik-murray-02657] Across the captured YouTube and campaign-update period, the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy. The captured feed includes two items that mention farms or rural hospitals and does not include a farm-policy plan.
+  - Source: memory/candidates/erik-murray/social-harvest.md:160
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-erik-murray-00527] Self-described as "white, male, Christian, hetero, 2A-friendly, LEO-friendly" -- consciously positions himself as electable in red Kansas
+  - Source: memory/candidates/erik-murray/raw-dump.md:447
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-erik-murray-00538] Described himself as "white, male, Christian, hetero, 2A-friendly, LEO-friendly, and very clearly anti-pedo" as reasons he's the best Democratic candidate. (Kansas Reflector)
+  - Source: memory/candidates/erik-murray/raw-dump.md:462
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-erik-murray-00653] Hart has explicitly positioned himself as the most electable Democrat ("white, male, Christian, hetero, 2A-friendly, LEO-friendly"). This electability-vs-values tension will define the primary.
+  - Source: memory/candidates/erik-murray/raw-dump.md:673
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-erik-murray-01222] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/erik-murray/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00008] Across the captured period the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy ([harvest](social-harvest.md#visible-absences-in-captured-feed)). The captured feed includes two items that mention farms or rural hospitals, but it does not include a farm-policy plan ([harvest](social-harvest.md#visible-absences-in-captured-feed)).
+  - Source: memory/candidates/erik-murray/in-their-own-words.md:17
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00526] Pro-2A, pro-law enforcement positioning is unusual for a Democrat and could attract crossover voters
+  - Source: memory/candidates/erik-murray/raw-dump.md:446
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00998] Website headline: "PRO-LIFE. PRO-GUN. PRO-TRUMP."
+  - Source: memory/candidates/erik-murray/raw-dump.md:1301
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-01013] *"PRO-LIFE. PRO-GUN. PRO-TRUMP."* (hawkinsforinsurance.com)
+  - Source: memory/candidates/erik-murray/raw-dump.md:1324
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-01083] | Branding | "Pro-Life. Pro-Gun. Pro-Trump." | Consumer champion; anti-industry |
+  - Source: memory/candidates/erik-murray/raw-dump.md:1435
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-01254] Fire Arms Safety Act -- tax credit for firearms safety courses or purchasing gun safes
+  - Source: memory/candidates/erik-murray/raw-dump.md:1672
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak YouTube post** [soc-erik-murray-0007] Across the captured YouTube and campaign-update period, the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy. The captured feed includes two items that mention farms or rural hospitals and does not include a farm-policy plan.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0142] Across the captured period the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy ([harvest](social-harvest.md#visible-absences-in-captured-feed)). The captured feed includes two items that mention farms or rural hospitals, but it does not include a farm-policy plan ([harvest](social-harvest.md#visible-absences-in-captured-feed)).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0144] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0146] "observation": "Across the captured YouTube and campaign-update period, the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy. The captured feed includes two items that mention farms or rural hospitals and does not include a farm-policy plan.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0173] No candidate-controlled gun-policy plank was found in the reviewed campaign issue page, homepage, social harvest, or current RSS checks.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0174] Do not infer a gun-policy position from party affiliation or from the Kansas Democratic Party platform.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0175] Guns / Second Amendment: Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0176] "text": "No candidate-controlled gun-policy statement was found in the reviewed campaign site, issue page, local social harvest, or current RSS checks.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 8. Immigration / border
+
+Immigration / border: 25 selected evidence items from 75 mapped rows. Public URL-backed rows: 7.
+
+### Evidence
+- **candidate-stated** [em-erik-murray-00859] Immigration Reform: *"We have a very big problem with immigration in our country right now, in the sense that there's a lot of confusion over it."* Supports reform that is "a solution, not another problem."
+  - Source: memory/candidates/erik-murray/raw-dump.md:1024
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01411] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Source: memory/candidates/erik-murray/raw-dump.md:1884
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01422] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/erik-murray/raw-dump.md:1899
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01440] Platform: Consolidated children's healthcare program (replace Medicaid/CHIP patchwork), stronger antitrust and consumer protection laws, immigration reform
+  - Source: memory/candidates/erik-murray/raw-dump.md:1923
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02411] Immigration / Border: Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources. on immigration.
+  - Source: memory/candidates/erik-murray/site-profile.md:27
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00045] | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ | 2026-03-16; accessed 2026-05-19 | Profile/interview, Indian Springs context, 105-county tour, healthcare/education/economy focus, immigration/tariff remarks | biography, issue statements |
+  - Source: https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00046] | s-kansas-reflector-forum | secondary | https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/ | 2026-03-08; accessed 2026-05-19 | Democratic candidate forum; Murray remarks on immigration, tariffs/tax policy, rural hospitals, schools | campaign forum |
+  - Source: https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00469] [Kansas Reflector - Announcement (Aug 2025)](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00161] The new campaign issue page says immigration is an economic engine and supports secure, orderly borders; a humane, efficient system; clear pathways; real enforcement; and a system built for the 21st-century economy. Kansas Reflector profile and forum coverage include Murray remarks criticizing current immigration conditions and calling for a functioning system.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:250
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00162] 2026 campaign issue page: gives direct candidate-controlled immigration plank. Source: s-campaign-issues.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:254
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00164] 2026-03-08 candidate forum: Kansas Reflector reports Murray connected immigration with tariffs/tax policy and community concerns. Source: s-kansas-reflector-forum.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:256
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00165] No detailed border staffing, asylum, visa-category, or enforcement-budget proposal was found beyond the broad campaign language.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:260
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00244] Replace older "no specific personal statement found" language on abortion/reproductive freedom, LGBTQ/civil-rights policy, and immigration with the new candidate-controlled issue-page language where appropriate.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:465
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-00659] Five candidates spoke to 150+ attendees: Hart, Davis, Spidel Neumann, Parelkar, Murray. This was the first major joint appearance. Issues raised: education, immigration, healthcare, tariffs, reproductive rights.
+  - Source: memory/candidates/erik-murray/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01939] Parelkar is the only immigration attorney in the field, giving her unique professional credibility on an issue that dominates Kansas politics. However, she's not from Kansas -- born and raised in Arkansas, moved to Kansas through marriage. In a field where "5th-generation Kansan" and "6th-generation Kansan" are common descriptors, her transplant status is a weakness. Her children's healthcare consolidation proposal is the most specific policy proposal from any Democratic candidate. The Overland Park base puts her in the same Johnson County lane as Spidel Neumann and Murray.
+  - Source: memory/candidates/erik-murray/raw-dump.md:2711
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-erik-murray-02657] Across the captured YouTube and campaign-update period, the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy. The captured feed includes two items that mention farms or rural hospitals and does not include a farm-policy plan.
+  - Source: memory/candidates/erik-murray/social-harvest.md:160
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-erik-murray-01222] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/erik-murray/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-erik-murray-02906] summary: "Kansas Reflector reported Murray discussed a functioning immigration system and criticized current constitutional/humanity concerns."
+  - Source: memory/candidates/erik-murray/v2-issues.yaml:426
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-erik-murray-03263] "body": "Kansas Reflector reported Murray discussed a functioning immigration system and criticized current constitutional/humanity concerns.",
+  - Source: ui/src/data/v2/erik-murray.ts:222
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00458] [Within Reason with Mike Matson (News Radio KMAN, March 2026)](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)
+  - Source: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+  - Confidence/use: likely / use
+- **background-context** [em-erik-murray-01094] [Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/) (Aug 25, 2025)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-erik-murray-01940] [Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-erik-murray-01943] [KMAN Radio: Within Reason interview](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)
+  - Source: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+  - Confidence/use: likely / use
+- **background-context** [em-erik-murray-00008] Across the captured period the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy ([harvest](social-harvest.md#visible-absences-in-captured-feed)). The captured feed includes two items that mention farms or rural hospitals, but it does not include a farm-policy plan ([harvest](social-harvest.md#visible-absences-in-captured-feed)).
+  - Source: memory/candidates/erik-murray/in-their-own-words.md:17
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00159] Issue Area 4 - Immigration and Border Administration
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:244
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak YouTube post** [soc-erik-murray-0007] Across the captured YouTube and campaign-update period, the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy. The captured feed includes two items that mention farms or rural hospitals and does not include a farm-policy plan.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0142] Across the captured period the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy ([harvest](social-harvest.md#visible-absences-in-captured-feed)). The captured feed includes two items that mention farms or rural hospitals, but it does not include a farm-policy plan ([harvest](social-harvest.md#visible-absences-in-captured-feed)).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0146] "observation": "Across the captured YouTube and campaign-update period, the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy. The captured feed includes two items that mention farms or rural hospitals and does not include a farm-policy plan.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0151] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0158] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0177] Weaknesses: Lost her only previous campaign (2020 KS-1 primary). The USDA role ties her directly to Biden, which is a liability in Kansas. Immigration platform (pathway to citizenship) may be too progressive for Kansas general election voters. The NRSC disclosure complaint, while procedural, gives opponents ammunition.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0178] Platform: Consolidated children's healthcare program (replace Medicaid/CHIP patchwork), stronger antitrust and consumer protection laws, immigration reform
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0179] Immigration / Border: Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources. on immigration.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 9. Health care / insurance / Medicaid
+
+Health care / insurance / Medicaid: 37 selected evidence items from 184 mapped rows. Public URL-backed rows: 16.
+
+### Evidence
+- **candidate-stated** [em-erik-murray-00816] Said she wants to restore funding for Medicaid, special education and affordable housing programs (KCUR, Dec 30, 2025)
+  - Source: memory/candidates/erik-murray/raw-dump.md:925
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01067] On her insurance commissioner platform: Focused on *"lowering costs, consumer protection and holding big insurance companies accountable."* (Kansas Reflector, January 2026)
+  - Source: memory/candidates/erik-murray/raw-dump.md:1408
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01279] Has said: "I came to Congress to fix the cost of health care"
+  - Source: memory/candidates/erik-murray/raw-dump.md:1700
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01280] Called Obamacare a "miserable failure" -- said premiums doubled and average family deductible is $7,000-$9,000
+  - Source: memory/candidates/erik-murray/raw-dump.md:1701
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01284] Supports health ministry plans and association healthcare plans as alternatives
+  - Source: memory/candidates/erik-murray/raw-dump.md:1705
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01286] Promised healthcare vote before end of 2025
+  - Source: memory/candidates/erik-murray/raw-dump.md:1707
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01422] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/erik-murray/raw-dump.md:1899
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01440] Platform: Consolidated children's healthcare program (replace Medicaid/CHIP patchwork), stronger antitrust and consumer protection laws, immigration reform
+  - Source: memory/candidates/erik-murray/raw-dump.md:1923
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00045] | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ | 2026-03-16; accessed 2026-05-19 | Profile/interview, Indian Springs context, 105-county tour, healthcare/education/economy focus, immigration/tariff remarks | biography, issue statements |
+  - Source: https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-01098] [Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/) (May 13, 2025)
+  - Source: https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-01108] [Ballotpedia: Kansas Insurance Commissioner Election 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-02463] [Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/)
+  - Source: https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00137] Campaign issue page supports universal healthcare, restoring ACA cuts, protecting and expanding Medicaid, and building toward universal coverage. The homepage says healthcare has become less accessible and more expensive. Local social harvest captured YouTube descriptions stating healthcare is a fundamental need/right. Kansas Reflector and Iola Register both identify healthcare as one of Murray's main campaign themes.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:189
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00139] 2026 campaign issue page: states healthcare platform and specific ACA/Medicaid steps. Source: s-campaign-issues.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:193
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00141] 2026-02-11 Iola visit: Iola Register reports Murray said his campaign hinges on healthcare, education, and affordability. Source: s-iola-register.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:195
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00143] No legislative votes or public administrative decisions on healthcare were found. The platform is candidate-stated.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:199
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-00005] The highest-engagement YouTube item in the captured set was *There SHOULD be TERM LIMITS*, with 1,558 views and a rating count of 45 as of May 11, 2026 ([harvest](social-harvest.md#topic-share-analysis)). The next highest by rating count was *HEALTHCARE is a RIGHT*, with 1,409 views and a rating count of 32 as of May 11, 2026 ([harvest](social-harvest.md#topic-share-analysis)). Other high-view items included affordability at 1,340 views, *America's Broken Promises* at 1,261 views, and housing at 1,156 views, all captured May 11, 2026 ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: memory/candidates/erik-murray/in-their-own-words.md:11
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-00659] Five candidates spoke to 150+ attendees: Hart, Davis, Spidel Neumann, Parelkar, Murray. This was the first major joint appearance. Issues raised: education, immigration, healthcare, tariffs, reproductive rights.
+  - Source: memory/candidates/erik-murray/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01007] Ordered SB 360 transferred between the House Insurance Committee and Health Committee four times since February 25, 2026
+  - Source: memory/candidates/erik-murray/raw-dump.md:1314
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01080] | Fundraising | ~$384K cash on hand (end of 2025) | Unknown; pledged no insurance industry money |
+  - Source: memory/candidates/erik-murray/raw-dump.md:1432
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01349] | Health/medical industry | Sector | Major donor category given his background |
+  - Source: memory/candidates/erik-murray/raw-dump.md:1798
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01650] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: memory/candidates/erik-murray/raw-dump.md:2224
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-erik-murray-00006] National and foreign-policy posts appear in a smaller part of the feed. A March 8 YouTube description said, "We have a President who promised to end foreign wars on day one, and now he’s launching another one. At the same time we’re told there’s no money for feeding poor children, no money for education, and no money for healthcare." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY)) The same post continued, "Meanwhile our farmers are struggling. Farm closures are rising. Rural hospitals are shutting down. Small businesses are getting squeezed by tariffs. Rural economies are feeling it every single day." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY))
+  - Source: https://www.youtube.com/shorts/YLa4pXvG3rY
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02590] Description: "Erik is running for U.S. Senate because he knows it’s time that we stop electing the same old politicians who let our communities falter, the economy decline, and health care become less accessible and more expensive. Kansans deserve someone in the Senate who can deliver real, purposeful change for our working families and who believes hard work should be rewarded and families from every zip code should thrive." ([source](https://www.youtube.com/@Erik4KS))
+  - Source: https://www.youtube.com/@Erik4KS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02602] | 2026-03-08 | America's Broken Promises | [source](https://www.youtube.com/shorts/YLa4pXvG3rY) | 1,261 | 12 | Foreign wars, children, education, healthcare, farms, tariffs. |
+  - Source: https://www.youtube.com/shorts/YLa4pXvG3rY
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02605] | 2026-02-27 | HEALTHCARE is a RIGHT | [source](https://www.youtube.com/shorts/cDoxxAT-qIY) | 1,409 | 32 | Healthcare as a right. |
+  - Source: https://www.youtube.com/shorts/cDoxxAT-qIY
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02606] | 2026-02-23 | STOP DEFUNDING EDUCATION | [source](https://www.youtube.com/shorts/oXIN3dR1kkI) | 260 | 9 | Title references education; description text discusses healthcare costs. |
+  - Source: https://www.youtube.com/shorts/oXIN3dR1kkI
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02618] "We have a President who promised to end foreign wars on day one, and now he’s launching another one. At the same time we’re told there’s no money for feeding poor children, no money for education, and no money for healthcare." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY))
+  - Source: https://www.youtube.com/shorts/YLa4pXvG3rY
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02621] "Healthcare is a fundamental need and therefore a fundamental right." ([source](https://www.youtube.com/shorts/cDoxxAT-qIY))
+  - Source: https://www.youtube.com/shorts/cDoxxAT-qIY
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02622] "Healthcare is a fundamental need and therefore should be a fundamental right of Americans." ([source](https://www.youtube.com/shorts/oXIN3dR1kkI))
+  - Source: https://www.youtube.com/shorts/oXIN3dR1kkI
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-erik-murray-01222] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/erik-murray/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-01096] [Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker](https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/) (Jan 10, 2026)
+  - Source: https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/
+  - Confidence/use: likely / use
+- **background-context** [em-erik-murray-02461] [Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker](https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/)
+  - Source: https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/
+  - Confidence/use: likely / use
+- **background-context** [em-erik-murray-00134] Issue Area 1 - Healthcare
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:183
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00140] 2026-02-27 YouTube post: "HEALTHCARE is a RIGHT" was one of the higher-engagement captured YouTube items in local harvest and RSS. Sources: s-social-harvest-local, s-youtube-rss.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:194
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00228] Healthcare: "HEALTHCARE is a RIGHT" and related healthcare text.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:440
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00292] Support for Medicaid cuts threatening rural hospitals
+  - Source: memory/candidates/erik-murray/raw-dump.md:63
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **strong YouTube post** [soc-erik-murray-0008] National and foreign-policy posts appear in a smaller part of the feed. A March 8 YouTube description said, "We have a President who promised to end foreign wars on day one, and now he’s launching another one. At the same time we’re told there’s no money for feeding poor children, no money for education, and no money for healthcare." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY)) The same post continued, "Meanwhile our farmers are struggling. Farm closures are rising. Rural hospitals are shutting down. Small businesses are getting squeezed by tariffs. Rural economies are feeling it every single day." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY))
+  - Source: https://www.youtube.com/shorts/YLa4pXvG3rY
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0010] | 2026-03-08 | America's Broken Promises | [source](https://www.youtube.com/shorts/YLa4pXvG3rY) | 1,261 | 12 | Foreign wars, children, education, healthcare, farms, tariffs. |
+  - Source: https://www.youtube.com/shorts/YLa4pXvG3rY
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0011] | 2026-02-23 | STOP DEFUNDING EDUCATION | [source](https://www.youtube.com/shorts/oXIN3dR1kkI) | 260 | 9 | Title references education; description text discusses healthcare costs. |
+  - Source: https://www.youtube.com/shorts/oXIN3dR1kkI
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0015] "We have a President who promised to end foreign wars on day one, and now he’s launching another one. At the same time we’re told there’s no money for feeding poor children, no money for education, and no money for healthcare." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY))
+  - Source: https://www.youtube.com/shorts/YLa4pXvG3rY
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0016] | Healthcare, education, disaster relief, public services | 4 | 24% | [healthcare](https://www.youtube.com/shorts/cDoxxAT-qIY), [Sumner Academy](https://www.youtube.com/shorts/by-pc3VzOIE), [tornado relief](https://erikforkansas.com/news/tornado-relief) |
+  - Source: https://www.youtube.com/shorts/cDoxxAT-qIY
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0020] Description: "Erik is running for U.S. Senate because he knows it’s time that we stop electing the same old politicians who let our communities falter, the economy decline, and health care become less accessible and more expensive. Kansans deserve someone in the Senate who can deliver real, purposeful change for our working families and who believes hard work should be rewarded and families from every zip code should thrive." ([source](https://www.youtube.com/@Erik4KS))
+  - Source: https://www.youtube.com/@Erik4KS
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0030] | 2026-02-27 | HEALTHCARE is a RIGHT | [source](https://www.youtube.com/shorts/cDoxxAT-qIY) | 1,409 | 32 | Healthcare as a right. |
+  - Source: https://www.youtube.com/shorts/cDoxxAT-qIY
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0031] "Healthcare is a fundamental need and therefore a fundamental right." ([source](https://www.youtube.com/shorts/cDoxxAT-qIY))
+  - Source: https://www.youtube.com/shorts/cDoxxAT-qIY
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0032] "Healthcare is a fundamental need and therefore should be a fundamental right of Americans." ([source](https://www.youtube.com/shorts/oXIN3dR1kkI))
+  - Source: https://www.youtube.com/shorts/oXIN3dR1kkI
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0033] "HEALTHCARE is a RIGHT" - 1,409 views and 32 rating count ([source](https://www.youtube.com/shorts/cDoxxAT-qIY)).
+  - Source: https://www.youtube.com/shorts/cDoxxAT-qIY
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 10. Election integrity / voting / courts
+
+Election integrity / voting / courts: 24 selected evidence items from 718 mapped rows. Public URL-backed rows: 112.
+
+### Evidence
+- **candidate-stated** [em-erik-murray-01232] He called it "a decision from my heart" and said he was "concerned then and I still am today that six states broke their own laws or their own constitution."
+  - Source: memory/candidates/erik-murray/raw-dump.md:1648
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01286] Promised healthcare vote before end of 2025
+  - Source: memory/candidates/erik-murray/raw-dump.md:1707
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00007] Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, "What we are opposed to is leaving the community of Wyandotte behind." ([source](https://erikforkansas.com/news/chiefs)) In an April 19 education post, he wrote, "Thank you Sumner Academy for giving me, my parents and my kids a world class education." ([source](https://www.youtube.com/shorts/by-pc3VzOIE))
+  - Source: https://erikforkansas.com/news/chiefs
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00029] | s-ks-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, U.S. Senate office up in 2026, filing fee/petition requirements | ballot status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-erik-murray-00030] | s-ks-sos-dates | primary | https://sos.ks.gov/elections/important-election-dates.html | accessed 2026-05-19 | 2026 Kansas primary and general election dates | election dates |
+  - Source: https://sos.ks.gov/elections/important-election-dates.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-erik-murray-00031] | s-ks-sos-upcoming-candidates | primary | https://sos.ks.gov/elections/elections_upcoming_candidate.aspx | accessed 2026-05-19 | Returned JavaScript/anti-bot gate; direct candidate-list row not readable | blocker |
+  - Source: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx
+  - Confidence/use: confirmed / use
+- **documented-record** [em-erik-murray-00033] | s-campaign-bio | primary | https://www.erikforkansas.com/meet-erik | accessed 2026-05-19 | Candidate-controlled biography, family, education, Indian Springs project, Top 13 summary | biography, issue overview |
+  - Source: https://www.erikforkansas.com/meet-erik
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00034] | s-campaign-issues | primary | https://www.erikforkansas.com/issues | accessed 2026-05-19 | Candidate-controlled "13 Areas of Focus" issue platform | all stated issue areas |
+  - Source: https://www.erikforkansas.com/issues
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00035] | s-campaign-tornado | primary | https://www.erikforkansas.com/news/tornado-relief | 2026-04-14; accessed 2026-05-19 | Campaign says statewide/local donations for one week would be redirected to Kansas tornado relief | disaster relief, campaign conduct |
+  - Source: https://www.erikforkansas.com/news/tornado-relief
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00036] | s-campaign-chiefs | primary | https://www.erikforkansas.com/news/chiefs | 2026-03-12; accessed 2026-05-19 | Candidate-controlled press release on Chiefs stadium deal and Wyandotte community investment | local development, governance |
+  - Source: https://www.erikforkansas.com/news/chiefs
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-erik-murray-00437] [FEC Filing](https://www.fec.gov/data/candidate/S6KS00262/)
+  - Source: https://www.fec.gov/data/candidate/S6KS00262/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-erik-murray-00662] FEC Race Page: [2026 Election - U.S. Senate - Kansas](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-erik-murray-01103] [FEC: 2026 Kansas Senate Election](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-erik-murray-01986] FEC Filing: [FEC Candidate H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/)
+  - Source: https://www.fec.gov/data/candidate/H6KS03258/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-erik-murray-03029] https://www.fec.gov/data/elections/senate/KS/2026/ -- FEC filing data -- accessed 2026-03-30
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-erik-murray-00020] Kansas SOS confirms the filing framework and 2026 election dates, but a direct candidate-list row was not readable in this environment. The SOS candidate-information page says national candidates file with the Secretary of State and are not considered filed until the declaration or petition and fee are received. The primary filing deadline is noon Monday, June 1, 2026. The SOS important-dates page lists the primary election on Aug. 4, 2026 and the general election on Nov. 3, 2026. The live SOS upcoming-candidate page returned a JavaScript/anti-bot gate here. Treat Murray as an active FEC-filed candidate with a live campaign, while noting that direct SOS candidate-list confirmation and final ballot certification remain unresolved.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:15
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-erik-murray-01222] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/erik-murray/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-erik-murray-01009] Advocates accused him of "desperately maneuvering to sabotage" the vote
+  - Source: memory/candidates/erik-murray/raw-dump.md:1316
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-01058] Full voting record available at [kslegislature.gov](https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/)
+  - Source: https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/
+  - Confidence/use: confirmed / use
+- **background-context** [em-erik-murray-00075] Candidates for national, state, legislative, and judicial offices must file with the Secretary of State.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:91
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00181] Issue Area 7 - Democracy, Civil Rights, Reproductive Freedom, and Privacy
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:305
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00384] Legislative experience and voting record to point to
+  - Source: memory/candidates/erik-murray/raw-dump.md:198
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00536] "There are many Republicans who are in the wilderness right now. They are sort of like, 'the Republican Party that I grew up with is not the Republican Party right now,' and they are really struggling with where their place is in the world. And they're looking for someone who is someone they can vote for and not simply vote against." (Kansas Reflector, March 2026)
+  - Source: memory/candidates/erik-murray/raw-dump.md:460
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00936] Strengths: Only sitting elected official in the field. Military/intelligence background is extremely strong in Kansas (national security, patriotism, discipline). Tufts education shows intellectual caliber. Young and recently elected -- has momentum. State Senate experience, however brief, means he actually has a voting record to run on.
+  - Source: memory/candidates/erik-murray/raw-dump.md:1181
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous YouTube online-reference** [soc-erik-murray-0001] Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, "What we are opposed to is leaving the community of Wyandotte behind." ([source](https://erikforkansas.com/news/chiefs)) In an April 19 education post, he wrote, "Thank you Sumner Academy for giving me, my parents and my kids a world class education." ([source](https://www.youtube.com/shorts/by-pc3VzOIE))
+  - Source: https://erikforkansas.com/news/chiefs
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous erikforkansas.com online-reference** [soc-erik-murray-0002] | s-campaign-issues | primary | https://www.erikforkansas.com/issues | accessed 2026-05-19 | Candidate-controlled "13 Areas of Focus" issue platform | all stated issue areas |
+  - Source: https://www.erikforkansas.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous erikforkansas.com online-reference** [soc-erik-murray-0003] | s-campaign-launch | primary | https://www.erikforkansas.com/news/launch | 2025-12-03; accessed 2026-05-19 | Launch placeholder, paid-for footer, campaign contact/social links | campaign presence |
+  - Source: https://www.erikforkansas.com/news/launch
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-erik-murray-0004] Campaign website: https://www.erikforkansas.com/ is active. The homepage and footer link Facebook, Instagram, YouTube, and X; the site lists info@erikforkansas.com, press@erikforkansas.com, campaign manager contact, and the campaign mailing address.
+  - Source: https://www.erikforkansas.com/`
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous join.erikforkansas.com online-reference** [soc-erik-murray-0005] Campaign issue site / link hub: https://join.erikforkansas.com/ is active and identifies Murray as "Democrat for U.S. Senate - Kansas." It links official social accounts and embeds two campaign videos, "Counted Out" and "This Place."
+  - Source: https://join.erikforkansas.com/`
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0144] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0146] "observation": "Across the captured YouTube and campaign-update period, the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy. The captured feed includes two items that mention farms or rural hospitals and does not include a farm-policy plan.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0149] Campaign issue page supports fully funding public education, special education, trades training, and college pathways. Campaign biography says Murray's mother was a public-school teacher and administrator and says education is part of his family story. YouTube posts discuss three generations of his family attending Sumner Academy and thank Kansas for facilitating education for families.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0152] Education: campaign issue page supports full funding for public education, special education, trades training, and college pathways. YouTube posts discuss Sumner Academy and public education as a multigenerational family anchor.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0153] summary: "A candidate-controlled YouTube post described three generations of Murray's family attending Sumner Academy and thanked Kansas for facilitating education for families."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 11. Public safety / law enforcement / criminal justice
+
+Public safety / law enforcement / criminal justice: 16 selected evidence items from 232 mapped rows. Public URL-backed rows: 22.
+
+### Evidence
+- **candidate-stated** [em-erik-murray-00768] The January 2026 killing of Alex Pretti by federal agents in Minneapolis was the catalyst. As a career federal law enforcement official, Hart said this event -- and the broader direction of the federal government -- compelled him to leave his career and enter politics for the first time.
+  - Source: memory/candidates/erik-murray/raw-dump.md:848
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00048] | s-nrsc-complaint | secondary | https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/ | 2026-03-11; accessed 2026-05-19 | Partisan complaint alleging late Senate personal financial disclosures by several Kansas Democratic Senate candidates including Murray | disclosure controversy |
+  - Source: https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00049] | s-senate-ethics-disclosure | primary | https://www.ethics.senate.gov/public/index.cfm/financialdisclosure | accessed 2026-05-19 | Senate financial disclosure rules and public disclosure search location | disclosure rules |
+  - Source: https://www.ethics.senate.gov/public/index.cfm/financialdisclosure
+  - Confidence/use: confirmed / use
+- **documented-record** [em-erik-murray-00469] [Kansas Reflector - Announcement (Aug 2025)](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00496] [Kansas Reflector - Campaign Profile (Mar 2026)](https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/)
+  - Source: https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00497] [Sunflower State Journal - Announcement](https://sunflowerstatejournal.com/kck-developer-announces-for-u-s-senate-as-democratic-primary-grows-to-five/)
+  - Source: https://sunflowerstatejournal.com/kck-developer-announces-for-u-s-senate-as-democratic-primary-grows-to-five/
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00695] [KCUR - "Who's running to represent Kansas in the U.S. Senate in 2026?" (Dec 30, 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00696] [Ballotpedia - Kansas Senate 2026](https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026)
+  - Source: https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00701] [Erik Murray Profile (Mar 16, 2026)](https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/)
+  - Source: https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-erik-murray-01764] Hart is the most unconventional candidate in the Democratic primary. A career federal prosecutor who switched parties twice in one month, running on a blunt "electability" argument centered on his identity as a straight white Christian male in Kansas. His wife's quip has become his most quoted line. His lack of political experience or campaign infrastructure is either refreshingly authentic or dangerously unprepared -- depends on the voter. His 21-year record prosecuting child predators is his strongest credential.
+  - Source: memory/candidates/erik-murray/raw-dump.md:2389
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00513] Pro-law enforcement
+  - Source: memory/candidates/erik-murray/raw-dump.md:429
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00525] 16 years as federal prosecutor gives instant credibility on rule of law
+  - Source: memory/candidates/erik-murray/raw-dump.md:445
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00526] Pro-2A, pro-law enforcement positioning is unusual for a Democrat and could attract crossover voters
+  - Source: memory/candidates/erik-murray/raw-dump.md:446
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00757] Career: 21+ years in public service as a prosecutor
+  - Source: memory/candidates/erik-murray/raw-dump.md:836
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00775] Frames himself as a nonpartisan law enforcement veteran who served under both Democratic and Republican administrations
+  - Source: memory/candidates/erik-murray/raw-dump.md:859
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00782] Strengths: The strongest biographical story in the field. A career prosecutor who protected children from predators for 21 years is extraordinarily hard to attack. His party-switching story (independent -> Republican -> Democrat) could genuinely appeal to crossover voters. The "law enforcement Democrat" archetype has worked in red states before.
+  - Source: memory/candidates/erik-murray/raw-dump.md:869
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0144] Kansas House Speaker with 30 years in the insurance industry, running on a "Pro-Life. Pro-Gun. Pro-Trump." platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0163] "A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0177] Weaknesses: Lost her only previous campaign (2020 KS-1 primary). The USDA role ties her directly to Biden, which is a liability in Kansas. Immigration platform (pathway to citizenship) may be too progressive for Kansas general election voters. The NRSC disclosure complaint, while procedural, gives opponents ammunition.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0203] Campaign issue page supports ending Citizens United, banning congressional stock trading, passing/enforcing a code of ethics across all three branches, reforming lobbying and the revolving door, and restoring trust/accountability. Iola Register reports Murray said he wants congressional term limits and would ban congressional stock trading. Local YouTube harvest shows "There SHOULD be TERM LIMITS" was the highest-engagement YouTube item in the captured set.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0207] Elaine Brown led the Black Panther Party from 1974-1977 and has described herself as a *"soldier"* in the fight to bring about a *"socialist revolution"* in the United States -- a fight she says she remains committed to winning. She has recently *"reaffirmed her commitment to topple the 'Empire of the United States.'"*
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0220] Platform / Key Positions:
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0221] Platform
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 12. Agriculture / rural economy / water
+
+Agriculture / rural economy / water: 34 selected evidence items from 123 mapped rows. Public URL-backed rows: 11.
+
+### Evidence
+- **candidate-stated** [em-erik-murray-00245] Preserve "no statement found" for guns, religious liberty, marijuana/drug policy, water, and Fort Riley/FHSU-specific issues.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:466
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-00812] Tariffs: Opposes Trump tariffs, says they cause instability for farmers and rural communities
+  - Source: memory/candidates/erik-murray/raw-dump.md:919
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01274] Opposes federal control over cattle markets
+  - Source: memory/candidates/erik-murray/raw-dump.md:1694
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01422] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/erik-murray/raw-dump.md:1899
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01863] Opposes Medicaid cuts threatening rural hospitals
+  - Source: memory/candidates/erik-murray/raw-dump.md:2564
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00039] | s-join-feed | primary | https://join.erikforkansas.com/feed.xml | lastBuildDate 2026-05-19; accessed 2026-05-19 | RSS feed of campaign issue articles on agriculture, housing, Wyandotte development, estate tax priorities | issue activity |
+  - Source: https://join.erikforkansas.com/feed.xml
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00046] | s-kansas-reflector-forum | secondary | https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/ | 2026-03-08; accessed 2026-05-19 | Democratic candidate forum; Murray remarks on immigration, tariffs/tax policy, rural hospitals, schools | campaign forum |
+  - Source: https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00196] Campaign issue page ties tariffs to Kansas farmers, ranchers, manufacturers, and consumers. Join-site RSS includes farm-bankruptcy and rural Kansas issue articles. YouTube/social harvest includes posts on farm closures, rural hospitals, and tariffs. Kansas Reflector reports Murray discussed rural hospital risk and the farm effects of tariff/foreign-policy decisions.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:350
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00198] 2026-02-13 campaign RSS item: issue article on farm bankruptcies and mental-health crisis. Source: s-join-feed.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:355
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00201] No farm-bill title-by-title platform, crop insurance plank, water-policy plank, or Ogallala Aquifer policy was found.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:361
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00240] Any candidate-controlled position on guns, marijuana/drug policy, detailed water policy, Fort Riley, Fort Hays State University, or the Ogallala Aquifer.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:457
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00293] Failure to pass Farm Bill cited by multiple challengers
+  - Source: memory/candidates/erik-murray/raw-dump.md:64
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00420] Passing a Farm Bill
+  - Source: memory/candidates/erik-murray/raw-dump.md:256
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-00348] Based in very rural Chase County -- small donor/volunteer base
+  - Source: memory/candidates/erik-murray/raw-dump.md:142
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01268] Serves on Senate Agriculture Committee -- a pillar of his identity
+  - Source: memory/candidates/erik-murray/raw-dump.md:1688
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01346] | Kansas Farm Bureau | Endorsement + support | Agricultural sector backing |
+  - Source: memory/candidates/erik-murray/raw-dump.md:1795
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01348] | Agriculture industry | Sector | Major donor category |
+  - Source: memory/candidates/erik-murray/raw-dump.md:1797
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01377] Multiple Farm Bill provisions as Agriculture Committee member
+  - Source: memory/candidates/erik-murray/raw-dump.md:1835
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-01458] Served on House Agriculture Committee -- key for representing the Big First
+  - Source: memory/candidates/erik-murray/raw-dump.md:1949
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-erik-murray-00006] National and foreign-policy posts appear in a smaller part of the feed. A March 8 YouTube description said, "We have a President who promised to end foreign wars on day one, and now he’s launching another one. At the same time we’re told there’s no money for feeding poor children, no money for education, and no money for healthcare." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY)) The same post continued, "Meanwhile our farmers are struggling. Farm closures are rising. Rural hospitals are shutting down. Small businesses are getting squeezed by tariffs. Rural economies are feeling it every single day." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY))
+  - Source: https://www.youtube.com/shorts/YLa4pXvG3rY
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02603] | 2026-03-08 | FARMERS are Losing their Farms | [source](https://www.youtube.com/shorts/rvz2rpE2LRw) | 11 | 2 | Farms, rural hospitals, Washington accountability. |
+  - Source: https://www.youtube.com/shorts/rvz2rpE2LRw
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02619] "Meanwhile our farmers are struggling. Farm closures are rising. Rural hospitals are shutting down. Small businesses are getting squeezed by tariffs. Rural economies are feeling it every single day." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY))
+  - Source: https://www.youtube.com/shorts/YLa4pXvG3rY
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02620] "Farms are closing. Rural hospitals are closing. And folks in Washington keep acting like this is just the cost of doing business. It’s not. We need leadership that fights for the people and is accountable to the people" ([source](https://www.youtube.com/shorts/rvz2rpE2LRw))
+  - Source: https://www.youtube.com/shorts/rvz2rpE2LRw
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02649] | Foreign policy, war, veterans, farms | 3 | 18% | [war/veterans](https://www.youtube.com/shorts/QniWL7281UQ), [America's Broken Promises](https://www.youtube.com/shorts/YLa4pXvG3rY), [farm closures](https://www.youtube.com/shorts/rvz2rpE2LRw) |
+  - Source: https://www.youtube.com/shorts/QniWL7281UQ
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02657] Across the captured YouTube and campaign-update period, the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy. The captured feed includes two items that mention farms or rural hospitals and does not include a farm-policy plan.
+  - Source: memory/candidates/erik-murray/social-harvest.md:160
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-erik-murray-01222] Frequent topics: Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/erik-murray/raw-dump.md:1632
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-erik-murray-02548] No candidate-controlled position was found on guns, marijuana/drug policy, detailed water policy, Fort Riley, Fort Hays State University, or current church membership.
+  - Source: memory/candidates/erik-murray/sleuth-pass.md:72
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-erik-murray-03016] "No candidate-controlled statements were found on guns, marijuana/drug policy, detailed water policy, Fort Riley, Fort Hays State University, or current church membership."
+  - Source: memory/candidates/erik-murray/v2-issues.yaml:713
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-01842] [USDA: KS State Director announcement](https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas)
+  - Source: https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas
+  - Confidence/use: confirmed / use
+- **background-context** [em-erik-murray-02157] [Municipal Water Leader Magazine](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)
+  - Source: https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849
+  - Confidence/use: likely / use
+- **background-context** [em-erik-murray-02158] [KWCH: $15M grant](https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/)
+  - Source: https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/
+  - Confidence/use: likely / use
+- **background-context** [em-erik-murray-02159] [E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)
+  - Source: https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/
+  - Confidence/use: likely / use
+- **background-context** [em-erik-murray-00008] Across the captured period the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy ([harvest](social-harvest.md#visible-absences-in-captured-feed)). The captured feed includes two items that mention farms or rural hospitals, but it does not include a farm-policy plan ([harvest](social-harvest.md#visible-absences-in-captured-feed)).
+  - Source: memory/candidates/erik-murray/in-their-own-words.md:17
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00172] 2026 local social harvest: YouTube posts connect tariffs to farmers, rural hospitals, and small businesses. Source: s-social-harvest-local.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:277
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak YouTube post** [soc-erik-murray-0007] Across the captured YouTube and campaign-update period, the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy. The captured feed includes two items that mention farms or rural hospitals and does not include a farm-policy plan.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong YouTube post** [soc-erik-murray-0008] National and foreign-policy posts appear in a smaller part of the feed. A March 8 YouTube description said, "We have a President who promised to end foreign wars on day one, and now he’s launching another one. At the same time we’re told there’s no money for feeding poor children, no money for education, and no money for healthcare." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY)) The same post continued, "Meanwhile our farmers are struggling. Farm closures are rising. Rural hospitals are shutting down. Small businesses are getting squeezed by tariffs. Rural economies are feeling it every single day." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY))
+  - Source: https://www.youtube.com/shorts/YLa4pXvG3rY
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak YouTube like** [soc-erik-murray-0025] "Farms are closing. Rural hospitals are closing. And folks in Washington keep acting like this is just the cost of doing business. It’s not. We need leadership that fights for the people and is accountable to the people" ([source](https://www.youtube.com/shorts/rvz2rpE2LRw))
+  - Source: https://www.youtube.com/shorts/rvz2rpE2LRw
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong YouTube post** [soc-erik-murray-0034] | 2026-03-08 | FARMERS are Losing their Farms | [source](https://www.youtube.com/shorts/rvz2rpE2LRw) | 11 | 2 | Farms, rural hospitals, Washington accountability. |
+  - Source: https://www.youtube.com/shorts/rvz2rpE2LRw
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0035] "Meanwhile our farmers are struggling. Farm closures are rising. Rural hospitals are shutting down. Small businesses are getting squeezed by tariffs. Rural economies are feeling it every single day." ([source](https://www.youtube.com/shorts/YLa4pXvG3rY))
+  - Source: https://www.youtube.com/shorts/YLa4pXvG3rY
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0036] | Foreign policy, war, veterans, farms | 3 | 18% | [war/veterans](https://www.youtube.com/shorts/QniWL7281UQ), [America's Broken Promises](https://www.youtube.com/shorts/YLa4pXvG3rY), [farm closures](https://www.youtube.com/shorts/rvz2rpE2LRw) |
+  - Source: https://www.youtube.com/shorts/QniWL7281UQ
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0142] Across the captured period the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy ([harvest](social-harvest.md#visible-absences-in-captured-feed)). The captured feed includes two items that mention farms or rural hospitals, but it does not include a farm-policy plan ([harvest](social-harvest.md#visible-absences-in-captured-feed)).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0146] "observation": "Across the captured YouTube and campaign-update period, the feed contains no posts about abortion, immigration, guns, religious liberty, Fort Riley, Fort Hays State University, the Ogallala Aquifer, or water policy. The captured feed includes two items that mention farms or rural hospitals and does not include a farm-policy plan.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0151] Platform: Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0159] Tariffs / agriculture: campaign issue page says tariffs are a tax and calls for eliminating broad tariffs, using targeted tariffs only for specific national-interest cases, and opening global markets for Kansas farmers, ranchers, manufacturers, and consumers. YouTube and campaign-link RSS items tie farm bankruptcies, farm closures, tariffs, rural hospitals, and affordability together.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 13. Local governance / transparency / ethics
+
+Local governance / transparency / ethics: 39 selected evidence items from 865 mapped rows. Public URL-backed rows: 143.
+
+### Evidence
+- **candidate-stated** [em-erik-murray-00133] Kansas Reflector reports Murray said the Indian Springs project shaped his understanding of the disconnect "between what capital wants and what community wants," as well as local/state/federal governance problems. The Iola Register describes him as a real estate developer who founded Eastside Innovation LLC, a commercial real estate and clean energy infrastructure development firm.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:179
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-00170] 2026-02-11 Iola visit: Iola Register reports Murray said he would ban congressional stock trading, undo Trump tariff policy, and raise the minimum wage. Source: s-iola-register.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:275
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-00768] The January 2026 killing of Alex Pretti by federal agents in Minneapolis was the catalyst. As a career federal law enforcement official, Hart said this event -- and the broader direction of the federal government -- compelled him to leave his career and enter politics for the first time.
+  - Source: memory/candidates/erik-murray/raw-dump.md:848
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-01411] Platform: Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Source: memory/candidates/erik-murray/raw-dump.md:1884
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02177] Hands-on: Pledged to spend 1-2 hours minimum in every county department to assess staffing
+  - Source: memory/candidates/erik-murray/raw-dump.md:3073
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02722] "Biography says he lives in Wyandotte County with his wife Nicole and has four children"
+  - Source: memory/candidates/erik-murray/v2-issues.yaml:105
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02782] "Article says this is Murray's first attempt at running for office"
+  - Source: memory/candidates/erik-murray/v2-issues.yaml:210
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02785] "Article reports Murray supports fully funding public education, congressional term limits, banning congressional stock trading, undoing tariff policy, and raising the minimum wage"
+  - Source: memory/candidates/erik-murray/v2-issues.yaml:213
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-00007] Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, "What we are opposed to is leaving the community of Wyandotte behind." ([source](https://erikforkansas.com/news/chiefs)) In an April 19 education post, he wrote, "Thank you Sumner Academy for giving me, my parents and my kids a world class education." ([source](https://www.youtube.com/shorts/by-pc3VzOIE))
+  - Source: https://erikforkansas.com/news/chiefs
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00029] | s-ks-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, U.S. Senate office up in 2026, filing fee/petition requirements | ballot status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-erik-murray-00030] | s-ks-sos-dates | primary | https://sos.ks.gov/elections/important-election-dates.html | accessed 2026-05-19 | 2026 Kansas primary and general election dates | election dates |
+  - Source: https://sos.ks.gov/elections/important-election-dates.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-erik-murray-00031] | s-ks-sos-upcoming-candidates | primary | https://sos.ks.gov/elections/elections_upcoming_candidate.aspx | accessed 2026-05-19 | Returned JavaScript/anti-bot gate; direct candidate-list row not readable | blocker |
+  - Source: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx
+  - Confidence/use: confirmed / use
+- **documented-record** [em-erik-murray-00033] | s-campaign-bio | primary | https://www.erikforkansas.com/meet-erik | accessed 2026-05-19 | Candidate-controlled biography, family, education, Indian Springs project, Top 13 summary | biography, issue overview |
+  - Source: https://www.erikforkansas.com/meet-erik
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00034] | s-campaign-issues | primary | https://www.erikforkansas.com/issues | accessed 2026-05-19 | Candidate-controlled "13 Areas of Focus" issue platform | all stated issue areas |
+  - Source: https://www.erikforkansas.com/issues
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00035] | s-campaign-tornado | primary | https://www.erikforkansas.com/news/tornado-relief | 2026-04-14; accessed 2026-05-19 | Campaign says statewide/local donations for one week would be redirected to Kansas tornado relief | disaster relief, campaign conduct |
+  - Source: https://www.erikforkansas.com/news/tornado-relief
+  - Confidence/use: likely / use
+- **documented-record** [em-erik-murray-00036] | s-campaign-chiefs | primary | https://www.erikforkansas.com/news/chiefs | 2026-03-12; accessed 2026-05-19 | Candidate-controlled press release on Chiefs stadium deal and Wyandotte community investment | local development, governance |
+  - Source: https://www.erikforkansas.com/news/chiefs
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-erik-murray-00025] | s-fec-candidate | primary | https://www.fec.gov/data/candidate/S6KS00270/?cycle=2026&election_full=false | accessed 2026-05-19 | Candidate ID, office, party, challenger status, Statement of Candidacy filed 2025-12-03, finance totals through 2026-03-31 | status, campaign finance |
+  - Source: https://www.fec.gov/data/candidate/S6KS00270/?cycle=2026&election_full=false
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-erik-murray-00026] | s-fec-committee | primary | https://www.fec.gov/data/committee/C00929240/?cycle=2026 | accessed 2026-05-19 | Active Senate principal campaign committee, committee ID, treasurer, mailing address, Statement of Organization, finance totals | status, campaign finance |
+  - Source: https://www.fec.gov/data/committee/C00929240/?cycle=2026
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-erik-murray-00027] | s-fec-form2 | primary | https://docquery.fec.gov/pdf/588/202512039793359588/202512039793359588.pdf | filed 2025-12-03; accessed 2026-05-19 | FEC Form 2 Statement of Candidacy for Murray, Erik, Senate, KS, Democratic Party, principal committee designation | official candidacy |
+  - Source: https://docquery.fec.gov/pdf/588/202512039793359588/202512039793359588.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-erik-murray-00028] | s-fec-form1 | primary | https://docquery.fec.gov/pdf/572/202512039793359572/202512039793359572.pdf | filed 2025-12-03; accessed 2026-05-19 | FEC Form 1 Statement of Organization for Erik Murray for Kansas | committee structure |
+  - Source: https://docquery.fec.gov/pdf/572/202512039793359572/202512039793359572.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-erik-murray-00032] | s-campaign-home | primary | https://www.erikforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, biography preview, news links, donation/social/contact links | biography, campaign activity |
+  - Source: https://www.erikforkansas.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-erik-murray-00437] [FEC Filing](https://www.fec.gov/data/candidate/S6KS00262/)
+  - Source: https://www.fec.gov/data/candidate/S6KS00262/
+  - Confidence/use: confirmed / use
+- **social-online-signal** [em-erik-murray-00003] Across 17 captured substantive candidate-controlled items, Murray's feed most often returns to local investment, housing, small business, affordability, and economic development: 6 items, or 35 percent of the set ([harvest](social-harvest.md#topic-share-analysis)). In an April 20 YouTube Short, he posted, "An extractive economy is one that takes more from a place than it puts back. You see it when wealth is generated locally but quickly transferred elsewhere through corporate structures, outside ownership, or policy decisions that prioritize short-term gain over long-term stability." ([source](https://www.youtube.com/shorts/7otJxN9_jS8)) In a February 22 housing video description, he wrote, "If there are not enough houses, build more houses." ([source](https://www.youtube.com/shorts/tDVoGEdKde0))
+  - Source: https://www.youtube.com/shorts/7otJxN9_jS8
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-00004] Murray's candidate-controlled accounts point readers back to the same campaign network: the campaign website links to Facebook, Instagram, YouTube, and X, while YouTube descriptions repeatedly list ErikForKansas.com and campaign social handles ([harvest](social-harvest.md#platform-profiles)). His local references include Trox, Sumner Academy, Lorie Wood, Wyandotte County, Quindaro, Gov. Laura Kelly, and Unified Government Mayor and CEO Christal Watson. In a May 10 post about Trox, he wrote, "That’s what makes places like this matter. It’s not just coffee. It’s art, mentorship, memory, small business, and community all in one space." ([source](https://www.youtube.com/shorts/H7J_Nnc7uyo))
+  - Source: https://www.youtube.com/shorts/H7J_Nnc7uyo
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02047] Facebook (Official): [musilcomish](https://www.facebook.com/musilcomish/)
+  - Source: https://www.facebook.com/musilcomish/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02560] | Campaign website | Yes | [erikforkansas.com](https://erikforkansas.com/) | Official site links to Facebook, Instagram, YouTube, and X. |
+  - Source: https://erikforkansas.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02580] Profile description: "Erik Murray for Kansas, Kansas City. 2,168 likes · 2,142 talking about this. Next U.S. Senator for Kansas 🇺🇸 "Leading With Real Solutions, Putting People First!" Proud Kansan🌻 Proud Husband Proud..." ([source](https://www.facebook.com/profile.php?id=61584336359633))
+  - Source: https://www.facebook.com/profile.php?id=61584336359633
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02596] | 2026-05-10 | What INVESTING in Community Looks Like! | [source](https://www.youtube.com/shorts/H7J_Nnc7uyo) | 167 | 0 | Small business, arts, local incubator space, Trox. |
+  - Source: https://www.youtube.com/shorts/H7J_Nnc7uyo
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02598] | 2026-04-20 | EXTRACTIVE Economies and UNDER investment | [source](https://www.youtube.com/shorts/7otJxN9_jS8) | 80 | 2 | Local value, underinvestment, community-rooted business. |
+  - Source: https://www.youtube.com/shorts/7otJxN9_jS8
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02601] | 2026-03-08 | KANSAS CITY CHIEFS DEAL SUCKS | [source](https://www.youtube.com/shorts/xQDJTuwwNwY) | 1,109 | 12 | Chiefs deal, local economic development. |
+  - Source: https://www.youtube.com/shorts/xQDJTuwwNwY
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-erik-murray-02209] Board involvement: Assigned to present for TMP schools during scholarship award presentations as a county commissioner, suggesting ongoing connection to the Catholic school community.
+  - Source: memory/candidates/erik-murray/raw-dump.md:3126
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-erik-murray-02292] | Official | Church/Faith | Confidence |
+  - Source: memory/candidates/erik-murray/raw-dump.md:3256
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-erik-murray-01220] Criticism: The Kansas City Star editorial board criticized the newsletter as being used primarily to attack Democrats (Biden/Harris) rather than to help Kansans, calling it partisan rather than informative.
+  - Source: memory/candidates/erik-murray/raw-dump.md:1629
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00047] | s-kshb-indian-springs | secondary | https://www.kshb.com/news/local-news/kansas/wyandotte-county/indian-springs-mall-site-redevelopment-in-limbo-as-kck-developer-unified-government-cant-agree-on-plan | 2026; accessed 2026-05-19 | Indian Springs/Midtown Station plan, UG dispute, financing, land price, transparency statements | action record, local development |
+  - Source: https://www.kshb.com/news/local-news/kansas/wyandotte-county/indian-springs-mall-site-redevelopment-in-limbo-as-kck-developer-unified-government-cant-agree-on-plan
+  - Confidence/use: likely / use
+- **background-context** [em-erik-murray-01873] [Johnson County Post photo](https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/)
+  - Source: https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/
+  - Confidence/use: likely / use
+- **background-context** [em-erik-murray-01979] [City of Wellington: Resignation press release](https://www.cityofwellington.net/newsview.aspx?nid=6940)
+  - Source: https://www.cityofwellington.net/newsview.aspx?nid=6940
+  - Confidence/use: likely / use
+- **background-context** [em-erik-murray-02134] City Page: [haysusa.com/directory.aspx?eid=6](https://www.haysusa.com/directory.aspx?eid=6)
+  - Source: https://www.haysusa.com/directory.aspx?eid=6
+  - Confidence/use: confirmed / use
+- **background-context** [em-erik-murray-02158] [KWCH: $15M grant](https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/)
+  - Source: https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/
+  - Confidence/use: likely / use
+- **background-context** [em-erik-murray-02159] [E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)
+  - Source: https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous YouTube online-reference** [soc-erik-murray-0001] Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, "What we are opposed to is leaving the community of Wyandotte behind." ([source](https://erikforkansas.com/news/chiefs)) In an April 19 education post, he wrote, "Thank you Sumner Academy for giving me, my parents and my kids a world class education." ([source](https://www.youtube.com/shorts/by-pc3VzOIE))
+  - Source: https://erikforkansas.com/news/chiefs
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous erikforkansas.com online-reference** [soc-erik-murray-0002] | s-campaign-issues | primary | https://www.erikforkansas.com/issues | accessed 2026-05-19 | Candidate-controlled "13 Areas of Focus" issue platform | all stated issue areas |
+  - Source: https://www.erikforkansas.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous erikforkansas.com online-reference** [soc-erik-murray-0003] | s-campaign-launch | primary | https://www.erikforkansas.com/news/launch | 2025-12-03; accessed 2026-05-19 | Launch placeholder, paid-for footer, campaign contact/social links | campaign presence |
+  - Source: https://www.erikforkansas.com/news/launch
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-erik-murray-0004] Campaign website: https://www.erikforkansas.com/ is active. The homepage and footer link Facebook, Instagram, YouTube, and X; the site lists info@erikforkansas.com, press@erikforkansas.com, campaign manager contact, and the campaign mailing address.
+  - Source: https://www.erikforkansas.com/`
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous join.erikforkansas.com online-reference** [soc-erik-murray-0005] Campaign issue site / link hub: https://join.erikforkansas.com/ is active and identifies Murray as "Democrat for U.S. Senate - Kansas." It links official social accounts and embeds two campaign videos, "Counted Out" and "This Place."
+  - Source: https://join.erikforkansas.com/`
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous erikforkansas.com online-reference** [soc-erik-murray-0006] | s-campaign-home | primary | https://www.erikforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, biography preview, news links, donation/social/contact links | biography, campaign activity |
+  - Source: https://www.erikforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong YouTube post** [soc-erik-murray-0018] Across 17 captured substantive candidate-controlled items, Murray's feed most often returns to local investment, housing, small business, affordability, and economic development: 6 items, or 35 percent of the set ([harvest](social-harvest.md#topic-share-analysis)). In an April 20 YouTube Short, he posted, "An extractive economy is one that takes more from a place than it puts back. You see it when wealth is generated locally but quickly transferred elsewhere through corporate structures, outside ownership, or policy decisions that prioritize short-term gain over long-term stability." ([source](https://www.youtube.com/shorts/7otJxN9_jS8)) In a February 22 housing video description, he wrote, "If there are not enough houses, build more houses." ([source](https://www.youtube.com/shorts/tDVoGEdKde0))
+  - Source: https://www.youtube.com/shorts/7otJxN9_jS8
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak YouTube like** [soc-erik-murray-0019] Murray's candidate-controlled accounts point readers back to the same campaign network: the campaign website links to Facebook, Instagram, YouTube, and X, while YouTube descriptions repeatedly list ErikForKansas.com and campaign social handles ([harvest](social-harvest.md#platform-profiles)). His local references include Trox, Sumner Academy, Lorie Wood, Wyandotte County, Quindaro, Gov. Laura Kelly, and Unified Government Mayor and CEO Christal Watson. In a May 10 post about Trox, he wrote, "That’s what makes places like this matter. It’s not just coffee. It’s art, mentorship, memory, small business, and community all in one space." ([source](https://www.youtube.com/shorts/H7J_Nnc7uyo))
+  - Source: https://www.youtube.com/shorts/H7J_Nnc7uyo
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak YouTube like** [soc-erik-murray-0021] | 2026-05-10 | What INVESTING in Community Looks Like! | [source](https://www.youtube.com/shorts/H7J_Nnc7uyo) | 167 | 0 | Small business, arts, local incubator space, Trox. |
+  - Source: https://www.youtube.com/shorts/H7J_Nnc7uyo
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong YouTube post** [soc-erik-murray-0022] | 2026-04-20 | EXTRACTIVE Economies and UNDER investment | [source](https://www.youtube.com/shorts/7otJxN9_jS8) | 80 | 2 | Local value, underinvestment, community-rooted business. |
+  - Source: https://www.youtube.com/shorts/7otJxN9_jS8
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 14. Environment / energy / land use
+
+Environment / energy / land use: 14 selected evidence items from 27 mapped rows. Public URL-backed rows: 2.
+
+### Evidence
+- **candidate-stated** [em-erik-murray-00133] Kansas Reflector reports Murray said the Indian Springs project shaped his understanding of the disconnect "between what capital wants and what community wants," as well as local/state/federal governance problems. The Iola Register describes him as a real estate developer who founded Eastside Innovation LLC, a commercial real estate and clean energy infrastructure development firm.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:179
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-00214] No detailed energy, grid, permitting, AI regulation, or technology-workforce platform was found.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:400
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-erik-murray-02998] "observation": "Current RSS and local harvest show energy and AI posts, but they are not yet matched by detailed platform pages.",
+  - Source: ui/src/data/v2/erik-murray.ts:638
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-02502] Kansas filing/ballot caveat: Kansas SOS confirms that national candidates file with the Secretary of State and are not considered filed until the declaration or petition and fee are received. The primary filing deadline is noon Monday, June 1, 2026. The live SOS upcoming-candidate page returned a JavaScript/anti-bot gate in this environment, so I did not directly confirm a Kansas SOS candidate-list row for Murray.
+  - Source: memory/candidates/erik-murray/sleuth-pass.md:15
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-erik-murray-02990] "text": "No detailed energy or technology plank was found on the main campaign issue page. Social posts discuss wind/alternative energy and AI, and the Indian Springs reporting describes a proposed solar microgrid tied to investment tax credits.",
+  - Source: ui/src/data/v2/erik-murray.ts:597
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-erik-murray-00020] Kansas SOS confirms the filing framework and 2026 election dates, but a direct candidate-list row was not readable in this environment. The SOS candidate-information page says national candidates file with the Secretary of State and are not considered filed until the declaration or petition and fee are received. The primary filing deadline is noon Monday, June 1, 2026. The SOS important-dates page lists the primary election on Aug. 4, 2026 and the general election on Nov. 3, 2026. The live SOS upcoming-candidate page returned a JavaScript/anti-bot gate here. Treat Murray as an active FEC-filed candidate with a live campaign, while noting that direct SOS candidate-list confirmation and final ballot certification remain unresolved.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:15
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-erik-murray-02594] | 2026-05-10 | We NEED Alternatives Types of ENERGY (Windfarms?) | [source](https://www.youtube.com/shorts/dVQxGSlABbc) | 936 | 9 | Energy options; windfarms. |
+  - Source: https://www.youtube.com/shorts/dVQxGSlABbc
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-erik-murray-02648] | Energy and technology | 2 | 12% | [windfarms](https://www.youtube.com/shorts/dVQxGSlABbc), [AI](https://www.youtube.com/shorts/RVjD3uldZVY) |
+  - Source: https://www.youtube.com/shorts/dVQxGSlABbc
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-erik-murray-00208] Issue Area 11 - Energy and Technology
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:384
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00210] The main issue page does not include a detailed energy or technology plank. YouTube RSS and local harvest include posts on alternative energy/windfarms and AI. KSHB reports the Indian Springs project included a proposed solar array/microgrid and investment tax credits tied to that infrastructure.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:390
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00211] 2026-05-10 YouTube post: "We NEED Alternatives Types of ENERGY (Windfarms?)" discusses energy options. Sources: s-youtube-rss, s-social-harvest-local.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:394
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00231] Energy / AI: wind/energy and AI posts.
+  - Source: memory/candidates/erik-murray/raw-dump-v2.md:443
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-00467] First-generation immigrant spouse could become a liability in anti-immigration political climate
+  - Source: memory/candidates/erik-murray/raw-dump.md:334
+  - Confidence/use: unknown / background-only
+- **background-context** [em-erik-murray-01647] Member, Subcommittee on Energy, Natural Resources, and Infrastructure
+  - Source: memory/candidates/erik-murray/raw-dump.md:2220
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **strong YouTube post** [soc-erik-murray-0056] | 2026-05-10 | We NEED Alternatives Types of ENERGY (Windfarms?) | [source](https://www.youtube.com/shorts/dVQxGSlABbc) | 936 | 9 | Energy options; windfarms. |
+  - Source: https://www.youtube.com/shorts/dVQxGSlABbc
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong YouTube post** [soc-erik-murray-0057] | Energy and technology | 2 | 12% | [windfarms](https://www.youtube.com/shorts/dVQxGSlABbc), [AI](https://www.youtube.com/shorts/RVjD3uldZVY) |
+  - Source: https://www.youtube.com/shorts/dVQxGSlABbc
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0157] The main issue page does not include a detailed energy or technology plank. YouTube RSS and local harvest include posts on alternative energy/windfarms and AI. KSHB reports the Indian Springs project included a proposed solar array/microgrid and investment tax credits tied to that infrastructure.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0162] "text": "No detailed energy or technology plank was found on the main campaign issue page. Social posts discuss wind/alternative energy and AI, and the Indian Springs reporting describes a proposed solar microgrid tied to investment tax credits.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0232] 2026-05-10 YouTube post: "We NEED Alternatives Types of ENERGY (Windfarms?)" discusses energy options. Sources: s-youtube-rss, s-social-harvest-local.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0242] "observation": "Current RSS and local harvest show energy and AI posts, but they are not yet matched by detailed platform pages.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-erik-murray-0245] No detailed energy, grid, permitting, AI regulation, or technology-workforce platform was found.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0246] Energy / AI: social/Youtube posts discuss wind energy alternatives and AI; the main issue page does not yet provide a detailed energy or technology policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0247] summary: "YouTube RSS includes a post titled \"We NEED Alternatives Types of ENERGY (Windfarms?).\""
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-erik-murray-0248] "observation": "YouTube RSS includes a post titled \"We NEED Alternatives Types of ENERGY (Windfarms?).\"",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.

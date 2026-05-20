@@ -1,0 +1,404 @@
+{
+  "candidateSlug": "mark-lane",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 8,
+  "sources": [
+    {
+      "sourceId": "src-mark-lane-0001",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01ML_AT.pdf",
+      "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:37",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-mark-lane-00045"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01ML_AT.pdf\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-mark-lane-0002",
+      "url": null,
+      "sourceFile": "memory/candidates/mark-lane/social-harvest.md:20",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social follow",
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 16,
+      "rowIds": [
+        "em-mark-lane-00013",
+        "em-mark-lane-00005",
+        "em-mark-lane-00012",
+        "em-mark-lane-00014",
+        "em-mark-lane-00016",
+        "em-mark-lane-00019",
+        "em-mark-lane-00020",
+        "em-mark-lane-00021",
+        "em-mark-lane-00022",
+        "em-mark-lane-00023",
+        "em-mark-lane-00025",
+        "em-mark-lane-00009",
+        "em-mark-lane-00003",
+        "em-mark-lane-00008",
+        "em-mark-lane-00024",
+        "em-mark-lane-00026"
+      ],
+      "claimsAnchored": [
+        "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associa",
+        "This artifact was created because the candidate-completeness audit found Mark Lane in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+        "Ballot / filing status: KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+        "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+        "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+        "Mark Lane - social harvest",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Slug: mark-lane",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-mark-lane-0003",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:109",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "donor/funding",
+        "legal/court",
+        "meeting record"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 36,
+      "rowIds": [
+        "em-mark-lane-00101",
+        "em-mark-lane-00103",
+        "em-mark-lane-00097",
+        "em-mark-lane-00099",
+        "em-mark-lane-00110",
+        "em-mark-lane-00115",
+        "em-mark-lane-00116",
+        "em-mark-lane-00086",
+        "em-mark-lane-00093",
+        "em-mark-lane-00096",
+        "em-mark-lane-00098",
+        "em-mark-lane-00100",
+        "em-mark-lane-00102",
+        "em-mark-lane-00104",
+        "em-mark-lane-00105",
+        "em-mark-lane-00106",
+        "em-mark-lane-00107",
+        "em-mark-lane-00108",
+        "em-mark-lane-00109",
+        "em-mark-lane-00111",
+        "em-mark-lane-00117",
+        "em-mark-lane-00118",
+        "em-mark-lane-00114",
+        "em-mark-lane-00083",
+        "em-mark-lane-00084",
+        "em-mark-lane-00085",
+        "em-mark-lane-00087",
+        "em-mark-lane-00088",
+        "em-mark-lane-00089",
+        "em-mark-lane-00090",
+        "em-mark-lane-00091",
+        "em-mark-lane-00092",
+        "em-mark-lane-00094",
+        "em-mark-lane-00095",
+        "em-mark-lane-00112",
+        "em-mark-lane-00113"
+      ],
+      "claimsAnchored": [
+        "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+        "\"The governor is the boss of Kansas state government. They sign or veto every law the legislature passes, write the state budget, appoint the heads of state agencies, and set the direction on taxes, schools, roads, and healthcare. When there's a disaster, a cr",
+        "\"With Laura Kelly term-limited, both parties and multiple campaign-account holders are building a large field for one of the most important open-seat races in Kansas politics.\",",
+        "\"Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.\",",
+        "status: \"Incumbent Running\",",
+        "\"This office decides which lawsuits Kansas joins, which criminal or civil fights get statewide attention, and how aggressively state law is enforced in court.\",",
+        "\"The attorney general is Kansas's top lawyer. They decide which lawsuits the state files or joins, prosecute major crimes that cross county lines, protect consumers from scams, and defend or challenge state laws in court. If a company rips off Kansans, if ther",
+        "\"charlotte-ohara\",",
+        "\"mark-lane\",",
+        "description:",
+        "plainEnglish:",
+        "whyItMatters:"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-mark-lane-0004",
+      "url": null,
+      "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:69",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "donor/funding",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 54,
+      "rowIds": [
+        "em-mark-lane-00065",
+        "em-mark-lane-00081",
+        "em-mark-lane-00033",
+        "em-mark-lane-00034",
+        "em-mark-lane-00036",
+        "em-mark-lane-00037",
+        "em-mark-lane-00052",
+        "em-mark-lane-00054",
+        "em-mark-lane-00061",
+        "em-mark-lane-00067",
+        "em-mark-lane-00070",
+        "em-mark-lane-00078",
+        "em-mark-lane-00080",
+        "em-mark-lane-00082",
+        "em-mark-lane-00035",
+        "em-mark-lane-00040",
+        "em-mark-lane-00042",
+        "em-mark-lane-00047",
+        "em-mark-lane-00056",
+        "em-mark-lane-00057",
+        "em-mark-lane-00069",
+        "em-mark-lane-00072",
+        "em-mark-lane-00075",
+        "em-mark-lane-00007",
+        "em-mark-lane-00027",
+        "em-mark-lane-00028",
+        "em-mark-lane-00029",
+        "em-mark-lane-00030",
+        "em-mark-lane-00031",
+        "em-mark-lane-00032",
+        "em-mark-lane-00038",
+        "em-mark-lane-00039",
+        "em-mark-lane-00041",
+        "em-mark-lane-00044",
+        "em-mark-lane-00053",
+        "em-mark-lane-00058",
+        "em-mark-lane-00060",
+        "em-mark-lane-00064",
+        "em-mark-lane-00073",
+        "em-mark-lane-00074",
+        "em-mark-lane-00076",
+        "em-mark-lane-00077",
+        "em-mark-lane-00079",
+        "em-mark-lane-00051",
+        "em-mark-lane-00043",
+        "em-mark-lane-00048",
+        "em-mark-lane-00068",
+        "em-mark-lane-00050",
+        "em-mark-lane-00055",
+        "em-mark-lane-00059"
+      ],
+      "claimsAnchored": [
+        "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+        "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+        "\"incumbent\": false,",
+        "\"occupation\": \"Governor candidate / campaign-finance account holder\",",
+        "\"recordSummary\": \"This is a public-record profile for a campaign-finance account; party, platform, and final ballot status were not confirmed in this pass.\",",
+        "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+        "\"title\": \"Ballot / filing status\",",
+        "\"text\": \"KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+        "\"body\": \"Mark Lane was identified in the reviewed official or campaign-finance source for Kansas Governor campaign-finance account holder.\",",
+        "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+        "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+        "\"source\": \"Kansas State Wide Office - 2026 Election Cycle\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-mark-lane-0005",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/mark-lane.ts:77",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "donor/funding",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 26,
+      "rowIds": [
+        "em-mark-lane-00130",
+        "em-mark-lane-00046",
+        "em-mark-lane-00127",
+        "em-mark-lane-00129",
+        "em-mark-lane-00132",
+        "em-mark-lane-00135",
+        "em-mark-lane-00133",
+        "em-mark-lane-00049",
+        "em-mark-lane-00119",
+        "em-mark-lane-00120",
+        "em-mark-lane-00121",
+        "em-mark-lane-00122",
+        "em-mark-lane-00123",
+        "em-mark-lane-00124",
+        "em-mark-lane-00126",
+        "em-mark-lane-00128",
+        "em-mark-lane-00131",
+        "em-mark-lane-00134",
+        "em-mark-lane-00136",
+        "em-mark-lane-00137",
+        "em-mark-lane-00138",
+        "em-mark-lane-00139",
+        "em-mark-lane-00140",
+        "em-mark-lane-00141",
+        "em-mark-lane-00142",
+        "em-mark-lane-00125"
+      ],
+      "claimsAnchored": [
+        "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comm",
+        "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+        "\"observation\": \"Ballot / filing status: KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+        "\"mappedToIssueId\": \"i-ballot-status\"",
+        "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+        "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+        "\"mappedToIssueId\": \"i-donor-funding\"",
+        "\"title\": \"Marcus Mark Lane Appointment of Treasurer\",",
+        "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+        "To refresh:",
+        "node scripts/hydrate-v2-social-signals.mjs",
+        "import type { CandidateFullV2 } from \"@/data/types-v2\";"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-mark-lane-0006",
+      "url": null,
+      "sourceFile": "memory/candidates/mark-lane/in-their-own-words.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-mark-lane-00001",
+        "em-mark-lane-00002",
+        "em-mark-lane-00004",
+        "em-mark-lane-00006",
+        "em-mark-lane-00011",
+        "em-mark-lane-00010",
+        "em-mark-lane-00015"
+      ],
+      "claimsAnchored": [
+        "Mark Lane - in their own words",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-mark-lane-0007",
+      "url": null,
+      "sourceFile": "memory/candidates/mark-lane/raw-dump-v2.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-mark-lane-00017"
+      ],
+      "claimsAnchored": [
+        "Mark Lane - raw dump v2"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-mark-lane-0008",
+      "url": null,
+      "sourceFile": "memory/candidates/mark-lane/sleuth-pass.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-mark-lane-00018"
+      ],
+      "claimsAnchored": [
+        "Mark Lane - sleuth pass"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    }
+  ]
+}

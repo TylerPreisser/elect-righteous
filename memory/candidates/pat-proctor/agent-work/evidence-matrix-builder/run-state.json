@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "pat-proctor",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/pat-proctor/evidence-matrix-raw.json",
+    "memory/candidates/pat-proctor/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/pat-proctor/evidence-matrix.json",
+    "memory/candidates/pat-proctor/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/pat-proctor/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/pat-proctor/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs pat-proctor"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for pat-proctor.",
+    "Run source-tier-validator for pat-proctor."
+  ],
+  "handoff_summary": "Built final evidence matrix for pat-proctor: 2519 raw rows to 1183 deduplicated rows."
+}

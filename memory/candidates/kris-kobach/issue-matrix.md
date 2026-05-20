@@ -1,0 +1,1809 @@
+# Fixed 14-Issue Matrix — kris-kobach — 2026-05-20
+
+This matrix is built from `evidence-matrix.json`, `social-evidence-matrix.json`, and `source-audit.json`. It is a candidate-rebuild input, not final public prose.
+
+## 1. Abortion / life
+
+Abortion / life: 23 selected evidence items from 91 mapped rows. Public URL-backed rows: 9.
+
+### Evidence
+- **candidate-stated** [em-kris-kobach-01142] Reproductive Rights: Supports reproductive freedom
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1589
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-03666] Abortion / Sanctity of Life: Kobach has described abortion as "one of the civil rights issues of our time." He has said Kansas should shed its status as a "Midwest magnet for abortion" and cited the record 19,811 abortions performed in Kansas in 2024. He supports restricting abortion access.
+  - Source: memory/candidates/kris-kobach/site-profile.md:17
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-04463] | Abortion / Reproductive Rights | Supports women's right to make private medical decisions. Will NOT use AG office resources to attack constitutional rights. Respects 2022 Value Them Both referendum result (rejected by 18 points). "I would not waste the resources of the office to attack women's constitutional rights." |
+  - Source: reports/chris-mann-complete-dossier.md:239
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-04916] "stance": "Kobach has described abortion as \"one of the civil rights issues of our time.\" He has said Kansas should shed its status as a \"Midwest magnet for abortion\" and cited the record 19,811 abortions performed in Kansas in 2024. He supports restricting abortion access."
+  - Source: ui/src/data/candidates.ts:24372
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00541] [Kansas Reflector: Senate adopts plan to elect Supreme Court justices](https://kansasreflector.com/2025/03/07/kansas-senate-adopts-plan-to-elect-supreme-court-justices-a-step-toward-overturning-abortion-rights/)
+  - Source: https://kansasreflector.com/2025/03/07/kansas-senate-adopts-plan-to-elect-supreme-court-justices-a-step-toward-overturning-abortion-rights/
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00578] [NPR: Kansas voters decide 'no' on abortion amendment](https://www.npr.org/sections/2022-live-primary-election-race-results/2022/08/02/1115317596/kansas-voters-abortion-legal-reject-constitutional-amendment)
+  - Source: https://www.npr.org/sections/2022-live-primary-election-race-results/2022/08/02/1115317596/kansas-voters-abortion-legal-reject-constitutional-amendment
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00579] [NPR: Abortion rights supporters and opponents look for lessons](https://www.npr.org/2022/08/05/1115808472/kansas-abortion-ballot-measure-campaign-lessons)
+  - Source: https://www.npr.org/2022/08/05/1115808472/kansas-abortion-ballot-measure-campaign-lessons
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00580] [Ballotpedia: Kansas No State Constitutional Right to Abortion Amendment (2022)](https://ballotpedia.org/Kansas_No_State_Constitutional_Right_to_Abortion_and_Legislative_Power_to_Regulate_Abortion_Amendment_(August_2022))
+  - Source: https://ballotpedia.org/Kansas_No_State_Constitutional_Right_to_Abortion_and_Legislative_Power_to_Regulate_Abortion_Amendment_(August_2022
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-04757] Across the captured social period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name. Across the captured social period the feed contains no post-length discussion of abortion, though the official campaign issues page lists Protecting Reproductive Rights and Support Kansans' 2022 Vote ([source](https://hartforsenate.com/issues)). Across the captured social period the feed contains no reposts or quote-posts from primary opponents.
+  - Source: https://hartforsenate.com/issues
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-04810] "url": "https://www.npr.org/sections/2022-live-primary-election-race-results/2022/08/02/1115317596/kansas-voters-abortion-legal-reject-constitutional-amendment"
+  - Source: https://www.npr.org/sections/2022-live-primary-election-race-results/2022/08/02/1115317596/kansas-voters-abortion-legal-reject-constitutional-amendment
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00011] Several areas were absent or thin in the accessible reviewed set. The current public material did not show sustained discussion of Medicaid expansion, rural hospital finance, prescription drug affordability, child care costs, housing affordability, transportation, broadband, water policy, the Ogallala Aquifer, foster care, adoption, or veterans services. Abortion is prominent in the broader candidate profile and older record, but it was not a meaningful topic in the accessible current social sample. Guns appeared mainly through ATF/Second Amendment litigation, and religious liberty appeared mainly through the campaign biography's Air Force vaccine-mandate case ([harvest](social-harvest.md#visible-absences)).
+  - Source: memory/candidates/kris-kobach/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00231] 9.1 Pro-life student First Amendment amicus
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:482
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-04996] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-04934] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-kris-kobach-03915] The accessible X mirror exposed a limited amplification sample. Kobach amplified RAGA on the Lyon County K-9 grant and an Eric W. post praising his AG office's connection to Trump administration legal staffing. The issue network visible in search results also placed Kobach near The FGA on SNAP/public-benefits enforcement and Kansans for Life/right-to-life accounts in recommendations, but the captured Kobach sample did not show a current abortion-focused original post.
+  - Source: memory/candidates/kris-kobach/social-harvest.md:111
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03924] Abortion is prominent in the broader candidate profile and older campaign record, but it was not a meaningful topic in the accessible current social sample captured for this harvest. Guns/Second Amendment appeared through the official special litigation page and ATF litigation, not as a frequent current-posting theme. Religious liberty appeared in the campaign biography through Air Force vaccine-mandate litigation, not as a current repeated social theme.
+  - Source: memory/candidates/kris-kobach/social-harvest.md:129
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-kris-kobach-02082] His faith is expressed more through action (humanitarian service, pro-life positions, protecting faith-based organizations) than through verbal testimony
+  - Source: memory/candidates/kris-kobach/raw-dump.md:3080
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-04582] [Kansas Reflector: "Kansas attorney general candidates split on voter fraud, abortion rights, immigration" (Sep 23, 2022)](https://kansasreflector.com/2022/09/23/kansas-attorney-general-candidates-split-on-voter-fraud-abortion-rights-immigration/)
+  - Source: https://kansasreflector.com/2022/09/23/kansas-attorney-general-candidates-split-on-voter-fraud-abortion-rights-immigration/
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-00230] Section 9 - Abortion / Pro-Life Student Speech / Religious Liberty
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:480
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00370] > "This is a blatant attack by the legislators on our justices, and it's part of a decades-long pattern of politicians attempting to punish the judicial branch for issuing decisions on education and reproductive freedom that they disagree with."
+  - Source: memory/candidates/kris-kobach/raw-dump.md:126
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00390] THE REAL MOTIVATION: ABORTION AND SCHOOL FUNDING
+  - Source: memory/candidates/kris-kobach/raw-dump.md:157
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00392] The 2019 Abortion Ruling
+  - Source: memory/candidates/kris-kobach/raw-dump.md:161
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00400] The reporting reveals that Kansas Republicans returned from the 2024 Republican National Convention dismayed by the party's softened stance on abortion. House Majority Leader Chris Croft acknowledged that the ripple effect of Kansas voters supporting abortion rights in 2022 was "part of the problem."
+  - Source: memory/candidates/kris-kobach/raw-dump.md:173
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate hartforsenate.com share/repost** [soc-kris-kobach-0003] Across the captured social period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name. Across the captured social period the feed contains no post-length discussion of abortion, though the official campaign issues page lists Protecting Reproductive Rights and Support Kansans' 2022 Vote ([source](https://hartforsenate.com/issues)). Across the captured social period the feed contains no reposts or quote-posts from primary opponents.
+  - Source: https://hartforsenate.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-kris-kobach-0004] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-kris-kobach-0009] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak X / Twitter post** [soc-kris-kobach-0011] The accessible X mirror exposed a limited amplification sample. Kobach amplified RAGA on the Lyon County K-9 grant and an Eric W. post praising his AG office's connection to Trump administration legal staffing. The issue network visible in search results also placed Kobach near The FGA on SNAP/public-benefits enforcement and Kansans for Life/right-to-life accounts in recommendations, but the captured Kobach sample did not show a current abortion-focused original post.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-kris-kobach-0012] Abortion is prominent in the broader candidate profile and older campaign record, but it was not a meaningful topic in the accessible current social sample captured for this harvest. Guns/Second Amendment appeared through the official special litigation page and ATF litigation, not as a frequent current-posting theme. Religious liberty appeared in the campaign biography through Air Force vaccine-mandate litigation, not as a current repeated social theme.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0142] Several areas were absent or thin in the accessible reviewed set. The current public material did not show sustained discussion of Medicaid expansion, rural hospital finance, prescription drug affordability, child care costs, housing affordability, transportation, broadband, water policy, the Ogallala Aquifer, foster care, adoption, or veterans services. Abortion is prominent in the broader candidate profile and older record, but it was not a meaningful topic in the accessible current social sample. Guns appeared mainly through ATF/Second Amendment litigation, and religious liberty appeared mainly through the campaign biography's Air Force vaccine-mandate case ([harvest](social-harvest.md#visible-absences)).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0143] "observation": "Existing social harvest found abortion prominent in broader older profile material, but not a repeated topic in the accessible current May 2026 social sample.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0144] "observation": "Abortion is prominent in the broader candidate profile and older campaign record, but it was not a meaningful topic in the accessible current social sample captured for this harvest. Guns/Second Amendment appeared through the official special litigation page and ATF litigation, not as a frequent current-posting theme. Religious liberty appeared in the campaign biography through Air Force vaccine-mandate...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 2. LGBT / gender / parental rights
+
+LGBT / gender / parental rights: 23 selected evidence items from 49 mapped rows. Public URL-backed rows: 6.
+
+### Evidence
+- **candidate-stated** [em-kris-kobach-00210] Page says Kansas sued the Biden administration over a Title IX rule that replaces "sex" with "gender identity."
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:431
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-01200] Transgender Athletes: OPPOSES transgender girls competing in girls' sports (unusual for a Democrat)
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1699
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-02637] At the 2012 Republican National Convention in Tampa, while serving as a Mitt Romney surrogate and debating the GOP platform's marriage equality language, Kobach compared homosexuality to drug abuse and polygamy:
+  - Source: memory/candidates/kris-kobach/raw-dump.md:3999
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-03667] Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.
+  - Source: memory/candidates/kris-kobach/site-profile.md:19
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-02506] [Kansas Reflector: Gender Marker $1 Fine](https://kansasreflector.com/2026/01/20/kansas-judge-rebukes-ag-kris-kobach-in-gender-marker-case-issues-symbolic-1-fine/)
+  - Source: https://kansasreflector.com/2026/01/20/kansas-judge-rebukes-ag-kris-kobach-in-gender-marker-case-issues-symbolic-1-fine/
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-02631] [Kansas Reflector: Judge Rebukes Kobach with $1 Fine](https://kansasreflector.com/2026/01/20/kansas-judge-rebukes-ag-kris-kobach-in-gender-marker-case-issues-symbolic-1-fine/)
+  - Source: https://kansasreflector.com/2026/01/20/kansas-judge-rebukes-ag-kris-kobach-in-gender-marker-case-issues-symbolic-1-fine/
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00093] Biography, election integrity, federal-state litigation, gender/Title IX policy, immigration/health benefits, party/legal network.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:134
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-01330] Education/Parental Rights: Fought for "parents' rights, fiscal responsibility" on school board
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1940
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-02488] Kansas v. Harper -- Transgender ID/Driver's License Case (July 2023): Filed against Kansas Department of Revenue to prohibit transgender people from changing gender markers on driver's licenses. Kobach lost on appeal -- Kansas Court of Appeals lifted trial court's injunction (June 2025), finding Kobach "had not shown a substantial likelihood of prevailing" and there was "no evidence beyond mere speculation" of harm. Kansas Supreme Court denied Kobach's appeal (September 2025). In January 2026, a judge issued a symbolic $1 fine against Kobach for filing a motion in a court without jurisdiction -- the judge said Kobach "should have known better."
+  - Source: memory/candidates/kris-kobach/raw-dump.md:3749
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-02623] | January 2026 | Judge Thomas Luedke, Kansas District Court | Symbolic $1 fine | Filed motion in court lacking jurisdiction in gender marker case; judge said Kobach "should have known better" |
+  - Source: memory/candidates/kris-kobach/raw-dump.md:3976
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-02645] Pushed for legislation requiring government buildings to restrict bathroom access by birth sex, with penalties up to $125,000/day
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4010
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-02646] After losing the driver's license gender marker case in court, went to the legislature to pass SB 244 to achieve the same goal legislatively -- the ACLU characterized this as a "power grab" and "poor sportsmanship over his recent losses"
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4011
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-04996] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Confidence/use: likely / use
+- **social-online-signal** [em-kris-kobach-04753] Hart's public alignment signal is built more through events and organizations than through reposts. The captured Bluesky feed contains no reposts from other accounts and no shared posts from Democratic primary opponents. He posted appearances with the [Harvey County Democratic Party](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mklfhsqnvc22), [Kingman County Democrats](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mjwqagwvp222), and [Riley County Democratic Party](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mhyeggmxh22l), and wrote that he attended [Little Apple Pride](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mklf7g4loc22) and [ICT SOS's 15th Anniversary Celebration](https://bsky.app/profile/kansanshavehart.bsky.social/post/3miegj7xaa22s). In a March 25 KMUW republication of a Kansas Reflector interview, he said, "There are man…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mklfhsqnvc22
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-kris-kobach-01961] May 2018: Signed Senate Bill 284 granting legal protections to faith-based adoption agencies that cite religious beliefs for not placing children in LGBTQ+ homes
+  - Source: memory/candidates/kris-kobach/raw-dump.md:2900
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-kris-kobach-03795] This belongs under family/gender policy because it is a documented legal action, not inferred belief from party or faith affiliation.
+  - Source: memory/candidates/kris-kobach/sleuth-pass.md:94
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-kris-kobach-04816] "stance": "As governor, signed Senate Bill 284 granting legal protections to faith-based adoption agencies that cite religious beliefs for not placing children in LGBTQ+ homes."
+  - Source: ui/src/data/candidates.ts:16762
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-02504] [Kansas Reflector: Transgender Law](https://kansasreflector.com/2026/03/06/kansas-ag-offers-to-delay-enforcement-of-anti-trans-law-until-march-26-while-judge-weighs-challenge/)
+  - Source: https://kansasreflector.com/2026/03/06/kansas-ag-offers-to-delay-enforcement-of-anti-trans-law-until-march-26-while-judge-weighs-challenge/
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-02651] [LGBTQ Nation: Romney Surrogate Compares LGBT People to Drug Users](https://www.lgbtqnation.com/2012/08/top-romney-surrogate-compares-lgbt-people-to-drug-users-polygamists/)
+  - Source: https://www.lgbtqnation.com/2012/08/top-romney-surrogate-compares-lgbt-people-to-drug-users-polygamists/
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-00214] Marriage/family/gender policy, religious liberty, education, federal-state litigation.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:437
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00220] Section 8 - Marriage / Family / Gender-Marker Policy
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:456
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00227] Marriage/family/gender policy / state-law enforcement.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:473
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00283] | Gender policy / family | Driver's-license sex-marker release, Title IX page | Sued to enforce sex-at-birth state-document policy; challenged Title IX rule. |
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:591
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-kris-kobach-0004] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-kris-kobach-0013] Hart's public alignment signal is built more through events and organizations than through reposts. The captured Bluesky feed contains no reposts from other accounts and no shared posts from Democratic primary opponents. He posted appearances with the [Harvey County Democratic Party](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mklfhsqnvc22), [Kingman County Democrats](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mjwqagwvp222), and [Riley County Democratic Party](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mhyeggmxh22l), and wrote that he attended [Little Apple Pride](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mklf7g4loc22) and [ICT SOS's 15th Anniversary Celebration](https://bsky.app/profile/kansanshavehart.bsky.social/post/3miegj7xaa22s). In a March 25 KMUW republication of a Kansas Reflector interview, he said, "There are man…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mklfhsqnvc22
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0145] At the 2012 Republican National Convention in Tampa, while serving as a Mitt Romney surrogate and debating the GOP platform's marriage equality language, Kobach compared homosexuality to drug abuse and polygamy:
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0146] Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0147] "observation": "Gender-policy evidence in this pass came from official litigation pages and releases, not from current social engagement.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 3. Education / curriculum / schools
+
+Education / curriculum / schools: 33 selected evidence items from 202 mapped rows. Public URL-backed rows: 20.
+
+### Evidence
+- **candidate-stated** [em-kris-kobach-00597] STRONG INDICATOR = Family/school ties strongly suggest affiliation but no direct membership statement found
+  - Source: memory/candidates/kris-kobach/raw-dump.md:504
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-01199] School Vouchers: Opposes private schools receiving taxpayer funds or competing in public school athletics
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1698
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-03996] "Page says Kobach argued the Department of Education lacked authority"
+  - Source: memory/candidates/kris-kobach/v2-issues.yaml:140
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00005] Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-part fentanyl response involving penalties, drug-detection K-9s, and overdose-reversal access ([source](https://twstalker.com/KrisKobach1787)). The AG homepage similarly leads with naloxone access, saying the office wants the overdose-reversal drug to be easy for Kansans to find ([source](https://www.ag.ks.gov/)).
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00763] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-01586] [Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)
+  - Source: https://www.usd489.com/page/board-of-education
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-01650] [Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)
+  - Source: https://www.haysusa.com/335/Public-Library-Board
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-03023] [Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-03024] [Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)
+  - Source: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-03025] [Kansas Reflector: Board races could shift power to conservative bloc](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)
+  - Source: https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-04665] "url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5"
+  - Source: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-kris-kobach-04996] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-04934] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-kris-kobach-00084] Kobach was raised in Topeka and graduated from Washburn Rural High School.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:123
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-00212] Page says the rule raised concerns about girls' facilities, due process, and First Amendment/religious-belief conflicts for teachers and school employees.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:433
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-00816] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1032
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-02073] Raised Catholic in Hays -- attended Thomas More Prep-Marian, a Catholic high school
+  - Source: memory/candidates/kris-kobach/raw-dump.md:3070
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-kris-kobach-03874] 4 weeks ago -- State of the Union post opposing in-state tuition rates for undocumented immigrants. Engagement: 24 replies, 42 reposts, 252 likes, 6K views, 2 quotes. Topic: immigration / higher education. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03877] 1 month ago -- Naloxone distribution box at Pratt Community College. Engagement on official post quoted by Kobach: 10 replies, 4 reposts, 14 likes, 1K views, 0 quotes. Topic: fentanyl / public health. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03885] Official X mirror item: naloxone distribution at Pratt Community College. Engagement: 10 replies, 4 reposts, 14 likes, 984 views, 0 quotes. Topic: fentanyl / naloxone. ([source](https://mobile.twstalker.com/KSAGOffice))
+  - Source: https://mobile.twstalker.com/KSAGOffice
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03887] Official X mirror item: AG opinion on in-state tuition for undocumented immigrants. Engagement: 23 replies, 57 reposts, 282 likes, 10K views, 2 quotes. Topic: immigration / higher education / AG opinion. ([source](https://mobile.twstalker.com/KSAGOffice))
+  - Source: https://mobile.twstalker.com/KSAGOffice
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-04756] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3miyghyp6jc2b)). His events feed includes Dodge City, Pittsburg, Harvey County, Kingman County, Riley County, Manhattan, Hesston, and Wichita. His official issues page separately lists water conservation, foreign markets for farmers and ranchers, Medicaid and Medicare expansion, VA staffing, and public education as policy priorities ([source](https://hartforsena…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03923] Across the accessible reviewed set, Kobach's current public posting did not show sustained attention to Medicaid expansion, rural hospital finance, prescription drug affordability, child care costs, housing affordability, workforce wages outside tariff/tax framing, transportation infrastructure, broadband, water policy, the Ogallala Aquifer, agriculture beyond lesser prairie chicken/ranching, higher-education affordability apart from undocumented-student tuition, foster care, adoption, mental health, or veterans services beyond general public-safety and official observance contexts.
+  - Source: memory/candidates/kris-kobach/social-harvest.md:127
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-kris-kobach-00740] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **faith-community-record** [em-kris-kobach-00598] INFERRED = Circumstantial evidence only (German-Catholic surname, attended Catholic school, etc.)
+  - Source: memory/candidates/kris-kobach/raw-dump.md:505
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-kris-kobach-00609] 2010 graduate of Thomas More Prep-Marian (Catholic high school, Diocese of Salina)
+  - Source: memory/candidates/kris-kobach/raw-dump.md:526
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-kris-kobach-00610] Works professionally FOR the Catholic school system in Hays (HCS Advancement Director)
+  - Source: memory/candidates/kris-kobach/raw-dump.md:527
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00820] [HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-01587] [Ballotpedia: Hays USD 489 Elections](https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections)
+  - Source: https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-01714] | Hays USD 489 | 785-623-2400 | [usd489.com](https://www.usd489.com) |
+  - Source: https://www.usd489.com
+  - Confidence/use: confirmed / use
+- **background-context** [em-kris-kobach-00085] Education: Harvard undergraduate degree, Oxford Ph.D., Yale J.D.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:124
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00211] Page quotes Kobach's view that the Department of Education lacked authority.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:432
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00214] Marriage/family/gender policy, religious liberty, education, federal-state litigation.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:437
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate hartforsenate.com share/repost** [soc-kris-kobach-0003] Across the captured social period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name. Across the captured social period the feed contains no post-length discussion of abortion, though the official campaign issues page lists Protecting Reproductive Rights and Support Kansans' 2022 Vote ([source](https://hartforsenate.com/issues)). Across the captured social period the feed contains no reposts or quote-posts from primary opponents.
+  - Source: https://hartforsenate.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-kris-kobach-0004] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous twstalker.com online-reference** [soc-kris-kobach-0005] Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-part fentanyl response involving penalties, drug-detection K-9s, and overdose-reversal access ([source](https://twstalker.com/KrisKobach1787)). The AG homepage similarly leads with naloxone access, saying the office wants the overdose-reversal drug to be easy for Kansans to find ([source](https://www.ag.ks.gov/)).
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-kris-kobach-0009] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate twstalker.com share/repost** [soc-kris-kobach-0014] 4 weeks ago -- State of the Union post opposing in-state tuition rates for undocumented immigrants. Engagement: 24 replies, 42 reposts, 252 likes, 6K views, 2 quotes. Topic: immigration / higher education. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate twstalker.com share/repost** [soc-kris-kobach-0015] 1 month ago -- Naloxone distribution box at Pratt Community College. Engagement on official post quoted by Kobach: 10 replies, 4 reposts, 14 likes, 1K views, 0 quotes. Topic: fentanyl / public health. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate X / Twitter share/repost** [soc-kris-kobach-0016] Official X mirror item: naloxone distribution at Pratt Community College. Engagement: 10 replies, 4 reposts, 14 likes, 984 views, 0 quotes. Topic: fentanyl / naloxone. ([source](https://mobile.twstalker.com/KSAGOffice))
+  - Source: https://mobile.twstalker.com/KSAGOffice
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate X / Twitter share/repost** [soc-kris-kobach-0017] Official X mirror item: AG opinion on in-state tuition for undocumented immigrants. Engagement: 23 replies, 57 reposts, 282 likes, 10K views, 2 quotes. Topic: immigration / higher education / AG opinion. ([source](https://mobile.twstalker.com/KSAGOffice))
+  - Source: https://mobile.twstalker.com/KSAGOffice
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-kris-kobach-0018] Across the accessible reviewed set, Kobach's current public posting did not show sustained attention to Medicaid expansion, rural hospital finance, prescription drug affordability, child care costs, housing affordability, workforce wages outside tariff/tax framing, transportation infrastructure, broadband, water policy, the Ogallala Aquifer, agriculture beyond lesser prairie chicken/ranching, higher-education affordability apart from undocumented-student tuition, foster care, adoption, mental health, or veterans services beyond general public-safety and official observance contexts.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-kris-kobach-0019] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3miyghyp6jc2b)). His events feed includes Dodge City, Pittsburg, Harvey County, Kingman County, Riley County, Manhattan, Hesston, and Wichita. His official issues page separately lists water conservation, foreign markets for farmers and ranchers, Medicaid and Medicare expansion, VA staffing, and public education as policy priorities ([source](https://hartforsena…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 4. Religious liberty / church / civic morality
+
+Religious liberty / church / civic morality: 25 selected evidence items from 312 mapped rows. Public URL-backed rows: 28.
+
+### Evidence
+- **candidate-stated** [em-kris-kobach-00090] Official bio says he led and personally argued Biden-administration challenges involving Title IX and Obamacare eligibility for DACA recipients.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:129
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-00210] Page says Kansas sued the Biden administration over a Title IX rule that replaces "sex" with "gender identity."
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:431
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-03668] Religious Liberty: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources.
+  - Source: memory/candidates/kris-kobach/site-profile.md:21
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00006] The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules ([source](https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach)). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the law; its high-profile case tiles are Title IX, DACA/Obamacare, and ATF/Second Amendment ([source](https://www.ag.ks.gov/divisions/special-litigation-unit)). Campaign and office messaging use those cases to make a single argument: the attorney general's office should be a conservative litigation shop as well as a state law-enforcement agency.
+  - Source: https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-03841] | Official AG bio | https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach | FOUND | Official bio highlights Trump election-integrity commission role, Title IX litigation, Obamacare eligibility litigation, and 2024 RAGA chair election. |
+  - Source: https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-03842] | Official AG special litigation page | https://www.ag.ks.gov/divisions/special-litigation-unit | FOUND | Frames special litigation around constitutional rights, suing federal government, defending Kansas laws, Title IX, DACA/Obamacare, and ATF/Second Amendment cases. |
+  - Source: https://www.ag.ks.gov/divisions/special-litigation-unit
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-03860] The official AG site is more active as a governing communications hub. Its homepage leads with naloxone distribution boxes and a Census lawsuit about excluding undocumented immigrants from apportionment counts ([source](https://www.ag.ks.gov/)). The official biography highlights Kobach's Trump election-integrity commission role, Biden-administration litigation, Title IX litigation, Obamacare eligibility litigation, and RAGA chairmanship ([source](https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach)). The special litigation page says that unit handles high-profile lawsuits against federal regulations and lists Title IX, DACA/Obamacare, and ATF/Second Amendment cases ([source](https://www.ag.ks.gov/divisions/special-litigation-unit)).
+  - Source: https://www.ag.ks.gov/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-03901] [AG official biography](https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach), captured 2026-05-11. Key visible signals: Trump election-integrity commission, Title IX litigation, Obamacare eligibility litigation, RAGA chairmanship, family, and office service.
+  - Source: https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-03902] [AG special litigation page](https://www.ag.ks.gov/divisions/special-litigation-unit), captured 2026-05-11. Key visible signals: suing federal government over regulations, defending Kansas laws, Title IX, DACA/Obamacare, and ATF/Second Amendment litigation.
+  - Source: https://www.ag.ks.gov/divisions/special-litigation-unit
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-00011] Several areas were absent or thin in the accessible reviewed set. The current public material did not show sustained discussion of Medicaid expansion, rural hospital finance, prescription drug affordability, child care costs, housing affordability, transportation, broadband, water policy, the Ogallala Aquifer, foster care, adoption, or veterans services. Abortion is prominent in the broader candidate profile and older record, but it was not a meaningful topic in the accessible current social sample. Guns appeared mainly through ATF/Second Amendment litigation, and religious liberty appeared mainly through the campaign biography's Air Force vaccine-mandate case ([harvest](social-harvest.md#visible-absences)).
+  - Source: memory/candidates/kris-kobach/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00093] Biography, election integrity, federal-state litigation, gender/Title IX policy, immigration/health benefits, party/legal network.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:134
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-04934] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-kris-kobach-00816] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1032
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-kris-kobach-03910] | Federal overreach, constitutional litigation, Title IX, DACA, ATF/Second Amendment, Pfizer/COVID, and special litigation | 7 | 19% |
+  - Source: memory/candidates/kris-kobach/social-harvest.md:104
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03924] Abortion is prominent in the broader candidate profile and older campaign record, but it was not a meaningful topic in the accessible current social sample captured for this harvest. Guns/Second Amendment appeared through the official special litigation page and ATF litigation, not as a frequent current-posting theme. Religious liberty appeared in the campaign biography through Air Force vaccine-mandate litigation, not as a current repeated social theme.
+  - Source: memory/candidates/kris-kobach/social-harvest.md:129
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-kris-kobach-00615] [Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)
+  - Source: https://www.hfehays.org/o/hfe/article/923439
+  - Confidence/use: likely / use
+- **faith-community-record** [em-kris-kobach-00616] [Immaculate Heart of Mary Parish](https://www.ihm-church.com/)
+  - Source: https://www.ihm-church.com/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-kris-kobach-00740] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **faith-community-record** [em-kris-kobach-00838] [Americans United: National Prayer Breakfast](https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/)
+  - Source: https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-00878] [Kobach Religion - WhatReligionIsInfo](https://whatreligionisinfo.com/kobach-religion/)
+  - Source: https://whatreligionisinfo.com/kobach-religion/
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-00098] Biography, immigration, religious liberty, federal litigation.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:149
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00214] Marriage/family/gender policy, religious liberty, education, federal-state litigation.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:437
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00230] Section 9 - Abortion / Pro-Life Student Speech / Religious Liberty
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:480
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00241] Religious liberty / military vaccine mandate litigation.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:513
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00281] | Federal litigation | Special Litigation Unit page, Title IX, ATF, DACA pages | Created/uses special litigation unit for constitutional/federal-policy cases. |
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:589
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-kris-kobach-0009] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-kris-kobach-0012] Abortion is prominent in the broader candidate profile and older campaign record, but it was not a meaningful topic in the accessible current social sample captured for this harvest. Guns/Second Amendment appeared through the official special litigation page and ATF litigation, not as a frequent current-posting theme. Religious liberty appeared in the campaign biography through Air Force vaccine-mandate litigation, not as a current repeated social theme.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-kris-kobach-0020] | Federal overreach, constitutional litigation, Title IX, DACA, ATF/Second Amendment, Pfizer/COVID, and special litigation | 7 | 19% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0142] Several areas were absent or thin in the accessible reviewed set. The current public material did not show sustained discussion of Medicaid expansion, rural hospital finance, prescription drug affordability, child care costs, housing affordability, transportation, broadband, water policy, the Ogallala Aquifer, foster care, adoption, or veterans services. Abortion is prominent in the broader candidate profile and older record, but it was not a meaningful topic in the accessible current social sample. Guns appeared mainly through ATF/Second Amendment litigation, and religious liberty appeared mainly through the campaign biography's Air Force vaccine-mandate case ([harvest](social-harvest.md#visible-absences)).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0144] "observation": "Abortion is prominent in the broader candidate profile and older campaign record, but it was not a meaningful topic in the accessible current social sample captured for this harvest. Guns/Second Amendment appeared through the official special litigation page and ATF litigation, not as a frequent current-posting theme. Religious liberty appeared in the campaign biography through Air Force vaccine-mandate...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0150] No faith or church references found in her candidate profiles, HaysPost Q&As, or social media
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0151] Faith: Identifies as a "Child of God" on social media. No specific church or denomination identified, but faith language is prominent in her public profile.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-kris-kobach-0152] X/Twitter (@ScottSchwabKS): Mix of official duties, campaign messaging, and personal reflections. Posts about election security, office achievements, policy positions. References faith directly. Example post included a quote about faith in the context of his work.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0153] Religious Liberty: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0154] "observation": "Key visible signals: naloxone access, Census lawsuit, AG facts, consumer protection, open government, AG opinions, and official social links. 6. AG official biography, captured 2026-05-11. Key visible signals: Trump election-integrity commission, Title IX litigation, Obamacare eligibility litigation, RAGA chairmanship, family, and office service. 7. AG special litigation page, captured 2026-05-11.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 5. Taxes / spending / debt
+
+Taxes / spending / debt: 27 selected evidence items from 93 mapped rows. Public URL-backed rows: 6.
+
+### Evidence
+- **candidate-stated** [em-kris-kobach-03675] Taxes / Economy: He supports cutting property taxes, imposing a hard constitutional cap on property tax growth, adding exemptions for seniors and disabled veterans, and cutting residential property taxes broadly.
+  - Source: memory/candidates/kris-kobach/site-profile.md:35
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-04924] "stance": "He supports cutting property taxes, imposing a hard constitutional cap on property tax growth, adding exemptions for seniors and disabled veterans, and cutting residential property taxes broadly."
+  - Source: ui/src/data/candidates.ts:24408
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-02984] [Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)
+  - Source: https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-02985] [PBS Wisconsin: $100M+ spending on 2025 race](https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/)
+  - Source: https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-03519] [Kansas Reflector: Property tax reform campaign](https://kansasreflector.com/briefs/scott-schwab-aims-gop-gubernatorial-campaign-at-property-tax-reform/)
+  - Source: https://kansasreflector.com/briefs/scott-schwab-aims-gop-gubernatorial-campaign-at-property-tax-reform/
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00046] A candidate is not considered filed until the petition or declaration and fee is received.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:49
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00049] Attorney General filing fee total listed as $2,367.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:52
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00417] Pennsylvania: Supreme Court races have become multi-million-dollar partisan battles, with campaign spending increasing dramatically each cycle.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:205
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00420] The Brennan Center for Justice documented that campaign spending in state supreme court elections has increased dramatically, with special interests playing an outsized role
+  - Source: memory/candidates/kris-kobach/raw-dump.md:209
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-01238] O'Hara was the only incumbent Johnson County Commissioner in a contested race to lose re-election. She lost to Democrat Julie Brewer by approximately 3,500 votes. Her combative style and skepticism of development tax incentives, diversity programs, and COVID mitigation measures alienated moderate suburban Johnson County voters.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1775
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-04996] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-00349] Kansans for Democracy -- a 501(c)(4) social welfare nonprofit NOT required to disclose its donors -- booked approximately $802,000 in television ads to run from July 7 through August 4, 2026. The Sunflower State Journal reported this group has "a conservative connection." This is a textbook dark money operation: no donor disclosure required, nearly $1 million in ad spending, and the public has no way to know who is actually funding the campaign.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:98
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-01343] Analysis: The $1M self-loan means 88% of her war chest is her own money. This is not grassroots fundraising -- it is a wealthy candidate buying a seat at the table. Only ~$140K came from actual donors. The low spending ($116K) suggests she is stockpiling for later ad buys.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1966
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-02584] Hazleton, PA: Took on debt, eventually had to seek a state bailout to pay $1.4 million+ in legal costs. The privately raised defense fund (which had paid Kobach $250,000) ran dry by 2013.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:3915
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-02907] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4502
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-02946] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4587
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-kris-kobach-03876] 4 weeks ago -- State of the Union post praising President Trump's tariff approach and criticizing income taxes. Engagement: 26 replies, 22 reposts, 93 likes, 2K views, 0 quotes. Topic: tariffs / taxes / Trump alignment. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03892] Official X mirror item: Johnson County sales-tax court ruling. Engagement: 12 replies, 8 reposts, 37 likes, 6K views, 1 quote. Topic: local government authority / tax. ([source](https://twstalker.com/KSAGOffice))
+  - Source: https://twstalker.com/KSAGOffice
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03913] | Taxes, tariffs, property rights, energy/ranching, and rural economy | 2 | 6% |
+  - Source: memory/candidates/kris-kobach/social-harvest.md:107
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03923] Across the accessible reviewed set, Kobach's current public posting did not show sustained attention to Medicaid expansion, rural hospital finance, prescription drug affordability, child care costs, housing affordability, workforce wages outside tariff/tax framing, transportation infrastructure, broadband, water policy, the Ogallala Aquifer, agriculture beyond lesser prairie chicken/ranching, higher-education affordability apart from undocumented-student tuition, foster care, adoption, mental health, or veterans services beyond general public-safety and official observance contexts.
+  - Source: memory/candidates/kris-kobach/social-harvest.md:127
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **public-controversy** [em-kris-kobach-03115] Criticized the 2025 Legislature and Governor Laura Kelly for delivering only "$25.88 property tax break for the owner of a $150,000 home"
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4864
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00443] | Wisconsin-style spending ($100M+) could follow | MEDIUM -- plausible based on national trends, but Kansas is a smaller media market |
+  - Source: memory/candidates/kris-kobach/raw-dump.md:249
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00715] Policy focus: county spending, transparency
+  - Source: memory/candidates/kris-kobach/raw-dump.md:772
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-01080] Taxes: Lower cost of living for working-class families
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1488
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-01134] Part of the bipartisan coalition that reversed the Brownback-era tax cuts in 2017
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1577
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-01154] > "Politicians are making dangerous cuts to our programs, Medicaid and Social Security. That's hurting us, and with the expiration of ACA tax credits, that's a huge threat."
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1608
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-01198] Cannabis: Legalize with tax revenue invested in schools
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1697
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-kris-kobach-0004] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-kris-kobach-0018] Across the accessible reviewed set, Kobach's current public posting did not show sustained attention to Medicaid expansion, rural hospital finance, prescription drug affordability, child care costs, housing affordability, workforce wages outside tariff/tax framing, transportation infrastructure, broadband, water policy, the Ogallala Aquifer, agriculture beyond lesser prairie chicken/ranching, higher-education affordability apart from undocumented-student tuition, foster care, adoption, mental health, or veterans services beyond general public-safety and official observance contexts.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate twstalker.com share/repost** [soc-kris-kobach-0021] 4 weeks ago -- State of the Union post praising President Trump's tariff approach and criticizing income taxes. Engagement: 26 replies, 22 reposts, 93 likes, 2K views, 0 quotes. Topic: tariffs / taxes / Trump alignment. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate X / Twitter share/repost** [soc-kris-kobach-0022] Official X mirror item: Johnson County sales-tax court ruling. Engagement: 12 replies, 8 reposts, 37 likes, 6K views, 1 quote. Topic: local government authority / tax. ([source](https://twstalker.com/KSAGOffice))
+  - Source: https://twstalker.com/KSAGOffice
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-kris-kobach-0023] | Taxes, tariffs, property rights, energy/ranching, and rural economy | 2 | 6% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0156] Kansans for Democracy -- a 501(c)(4) social welfare nonprofit NOT required to disclose its donors -- booked approximately $802,000 in television ads to run from July 7 through August 4, 2026. The Sunflower State Journal reported this group has "a conservative connection." This is a textbook dark money operation: no donor disclosure required, nearly $1 million in ad spending, and the public has no way to know who is actually funding the campaign.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0157] > "Politicians are making dangerous cuts to our programs, Medicaid and Social Security. That's hurting us, and with the expiration of ACA tax credits, that's a huge threat."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 6. Economy / jobs / labor
+
+Economy / jobs / labor: 31 selected evidence items from 88 mapped rows. Public URL-backed rows: 9.
+
+### Evidence
+- **candidate-stated** [em-kris-kobach-00009] Engagement is concentrated around immigration and federal-state conflict. The highest visible engagement in the accessible social sample was the State of the Union post on noncitizen voting: 655 likes, 93 reposts, 130 replies, 14K views, and 12 quotes. The in-state-tuition post had fewer likes but far more views, at 35K. The SNAP data statement also stood out, with 380 likes, 87 reposts, 28 replies, 9K views, and 10 quotes ([harvest](social-harvest.md#engagement-review)). By contrast, routine office updates on LinkedIn had single-digit reactions, and no current Facebook, Instagram, or YouTube engagement could be verified in logged-out capture.
+  - Source: memory/candidates/kris-kobach/in-their-own-words.md:17
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-03675] Taxes / Economy: He supports cutting property taxes, imposing a hard constitutional cap on property tax growth, adding exemptions for seniors and disabled veterans, and cutting residential property taxes broadly.
+  - Source: memory/candidates/kris-kobach/site-profile.md:35
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-04779] "stance": "This is her signature issue. As insurance commissioner, she says her office returned over $206 million to Kansas families and lowered the cost of doing business by over $96 million. As a state senator, she championed autism coverage and cancer-care access."
+  - Source: ui/src/data/candidates.ts:13377
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-04885] "stance": "Says small business is \"how we rebuild rural Kansas\" and wants to make Kansas more affordable for entrepreneurs."
+  - Source: ui/src/data/candidates.ts:18582
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00346] Kansas Chamber United for Business
+  - Source: reports/2026-kansas-ballot-measures-investigation.md:87
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00371] > "Partisan elections quickly become fights between out-of-state, big money interests. These elections become less about the voters and constituents of the state and more an opportunity for out-of-state big money interests to wage war against one another. And now, lawmakers would like our state's highest court to be smack in the middle of that war."
+  - Source: memory/candidates/kris-kobach/raw-dump.md:128
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-01076] Notable Legislative Focus Areas: Education funding, lowering cost of living, workforce development, small business support, rural healthcare access. Specific bill-by-bill voting record available at kslegislature.gov but not extractable in bulk from search.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1482
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-02256] | Jobs for America's Graduates (JAG) | Honorary Board Member |
+  - Source: memory/candidates/kris-kobach/raw-dump.md:3379
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-02577] | Hazleton, PA | Drafted housing/employment ordinance penalizing landlords and businesses that hired/housed undocumented immigrants | LOST -- Third Circuit struck down both provisions as preempted by federal law (July 2013) |
+  - Source: memory/candidates/kris-kobach/raw-dump.md:3907
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-02752] Fox News/Fox Business: Gives Kobach favorable platform for issues like Pfizer lawsuit, immigration enforcement
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4159
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-02938] The Insurance Commissioner regulates every insurance company doing business in Kansas -- health insurance, car insurance, homeowners insurance, crop insurance, all of it. They review rate increases, make sure companies can actually pay claims, handle consumer complaints, and license insurance agents. In rural Kansas, where hospital closures and limited healthcare options are a growing crisis, the Insurance Commissioner's decisions on what health plans are available and what they can charge directly affect your family's bottom line.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4568
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-02967] | In one sentence | Changes how KS Supreme Court justices get their jobs -- from commission-appointed to elected | Changes "every citizen can vote" to "only citizens can vote" in the state constitution |
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4626
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-04934] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-kris-kobach-02946] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4587
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-03225] | Vice Chairman, Commerce and Labor Committee | During House tenure |
+  - Source: memory/candidates/kris-kobach/raw-dump.md:5022
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-kris-kobach-03843] | X / Twitter | https://x.com/KrisKobach1787 | FOUND / INDEXED | Campaign/personal account. Public X mirror lists 2K tweets, 26K followers, 533 following, 632 likes; bio says he is the 45th Kansas AG, fighting government overreach, and tells users to follow @KSAGOffice for official business. Direct X feed was script-blocked in logged-out capture. |
+  - Source: https://x.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03861] The strongest public social signal is X. The indexed profile for [@KrisKobach1787](https://twstalker.com/KrisKobach1787) listed 26K followers and a bio separating campaign updates from official state business. Recent indexed posts concentrate on immigration, noncitizen voting, in-state tuition, SNAP data, judicial selection, fentanyl/naloxone, federal overreach, private property, tariffs, and staff/judicial appointments. The official [@KSAGOffice](https://twstalker.com/KSAGOffice) feed overlaps heavily but also includes consumer protection, public warnings, law enforcement, victim services, holiday/observance posts, and routine office activity.
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03872] 3 weeks ago -- Lesser prairie chicken post describing delisting litigation as a win for ranchers, energy production, private property, and rural economy. Engagement on Kobach item: 9 replies, 10 reposts, 75 likes, 4K views, 2 quotes. Topic: federal regulation / rural economy / energy / property rights. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03873] 4 weeks ago -- State of the Union post saying Kansas had charged multiple noncitizens with illegal voting. Engagement: 130 replies, 93 reposts, 655 likes, 14K views, 12 quotes. Topic: election law / immigration / Trump validation. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03874] 4 weeks ago -- State of the Union post opposing in-state tuition rates for undocumented immigrants. Engagement: 24 replies, 42 reposts, 252 likes, 6K views, 2 quotes. Topic: immigration / higher education. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03875] 4 weeks ago -- State of the Union post linking violent crime deaths to immigration enforcement. Engagement: 17 replies, 29 reposts, 144 likes, 4K views, 1 quote. Topic: immigration / crime / public safety. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03876] 4 weeks ago -- State of the Union post praising President Trump's tariff approach and criticizing income taxes. Engagement: 26 replies, 22 reposts, 93 likes, 2K views, 0 quotes. Topic: tariffs / taxes / Trump alignment. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03913] | Taxes, tariffs, property rights, energy/ranching, and rural economy | 2 | 6% |
+  - Source: memory/candidates/kris-kobach/social-harvest.md:107
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-kris-kobach-00831] Introduced the FAITH in Small Business Act (ensures faith-based businesses can participate in SBA loans)
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1063
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-kris-kobach-01312] Faith: Theological Studies is part of her academic background. Cornerstone Data company description notes her work is done "in light of the people and organizations that produced it" -- suggesting faith-integrated business philosophy. The company name "Cornerstone" itself has Christian connotations. No specific church identified.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1912
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-02323] [Jobs for America's Graduates - Bio](https://jag.org/dipl-team-member/jeff-colyer/)
+  - Source: https://jag.org/dipl-team-member/jeff-colyer/
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-00150] Consumer protection / antitrust / cost of living.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:266
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00755] 55 years old, rancher/farmer, K-Lawn business partner
+  - Source: memory/candidates/kris-kobach/raw-dump.md:868
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00767] Bank Vice President (Golden Plains Credit Union, 30+ years)
+  - Source: memory/candidates/kris-kobach/raw-dump.md:893
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-01055] Wife: Jenna Brofsky -- attorney at Husch Blackwell law firm (employment group, advising and litigation). She previously served on the Fairway City Council. Grew up in a New York City suburb, attended a Conservative synagogue.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1456
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-01061] Attorney at a firm in Washington, D.C. (7 years) -- worked at Blake & Uhlig P.A., one of the nation's leading labor law firms, representing unions and advancing workers' rights
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1464
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-kris-kobach-0009] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate twstalker.com share/repost** [soc-kris-kobach-0014] 4 weeks ago -- State of the Union post opposing in-state tuition rates for undocumented immigrants. Engagement: 24 replies, 42 reposts, 252 likes, 6K views, 2 quotes. Topic: immigration / higher education. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate twstalker.com share/repost** [soc-kris-kobach-0021] 4 weeks ago -- State of the Union post praising President Trump's tariff approach and criticizing income taxes. Engagement: 26 replies, 22 reposts, 93 likes, 2K views, 0 quotes. Topic: tariffs / taxes / Trump alignment. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-kris-kobach-0023] | Taxes, tariffs, property rights, energy/ranching, and rural economy | 2 | 6% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak X / Twitter follow** [soc-kris-kobach-0024] | X / Twitter | https://x.com/KrisKobach1787 | FOUND / INDEXED | Campaign/personal account. Public X mirror lists 2K tweets, 26K followers, 533 following, 632 likes; bio says he is the 45th Kansas AG, fighting government overreach, and tells users to follow @KSAGOffice for official business. Direct X feed was script-blocked in logged-out capture. |
+  - Source: https://x.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong twstalker.com post** [soc-kris-kobach-0025] The strongest public social signal is X. The indexed profile for [@KrisKobach1787](https://twstalker.com/KrisKobach1787) listed 26K followers and a bio separating campaign updates from official state business. Recent indexed posts concentrate on immigration, noncitizen voting, in-state tuition, SNAP data, judicial selection, fentanyl/naloxone, federal overreach, private property, tariffs, and staff/judicial appointments. The official [@KSAGOffice](https://twstalker.com/KSAGOffice) feed overlaps heavily but also includes consumer protection, public warnings, law enforcement, victim services, holiday/observance posts, and routine office activity.
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate twstalker.com share/repost** [soc-kris-kobach-0026] 3 weeks ago -- Lesser prairie chicken post describing delisting litigation as a win for ranchers, energy production, private property, and rural economy. Engagement on Kobach item: 9 replies, 10 reposts, 75 likes, 4K views, 2 quotes. Topic: federal regulation / rural economy / energy / property rights. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate twstalker.com share/repost** [soc-kris-kobach-0027] 4 weeks ago -- State of the Union post saying Kansas had charged multiple noncitizens with illegal voting. Engagement: 130 replies, 93 reposts, 655 likes, 14K views, 12 quotes. Topic: election law / immigration / Trump validation. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate twstalker.com share/repost** [soc-kris-kobach-0028] 4 weeks ago -- State of the Union post linking violent crime deaths to immigration enforcement. Engagement: 17 replies, 29 reposts, 144 likes, 4K views, 1 quote. Topic: immigration / crime / public safety. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate X / Twitter share/repost** [soc-kris-kobach-0029] Highest visible engagement in the accessible campaign/personal X sample was the State of the Union post on noncitizen voting: 130 replies, 93 reposts, 655 likes, 14K views, and 12 quotes. The highest visible view count was the in-state tuition/federal-law post: 29 replies, 83 reposts, 308 likes, 35K views, and 7 quotes. The SNAP data statement was also high relative to the feed: 28 replies, 87 reposts, 380 likes, 9K views, and 10 quotes.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 7. Guns / Second Amendment
+
+Guns / Second Amendment: 20 selected evidence items from 44 mapped rows. Public URL-backed rows: 6.
+
+### Evidence
+- **documented-record** [em-kris-kobach-00006] The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules ([source](https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach)). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the law; its high-profile case tiles are Title IX, DACA/Obamacare, and ATF/Second Amendment ([source](https://www.ag.ks.gov/divisions/special-litigation-unit)). Campaign and office messaging use those cases to make a single argument: the attorney general's office should be a conservative litigation shop as well as a state law-enforcement agency.
+  - Source: https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-03842] | Official AG special litigation page | https://www.ag.ks.gov/divisions/special-litigation-unit | FOUND | Frames special litigation around constitutional rights, suing federal government, defending Kansas laws, Title IX, DACA/Obamacare, and ATF/Second Amendment cases. |
+  - Source: https://www.ag.ks.gov/divisions/special-litigation-unit
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-03860] The official AG site is more active as a governing communications hub. Its homepage leads with naloxone distribution boxes and a Census lawsuit about excluding undocumented immigrants from apportionment counts ([source](https://www.ag.ks.gov/)). The official biography highlights Kobach's Trump election-integrity commission role, Biden-administration litigation, Title IX litigation, Obamacare eligibility litigation, and RAGA chairmanship ([source](https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach)). The special litigation page says that unit handles high-profile lawsuits against federal regulations and lists Title IX, DACA/Obamacare, and ATF/Second Amendment cases ([source](https://www.ag.ks.gov/divisions/special-litigation-unit)).
+  - Source: https://www.ag.ks.gov/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-03902] [AG special litigation page](https://www.ag.ks.gov/divisions/special-litigation-unit), captured 2026-05-11. Key visible signals: suing federal government over regulations, defending Kansas laws, Title IX, DACA/Obamacare, and ATF/Second Amendment litigation.
+  - Source: https://www.ag.ks.gov/divisions/special-litigation-unit
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-00011] Several areas were absent or thin in the accessible reviewed set. The current public material did not show sustained discussion of Medicaid expansion, rural hospital finance, prescription drug affordability, child care costs, housing affordability, transportation, broadband, water policy, the Ogallala Aquifer, foster care, adoption, or veterans services. Abortion is prominent in the broader candidate profile and older record, but it was not a meaningful topic in the accessible current social sample. Guns appeared mainly through ATF/Second Amendment litigation, and religious liberty appeared mainly through the campaign biography's Air Force vaccine-mandate case ([harvest](social-harvest.md#visible-absences)).
+  - Source: memory/candidates/kris-kobach/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00206] Page highlights Title IX, DACA/Obamacare, and ATF/Second Amendment cases.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:417
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00215] 7.3 ATF / Second Amendment lawsuit
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:439
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00217] Page says Kobach led a coalition challenging an ATF rule alleged to violate the Second Amendment.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:448
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-04996] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-04934] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-kris-kobach-03242] Guns: Pro-Second Amendment, specific NRA rating not publicly available in search results
+  - Source: memory/candidates/kris-kobach/raw-dump.md:5051
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-03372] Specific formal endorsements (NRA rating, Kansas Right to Life, Kansas Farm Bureau, etc.) were not comprehensively documented in publicly available reporting at time of investigation. The Kansas Ethics Commission filings may contain PAC contribution details that indicate organizational support.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:5267
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-kris-kobach-03910] | Federal overreach, constitutional litigation, Title IX, DACA, ATF/Second Amendment, Pfizer/COVID, and special litigation | 7 | 19% |
+  - Source: memory/candidates/kris-kobach/social-harvest.md:104
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03924] Abortion is prominent in the broader candidate profile and older campaign record, but it was not a meaningful topic in the accessible current social sample captured for this harvest. Guns/Second Amendment appeared through the official special litigation page and ATF litigation, not as a frequent current-posting theme. Religious liberty appeared in the campaign biography through Air Force vaccine-mandate litigation, not as a current repeated social theme.
+  - Source: memory/candidates/kris-kobach/social-harvest.md:129
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-kris-kobach-04718] "theirRecord": "Hart does not have a legislative record, so his public record is mostly his work as a prosecutor and the circumstances of his campaign launch. The most prominent credential in the raw material is his 16-year tenure as an assistant U.S. attorney handling child exploitation and cybercrime cases under both Republican and Democratic administrations. His candidacy has been shaped as much by rhetoric as by résumé. Kansas Reflector reported that Hart has openly courted Republicans who feel estranged from the current GOP, and he has argued that Kansas Democrats need a candidate who can draw those voters rather than just consolidate the party base. That argument has also created controversy inside the Democratic field. Hart publicly described himself as a \"white, male, Christian, hetero, 2A-friendly, LEO-friendly\" candidate, presenting those traits as part of his electability c…
+  - Source: ui/src/data/candidates.ts:2517
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-02194] Gun Rights
+  - Source: memory/candidates/kris-kobach/raw-dump.md:3256
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-03367] | Guns | Pro-2A, protect rights | Standard GOP |
+  - Source: memory/candidates/kris-kobach/raw-dump.md:5260
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-04518] | Oct 2022 | Emporia Gazette | Written questionnaire | Policy positions on crime, marijuana, gun safety |
+  - Source: reports/chris-mann-complete-dossier.md:333
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-04565] Pro-gun, pro-law-enforcement Democrat -- Neutralizes standard GOP attack vectors.
+  - Source: reports/chris-mann-complete-dossier.md:498
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-04726] "stance": "Describes himself as \"2A-friendly\" and has made his support for gun rights a central part of his electability pitch as a Democrat in Kansas."
+  - Source: ui/src/data/candidates.ts:2533
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-kris-kobach-0004] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-kris-kobach-0009] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-kris-kobach-0012] Abortion is prominent in the broader candidate profile and older campaign record, but it was not a meaningful topic in the accessible current social sample captured for this harvest. Guns/Second Amendment appeared through the official special litigation page and ATF litigation, not as a frequent current-posting theme. Religious liberty appeared in the campaign biography through Air Force vaccine-mandate litigation, not as a current repeated social theme.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-kris-kobach-0020] | Federal overreach, constitutional litigation, Title IX, DACA, ATF/Second Amendment, Pfizer/COVID, and special litigation | 7 | 19% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0142] Several areas were absent or thin in the accessible reviewed set. The current public material did not show sustained discussion of Medicaid expansion, rural hospital finance, prescription drug affordability, child care costs, housing affordability, transportation, broadband, water policy, the Ogallala Aquifer, foster care, adoption, or veterans services. Abortion is prominent in the broader candidate profile and older record, but it was not a meaningful topic in the accessible current social sample. Guns appeared mainly through ATF/Second Amendment litigation, and religious liberty appeared mainly through the campaign biography's Air Force vaccine-mandate case ([harvest](social-harvest.md#visible-absences)).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0144] "observation": "Abortion is prominent in the broader candidate profile and older campaign record, but it was not a meaningful topic in the accessible current social sample captured for this harvest. Guns/Second Amendment appeared through the official special litigation page and ATF litigation, not as a frequent current-posting theme. Religious liberty appeared in the campaign biography through Air Force vaccine-mandate...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-kris-kobach-0155] "observation": "Key visible signals: suing federal government over regulations, defending Kansas laws, Title IX, DACA/Obamacare, and ATF/Second Amendment litigation. 8. BallotReady profile, captured 2026-05-11. Key visible signals: verified campaign website, Facebook, Twitter/X, Instagram; official AG website, contact page, Facebook, and Twitter/X. 9. The Federalist coverage of Pfizer lawsuit, published 2024-06-18.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0163] Religious-liberty and Second Amendment signals are present as litigation records, not as repeated current social themes.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0164] "observation": "The social harvest found Second Amendment evidence mainly through the official ATF litigation page, not as a frequent current posting theme.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 8. Immigration / border
+
+Immigration / border: 29 selected evidence items from 123 mapped rows. Public URL-backed rows: 19.
+
+### Evidence
+- **candidate-stated** [em-kris-kobach-00009] Engagement is concentrated around immigration and federal-state conflict. The highest visible engagement in the accessible social sample was the State of the Union post on noncitizen voting: 655 likes, 93 reposts, 130 replies, 14K views, and 12 quotes. The in-state-tuition post had fewer likes but far more views, at 35K. The SNAP data statement also stood out, with 380 likes, 87 reposts, 28 replies, 9K views, and 10 quotes ([harvest](social-harvest.md#engagement-review)). By contrast, routine office updates on LinkedIn had single-digit reactions, and no current Facebook, Instagram, or YouTube engagement could be verified in logged-out capture.
+  - Source: memory/candidates/kris-kobach/in-their-own-words.md:17
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00574] [Bipartisan Policy Center: Four Things to Know About Noncitizen Voting](https://bipartisanpolicy.org/article/four-things-to-know-about-noncitizen-voting/)
+  - Source: https://bipartisanpolicy.org/article/four-things-to-know-about-noncitizen-voting/
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00575] [FAIR: Eight States Approve Amendments Banning Noncitizen Voting](https://www.fairus.org/legislation/state-and-local/eight-states-approve-constitutional-amendments-banning-noncitizen)
+  - Source: https://www.fairus.org/legislation/state-and-local/eight-states-approve-constitutional-amendments-banning-noncitizen
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-02991] [CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)
+  - Source: https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00010] The still-live campaign video archive reinforces Kobach's older AG campaign frame. The campaign site embeds videos about Congress testimony, attacks on Chris Mann, family safety, sheriff/law-enforcement support, qualifications, and a Fox clip about Anthony Fauci and border COVID testing ([source](https://www.kriskobach.com/videos/)). These videos are older than the current capture window, but they remain part of the campaign site's public presentation and align with the current social themes: law enforcement, credentials, federal conflict, and the argument that Kobach will fight rather than merely administer.
+  - Source: https://www.kriskobach.com/videos/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **documented-record** [em-kris-kobach-00068] Campaign frames his tenure around constitutional rights, crime rates, immigration enforcement, and consumer protection.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:87
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00069] Official status, campaign finance, public safety, immigration, consumer protection.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:90
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00093] Biography, election integrity, federal-state litigation, gender/Title IX policy, immigration/health benefits, party/legal network.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:134
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00096] It adds candidate-framed claims about DACA litigation, OSHA vaccine-mandate litigation, DHS/ICE litigation, and Air Force religious-exemption litigation.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:145
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-00003] Across the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $502,626 cash on hand, while still using the "Kris Kobach for Attorney General" brand and linking supporters to donation, volunteer, store, email, X, Facebook, and YouTube actions ([source](https://www.kriskobach.com/)). His campaign biography foregrounds his Harvard/Oxford/Yale credentials, DACA litigation, Biden vaccine-mandate litigation, DHS/ICE litigation, and Air Force religious-exemption litigation ([source](https://www.kriskobach.com/meet-kris/)).
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-04996] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-04934] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-kris-kobach-02214] Endorsed Trump stating he would "protect Medicare, lower health care and drug prices, speed development of medical treatments and address the overdose epidemic." Also argued Trump would "close the southern U.S. border with Mexico to drug traffickers" and that America deserved "a president dedicated to securing our borders, stopping the drug traffickers and saving American lives."
+  - Source: memory/candidates/kris-kobach/raw-dump.md:3305
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-02600] We Build the Wall was the Steve Bannon-linked organization that raised millions for a private border wall. Bannon was later indicted for fraud related to the organization (pardoned by Trump), and organizer Brian Kolfage was sentenced to 51 months in prison for fraud
+  - Source: memory/candidates/kris-kobach/raw-dump.md:3941
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-03586] Kris Kobach is a Topeka-raised lawyer with Harvard, Oxford, and Yale credentials who has spent two decades building a Kansas career around immigration, election law, and conservative legal fights. His public biography says he was raised in Topeka, graduated from Washburn Rural High School, and later returned to Kansas after clerkships, federal service, and legal teaching. He lives near Lecompton with his wife Heather and their five children.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:5614
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-kris-kobach-03861] The strongest public social signal is X. The indexed profile for [@KrisKobach1787](https://twstalker.com/KrisKobach1787) listed 26K followers and a bio separating campaign updates from official state business. Recent indexed posts concentrate on immigration, noncitizen voting, in-state tuition, SNAP data, judicial selection, fentanyl/naloxone, federal overreach, private property, tariffs, and staff/judicial appointments. The official [@KSAGOffice](https://twstalker.com/KSAGOffice) feed overlaps heavily but also includes consumer protection, public warnings, law enforcement, victim services, holiday/observance posts, and routine office activity.
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03863] Facebook, Instagram, and YouTube are confirmed as platform presence but did not expose reliable current post inventories. The campaign videos page embeds six videos, including "Kris Kobach Testifies Before Congress," "TV Ad: Can't Trust Chris Mann," "TV Ad: Our Family's Safety," "TV Ad: Law Enforcement Agrees," "TV Ad: Kris Kobach is Ready," and a Fox clip about Anthony Fauci and border COVID testing ([source](https://www.kriskobach.com/videos/)). These are mostly 2021-2023 items, so they are treated as still-live campaign archive material rather than current social cadence.
+  - Source: https://www.kriskobach.com/videos/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03871] 3 weeks ago -- Statement attacking Gov. Laura Kelly over turning SNAP data over to federal authorities and tying the dispute to noncitizens and deportation. Engagement: 28 replies, 87 reposts, 380 likes, 9K views, 10 quotes. Topic: SNAP / immigration / federal data / Gov. Kelly. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03873] 4 weeks ago -- State of the Union post saying Kansas had charged multiple noncitizens with illegal voting. Engagement: 130 replies, 93 reposts, 655 likes, 14K views, 12 quotes. Topic: election law / immigration / Trump validation. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03874] 4 weeks ago -- State of the Union post opposing in-state tuition rates for undocumented immigrants. Engagement: 24 replies, 42 reposts, 252 likes, 6K views, 2 quotes. Topic: immigration / higher education. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03875] 4 weeks ago -- State of the Union post linking violent crime deaths to immigration enforcement. Engagement: 17 replies, 29 reposts, 144 likes, 4K views, 1 quote. Topic: immigration / crime / public safety. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03880] 1 month ago -- Post warning Kansas legislators that Kansas may be sued over in-state tuition for undocumented immigrants. Engagement on Kobach item: 29 replies, 83 reposts, 308 likes, 35K views, 7 quotes. Topic: immigration / in-state tuition / federal law. ([source](https://twstalker.com/KrisKobach1787/status/2021354205844296128))
+  - Source: https://twstalker.com/KrisKobach1787/status/2021354205844296128
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03887] Official X mirror item: AG opinion on in-state tuition for undocumented immigrants. Engagement: 23 replies, 57 reposts, 282 likes, 10K views, 2 quotes. Topic: immigration / higher education / AG opinion. ([source](https://mobile.twstalker.com/KSAGOffice))
+  - Source: https://mobile.twstalker.com/KSAGOffice
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-kris-kobach-00004] The dominant current signal is immigration and noncitizen enforcement. That bucket accounted for 10 of 36 coded items, or 28 percent of the accessible reviewed set ([harvest](social-harvest.md#topic-share-analysis)). In the indexed X sample, Kobach posted about noncitizen voting, in-state tuition for undocumented immigrants, SNAP data sharing, Census apportionment, Obamacare eligibility for undocumented immigrants, and immigration enforcement as a public-safety issue ([source](https://twstalker.com/KrisKobach1787)). The highest-viewed visible post in the sample was his in-state-tuition/federal-law warning, with 35K views, 308 likes, 83 reposts, 29 replies, and 7 quotes as displayed by the public mirror ([harvest](social-harvest.md#engagement-review)).
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-04582] [Kansas Reflector: "Kansas attorney general candidates split on voter fraud, abortion rights, immigration" (Sep 23, 2022)](https://kansasreflector.com/2022/09/23/kansas-attorney-general-candidates-split-on-voter-fraud-abortion-rights-immigration/)
+  - Source: https://kansasreflector.com/2022/09/23/kansas-attorney-general-candidates-split-on-voter-fraud-abortion-rights-immigration/
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-00098] Biography, immigration, religious liberty, federal litigation.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:149
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00179] Immigration / public benefits / federal-state litigation.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:348
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00180] 6.2 Noncitizen-voting amicus brief
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:350
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00258] X mirror @KrisKobach1787: 26K followers; topics included immigration, noncitizen voting, in-state tuition, SNAP data, judicial selection, fentanyl/naloxone, federal overreach, property rights, tariffs, legal appointments.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:550
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-kris-kobach-0004] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-kris-kobach-0006] Across the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $502,626 cash on hand, while still using the "Kris Kobach for Attorney General" brand and linking supporters to donation, volunteer, store, email, X, Facebook, and YouTube actions ([source](https://www.kriskobach.com/)). His campaign biography foregrounds his Harvard/Oxford/Yale credentials, DACA litigation, Biden vaccine-mandate litigation, DHS/ICE litigation, and Air Force religious-exemption litigation ([source](https://www.kriskobach.com/meet-kris/)).
+  - Source: https://www.kriskobach.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate X / Twitter share/repost** [soc-kris-kobach-0007] The dominant current signal is immigration and noncitizen enforcement. That bucket accounted for 10 of 36 coded items, or 28 percent of the accessible reviewed set ([harvest](social-harvest.md#topic-share-analysis)). In the indexed X sample, Kobach posted about noncitizen voting, in-state tuition for undocumented immigrants, SNAP data sharing, Census apportionment, Obamacare eligibility for undocumented immigrants, and immigration enforcement as a public-safety issue ([source](https://twstalker.com/KrisKobach1787)). The highest-viewed visible post in the sample was his in-state-tuition/federal-law warning, with 35K views, 308 likes, 83 reposts, 29 replies, and 7 quotes as displayed by the public mirror ([harvest](social-harvest.md#engagement-review)).
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-kris-kobach-0009] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kriskobach.com online-reference** [soc-kris-kobach-0010] The still-live campaign video archive reinforces Kobach's older AG campaign frame. The campaign site embeds videos about Congress testimony, attacks on Chris Mann, family safety, sheriff/law-enforcement support, qualifications, and a Fox clip about Anthony Fauci and border COVID testing ([source](https://www.kriskobach.com/videos/)). These videos are older than the current capture window, but they remain part of the campaign site's public presentation and align with the current social themes: law enforcement, credentials, federal conflict, and the argument that Kobach will fight rather than merely administer.
+  - Source: https://www.kriskobach.com/videos/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate twstalker.com share/repost** [soc-kris-kobach-0014] 4 weeks ago -- State of the Union post opposing in-state tuition rates for undocumented immigrants. Engagement: 24 replies, 42 reposts, 252 likes, 6K views, 2 quotes. Topic: immigration / higher education. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate X / Twitter share/repost** [soc-kris-kobach-0017] Official X mirror item: AG opinion on in-state tuition for undocumented immigrants. Engagement: 23 replies, 57 reposts, 282 likes, 10K views, 2 quotes. Topic: immigration / higher education / AG opinion. ([source](https://mobile.twstalker.com/KSAGOffice))
+  - Source: https://mobile.twstalker.com/KSAGOffice
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong twstalker.com post** [soc-kris-kobach-0025] The strongest public social signal is X. The indexed profile for [@KrisKobach1787](https://twstalker.com/KrisKobach1787) listed 26K followers and a bio separating campaign updates from official state business. Recent indexed posts concentrate on immigration, noncitizen voting, in-state tuition, SNAP data, judicial selection, fentanyl/naloxone, federal overreach, private property, tariffs, and staff/judicial appointments. The official [@KSAGOffice](https://twstalker.com/KSAGOffice) feed overlaps heavily but also includes consumer protection, public warnings, law enforcement, victim services, holiday/observance posts, and routine office activity.
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate twstalker.com share/repost** [soc-kris-kobach-0027] 4 weeks ago -- State of the Union post saying Kansas had charged multiple noncitizens with illegal voting. Engagement: 130 replies, 93 reposts, 655 likes, 14K views, 12 quotes. Topic: election law / immigration / Trump validation. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate twstalker.com share/repost** [soc-kris-kobach-0028] 4 weeks ago -- State of the Union post linking violent crime deaths to immigration enforcement. Engagement: 17 replies, 29 reposts, 144 likes, 4K views, 1 quote. Topic: immigration / crime / public safety. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 9. Health care / insurance / Medicaid
+
+Health care / insurance / Medicaid: 38 selected evidence items from 197 mapped rows. Public URL-backed rows: 27.
+
+### Evidence
+- **candidate-stated** [em-kris-kobach-00090] Official bio says he led and personally argued Biden-administration challenges involving Title IX and Obamacare eligibility for DACA recipients.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:129
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-01143] Cannabis: Supports legalization of medical marijuana
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1590
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-02184] Opposes bureaucratic control of healthcare decisions
+  - Source: memory/candidates/kris-kobach/raw-dump.md:3240
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-02284] Health questions. While he says he's recovered from prostate cancer, opponents or voters may quietly wonder about long-term health.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:3431
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-04463] | Abortion / Reproductive Rights | Supports women's right to make private medical decisions. Will NOT use AG office resources to attack constitutional rights. Respects 2022 Value Them Both referendum result (rejected by 18 points). "I would not waste the resources of the office to attack women's constitutional rights." |
+  - Source: reports/chris-mann-complete-dossier.md:239
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-04467] | Marijuana | Personally believes in well-regulated medical marijuana. Acknowledges this is a legislative issue. As AG, would enforce current laws. If laws change, would ensure protection of children, addiction resources, and roadway safety. |
+  - Source: reports/chris-mann-complete-dossier.md:243
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-04779] "stance": "This is her signature issue. As insurance commissioner, she says her office returned over $206 million to Kansas families and lowered the cost of doing business by over $96 million. As a state senator, she championed autism coverage and cancer-care access."
+  - Source: ui/src/data/candidates.ts:13377
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-04881] "stance": "Supports expanding healthcare access, especially in rural Kansas. Said \"Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor.\""
+  - Source: ui/src/data/candidates.ts:18574
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00006] The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules ([source](https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach)). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the law; its high-profile case tiles are Title IX, DACA/Obamacare, and ATF/Second Amendment ([source](https://www.ag.ks.gov/divisions/special-litigation-unit)). Campaign and office messaging use those cases to make a single argument: the attorney general's office should be a conservative litigation shop as well as a state law-enforcement agency.
+  - Source: https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-01087] > -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-01437] [Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-02502] [Kansas Reflector: Pfizer Lawsuit](https://kansasreflector.com/2024/06/17/kansas-ag-kobach-accuses-pfizer-of-misleading-vaccine-marketing-in-lawsuit/)
+  - Source: https://kansasreflector.com/2024/06/17/kansas-ag-kobach-accuses-pfizer-of-misleading-vaccine-marketing-in-lawsuit/
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-03841] | Official AG bio | https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach | FOUND | Official bio highlights Trump election-integrity commission role, Title IX litigation, Obamacare eligibility litigation, and 2024 RAGA chair election. |
+  - Source: https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-03842] | Official AG special litigation page | https://www.ag.ks.gov/divisions/special-litigation-unit | FOUND | Frames special litigation around constitutional rights, suing federal government, defending Kansas laws, Title IX, DACA/Obamacare, and ATF/Second Amendment cases. |
+  - Source: https://www.ag.ks.gov/divisions/special-litigation-unit
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-03860] The official AG site is more active as a governing communications hub. Its homepage leads with naloxone distribution boxes and a Census lawsuit about excluding undocumented immigrants from apportionment counts ([source](https://www.ag.ks.gov/)). The official biography highlights Kobach's Trump election-integrity commission role, Biden-administration litigation, Title IX litigation, Obamacare eligibility litigation, and RAGA chairmanship ([source](https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach)). The special litigation page says that unit handles high-profile lawsuits against federal regulations and lists Title IX, DACA/Obamacare, and ATF/Second Amendment cases ([source](https://www.ag.ks.gov/divisions/special-litigation-unit)).
+  - Source: https://www.ag.ks.gov/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-03901] [AG official biography](https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach), captured 2026-05-11. Key visible signals: Trump election-integrity commission, Title IX litigation, Obamacare eligibility litigation, RAGA chairmanship, family, and office service.
+  - Source: https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-kris-kobach-00003] Across the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $502,626 cash on hand, while still using the "Kris Kobach for Attorney General" brand and linking supporters to donation, volunteer, store, email, X, Facebook, and YouTube actions ([source](https://www.kriskobach.com/)). His campaign biography foregrounds his Harvard/Oxford/Yale credentials, DACA litigation, Biden vaccine-mandate litigation, DHS/ICE litigation, and Air Force religious-exemption litigation ([source](https://www.kriskobach.com/meet-kris/)).
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-04996] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-04934] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-kris-kobach-01903] Financial Institutions and Insurance Committee member
+  - Source: memory/candidates/kris-kobach/raw-dump.md:2822
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-02214] Endorsed Trump stating he would "protect Medicare, lower health care and drug prices, speed development of medical treatments and address the overdose epidemic." Also argued Trump would "close the southern U.S. border with Mexico to drug traffickers" and that America deserved "a president dedicated to securing our borders, stopping the drug traffickers and saving American lives."
+  - Source: memory/candidates/kris-kobach/raw-dump.md:3305
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-02907] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4502
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-kris-kobach-03839] | Campaign site | https://www.kriskobach.com/meet-kris/ | FOUND | Biography emphasizes elite legal credentials, litigation against federal administrations, DACA, vaccine mandates, Air Force religious exemptions, and current AG service. |
+  - Source: https://www.kriskobach.com/meet-kris/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03863] Facebook, Instagram, and YouTube are confirmed as platform presence but did not expose reliable current post inventories. The campaign videos page embeds six videos, including "Kris Kobach Testifies Before Congress," "TV Ad: Can't Trust Chris Mann," "TV Ad: Our Family's Safety," "TV Ad: Law Enforcement Agrees," "TV Ad: Kris Kobach is Ready," and a Fox clip about Anthony Fauci and border COVID testing ([source](https://www.kriskobach.com/videos/)). These are mostly 2021-2023 items, so they are treated as still-live campaign archive material rather than current social cadence.
+  - Source: https://www.kriskobach.com/videos/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03877] 1 month ago -- Naloxone distribution box at Pratt Community College. Engagement on official post quoted by Kobach: 10 replies, 4 reposts, 14 likes, 1K views, 0 quotes. Topic: fentanyl / public health. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03897] [Kris Kobach campaign biography](https://www.kriskobach.com/meet-kris/), captured 2026-05-11. Key visible signals: credentials, DACA litigation, Biden vaccine-mandate litigation, DHS/ICE litigation, Air Force religious-exemption litigation, family, and AG service.
+  - Source: https://www.kriskobach.com/meet-kris/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03904] [The Federalist coverage of Pfizer lawsuit](https://thefederalist.com/2024/06/18/kansas-ag-sues-pfizer-for-falsely-representing-and-suppressing-the-truth-about-its-covid-jab/), published 2024-06-18. Key visible signal: credible indexed coverage of Kobach's public messaging around the Pfizer COVID vaccine lawsuit.
+  - Source: https://thefederalist.com/2024/06/18/kansas-ag-sues-pfizer-for-falsely-representing-and-suppressing-the-truth-about-its-covid-jab/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-04754] Visible audience response is small on Bluesky and larger on YouTube Shorts. The most-engaged Bluesky item was the March 16 filing post, with 7 likes, 1 repost, 0 replies, and 0 quotes as of the May 11, 2026 capture ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)). Two issue-and-record posts each had 2 likes and 2 reposts: the April 23 rural-healthcare post ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6fxkfosc2x)) and the March 26 prosecutor-record post ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mhxxymz6k22j)). On YouTube, the highest-viewed captured short was the April 23 Iran video, titled "To clarify… this has happened five times now," ([source](https://www.youtube.com/shorts/PCjrC2kT-QA)) with 1,245 views and a star-rating count of 19 as of May 11, 2026.
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-04755] Hart's national and foreign-policy posts are present but less frequent than healthcare, agriculture, campaign events, and biography. On April 23, he posted, "When troops are in active operations, accountability matters at every level" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25)). His YouTube channel also includes an April 7 Iran short titled "This isn’t right" ([source](https://www.youtube.com/shorts/-OCEAu9lf84)), with 881 views and a star-rating count of 38 as of May 11, 2026. On immigration enforcement, he wrote, "Renée Good and Alex Pretti were killed, and five‑year‑old Liam Ramos was taken into ICE custody during a federal enforcement operation" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mj3eahdcyc2p)). In the KMUW/Kansas Reflector interview, he said, "That service has been as an advocate for your interests" ([source]…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-04756] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3miyghyp6jc2b)). His events feed includes Dodge City, Pittsburg, Harvey County, Kingman County, Riley County, Manhattan, Hesston, and Wichita. His official issues page separately lists water conservation, foreign markets for farmers and ranchers, Medicaid and Medicare expansion, VA staffing, and public education as policy priorities ([source](https://hartforsena…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-kris-kobach-00789] No faith or church references in any professional profiles, medical directories, or candidate information
+  - Source: memory/candidates/kris-kobach/raw-dump.md:943
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-kris-kobach-00933] International Medical Corps is a SECULAR humanitarian organization (not faith-based like Samaritan's Purse or Catholic Relief Services)
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1257
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00004] The dominant current signal is immigration and noncitizen enforcement. That bucket accounted for 10 of 36 coded items, or 28 percent of the accessible reviewed set ([harvest](social-harvest.md#topic-share-analysis)). In the indexed X sample, Kobach posted about noncitizen voting, in-state tuition for undocumented immigrants, SNAP data sharing, Census apportionment, Obamacare eligibility for undocumented immigrants, and immigration enforcement as a public-safety issue ([source](https://twstalker.com/KrisKobach1787)). The highest-viewed visible post in the sample was his in-state-tuition/federal-law warning, with 35K views, 308 likes, 83 reposts, 29 replies, and 7 quotes as displayed by the public mirror ([harvest](social-harvest.md#engagement-review)).
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-00937] [KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-02310] [KSHB - Ukraine medical mission](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-02336] [IMC - Lt. Governor to Climb Mt. Kilimanjaro](https://internationalmedicalcorps.org/press-release/lt-governor-to-climb-mt-kilimanjaro-in-support-of-international-medical-corps-humanitarian-relief-efforts/)
+  - Source: https://internationalmedicalcorps.org/press-release/lt-governor-to-climb-mt-kilimanjaro-in-support-of-international-medical-corps-humanitarian-relief-efforts/
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-03017] [Ballotpedia: Kansas Insurance Commissioner 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-00241] Religious liberty / military vaccine mandate litigation.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:513
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-kris-kobach-0004] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-kris-kobach-0006] Across the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $502,626 cash on hand, while still using the "Kris Kobach for Attorney General" brand and linking supporters to donation, volunteer, store, email, X, Facebook, and YouTube actions ([source](https://www.kriskobach.com/)). His campaign biography foregrounds his Harvard/Oxford/Yale credentials, DACA litigation, Biden vaccine-mandate litigation, DHS/ICE litigation, and Air Force religious-exemption litigation ([source](https://www.kriskobach.com/meet-kris/)).
+  - Source: https://www.kriskobach.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate X / Twitter share/repost** [soc-kris-kobach-0007] The dominant current signal is immigration and noncitizen enforcement. That bucket accounted for 10 of 36 coded items, or 28 percent of the accessible reviewed set ([harvest](social-harvest.md#topic-share-analysis)). In the indexed X sample, Kobach posted about noncitizen voting, in-state tuition for undocumented immigrants, SNAP data sharing, Census apportionment, Obamacare eligibility for undocumented immigrants, and immigration enforcement as a public-safety issue ([source](https://twstalker.com/KrisKobach1787)). The highest-viewed visible post in the sample was his in-state-tuition/federal-law warning, with 35K views, 308 likes, 83 reposts, 29 replies, and 7 quotes as displayed by the public mirror ([harvest](social-harvest.md#engagement-review)).
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-kris-kobach-0009] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kriskobach.com online-reference** [soc-kris-kobach-0010] The still-live campaign video archive reinforces Kobach's older AG campaign frame. The campaign site embeds videos about Congress testimony, attacks on Chris Mann, family safety, sheriff/law-enforcement support, qualifications, and a Fox clip about Anthony Fauci and border COVID testing ([source](https://www.kriskobach.com/videos/)). These videos are older than the current capture window, but they remain part of the campaign site's public presentation and align with the current social themes: law enforcement, credentials, federal conflict, and the argument that Kobach will fight rather than merely administer.
+  - Source: https://www.kriskobach.com/videos/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-kris-kobach-0012] Abortion is prominent in the broader candidate profile and older campaign record, but it was not a meaningful topic in the accessible current social sample captured for this harvest. Guns/Second Amendment appeared through the official special litigation page and ATF litigation, not as a frequent current-posting theme. Religious liberty appeared in the campaign biography through Air Force vaccine-mandate litigation, not as a current repeated social theme.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate twstalker.com share/repost** [soc-kris-kobach-0015] 1 month ago -- Naloxone distribution box at Pratt Community College. Engagement on official post quoted by Kobach: 10 replies, 4 reposts, 14 likes, 1K views, 0 quotes. Topic: fentanyl / public health. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-kris-kobach-0018] Across the accessible reviewed set, Kobach's current public posting did not show sustained attention to Medicaid expansion, rural hospital finance, prescription drug affordability, child care costs, housing affordability, workforce wages outside tariff/tax framing, transportation infrastructure, broadband, water policy, the Ogallala Aquifer, agriculture beyond lesser prairie chicken/ranching, higher-education affordability apart from undocumented-student tuition, foster care, adoption, mental health, or veterans services beyond general public-safety and official observance contexts.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-kris-kobach-0019] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3miyghyp6jc2b)). His events feed includes Dodge City, Pittsburg, Harvey County, Kingman County, Riley County, Manhattan, Hesston, and Wichita. His official issues page separately lists water conservation, foreign markets for farmers and ranchers, Medicaid and Medicare expansion, VA staffing, and public education as policy priorities ([source](https://hartforsena…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-kris-kobach-0020] | Federal overreach, constitutional litigation, Title IX, DACA, ATF/Second Amendment, Pfizer/COVID, and special litigation | 7 | 19% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 10. Election integrity / voting / courts
+
+Election integrity / voting / courts: 37 selected evidence items from 1318 mapped rows. Public URL-backed rows: 227.
+
+### Evidence
+- **candidate-stated** [em-kris-kobach-00009] Engagement is concentrated around immigration and federal-state conflict. The highest visible engagement in the accessible social sample was the State of the Union post on noncitizen voting: 655 likes, 93 reposts, 130 replies, 14K views, and 12 quotes. The in-state-tuition post had fewer likes but far more views, at 35K. The SNAP data statement also stood out, with 380 likes, 87 reposts, 28 replies, 9K views, and 10 quotes ([harvest](social-harvest.md#engagement-review)). By contrast, routine office updates on LinkedIn had single-digit reactions, and no current Facebook, Instagram, or YouTube engagement could be verified in logged-out capture.
+  - Source: memory/candidates/kris-kobach/in-their-own-words.md:17
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-02847] Right now, the Kansas Constitution says: "Every citizen of the United States who has attained the age of eighteen years and who resides in the voting area in which he or she seeks to vote shall be deemed a qualified elector."
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4358
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00005] Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-part fentanyl response involving penalties, drug-detection K-9s, and overdose-reversal access ([source](https://twstalker.com/KrisKobach1787)). The AG homepage similarly leads with naloxone access, saying the office wants the overdose-reversal drug to be easy for Kansans to find ([source](https://www.ag.ks.gov/)).
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00006] The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules ([source](https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach)). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the law; its high-profile case tiles are Title IX, DACA/Obamacare, and ATF/Second Amendment ([source](https://www.ag.ks.gov/divisions/special-litigation-unit)). Campaign and office messaging use those cases to make a single argument: the attorney general's office should be a conservative litigation shop as well as a state law-enforcement agency.
+  - Source: https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-00007] Judicial power is another clear through-line. In the current X sample, Kobach posted from Colby after talking about judicial selection reform and urged voters to support changing how Kansas Supreme Court justices are selected ([source](https://twstalker.com/KrisKobach1787)). He also posted support for Tony Mattivi and Anthony Powell federal bench nominations, and amplified praise for his AG office's legal staff as a pipeline into President Trump's second-term legal apparatus ([source](https://twstalker.com/KrisKobach1787)). The public pattern is a lawyerly identity tied to personnel, courts, judges, and constitutional authority, not just ordinary campaign biography.
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00008] Consumer and child-safety communications are more visible on official channels than on the campaign site. The @KSAGOffice indexed sample included public warnings about fake court-summons emails, a Menards multistate settlement, AI chatbot legislation, an open letter to AI developers, and routine prevention items ([source](https://mobile.twstalker.com/KSAGOffice)). The LinkedIn page for Kansas Attorney General showed the same administrative layer: Nexstar/Tegna, naloxone, law-enforcement memorials, senior-resource outreach, alcohol-prevention messaging for parents, roofing registration, crime-victim services, medication disposal, and VINE notifications ([source](https://www.linkedin.com/company/kansasag)).
+  - Source: https://mobile.twstalker.com/KSAGOffice
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00055] "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf"
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-00240] https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW02KK_202601.pdf
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW02KK_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-00540] [Ballotpedia: Kansas Elections for Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))
+  - Source: https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00541] [Kansas Reflector: Senate adopts plan to elect Supreme Court justices](https://kansasreflector.com/2025/03/07/kansas-senate-adopts-plan-to-elect-supreme-court-justices-a-step-toward-overturning-abortion-rights/)
+  - Source: https://kansasreflector.com/2025/03/07/kansas-senate-adopts-plan-to-elect-supreme-court-justices-a-step-toward-overturning-abortion-rights/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-00003] Across the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $502,626 cash on hand, while still using the "Kris Kobach for Attorney General" brand and linking supporters to donation, volunteer, store, email, X, Facebook, and YouTube actions ([source](https://www.kriskobach.com/)). His campaign biography foregrounds his Harvard/Oxford/Yale credentials, DACA litigation, Biden vaccine-mandate litigation, DHS/ICE litigation, and Air Force religious-exemption litigation ([source](https://www.kriskobach.com/meet-kris/)).
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-00550] [Sunflower State Journal: Fundraising for opposing campaign approaches $2 million](https://sunflowerstatejournal.com/fundraising-for-campaign-opposing-judicial-amendment-approaches-2-million/)
+  - Source: https://sunflowerstatejournal.com/fundraising-for-campaign-opposing-judicial-amendment-approaches-2-million/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-04996] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-04934] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-kris-kobach-00054] 1.2 KPDC statewide 2026 election-cycle page
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:60
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-00073] "Campaign says 51 Kansas sheriffs endorsed Kobach's attorney-general re-election"
+  - Source: memory/candidates/kris-kobach/v2-issues.yaml:59
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-kris-kobach-03838] | Campaign site | https://www.kriskobach.com/ | FOUND | Still branded "Kris Kobach for Attorney General." Homepage shows 2026 re-election filing/cash-on-hand release, RAGA chair announcement, campaign videos, WinRed links, email signup, volunteer, and store. |
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03844] | X / Twitter | https://x.com/KSAGOffice | FOUND / INDEXED | Official office account. State social directory links it. Public X mirror lists roughly 7K followers and recent posts on naloxone, in-state tuition, AI chatbots, court scams, consumer settlements, and official observances. |
+  - Source: https://x.com/KSAGOffice
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03859] Kobach's public footprint is unusually split between campaign branding and the official attorney general apparatus. The campaign site is still live under the AG campaign brand, with a January 8, 2026 release saying he filed for re-election and reported $502,626 cash on hand ([source](https://www.kriskobach.com/)). The same site links older campaign videos, Facebook, X, and YouTube, and keeps a volunteer/email/update funnel open.
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03861] The strongest public social signal is X. The indexed profile for [@KrisKobach1787](https://twstalker.com/KrisKobach1787) listed 26K followers and a bio separating campaign updates from official state business. Recent indexed posts concentrate on immigration, noncitizen voting, in-state tuition, SNAP data, judicial selection, fentanyl/naloxone, federal overreach, private property, tariffs, and staff/judicial appointments. The official [@KSAGOffice](https://twstalker.com/KSAGOffice) feed overlaps heavily but also includes consumer protection, public warnings, law enforcement, victim services, holiday/observance posts, and routine office activity.
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03869] 3 weeks ago -- Judicial selection reform post after a Colby/NWKS Radio stop. Kobach argued voters should choose Kansas Supreme Court justices. Engagement: 18 replies, 16 reposts, 67 likes, 2K views, 0 quotes. Topic: judicial selection / campaign event. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03873] 4 weeks ago -- State of the Union post saying Kansas had charged multiple noncitizens with illegal voting. Engagement: 130 replies, 93 reposts, 655 likes, 14K views, 12 quotes. Topic: election law / immigration / Trump validation. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03888] Official X mirror item: fake U.S. District Court email scam warning. Engagement: 8 replies, 41 reposts, 82 likes, 3K views, 0 quotes. Topic: consumer alert / fraud. ([source](https://mobile.twstalker.com/KSAGOffice))
+  - Source: https://mobile.twstalker.com/KSAGOffice
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03892] Official X mirror item: Johnson County sales-tax court ruling. Engagement: 12 replies, 8 reposts, 37 likes, 6K views, 1 quote. Topic: local government authority / tax. ([source](https://twstalker.com/KSAGOffice))
+  - Source: https://twstalker.com/KSAGOffice
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-kris-kobach-01504] [Kansas Catholic Conference: Election 2026](https://www.kansascatholic.org/current-news/election-2026)
+  - Source: https://www.kansascatholic.org/current-news/election-2026
+  - Confidence/use: likely / use
+- **faith-community-record** [em-kris-kobach-00737] Spoke at TMP about the importance of voting (invited as elected official to Catholic school)
+  - Source: memory/candidates/kris-kobach/raw-dump.md:818
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-kris-kobach-00917] Pushed the judicial selection amendment -- faith motivation was part of the framing
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1229
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-kris-kobach-03098] X/Twitter (@ScottSchwabKS): Mix of official duties, campaign messaging, and personal reflections. Posts about election security, office achievements, policy positions. References faith directly. Example post included a quote about faith in the context of his work.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4836
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-kris-kobach-00327] The backlash was immediate and severe. Kansans were outraged at this backroom dealing. In 1958, voters approved a constitutional amendment creating the nonpartisan nominating commission system that has been in place for 67 years.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:63
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-kris-kobach-02695] Consistent pattern of judicial rebukes -- multiple judges across jurisdictions have criticized his legal work
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4078
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-kris-kobach-03579] Accused by ACLU and voting rights groups of voter suppression
+  - Source: memory/candidates/kris-kobach/raw-dump.md:5598
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00004] The dominant current signal is immigration and noncitizen enforcement. That bucket accounted for 10 of 36 coded items, or 28 percent of the accessible reviewed set ([harvest](social-harvest.md#topic-share-analysis)). In the indexed X sample, Kobach posted about noncitizen voting, in-state tuition for undocumented immigrants, SNAP data sharing, Census apportionment, Obamacare eligibility for undocumented immigrants, and immigration enforcement as a public-safety issue ([source](https://twstalker.com/KrisKobach1787)). The highest-viewed visible post in the sample was his in-state-tuition/federal-law warning, with 35K views, 308 likes, 83 reposts, 29 replies, and 7 quotes as displayed by the public mirror ([harvest](social-harvest.md#engagement-review)).
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-00081] "url": "https://sos.ks.gov/elections/22elec/2022-General-Official-Vote-Totals.pdf",
+  - Source: https://sos.ks.gov/elections/22elec/2022-General-Official-Vote-Totals.pdf
+  - Confidence/use: confirmed / use
+- **background-context** [em-kris-kobach-00553] [KS Bar Association: Judicial Selection](https://ksbar.org/?pg=judicial-selection)
+  - Source: https://ksbar.org/?pg=judicial-selection
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-00561] [Brennan Center: Politics of Judicial Elections](https://www.brennancenter.org/our-work/research-reports/politics-judicial-elections-2021-2022)
+  - Source: https://www.brennancenter.org/our-work/research-reports/politics-judicial-elections-2021-2022
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-01648] [Vote No Kansas 2026](https://www.votenokansas.org/)
+  - Source: https://www.votenokansas.org/
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-02413] [ACLU Kansas - Federal Judge Rules](https://www.aclukansas.org/news/federal-judge-rules-favor-aclu-strikes-down-kobachs-illegal-voter-restrictions/)
+  - Source: https://www.aclukansas.org/news/federal-judge-rules-favor-aclu-strikes-down-kobachs-illegal-voter-restrictions/
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous ag.ks.gov online-reference** [soc-kris-kobach-0001] [AG official homepage](https://www.ag.ks.gov/), captured 2026-05-11. Key visible signals: naloxone access, Census lawsuit, AG facts, consumer protection, open government, AG opinions, and official social links.
+  - Source: https://www.ag.ks.gov/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate hartforsenate.com share/repost** [soc-kris-kobach-0003] Across the captured social period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name. Across the captured social period the feed contains no post-length discussion of abortion, though the official campaign issues page lists Protecting Reproductive Rights and Support Kansans' 2022 Vote ([source](https://hartforsenate.com/issues)). Across the captured social period the feed contains no reposts or quote-posts from primary opponents.
+  - Source: https://hartforsenate.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-kris-kobach-0004] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous twstalker.com online-reference** [soc-kris-kobach-0005] Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-part fentanyl response involving penalties, drug-detection K-9s, and overdose-reversal access ([source](https://twstalker.com/KrisKobach1787)). The AG homepage similarly leads with naloxone access, saying the office wants the overdose-reversal drug to be easy for Kansans to find ([source](https://www.ag.ks.gov/)).
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-kris-kobach-0006] Across the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $502,626 cash on hand, while still using the "Kris Kobach for Attorney General" brand and linking supporters to donation, volunteer, store, email, X, Facebook, and YouTube actions ([source](https://www.kriskobach.com/)). His campaign biography foregrounds his Harvard/Oxford/Yale credentials, DACA litigation, Biden vaccine-mandate litigation, DHS/ICE litigation, and Air Force religious-exemption litigation ([source](https://www.kriskobach.com/meet-kris/)).
+  - Source: https://www.kriskobach.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate X / Twitter share/repost** [soc-kris-kobach-0007] The dominant current signal is immigration and noncitizen enforcement. That bucket accounted for 10 of 36 coded items, or 28 percent of the accessible reviewed set ([harvest](social-harvest.md#topic-share-analysis)). In the indexed X sample, Kobach posted about noncitizen voting, in-state tuition for undocumented immigrants, SNAP data sharing, Census apportionment, Obamacare eligibility for undocumented immigrants, and immigration enforcement as a public-safety issue ([source](https://twstalker.com/KrisKobach1787)). The highest-viewed visible post in the sample was his in-state-tuition/federal-law warning, with 35K views, 308 likes, 83 reposts, 29 replies, and 7 quotes as displayed by the public mirror ([harvest](social-harvest.md#engagement-review)).
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous LinkedIn online-reference** [soc-kris-kobach-0008] Consumer and child-safety communications are more visible on official channels than on the campaign site. The @KSAGOffice indexed sample included public warnings about fake court-summons emails, a Menards multistate settlement, AI chatbot legislation, an open letter to AI developers, and routine prevention items ([source](https://mobile.twstalker.com/KSAGOffice)). The LinkedIn page for Kansas Attorney General showed the same administrative layer: Nexstar/Tegna, naloxone, law-enforcement memorials, senior-resource outreach, alcohol-prevention messaging for parents, roofing registration, crime-victim services, medication disposal, and VINE notifications ([source](https://www.linkedin.com/company/kansasag)).
+  - Source: https://mobile.twstalker.com/KSAGOffice
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-kris-kobach-0009] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kriskobach.com online-reference** [soc-kris-kobach-0010] The still-live campaign video archive reinforces Kobach's older AG campaign frame. The campaign site embeds videos about Congress testimony, attacks on Chris Mann, family safety, sheriff/law-enforcement support, qualifications, and a Fox clip about Anthony Fauci and border COVID testing ([source](https://www.kriskobach.com/videos/)). These videos are older than the current capture window, but they remain part of the campaign site's public presentation and align with the current social themes: law enforcement, credentials, federal conflict, and the argument that Kobach will fight rather than merely administer.
+  - Source: https://www.kriskobach.com/videos/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-kris-kobach-0012] Abortion is prominent in the broader candidate profile and older campaign record, but it was not a meaningful topic in the accessible current social sample captured for this harvest. Guns/Second Amendment appeared through the official special litigation page and ATF litigation, not as a frequent current-posting theme. Religious liberty appeared in the campaign biography through Air Force vaccine-mandate litigation, not as a current repeated social theme.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 11. Public safety / law enforcement / criminal justice
+
+Public safety / law enforcement / criminal justice: 31 selected evidence items from 523 mapped rows. Public URL-backed rows: 91.
+
+### Evidence
+- **candidate-stated** [em-kris-kobach-02676] Platform: "Defend the rule of law, protect our rights, protect our families and make Kansas a safer place to live." Emphasizes reorienting the AG's office toward basics of law enforcement rather than partisan federal lawsuits.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4052
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00005] Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-part fentanyl response involving penalties, drug-detection K-9s, and overdose-reversal access ([source](https://twstalker.com/KrisKobach1787)). The AG homepage similarly leads with naloxone access, saying the office wants the overdose-reversal drug to be easy for Kansans to find ([source](https://www.ag.ks.gov/)).
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00006] The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules ([source](https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach)). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the law; its high-profile case tiles are Title IX, DACA/Obamacare, and ATF/Second Amendment ([source](https://www.ag.ks.gov/divisions/special-litigation-unit)). Campaign and office messaging use those cases to make a single argument: the attorney general's office should be a conservative litigation shop as well as a state law-enforcement agency.
+  - Source: https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-00007] Judicial power is another clear through-line. In the current X sample, Kobach posted from Colby after talking about judicial selection reform and urged voters to support changing how Kansas Supreme Court justices are selected ([source](https://twstalker.com/KrisKobach1787)). He also posted support for Tony Mattivi and Anthony Powell federal bench nominations, and amplified praise for his AG office's legal staff as a pipeline into President Trump's second-term legal apparatus ([source](https://twstalker.com/KrisKobach1787)). The public pattern is a lawyerly identity tied to personnel, courts, judges, and constitutional authority, not just ordinary campaign biography.
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00008] Consumer and child-safety communications are more visible on official channels than on the campaign site. The @KSAGOffice indexed sample included public warnings about fake court-summons emails, a Menards multistate settlement, AI chatbot legislation, an open letter to AI developers, and routine prevention items ([source](https://mobile.twstalker.com/KSAGOffice)). The LinkedIn page for Kansas Attorney General showed the same administrative layer: Nexstar/Tegna, naloxone, law-enforcement memorials, senior-resource outreach, alcohol-prevention messaging for parents, roofing registration, crime-victim services, medication disposal, and VINE notifications ([source](https://www.linkedin.com/company/kansasag)).
+  - Source: https://mobile.twstalker.com/KSAGOffice
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00055] "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf"
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-00240] https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW02KK_202601.pdf
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW02KK_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-00540] [Ballotpedia: Kansas Elections for Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))
+  - Source: https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00541] [Kansas Reflector: Senate adopts plan to elect Supreme Court justices](https://kansasreflector.com/2025/03/07/kansas-senate-adopts-plan-to-elect-supreme-court-justices-a-step-toward-overturning-abortion-rights/)
+  - Source: https://kansasreflector.com/2025/03/07/kansas-senate-adopts-plan-to-elect-supreme-court-justices-a-step-toward-overturning-abortion-rights/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-00003] Across the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $502,626 cash on hand, while still using the "Kris Kobach for Attorney General" brand and linking supporters to donation, volunteer, store, email, X, Facebook, and YouTube actions ([source](https://www.kriskobach.com/)). His campaign biography foregrounds his Harvard/Oxford/Yale credentials, DACA litigation, Biden vaccine-mandate litigation, DHS/ICE litigation, and Air Force religious-exemption litigation ([source](https://www.kriskobach.com/meet-kris/)).
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-04996] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-04934] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-kris-kobach-00070] 1.4 Campaign sheriff endorsement statement
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:92
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-00134] 51 sheriffs endorsed Kobach, including Ellis County Sheriff Scott Braun.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:227
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-00279] | Public safety / fentanyl | Campaign sheriff endorsement, AG news, social harvest | Sheriff endorsements; K-9/naloxone/fentanyl emphasis. |
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:587
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-kris-kobach-03861] The strongest public social signal is X. The indexed profile for [@KrisKobach1787](https://twstalker.com/KrisKobach1787) listed 26K followers and a bio separating campaign updates from official state business. Recent indexed posts concentrate on immigration, noncitizen voting, in-state tuition, SNAP data, judicial selection, fentanyl/naloxone, federal overreach, private property, tariffs, and staff/judicial appointments. The official [@KSAGOffice](https://twstalker.com/KSAGOffice) feed overlaps heavily but also includes consumer protection, public warnings, law enforcement, victim services, holiday/observance posts, and routine office activity.
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03862] LinkedIn exposes a different office-administration signal. The [Kansas Attorney General LinkedIn page](https://www.linkedin.com/company/kansasag) listed 894 followers in logged-out capture and showed recent updates on a Nexstar/Tegna lawsuit, naloxone access, law enforcement memorial events, senior-resource outreach, alcohol prevention for parents, roofing-contractor registration, crime-victim awards, medication disposal, and VINE notifications. Engagement was low: visible reactions generally ranged from 2 to 8, with up to 2 comments on the visible set.
+  - Source: https://www.linkedin.com/company/kansasag
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03863] Facebook, Instagram, and YouTube are confirmed as platform presence but did not expose reliable current post inventories. The campaign videos page embeds six videos, including "Kris Kobach Testifies Before Congress," "TV Ad: Can't Trust Chris Mann," "TV Ad: Our Family's Safety," "TV Ad: Law Enforcement Agrees," "TV Ad: Kris Kobach is Ready," and a Fox clip about Anthony Fauci and border COVID testing ([source](https://www.kriskobach.com/videos/)). These are mostly 2021-2023 items, so they are treated as still-live campaign archive material rather than current social cadence.
+  - Source: https://www.kriskobach.com/videos/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03866] 4 days ago -- Repost/amplification of RAGA post about a Lyon County Sheriff's Office K-9 funded through an AG grant. Engagement on RAGA item: 1 reply, 2 reposts, 9 likes, 469 views, 0 quotes. Topic: law enforcement / drug interdiction / RAGA. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03867] 4 days ago -- Kobach post introducing Ace, the Lyon County K-9, quote-posting @KSAGOffice. Engagement on Kobach item: 2 replies, 3 reposts, 15 likes, 495 views, 0 quotes. Topic: law enforcement / narcotics. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03868] 2 weeks ago -- Fentanyl/naloxone post saying the AG office is using multiple tools, including penalties, K-9s, and naloxone boxes. Engagement on Kobach item: 13 replies, 4 reposts, 16 likes, 1K views, 0 quotes. Topic: fentanyl / overdose prevention / law enforcement. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03870] 3 weeks ago -- Naloxone distribution box at Fort Hays Tech Northwest in Goodland. Engagement: 6 replies, 3 reposts, 12 likes, 624 views, 0 quotes. Topic: fentanyl / overdose prevention. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03875] 4 weeks ago -- State of the Union post linking violent crime deaths to immigration enforcement. Engagement: 17 replies, 29 reposts, 144 likes, 4K views, 1 quote. Topic: immigration / crime / public safety. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-kris-kobach-00649] Assessment: The "core values" language is suggestive but not conclusive. His background is law enforcement and military -- both communities where faith can be deeply held but not publicly displayed. No specific church identified. Recommend direct inquiry.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:623
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-kris-kobach-04718] "theirRecord": "Hart does not have a legislative record, so his public record is mostly his work as a prosecutor and the circumstances of his campaign launch. The most prominent credential in the raw material is his 16-year tenure as an assistant U.S. attorney handling child exploitation and cybercrime cases under both Republican and Democratic administrations. His candidacy has been shaped as much by rhetoric as by résumé. Kansas Reflector reported that Hart has openly courted Republicans who feel estranged from the current GOP, and he has argued that Kansas Democrats need a candidate who can draw those voters rather than just consolidate the party base. That argument has also created controversy inside the Democratic field. Hart publicly described himself as a \"white, male, Christian, hetero, 2A-friendly, LEO-friendly\" candidate, presenting those traits as part of his electability c…
+  - Source: ui/src/data/candidates.ts:2517
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-02515] [Kansas Reflector: Kobach Fentanyl Initiative](https://kansasreflector.com/2023/07/20/ag-kobach-to-announce-ongoing-initiative-combating-fentanyl-in-kansas-here-are-the-basics/)
+  - Source: https://kansasreflector.com/2023/07/20/ag-kobach-to-announce-ongoing-initiative-combating-fentanyl-in-kansas-here-are-the-basics/
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-02517] [KLRD: Kansas Law Enforcement Fentanyl Response](https://klrd.gov/2024/12/18/kansas-law-enforcement-fentanyl-response/)
+  - Source: https://klrd.gov/2024/12/18/kansas-law-enforcement-fentanyl-response/
+  - Confidence/use: confirmed / use
+- **background-context** [em-kris-kobach-02530] [Tony's Kansas City: Did Kobach Cut Crime?](https://www.tonyskansascity.com/2025/07/did-kansas-ag-kobach-cut-crime.html)
+  - Source: https://www.tonyskansascity.com/2025/07/did-kansas-ag-kobach-cut-crime.html
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-04589] [Lawrence Journal-World: "Former Lawrence police officer turns DUI accident into life mission" (Feb 14, 2013)](https://www2.ljworld.com/news/2013/feb/14/former-lawrence-officer-turns-dui-accident-life-mi/)
+  - Source: https://www2.ljworld.com/news/2013/feb/14/former-lawrence-officer-turns-dui-accident-life-mi/
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-00075] The release attributes public-safety claims to endorsing sheriffs and to Kobach, including cooperation with sheriffs, KBI enforcement, fentanyl, organized retail crime, and crime-rate claims.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:103
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-00076] Public safety / law enforcement / fentanyl.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:106
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous ag.ks.gov online-reference** [soc-kris-kobach-0001] [AG official homepage](https://www.ag.ks.gov/), captured 2026-05-11. Key visible signals: naloxone access, Census lawsuit, AG facts, consumer protection, open government, AG opinions, and official social links.
+  - Source: https://www.ag.ks.gov/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-kris-kobach-0004] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous twstalker.com online-reference** [soc-kris-kobach-0005] Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-part fentanyl response involving penalties, drug-detection K-9s, and overdose-reversal access ([source](https://twstalker.com/KrisKobach1787)). The AG homepage similarly leads with naloxone access, saying the office wants the overdose-reversal drug to be easy for Kansans to find ([source](https://www.ag.ks.gov/)).
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-kris-kobach-0006] Across the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $502,626 cash on hand, while still using the "Kris Kobach for Attorney General" brand and linking supporters to donation, volunteer, store, email, X, Facebook, and YouTube actions ([source](https://www.kriskobach.com/)). His campaign biography foregrounds his Harvard/Oxford/Yale credentials, DACA litigation, Biden vaccine-mandate litigation, DHS/ICE litigation, and Air Force religious-exemption litigation ([source](https://www.kriskobach.com/meet-kris/)).
+  - Source: https://www.kriskobach.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous LinkedIn online-reference** [soc-kris-kobach-0008] Consumer and child-safety communications are more visible on official channels than on the campaign site. The @KSAGOffice indexed sample included public warnings about fake court-summons emails, a Menards multistate settlement, AI chatbot legislation, an open letter to AI developers, and routine prevention items ([source](https://mobile.twstalker.com/KSAGOffice)). The LinkedIn page for Kansas Attorney General showed the same administrative layer: Nexstar/Tegna, naloxone, law-enforcement memorials, senior-resource outreach, alcohol-prevention messaging for parents, roofing registration, crime-victim services, medication disposal, and VINE notifications ([source](https://www.linkedin.com/company/kansasag)).
+  - Source: https://mobile.twstalker.com/KSAGOffice
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-kris-kobach-0009] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kriskobach.com online-reference** [soc-kris-kobach-0010] The still-live campaign video archive reinforces Kobach's older AG campaign frame. The campaign site embeds videos about Congress testimony, attacks on Chris Mann, family safety, sheriff/law-enforcement support, qualifications, and a Fox clip about Anthony Fauci and border COVID testing ([source](https://www.kriskobach.com/videos/)). These videos are older than the current capture window, but they remain part of the campaign site's public presentation and align with the current social themes: law enforcement, credentials, federal conflict, and the argument that Kobach will fight rather than merely administer.
+  - Source: https://www.kriskobach.com/videos/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate twstalker.com share/repost** [soc-kris-kobach-0015] 1 month ago -- Naloxone distribution box at Pratt Community College. Engagement on official post quoted by Kobach: 10 replies, 4 reposts, 14 likes, 1K views, 0 quotes. Topic: fentanyl / public health. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate X / Twitter share/repost** [soc-kris-kobach-0016] Official X mirror item: naloxone distribution at Pratt Community College. Engagement: 10 replies, 4 reposts, 14 likes, 984 views, 0 quotes. Topic: fentanyl / naloxone. ([source](https://mobile.twstalker.com/KSAGOffice))
+  - Source: https://mobile.twstalker.com/KSAGOffice
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong twstalker.com post** [soc-kris-kobach-0025] The strongest public social signal is X. The indexed profile for [@KrisKobach1787](https://twstalker.com/KrisKobach1787) listed 26K followers and a bio separating campaign updates from official state business. Recent indexed posts concentrate on immigration, noncitizen voting, in-state tuition, SNAP data, judicial selection, fentanyl/naloxone, federal overreach, private property, tariffs, and staff/judicial appointments. The official [@KSAGOffice](https://twstalker.com/KSAGOffice) feed overlaps heavily but also includes consumer protection, public warnings, law enforcement, victim services, holiday/observance posts, and routine office activity.
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 12. Agriculture / rural economy / water
+
+Agriculture / rural economy / water: 31 selected evidence items from 84 mapped rows. Public URL-backed rows: 16.
+
+### Evidence
+- **candidate-stated** [em-kris-kobach-04881] "stance": "Supports expanding healthcare access, especially in rural Kansas. Said \"Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor.\""
+  - Source: ui/src/data/candidates.ts:18574
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-04885] "stance": "Says small business is \"how we rebuild rural Kansas\" and wants to make Kansas more affordable for entrepreneurs."
+  - Source: ui/src/data/candidates.ts:18582
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-01087] > -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-01437] [Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-04757] Across the captured social period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name. Across the captured social period the feed contains no post-length discussion of abortion, though the official campaign issues page lists Protecting Reproductive Rights and Support Kansans' 2022 Vote ([source](https://hartforsenate.com/issues)). Across the captured social period the feed contains no reposts or quote-posts from primary opponents.
+  - Source: https://hartforsenate.com/issues
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-04899] "source": "Kansas Reflector, March 8, 2026, https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00011] Several areas were absent or thin in the accessible reviewed set. The current public material did not show sustained discussion of Medicaid expansion, rural hospital finance, prescription drug affordability, child care costs, housing affordability, transportation, broadband, water policy, the Ogallala Aquifer, foster care, adoption, or veterans services. Abortion is prominent in the broader candidate profile and older record, but it was not a meaningful topic in the accessible current social sample. Guns appeared mainly through ATF/Second Amendment litigation, and religious liberty appeared mainly through the campaign biography's Air Force vaccine-mandate case ([harvest](social-harvest.md#visible-absences)).
+  - Source: memory/candidates/kris-kobach/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00270] Medicaid expansion, rural hospitals, housing, water/Ogallala, broadband, child care, foster care, adoption, veterans services: no current candidate-controlled statement found in accessible current materials.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:569
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-01076] Notable Legislative Focus Areas: Education funding, lowering cost of living, workforce development, small business support, rural healthcare access. Specific bill-by-bill voting record available at kslegislature.gov but not extractable in bulk from search.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1482
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-01661] The City of Hays manages its own water utility through the city commission
+  - Source: memory/candidates/kris-kobach/raw-dump.md:2472
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-04934] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-kris-kobach-00084] Kobach was raised in Topeka and graduated from Washburn Rural High School.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:123
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-00816] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1032
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-02907] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4502
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-02946] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4587
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-03372] Specific formal endorsements (NRA rating, Kansas Right to Life, Kansas Farm Bureau, etc.) were not comprehensively documented in publicly available reporting at time of investigation. The Kansas Ethics Commission filings may contain PAC contribution details that indicate organizational support.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:5267
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-kris-kobach-03872] 3 weeks ago -- Lesser prairie chicken post describing delisting litigation as a win for ranchers, energy production, private property, and rural economy. Engagement on Kobach item: 9 replies, 10 reposts, 75 likes, 4K views, 2 quotes. Topic: federal regulation / rural economy / energy / property rights. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-04754] Visible audience response is small on Bluesky and larger on YouTube Shorts. The most-engaged Bluesky item was the March 16 filing post, with 7 likes, 1 repost, 0 replies, and 0 quotes as of the May 11, 2026 capture ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)). Two issue-and-record posts each had 2 likes and 2 reposts: the April 23 rural-healthcare post ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6fxkfosc2x)) and the March 26 prosecutor-record post ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mhxxymz6k22j)). On YouTube, the highest-viewed captured short was the April 23 Iran video, titled "To clarify… this has happened five times now," ([source](https://www.youtube.com/shorts/PCjrC2kT-QA)) with 1,245 views and a star-rating count of 19 as of May 11, 2026.
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-04755] Hart's national and foreign-policy posts are present but less frequent than healthcare, agriculture, campaign events, and biography. On April 23, he posted, "When troops are in active operations, accountability matters at every level" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25)). His YouTube channel also includes an April 7 Iran short titled "This isn’t right" ([source](https://www.youtube.com/shorts/-OCEAu9lf84)), with 881 views and a star-rating count of 38 as of May 11, 2026. On immigration enforcement, he wrote, "Renée Good and Alex Pretti were killed, and five‑year‑old Liam Ramos was taken into ICE custody during a federal enforcement operation" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mj3eahdcyc2p)). In the KMUW/Kansas Reflector interview, he said, "That service has been as an advocate for your interests" ([source]…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-04756] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3miyghyp6jc2b)). His events feed includes Dodge City, Pittsburg, Harvey County, Kingman County, Riley County, Manhattan, Hesston, and Wichita. His official issues page separately lists water conservation, foreign markets for farmers and ranchers, Medicaid and Medicare expansion, VA staffing, and public education as policy priorities ([source](https://hartforsena…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03913] | Taxes, tariffs, property rights, energy/ranching, and rural economy | 2 | 6% |
+  - Source: memory/candidates/kris-kobach/social-harvest.md:107
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03923] Across the accessible reviewed set, Kobach's current public posting did not show sustained attention to Medicaid expansion, rural hospital finance, prescription drug affordability, child care costs, housing affordability, workforce wages outside tariff/tax framing, transportation infrastructure, broadband, water policy, the Ogallala Aquifer, agriculture beyond lesser prairie chicken/ranching, higher-education affordability apart from undocumented-student tuition, foster care, adoption, mental health, or veterans services beyond general public-safety and official observance contexts.
+  - Source: memory/candidates/kris-kobach/social-harvest.md:127
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-kris-kobach-03316] Caleb had attended church with his family hours before his death that Sunday morning. The family went from church to the waterpark for what was supposed to be a fun family outing. Source: [Christian Post article](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)
+  - Source: https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html
+  - Confidence/use: likely / use
+- **faith-community-record** [em-kris-kobach-03550] [Christian Post: Caleb attended church hours before death](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)
+  - Source: https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html
+  - Confidence/use: likely / use
+- **faith-community-record** [em-kris-kobach-01007] This is not surprising -- Ellis County was settled by German-Catholic Volga Germans in the 1870s, and Catholicism remains the dominant faith tradition. The three Catholic parishes in Hays (St. Joseph, Immaculate Heart of Mary, St. Nicholas of Myra) plus the surrounding rural parishes form the backbone of the local power structure.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:1371
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-01439] [Kansas Reflector: Rural voter appeal (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-01459] [Kansas Reflector: Rural voters (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-01480] [Schooley Mitchell: Eberly Farm / Kids Closet story](https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/)
+  - Source: https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-03543] [ABC News: Family of boy killed on water slide speaks out](https://abcnews.go.com/US/family-boy-killed-waterslide-speaks-hurting/story?id=45445546)
+  - Source: https://abcnews.go.com/US/family-boy-killed-waterslide-speaks-hurting/story?id=45445546
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-03551] [TIME: What we know about the water slide death](https://time.com/4444447/caleb-schwab-verruckt-water-slide-death/)
+  - Source: https://time.com/4444447/caleb-schwab-verruckt-water-slide-death/
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-00633] His identified priorities: water, population growth, economic development
+  - Source: memory/candidates/kris-kobach/raw-dump.md:576
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate hartforsenate.com share/repost** [soc-kris-kobach-0003] Across the captured social period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name. Across the captured social period the feed contains no post-length discussion of abortion, though the official campaign issues page lists Protecting Reproductive Rights and Support Kansans' 2022 Vote ([source](https://hartforsenate.com/issues)). Across the captured social period the feed contains no reposts or quote-posts from primary opponents.
+  - Source: https://hartforsenate.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-kris-kobach-0009] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-kris-kobach-0018] Across the accessible reviewed set, Kobach's current public posting did not show sustained attention to Medicaid expansion, rural hospital finance, prescription drug affordability, child care costs, housing affordability, workforce wages outside tariff/tax framing, transportation infrastructure, broadband, water policy, the Ogallala Aquifer, agriculture beyond lesser prairie chicken/ranching, higher-education affordability apart from undocumented-student tuition, foster care, adoption, mental health, or veterans services beyond general public-safety and official observance contexts.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-kris-kobach-0019] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3miyghyp6jc2b)). His events feed includes Dodge City, Pittsburg, Harvey County, Kingman County, Riley County, Manhattan, Hesston, and Wichita. His official issues page separately lists water conservation, foreign markets for farmers and ranchers, Medicaid and Medicare expansion, VA staffing, and public education as policy priorities ([source](https://hartforsena…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-kris-kobach-0023] | Taxes, tariffs, property rights, energy/ranching, and rural economy | 2 | 6% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate twstalker.com share/repost** [soc-kris-kobach-0026] 3 weeks ago -- Lesser prairie chicken post describing delisting litigation as a win for ranchers, energy production, private property, and rural economy. Engagement on Kobach item: 9 replies, 10 reposts, 75 likes, 4K views, 2 quotes. Topic: federal regulation / rural economy / energy / property rights. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-kris-kobach-0035] Hart's national and foreign-policy posts are present but less frequent than healthcare, agriculture, campaign events, and biography. On April 23, he posted, "When troops are in active operations, accountability matters at every level" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25)). His YouTube channel also includes an April 7 Iran short titled "This isn’t right" ([source](https://www.youtube.com/shorts/-OCEAu9lf84)), with 881 views and a star-rating count of 38 as of May 11, 2026. On immigration enforcement, he wrote, "Renée Good and Alex Pretti were killed, and five‑year‑old Liam Ramos was taken into ICE custody during a federal enforcement operation" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mj3eahdcyc2p)). In the KMUW/Kansas Reflector interview, he said, "That service has been as an advocate for your interests" ([source]…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate Bluesky share/repost** [soc-kris-kobach-0038] Visible audience response is small on Bluesky and larger on YouTube Shorts. The most-engaged Bluesky item was the March 16 filing post, with 7 likes, 1 repost, 0 replies, and 0 quotes as of the May 11, 2026 capture ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)). Two issue-and-record posts each had 2 likes and 2 reposts: the April 23 rural-healthcare post ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6fxkfosc2x)) and the March 26 prosecutor-record post ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mhxxymz6k22j)). On YouTube, the highest-viewed captured short was the April 23 Iran video, titled "To clarify… this has happened five times now," ([source](https://www.youtube.com/shorts/PCjrC2kT-QA)) with 1,245 views and a star-rating count of 19 as of May 11, 2026.
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0142] Several areas were absent or thin in the accessible reviewed set. The current public material did not show sustained discussion of Medicaid expansion, rural hospital finance, prescription drug affordability, child care costs, housing affordability, transportation, broadband, water policy, the Ogallala Aquifer, foster care, adoption, or veterans services. Abortion is prominent in the broader candidate profile and older record, but it was not a meaningful topic in the accessible current social sample. Guns appeared mainly through ATF/Second Amendment litigation, and religious liberty appeared mainly through the campaign biography's Air Force vaccine-mandate case ([harvest](social-harvest.md#visible-absences)).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-kris-kobach-0160] Current topic mix in the social harvest: immigration and noncitizen voting; law enforcement/fentanyl/naloxone/K-9 grants; federal overreach and constitutional litigation; judicial selection; consumer protection/AI/fraud; and a smaller rural-economy/property-rights signal.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 13. Local governance / transparency / ethics
+
+Local governance / transparency / ethics: 40 selected evidence items from 1242 mapped rows. Public URL-backed rows: 215.
+
+### Evidence
+- **candidate-stated** [em-kris-kobach-00009] Engagement is concentrated around immigration and federal-state conflict. The highest visible engagement in the accessible social sample was the State of the Union post on noncitizen voting: 655 likes, 93 reposts, 130 replies, 14K views, and 12 quotes. The in-state-tuition post had fewer likes but far more views, at 35K. The SNAP data statement also stood out, with 380 likes, 87 reposts, 28 replies, 9K views, and 10 quotes ([harvest](social-harvest.md#engagement-review)). By contrast, routine office updates on LinkedIn had single-digit reactions, and no current Facebook, Instagram, or YouTube engagement could be verified in logged-out capture.
+  - Source: memory/candidates/kris-kobach/in-their-own-words.md:17
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-00090] Official bio says he led and personally argued Biden-administration challenges involving Title IX and Obamacare eligibility for DACA recipients.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:129
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-00170] AG release says the office secured judgments and permanent bans against M.GC Construction, LLC and operators.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:324
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-00273] Compiled UI conflict: existing ui/src/data/v2/kris-kobach.ts has a wrong campaignWebsite URL and local site-profile.md says governor. Do not carry that forward.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:576
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-02676] Platform: "Defend the rule of law, protect our rights, protect our families and make Kansas a safer place to live." Emphasizes reorienting the AG's office toward basics of law enforcement rather than partisan federal lawsuits.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4052
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-03352] Kansas requires a Statement of Substantial Interests (SSI) for state officials. These filings are available through the Kansas Secretary of State's office but are not comprehensively digitized for public search online.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:5237
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-03648] The public record makes clear that he is comfortable using the AG office as a platform for ideological litigation.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:5713
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-kris-kobach-03740] Current office: Kansas Attorney General. The official Kansas AG biography says Kobach was elected Kansas's 45th attorney general in November 2022 and began his first four-year term in 2023.
+  - Source: memory/candidates/kris-kobach/sleuth-pass.md:14
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-00005] Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-part fentanyl response involving penalties, drug-detection K-9s, and overdose-reversal access ([source](https://twstalker.com/KrisKobach1787)). The AG homepage similarly leads with naloxone access, saying the office wants the overdose-reversal drug to be easy for Kansans to find ([source](https://www.ag.ks.gov/)).
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00006] The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules ([source](https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach)). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the law; its high-profile case tiles are Title IX, DACA/Obamacare, and ATF/Second Amendment ([source](https://www.ag.ks.gov/divisions/special-litigation-unit)). Campaign and office messaging use those cases to make a single argument: the attorney general's office should be a conservative litigation shop as well as a state law-enforcement agency.
+  - Source: https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach
+  - Confidence/use: confirmed / use
+- **documented-record** [em-kris-kobach-00007] Judicial power is another clear through-line. In the current X sample, Kobach posted from Colby after talking about judicial selection reform and urged voters to support changing how Kansas Supreme Court justices are selected ([source](https://twstalker.com/KrisKobach1787)). He also posted support for Tony Mattivi and Anthony Powell federal bench nominations, and amplified praise for his AG office's legal staff as a pipeline into President Trump's second-term legal apparatus ([source](https://twstalker.com/KrisKobach1787)). The public pattern is a lawyerly identity tied to personnel, courts, judges, and constitutional authority, not just ordinary campaign biography.
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00008] Consumer and child-safety communications are more visible on official channels than on the campaign site. The @KSAGOffice indexed sample included public warnings about fake court-summons emails, a Menards multistate settlement, AI chatbot legislation, an open letter to AI developers, and routine prevention items ([source](https://mobile.twstalker.com/KSAGOffice)). The LinkedIn page for Kansas Attorney General showed the same administrative layer: Nexstar/Tegna, naloxone, law-enforcement memorials, senior-resource outreach, alcohol-prevention messaging for parents, roofing registration, crime-victim services, medication disposal, and VINE notifications ([source](https://www.linkedin.com/company/kansasag)).
+  - Source: https://mobile.twstalker.com/KSAGOffice
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00548] [Americans for Prosperity - Kansas statement](https://americansforprosperity.org/press-release/afp-kansas-celebrates-passage-of-judicial-selection-process-reform-urges-voters-to-support-ballot-measure/)
+  - Source: https://americansforprosperity.org/press-release/afp-kansas-celebrates-passage-of-judicial-selection-process-reform-urges-voters-to-support-ballot-measure/
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00562] [Center for American Progress: Partisan Judicial Elections](https://www.americanprogress.org/article/partisan-judicial-elections-and-the-distorting-influence-of-campaign-cash/)
+  - Source: https://www.americanprogress.org/article/partisan-judicial-elections-and-the-distorting-influence-of-campaign-cash/
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00573] [Kansas Reflector: Legislature plots election suppression](https://kansasreflector.com/2026/03/11/kansas-legislature-plots-election-suppression-one-careful-building-block-at-a-time/)
+  - Source: https://kansasreflector.com/2026/03/11/kansas-legislature-plots-election-suppression-one-careful-building-block-at-a-time/
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00575] [FAIR: Eight States Approve Amendments Banning Noncitizen Voting](https://www.fairus.org/legislation/state-and-local/eight-states-approve-constitutional-amendments-banning-noncitizen)
+  - Source: https://www.fairus.org/legislation/state-and-local/eight-states-approve-constitutional-amendments-banning-noncitizen
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-00003] Across the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $502,626 cash on hand, while still using the "Kris Kobach for Attorney General" brand and linking supporters to donation, volunteer, store, email, X, Facebook, and YouTube actions ([source](https://www.kriskobach.com/)). His campaign biography foregrounds his Harvard/Oxford/Yale credentials, DACA litigation, Biden vaccine-mandate litigation, DHS/ICE litigation, and Air Force religious-exemption litigation ([source](https://www.kriskobach.com/meet-kris/)).
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-00122] "url": "https://www.fec.gov/data/legal/matter-under-review/7636/",
+  - Source: https://www.fec.gov/data/legal/matter-under-review/7636/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-kris-kobach-00550] [Sunflower State Journal: Fundraising for opposing campaign approaches $2 million](https://sunflowerstatejournal.com/fundraising-for-campaign-opposing-judicial-amendment-approaches-2-million/)
+  - Source: https://sunflowerstatejournal.com/fundraising-for-campaign-opposing-judicial-amendment-approaches-2-million/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-01335] > -- [Kansas Reflector, January 19, 2026](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)
+  - Source: https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-01484] [Kansas Reflector: Millionaire candidates (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)
+  - Source: https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-kris-kobach-01494] [Trending Politics: Frontrunner emerges](https://trendingpoliticsnews.com/new-frontrunner-emerges-in-key-race-as-gop-candidate-shatters-fundraising-records-mace/)
+  - Source: https://trendingpoliticsnews.com/new-frontrunner-emerges-in-key-race-as-gop-candidate-shatters-fundraising-records-mace/
+  - Confidence/use: likely / use
+- **social-online-signal** [em-kris-kobach-03092] | X (Twitter) | [@KansasSOS](https://x.com/KansasSOS) | Official Office | Office of Kansas Secretary of State |
+  - Source: https://x.com/KansasSOS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03094] | Instagram | [@kansassos](https://www.instagram.com/kansassos/) | Official Office | Kansas Secretary of State office account |
+  - Source: https://www.instagram.com/kansassos/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03838] | Campaign site | https://www.kriskobach.com/ | FOUND | Still branded "Kris Kobach for Attorney General." Homepage shows 2026 re-election filing/cash-on-hand release, RAGA chair announcement, campaign videos, WinRed links, email signup, volunteer, and store. |
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03843] | X / Twitter | https://x.com/KrisKobach1787 | FOUND / INDEXED | Campaign/personal account. Public X mirror lists 2K tweets, 26K followers, 533 following, 632 likes; bio says he is the 45th Kansas AG, fighting government overreach, and tells users to follow @KSAGOffice for official business. Direct X feed was script-blocked in logged-out capture. |
+  - Source: https://x.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03844] | X / Twitter | https://x.com/KSAGOffice | FOUND / INDEXED | Official office account. State social directory links it. Public X mirror lists roughly 7K followers and recent posts on naloxone, in-state tuition, AI chatbots, court scams, consumer settlements, and official observances. |
+  - Source: https://x.com/KSAGOffice
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03850] | LinkedIn | https://www.linkedin.com/company/kansasag | FOUND | Public company page for Kansas Attorney General. Logged-out capture showed 894 followers and recent updates with low single-digit engagement. This is office-controlled rather than campaign-controlled. |
+  - Source: https://www.linkedin.com/company/kansasag
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03859] Kobach's public footprint is unusually split between campaign branding and the official attorney general apparatus. The campaign site is still live under the AG campaign brand, with a January 8, 2026 release saying he filed for re-election and reported $502,626 cash on hand ([source](https://www.kriskobach.com/)). The same site links older campaign videos, Facebook, X, and YouTube, and keeps a volunteer/email/update funnel open.
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03861] The strongest public social signal is X. The indexed profile for [@KrisKobach1787](https://twstalker.com/KrisKobach1787) listed 26K followers and a bio separating campaign updates from official state business. Recent indexed posts concentrate on immigration, noncitizen voting, in-state tuition, SNAP data, judicial selection, fentanyl/naloxone, federal overreach, private property, tariffs, and staff/judicial appointments. The official [@KSAGOffice](https://twstalker.com/KSAGOffice) feed overlaps heavily but also includes consumer protection, public warnings, law enforcement, victim services, holiday/observance posts, and routine office activity.
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-kris-kobach-00740] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **faith-community-record** [em-kris-kobach-00881] [KCUR: Kansas Trial Investigates Religious Discrimination in Kobach's Office](https://www.kcur.org/government/2017-08-22/kansas-trial-investigates-religious-discrimination-claim-in-kobachs-office)
+  - Source: https://www.kcur.org/government/2017-08-22/kansas-trial-investigates-religious-discrimination-claim-in-kobachs-office
+  - Confidence/use: likely / use
+- **faith-community-record** [em-kris-kobach-03681] Public reporting ties Kobach to Morning Star Church in Lawrence. The church website is https://msclawrence.com/, and local reporting has referred to it as his church.
+  - Source: https://msclawrence.com/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-kris-kobach-04925] "whereTheyWorship": "Public reporting ties Kobach to Morning Star Church in Lawrence. The church website is https://msclawrence.com/, and local reporting has referred to it as his church.",
+  - Source: https://msclawrence.com/
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-00026] https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf
+  - Source: https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-00081] "url": "https://sos.ks.gov/elections/22elec/2022-General-Official-Vote-Totals.pdf",
+  - Source: https://sos.ks.gov/elections/22elec/2022-General-Official-Vote-Totals.pdf
+  - Confidence/use: confirmed / use
+- **background-context** [em-kris-kobach-00659] [City Manager's Office - Hays](https://www.haysusa.com/149/City-Managers-Office)
+  - Source: https://www.haysusa.com/149/City-Managers-Office
+  - Confidence/use: confirmed / use
+- **background-context** [em-kris-kobach-00671] [Kansas Sheriffs' Association - Ellis County](https://www.kansassheriffs.org/county_map/county/914)
+  - Source: https://www.kansassheriffs.org/county_map/county/914
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-00686] [HaysPost: New Ellis County Attorney](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1)
+  - Source: https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-00729] [FHSU: Germans from Russia in Ellis County](https://fhsuguides.fhsu.edu/kansasheritage/elliscounty)
+  - Source: https://fhsuguides.fhsu.edu/kansasheritage/elliscounty
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous ag.ks.gov online-reference** [soc-kris-kobach-0001] [AG official homepage](https://www.ag.ks.gov/), captured 2026-05-11. Key visible signals: naloxone access, Census lawsuit, AG facts, consumer protection, open government, AG opinions, and official social links.
+  - Source: https://www.ag.ks.gov/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-kris-kobach-0002] [Kansas.gov social-media directory](https://portal.kansas.gov/social-media/), captured 2026-05-11. Key visible signals: state directory lists Attorney General Kris Kobach and links official Facebook, Twitter/X, YouTube, and RSS channels.
+  - Source: https://portal.kansas.gov/social-media/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate hartforsenate.com share/repost** [soc-kris-kobach-0003] Across the captured social period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name. Across the captured social period the feed contains no post-length discussion of abortion, though the official campaign issues page lists Protecting Reproductive Rights and Support Kansans' 2022 Vote ([source](https://hartforsenate.com/issues)). Across the captured social period the feed contains no reposts or quote-posts from primary opponents.
+  - Source: https://hartforsenate.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-kris-kobach-0004] narrative: "*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are safe\" ([source](https://chrismannforkansas.com/)…
+  - Source: https://chrismannforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous twstalker.com online-reference** [soc-kris-kobach-0005] Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-part fentanyl response involving penalties, drug-detection K-9s, and overdose-reversal access ([source](https://twstalker.com/KrisKobach1787)). The AG homepage similarly leads with naloxone access, saying the office wants the overdose-reversal drug to be easy for Kansans to find ([source](https://www.ag.ks.gov/)).
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-kris-kobach-0006] Across the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $502,626 cash on hand, while still using the "Kris Kobach for Attorney General" brand and linking supporters to donation, volunteer, store, email, X, Facebook, and YouTube actions ([source](https://www.kriskobach.com/)). His campaign biography foregrounds his Harvard/Oxford/Yale credentials, DACA litigation, Biden vaccine-mandate litigation, DHS/ICE litigation, and Air Force religious-exemption litigation ([source](https://www.kriskobach.com/meet-kris/)).
+  - Source: https://www.kriskobach.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous LinkedIn online-reference** [soc-kris-kobach-0008] Consumer and child-safety communications are more visible on official channels than on the campaign site. The @KSAGOffice indexed sample included public warnings about fake court-summons emails, a Menards multistate settlement, AI chatbot legislation, an open letter to AI developers, and routine prevention items ([source](https://mobile.twstalker.com/KSAGOffice)). The LinkedIn page for Kansas Attorney General showed the same administrative layer: Nexstar/Tegna, naloxone, law-enforcement memorials, senior-resource outreach, alcohol-prevention messaging for parents, roofing registration, crime-victim services, medication disposal, and VINE notifications ([source](https://www.linkedin.com/company/kansasag)).
+  - Source: https://mobile.twstalker.com/KSAGOffice
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-kris-kobach-0009] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kriskobach.com online-reference** [soc-kris-kobach-0010] The still-live campaign video archive reinforces Kobach's older AG campaign frame. The campaign site embeds videos about Congress testimony, attacks on Chris Mann, family safety, sheriff/law-enforcement support, qualifications, and a Fox clip about Anthony Fauci and border COVID testing ([source](https://www.kriskobach.com/videos/)). These videos are older than the current capture window, but they remain part of the campaign site's public presentation and align with the current social themes: law enforcement, credentials, federal conflict, and the argument that Kobach will fight rather than merely administer.
+  - Source: https://www.kriskobach.com/videos/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak X / Twitter post** [soc-kris-kobach-0011] The accessible X mirror exposed a limited amplification sample. Kobach amplified RAGA on the Lyon County K-9 grant and an Eric W. post praising his AG office's connection to Trump administration legal staffing. The issue network visible in search results also placed Kobach near The FGA on SNAP/public-benefits enforcement and Kansans for Life/right-to-life accounts in recommendations, but the captured Kobach sample did not show a current abortion-focused original post.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 14. Environment / energy / land use
+
+Environment / energy / land use: 20 selected evidence items from 20 mapped rows. Public URL-backed rows: 5.
+
+### Evidence
+- **documented-record** [em-kris-kobach-00007] Judicial power is another clear through-line. In the current X sample, Kobach posted from Colby after talking about judicial selection reform and urged voters to support changing how Kansas Supreme Court justices are selected ([source](https://twstalker.com/KrisKobach1787)). He also posted support for Tony Mattivi and Anthony Powell federal bench nominations, and amplified praise for his AG office's legal staff as a pipeline into President Trump's second-term legal apparatus ([source](https://twstalker.com/KrisKobach1787)). The public pattern is a lawyerly identity tied to personnel, courts, judges, and constitutional authority, not just ordinary campaign biography.
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: likely / use
+- **documented-record** [em-kris-kobach-00053] The direct upcoming-candidate list linked from the SOS site could not be fetched because it returned a JavaScript/anti-bot block in this environment.
+  - Source: memory/candidates/kris-kobach/raw-dump-v2.md:58
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-01661] The City of Hays manages its own water utility through the city commission
+  - Source: memory/candidates/kris-kobach/raw-dump.md:2472
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-02709] Fired Morgan & Morgan law firm from the natural gas price-gouging case, allegedly because the firm's founder donated to Democrats -- had to backtrack after legal experts warned of retaliation liability
+  - Source: memory/candidates/kris-kobach/raw-dump.md:4096
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-03822] Whether the SOS live filed-candidates list currently marks Kobach as filed, because the endpoint was inaccessible in this environment.
+  - Source: memory/candidates/kris-kobach/sleuth-pass.md:139
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-kris-kobach-04271] "Direct SOS filed-candidates list status because the endpoint was blocked in this environment."
+  - Source: memory/candidates/kris-kobach/v2-issues.yaml:701
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-04934] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-kris-kobach-02520] Kobach fired Morgan & Morgan, a Florida law firm handling the state's natural gas price-gouging lawsuit, in March 2023. The firm's founder, John Morgan (a prominent Biden donor), alleged the firing was politically motivated retribution for Democratic campaign donations. Kobach initially cited "performance" issues but had to backpedal and rebid the contract after legal experts warned the firing could constitute unlawful retaliation, jeopardizing the state's case.
+  - Source: memory/candidates/kris-kobach/raw-dump.md:3803
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-03744] Direct SOS candidate-list limitation: The SOS "upcoming candidate" list endpoint returned a JavaScript/CloudFront anti-bot block in this environment. I could not independently view the live SOS filed-candidates list. I therefore used the accessible SOS candidate-information page, KPDC candidate finance listing, and candidate-controlled filing statement as the status chain.
+  - Source: memory/candidates/kris-kobach/sleuth-pass.md:18
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-04068] statusSummary: "Accessible official and candidate-controlled sources support treating Kobach as the incumbent Republican running for Kansas attorney general re-election in 2026. The live SOS filed-candidates list was blocked in this environment; KPDC lists him under Attorney General Candidates and his campaign says he filed January 8, 2026."
+  - Source: memory/candidates/kris-kobach/v2-issues.yaml:306
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-04562] Outraises Kobach -- Demonstrates strong donor support and grassroots energy.
+  - Source: reports/chris-mann-complete-dossier.md:495
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-kris-kobach-05200] "whoTheyAre": "Accessible official and candidate-controlled sources support treating Kobach as the incumbent Republican running for Kansas attorney general re-election in 2026. The live SOS filed-candidates list was blocked in this environment; KPDC lists him under Attorney General Candidates and his campaign says he filed January 8, 2026.",
+  - Source: ui/src/data/v2/kris-kobach.ts:588
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-kris-kobach-03872] 3 weeks ago -- Lesser prairie chicken post describing delisting litigation as a win for ranchers, energy production, private property, and rural economy. Engagement on Kobach item: 9 replies, 10 reposts, 75 likes, 4K views, 2 quotes. Topic: federal regulation / rural economy / energy / property rights. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-04756] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3miyghyp6jc2b)). His events feed includes Dodge City, Pittsburg, Harvey County, Kingman County, Riley County, Manhattan, Hesston, and Wichita. His official issues page separately lists water conservation, foreign markets for farmers and ranchers, Medicaid and Medicare expansion, VA staffing, and public education as policy priorities ([source](https://hartforsena…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-kris-kobach-03913] | Taxes, tariffs, property rights, energy/ranching, and rural economy | 2 | 6% |
+  - Source: memory/candidates/kris-kobach/social-harvest.md:107
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-kris-kobach-01496] [NOLN: Strickland Brothers franchise owner](https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor)
+  - Source: https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor
+  - Confidence/use: likely / use
+- **background-context** [em-kris-kobach-01363] Largest national franchise owner, Strickland Brothers 10 Minute Oil Change -- locations across Kansas including Andover, El Dorado, Derby, Pittsburg, Fort Scott, Independence
+  - Source: memory/candidates/kris-kobach/raw-dump.md:2006
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-01659] Water District / Utility Boards
+  - Source: memory/candidates/kris-kobach/raw-dump.md:2470
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-03278] "Caleb was an incredible young man. He's going to be missed for his energy, for his life, for his smile, for the way he lit up a room."
+  - Source: memory/candidates/kris-kobach/raw-dump.md:5114
+  - Confidence/use: unknown / background-only
+- **background-context** [em-kris-kobach-05173] "observation": "Kelly. (source) 7. 3 weeks ago -- Lesser prairie chicken post describing delisting litigation as a win for ranchers, energy production, private property, and rural economy. Engagement on Kobach item: 9 replies, 10 reposts, 75 likes, 4K views, 2 quotes. Topic: federal regulation / rural economy / energy / property rights. (source) 8. 4 weeks ago -- State of the Union post saying Kansas had charged multiple...",
+  - Source: ui/src/data/v2/kris-kobach.ts:232
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-kris-kobach-0009] narrative: "_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $5…
+  - Source: https://www.kriskobach.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-kris-kobach-0019] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3miyghyp6jc2b)). His events feed includes Dodge City, Pittsburg, Harvey County, Kingman County, Riley County, Manhattan, Hesston, and Wichita. His official issues page separately lists water conservation, foreign markets for farmers and ranchers, Medicaid and Medicare expansion, VA staffing, and public education as policy priorities ([source](https://hartforsena…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-kris-kobach-0023] | Taxes, tariffs, property rights, energy/ranching, and rural economy | 2 | 6% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate twstalker.com share/repost** [soc-kris-kobach-0026] 3 weeks ago -- Lesser prairie chicken post describing delisting litigation as a win for ranchers, energy production, private property, and rural economy. Engagement on Kobach item: 9 replies, 10 reposts, 75 likes, 4K views, 2 quotes. Topic: federal regulation / rural economy / energy / property rights. ([source](https://twstalker.com/KrisKobach1787))
+  - Source: https://twstalker.com/KrisKobach1787
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.

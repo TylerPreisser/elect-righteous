@@ -1,0 +1,434 @@
+{
+  "candidateSlug": "adam-hamilton",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 9,
+  "sources": [
+    {
+      "sourceId": "src-adam-hamilton-0001",
+      "url": "https://www.fec.gov/data/candidate/S6KS00312/",
+      "sourceFile": "memory/candidates/adam-hamilton/v2-issues.yaml:43",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-adam-hamilton-00056"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.fec.gov/data/candidate/S6KS00312/\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-adam-hamilton-0002",
+      "url": null,
+      "sourceFile": "memory/candidates/adam-hamilton/social-harvest.md:20",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 16,
+      "rowIds": [
+        "em-adam-hamilton-00013",
+        "em-adam-hamilton-00005",
+        "em-adam-hamilton-00012",
+        "em-adam-hamilton-00014",
+        "em-adam-hamilton-00016",
+        "em-adam-hamilton-00019",
+        "em-adam-hamilton-00020",
+        "em-adam-hamilton-00021",
+        "em-adam-hamilton-00022",
+        "em-adam-hamilton-00023",
+        "em-adam-hamilton-00025",
+        "em-adam-hamilton-00009",
+        "em-adam-hamilton-00003",
+        "em-adam-hamilton-00008",
+        "em-adam-hamilton-00024",
+        "em-adam-hamilton-00026"
+      ],
+      "claimsAnchored": [
+        "Where they stand on big issues: Hamilton's campaign says he is focused on listening to Kansans, addressing high costs for food, energy, and health care, building bridges across party lines, and restoring decency and shared humanity in government.",
+        "This artifact was created because the candidate-completeness audit found Adam Hamilton in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+        "Ballot / filing status: Hamilton's campaign site presents him as a U.S. Senate candidate, and FEC candidate data identifies him as a Democratic candidate for Kansas Senate.",
+        "Donor / funding information: Hamilton's campaign site links ActBlue donation flows. This pass did not capture a processed FEC financial summary for the committee.",
+        "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+        "Adam Hamilton - social harvest",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Slug: adam-hamilton",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-adam-hamilton-0003",
+      "url": "https://hamiltonforkansas.com/",
+      "sourceFile": "memory/candidates/adam-hamilton/v2-issues.yaml:13",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-adam-hamilton-00035",
+        "em-adam-hamilton-00050"
+      ],
+      "claimsAnchored": [
+        "\"campaignWebsite\": \"https://hamiltonforkansas.com/\",",
+        "\"url\": \"https://hamiltonforkansas.com/\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-adam-hamilton-0004",
+      "url": null,
+      "sourceFile": "memory/candidates/adam-hamilton/v2-issues.yaml:12",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "meeting record",
+        "donor/funding",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 62,
+      "rowIds": [
+        "em-adam-hamilton-00034",
+        "em-adam-hamilton-00036",
+        "em-adam-hamilton-00038",
+        "em-adam-hamilton-00039",
+        "em-adam-hamilton-00046",
+        "em-adam-hamilton-00091",
+        "em-adam-hamilton-00075",
+        "em-adam-hamilton-00033",
+        "em-adam-hamilton-00040",
+        "em-adam-hamilton-00045",
+        "em-adam-hamilton-00047",
+        "em-adam-hamilton-00052",
+        "em-adam-hamilton-00060",
+        "em-adam-hamilton-00064",
+        "em-adam-hamilton-00077",
+        "em-adam-hamilton-00090",
+        "em-adam-hamilton-00092",
+        "em-adam-hamilton-00037",
+        "em-adam-hamilton-00053",
+        "em-adam-hamilton-00054",
+        "em-adam-hamilton-00062",
+        "em-adam-hamilton-00065",
+        "em-adam-hamilton-00069",
+        "em-adam-hamilton-00071",
+        "em-adam-hamilton-00079",
+        "em-adam-hamilton-00080",
+        "em-adam-hamilton-00082",
+        "em-adam-hamilton-00085",
+        "em-adam-hamilton-00007",
+        "em-adam-hamilton-00027",
+        "em-adam-hamilton-00028",
+        "em-adam-hamilton-00029",
+        "em-adam-hamilton-00030",
+        "em-adam-hamilton-00031",
+        "em-adam-hamilton-00032",
+        "em-adam-hamilton-00041",
+        "em-adam-hamilton-00042",
+        "em-adam-hamilton-00043",
+        "em-adam-hamilton-00044",
+        "em-adam-hamilton-00049",
+        "em-adam-hamilton-00061",
+        "em-adam-hamilton-00066",
+        "em-adam-hamilton-00068",
+        "em-adam-hamilton-00074",
+        "em-adam-hamilton-00083",
+        "em-adam-hamilton-00084",
+        "em-adam-hamilton-00086",
+        "em-adam-hamilton-00087",
+        "em-adam-hamilton-00088",
+        "em-adam-hamilton-00089"
+      ],
+      "claimsAnchored": [
+        "\"occupation\": \"Founding pastor / author\",",
+        "\"whoTheyAre\": \"Adam Hamilton is a fifth-generation Kansan and founding pastor of Church of the Resurrection. His campaign biography says the church grew from four people in a borrowed space to a large multi-location United Methodist congregation.\",",
+        "\"ownWordsNarrative\": \"Hamilton's campaign uses the phrases 'People Over Politics,' 'Faith. Family. Kansas,' and says the campaign is focused on listening to Kansans, solving affordability and opportunity problems, building bridges, and restoring decency and hu",
+        "\"whereTheyWorship\": \"Hamilton's campaign biography says he founded Church of the Resurrection; this is background only and is not used to infer policy positions.\",",
+        "\"Campaign biography describes Hamilton's Kansas roots, family, and Church of the Resurrection background\",",
+        "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+        "\"text\": \"Hamilton's campaign says he is focused on listening to Kansans, addressing high costs for food, energy, and health care, building bridges across party lines, and restoring decency and shared humanity in government.\",",
+        "\"incumbent\": false,",
+        "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+        "\"Campaign identifies Hamilton as a U.S. Senate candidate\",",
+        "\"Campaign states themes of listening, affordability, bridge-building, and decency\"",
+        "\"publisher\": \"Federal Election Commission\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-adam-hamilton-0005",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:49",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "voting record",
+        "legal/court",
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 41,
+      "rowIds": [
+        "em-adam-hamilton-00110",
+        "em-adam-hamilton-00112",
+        "em-adam-hamilton-00130",
+        "em-adam-hamilton-00108",
+        "em-adam-hamilton-00119",
+        "em-adam-hamilton-00129",
+        "em-adam-hamilton-00117",
+        "em-adam-hamilton-00103",
+        "em-adam-hamilton-00105",
+        "em-adam-hamilton-00107",
+        "em-adam-hamilton-00109",
+        "em-adam-hamilton-00111",
+        "em-adam-hamilton-00113",
+        "em-adam-hamilton-00114",
+        "em-adam-hamilton-00115",
+        "em-adam-hamilton-00116",
+        "em-adam-hamilton-00118",
+        "em-adam-hamilton-00120",
+        "em-adam-hamilton-00121",
+        "em-adam-hamilton-00131",
+        "em-adam-hamilton-00132",
+        "em-adam-hamilton-00133",
+        "em-adam-hamilton-00106",
+        "em-adam-hamilton-00128",
+        "em-adam-hamilton-00093",
+        "em-adam-hamilton-00094",
+        "em-adam-hamilton-00095",
+        "em-adam-hamilton-00096",
+        "em-adam-hamilton-00097",
+        "em-adam-hamilton-00098",
+        "em-adam-hamilton-00099",
+        "em-adam-hamilton-00100",
+        "em-adam-hamilton-00101",
+        "em-adam-hamilton-00102",
+        "em-adam-hamilton-00104",
+        "em-adam-hamilton-00122",
+        "em-adam-hamilton-00123",
+        "em-adam-hamilton-00124",
+        "em-adam-hamilton-00125",
+        "em-adam-hamilton-00126",
+        "em-adam-hamilton-00127"
+      ],
+      "claimsAnchored": [
+        "\"U.S. senators vote on judges, war powers, federal spending, farm policy, healthcare, and the national laws that affect Kansas every day. This race shapes who speaks for the entire state in Washington.\",",
+        "\"A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If",
+        "\"Your U.S. Representative is the one person in Congress who represents your specific district — not the whole state, just your area. They serve two-year terms, vote on federal laws and spending bills, and are supposed to be your direct voice in Washington on e",
+        "\"Kansas gets only two U.S. senators, and this seat is on the ballot in November 2026. Incumbent Roger Marshall is running again, while Democratic challengers now include Damon Anderson, Jason Hart, Kevin Latz, Patrick Schmidt, Christy Cauble Davis, Sandy Spide",
+        "status: \"Incumbent Running\",",
+        "\"The KS-01 member of Congress becomes the main federal voice for agriculture, water, roads, trade, and rural infrastructure across a huge stretch of Kansas.\",",
+        "jurisdiction: \"Kansas 1st Congressional District\",",
+        "\"adam-hamilton\",",
+        "description:",
+        "plainEnglish:",
+        "whyItMatters:",
+        "jobDescription:"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-adam-hamilton-0006",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/adam-hamilton.ts:83",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status",
+        "donor/funding",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 26,
+      "rowIds": [
+        "em-adam-hamilton-00145",
+        "em-adam-hamilton-00057",
+        "em-adam-hamilton-00142",
+        "em-adam-hamilton-00144",
+        "em-adam-hamilton-00146",
+        "em-adam-hamilton-00150",
+        "em-adam-hamilton-00147",
+        "em-adam-hamilton-00148",
+        "em-adam-hamilton-00051",
+        "em-adam-hamilton-00134",
+        "em-adam-hamilton-00135",
+        "em-adam-hamilton-00136",
+        "em-adam-hamilton-00137",
+        "em-adam-hamilton-00138",
+        "em-adam-hamilton-00139",
+        "em-adam-hamilton-00141",
+        "em-adam-hamilton-00143",
+        "em-adam-hamilton-00149",
+        "em-adam-hamilton-00151",
+        "em-adam-hamilton-00152",
+        "em-adam-hamilton-00153",
+        "em-adam-hamilton-00154",
+        "em-adam-hamilton-00155",
+        "em-adam-hamilton-00156",
+        "em-adam-hamilton-00157",
+        "em-adam-hamilton-00140"
+      ],
+      "claimsAnchored": [
+        "\"observation\": \"Where they stand on big issues: Hamilton's campaign says he is focused on listening to Kansans, addressing high costs for food, energy, and health care, building bridges across party lines, and restoring decency and shared humanity in governmen",
+        "\"title\": \"HAMILTON, ADAM - Candidate overview\",",
+        "\"observation\": \"Ballot / filing status: Hamilton's campaign site presents him as a U.S. Senate candidate, and FEC candidate data identifies him as a Democratic candidate for Kansas Senate.\",",
+        "\"mappedToIssueId\": \"i-ballot-status\"",
+        "\"mappedToIssueId\": \"i-campaign-themes\"",
+        "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+        "\"observation\": \"Donor / funding information: Hamilton's campaign site links ActBlue donation flows. This pass did not capture a processed FEC financial summary for the committee.\",",
+        "\"mappedToIssueId\": \"i-donor-funding\"",
+        "\"title\": \"Adam Hamilton for Kansas\",",
+        "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+        "To refresh:",
+        "node scripts/hydrate-v2-social-signals.mjs"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-adam-hamilton-0007",
+      "url": null,
+      "sourceFile": "memory/candidates/adam-hamilton/in-their-own-words.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-adam-hamilton-00001",
+        "em-adam-hamilton-00002",
+        "em-adam-hamilton-00004",
+        "em-adam-hamilton-00006",
+        "em-adam-hamilton-00011",
+        "em-adam-hamilton-00010",
+        "em-adam-hamilton-00015"
+      ],
+      "claimsAnchored": [
+        "Adam Hamilton - in their own words",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-adam-hamilton-0008",
+      "url": null,
+      "sourceFile": "memory/candidates/adam-hamilton/raw-dump-v2.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-adam-hamilton-00017"
+      ],
+      "claimsAnchored": [
+        "Adam Hamilton - raw dump v2"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-adam-hamilton-0009",
+      "url": null,
+      "sourceFile": "memory/candidates/adam-hamilton/sleuth-pass.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-adam-hamilton-00018"
+      ],
+      "claimsAnchored": [
+        "Adam Hamilton - sleuth pass"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    }
+  ]
+}

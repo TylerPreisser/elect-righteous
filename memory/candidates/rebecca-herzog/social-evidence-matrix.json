@@ -1,0 +1,4335 @@
+{
+  "candidateSlug": "rebecca-herzog",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceFiles": [
+    "memory/candidates/rebecca-herzog/social-harvest.md",
+    "memory/candidates/rebecca-herzog/evidence-matrix.json"
+  ],
+  "platformPresence": [],
+  "signals": [
+    {
+      "id": "soc-rebecca-herzog-0001",
+      "evidenceRowId": "em-rebecca-herzog-02544",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "https://www.ellisco.net/100/Register-of-Deeds",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "LGBT / gender / parental rights",
+        "Religious liberty / church / civic morality",
+        "Taxes / spending / debt",
+        "Guns / Second Amendment",
+        "Immigration / border",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use",
+      "confidence": "confirmed",
+      "observation": "narrative: \"Rebecca Herzog's public messaging is not a conventional campaign-social record. The accessible record through May 11, 2026 is almost entirely official-office language and directory/election documentation for the Ellis County Register of Deeds. I found no verified campaign website, candidate-controlled social feed, candidate questionnaire, or public issue platform.\\n\\nThe central message comes from the [Ellis County Register of Deeds page](https://www.ellisco.net/100/Register-of-Deeds), which lists Herzog as registrar and frames the office around public service, professionalism, recording real-estate documents, maintaining accurate land-ownership indexes, and keeping register records open to the public within Kansas law. The county staff directory separately lists \\\"Herzog, Rebecca\\\" as registrar for the register of deeds office ([Ellis County staff directory](https://www.ellisco.net/Directory.aspx?did=7)).\\n\\nThe office's own wording is administrative and service-oriented rather than ideological. It says the goal is quality public service in a professional manner and describes the office as filing and recording documents that pertain to real estate. It also identifies the core statutory work: recording qualified public documents and maintaining accurate indexes showing correct ownership of land across Ellis County ([Ellis County Register of Deeds](https://www.ellisco.net/100/Register-of-Deeds)).\\n\\nPublic-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which is limited to tax protesters and Kansas-certified general real property appraisers ([Ellis County Register of Deeds](https://www.ellisco.net/100/Register-of-Deeds)). The [2025 Ellis County departmental budget book](https://www.ellisco.net/DocumentCenter/View/5647/2025-Budget-Book_Departmental-Budgets) adds that the office records and preserves county records, that the earliest office records date to the 1800s, and that some sensitive records require requester forms before copies are given.\\n\\nThe verified election record shows a long-running incumbent, not a new 2024 officeholder. The [Tiger Media Network 2020 voter guide](https://tigermedianet.com/?p=56543) identified Herzog as the incumbent Republican candidate for Ellis County Register of Deeds running unopposed. [Hays Post's January 12, 2021 swearing-in coverage](https://hayspost.com/posts/3278d618-1e26-4ad5-8ceb-e19b22b25a44) said Register of Deeds Rebecca Herzog was sworn in for another term. In the [2024 general election results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496), Hays Post listed incumbent Rebecca Herzog, Republican, with 7,074 votes for register of deeds.\\n\\nProfessional-directory material reinforces the same narrow office identity. The [Kansas Register of Deeds Association listing](https://ksrods.com/contact-information/ellis-county-el-nc-district/) names Rebecca Herzog for Ellis County and points users back to the county register page. A [League of Kansas Municipalities profile preview](https://www.lkm.org/members/?id=41503078) identifies her as \\\"Rebecca Herzog, Register of Deeds, Ellis County,\\\" but did not provide issue messaging in the accessible preview.\\n\\nBecause no campaign feed or profile-controlled post archive surfaced, the clearest topic count is source-based rather than social-post-based. Across the accessible reviewed items, office mission/public service appears in 2 source classes, recording/indexing/preservation appears in 3, public records access appears in 2, incumbency/election status appears in 3, and professional directory metadata appears in 3. Those buckets overlap, but they show the same pattern: Herzog's public-facing record is the register of deeds office itself.\\n\\nThere are important absences. I found no verified candidate-controlled Facebook, X/Twitter, Instagram, Threads, TikTok, YouTube, LinkedIn, Bluesky, Substack, Medium, Reddit, Truth Social, Gab, or Gettr account with accessible public messaging. I also found no public statements from Herzog on abortion, guns, immigration, taxes, schools, election fraud, LGBTQ issues, Donald Trump, Joe Biden, or national partisan politics. No public church affiliation was verified in the reviewed source set.\\n\\nMethodology: I reviewed public search results and accessible pages for Rebecca Herzog, Becky Herzog, Ellis County Register of Deeds, Ellis County registrar, official county register/staff pages, Kansas Register of Deeds Association, League of Kansas Municipalities, county budget books, Hays Post, Tiger Media Network, election results, public meeting/elected-official references, and major social or publishing platforms through May 11, 2026. I used only official, professional-directory, election, local-news, or directly attributable public material.\\n\\nDisclaimer: This summary reflects public, accessible messaging and documented absences through May 11, 2026. It is not a complete archive of private social media, deleted posts, paid ads, campaign mail, email newsletters, or login-walled content. Inaccessible or non-attributable social content was not reconstructed or invented.\",",
+      "sourceUrl": "https://www.ellisco.net/100/Register-of-Deeds",
+      "sourceFile": "ui/src/data/candidates.ts:42862",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l42862"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0002",
+      "evidenceRowId": "em-rebecca-herzog-02176",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:65",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        2,
+        5,
+        7,
+        8,
+        10
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "LGBT / gender / parental rights",
+        "Taxes / spending / debt",
+        "Guns / Second Amendment",
+        "Immigration / border",
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "No direct public statements were found on abortion, guns, immigration, election administration, taxes, schools, LGBTQ issues, Donald Trump, Joe Biden, or national partisan issues.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:65",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l65"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0003",
+      "evidenceRowId": "em-rebecca-herzog-00448",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/aaron-cunningham-653b3094/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[LinkedIn](https://www.linkedin.com/in/aaron-cunningham-653b3094/) -- lists K-State education",
+      "sourceUrl": "https://www.linkedin.com/in/aaron-cunningham-653b3094/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:429",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l429"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-rebecca-herzog-0004",
+      "evidenceRowId": "em-rebecca-herzog-02177",
+      "platform": "Public web / internal harvest",
+      "actionType": "absence",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:66",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "No public church affiliation was verified from the reviewed source set.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:66",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l66"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-rebecca-herzog-0005",
+      "evidenceRowId": "em-rebecca-herzog-02161",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:44",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Dominant accessible signal: a low-profile administrative official whose public record is about the register of deeds office's statutory functions, public service, accurate land indexes, records preservation, fee-based document services, and public access to county records.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:44",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l44"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0006",
+      "evidenceRowId": "em-rebecca-herzog-02180",
+      "platform": "Bluesky",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:71",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "I searched for Rebecca Herzog, Becky Herzog, Ellis County Register of Deeds, Ellis County registrar, Hays Post mentions, Tiger Media Network voter-guide references, Ellis County official pages, county staff directory entries, Kansas Register of Deeds Association listings, League of Kansas Municipalities directory previews, county budget books, election results, Facebook, X/Twitter, Instagram, YouTube, LinkedIn, TikTok, Threads, Bluesky, Substack, Medium, Reddit, Truth Social, Gab, and Gettr. I prioritized official county pages, professional/directories tied to the office, local election coverage, public records, and directly attributable public messaging through May 11, 2026.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:71",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l71"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0007",
+      "evidenceRowId": "em-rebecca-herzog-02130",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:6",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Election context: ellis-county-current.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:6",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l6"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0008",
+      "evidenceRowId": "em-rebecca-herzog-02132",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:8",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Harvest focus: official register of deeds pages, public staff/professional listings, election coverage, local voter guides, public meeting/elected-official references, and obvious social/platform absences.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:8",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l8"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0009",
+      "evidenceRowId": "em-rebecca-herzog-02133",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:9",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Important source correction: no verified campaign website was found. Any existing project campaignWebsite value should be treated as unverified unless it is separately confirmed from official county, election, or candidate-controlled sources.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:9",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l9"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0010",
+      "evidenceRowId": "em-rebecca-herzog-02139",
+      "platform": "ksrods.com",
+      "actionType": "post",
+      "target": "https://ksrods.com/contact-information/ellis-county-el-nc-district/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Kansas Register of Deeds Association | Yes | [Ellis County KRDA listing](https://ksrods.com/contact-information/ellis-county-el-nc-district/) | Professional association listing names Rebecca Herzog for Ellis County and gives office contact information and the county webpage. The parenthetical \"(2001)\" appears on the listing, but I did not treat it as an election year without a source explaining the field. |",
+      "sourceUrl": "https://ksrods.com/contact-information/ellis-county-el-nc-district/",
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:17",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l17"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-rebecca-herzog-0011",
+      "evidenceRowId": "em-rebecca-herzog-02141",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Hays Post election results | Yes | [2024 Ellis County results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496) | Shows incumbent Rebecca Herzog, Republican, receiving 7,074 votes for Ellis County Register of Deeds in the November 2024 general election. |",
+      "sourceUrl": "https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:19",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l19"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-rebecca-herzog-0012",
+      "evidenceRowId": "em-rebecca-herzog-02159",
+      "platform": "tigermedianet.com",
+      "actionType": "post",
+      "target": "https://tigermedianet.com/?p=56543",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Incumbency/election status | 3 | [2020 voter guide](https://tigermedianet.com/?p=56543), [2021 swearing-in story](https://hayspost.com/posts/3278d618-1e26-4ad5-8ceb-e19b22b25a44), [2024 results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496) |",
+      "sourceUrl": "https://tigermedianet.com/?p=56543",
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:41",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l41"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-rebecca-herzog-0013",
+      "evidenceRowId": "em-rebecca-herzog-02163",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Electoral: Hays Post reported Herzog received 7,074 votes as the incumbent Republican candidate for Ellis County Register of Deeds in the 2024 general election. Source: [Hays Post, Nov. 6, 2024](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496).",
+      "sourceUrl": "https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:48",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l48"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-rebecca-herzog-0014",
+      "evidenceRowId": "em-rebecca-herzog-02165",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:50",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Local-media visibility was minimal: the accessible record found election-result and swearing-in mentions, not issue interviews or campaign-profile quotations.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:50",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l50"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0015",
+      "evidenceRowId": "em-rebecca-herzog-02186",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post 2024 Ellis County general-election results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
+      "sourceUrl": "https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:83",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l83"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-rebecca-herzog-0016",
+      "evidenceRowId": "em-rebecca-herzog-00285",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/EllisCountyDistrict1/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Facebook -- Commissioner Ellis County 1st District](https://www.facebook.com/EllisCountyDistrict1/) -- Active public page for his commissioner seat",
+      "sourceUrl": "https://www.facebook.com/EllisCountyDistrict1/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:220",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l220"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-rebecca-herzog-0017",
+      "evidenceRowId": "em-rebecca-herzog-00288",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Facebook Page](https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/)",
+      "sourceUrl": "https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:552",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l229",
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l552",
+        "mem-reports-ellis-county-elected-officials-deep-investigation-md-l507"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-rebecca-herzog-0018",
+      "evidenceRowId": "em-rebecca-herzog-01697",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/musilcomish/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Facebook (Official): [musilcomish](https://www.facebook.com/musilcomish/)",
+      "sourceUrl": "https://www.facebook.com/musilcomish/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2611",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2611"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-rebecca-herzog-0019",
+      "evidenceRowId": "em-rebecca-herzog-02030",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/EllisCountyDistrict1/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Facebook -- Commissioner Ellis County 1st District](https://www.facebook.com/EllisCountyDistrict1/)",
+      "sourceUrl": "https://www.facebook.com/EllisCountyDistrict1/",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:50",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l50"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-rebecca-herzog-0020",
+      "evidenceRowId": "em-rebecca-herzog-02129",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:5",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Candidate/profile: Rebecca Herzog, Republican, Ellis County Register of Deeds.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:5",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l5"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0021",
+      "evidenceRowId": "em-rebecca-herzog-02140",
+      "platform": "lkm.org",
+      "actionType": "post",
+      "target": "https://www.lkm.org/members/?id=41503078",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| League of Kansas Municipalities profile | Yes, limited | [Rebecca Herzog, Register of Deeds, Ellis County](https://www.lkm.org/members/?id=41503078) | Public preview identifies her as Ellis County register of deeds and was last updated May 28, 2024. Direct page access was limited, so it was used only as directory metadata. |",
+      "sourceUrl": "https://www.lkm.org/members/?id=41503078",
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:18",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l18"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-rebecca-herzog-0022",
+      "evidenceRowId": "em-rebecca-herzog-02142",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/3278d618-1e26-4ad5-8ceb-e19b22b25a44",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Hays Post swearing-in coverage | Yes | [Ellis County elected officials sworn in Monday](https://hayspost.com/posts/3278d618-1e26-4ad5-8ceb-e19b22b25a44) | January 12, 2021 story/captions say Register of Deeds Rebecca Herzog was sworn in for another term, confirming she was not a new officeholder in 2024. |",
+      "sourceUrl": "https://hayspost.com/posts/3278d618-1e26-4ad5-8ceb-e19b22b25a44",
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:20",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l20"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-rebecca-herzog-0023",
+      "evidenceRowId": "em-rebecca-herzog-02143",
+      "platform": "tigermedianet.com",
+      "actionType": "post",
+      "target": "https://tigermedianet.com/?p=56543",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| 2020 voter guide | Yes | [Tiger Media Network 2020 Ellis County Voter Guide](https://tigermedianet.com/?p=56543) | Identified Herzog as the incumbent Republican candidate for register of deeds running unopposed. Its description of register duties appears imprecise, so it was used for candidacy/incumbency rather than office-function analysis. |",
+      "sourceUrl": "https://tigermedianet.com/?p=56543",
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:21",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l21"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-rebecca-herzog-0024",
+      "evidenceRowId": "em-rebecca-herzog-02146",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:24",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "| Campaign website | Not verified | N/A | No candidate-controlled campaign website surfaced in official, county, local-news, or public-web search. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:24",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l24"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0025",
+      "evidenceRowId": "em-rebecca-herzog-02154",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:34",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Counts are based on 8 accessible public source items or source classes. Categories overlap because a single office page can carry both mission and statutory-duty messaging.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:34",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l34"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0026",
+      "evidenceRowId": "em-rebecca-herzog-02175",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:64",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "No candidate questionnaire, campaign announcement, campaign biography, campaign finance page, or issue platform was found in the accessible source set.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:64",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l64"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0027",
+      "evidenceRowId": "em-rebecca-herzog-02181",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:73",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Login-walled, script-blocked, private, deleted, non-attributable, or merely name-matched pages were not treated as harvested content. Where a source confirmed office status but not personal views, I used it only for that limited purpose.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:73",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l73"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0028",
+      "evidenceRowId": "em-rebecca-herzog-02184",
+      "platform": "ksrods.com",
+      "actionType": "post",
+      "target": "https://ksrods.com/contact-information/ellis-county-el-nc-district/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Kansas Register of Deeds Association, Ellis County](https://ksrods.com/contact-information/ellis-county-el-nc-district/)",
+      "sourceUrl": "https://ksrods.com/contact-information/ellis-county-el-nc-district/",
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:79",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l79"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-rebecca-herzog-0029",
+      "evidenceRowId": "em-rebecca-herzog-02190",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:89",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "This is a public, logged-out harvest of candidate-controlled or candidate-attributed messaging plus official records and credible public coverage. It reflects what was accessible through May 11, 2026. It does not infer private views, inaccessible account content, deleted posts, paid ads, mailers, email newsletters, or non-public campaign activity.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:89",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l89"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0030",
+      "evidenceRowId": "em-rebecca-herzog-02562",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "\"url\": \"https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/\"",
+      "sourceUrl": "https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/",
+      "sourceFile": "ui/src/data/candidates.ts:42925",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l42901",
+        "mem-ui-src-data-candidates-ts-l42913",
+        "mem-ui-src-data-candidates-ts-l42925",
+        "mem-ui-src-data-candidates-ts-l42929"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-rebecca-herzog-0031",
+      "evidenceRowId": "em-rebecca-herzog-00238",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/nathan-leiker-1236bb276",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[LinkedIn](https://www.linkedin.com/in/nathan-leiker-1236bb276) -- VP at L5 Farms Inc.",
+      "sourceUrl": "https://www.linkedin.com/in/nathan-leiker-1236bb276",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:150",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l150"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0032",
+      "evidenceRowId": "em-rebecca-herzog-00252",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/nathan-leiker-1236bb276",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[LinkedIn Profile](https://www.linkedin.com/in/nathan-leiker-1236bb276)",
+      "sourceUrl": "https://www.linkedin.com/in/nathan-leiker-1236bb276",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:171",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l171"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0033",
+      "evidenceRowId": "em-rebecca-herzog-00370",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/aaron-cunningham-653b3094/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[LinkedIn](https://www.linkedin.com/in/aaron-cunningham-653b3094/)",
+      "sourceUrl": "https://www.linkedin.com/in/aaron-cunningham-653b3094/",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:68",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l330",
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l47",
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l68"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0034",
+      "evidenceRowId": "em-rebecca-herzog-01402",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/patrickforkansas/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Facebook: [patrickforkansas](https://www.facebook.com/patrickforkansas/)",
+      "sourceUrl": "https://www.facebook.com/patrickforkansas/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2135",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2135",
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2179"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0035",
+      "evidenceRowId": "em-rebecca-herzog-01489",
+      "platform": "X / Twitter",
+      "actionType": "post",
+      "target": "https://x.com/speumann",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Twitter/X: [@speumann](https://x.com/speumann)",
+      "sourceUrl": "https://x.com/speumann",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2267",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2267"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0036",
+      "evidenceRowId": "em-rebecca-herzog-01525",
+      "platform": "Instagram",
+      "actionType": "post",
+      "target": "https://www.instagram.com/erik4ks/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Instagram: [@erik4ks](https://www.instagram.com/erik4ks/)",
+      "sourceUrl": "https://www.instagram.com/erik4ks/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2324",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2324"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0037",
+      "evidenceRowId": "em-rebecca-herzog-01597",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/michael.soetaert1/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Facebook: [michael.soetaert1](https://www.facebook.com/michael.soetaert1/)",
+      "sourceUrl": "https://www.facebook.com/michael.soetaert1/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2455",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2455"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0038",
+      "evidenceRowId": "em-rebecca-herzog-01761",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/people/DXI-Training-Solutions-LLC/61553945955697/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "DXI Facebook: [DXI Training Solutions LLC](https://www.facebook.com/people/DXI-Training-Solutions-LLC/61553945955697/)",
+      "sourceUrl": "https://www.facebook.com/people/DXI-Training-Solutions-LLC/61553945955697/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2704",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2704"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0039",
+      "evidenceRowId": "em-rebecca-herzog-02044",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/patrickforkansas/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[patrickforkansas](https://www.facebook.com/patrickforkansas/)",
+      "sourceUrl": "https://www.facebook.com/patrickforkansas/",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:192",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l192"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0040",
+      "evidenceRowId": "em-rebecca-herzog-02049",
+      "platform": "X / Twitter",
+      "actionType": "post",
+      "target": "https://x.com/speumann",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[@speumann](https://x.com/speumann)",
+      "sourceUrl": "https://x.com/speumann",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:212",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l212"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0041",
+      "evidenceRowId": "em-rebecca-herzog-02053",
+      "platform": "Instagram",
+      "actionType": "post",
+      "target": "https://www.instagram.com/erik4ks/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[@erik4ks](https://www.instagram.com/erik4ks/)",
+      "sourceUrl": "https://www.instagram.com/erik4ks/",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:220",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l220"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0042",
+      "evidenceRowId": "em-rebecca-herzog-02061",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/michael.soetaert1/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[michael.soetaert1](https://www.facebook.com/michael.soetaert1/)",
+      "sourceUrl": "https://www.facebook.com/michael.soetaert1/",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:240",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l240"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0043",
+      "evidenceRowId": "em-rebecca-herzog-02066",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/musilcomish/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[musilcomish](https://www.facebook.com/musilcomish/)",
+      "sourceUrl": "https://www.facebook.com/musilcomish/",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:254",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l254"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0044",
+      "evidenceRowId": "em-rebecca-herzog-02070",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/people/DXI-Training-Solutions-LLC/61553945955697/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[DXI Training Solutions LLC](https://www.facebook.com/people/DXI-Training-Solutions-LLC/61553945955697/)",
+      "sourceUrl": "https://www.facebook.com/people/DXI-Training-Solutions-LLC/61553945955697/",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:263",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l263"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0045",
+      "evidenceRowId": "em-rebecca-herzog-02127",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Rebecca Herzog Social Harvest",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:1",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0046",
+      "evidenceRowId": "em-rebecca-herzog-02128",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Scope",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:3",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0047",
+      "evidenceRowId": "em-rebecca-herzog-02131",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:7",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Public date range reviewed: January 2016 through May 11, 2026.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:7",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l7"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0048",
+      "evidenceRowId": "em-rebecca-herzog-02134",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:11",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Presence Detector",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:11",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l11"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0049",
+      "evidenceRowId": "em-rebecca-herzog-02135",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:13",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Platform/source type | Found? | Link | Notes |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:13",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l13"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0050",
+      "evidenceRowId": "em-rebecca-herzog-02136",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:14",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| --- | --- | --- | --- |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:14",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l14",
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l37"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0051",
+      "evidenceRowId": "em-rebecca-herzog-02147",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:25",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Campaign Facebook | Not verified | N/A | No reliable candidate-controlled campaign Facebook page surfaced. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:25",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l25"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0052",
+      "evidenceRowId": "em-rebecca-herzog-02148",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:26",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Personal/public Facebook | Not used | N/A | Search did not identify a clearly attributable public page with accessible candidate/profile-controlled messaging. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:26",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l26"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0053",
+      "evidenceRowId": "em-rebecca-herzog-02149",
+      "platform": "X / Twitter",
+      "actionType": "absence",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:27",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| X/Twitter | Not found | N/A | No verified Herzog campaign or profile-controlled X account surfaced. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:27",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l27"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-rebecca-herzog-0054",
+      "evidenceRowId": "em-rebecca-herzog-02150",
+      "platform": "Instagram",
+      "actionType": "absence",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:28",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Instagram/Threads/TikTok/YouTube | Not found | N/A | No verified campaign/profile-controlled account or channel surfaced. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:28",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l28"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-rebecca-herzog-0055",
+      "evidenceRowId": "em-rebecca-herzog-02151",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:29",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| LinkedIn | Not verified | N/A | Search did not surface a reliably attributable public LinkedIn profile with readable messaging. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:29",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l29"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0056",
+      "evidenceRowId": "em-rebecca-herzog-02152",
+      "platform": "Bluesky",
+      "actionType": "absence",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:30",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Bluesky/Substack/Medium/Reddit/Truth Social/Gab/Gettr | Not found | N/A | No verified candidate-controlled account or publication surfaced in obvious public search. |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:30",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l30"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-rebecca-herzog-0057",
+      "evidenceRowId": "em-rebecca-herzog-02153",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:32",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Topic Counts",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:32",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l32"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0058",
+      "evidenceRowId": "em-rebecca-herzog-02155",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:36",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| Topic bucket | Items | Representative sources |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:36",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l36"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0059",
+      "evidenceRowId": "em-rebecca-herzog-02162",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:46",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Highest Visible Attention",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:46",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l46"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0060",
+      "evidenceRowId": "em-rebecca-herzog-02164",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:49",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "No verified candidate-controlled social account exposed public follower counts, post counts, reactions, shares, or comments.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:49",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l49"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0061",
+      "evidenceRowId": "em-rebecca-herzog-02166",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:52",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Notable Public Messaging",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:52",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l52"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0062",
+      "evidenceRowId": "em-rebecca-herzog-02172",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:60",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Visible Absences",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:60",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l60"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0063",
+      "evidenceRowId": "em-rebecca-herzog-02173",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:62",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "No verified campaign website surfaced.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:62",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l62"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0064",
+      "evidenceRowId": "em-rebecca-herzog-02174",
+      "platform": "Bluesky",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:63",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "No verified candidate-controlled Facebook, X/Twitter, Instagram, Threads, TikTok, YouTube, LinkedIn, Bluesky, Substack, Medium, Reddit, Truth Social, Gab, or Gettr account surfaced with accessible campaign/profile messaging.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:63",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l63"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0065",
+      "evidenceRowId": "em-rebecca-herzog-02178",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:67",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "No post-level social engagement should be inferred; no accessible social post inventory was found.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:67",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l67"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0066",
+      "evidenceRowId": "em-rebecca-herzog-02179",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:69",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Methodology",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:69",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l69"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0067",
+      "evidenceRowId": "em-rebecca-herzog-02185",
+      "platform": "hayspost.com",
+      "actionType": "post",
+      "target": "https://hayspost.com/posts/3278d618-1e26-4ad5-8ceb-e19b22b25a44",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[Hays Post 2021 swearing-in coverage](https://hayspost.com/posts/3278d618-1e26-4ad5-8ceb-e19b22b25a44)",
+      "sourceUrl": "https://hayspost.com/posts/3278d618-1e26-4ad5-8ceb-e19b22b25a44",
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:82",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l82"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0068",
+      "evidenceRowId": "em-rebecca-herzog-02189",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:87",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Disclaimer",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:87",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l87"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0069",
+      "evidenceRowId": "em-rebecca-herzog-00009",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/in-their-own-words.md:17",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8,
+        10
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "LGBT / gender / parental rights",
+        "Religious liberty / church / civic morality",
+        "Taxes / spending / debt",
+        "Guns / Second Amendment",
+        "Immigration / border",
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "There are important absences. I found no verified candidate-controlled Facebook, X/Twitter, Instagram, Threads, TikTok, YouTube, LinkedIn, Bluesky, Substack, Medium, Reddit, Truth Social, Gab, or Gettr account with accessible public messaging. I also found no public statements from Herzog on abortion, guns, immigration, taxes, schools, election fraud, LGBTQ issues, Donald Trump, Joe Biden, or national partisan politics. No public church affiliation was verified in the reviewed source set.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/in-their-own-words.md:17",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-in-their-own-words-md-l17"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0070",
+      "evidenceRowId": "em-rebecca-herzog-02627",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/rebecca-herzog.ts:173",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        2,
+        5,
+        7,
+        8,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "LGBT / gender / parental rights",
+        "Taxes / spending / debt",
+        "Guns / Second Amendment",
+        "Immigration / border",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"There are important absences. I found no verified candidate-controlled Facebook, X/Twitter, Instagram, Threads, TikTok, YouTube, LinkedIn, Bluesky, Substack, Medium, Reddit, Truth Social, Gab, or Gettr account with accessible public messaging. I also found no public statements from Herzog on abortion, guns, immigration, taxes, schools, election fraud, LGBTQ issues, Donald Trump, Joe Biden, or national partisan...\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/rebecca-herzog.ts:173",
+      "sourceIds": [
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l173"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0071",
+      "evidenceRowId": "em-rebecca-herzog-00719",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:833",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No faith or church references found in her candidate profiles, HaysPost Q&As, or social media",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:833",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l833"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0072",
+      "evidenceRowId": "em-rebecca-herzog-00010",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/in-their-own-words.md:19",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Methodology: I reviewed public search results and accessible pages for Rebecca Herzog, Becky Herzog, Ellis County Register of Deeds, Ellis County registrar, official county register/staff pages, Kansas Register of Deeds Association, League of Kansas Municipalities, county budget books, Hays Post, Tiger Media Network, election results, public meeting/elected-official references, and major social or publishing platforms through May 11, 2026. I used only official, professional-directory, election, local-news, or directly attributable public material.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/in-their-own-words.md:19",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-in-their-own-words-md-l19"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0073",
+      "evidenceRowId": "em-rebecca-herzog-02076",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/sleuth-pass.md:9",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "I started from the existing Rebecca Herzog memory files and then rechecked primary sources first: Ellis County official pages, staff directory, statutory pages, county budget material, county commission minutes, official election/filing PDFs, and professional register-of-deeds directories. I used local news only to corroborate election/incumbency timing and public visibility. I searched public web/social surfaces for candidate-controlled campaign accounts or issue messaging, but did not treat name-only or same-name social results as attributable.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/sleuth-pass.md:9",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-sleuth-pass-md-l9"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0074",
+      "evidenceRowId": "em-rebecca-herzog-02089",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/sleuth-pass.md:31",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Relevant social/online signal: budget and technology stewardship appears in minutes/budget books, not campaign posts.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/sleuth-pass.md:31",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-sleuth-pass-md-l31"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0075",
+      "evidenceRowId": "em-rebecca-herzog-02402",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/rebecca-herzog.ts:150",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"County minutes and budget books\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/rebecca-herzog.ts:150",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l380",
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l150"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0076",
+      "evidenceRowId": "em-rebecca-herzog-02403",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/rebecca-herzog.ts:151",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"Budget, staffing, and technology evidence comes from official minutes and budget documents; no candidate social posts about office finance or technology were verified.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/rebecca-herzog.ts:151",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l381",
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l151"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0077",
+      "evidenceRowId": "em-rebecca-herzog-02546",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:42864",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"Ellis County Register of Deeds page\",\"Ellis County staff directory\",\"Kansas Register of Deeds Association\",\"League of Kansas Municipalities\",\"County budget books\",\"Hays Post\",\"Tiger Media Network\",\"Election results\",\"Public meeting/elected-official references\",\"Facebook\",\"X / Twitter\",\"Instagram\",\"Threads\",\"TikTok\",\"YouTube\",\"LinkedIn\",\"Bluesky\",\"Substack\",\"Medium\",\"Reddit\",\"Truth Social\",\"Gab\",\"Gettr\",\"Public search\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:42864",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l42864"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0078",
+      "evidenceRowId": "em-rebecca-herzog-02625",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/rebecca-herzog.ts:163",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"I searched for Rebecca Herzog, Becky Herzog, Ellis County Register of Deeds, Ellis County registrar, Hays Post mentions, Tiger Media Network voter-guide references, Ellis County official pages, county staff directory entries, Kansas Register of Deeds Association listings, League of Kansas Municipalities directory previews, county budget books, election results, Facebook, X/Twitter, Instagram, YouTube, LinkedIn,...\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/rebecca-herzog.ts:163",
+      "sourceIds": [
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l163"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0079",
+      "evidenceRowId": "em-rebecca-herzog-01769",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:2717",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Personal Facebook: Limited; appears to post primarily through DXI Training Solutions LLC business page",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2717",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2717"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0080",
+      "evidenceRowId": "em-rebecca-herzog-01771",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:2719",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        6
+      ],
+      "issueLabels": [
+        "Economy / jobs / labor"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "DXI business page is his primary public-facing social media presence",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2719",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2719"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0081",
+      "evidenceRowId": "em-rebecca-herzog-01509",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:2294",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Defending Social Security, Medicare, and the VA",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2294",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2294"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0082",
+      "evidenceRowId": "em-rebecca-herzog-00002",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/in-their-own-words.md:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Rebecca Herzog's public messaging is not a conventional campaign-social record. The accessible record through May 11, 2026 is almost entirely official-office language and directory/election documentation for the Ellis County Register of Deeds. I found no verified campaign website, candidate-controlled social feed, candidate questionnaire, or public issue platform.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/in-their-own-words.md:3",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-in-their-own-words-md-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0083",
+      "evidenceRowId": "em-rebecca-herzog-00008",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/in-their-own-words.md:15",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Because no campaign feed or profile-controlled post archive surfaced, the clearest topic count is source-based rather than social-post-based. Across the accessible reviewed items, office mission/public service appears in 2 source classes, recording/indexing/preservation appears in 3, public records access appears in 2, incumbency/election status appears in 3, and professional directory metadata appears in 3. Those buckets overlap, but they show the same pattern: Herzog's public-facing record is the register of deeds office itself.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/in-their-own-words.md:15",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-in-their-own-words-md-l15"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0084",
+      "evidenceRowId": "em-rebecca-herzog-00011",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/in-their-own-words.md:21",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Disclaimer: This summary reflects public, accessible messaging and documented absences through May 11, 2026. It is not a complete archive of private social media, deleted posts, paid ads, campaign mail, email newsletters, or login-walled content. Inaccessible or non-attributable social content was not reconstructed or invented.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/in-their-own-words.md:21",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-in-their-own-words-md-l21"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0085",
+      "evidenceRowId": "em-rebecca-herzog-00107",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump-v2.md:149",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No verified candidate-controlled campaign website surfaced. No verified candidate-controlled Facebook, X/Twitter, Instagram, Threads, TikTok, YouTube, LinkedIn, Bluesky, Substack, Medium, Reddit, Truth Social, Gab, or Gettr account surfaced with accessible public messaging.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump-v2.md:149",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-v2-md-l149"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0086",
+      "evidenceRowId": "em-rebecca-herzog-00108",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump-v2.md:151",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Search returned same-name LinkedIn and people-search noise. I did not use those as candidate evidence.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump-v2.md:151",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-v2-md-l151"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0087",
+      "evidenceRowId": "em-rebecca-herzog-00118",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump-v2.md:168",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No candidate-controlled issue platform, campaign Q&A, campaign video, or direct social post archive was found.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump-v2.md:168",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-v2-md-l168"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0088",
+      "evidenceRowId": "em-rebecca-herzog-00122",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump-v2.md:174",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Correct: do not publish a candidate campaign website or social account unless separately verified.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump-v2.md:174",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-v2-md-l174"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0089",
+      "evidenceRowId": "em-rebecca-herzog-00129",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump-v2.md:183",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Any verified candidate-controlled social account or comment history.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump-v2.md:183",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-v2-md-l183"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0090",
+      "evidenceRowId": "em-rebecca-herzog-00560",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:580",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Extremely limited. No Facebook campaign page found. No LinkedIn found. No Twitter/X found.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:580",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l580",
+        "mem-reports-ellis-county-elected-officials-deep-investigation-md-l535"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0091",
+      "evidenceRowId": "em-rebecca-herzog-00567",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:593",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Rebecca Herzog has the thinnest public information profile of all eight elected officials. No news interviews, no candidate profiles, no social media presence found. Additional investigation would require direct outreach or courthouse records review.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:593",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l593",
+        "mem-reports-ellis-county-elected-officials-deep-investigation-md-l548"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0092",
+      "evidenceRowId": "em-rebecca-herzog-00613",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:660",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No Facebook campaign page found",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:660",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l660"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0093",
+      "evidenceRowId": "em-rebecca-herzog-01387",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:2112",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No verified Twitter, Instagram, or Facebook campaign accounts found in search results",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2112",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2112"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0094",
+      "evidenceRowId": "em-rebecca-herzog-01927",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:2971",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Rebecca Herzog is genuinely invisible in the public sphere. In an era of social media, candidate profiles, and local news coverage of every election, she managed to win an elected office without leaving a single searchable trace of her personal life, campaign, or views. This is either extraordinary privacy discipline or a reflection of how uncontested Register of Deeds races work in rural Kansas -- the office is so non-political that no one asks questions, and no one campaigns. She is, indeed, the Ghost of Ellis County.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2971",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2971",
+        "mem-reports-senate-challengers-local-officials-complete-md-l919"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0095",
+      "evidenceRowId": "em-rebecca-herzog-01980",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:3055",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Her re-election result shows that she won a countywide office while remaining almost invisible in local media and social search.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:3055",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l3055"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0096",
+      "evidenceRowId": "em-rebecca-herzog-02007",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:3090",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social, property, court, and personal-biography searches were effectively blank.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:3090",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l3090"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0097",
+      "evidenceRowId": "em-rebecca-herzog-02082",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/sleuth-pass.md:17",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Herzog's public profile is administrative and office-centered. I found no verified candidate campaign website, candidate-controlled social feed, issue platform, or public statements on national partisan issues.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/sleuth-pass.md:17",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-sleuth-pass-md-l17"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0098",
+      "evidenceRowId": "em-rebecca-herzog-02086",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/sleuth-pass.md:25",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Relevant social/online signal: the visible online footprint is official county infrastructure, not campaign/social messaging.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/sleuth-pass.md:25",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-sleuth-pass-md-l25"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0099",
+      "evidenceRowId": "em-rebecca-herzog-02092",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/sleuth-pass.md:37",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Relevant social/online signal: no verified candidate-controlled Facebook, X/Twitter, Instagram, TikTok, YouTube, Threads, Bluesky, LinkedIn, Substack, Medium, Reddit, Truth Social, Gab, or Gettr messaging surfaced. This is a public-footprint finding only; it should not be used to infer private beliefs.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/sleuth-pass.md:37",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-sleuth-pass-md-l37"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0100",
+      "evidenceRowId": "em-rebecca-herzog-02112",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/sleuth-pass.md:64",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Candidate campaign Facebook page.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/sleuth-pass.md:64",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-sleuth-pass-md-l64"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0101",
+      "evidenceRowId": "em-rebecca-herzog-02114",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/sleuth-pass.md:66",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "X/Twitter, Instagram, Threads, TikTok, YouTube, LinkedIn, Bluesky, Substack, Medium, Reddit, Truth Social, Gab, or Gettr account attributable to the candidate.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/sleuth-pass.md:66",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-sleuth-pass-md-l66"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0102",
+      "evidenceRowId": "em-rebecca-herzog-02121",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/sleuth-pass.md:78",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No candidate-controlled issue platform found.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/sleuth-pass.md:78",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-sleuth-pass-md-l78"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0103",
+      "evidenceRowId": "em-rebecca-herzog-02199",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/v2-issues.yaml:10",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Social evidence is limited to public online footprint and verified absences. No post-level follows, likes, comments, or candidate-controlled social messaging were verified.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/v2-issues.yaml:10",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l10"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0104",
+      "evidenceRowId": "em-rebecca-herzog-02424",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/rebecca-herzog.ts:238",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"No verified candidate campaign website or candidate-controlled Facebook, X/Twitter, Instagram, Threads, TikTok, YouTube, LinkedIn, Bluesky, Substack, Medium, Reddit, Truth Social, Gab, or Gettr account with accessible public messaging surfaced in this pass.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/rebecca-herzog.ts:238",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l426",
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l238"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0105",
+      "evidenceRowId": "em-rebecca-herzog-02451",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/v2-issues.yaml:480",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "platform: \"Campaign/social platforms\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/v2-issues.yaml:480",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l480"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0106",
+      "evidenceRowId": "em-rebecca-herzog-02452",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/v2-issues.yaml:481",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "observation: \"No verified candidate-controlled campaign website or major social-platform account with accessible public messaging was found. This should be described as limited public footprint, not as evidence of belief.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/v2-issues.yaml:481",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l481"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0107",
+      "evidenceRowId": "em-rebecca-herzog-02481",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/v2-issues.yaml:532",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "summary: \"No verified candidate-controlled social account, campaign site, candidate Q&A, issue platform, or public national-policy statements surfaced.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/v2-issues.yaml:532",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l532"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0108",
+      "evidenceRowId": "em-rebecca-herzog-02488",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/v2-issues.yaml:549",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Candidate-authored campaign website or social account.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/v2-issues.yaml:549",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l549"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0109",
+      "evidenceRowId": "em-rebecca-herzog-02621",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/rebecca-herzog.ts:81",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"Harvest focus: official register of deeds pages, public staff/professional listings, election coverage, local voter guides, public meeting/elected-official references, and obvious social/platform absences.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/rebecca-herzog.ts:81",
+      "sourceIds": [
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l81"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0110",
+      "evidenceRowId": "em-rebecca-herzog-02623",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/rebecca-herzog.ts:91",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"No verified candidate-controlled social account exposed public follower counts, post counts, reactions, shares, or comments.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/rebecca-herzog.ts:91",
+      "sourceIds": [
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l91"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0111",
+      "evidenceRowId": "em-rebecca-herzog-01545",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:2354",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Who is Elaine Brown: Former chairman of the Black Panther Party (1974-1977). Self-described \"soldier\" working to bring about a \"socialist revolution\" in the United States. Has recently reaffirmed her commitment to topple the \"Empire of the United States.\" Currently 81 years old, living in Oakland, where she builds affordable housing (79 units of supportive housing in West Oakland). The Oakland City Council is considering naming an intersection after her.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2354",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2354"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0112",
+      "evidenceRowId": "em-rebecca-herzog-02126",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/sleuth-pass.md:83",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Do not infer ideological positions from the administrative nature of the office or from social-platform absence.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/sleuth-pass.md:83",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-sleuth-pass-md-l83"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0113",
+      "evidenceRowId": "em-rebecca-herzog-02198",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/v2-issues.yaml:9",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Register of Deeds is an administrative records office; do not infer national policy positions from the office's duties or from social-platform absence.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/v2-issues.yaml:9",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l9"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0114",
+      "evidenceRowId": "em-rebecca-herzog-02382",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/rebecca-herzog.ts:67",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Official county web\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/rebecca-herzog.ts:67",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l337",
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l67"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0115",
+      "evidenceRowId": "em-rebecca-herzog-02447",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/v2-issues.yaml:471",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "platform: \"Official and professional directories\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/v2-issues.yaml:471",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l471"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0116",
+      "evidenceRowId": "em-rebecca-herzog-00099",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump-v2.md:138",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social and Online Presence",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump-v2.md:138",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-v2-md-l138"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0117",
+      "evidenceRowId": "em-rebecca-herzog-00205",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:103",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social Media & Online Presence",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:103",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l103",
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l149",
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l219",
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l428",
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l659"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0118",
+      "evidenceRowId": "em-rebecca-herzog-00207",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:105",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No LinkedIn profile found",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:105",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l105",
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l221",
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2812"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0119",
+      "evidenceRowId": "em-rebecca-herzog-00208",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:106",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No Twitter/X presence found",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:106",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l106",
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l152",
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l222",
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2813"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0120",
+      "evidenceRowId": "em-rebecca-herzog-00239",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:151",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Facebook profile exists (limited public info)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:151",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l151"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0121",
+      "evidenceRowId": "em-rebecca-herzog-00320",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:269",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Certified Public Manager (CPM) designation (listed on LinkedIn)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:269",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l269"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0122",
+      "evidenceRowId": "em-rebecca-herzog-00614",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:661",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No LinkedIn found",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:661",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l661"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0123",
+      "evidenceRowId": "em-rebecca-herzog-00615",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:662",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No Twitter/X found",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:662",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l662"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0124",
+      "evidenceRowId": "em-rebecca-herzog-00687",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:779",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social media (Facebook, about.me, LinkedIn)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:779",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l779"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0125",
+      "evidenceRowId": "em-rebecca-herzog-01386",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:2110",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social Media",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2110",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2110",
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2177",
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2716",
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2810"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0126",
+      "evidenceRowId": "em-rebecca-herzog-01534",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:2337",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Oak Impact Group (Oakland, CA, 2016) -- Founded venture capital investment firm intersecting real estate and social impact. Among the first to bring FDIC-insured banking real estate lending into the cannabis industry.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2337",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2337"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0127",
+      "evidenceRowId": "em-rebecca-herzog-01674",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:2574",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No public record, news article, wedding announcement, or social media post confirms the relationship",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2574",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2574"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0128",
+      "evidenceRowId": "em-rebecca-herzog-01770",
+      "platform": "Instagram",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:2718",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No Twitter/X, Instagram, or LinkedIn found with personal profile",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2718",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2718"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0129",
+      "evidenceRowId": "em-rebecca-herzog-01830",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:2811",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No Facebook page found",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2811",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2811"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0130",
+      "evidenceRowId": "em-rebecca-herzog-01914",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:2955",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No social media presence found (no Facebook, LinkedIn, Twitter, Instagram)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2955",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2955",
+        "mem-reports-senate-challengers-local-officials-complete-md-l903"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0131",
+      "evidenceRowId": "em-rebecca-herzog-02104",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/sleuth-pass.md:52",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social and Online Sweep",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/sleuth-pass.md:52",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-sleuth-pass-md-l52"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0132",
+      "evidenceRowId": "em-rebecca-herzog-02113",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/sleuth-pass.md:65",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Personal public Facebook page with issue messaging.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/sleuth-pass.md:65",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-sleuth-pass-md-l65"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0133",
+      "evidenceRowId": "em-rebecca-herzog-02116",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/sleuth-pass.md:69",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Search returned LinkedIn and public-record-style pages for other people named Rebecca Herzog or unverifiable name matches. I did not use them.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/sleuth-pass.md:69",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-sleuth-pass-md-l69"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0134",
+      "evidenceRowId": "em-rebecca-herzog-02122",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/sleuth-pass.md:79",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No verified social follows, likes, comments, or post-level engagement found.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/sleuth-pass.md:79",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-sleuth-pass-md-l79"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0135",
+      "evidenceRowId": "em-rebecca-herzog-02423",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/rebecca-herzog.ts:237",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Public web and major social-platform search\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/rebecca-herzog.ts:237",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l425",
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l237"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0136",
+      "evidenceRowId": "em-rebecca-herzog-02445",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/v2-issues.yaml:469",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "socialOnlineSignals:",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/v2-issues.yaml:469",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l469"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0137",
+      "evidenceRowId": "em-rebecca-herzog-02455",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/v2-issues.yaml:487",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "platform: \"Public search results\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/v2-issues.yaml:487",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l487"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0138",
+      "evidenceRowId": "em-rebecca-herzog-02456",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/v2-issues.yaml:488",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "observation: \"Search surfaced same-name LinkedIn/public-record noise for other or unverifiable Rebecca Herzog profiles; those were excluded as non-attributable.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/v2-issues.yaml:488",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l488"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0139",
+      "evidenceRowId": "em-rebecca-herzog-02561",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:42900",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"title\": \"Linkedin.Com\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:42900",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l42900",
+        "mem-ui-src-data-candidates-ts-l42928"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0140",
+      "evidenceRowId": "em-rebecca-herzog-02564",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:42912",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"title\": \"Facebook.Com\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:42912",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l42912",
+        "mem-ui-src-data-candidates-ts-l42924"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0141",
+      "evidenceRowId": "em-rebecca-herzog-02612",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/rebecca-herzog.ts:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/rebecca-herzog.ts:1",
+      "sourceIds": [
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0142",
+      "evidenceRowId": "em-rebecca-herzog-02614",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/rebecca-herzog.ts:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "node scripts/hydrate-v2-social-signals.mjs",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/rebecca-herzog.ts:3",
+      "sourceIds": [
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0143",
+      "evidenceRowId": "em-rebecca-herzog-02620",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/rebecca-herzog.ts:80",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Public web\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/rebecca-herzog.ts:80",
+      "sourceIds": [
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l80",
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l90",
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l249"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0144",
+      "evidenceRowId": "em-rebecca-herzog-02624",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/rebecca-herzog.ts:162",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Hays Post\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/rebecca-herzog.ts:162",
+      "sourceIds": [
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l162",
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l259"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0145",
+      "evidenceRowId": "em-rebecca-herzog-02626",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/rebecca-herzog.ts:172",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Facebook\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/rebecca-herzog.ts:172",
+      "sourceIds": [
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l172"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0146",
+      "evidenceRowId": "em-rebecca-herzog-00290",
+      "platform": "Facebook",
+      "actionType": "comment",
+      "target": "https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[Hays Daily News -- Berges Commission Comment](https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/)",
+      "sourceUrl": "https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:232",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l232",
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l53"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0147",
+      "evidenceRowId": "em-rebecca-herzog-00466",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Facebook: [Bobbi Dreiling for Ellis County Clerk](https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/)",
+      "sourceUrl": "https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:456",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l456"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0148",
+      "evidenceRowId": "em-rebecca-herzog-01733",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/people/Sandy-Jacobs-Hays-City-Commission/100063604999773/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Facebook: [Sandy Jacobs - Hays City Commission](https://www.facebook.com/people/Sandy-Jacobs-Hays-City-Commission/100063604999773/)",
+      "sourceUrl": "https://www.facebook.com/people/Sandy-Jacobs-Hays-City-Commission/100063604999773/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2660",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2660"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0149",
+      "evidenceRowId": "em-rebecca-herzog-01865",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/people/Bobbi-Dreiling-for-Ellis-County-Clerk/100067810926476/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Facebook (Campaign): [Bobbi Dreiling for Ellis County Clerk](https://www.facebook.com/people/Bobbi-Dreiling-for-Ellis-County-Clerk/100067810926476/)",
+      "sourceUrl": "https://www.facebook.com/people/Bobbi-Dreiling-for-Ellis-County-Clerk/100067810926476/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2880",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2880"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0150",
+      "evidenceRowId": "em-rebecca-herzog-02035",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/people/Bobbi-Dreiling-for-Ellis-County-Clerk/100067810926476/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[Bobbi Dreiling for Ellis County Clerk](https://www.facebook.com/people/Bobbi-Dreiling-for-Ellis-County-Clerk/100067810926476/)",
+      "sourceUrl": "https://www.facebook.com/people/Bobbi-Dreiling-for-Ellis-County-Clerk/100067810926476/",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:272",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l76",
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l272"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0151",
+      "evidenceRowId": "em-rebecca-herzog-02068",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/people/Sandy-Jacobs-Hays-City-Commission/100063604999773/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[Sandy Jacobs - Hays City Commission](https://www.facebook.com/people/Sandy-Jacobs-Hays-City-Commission/100063604999773/)",
+      "sourceUrl": "https://www.facebook.com/people/Sandy-Jacobs-Hays-City-Commission/100063604999773/",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:259",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l259"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0152",
+      "evidenceRowId": "em-rebecca-herzog-00296",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/scott-braun-cpm-62833366/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "LinkedIn: [linkedin.com/in/scott-braun-cpm-62833366](https://www.linkedin.com/in/scott-braun-cpm-62833366/)",
+      "sourceUrl": "https://www.linkedin.com/in/scott-braun-cpm-62833366/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:242",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l242"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0153",
+      "evidenceRowId": "em-rebecca-herzog-01448",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/christy.davis.710/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Facebook: [Christy Cauble Davis](https://www.facebook.com/christy.davis.710/)",
+      "sourceUrl": "https://www.facebook.com/christy.davis.710/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2204",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2204"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0154",
+      "evidenceRowId": "em-rebecca-herzog-01449",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/christy-davis-19286b224/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "LinkedIn: [Christy Davis - Davis Preservation](https://www.linkedin.com/in/christy-davis-19286b224/)",
+      "sourceUrl": "https://www.linkedin.com/in/christy-davis-19286b224/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2205",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2205"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0155",
+      "evidenceRowId": "em-rebecca-herzog-01488",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/sandy-spidel-neumann-a278536/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "LinkedIn: [Sandy Spidel Neumann](https://www.linkedin.com/in/sandy-spidel-neumann-a278536/)",
+      "sourceUrl": "https://www.linkedin.com/in/sandy-spidel-neumann-a278536/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2266",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2266"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0156",
+      "evidenceRowId": "em-rebecca-herzog-01524",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/erik.murray.820582/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Facebook: [@erik.murray.820582](https://www.facebook.com/erik.murray.820582/)",
+      "sourceUrl": "https://www.facebook.com/erik.murray.820582/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2323",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2323"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0157",
+      "evidenceRowId": "em-rebecca-herzog-01526",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/erikmurraysior",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "LinkedIn: [Erik Murray, SIOR, CCIM](https://www.linkedin.com/in/erikmurraysior)",
+      "sourceUrl": "https://www.linkedin.com/in/erikmurraysior",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2325",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2325"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0158",
+      "evidenceRowId": "em-rebecca-herzog-01570",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/anne-lea-parelkar-83095659/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "LinkedIn: [Anne Lea Parelkar](https://www.linkedin.com/in/anne-lea-parelkar-83095659/)",
+      "sourceUrl": "https://www.linkedin.com/in/anne-lea-parelkar-83095659/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2401",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2401"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0159",
+      "evidenceRowId": "em-rebecca-herzog-01664",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/alaina.cunningham.9/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Facebook: [Alaina Cunningham](https://www.facebook.com/alaina.cunningham.9/)",
+      "sourceUrl": "https://www.facebook.com/alaina.cunningham.9/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2561",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2561"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0160",
+      "evidenceRowId": "em-rebecca-herzog-01665",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/alaina-cunningham-4436ba1/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "LinkedIn: [Alaina Cunningham](https://www.linkedin.com/in/alaina-cunningham-4436ba1/)",
+      "sourceUrl": "https://www.linkedin.com/in/alaina-cunningham-4436ba1/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2562",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2562"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0161",
+      "evidenceRowId": "em-rebecca-herzog-01698",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/shaun-musil-26539490/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "LinkedIn: [Shaun Musil](https://www.linkedin.com/in/shaun-musil-26539490/)",
+      "sourceUrl": "https://www.linkedin.com/in/shaun-musil-26539490/",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2612",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2612",
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2648"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0162",
+      "evidenceRowId": "em-rebecca-herzog-01842",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/nathan-leiker-1236bb276",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "LinkedIn: [Nathan Leiker](https://www.linkedin.com/in/nathan-leiker-1236bb276)",
+      "sourceUrl": "https://www.linkedin.com/in/nathan-leiker-1236bb276",
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2837",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2837",
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2863"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0163",
+      "evidenceRowId": "em-rebecca-herzog-02031",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/scott-braun-cpm-62833366/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[linkedin.com/in/scott-braun-cpm-62833366](https://www.linkedin.com/in/scott-braun-cpm-62833366/)",
+      "sourceUrl": "https://www.linkedin.com/in/scott-braun-cpm-62833366/",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:54",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l54"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0164",
+      "evidenceRowId": "em-rebecca-herzog-02046",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/christy.davis.710/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[Christy Cauble Davis](https://www.facebook.com/christy.davis.710/)",
+      "sourceUrl": "https://www.facebook.com/christy.davis.710/",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:202",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l202"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0165",
+      "evidenceRowId": "em-rebecca-herzog-02047",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/christy-davis-19286b224/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[Christy Davis - Davis Preservation](https://www.linkedin.com/in/christy-davis-19286b224/)",
+      "sourceUrl": "https://www.linkedin.com/in/christy-davis-19286b224/",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:203",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l203"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0166",
+      "evidenceRowId": "em-rebecca-herzog-02048",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/sandy-spidel-neumann-a278536/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[Sandy Spidel Neumann](https://www.linkedin.com/in/sandy-spidel-neumann-a278536/)",
+      "sourceUrl": "https://www.linkedin.com/in/sandy-spidel-neumann-a278536/",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:211",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l211"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0167",
+      "evidenceRowId": "em-rebecca-herzog-02052",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/erik.murray.820582/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[@erik.murray.820582](https://www.facebook.com/erik.murray.820582/)",
+      "sourceUrl": "https://www.facebook.com/erik.murray.820582/",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:219",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l219"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0168",
+      "evidenceRowId": "em-rebecca-herzog-02054",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/erikmurraysior",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[Erik Murray, SIOR, CCIM](https://www.linkedin.com/in/erikmurraysior)",
+      "sourceUrl": "https://www.linkedin.com/in/erikmurraysior",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:221",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l221"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0169",
+      "evidenceRowId": "em-rebecca-herzog-02056",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/anne-lea-parelkar-83095659/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[Anne Lea Parelkar](https://www.linkedin.com/in/anne-lea-parelkar-83095659/)",
+      "sourceUrl": "https://www.linkedin.com/in/anne-lea-parelkar-83095659/",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:231",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l231"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0170",
+      "evidenceRowId": "em-rebecca-herzog-02065",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/alaina-cunningham-4436ba1/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[Alaina Cunningham](https://www.linkedin.com/in/alaina-cunningham-4436ba1/)",
+      "sourceUrl": "https://www.linkedin.com/in/alaina-cunningham-4436ba1/",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:252",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l251",
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l252"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0171",
+      "evidenceRowId": "em-rebecca-herzog-02067",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/shaun-musil-26539490/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[Shaun Musil](https://www.linkedin.com/in/shaun-musil-26539490/)",
+      "sourceUrl": "https://www.linkedin.com/in/shaun-musil-26539490/",
+      "sourceFile": "memory/candidates/rebecca-herzog/site-profile.md:255",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-site-profile-md-l255"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0172",
+      "evidenceRowId": "em-rebecca-herzog-02182",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "memory/candidates/rebecca-herzog/social-harvest.md:75",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Source Links",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/social-harvest.md:75",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-social-harvest-md-l75"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0173",
+      "evidenceRowId": "em-rebecca-herzog-01029",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:1542",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        4,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Assessment: Jeff Colyer has a Catholic education background from Hays, and his policy positions align with Catholic social teaching on life issues. However, his international medical work is through a secular organization (International Medical Corps), not a faith-based one. His current church affiliation is unknown. He may still be Catholic, he may have shifted denominations, or he may be a private worshiper. The fact that his campaign and official profiles do not prominently feature church membership is notable for a Republican running in a Kansas primary. Recommend direct inquiry.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:1542",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l1542"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0174",
+      "evidenceRowId": "em-rebecca-herzog-01832",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:2817",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        9,
+        11,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Health care / insurance / Medicaid",
+        "Public safety / law enforcement / criminal justice",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Younger is the blue-collar voice on the commission -- an electrician/plumber who brought trade-level fiscal discipline to county government. His mental health funding argument (\"cheaper than jail\") shows he's a pragmatist, not an ideologue. His complete absence from social media is notable in 2026 -- he governs through meeting rooms, not posts. No controversies, no red flags, no personal information publicly available. He is, in many ways, the most anonymous elected official in Ellis County.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:2817",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l2817"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0175",
+      "evidenceRowId": "em-rebecca-herzog-02401",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/rebecca-herzog.ts:149",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"ss-budget-records-not-social-posts\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/rebecca-herzog.ts:149",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l379",
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l149"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0176",
+      "evidenceRowId": "em-rebecca-herzog-02422",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/rebecca-herzog.ts:236",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"ss-no-verified-campaign-social\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/rebecca-herzog.ts:236",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l424",
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l236"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0177",
+      "evidenceRowId": "em-rebecca-herzog-00445",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:424",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Both share the Cunningham surname and both are in Hays public office, but no public record, news article, or social media post confirms they are related",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:424",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l424"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0178",
+      "evidenceRowId": "em-rebecca-herzog-00206",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:104",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "No dedicated Facebook page found for his commissioner seat (unlike Berges)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:104",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l104"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0179",
+      "evidenceRowId": "em-rebecca-herzog-00275",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/raw-dump.md:206",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Hays Daily News Quote: \"Commissioners are not...\" (partial quote from Facebook post by Hays Daily News about Berges asserting commissioners' role/limitations)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/raw-dump.md:206",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-raw-dump-md-l206"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0180",
+      "evidenceRowId": "em-rebecca-herzog-02380",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/rebecca-herzog.ts:64",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"socialSignals\": [",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/rebecca-herzog.ts:64",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l335",
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l378",
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l423",
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l64",
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l147",
+        "mem-ui-src-data-v2-rebecca-herzog-ts-l234"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0181",
+      "evidenceRowId": "em-rebecca-herzog-02450",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/v2-issues.yaml:479",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "id: \"os-social-absence\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/v2-issues.yaml:479",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l479"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-rebecca-herzog-0182",
+      "evidenceRowId": "em-rebecca-herzog-02480",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/rebecca-herzog/v2-issues.yaml:530",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "id: \"g-social-and-issue-platform\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/rebecca-herzog/v2-issues.yaml:530",
+      "sourceIds": [
+        "mem-memory-candidates-rebecca-herzog-v2-issues-yaml-l530"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    }
+  ],
+  "issueCoverage": {
+    "1": {
+      "issue": "Abortion / life",
+      "total": 4,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 3
+    },
+    "2": {
+      "issue": "LGBT / gender / parental rights",
+      "total": 4,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 3
+    },
+    "3": {
+      "issue": "Education / curriculum / schools",
+      "total": 2,
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "4": {
+      "issue": "Religious liberty / church / civic morality",
+      "total": 5,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 3
+    },
+    "5": {
+      "issue": "Taxes / spending / debt",
+      "total": 15,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 3,
+      "ambiguous": 10
+    },
+    "6": {
+      "issue": "Economy / jobs / labor",
+      "total": 2,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 2
+    },
+    "7": {
+      "issue": "Guns / Second Amendment",
+      "total": 4,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 3
+    },
+    "8": {
+      "issue": "Immigration / border",
+      "total": 4,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 3
+    },
+    "9": {
+      "issue": "Health care / insurance / Medicaid",
+      "total": 3,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "10": {
+      "issue": "Election integrity / voting / courts",
+      "total": 48,
+      "strong": 5,
+      "moderate": 0,
+      "weak": 6,
+      "ambiguous": 36
+    },
+    "11": {
+      "issue": "Public safety / law enforcement / criminal justice",
+      "total": 3,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 2
+    },
+    "12": {
+      "issue": "Agriculture / rural economy / water",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "13": {
+      "issue": "Local governance / transparency / ethics",
+      "total": 76,
+      "strong": 13,
+      "moderate": 0,
+      "weak": 12,
+      "ambiguous": 41
+    },
+    "14": {
+      "issue": "Environment / energy / land use",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    }
+  },
+  "caveats": [
+    "Social evidence is signal, not fact. A follow, like, share, or platform absence is not treated as a belief or policy position.",
+    "Candidate-controlled posts and campaign pages may be used as stated positions only when the text itself says the position.",
+    "Login-walled, blocked, or inaccessible platform content is documented as a capture limitation, not as evidence of silence."
+  ]
+}

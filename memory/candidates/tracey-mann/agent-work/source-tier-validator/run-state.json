@@ -1,0 +1,28 @@
+{
+  "agent_id": "source-tier-validator",
+  "agent_role": "Source quality auditor",
+  "candidate_slug": "tracey-mann",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/tracey-mann/evidence-matrix.json"
+  ],
+  "files_written": [
+    "memory/candidates/tracey-mann/source-audit.json",
+    "memory/candidates/tracey-mann/source-audit.md",
+    "memory/candidates/tracey-mann/agent-work/source-tier-validator/run-state.json",
+    "memory/candidates/tracey-mann/agent-work/source-tier-validator/notes.md",
+    "memory/candidates/tracey-mann/agent-work/source-tier-validator/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs tracey-mann"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Use source-audit.md during fixed-issue-matrix-builder for tracey-mann."
+  ],
+  "handoff_summary": "Audited 308 unique source records for tracey-mann."
+}

@@ -1,0 +1,4744 @@
+[
+  {
+    "id": "em-mark-lane-00045",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:37",
+    "sourceUrl": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01ML_AT.pdf",
+    "sourceTier": "primary",
+    "evidenceType": "legal/court",
+    "issueMappedTo": [
+      10,
+      11
+    ],
+    "claim": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01ML_AT.pdf\",",
+    "exactEvidenceSummary": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01ML_AT.pdf\",",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Usable as sourced evidence; best available row has primary tier support. Deduplicated from 4 raw rows.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l26",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l37",
+      "mem-ui-src-data-v2-mark-lane-ts-l135",
+      "mem-ui-src-data-v2-mark-lane-ts-l146"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00090",
+      "raw-mark-lane-00101",
+      "raw-mark-lane-00370",
+      "raw-mark-lane-00381"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [
+      "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01ML_AT.pdf"
+    ],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:26",
+      "memory/candidates/mark-lane/v2-issues.yaml:37",
+      "ui/src/data/v2/mark-lane.ts:135",
+      "ui/src/data/v2/mark-lane.ts:146"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00013",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/social-harvest.md:20",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social follow",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+    "exactEvidenceSummary": "- Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-in-their-own-words-md-l20",
+      "mem-memory-candidates-mark-lane-raw-dump-v2-md-l20",
+      "mem-memory-candidates-mark-lane-sleuth-pass-md-l20",
+      "mem-memory-candidates-mark-lane-social-harvest-md-l20"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00013",
+      "raw-mark-lane-00029",
+      "raw-mark-lane-00045",
+      "raw-mark-lane-00061"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/in-their-own-words.md:20",
+      "memory/candidates/mark-lane/raw-dump-v2.md:20",
+      "memory/candidates/mark-lane/sleuth-pass.md:20",
+      "memory/candidates/mark-lane/social-harvest.md:20"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00005",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/social-harvest.md:8",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "This artifact was created because the candidate-completeness audit found Mark Lane in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+    "exactEvidenceSummary": "This artifact was created because the candidate-completeness audit found Mark Lane in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-in-their-own-words-md-l8",
+      "mem-memory-candidates-mark-lane-raw-dump-v2-md-l8",
+      "mem-memory-candidates-mark-lane-sleuth-pass-md-l8",
+      "mem-memory-candidates-mark-lane-social-harvest-md-l8"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00005",
+      "raw-mark-lane-00021",
+      "raw-mark-lane-00037",
+      "raw-mark-lane-00053"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/in-their-own-words.md:8",
+      "memory/candidates/mark-lane/raw-dump-v2.md:8",
+      "memory/candidates/mark-lane/sleuth-pass.md:8",
+      "memory/candidates/mark-lane/social-harvest.md:8"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00012",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/social-harvest.md:19",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Ballot / filing status: KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+    "exactEvidenceSummary": "- Ballot / filing status: KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-in-their-own-words-md-l19",
+      "mem-memory-candidates-mark-lane-raw-dump-v2-md-l19",
+      "mem-memory-candidates-mark-lane-sleuth-pass-md-l19",
+      "mem-memory-candidates-mark-lane-social-harvest-md-l19"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00012",
+      "raw-mark-lane-00028",
+      "raw-mark-lane-00044",
+      "raw-mark-lane-00060"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/in-their-own-words.md:19",
+      "memory/candidates/mark-lane/raw-dump-v2.md:19",
+      "memory/candidates/mark-lane/sleuth-pass.md:19",
+      "memory/candidates/mark-lane/social-harvest.md:19"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00014",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/social-harvest.md:21",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+    "exactEvidenceSummary": "- Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-in-their-own-words-md-l21",
+      "mem-memory-candidates-mark-lane-raw-dump-v2-md-l21",
+      "mem-memory-candidates-mark-lane-sleuth-pass-md-l21",
+      "mem-memory-candidates-mark-lane-social-harvest-md-l21"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00014",
+      "raw-mark-lane-00030",
+      "raw-mark-lane-00046",
+      "raw-mark-lane-00062"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/in-their-own-words.md:21",
+      "memory/candidates/mark-lane/raw-dump-v2.md:21",
+      "memory/candidates/mark-lane/sleuth-pass.md:21",
+      "memory/candidates/mark-lane/social-harvest.md:21"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00016",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/social-harvest.md:25",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+    "exactEvidenceSummary": "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-in-their-own-words-md-l25",
+      "mem-memory-candidates-mark-lane-raw-dump-v2-md-l25",
+      "mem-memory-candidates-mark-lane-sleuth-pass-md-l25",
+      "mem-memory-candidates-mark-lane-social-harvest-md-l25"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00016",
+      "raw-mark-lane-00032",
+      "raw-mark-lane-00048",
+      "raw-mark-lane-00064"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/in-their-own-words.md:25",
+      "memory/candidates/mark-lane/raw-dump-v2.md:25",
+      "memory/candidates/mark-lane/sleuth-pass.md:25",
+      "memory/candidates/mark-lane/social-harvest.md:25"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00019",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/social-harvest.md:1",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Mark Lane - social harvest",
+    "exactEvidenceSummary": "# Mark Lane - social harvest",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-social-harvest-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00049"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/social-harvest.md:1"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00020",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/social-harvest.md:3",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Generated: 2026-05-20",
+    "exactEvidenceSummary": "Generated: 2026-05-20",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-social-harvest-md-l3"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00050"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/social-harvest.md:3"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00021",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/social-harvest.md:6",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Scope",
+    "exactEvidenceSummary": "## Scope",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-social-harvest-md-l6"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00052"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/social-harvest.md:6"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00022",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/social-harvest.md:10",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Current profile status",
+    "exactEvidenceSummary": "## Current profile status",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-social-harvest-md-l10"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00054"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/social-harvest.md:10"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00023",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/social-harvest.md:12",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Slug: mark-lane",
+    "exactEvidenceSummary": "- Slug: mark-lane",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-social-harvest-md-l12"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00055"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/social-harvest.md:12"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00025",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/social-harvest.md:17",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Evidence summary",
+    "exactEvidenceSummary": "## Evidence summary",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-social-harvest-md-l17"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00059"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/social-harvest.md:17"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00101",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:109",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      3,
+      5,
+      9
+    ],
+    "claim": "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+    "exactEvidenceSummary": "\"The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l109"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00211"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:109"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00065",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:69",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l69",
+      "mem-ui-src-data-v2-mark-lane-ts-l56"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00133",
+      "raw-mark-lane-00291"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:69",
+      "ui/src/data/v2/mark-lane.ts:56"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00081",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:124",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l124"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00188"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:124"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00130",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:77",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l77"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00312"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:77"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00103",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:111",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      5,
+      9
+    ],
+    "claim": "\"The governor is the boss of Kansas state government. They sign or veto every law the legislature passes, write the state budget, appoint the heads of state agencies, and set the direction on taxes, schools, roads, and healthcare. When there's a disaster, a crisis, or a big policy fight, the governor is the person making the call. Think of it as the CEO of the state.\",",
+    "exactEvidenceSummary": "\"The governor is the boss of Kansas state government. They sign or veto every law the legislature passes, write the state budget, appoint the heads of state agencies, and set the direction on taxes, schools, roads, and healthcare. When there's a disaster, a crisis, or a big policy fight, the governor is the person making the call. Think of it as the CEO of the state.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l111"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00213"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:111"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00033",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:11",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"incumbent\": false,",
+    "exactEvidenceSummary": "\"incumbent\": false,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l11",
+      "mem-ui-src-data-v2-mark-lane-ts-l15"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00075",
+      "raw-mark-lane-00250"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:11",
+      "ui/src/data/v2/mark-lane.ts:15"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00034",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:12",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"occupation\": \"Governor candidate / campaign-finance account holder\",",
+    "exactEvidenceSummary": "\"occupation\": \"Governor candidate / campaign-finance account holder\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l12",
+      "mem-ui-src-data-v2-mark-lane-ts-l16"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00076",
+      "raw-mark-lane-00251"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:12",
+      "ui/src/data/v2/mark-lane.ts:16"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00036",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:14",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"recordSummary\": \"This is a public-record profile for a campaign-finance account; party, platform, and final ballot status were not confirmed in this pass.\",",
+    "exactEvidenceSummary": "\"recordSummary\": \"This is a public-record profile for a campaign-finance account; party, platform, and final ballot status were not confirmed in this pass.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l14",
+      "mem-ui-src-data-v2-mark-lane-ts-l122"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00078",
+      "raw-mark-lane-00357"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:14",
+      "ui/src/data/v2/mark-lane.ts:122"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00037",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:15",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+    "exactEvidenceSummary": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l15"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00079"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:15"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00046",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:136",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "exactEvidenceSummary": "\"title\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l27",
+      "mem-ui-src-data-v2-mark-lane-ts-l136"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00091",
+      "raw-mark-lane-00371"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:27",
+      "ui/src/data/v2/mark-lane.ts:136"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00052",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:44",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"title\": \"Ballot / filing status\",",
+    "exactEvidenceSummary": "\"title\": \"Ballot / filing status\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l44",
+      "mem-ui-src-data-v2-mark-lane-ts-l20"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00108",
+      "raw-mark-lane-00255"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:44",
+      "ui/src/data/v2/mark-lane.ts:20"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00054",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:46",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"text\": \"KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+    "exactEvidenceSummary": "\"text\": \"KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l46",
+      "mem-ui-src-data-v2-mark-lane-ts-l22"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00110",
+      "raw-mark-lane-00257"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:46",
+      "ui/src/data/v2/mark-lane.ts:22"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00061",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:56",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"body\": \"Mark Lane was identified in the reviewed official or campaign-finance source for Kansas Governor campaign-finance account holder.\",",
+    "exactEvidenceSummary": "\"body\": \"Mark Lane was identified in the reviewed official or campaign-finance source for Kansas Governor campaign-finance account holder.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l56",
+      "mem-ui-src-data-v2-mark-lane-ts-l32"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00120",
+      "raw-mark-lane-00267"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:56",
+      "ui/src/data/v2/mark-lane.ts:32"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00067",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:79",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+    "exactEvidenceSummary": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l79",
+      "mem-ui-src-data-v2-mark-lane-ts-l66"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00143",
+      "raw-mark-lane-00301"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:79",
+      "ui/src/data/v2/mark-lane.ts:66"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00070",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:92",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "exactEvidenceSummary": "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l92",
+      "mem-ui-src-data-v2-mark-lane-ts-l90"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00156",
+      "raw-mark-lane-00325"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:92",
+      "ui/src/data/v2/mark-lane.ts:90"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00078",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:117",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"source\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "exactEvidenceSummary": "\"source\": \"Kansas State Wide Office - 2026 Election Cycle\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l117",
+      "mem-ui-src-data-v2-mark-lane-ts-l128"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00181",
+      "raw-mark-lane-00363"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:117",
+      "ui/src/data/v2/mark-lane.ts:128"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00080",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:123",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.\",",
+    "exactEvidenceSummary": "\"Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l123"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00187"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:123"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00082",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:125",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication.\"",
+    "exactEvidenceSummary": "\"Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication.\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l125"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00189"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:125"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00097",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:105",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"With Laura Kelly term-limited, both parties and multiple campaign-account holders are building a large field for one of the most important open-seat races in Kansas politics.\",",
+    "exactEvidenceSummary": "\"With Laura Kelly term-limited, both parties and multiple campaign-account holders are building a large field for one of the most important open-seat races in Kansas politics.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l105"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00207"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:105"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00099",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:107",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.\",",
+    "exactEvidenceSummary": "\"Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l107"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00209"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:107"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00110",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:120",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "status: \"Incumbent Running\",",
+    "exactEvidenceSummary": "status: \"Incumbent Running\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l120"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00222"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:120"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00115",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:128",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "legal/court",
+    "issueMappedTo": [
+      10,
+      11,
+      13
+    ],
+    "claim": "\"This office decides which lawsuits Kansas joins, which criminal or civil fights get statewide attention, and how aggressively state law is enforced in court.\",",
+    "exactEvidenceSummary": "\"This office decides which lawsuits Kansas joins, which criminal or civil fights get statewide attention, and how aggressively state law is enforced in court.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l128"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00230"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:128"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00116",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:130",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "legal/court",
+    "issueMappedTo": [
+      10,
+      11,
+      13
+    ],
+    "claim": "\"The attorney general is Kansas's top lawyer. They decide which lawsuits the state files or joins, prosecute major crimes that cross county lines, protect consumers from scams, and defend or challenge state laws in court. If a company rips off Kansans, if there's a statewide criminal case, or if Kansas sues the federal government, this is the person running that fight.\",",
+    "exactEvidenceSummary": "\"The attorney general is Kansas's top lawyer. They decide which lawsuits the state files or joins, prosecute major crimes that cross county lines, protect consumers from scams, and defend or challenge state laws in court. If a company rips off Kansans, if there's a statewide criminal case, or if Kansas sues the federal government, this is the person running that fight.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l130"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00232"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:130"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00127",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:43",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"observation\": \"Ballot / filing status: KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+    "exactEvidenceSummary": "\"observation\": \"Ballot / filing status: KPDC lists Mark Lane under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l43"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00278"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:43"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00129",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:48",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"mappedToIssueId\": \"i-ballot-status\"",
+    "exactEvidenceSummary": "\"mappedToIssueId\": \"i-ballot-status\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l48"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00283"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:48"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00132",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:111",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "exactEvidenceSummary": "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l111"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00346"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:111"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00135",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:130",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+    "exactEvidenceSummary": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l130"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00365"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:130"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00035",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:13",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"whoTheyAre\": \"Mark Lane appears in KPDC's 2026 statewide campaign-finance index under gubernatorial candidates. The appointment-of-treasurer report identifies Marcus Mark Lane with Governor as the office sought.\",",
+    "exactEvidenceSummary": "\"whoTheyAre\": \"Mark Lane appears in KPDC's 2026 statewide campaign-finance index under gubernatorial candidates. The appointment-of-treasurer report identifies Marcus Mark Lane with Governor as the office sought.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l13",
+      "mem-ui-src-data-v2-mark-lane-ts-l121"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00077",
+      "raw-mark-lane-00356"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:13",
+      "ui/src/data/v2/mark-lane.ts:121"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00040",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:20",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"publisher\": \"Kansas Governmental Ethics Commission / KPDC\",",
+    "exactEvidenceSummary": "\"publisher\": \"Kansas Governmental Ethics Commission / KPDC\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l20",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l31",
+      "mem-ui-src-data-v2-mark-lane-ts-l137",
+      "mem-ui-src-data-v2-mark-lane-ts-l148"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00084",
+      "raw-mark-lane-00095",
+      "raw-mark-lane-00372",
+      "raw-mark-lane-00383"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:20",
+      "memory/candidates/mark-lane/v2-issues.yaml:31",
+      "ui/src/data/v2/mark-lane.ts:137",
+      "ui/src/data/v2/mark-lane.ts:148"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00042",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:22",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"KPDC index lists Lane, Mark under gubernatorial candidates\"",
+    "exactEvidenceSummary": "\"KPDC index lists Lane, Mark under gubernatorial candidates\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l22",
+      "mem-ui-src-data-v2-mark-lane-ts-l140"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00086",
+      "raw-mark-lane-00375"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:22",
+      "ui/src/data/v2/mark-lane.ts:140"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00047",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:33",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"Appointment-of-treasurer report identifies Governor as the office sought\"",
+    "exactEvidenceSummary": "\"Appointment-of-treasurer report identifies Governor as the office sought\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l33",
+      "mem-ui-src-data-v2-mark-lane-ts-l151"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00097",
+      "raw-mark-lane-00386"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:33",
+      "ui/src/data/v2/mark-lane.ts:151"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00056",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:48",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"s-kpdc-statewide\",",
+    "exactEvidenceSummary": "\"s-kpdc-statewide\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l48",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l58",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l71",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l81",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l94",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l104",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l119",
+      "mem-ui-src-data-v2-mark-lane-ts-l24",
+      "mem-ui-src-data-v2-mark-lane-ts-l34",
+      "mem-ui-src-data-v2-mark-lane-ts-l46",
+      "mem-ui-src-data-v2-mark-lane-ts-l58",
+      "mem-ui-src-data-v2-mark-lane-ts-l68",
+      "mem-ui-src-data-v2-mark-lane-ts-l80",
+      "mem-ui-src-data-v2-mark-lane-ts-l92",
+      "mem-ui-src-data-v2-mark-lane-ts-l102",
+      "mem-ui-src-data-v2-mark-lane-ts-l114"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00112",
+      "raw-mark-lane-00122",
+      "raw-mark-lane-00135",
+      "raw-mark-lane-00145",
+      "raw-mark-lane-00158",
+      "raw-mark-lane-00168",
+      "raw-mark-lane-00183",
+      "raw-mark-lane-00259",
+      "raw-mark-lane-00269",
+      "raw-mark-lane-00281",
+      "raw-mark-lane-00293",
+      "raw-mark-lane-00303",
+      "raw-mark-lane-00315",
+      "raw-mark-lane-00327",
+      "raw-mark-lane-00337",
+      "raw-mark-lane-00349"
+    ],
+    "duplicateCount": 16,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:48",
+      "memory/candidates/mark-lane/v2-issues.yaml:58",
+      "memory/candidates/mark-lane/v2-issues.yaml:71",
+      "memory/candidates/mark-lane/v2-issues.yaml:81",
+      "memory/candidates/mark-lane/v2-issues.yaml:94",
+      "memory/candidates/mark-lane/v2-issues.yaml:104",
+      "memory/candidates/mark-lane/v2-issues.yaml:119",
+      "ui/src/data/v2/mark-lane.ts:24",
+      "ui/src/data/v2/mark-lane.ts:34",
+      "ui/src/data/v2/mark-lane.ts:46",
+      "ui/src/data/v2/mark-lane.ts:58",
+      "ui/src/data/v2/mark-lane.ts:68",
+      "ui/src/data/v2/mark-lane.ts:80",
+      "ui/src/data/v2/mark-lane.ts:92",
+      "ui/src/data/v2/mark-lane.ts:102",
+      "ui/src/data/v2/mark-lane.ts:114"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00057",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:49",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"s-kpdc-at\"",
+    "exactEvidenceSummary": "\"s-kpdc-at\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l49",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l59",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l72",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l82",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l95",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l105",
+      "mem-ui-src-data-v2-mark-lane-ts-l25",
+      "mem-ui-src-data-v2-mark-lane-ts-l35",
+      "mem-ui-src-data-v2-mark-lane-ts-l59",
+      "mem-ui-src-data-v2-mark-lane-ts-l69",
+      "mem-ui-src-data-v2-mark-lane-ts-l93",
+      "mem-ui-src-data-v2-mark-lane-ts-l103"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00113",
+      "raw-mark-lane-00123",
+      "raw-mark-lane-00136",
+      "raw-mark-lane-00146",
+      "raw-mark-lane-00159",
+      "raw-mark-lane-00169",
+      "raw-mark-lane-00260",
+      "raw-mark-lane-00270",
+      "raw-mark-lane-00294",
+      "raw-mark-lane-00304",
+      "raw-mark-lane-00328",
+      "raw-mark-lane-00338"
+    ],
+    "duplicateCount": 12,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:49",
+      "memory/candidates/mark-lane/v2-issues.yaml:59",
+      "memory/candidates/mark-lane/v2-issues.yaml:72",
+      "memory/candidates/mark-lane/v2-issues.yaml:82",
+      "memory/candidates/mark-lane/v2-issues.yaml:95",
+      "memory/candidates/mark-lane/v2-issues.yaml:105",
+      "ui/src/data/v2/mark-lane.ts:25",
+      "ui/src/data/v2/mark-lane.ts:35",
+      "ui/src/data/v2/mark-lane.ts:59",
+      "ui/src/data/v2/mark-lane.ts:69",
+      "ui/src/data/v2/mark-lane.ts:93",
+      "ui/src/data/v2/mark-lane.ts:103"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00069",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:90",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"title\": \"Donor / funding information\",",
+    "exactEvidenceSummary": "\"title\": \"Donor / funding information\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l90",
+      "mem-ui-src-data-v2-mark-lane-ts-l88"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00154",
+      "raw-mark-lane-00323"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:90",
+      "ui/src/data/v2/mark-lane.ts:88"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00072",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:102",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"body\": \"The reviewed finance source confirms either a campaign-finance account, committee record, or no itemized summary yet; final donor detail needs the next public report if one is not already posted.\",",
+    "exactEvidenceSummary": "\"body\": \"The reviewed finance source confirms either a campaign-finance account, committee record, or no itemized summary yet; final donor detail needs the next public report if one is not already posted.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l102",
+      "mem-ui-src-data-v2-mark-lane-ts-l100"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00166",
+      "raw-mark-lane-00335"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:102",
+      "ui/src/data/v2/mark-lane.ts:100"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00075",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:114",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"narrative\": \"No donor-by-donor public finance interpretation is made from the available records in this pass.\",",
+    "exactEvidenceSummary": "\"narrative\": \"No donor-by-donor public finance interpretation is made from the available records in this pass.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l114",
+      "mem-ui-src-data-v2-mark-lane-ts-l125"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00178",
+      "raw-mark-lane-00360"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:114",
+      "ui/src/data/v2/mark-lane.ts:125"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00133",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:116",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"mappedToIssueId\": \"i-donor-funding\"",
+    "exactEvidenceSummary": "\"mappedToIssueId\": \"i-donor-funding\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l116"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00351"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:116"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00001",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/in-their-own-words.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Mark Lane - in their own words",
+    "exactEvidenceSummary": "# Mark Lane - in their own words",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-in-their-own-words-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00001"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/in-their-own-words.md:1"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00002",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/in-their-own-words.md:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Generated: 2026-05-20",
+    "exactEvidenceSummary": "Generated: 2026-05-20",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-in-their-own-words-md-l3",
+      "mem-memory-candidates-mark-lane-raw-dump-v2-md-l3",
+      "mem-memory-candidates-mark-lane-sleuth-pass-md-l3"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00002",
+      "raw-mark-lane-00018",
+      "raw-mark-lane-00034"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/in-their-own-words.md:3",
+      "memory/candidates/mark-lane/raw-dump-v2.md:3",
+      "memory/candidates/mark-lane/sleuth-pass.md:3"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00004",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/in-their-own-words.md:6",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Scope",
+    "exactEvidenceSummary": "## Scope",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-in-their-own-words-md-l6",
+      "mem-memory-candidates-mark-lane-raw-dump-v2-md-l6",
+      "mem-memory-candidates-mark-lane-sleuth-pass-md-l6"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00004",
+      "raw-mark-lane-00020",
+      "raw-mark-lane-00036"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/in-their-own-words.md:6",
+      "memory/candidates/mark-lane/raw-dump-v2.md:6",
+      "memory/candidates/mark-lane/sleuth-pass.md:6"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00006",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/in-their-own-words.md:10",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Current profile status",
+    "exactEvidenceSummary": "## Current profile status",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-in-their-own-words-md-l10",
+      "mem-memory-candidates-mark-lane-raw-dump-v2-md-l10",
+      "mem-memory-candidates-mark-lane-sleuth-pass-md-l10"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00006",
+      "raw-mark-lane-00022",
+      "raw-mark-lane-00038"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/in-their-own-words.md:10",
+      "memory/candidates/mark-lane/raw-dump-v2.md:10",
+      "memory/candidates/mark-lane/sleuth-pass.md:10"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00007",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:2",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"slug\": \"mark-lane\",",
+    "exactEvidenceSummary": "\"slug\": \"mark-lane\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-in-their-own-words-md-l12",
+      "mem-memory-candidates-mark-lane-raw-dump-v2-md-l12",
+      "mem-memory-candidates-mark-lane-sleuth-pass-md-l12",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l2",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l6",
+      "mem-ui-src-data-v2-mark-lane-ts-l10"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00007",
+      "raw-mark-lane-00023",
+      "raw-mark-lane-00039",
+      "raw-mark-lane-00066",
+      "raw-mark-lane-00070",
+      "raw-mark-lane-00245"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/in-their-own-words.md:12",
+      "memory/candidates/mark-lane/raw-dump-v2.md:12",
+      "memory/candidates/mark-lane/sleuth-pass.md:12",
+      "memory/candidates/mark-lane/v2-issues.yaml:2",
+      "memory/candidates/mark-lane/v2-issues.yaml:6",
+      "ui/src/data/v2/mark-lane.ts:10"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00011",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/in-their-own-words.md:17",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Evidence summary",
+    "exactEvidenceSummary": "## Evidence summary",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-in-their-own-words-md-l17",
+      "mem-memory-candidates-mark-lane-raw-dump-v2-md-l17",
+      "mem-memory-candidates-mark-lane-sleuth-pass-md-l17"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00011",
+      "raw-mark-lane-00027",
+      "raw-mark-lane-00043"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/in-their-own-words.md:17",
+      "memory/candidates/mark-lane/raw-dump-v2.md:17",
+      "memory/candidates/mark-lane/sleuth-pass.md:17"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00017",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/raw-dump-v2.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Mark Lane - raw dump v2",
+    "exactEvidenceSummary": "# Mark Lane - raw dump v2",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-raw-dump-v2-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00017"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/raw-dump-v2.md:1"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00018",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/sleuth-pass.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Mark Lane - sleuth pass",
+    "exactEvidenceSummary": "# Mark Lane - sleuth pass",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-sleuth-pass-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00033"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/sleuth-pass.md:1"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00027",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:16",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "},",
+    "exactEvidenceSummary": "},",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l1",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l16",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l18",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l23",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l28",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l29",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l34",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l39",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l40",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l42",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l50",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l51",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l53",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l60",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l61",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l62",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l64",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l65",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l73",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l74",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l76",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l83",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l84",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l85",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l87",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l88",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l96",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l97",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l99",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l106",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l107",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l108",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l110",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l111",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l120",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l121",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l126",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l127",
+      "mem-ui-src-data-elections-ts-l103",
+      "mem-ui-src-data-elections-ts-l112",
+      "mem-ui-src-data-elections-ts-l113",
+      "mem-ui-src-data-elections-ts-l131",
+      "mem-ui-src-data-elections-ts-l132",
+      "mem-ui-src-data-v2-mark-lane-ts-l4",
+      "mem-ui-src-data-v2-mark-lane-ts-l18",
+      "mem-ui-src-data-v2-mark-lane-ts-l26",
+      "mem-ui-src-data-v2-mark-lane-ts-l27",
+      "mem-ui-src-data-v2-mark-lane-ts-l29",
+      "mem-ui-src-data-v2-mark-lane-ts-l36",
+      "mem-ui-src-data-v2-mark-lane-ts-l37",
+      "mem-ui-src-data-v2-mark-lane-ts-l38",
+      "mem-ui-src-data-v2-mark-lane-ts-l40",
+      "mem-ui-src-data-v2-mark-lane-ts-l47",
+      "mem-ui-src-data-v2-mark-lane-ts-l49",
+      "mem-ui-src-data-v2-mark-lane-ts-l50",
+      "mem-ui-src-data-v2-mark-lane-ts-l51",
+      "mem-ui-src-data-v2-mark-lane-ts-l52",
+      "mem-ui-src-data-v2-mark-lane-ts-l60",
+      "mem-ui-src-data-v2-mark-lane-ts-l61",
+      "mem-ui-src-data-v2-mark-lane-ts-l63",
+      "mem-ui-src-data-v2-mark-lane-ts-l70",
+      "mem-ui-src-data-v2-mark-lane-ts-l71",
+      "mem-ui-src-data-v2-mark-lane-ts-l72",
+      "mem-ui-src-data-v2-mark-lane-ts-l74",
+      "mem-ui-src-data-v2-mark-lane-ts-l81",
+      "mem-ui-src-data-v2-mark-lane-ts-l83",
+      "mem-ui-src-data-v2-mark-lane-ts-l84",
+      "mem-ui-src-data-v2-mark-lane-ts-l85",
+      "mem-ui-src-data-v2-mark-lane-ts-l86",
+      "mem-ui-src-data-v2-mark-lane-ts-l94",
+      "mem-ui-src-data-v2-mark-lane-ts-l95",
+      "mem-ui-src-data-v2-mark-lane-ts-l97",
+      "mem-ui-src-data-v2-mark-lane-ts-l104",
+      "mem-ui-src-data-v2-mark-lane-ts-l105",
+      "mem-ui-src-data-v2-mark-lane-ts-l106",
+      "mem-ui-src-data-v2-mark-lane-ts-l108",
+      "mem-ui-src-data-v2-mark-lane-ts-l115",
+      "mem-ui-src-data-v2-mark-lane-ts-l117",
+      "mem-ui-src-data-v2-mark-lane-ts-l118",
+      "mem-ui-src-data-v2-mark-lane-ts-l119",
+      "mem-ui-src-data-v2-mark-lane-ts-l120",
+      "mem-ui-src-data-v2-mark-lane-ts-l129",
+      "mem-ui-src-data-v2-mark-lane-ts-l132",
+      "mem-ui-src-data-v2-mark-lane-ts-l141",
+      "mem-ui-src-data-v2-mark-lane-ts-l142",
+      "mem-ui-src-data-v2-mark-lane-ts-l143",
+      "mem-ui-src-data-v2-mark-lane-ts-l152",
+      "mem-ui-src-data-v2-mark-lane-ts-l153",
+      "mem-ui-src-data-v2-mark-lane-ts-l154",
+      "mem-ui-src-data-v2-mark-lane-ts-l155",
+      "mem-ui-src-data-v2-mark-lane-ts-l164",
+      "mem-ui-src-data-v2-mark-lane-ts-l165",
+      "mem-ui-src-data-v2-mark-lane-ts-l166"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00065",
+      "raw-mark-lane-00080",
+      "raw-mark-lane-00082",
+      "raw-mark-lane-00087",
+      "raw-mark-lane-00092",
+      "raw-mark-lane-00093",
+      "raw-mark-lane-00098",
+      "raw-mark-lane-00103",
+      "raw-mark-lane-00104",
+      "raw-mark-lane-00106",
+      "raw-mark-lane-00114",
+      "raw-mark-lane-00115",
+      "raw-mark-lane-00117",
+      "raw-mark-lane-00124",
+      "raw-mark-lane-00125",
+      "raw-mark-lane-00126",
+      "raw-mark-lane-00128",
+      "raw-mark-lane-00129",
+      "raw-mark-lane-00137",
+      "raw-mark-lane-00138",
+      "raw-mark-lane-00140",
+      "raw-mark-lane-00147",
+      "raw-mark-lane-00148",
+      "raw-mark-lane-00149",
+      "raw-mark-lane-00151",
+      "raw-mark-lane-00152",
+      "raw-mark-lane-00160",
+      "raw-mark-lane-00161",
+      "raw-mark-lane-00163",
+      "raw-mark-lane-00170",
+      "raw-mark-lane-00171",
+      "raw-mark-lane-00172",
+      "raw-mark-lane-00174",
+      "raw-mark-lane-00175",
+      "raw-mark-lane-00184",
+      "raw-mark-lane-00185",
+      "raw-mark-lane-00190",
+      "raw-mark-lane-00191",
+      "raw-mark-lane-00205",
+      "raw-mark-lane-00214",
+      "raw-mark-lane-00215",
+      "raw-mark-lane-00233",
+      "raw-mark-lane-00234",
+      "raw-mark-lane-00241",
+      "raw-mark-lane-00253",
+      "raw-mark-lane-00261",
+      "raw-mark-lane-00262",
+      "raw-mark-lane-00264",
+      "raw-mark-lane-00271",
+      "raw-mark-lane-00272",
+      "raw-mark-lane-00273",
+      "raw-mark-lane-00275",
+      "raw-mark-lane-00282",
+      "raw-mark-lane-00284",
+      "raw-mark-lane-00285",
+      "raw-mark-lane-00286",
+      "raw-mark-lane-00287",
+      "raw-mark-lane-00295",
+      "raw-mark-lane-00296",
+      "raw-mark-lane-00298",
+      "raw-mark-lane-00305",
+      "raw-mark-lane-00306",
+      "raw-mark-lane-00307",
+      "raw-mark-lane-00309",
+      "raw-mark-lane-00316",
+      "raw-mark-lane-00318",
+      "raw-mark-lane-00319",
+      "raw-mark-lane-00320",
+      "raw-mark-lane-00321",
+      "raw-mark-lane-00329",
+      "raw-mark-lane-00330",
+      "raw-mark-lane-00332",
+      "raw-mark-lane-00339",
+      "raw-mark-lane-00340",
+      "raw-mark-lane-00341",
+      "raw-mark-lane-00343",
+      "raw-mark-lane-00350",
+      "raw-mark-lane-00352",
+      "raw-mark-lane-00353",
+      "raw-mark-lane-00354",
+      "raw-mark-lane-00355",
+      "raw-mark-lane-00364",
+      "raw-mark-lane-00367",
+      "raw-mark-lane-00376",
+      "raw-mark-lane-00377",
+      "raw-mark-lane-00378",
+      "raw-mark-lane-00387",
+      "raw-mark-lane-00388",
+      "raw-mark-lane-00389",
+      "raw-mark-lane-00390",
+      "raw-mark-lane-00398",
+      "raw-mark-lane-00399",
+      "raw-mark-lane-00400"
+    ],
+    "duplicateCount": 93,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:1",
+      "memory/candidates/mark-lane/v2-issues.yaml:16",
+      "memory/candidates/mark-lane/v2-issues.yaml:18",
+      "memory/candidates/mark-lane/v2-issues.yaml:23",
+      "memory/candidates/mark-lane/v2-issues.yaml:28",
+      "memory/candidates/mark-lane/v2-issues.yaml:29",
+      "memory/candidates/mark-lane/v2-issues.yaml:34",
+      "memory/candidates/mark-lane/v2-issues.yaml:39",
+      "memory/candidates/mark-lane/v2-issues.yaml:40",
+      "memory/candidates/mark-lane/v2-issues.yaml:42",
+      "memory/candidates/mark-lane/v2-issues.yaml:50",
+      "memory/candidates/mark-lane/v2-issues.yaml:51",
+      "memory/candidates/mark-lane/v2-issues.yaml:53",
+      "memory/candidates/mark-lane/v2-issues.yaml:60",
+      "memory/candidates/mark-lane/v2-issues.yaml:61",
+      "memory/candidates/mark-lane/v2-issues.yaml:62",
+      "memory/candidates/mark-lane/v2-issues.yaml:64",
+      "memory/candidates/mark-lane/v2-issues.yaml:65",
+      "memory/candidates/mark-lane/v2-issues.yaml:73",
+      "memory/candidates/mark-lane/v2-issues.yaml:74",
+      "memory/candidates/mark-lane/v2-issues.yaml:76",
+      "memory/candidates/mark-lane/v2-issues.yaml:83",
+      "memory/candidates/mark-lane/v2-issues.yaml:84",
+      "memory/candidates/mark-lane/v2-issues.yaml:85",
+      "memory/candidates/mark-lane/v2-issues.yaml:87",
+      "memory/candidates/mark-lane/v2-issues.yaml:88",
+      "memory/candidates/mark-lane/v2-issues.yaml:96",
+      "memory/candidates/mark-lane/v2-issues.yaml:97",
+      "memory/candidates/mark-lane/v2-issues.yaml:99",
+      "memory/candidates/mark-lane/v2-issues.yaml:106",
+      "memory/candidates/mark-lane/v2-issues.yaml:107",
+      "memory/candidates/mark-lane/v2-issues.yaml:108",
+      "memory/candidates/mark-lane/v2-issues.yaml:110",
+      "memory/candidates/mark-lane/v2-issues.yaml:111",
+      "memory/candidates/mark-lane/v2-issues.yaml:120",
+      "memory/candidates/mark-lane/v2-issues.yaml:121",
+      "memory/candidates/mark-lane/v2-issues.yaml:126",
+      "memory/candidates/mark-lane/v2-issues.yaml:127",
+      "ui/src/data/elections.ts:103",
+      "ui/src/data/elections.ts:112",
+      "ui/src/data/elections.ts:113",
+      "ui/src/data/elections.ts:131",
+      "ui/src/data/elections.ts:132",
+      "ui/src/data/v2/mark-lane.ts:4",
+      "ui/src/data/v2/mark-lane.ts:18",
+      "ui/src/data/v2/mark-lane.ts:26",
+      "ui/src/data/v2/mark-lane.ts:27",
+      "ui/src/data/v2/mark-lane.ts:29",
+      "ui/src/data/v2/mark-lane.ts:36",
+      "ui/src/data/v2/mark-lane.ts:37",
+      "ui/src/data/v2/mark-lane.ts:38",
+      "ui/src/data/v2/mark-lane.ts:40",
+      "ui/src/data/v2/mark-lane.ts:47",
+      "ui/src/data/v2/mark-lane.ts:49",
+      "ui/src/data/v2/mark-lane.ts:50",
+      "ui/src/data/v2/mark-lane.ts:51",
+      "ui/src/data/v2/mark-lane.ts:52",
+      "ui/src/data/v2/mark-lane.ts:60",
+      "ui/src/data/v2/mark-lane.ts:61",
+      "ui/src/data/v2/mark-lane.ts:63",
+      "ui/src/data/v2/mark-lane.ts:70",
+      "ui/src/data/v2/mark-lane.ts:71",
+      "ui/src/data/v2/mark-lane.ts:72",
+      "ui/src/data/v2/mark-lane.ts:74",
+      "ui/src/data/v2/mark-lane.ts:81",
+      "ui/src/data/v2/mark-lane.ts:83",
+      "ui/src/data/v2/mark-lane.ts:84",
+      "ui/src/data/v2/mark-lane.ts:85",
+      "ui/src/data/v2/mark-lane.ts:86",
+      "ui/src/data/v2/mark-lane.ts:94",
+      "ui/src/data/v2/mark-lane.ts:95",
+      "ui/src/data/v2/mark-lane.ts:97",
+      "ui/src/data/v2/mark-lane.ts:104",
+      "ui/src/data/v2/mark-lane.ts:105",
+      "ui/src/data/v2/mark-lane.ts:106",
+      "ui/src/data/v2/mark-lane.ts:108",
+      "ui/src/data/v2/mark-lane.ts:115",
+      "ui/src/data/v2/mark-lane.ts:117",
+      "ui/src/data/v2/mark-lane.ts:118",
+      "ui/src/data/v2/mark-lane.ts:119",
+      "ui/src/data/v2/mark-lane.ts:120",
+      "ui/src/data/v2/mark-lane.ts:129",
+      "ui/src/data/v2/mark-lane.ts:132",
+      "ui/src/data/v2/mark-lane.ts:141",
+      "ui/src/data/v2/mark-lane.ts:142",
+      "ui/src/data/v2/mark-lane.ts:143",
+      "ui/src/data/v2/mark-lane.ts:152",
+      "ui/src/data/v2/mark-lane.ts:153",
+      "ui/src/data/v2/mark-lane.ts:154",
+      "ui/src/data/v2/mark-lane.ts:155",
+      "ui/src/data/v2/mark-lane.ts:164",
+      "ui/src/data/v2/mark-lane.ts:165",
+      "ui/src/data/v2/mark-lane.ts:166"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00028",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"generated\": \"2026-05-20T02:11:14.687Z\",",
+    "exactEvidenceSummary": "\"generated\": \"2026-05-20T02:11:14.687Z\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l3"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00067"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:3"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00029",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:5",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"candidate_metadata\": {",
+    "exactEvidenceSummary": "\"candidate_metadata\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l5"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00069"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:5"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00030",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:7",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"name\": \"Mark Lane\",",
+    "exactEvidenceSummary": "\"name\": \"Mark Lane\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l7",
+      "mem-ui-src-data-v2-mark-lane-ts-l11"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00071",
+      "raw-mark-lane-00246"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:7",
+      "ui/src/data/v2/mark-lane.ts:11"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00031",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:8",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"party\": \"NP\",",
+    "exactEvidenceSummary": "\"party\": \"NP\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l8",
+      "mem-ui-src-data-v2-mark-lane-ts-l12"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00072",
+      "raw-mark-lane-00247"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:8",
+      "ui/src/data/v2/mark-lane.ts:12"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00032",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:10",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"electionSlug\": \"kansas-governor-2026\",",
+    "exactEvidenceSummary": "\"electionSlug\": \"kansas-governor-2026\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l10",
+      "mem-ui-src-data-v2-mark-lane-ts-l14"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00074",
+      "raw-mark-lane-00249"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:10",
+      "ui/src/data/v2/mark-lane.ts:14"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00038",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:17",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sources\": [",
+    "exactEvidenceSummary": "\"sources\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l17",
+      "mem-ui-src-data-v2-mark-lane-ts-l131"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00081",
+      "raw-mark-lane-00366"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:17",
+      "ui/src/data/v2/mark-lane.ts:131"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00039",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:19",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"accessed\": \"2026-05-20\",",
+    "exactEvidenceSummary": "\"accessed\": \"2026-05-20\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l19",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l30",
+      "mem-ui-src-data-v2-mark-lane-ts-l138",
+      "mem-ui-src-data-v2-mark-lane-ts-l149"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00083",
+      "raw-mark-lane-00094",
+      "raw-mark-lane-00373",
+      "raw-mark-lane-00384"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:19",
+      "memory/candidates/mark-lane/v2-issues.yaml:30",
+      "ui/src/data/v2/mark-lane.ts:138",
+      "ui/src/data/v2/mark-lane.ts:149"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00041",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:21",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"claimsAnchored\": [",
+    "exactEvidenceSummary": "\"claimsAnchored\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l21",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l32",
+      "mem-ui-src-data-v2-mark-lane-ts-l139",
+      "mem-ui-src-data-v2-mark-lane-ts-l150"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00085",
+      "raw-mark-lane-00096",
+      "raw-mark-lane-00374",
+      "raw-mark-lane-00385"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:21",
+      "memory/candidates/mark-lane/v2-issues.yaml:32",
+      "ui/src/data/v2/mark-lane.ts:139",
+      "ui/src/data/v2/mark-lane.ts:150"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00044",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:25",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"tier\": \"primary\",",
+    "exactEvidenceSummary": "\"tier\": \"primary\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l25",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l36",
+      "mem-ui-src-data-v2-mark-lane-ts-l134",
+      "mem-ui-src-data-v2-mark-lane-ts-l145"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00089",
+      "raw-mark-lane-00100",
+      "raw-mark-lane-00369",
+      "raw-mark-lane-00380"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:25",
+      "memory/candidates/mark-lane/v2-issues.yaml:36",
+      "ui/src/data/v2/mark-lane.ts:134",
+      "ui/src/data/v2/mark-lane.ts:145"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00049",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:147",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"title\": \"Marcus Mark Lane Appointment of Treasurer\",",
+    "exactEvidenceSummary": "\"title\": \"Marcus Mark Lane Appointment of Treasurer\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l38",
+      "mem-ui-src-data-v2-mark-lane-ts-l147"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00102",
+      "raw-mark-lane-00382"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:38",
+      "ui/src/data/v2/mark-lane.ts:147"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00053",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:45",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"stated\": {",
+    "exactEvidenceSummary": "\"stated\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l45",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l68",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l91",
+      "mem-ui-src-data-v2-mark-lane-ts-l21",
+      "mem-ui-src-data-v2-mark-lane-ts-l55",
+      "mem-ui-src-data-v2-mark-lane-ts-l89"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00109",
+      "raw-mark-lane-00132",
+      "raw-mark-lane-00155",
+      "raw-mark-lane-00256",
+      "raw-mark-lane-00290",
+      "raw-mark-lane-00324"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:45",
+      "memory/candidates/mark-lane/v2-issues.yaml:68",
+      "memory/candidates/mark-lane/v2-issues.yaml:91",
+      "ui/src/data/v2/mark-lane.ts:21",
+      "ui/src/data/v2/mark-lane.ts:55",
+      "ui/src/data/v2/mark-lane.ts:89"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00058",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:52",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"actions\": [",
+    "exactEvidenceSummary": "\"actions\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l52",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l75",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l98",
+      "mem-ui-src-data-v2-mark-lane-ts-l28",
+      "mem-ui-src-data-v2-mark-lane-ts-l62",
+      "mem-ui-src-data-v2-mark-lane-ts-l96"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00116",
+      "raw-mark-lane-00139",
+      "raw-mark-lane-00162",
+      "raw-mark-lane-00263",
+      "raw-mark-lane-00297",
+      "raw-mark-lane-00331"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:52",
+      "memory/candidates/mark-lane/v2-issues.yaml:75",
+      "memory/candidates/mark-lane/v2-issues.yaml:98",
+      "ui/src/data/v2/mark-lane.ts:28",
+      "ui/src/data/v2/mark-lane.ts:62",
+      "ui/src/data/v2/mark-lane.ts:96"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00060",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:55",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"date\": \"2026-05-20\",",
+    "exactEvidenceSummary": "\"date\": \"2026-05-20\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l55",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l78",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l101",
+      "mem-ui-src-data-v2-mark-lane-ts-l31",
+      "mem-ui-src-data-v2-mark-lane-ts-l65",
+      "mem-ui-src-data-v2-mark-lane-ts-l99"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00119",
+      "raw-mark-lane-00142",
+      "raw-mark-lane-00165",
+      "raw-mark-lane-00266",
+      "raw-mark-lane-00300",
+      "raw-mark-lane-00334"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:55",
+      "memory/candidates/mark-lane/v2-issues.yaml:78",
+      "memory/candidates/mark-lane/v2-issues.yaml:101",
+      "ui/src/data/v2/mark-lane.ts:31",
+      "ui/src/data/v2/mark-lane.ts:65",
+      "ui/src/data/v2/mark-lane.ts:99"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00064",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:67",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"title\": \"Where they stand on big issues\",",
+    "exactEvidenceSummary": "\"title\": \"Where they stand on big issues\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l67",
+      "mem-ui-src-data-v2-mark-lane-ts-l54"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00131",
+      "raw-mark-lane-00289"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:67",
+      "ui/src/data/v2/mark-lane.ts:54"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00073",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:112",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"campaign_finance\": {",
+    "exactEvidenceSummary": "\"campaign_finance\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l112"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00176"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:112"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00074",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:113",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"totalRaised\": \"Not itemized in the reviewed public records for this pass\",",
+    "exactEvidenceSummary": "\"totalRaised\": \"Not itemized in the reviewed public records for this pass\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l113",
+      "mem-ui-src-data-v2-mark-lane-ts-l124"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00177",
+      "raw-mark-lane-00359"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:113",
+      "ui/src/data/v2/mark-lane.ts:124"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00076",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:115",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"donors\": [],",
+    "exactEvidenceSummary": "\"donors\": [],",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l115",
+      "mem-ui-src-data-v2-mark-lane-ts-l126"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00179",
+      "raw-mark-lane-00361"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:115",
+      "ui/src/data/v2/mark-lane.ts:126"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00077",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:116",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"reportingPeriod\": \"Most recent public record reviewed\",",
+    "exactEvidenceSummary": "\"reportingPeriod\": \"Most recent public record reviewed\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l116",
+      "mem-ui-src-data-v2-mark-lane-ts-l127"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00180",
+      "raw-mark-lane-00362"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:116",
+      "ui/src/data/v2/mark-lane.ts:127"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00079",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:122",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"editorial_notes\": [",
+    "exactEvidenceSummary": "\"editorial_notes\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l122"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00186"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:122"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00086",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:93",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"charlotte-ohara\",",
+    "exactEvidenceSummary": "\"charlotte-ohara\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l93"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00195"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:93"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00093",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:100",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"mark-lane\",",
+    "exactEvidenceSummary": "\"mark-lane\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l100"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00202"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:100"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00096",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:104",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "description:",
+    "exactEvidenceSummary": "description:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l104",
+      "mem-ui-src-data-elections-ts-l123"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00206",
+      "raw-mark-lane-00225"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:104",
+      "ui/src/data/elections.ts:123"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00098",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:106",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "plainEnglish:",
+    "exactEvidenceSummary": "plainEnglish:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l106",
+      "mem-ui-src-data-elections-ts-l125"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00208",
+      "raw-mark-lane-00227"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:106",
+      "ui/src/data/elections.ts:125"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00100",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:108",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "whyItMatters:",
+    "exactEvidenceSummary": "whyItMatters:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l108",
+      "mem-ui-src-data-elections-ts-l127"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00210",
+      "raw-mark-lane-00229"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:108",
+      "ui/src/data/elections.ts:127"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00102",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:110",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "jobDescription:",
+    "exactEvidenceSummary": "jobDescription:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l110",
+      "mem-ui-src-data-elections-ts-l129"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00212",
+      "raw-mark-lane-00231"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:110",
+      "ui/src/data/elections.ts:129"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00104",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:114",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "slug: \"kansas-ag-2026\",",
+    "exactEvidenceSummary": "slug: \"kansas-ag-2026\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l114"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00216"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:114"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00105",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:115",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "name: \"Kansas Attorney General\",",
+    "exactEvidenceSummary": "name: \"Kansas Attorney General\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l115"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00217"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:115"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00106",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:116",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "level: \"State\",",
+    "exactEvidenceSummary": "level: \"State\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l116",
+      "mem-ui-src-data-elections-ts-l135"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00218",
+      "raw-mark-lane-00237"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:116",
+      "ui/src/data/elections.ts:135"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00107",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:117",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "date: \"2026-11-03\",",
+    "exactEvidenceSummary": "date: \"2026-11-03\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l117"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00219"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:117"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00108",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:118",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "jurisdiction: \"State of Kansas\",",
+    "exactEvidenceSummary": "jurisdiction: \"State of Kansas\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l118"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00220"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:118"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00109",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:119",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "seats: 1,",
+    "exactEvidenceSummary": "seats: 1,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l119"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00221"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:119"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00111",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:121",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateCount: 2,",
+    "exactEvidenceSummary": "candidateCount: 2,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l121"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00223"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:121"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00117",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:133",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "slug: \"kansas-sos-2026\",",
+    "exactEvidenceSummary": "slug: \"kansas-sos-2026\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l133"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00235"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:133"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00118",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:134",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "name: \"Kansas Secretary of State\",",
+    "exactEvidenceSummary": "name: \"Kansas Secretary of State\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l134"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00236"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:134"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00119",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+    "exactEvidenceSummary": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l1"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00238"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:1"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00120",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:2",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "To refresh:",
+    "exactEvidenceSummary": "* To refresh:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l2"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00239"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:2"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00121",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "node scripts/hydrate-v2-social-signals.mjs",
+    "exactEvidenceSummary": "* node scripts/hydrate-v2-social-signals.mjs",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l3"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00240"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:3"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00122",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:6",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+    "exactEvidenceSummary": "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l6"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00242"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:6"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00123",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:7",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "import { validateCandidateV2 } from \"@/data/types-v2\";",
+    "exactEvidenceSummary": "import { validateCandidateV2 } from \"@/data/types-v2\";",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l7"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00243"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:7"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00124",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:9",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "export const MARK_LANE_V2: CandidateFullV2 = {",
+    "exactEvidenceSummary": "export const MARK_LANE_V2: CandidateFullV2 = {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l9"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00244"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:9"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00126",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:42",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "campaign statement",
+    "issueMappedTo": [],
+    "claim": "\"platform\": \"Public web\",",
+    "exactEvidenceSummary": "\"platform\": \"Public web\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l42",
+      "mem-ui-src-data-v2-mark-lane-ts-l76",
+      "mem-ui-src-data-v2-mark-lane-ts-l110"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00277",
+      "raw-mark-lane-00311",
+      "raw-mark-lane-00345"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:42",
+      "ui/src/data/v2/mark-lane.ts:76",
+      "ui/src/data/v2/mark-lane.ts:110"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00128",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:44",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"observedAt\": \"2026-05-19\",",
+    "exactEvidenceSummary": "\"observedAt\": \"2026-05-19\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l44",
+      "mem-ui-src-data-v2-mark-lane-ts-l78",
+      "mem-ui-src-data-v2-mark-lane-ts-l112"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00279",
+      "raw-mark-lane-00313",
+      "raw-mark-lane-00347"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:44",
+      "ui/src/data/v2/mark-lane.ts:78",
+      "ui/src/data/v2/mark-lane.ts:112"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00131",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:82",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"mappedToIssueId\": \"i-public-issue-record\"",
+    "exactEvidenceSummary": "\"mappedToIssueId\": \"i-public-issue-record\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l82"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00317"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:82"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00134",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:123",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"campaignFinance\": {",
+    "exactEvidenceSummary": "\"campaignFinance\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l123"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00358"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:123"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00136",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:157",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "if (process.env.NODE_ENV !== \"production\") {",
+    "exactEvidenceSummary": "if (process.env.NODE_ENV !== \"production\") {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l157"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00391"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:157"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00137",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:158",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "const result = validateCandidateV2(MARK_LANE_V2);",
+    "exactEvidenceSummary": "const result = validateCandidateV2(MARK_LANE_V2);",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l158"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00392"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:158"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00138",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:159",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "if (!result.ok) {",
+    "exactEvidenceSummary": "if (!result.ok) {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l159"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00393"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:159"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00139",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:160",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "// eslint-disable-next-line no-console",
+    "exactEvidenceSummary": "// eslint-disable-next-line no-console",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l160"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00394"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:160"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00140",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:161",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "console.error(",
+    "exactEvidenceSummary": "console.error(",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l161"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00395"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:161"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00141",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:162",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"[mark-lane.ts] validateCandidateV2 FAILED:\\n\" +",
+    "exactEvidenceSummary": "\"[mark-lane.ts] validateCandidateV2 FAILED:\\n\" +",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l162"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00396"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:162"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00142",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:163",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "result.errors.join(\"\\n\"),",
+    "exactEvidenceSummary": "result.errors.join(\"\\n\"),",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l163"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00397"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:163"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00009",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/social-harvest.md:14",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10
+    ],
+    "claim": "Election grouping: kansas-governor-2026",
+    "exactEvidenceSummary": "- Election grouping: kansas-governor-2026",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-in-their-own-words-md-l14",
+      "mem-memory-candidates-mark-lane-raw-dump-v2-md-l14",
+      "mem-memory-candidates-mark-lane-sleuth-pass-md-l14",
+      "mem-memory-candidates-mark-lane-social-harvest-md-l14"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00009",
+      "raw-mark-lane-00025",
+      "raw-mark-lane-00041",
+      "raw-mark-lane-00057"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/in-their-own-words.md:14",
+      "memory/candidates/mark-lane/raw-dump-v2.md:14",
+      "memory/candidates/mark-lane/sleuth-pass.md:14",
+      "memory/candidates/mark-lane/social-harvest.md:14"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00003",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/social-harvest.md:4",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Agent: codex candidate-completeness generator",
+    "exactEvidenceSummary": "Agent: codex candidate-completeness generator",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-in-their-own-words-md-l4",
+      "mem-memory-candidates-mark-lane-raw-dump-v2-md-l4",
+      "mem-memory-candidates-mark-lane-sleuth-pass-md-l4",
+      "mem-memory-candidates-mark-lane-social-harvest-md-l4",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l4"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00003",
+      "raw-mark-lane-00019",
+      "raw-mark-lane-00035",
+      "raw-mark-lane-00051",
+      "raw-mark-lane-00068"
+    ],
+    "duplicateCount": 5,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/in-their-own-words.md:4",
+      "memory/candidates/mark-lane/raw-dump-v2.md:4",
+      "memory/candidates/mark-lane/sleuth-pass.md:4",
+      "memory/candidates/mark-lane/social-harvest.md:4",
+      "memory/candidates/mark-lane/v2-issues.yaml:4"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00008",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/social-harvest.md:13",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Position: Kansas Governor campaign-finance account holder",
+    "exactEvidenceSummary": "- Position: Kansas Governor campaign-finance account holder",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-in-their-own-words-md-l13",
+      "mem-memory-candidates-mark-lane-raw-dump-v2-md-l13",
+      "mem-memory-candidates-mark-lane-sleuth-pass-md-l13",
+      "mem-memory-candidates-mark-lane-social-harvest-md-l13",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l9",
+      "mem-ui-src-data-v2-mark-lane-ts-l13"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00008",
+      "raw-mark-lane-00024",
+      "raw-mark-lane-00040",
+      "raw-mark-lane-00056",
+      "raw-mark-lane-00073",
+      "raw-mark-lane-00248"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/in-their-own-words.md:13",
+      "memory/candidates/mark-lane/raw-dump-v2.md:13",
+      "memory/candidates/mark-lane/sleuth-pass.md:13",
+      "memory/candidates/mark-lane/social-harvest.md:13",
+      "memory/candidates/mark-lane/v2-issues.yaml:9",
+      "ui/src/data/v2/mark-lane.ts:13"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00024",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/social-harvest.md:15",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Incumbent: no",
+    "exactEvidenceSummary": "- Incumbent: no",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-social-harvest-md-l15"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00058"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/social-harvest.md:15"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00026",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/social-harvest.md:23",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Source handling",
+    "exactEvidenceSummary": "## Source handling",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-social-harvest-md-l23"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00063"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/social-harvest.md:23"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00010",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/in-their-own-words.md:15",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Incumbent: no",
+    "exactEvidenceSummary": "- Incumbent: no",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-in-their-own-words-md-l15",
+      "mem-memory-candidates-mark-lane-raw-dump-v2-md-l15",
+      "mem-memory-candidates-mark-lane-sleuth-pass-md-l15"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00010",
+      "raw-mark-lane-00026",
+      "raw-mark-lane-00042"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/in-their-own-words.md:15",
+      "memory/candidates/mark-lane/raw-dump-v2.md:15",
+      "memory/candidates/mark-lane/sleuth-pass.md:15"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00051",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:43",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"id\": \"i-ballot-status\",",
+    "exactEvidenceSummary": "\"id\": \"i-ballot-status\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l43",
+      "mem-ui-src-data-v2-mark-lane-ts-l19"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00107",
+      "raw-mark-lane-00254"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:43",
+      "ui/src/data/v2/mark-lane.ts:19"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00043",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:24",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"s-kpdc-statewide\",",
+    "exactEvidenceSummary": "\"id\": \"s-kpdc-statewide\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l24",
+      "mem-ui-src-data-v2-mark-lane-ts-l133"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00088",
+      "raw-mark-lane-00368"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:24",
+      "ui/src/data/v2/mark-lane.ts:133"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00048",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:35",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"s-kpdc-at\",",
+    "exactEvidenceSummary": "\"id\": \"s-kpdc-at\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l35",
+      "mem-ui-src-data-v2-mark-lane-ts-l144"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00099",
+      "raw-mark-lane-00379"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:35",
+      "ui/src/data/v2/mark-lane.ts:144"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00068",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:89",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"i-donor-funding\",",
+    "exactEvidenceSummary": "\"id\": \"i-donor-funding\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l89",
+      "mem-ui-src-data-v2-mark-lane-ts-l87"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00153",
+      "raw-mark-lane-00322"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:89",
+      "ui/src/data/v2/mark-lane.ts:87"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00114",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:126",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "meeting record",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"The attorney general is Kansas's top lawyer and one of its most visible statewide offices. Kris Kobach is the incumbent, and Chris Mann is the main challenger on the board right now.\",",
+    "exactEvidenceSummary": "\"The attorney general is Kansas's top lawyer and one of its most visible statewide offices. Kris Kobach is the incumbent, and Chris Mann is the main challenger on the board right now.\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l126"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00228"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:126"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00015",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/in-their-own-words.md:23",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Source handling",
+    "exactEvidenceSummary": "## Source handling",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-in-their-own-words-md-l23",
+      "mem-memory-candidates-mark-lane-raw-dump-v2-md-l23",
+      "mem-memory-candidates-mark-lane-sleuth-pass-md-l23"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00015",
+      "raw-mark-lane-00031",
+      "raw-mark-lane-00047"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/in-their-own-words.md:23",
+      "memory/candidates/mark-lane/raw-dump-v2.md:23",
+      "memory/candidates/mark-lane/sleuth-pass.md:23"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00050",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:41",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"issues\": [",
+    "exactEvidenceSummary": "\"issues\": [",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l41",
+      "mem-ui-src-data-v2-mark-lane-ts-l17"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00105",
+      "raw-mark-lane-00252"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:41",
+      "ui/src/data/v2/mark-lane.ts:17"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00055",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:47",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sourceIds\": [",
+    "exactEvidenceSummary": "\"sourceIds\": [",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l47",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l57",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l70",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l80",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l93",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l103",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l118",
+      "mem-ui-src-data-v2-mark-lane-ts-l23",
+      "mem-ui-src-data-v2-mark-lane-ts-l33",
+      "mem-ui-src-data-v2-mark-lane-ts-l45",
+      "mem-ui-src-data-v2-mark-lane-ts-l57",
+      "mem-ui-src-data-v2-mark-lane-ts-l67",
+      "mem-ui-src-data-v2-mark-lane-ts-l79",
+      "mem-ui-src-data-v2-mark-lane-ts-l91",
+      "mem-ui-src-data-v2-mark-lane-ts-l101",
+      "mem-ui-src-data-v2-mark-lane-ts-l113"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00111",
+      "raw-mark-lane-00121",
+      "raw-mark-lane-00134",
+      "raw-mark-lane-00144",
+      "raw-mark-lane-00157",
+      "raw-mark-lane-00167",
+      "raw-mark-lane-00182",
+      "raw-mark-lane-00258",
+      "raw-mark-lane-00268",
+      "raw-mark-lane-00280",
+      "raw-mark-lane-00292",
+      "raw-mark-lane-00302",
+      "raw-mark-lane-00314",
+      "raw-mark-lane-00326",
+      "raw-mark-lane-00336",
+      "raw-mark-lane-00348"
+    ],
+    "duplicateCount": 16,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:47",
+      "memory/candidates/mark-lane/v2-issues.yaml:57",
+      "memory/candidates/mark-lane/v2-issues.yaml:70",
+      "memory/candidates/mark-lane/v2-issues.yaml:80",
+      "memory/candidates/mark-lane/v2-issues.yaml:93",
+      "memory/candidates/mark-lane/v2-issues.yaml:103",
+      "memory/candidates/mark-lane/v2-issues.yaml:118",
+      "ui/src/data/v2/mark-lane.ts:23",
+      "ui/src/data/v2/mark-lane.ts:33",
+      "ui/src/data/v2/mark-lane.ts:45",
+      "ui/src/data/v2/mark-lane.ts:57",
+      "ui/src/data/v2/mark-lane.ts:67",
+      "ui/src/data/v2/mark-lane.ts:79",
+      "ui/src/data/v2/mark-lane.ts:91",
+      "ui/src/data/v2/mark-lane.ts:101",
+      "ui/src/data/v2/mark-lane.ts:113"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00059",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:54",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-record-appearance\",",
+    "exactEvidenceSummary": "\"id\": \"a-record-appearance\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l54",
+      "mem-ui-src-data-v2-mark-lane-ts-l30"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00118",
+      "raw-mark-lane-00265"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:54",
+      "ui/src/data/v2/mark-lane.ts:30"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00062",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:63",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"socialSignals\": []",
+    "exactEvidenceSummary": "\"socialSignals\": []",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l63",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l86",
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l109",
+      "mem-ui-src-data-v2-mark-lane-ts-l39",
+      "mem-ui-src-data-v2-mark-lane-ts-l73",
+      "mem-ui-src-data-v2-mark-lane-ts-l107"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00127",
+      "raw-mark-lane-00150",
+      "raw-mark-lane-00173",
+      "raw-mark-lane-00274",
+      "raw-mark-lane-00308",
+      "raw-mark-lane-00342"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:63",
+      "memory/candidates/mark-lane/v2-issues.yaml:86",
+      "memory/candidates/mark-lane/v2-issues.yaml:109",
+      "ui/src/data/v2/mark-lane.ts:39",
+      "ui/src/data/v2/mark-lane.ts:73",
+      "ui/src/data/v2/mark-lane.ts:107"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00063",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:66",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"i-public-issue-record\",",
+    "exactEvidenceSummary": "\"id\": \"i-public-issue-record\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l66",
+      "mem-ui-src-data-v2-mark-lane-ts-l53"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00130",
+      "raw-mark-lane-00288"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:66",
+      "ui/src/data/v2/mark-lane.ts:53"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00066",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:77",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "campaign statement",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-platform-gap\",",
+    "exactEvidenceSummary": "\"id\": \"a-platform-gap\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l77",
+      "mem-ui-src-data-v2-mark-lane-ts-l64"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00141",
+      "raw-mark-lane-00299"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:77",
+      "ui/src/data/v2/mark-lane.ts:64"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00071",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/mark-lane/v2-issues.yaml:100",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-finance-record\",",
+    "exactEvidenceSummary": "\"id\": \"a-finance-record\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-mark-lane-v2-issues-yaml-l100",
+      "mem-ui-src-data-v2-mark-lane-ts-l98"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00164",
+      "raw-mark-lane-00333"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/mark-lane/v2-issues.yaml:100",
+      "ui/src/data/v2/mark-lane.ts:98"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00083",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:90",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"ty-masterson\",",
+    "exactEvidenceSummary": "\"ty-masterson\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l90"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00192"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:90"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00084",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:91",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"jeff-colyer\",",
+    "exactEvidenceSummary": "\"jeff-colyer\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l91"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00193"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:91"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00085",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:92",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"philip-sarnecki\",",
+    "exactEvidenceSummary": "\"philip-sarnecki\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l92"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00194"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:92"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00087",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:94",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"stacy-rogers\",",
+    "exactEvidenceSummary": "\"stacy-rogers\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l94"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00196"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:94"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00088",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:95",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"brandon-adams\",",
+    "exactEvidenceSummary": "\"brandon-adams\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l95"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00197"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:95"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00089",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:96",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"doug-billings\",",
+    "exactEvidenceSummary": "\"doug-billings\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l96"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00198"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:96"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00090",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:97",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"joy-eakins\",",
+    "exactEvidenceSummary": "\"joy-eakins\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l97"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00199"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:97"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00091",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:98",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"ethan-corson\",",
+    "exactEvidenceSummary": "\"ethan-corson\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l98"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00200"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:98"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00092",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:99",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"cindy-holscher\",",
+    "exactEvidenceSummary": "\"cindy-holscher\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l99"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00201"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:99"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00094",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:101",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"marty-tuley\",",
+    "exactEvidenceSummary": "\"marty-tuley\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l101"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00203"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:101"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00095",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:102",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sharilyn-ray\",",
+    "exactEvidenceSummary": "\"sharilyn-ray\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l102"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00204"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:102"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00112",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:122",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateSlugs: [\"kris-kobach\", \"chris-mann\"],",
+    "exactEvidenceSummary": "candidateSlugs: [\"kris-kobach\", \"chris-mann\"],",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l122"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00224"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:122"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00113",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/elections.ts:124",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"Kris Kobach is seeking another term as attorney general while Chris Mann runs as the Democratic challenger.\",",
+    "exactEvidenceSummary": "\"Kris Kobach is seeking another term as attorney general while Chris Mann runs as the Democratic challenger.\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l124"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00226"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:124"
+    ]
+  },
+  {
+    "id": "em-mark-lane-00125",
+    "candidateSlug": "mark-lane",
+    "candidateName": "Mark Lane",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "ui/src/data/v2/mark-lane.ts:41",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"ss-crossref-1\",",
+    "exactEvidenceSummary": "\"id\": \"ss-crossref-1\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-mark-lane-ts-l41",
+      "mem-ui-src-data-v2-mark-lane-ts-l75",
+      "mem-ui-src-data-v2-mark-lane-ts-l109"
+    ],
+    "rawRowIds": [
+      "raw-mark-lane-00276",
+      "raw-mark-lane-00310",
+      "raw-mark-lane-00344"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/mark-lane.ts:41",
+      "ui/src/data/v2/mark-lane.ts:75",
+      "ui/src/data/v2/mark-lane.ts:109"
+    ]
+  }
+]

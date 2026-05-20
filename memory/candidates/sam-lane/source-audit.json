@@ -1,0 +1,3358 @@
+{
+  "candidateSlug": "sam-lane",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 101,
+  "sources": [
+    {
+      "sourceId": "src-sam-lane-0001",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/sb244/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:184",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-sam-lane-00141",
+        "em-sam-lane-00652",
+        "em-sam-lane-00242"
+      ],
+      "claimsAnchored": [
+        "Official cross-check: Kansas Legislature SB 244 page says House Substitute for SB 244 requires sex-designated multi-occupancy private spaces in public buildings, defines gender as biological sex at birth for statutory construction, and directs driver-license a",
+        "Kansas Legislature SB 244 page says the bill defines gender as biological sex at birth for statutory construction, directs driver-license and birth-certificate correction/reissuance when necessary, and had a veto override. Source: https://www.kslegislature.gov",
+        "Kansas Legislature SB 244: https://www.kslegislature.gov/li/b2025_26/measures/sb244/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0002",
+      "url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:519",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00520"
+      ],
+      "claimsAnchored": [
+        "[Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0003",
+      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
+      "sourceFile": "memory/candidates/sam-lane/sleuth-pass.md:12",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-sam-lane-00615",
+        "em-sam-lane-00228",
+        "em-sam-lane-00679"
+      ],
+      "claimsAnchored": [
+        "Kansas Secretary of State candidate-information pages say state and statewide candidates file with the Secretary of State, and that a candidate is not considered filed until the petition or declaration and fee are received. The primary filing deadline is noon ",
+        "Kansas SOS candidate information: https://www.sos.ks.gov/elections/candidate-information.html",
+        "Kansas Secretary of State candidate information: https://www.sos.ks.gov/elections/candidate-information.html"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0004",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/sb4/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:175",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-sam-lane-00134",
+        "em-sam-lane-00632",
+        "em-sam-lane-00241"
+      ],
+      "claimsAnchored": [
+        "Official cross-check: Kansas Legislature SB 4 says it requires return of advance voting ballots by 7:00 p.m. on election day and was veto-overridden. Source: https://www.kslegislature.gov/li/b2025_26/measures/sb4/",
+        "Kansas Legislature SB 4 page says it requires return of advance voting ballots by 7:00 p.m. on election day and was veto-overridden. Source: https://www.kslegislature.gov/li/b2025_26/measures/sb4/",
+        "Kansas Legislature SB 4: https://www.kslegislature.gov/li/b2025_26/measures/sb4/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0005",
+      "url": "https://sos.ks.gov/media/press-releases/2026/05-01-26-one-month-countdown-until-candidate-filing-deadline.html",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:309",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-sam-lane-00229",
+        "em-sam-lane-00680",
+        "em-sam-lane-00024",
+        "em-sam-lane-00846"
+      ],
+      "claimsAnchored": [
+        "Kansas SOS filing-deadline press release: https://sos.ks.gov/media/press-releases/2026/05-01-26-one-month-countdown-until-candidate-filing-deadline.html",
+        "Kansas Secretary of State 2026 filing-deadline press release: https://sos.ks.gov/media/press-releases/2026/05-01-26-one-month-countdown-until-candidate-filing-deadline.html"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0006",
+      "url": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:310",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-sam-lane-00230",
+        "em-sam-lane-00681"
+      ],
+      "claimsAnchored": [
+        "Kansas SOS candidate list attempted: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+        "Kansas SOS live candidate list attempted: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0007",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:26",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 6,
+      "rowIds": [
+        "em-sam-lane-00264",
+        "em-sam-lane-00265",
+        "em-sam-lane-00605",
+        "em-sam-lane-00618",
+        "em-sam-lane-00232",
+        "em-sam-lane-00683"
+      ],
+      "claimsAnchored": [
+        "Kansas Ethics filing index: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
+        "2026 filing PDF: [state filing PDF referenced in SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
+        "[SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
+        "Kansas Public Disclosure Commission / Kansas.gov statewide-office index lists \"Lane, Samuel\" under Secretary of State candidates and links his Appointment of Treasurer and 202601 receipts-and-expenditures report. The index says it was last updated January 22, ",
+        "KPDC statewide-office 2026 index: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+        "KPDC statewide-office index: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0008",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04SL_202601.pdf",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:572",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 6,
+      "rowIds": [
+        "em-sam-lane-00271",
+        "em-sam-lane-00609",
+        "em-sam-lane-00873",
+        "em-sam-lane-00233",
+        "em-sam-lane-00662",
+        "em-sam-lane-00052"
+      ],
+      "claimsAnchored": [
+        "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04SL_202601.pdf",
+        "[State of Kansas](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04SL_202601.pdf)",
+        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04SL_202601.pdf\",",
+        "KPDC Samuel Lane 202601 report: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04SL_202601.pdf",
+        "KPDC 202601 report for Samuel Lane covers January 1, 2025 through December 31, 2025, was electronically filed January 10, 2026, and lists total contributions/receipts of $590.91, total expenditures of $0.00, and cash on hand of $590.91. Source: https://www.kan"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0009",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/hb2438/",
+      "sourceFile": "memory/candidates/sam-lane/sleuth-pass.md:34",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record",
+        "campaign statement",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-sam-lane-00631",
+        "em-sam-lane-00130",
+        "em-sam-lane-00240"
+      ],
+      "claimsAnchored": [
+        "Kansas Legislature HB 2438 page describes the bill as imposing restrictions on websites that can accept and transmit voter-registration applications. Source: https://www.kslegislature.gov/li/b2025_26/measures/hb2438/",
+        "Official cross-check: Kansas Legislature HB 2438 short title says it imposes restrictions on websites that can accept and transmit voter-registration applications. Source: https://www.kslegislature.gov/li/b2025_26/measures/hb2438/",
+        "Kansas Legislature HB 2438: https://www.kslegislature.gov/li/b2025_26/measures/hb2438/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0010",
+      "url": "https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW04SL_AT.pdf",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:314",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-sam-lane-00234",
+        "em-sam-lane-00665",
+        "em-sam-lane-00684"
+      ],
+      "claimsAnchored": [
+        "KPDC Samuel Lane Appointment of Treasurer: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW04SL_AT.pdf",
+        "Appointment of Treasurer form is linked from the KPDC statewide-office index; web text extraction did not return useful OCR, but the link itself is official and matches the statewide-office index row. Source: https://kansas.gov/ethics/CFAScanned/StWide/2026Ele",
+        "KPDC Samuel Lane Appointment of Treasurer PDF: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW04SL_AT.pdf"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0011",
+      "url": "https://www.kdor.ks.gov/Apps/VoterReg/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:445",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-sam-lane-00462",
+        "em-sam-lane-00607"
+      ],
+      "claimsAnchored": [
+        "Registration deadline: Check with the Ellis County Clerk's office or visit https://www.kdor.ks.gov/Apps/VoterReg/",
+        "[kdor.ks.gov](https://www.kdor.ks.gov/Apps/VoterReg/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0012",
+      "url": "https://www.samuellane.org/my-other-views",
+      "sourceFile": "memory/candidates/sam-lane/sleuth-pass.md:71",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-sam-lane-00655",
+        "em-sam-lane-01300",
+        "em-sam-lane-00659",
+        "em-sam-lane-00239"
+      ],
+      "claimsAnchored": [
+        "Campaign \"My Other Views\" page says Lane does not like to dwell on personal feelings about abortion, calls abortion policy the less complicated part for him, and criticizes abortion bans for their effect on medical practice. Source: https://www.samuellane.org/",
+        "\"observation\": \"Campaign \\\"My Other Views\\\" page says Lane does not like to dwell on personal feelings about abortion, calls abortion policy the less complicated part for him, and criticizes abortion bans for their effect on medical practice. Source: https://w",
+        "Campaign \"My Other Views\" page says that when he says he loves civil liberties, he does not make an exception for gun rights. It also says that if he were running for a lawmaker office, he would be \"alright with some basic gun control legislation\" such as clos",
+        "Campaign other views: https://www.samuellane.org/my-other-views"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0013",
+      "url": "https://www.samuellane.org/what-does-the-secretary-of-state-do",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:20",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat",
+        "source-only"
+      ],
+      "rowCount": 9,
+      "rowIds": [
+        "em-sam-lane-00261",
+        "em-sam-lane-00629",
+        "em-sam-lane-00238",
+        "em-sam-lane-00566",
+        "em-sam-lane-00603",
+        "em-sam-lane-00685",
+        "em-sam-lane-01206",
+        "em-sam-lane-00741",
+        "em-sam-lane-00604"
+      ],
+      "claimsAnchored": [
+        "\"what does the secretary of state do\" - campaign explainer page, 2026-04-01, https://www.samuellane.org/what-does-the-secretary-of-state-do - topic: civic education.",
+        "Secretary-of-state explainer says the office handles administrative duties including business registration and legal publications, but emphasizes election oversight. Source: https://www.samuellane.org/what-does-the-secretary-of-state-do",
+        "Campaign SOS explainer: https://www.samuellane.org/what-does-the-secretary-of-state-do",
+        "\"In Kansas, the office of the Secretary of State has several duties.\" - campaign educational page, source: https://www.samuellane.org/what-does-the-secretary-of-state-do (accessed 2026-04-01)",
+        "> -- Samuel Lane campaign website, accessed April 1, 2026, https://www.samuellane.org/what-does-the-secretary-of-state-do",
+        "Campaign secretary-of-state explainer: https://www.samuellane.org/what-does-the-secretary-of-state-do",
+        "\"source\": \"Samuel Lane campaign website, accessed April 1, 2026, https://www.samuellane.org/what-does-the-secretary-of-state-do\",",
+        "Secretary-of-state explainer: Lane describes the office as mostly administrative, including business registration and legal records, but emphasizes its role overseeing elections; he says Kansas cannot allow voter suppression or voter fraud ([secretary-of-state",
+        "[samuellane.org](https://www.samuellane.org/what-does-the-secretary-of-state-do)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0014",
+      "url": "https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:518",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00519"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0015",
+      "url": "https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:520",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "meeting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00521"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Board races could shift power to conservative bloc](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0016",
+      "url": "https://www.samuellane.org/",
+      "sourceFile": "ui/src/data/candidates.ts:28493",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record",
+        "ballot status",
+        "social post"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 20,
+      "rowIds": [
+        "em-sam-lane-01211",
+        "em-sam-lane-00001",
+        "em-sam-lane-00095",
+        "em-sam-lane-00096",
+        "em-sam-lane-00235",
+        "em-sam-lane-00254",
+        "em-sam-lane-00259",
+        "em-sam-lane-00260",
+        "em-sam-lane-00564",
+        "em-sam-lane-00565",
+        "em-sam-lane-00567",
+        "em-sam-lane-00627",
+        "em-sam-lane-00628",
+        "em-sam-lane-00646",
+        "em-sam-lane-00711",
+        "em-sam-lane-00697",
+        "em-sam-lane-00712",
+        "em-sam-lane-00738",
+        "em-sam-lane-00739",
+        "em-sam-lane-00822"
+      ],
+      "claimsAnchored": [
+        "narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because K",
+        "Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a ",
+        "Campaign home footer independently states: \"Paid for by Samuel Lane for Kansas, Erika Ashley treasurer.\" Source: https://www.samuellane.org/",
+        "Candidate-controlled website: https://www.samuellane.org/",
+        "Campaign home: https://www.samuellane.org/",
+        "Campaign website: [samuellane.org](https://www.samuellane.org/)",
+        "\"I’m here to Hold the Line.\" - campaign site, 2026-04-01, https://www.samuellane.org/ - topic: campaign slogan.",
+        "\"We need honest people more than ever now.\" - campaign site, 2026-04-01, https://www.samuellane.org/ - topic: public trust.",
+        "\"I'm a lifelong Kansan and lifelong independent, but I'm throwing my hat in with the Democrats...\" - campaign launch language, source: https://www.samuellane.org/ (accessed 2026-04-01)",
+        "\"We need honest people more than ever now.\" - campaign language, source: https://www.samuellane.org/ (accessed 2026-04-01)",
+        "\"I can't fix this whole country by myself. But with your vote, I'll at least be able to safeguard Kansas.\" - campaign language, source: https://www.samuellane.org/ (accessed 2026-04-01)",
+        "Campaign home says Lane is running because the Kansas Secretary of State oversees elections, and that fair elections are necessary for a democratic republic. Source: https://www.samuellane.org/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0017",
+      "url": "https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:467",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00477"
+      ],
+      "claimsAnchored": [
+        "[Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0018",
+      "url": "https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:468",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00478"
+      ],
+      "claimsAnchored": [
+        "[PBS Wisconsin: $100M+ spending on 2025 race](https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0019",
+      "url": "https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:477",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00486"
+      ],
+      "claimsAnchored": [
+        "[CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0020",
+      "url": "https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:510",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00513"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas Insurance Commissioner 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0021",
+      "url": "https://www.jocoelection.org/candidates-elected-officials/samuel-lane",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:311",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat",
+        "reject"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-sam-lane-00231",
+        "em-sam-lane-00617",
+        "em-sam-lane-00682",
+        "em-sam-lane-00713",
+        "em-sam-lane-00037"
+      ],
+      "claimsAnchored": [
+        "Johnson County Election Office Samuel Lane: https://www.jocoelection.org/candidates-elected-officials/samuel-lane",
+        "Johnson County Election Office lists Samuel Lane as a non-incumbent, non-elected-official Democratic candidate from Shawnee for the August 4, 2026 primary, Office Level: State Offices; Office Jurisdiction/Position: Secretary of State; term 4 years, term end 20",
+        "Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/samuel-lane",
+        "Indexed validation sources confirm the candidate identity: [Johnson County Election Office](https://www.jocoelection.org/candidates-elected-officials/samuel-lane) lists Samuel Lane of Shawnee as a Democratic candidate for Kansas Secretary of State; [DASS](http"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0022",
+      "url": "https://www.samuellane.org/issues",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:316",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-sam-lane-00236",
+        "em-sam-lane-00630",
+        "em-sam-lane-00640",
+        "em-sam-lane-00645",
+        "em-sam-lane-00651"
+      ],
+      "claimsAnchored": [
+        "Campaign issues: https://www.samuellane.org/issues",
+        "Campaign issues page addresses voter fraud, voter suppression, HB 2438, mail-ballot deadlines, the SAVE Act / SAVE America Act, ballot-location security, and ballot-location closures. Source: https://www.samuellane.org/issues",
+        "Campaign issues page says the current system appears to work, but should be reviewed and maintained; it says he would seek \"a thorough and unbroken paper trail\" at every election site and refers to full logic and accuracy testing before ballots are processed. ",
+        "Campaign issues page says he wants unobtrusive security around ballot drop boxes, tactful plainclothes security at each ballot location, and a plan to protect people and paper ballots in case of a bomb threat. It also says Kansas counties pay for their own ele",
+        "Campaign issues page discusses Kansas SB 244 in the context of driver's-license sex markers and possible voter-registration documentation problems. Source: https://www.samuellane.org/issues"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0023",
+      "url": "https://www.samuellane.org/about-me",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:317",
+      "assignedTiers": [
+        "secondary",
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status",
+        "social post",
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "use-with-caveat",
+        "source-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-sam-lane-00237",
+        "em-sam-lane-00742",
+        "em-sam-lane-01186"
+      ],
+      "claimsAnchored": [
+        "Campaign about: https://www.samuellane.org/about-me",
+        "Biography page: Lane describes a working-class background, a University of Kansas psychology degree, construction inspection/material testing work, retail/shipping/food-service jobs, and time connected to Haskell Indian Nations University student groups and tr",
+        "\"campaignWebsite\": \"https://www.samuellane.org/about-me\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0024",
+      "url": "https://myvoteinfo.voteks.org/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:451",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use",
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-sam-lane-00465",
+        "em-sam-lane-00608"
+      ],
+      "claimsAnchored": [
+        "Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/",
+        "[myvoteinfo.voteks.org](https://myvoteinfo.voteks.org/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0025",
+      "url": "https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:458",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00468"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas Elections for Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0026",
+      "url": "https://kansasreflector.com/2025/08/07/rivals-launch-fight-over-kansas-constitutional-amendment-to-elect-supreme-court-justices/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:459",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00469"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Rivals launch fight over amendment](https://kansasreflector.com/2025/08/07/rivals-launch-fight-over-kansas-constitutional-amendment-to-elect-supreme-court-justices/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0027",
+      "url": "https://kansasreflector.com/2026/02/10/kansas-method-of-picking-supreme-court-justices-could-be-improved-but-will-an-amendment-do-that/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:460",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00470"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Method of picking justices could be improved](https://kansasreflector.com/2026/02/10/kansas-method-of-picking-supreme-court-justices-could-be-improved-but-will-an-amendment-do-that/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0028",
+      "url": "https://kansasreflector.com/2025/03/19/kansas-house-endorses-plan-to-elect-supreme-court-justices-placing-question-on-august-2026-ballot/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:461",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00471"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: House endorses plan](https://kansasreflector.com/2025/03/19/kansas-house-endorses-plan-to-elect-supreme-court-justices-placing-question-on-august-2026-ballot/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0029",
+      "url": "https://thebeaconnews.org/stories/2025/03/19/kansas-supreme-court-elections-voters-will-decide-in-2026/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:462",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00472"
+      ],
+      "claimsAnchored": [
+        "[The Beacon: Kansas Supreme Court elections?](https://thebeaconnews.org/stories/2025/03/19/kansas-supreme-court-elections-voters-will-decide-in-2026/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0030",
+      "url": "https://www.kcur.org/politics-elections-and-government/2026-01-26/kansas-lawmakers-want-to-reveal-more-about-the-people-picking-supreme-court-justices",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:463",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00473"
+      ],
+      "claimsAnchored": [
+        "[KCUR: Lawmakers want to reveal more about people picking justices](https://www.kcur.org/politics-elections-and-government/2026-01-26/kansas-lawmakers-want-to-reveal-more-about-the-people-picking-supreme-court-justices)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0031",
+      "url": "https://sunflowerstatejournal.com/judicial-amendment-campaign-shapes-up-outside-group-books-nearly-1-million-in-ads/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:464",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00474"
+      ],
+      "claimsAnchored": [
+        "[Sunflower State Journal: Outside group books nearly $1M in ads](https://sunflowerstatejournal.com/judicial-amendment-campaign-shapes-up-outside-group-books-nearly-1-million-in-ads/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0032",
+      "url": "https://www.npr.org/2025/04/01/nx-s1-5345862/wisconsin-supreme-court-crawford-schimel-election-results",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:469",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00479"
+      ],
+      "claimsAnchored": [
+        "[NPR: Trump and Musk backing wasn't enough to flip Wisconsin court](https://www.npr.org/2025/04/01/nx-s1-5345862/wisconsin-supreme-court-crawford-schimel-election-results)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0033",
+      "url": "https://www.kansasinformationnetwork.com/2026-Kansas-Constitutional-Amendment",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:470",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00480"
+      ],
+      "claimsAnchored": [
+        "[Kansas Information Network: 2026 Constitutional Amendment](https://www.kansasinformationnetwork.com/2026-Kansas-Constitutional-Amendment)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0034",
+      "url": "https://ballotpedia.org/Kansas_Citizenship_Voting_Requirement_Amendment_(2026",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:473",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00482"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas Citizenship Voting Requirement Amendment](https://ballotpedia.org/Kansas_Citizenship_Voting_Requirement_Amendment_(2026))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0035",
+      "url": "https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:474",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "voting record"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-sam-lane-00483",
+        "em-sam-lane-01230"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia News: Kansas voters will decide on citizenship amendment](https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/)",
+        "\"url\": \"https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0036",
+      "url": "https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:475",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00484"
+      ],
+      "claimsAnchored": [
+        "[NPR: Judge tosses Kansas proof-of-citizenship voter law](https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0037",
+      "url": "https://www.aclukansas.org/press-releases/resounding-victory-tens-thousands-disenfranchised-kansas-voters-supreme-court-refuses/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:476",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00485"
+      ],
+      "claimsAnchored": [
+        "[ACLU of Kansas: Supreme Court refuses proof-of-citizenship case](https://www.aclukansas.org/press-releases/resounding-victory-tens-thousands-disenfranchised-kansas-voters-supreme-court-refuses/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0038",
+      "url": "https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:479",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00488"
+      ],
+      "claimsAnchored": [
+        "[PBS: Kansas hopes to resurrect proof-of-citizenship law](https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0039",
+      "url": "https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:482",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00490"
+      ],
+      "claimsAnchored": [
+        "[KCUR: Kansas governor 2026 candidate guide](https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0040",
+      "url": "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:485",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00493"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas gubernatorial election 2026](https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0041",
+      "url": "https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:489",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00496"
+      ],
+      "claimsAnchored": [
+        "[KMUW: Democratic candidate opens arms to Kansas Republicans](https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0042",
+      "url": "https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:491",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00498"
+      ],
+      "claimsAnchored": [
+        "[Smart Politics: How well can Democrats fare?](https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0043",
+      "url": "https://kansasreflector.com/2025/07/30/kansas-election-for-attorney-general-in-2026-may-become-a-repeat-of-2022-showdown/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:499",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00504"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: AG race may repeat 2022 showdown](https://kansasreflector.com/2025/07/30/kansas-election-for-attorney-general-in-2026-may-become-a-repeat-of-2022-showdown/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0044",
+      "url": "https://ballotpedia.org/Kansas_Attorney_General_election,_2026",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:500",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00505"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas AG election 2026](https://ballotpedia.org/Kansas_Attorney_General_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0045",
+      "url": "https://ballotpedia.org/Kansas_Secretary_of_State_election,_2026",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:504",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-sam-lane-00508",
+        "em-sam-lane-01113"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: Kansas SOS election 2026](https://ballotpedia.org/Kansas_Secretary_of_State_election,_2026)",
+        "https://ballotpedia.org/Kansas_Secretary_of_State_election,_2026 -- Full election overview and candidate list -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0046",
+      "url": "https://kspress.com/news/2026/03/27/kansas-legislature-passes-package-of-elections-bills-that-alter-voting-processes",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:505",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00509"
+      ],
+      "claimsAnchored": [
+        "[Kansas Press Association: Legislature passes election bills](https://kspress.com/news/2026/03/27/kansas-legislature-passes-package-of-elections-bills-that-alter-voting-processes)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0047",
+      "url": "https://en.wikipedia.org/wiki/2026_Kansas_Secretary_of_State_election",
+      "sourceFile": "memory/elections/2026-11-03-kansas-secretary-of-state.md:32",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-01114"
+      ],
+      "claimsAnchored": [
+        "https://en.wikipedia.org/wiki/2026_Kansas_Secretary_of_State_election -- Wikipedia election page -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0048",
+      "url": "https://www.electjenday.com/",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:251",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-01123"
+      ],
+      "claimsAnchored": [
+        "[Elect Jen Day - Campaign Website](https://www.electjenday.com/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0049",
+      "url": "https://www.yahoo.com/news/articles/former-house-democrat-enters-kansas-100625382.html",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:253",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-01124"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector - Former House Democrat enters race](https://www.yahoo.com/news/articles/former-house-democrat-enters-kansas-100625382.html)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0050",
+      "url": "https://ballotpedia.org/Kansas_House_of_Representatives_District_111",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:514",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00516"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: KS House District 111](https://ballotpedia.org/Kansas_House_of_Representatives_District_111)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0051",
+      "url": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx`",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:37",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-sam-lane-00035",
+        "em-sam-lane-00616"
+      ],
+      "claimsAnchored": [
+        "Direct readback of the SOS live candidate list at https://sos.ks.gov/elections/elections_upcoming_candidate.aspx was blocked in this environment by JavaScript/robot verification in the text browser and by CloudFront 403 in curl. This prevents a direct official",
+        "The live Kansas SOS candidate-list endpoint could not be read directly in this environment: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx returned JavaScript/robot verification in the text browser and a CloudFront 403 by curl. Treat this as an"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0052",
+      "url": "https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:478",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00487"
+      ],
+      "claimsAnchored": [
+        "[Prism News: Kansas law blocked 31,000 eligible voters](https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0053",
+      "url": null,
+      "sourceFile": "memory/candidates/sam-lane/social-harvest.md:188",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social post",
+        "public absence",
+        "social follow"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 122,
+      "rowIds": [
+        "em-sam-lane-00815",
+        "em-sam-lane-00816",
+        "em-sam-lane-00735",
+        "em-sam-lane-00793",
+        "em-sam-lane-00796",
+        "em-sam-lane-00800",
+        "em-sam-lane-00818",
+        "em-sam-lane-00814",
+        "em-sam-lane-00733",
+        "em-sam-lane-00737",
+        "em-sam-lane-00736",
+        "em-sam-lane-00729",
+        "em-sam-lane-00734",
+        "em-sam-lane-00788",
+        "em-sam-lane-00789",
+        "em-sam-lane-00790",
+        "em-sam-lane-00792",
+        "em-sam-lane-00693",
+        "em-sam-lane-00714",
+        "em-sam-lane-00719",
+        "em-sam-lane-00725",
+        "em-sam-lane-00728",
+        "em-sam-lane-00744",
+        "em-sam-lane-00745",
+        "em-sam-lane-00753",
+        "em-sam-lane-00765",
+        "em-sam-lane-00771",
+        "em-sam-lane-00778",
+        "em-sam-lane-00779",
+        "em-sam-lane-00780",
+        "em-sam-lane-00783",
+        "em-sam-lane-00784",
+        "em-sam-lane-00786",
+        "em-sam-lane-00787",
+        "em-sam-lane-00699",
+        "em-sam-lane-00700",
+        "em-sam-lane-00701",
+        "em-sam-lane-00702",
+        "em-sam-lane-00704",
+        "em-sam-lane-00715",
+        "em-sam-lane-00768",
+        "em-sam-lane-00817",
+        "em-sam-lane-00820",
+        "em-sam-lane-00821",
+        "em-sam-lane-00690",
+        "em-sam-lane-00691",
+        "em-sam-lane-00692",
+        "em-sam-lane-00695",
+        "em-sam-lane-00696",
+        "em-sam-lane-00703"
+      ],
+      "claimsAnchored": [
+        "No candidate-controlled post taking a detailed position on abortion policy was found in the captured set; related content appears mainly through broader civil-liberties/authoritarianism frames and a DASS-style democracy frame.",
+        "No sustained platform plank was found on taxes, Medicaid, school finance, agriculture, guns, or abortion, beyond scattered social commentary.",
+        "LGBTQ / gender / pronouns / identity documents: 7",
+        "2025-11-08 - Asked why sex is listed on passports if it does not reliably identify people, especially people who do not conform to gender norms.",
+        "Topic: LGBTQ",
+        "2025-06-17 - Mocked gender-affirming-care bans with a joke about \"truck nuts.\"",
+        "No paid-ad library evidence was captured in this pass.",
+        "No church affiliation was found in candidate-controlled material reviewed.",
+        "Kansas local issues, schools, small business, weather, road safety, local candidates: 16",
+        "Economy, corporate power, health insurance, surveillance pricing, campaign finance: 11",
+        "Guns, policing, protest tactics, public safety: 8",
+        "Anti-authoritarian / Trump / due process / civil liberties / ICE: 45"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sam-lane-0054",
+      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mjbey3c4as2m",
+      "sourceFile": "memory/candidates/sam-lane/in-their-own-words.md:9",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-sam-lane-00005",
+        "em-sam-lane-00186",
+        "em-sam-lane-00636"
+      ],
+      "claimsAnchored": [
+        "His public persona is unusually personal for a statewide candidate. He leans into being a working person and an outsider, not a polished party recruit. On April 12, 2026, he said he had a full-time job outside politics but still drove six hours each way to Obe",
+        "2026-04-12: Lane posted that he drove to Oberlin while holding a full-time nonpolitical job and would drive anywhere in Kansas to keep polling locations open. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mjbey3c4as2m",
+        "On April 12, 2026, Lane posted that he drove to Oberlin while working a full-time nonpolitical job and, if elected, would drive across Kansas to keep polling locations open. Source: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mjbey3c4as2m"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0055",
+      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social",
+      "sourceFile": "memory/candidates/sam-lane/in-their-own-words.md:7",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post",
+        "social follow"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 4,
+      "rowIds": [
+        "em-sam-lane-00004",
+        "em-sam-lane-00244",
+        "em-sam-lane-00622",
+        "em-sam-lane-00698"
+      ],
+      "claimsAnchored": [
+        "Lane also speaks in a strongly anti-authoritarian register. His Bluesky profile says due process and checks and balances are in the Constitution, but the people's voice only matters if elections are fair and accurate ([source](https://bsky.app/profile/voiceina",
+        "Bluesky profile: https://bsky.app/profile/voiceinavacuum.bsky.social",
+        "Candidate-controlled Bluesky: https://bsky.app/profile/voiceinavacuum.bsky.social. The public API profile displayed as \"Sam Lane for KS Sec. of State,\" linked samuellane.org, and showed 35 followers, 14 follows, 195 posts, created December 15, 2024, when check",
+        "Bluesky: [@voiceinavacuum.bsky.social](https://bsky.app/profile/voiceinavacuum.bsky.social) - candidate-controlled account self-identifying as \"Sam Lane for KS Sec. of State\"; bio links [samuellane.org](https://www.samuellane.org/). Public API capture on 2026-"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0056",
+      "url": "https://bsky.app/profile/ocasio-cortez.house.gov/post/3lgcck2yf7c2r",
+      "sourceFile": "memory/candidates/sam-lane/social-harvest.md:182",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00810"
+      ],
+      "claimsAnchored": [
+        "Highest engagement item in the feed overall was a reposted official congressional account post from [@ocasio-cortez.house.gov](https://bsky.app/profile/ocasio-cortez.house.gov/post/3lgcck2yf7c2r) about immigration rights, with 51,900 likes and 28,631 reposts a"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0057",
+      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3m3lgre7oik23",
+      "sourceFile": "memory/candidates/sam-lane/in-their-own-words.md:3",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-sam-lane-00002",
+        "em-sam-lane-00180",
+        "em-sam-lane-00641"
+      ],
+      "claimsAnchored": [
+        "Lane's Bluesky feed reinforces that narrow campaign theory. He talks about voting mechanics, county election offices, mail ballots, paper ballots, voter registration bills, multilingual ballots, and judicial-retention information far more often than he talks a",
+        "2025-10-19: Lane posted that Kansas is a paper-ballot state and told voters to check machine-printed ballots before submitting them. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3m3lgre7oik23",
+        "On October 19, 2025, he posted that Kansas is a paper-ballot state and told voters to check machine-printed ballots. Source: local social harvest and Bluesky post https://bsky.app/profile/voiceinavacuum.bsky.social/post/3m3lgre7oik23"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0058",
+      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mclbirfacs2w",
+      "sourceFile": "memory/candidates/sam-lane/in-their-own-words.md:5",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-sam-lane-00003",
+        "em-sam-lane-00182"
+      ],
+      "claimsAnchored": [
+        "The clearest issue signal is opposition to rules he sees as voter suppression. In January 2026, he repeatedly discussed KS HB2438, first warning that voter-suppression schemes can look harmless ([source](https://bsky.app/profile/voiceinavacuum.bsky.social/post",
+        "2026-01-16: Lane posted about HB 2438 and said voter-suppression schemes can look harmless. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mclbirfacs2w"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0059",
+      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3m4remghm3c2s",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:244",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-sam-lane-00181",
+        "em-sam-lane-00637"
+      ],
+      "claimsAnchored": [
+        "2025-11-04: Lane urged voting in local elections, linked Kansas VoterView, and said some counties close polls at 5 p.m., \"something I want to change.\" URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3m4remghm3c2s",
+        "On November 4, 2025, he posted that some counties close polls at 5 p.m. and called that \"something I want to change.\" Source: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3m4remghm3c2s"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0060",
+      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3md2bll4yc22i",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:246",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00183"
+      ],
+      "claimsAnchored": [
+        "2026-01-22: Lane asked why Kansas does not have multilingual ballot options and referenced his position on harsh voter ID laws. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3md2bll4yc22i"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0061",
+      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mkvyneuj322i",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:250",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00187"
+      ],
+      "claimsAnchored": [
+        "2026-05-03: Lane linked Kansas Bar Association judge-retention resources. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mkvyneuj322i"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0062",
+      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mlcme5lzmc2u",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:252",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-sam-lane-00189",
+        "em-sam-lane-00743"
+      ],
+      "claimsAnchored": [
+        "2026-05-08: Lane linked his list of Kansas candidate websites and said he would be glad when the filing deadline made the page stable. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mlcme5lzmc2u",
+        "Other-candidates page: Lane maintains a bipartisan candidate website link list and promoted updates on Bluesky on 2026-01-09 and 2026-05-08 ([Bluesky 2026-05-08](https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mlcme5lzmc2u))."
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0063",
+      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3lvowfsanak2r",
+      "sourceFile": "memory/candidates/sam-lane/social-harvest.md:180",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social like"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00808"
+      ],
+      "claimsAnchored": [
+        "2025-08-06 stolen-election / evidence post - 1 like, 3 replies, 2 quotes: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3lvowfsanak2r"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0064",
+      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3m3yd4wwehk2n",
+      "sourceFile": "memory/candidates/sam-lane/social-harvest.md:181",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00809"
+      ],
+      "claimsAnchored": [
+        "2025-10-25 mail-ballot post - 2 likes, 1 repost: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3m3yd4wwehk2n"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0065",
+      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mdm7fwsvqc2c",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:247",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post",
+        "social comment"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-sam-lane-00184",
+        "em-sam-lane-00650",
+        "em-sam-lane-00807"
+      ],
+      "claimsAnchored": [
+        "2026-01-30: Lane posted that digital privacy is a value he would bring into the Secretary of State office. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mdm7fwsvqc2c",
+        "On January 30, 2026, local harvest captured Lane saying digital privacy is \"a value I intend to take into the Secretary of State's office.\" Source: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mdm7fwsvqc2c",
+        "2026-01-30 privacy post - 2 likes, 1 reply, 1 quote: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mdm7fwsvqc2c"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0066",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/documents/summary_scr_1611_2025",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:466",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-sam-lane-00476",
+        "em-sam-lane-00863"
+      ],
+      "claimsAnchored": [
+        "[Kansas Legislature: SCR 1611](https://www.kslegislature.gov/li/b2025_26/measures/documents/summary_scr_1611_2025)",
+        "\"url\": \"https://www.kslegislature.gov/li/b2025_26/measures/documents/summary_scr_1611_2025\""
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0067",
+      "url": "https://ballotpedia.org/Jennifer_Day_(Kansas",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:252",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00200"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia](https://ballotpedia.org/Jennifer_Day_(Kansas))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0068",
+      "url": "https://demsofstate.org/kansas-2026/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:325",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-sam-lane-00245",
+        "em-sam-lane-00687"
+      ],
+      "claimsAnchored": [
+        "DASS Kansas 2026: https://demsofstate.org/kansas-2026/",
+        "Democratic Association of Secretaries of State Kansas 2026 page: https://demsofstate.org/kansas-2026/"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0069",
+      "url": "https://ballotpedia.org/Samuel_Lane",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:326",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-sam-lane-00246",
+        "em-sam-lane-00688"
+      ],
+      "claimsAnchored": [
+        "Ballotpedia Samuel Lane: https://ballotpedia.org/Samuel_Lane",
+        "Ballotpedia Samuel Lane page: https://ballotpedia.org/Samuel_Lane"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0070",
+      "url": "https://www.jocoelection.org/candidates-elected-officials/candidates",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:37",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-sam-lane-00270",
+        "em-sam-lane-00606"
+      ],
+      "claimsAnchored": [
+        "https://www.jocoelection.org/candidates-elected-officials/candidates",
+        "[jocoelection.org](https://www.jocoelection.org/candidates-elected-officials/candidates)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0071",
+      "url": "https://www.votenokansas.org/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:465",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00475"
+      ],
+      "claimsAnchored": [
+        "[VoteNoKansas.org](https://www.votenokansas.org/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0072",
+      "url": "https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:483",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00491"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Six GOP candidates first debate](https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0073",
+      "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:488",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00495"
+      ],
+      "claimsAnchored": [
+        "[KCUR: Who's running for U.S. Senate](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0074",
+      "url": "https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:494",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00500"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector: Lawrence Democrats take aim at KS-01](https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0075",
+      "url": "https://ballotpedia.org/Kansas",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:495",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00501"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia: KS-01 2026](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0076",
+      "url": "https://en.wikipedia.org/wiki/Jennifer_Day_(Kansas_politician",
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:254",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-01125"
+      ],
+      "claimsAnchored": [
+        "[Wikipedia](https://en.wikipedia.org/wiki/Jennifer_Day_(Kansas_politician))"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0077",
+      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3lno763t2js24",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:242",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00179"
+      ],
+      "claimsAnchored": [
+        "2025-04-25: Lane posted that he filed paperwork to run for Kansas Secretary of State. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3lno763t2js24"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0078",
+      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mhw77rifik2s",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:248",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-sam-lane-00185",
+        "em-sam-lane-00635"
+      ],
+      "claimsAnchored": [
+        "2026-03-25: Lane posted opposition to the SAVE Act / SAVE America Act and linked an NPR Illinois explainer. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mhw77rifik2s",
+        "On March 25, 2026, Lane posted opposition to the SAVE Act / SAVE America Act and linked an explainer. Source: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mhw77rifik2s"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0079",
+      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mlcm37yrkk2u",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:251",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00188"
+      ],
+      "claimsAnchored": [
+        "2026-05-08: Lane posted that he filed on his own for the job he was passionate about, rather than waiting for party recruitment. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mlcm37yrkk2u"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0080",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=voiceinavacuum.bsky.social",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:323",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 5,
+      "rowIds": [
+        "em-sam-lane-00243",
+        "em-sam-lane-00634",
+        "em-sam-lane-00686",
+        "em-sam-lane-00721",
+        "em-sam-lane-00164"
+      ],
+      "claimsAnchored": [
+        "Bluesky API profile: https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=voiceinavacuum.bsky.social",
+        "Bluesky profile bio connects due process, checks and balances, the people's voice, and fair and accurate elections. Source: https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=voiceinavacuum.bsky.social",
+        "Bluesky profile API: https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=voiceinavacuum.bsky.social",
+        "\"url\": \"https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=voiceinavacuum.bsky.social\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0081",
+      "url": "https://bsky.app/profile/aoc.bsky.social/post/3mbjqcdvqh22q",
+      "sourceFile": "memory/candidates/sam-lane/social-harvest.md:183",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "social",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "social post"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00811"
+      ],
+      "claimsAnchored": [
+        "Other high-engagement reposts included [AOC](https://bsky.app/profile/aoc.bsky.social/post/3mbjqcdvqh22q), [GunnyJKJ](https://bsky.app/profile/gunnyjkj.bsky.social/post/3ln662nyfis2i), and [TizzyEnt](https://bsky.app/profile/tizzyent.bsky.social/post/3lg7h3dvt"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0082",
+      "url": null,
+      "sourceFile": "memory/candidates/sam-lane/raw-dump-v2.md:213",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "campaign statement",
+        "biography",
+        "ballot status",
+        "church/worship",
+        "voting record",
+        "donor/funding",
+        "meeting record",
+        "endorsement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 190,
+      "rowIds": [
+        "em-sam-lane-00157",
+        "em-sam-lane-00161",
+        "em-sam-lane-00214",
+        "em-sam-lane-00138",
+        "em-sam-lane-00176",
+        "em-sam-lane-00151",
+        "em-sam-lane-00218",
+        "em-sam-lane-00152",
+        "em-sam-lane-00222",
+        "em-sam-lane-00028",
+        "em-sam-lane-00111",
+        "em-sam-lane-00117",
+        "em-sam-lane-00217",
+        "em-sam-lane-00158",
+        "em-sam-lane-00215",
+        "em-sam-lane-00193",
+        "em-sam-lane-00216",
+        "em-sam-lane-00012",
+        "em-sam-lane-00016",
+        "em-sam-lane-00018",
+        "em-sam-lane-00021",
+        "em-sam-lane-00022",
+        "em-sam-lane-00023",
+        "em-sam-lane-00026",
+        "em-sam-lane-00027",
+        "em-sam-lane-00029",
+        "em-sam-lane-00032",
+        "em-sam-lane-00033",
+        "em-sam-lane-00036",
+        "em-sam-lane-00038",
+        "em-sam-lane-00048",
+        "em-sam-lane-00050",
+        "em-sam-lane-00053",
+        "em-sam-lane-00057",
+        "em-sam-lane-00063",
+        "em-sam-lane-00064",
+        "em-sam-lane-00067",
+        "em-sam-lane-00068",
+        "em-sam-lane-00099",
+        "em-sam-lane-00100",
+        "em-sam-lane-00102",
+        "em-sam-lane-00103",
+        "em-sam-lane-00104",
+        "em-sam-lane-00108",
+        "em-sam-lane-00109",
+        "em-sam-lane-00113",
+        "em-sam-lane-00114",
+        "em-sam-lane-00116",
+        "em-sam-lane-00121",
+        "em-sam-lane-00124"
+      ],
+      "claimsAnchored": [
+        "Abortion tab: Lane says he does not like to dwell on personal feelings about abortion; he says abortion policy is the less complicated part for him; he criticizes abortion bans for effects on medical practice and emergency care.",
+        "Abortion and guns should be framed as personal/civic views because Secretary of State has little direct lawmaking authority over those areas.",
+        "Abortion policy: candidate-controlled personal/civic statement only; no office action.",
+        "The page connects documentation rules to transgender voters and married-name changes.",
+        "Topic counts in local harvest were directional and showed election administration/voting rights/courts/democratic process; due process/civil liberties/ICE; campaign activity; personal voice; foreign policy; Kansas local issues; immigration; LGBTQ/gender/identi",
+        "Local harvest captured work-history claims: construction inspection/material testing, retail/shipping/food-service jobs, and experience around Haskell Indian Nations University student groups and travel in India/Sri Lanka.",
+        "Taxes, Medicaid, school finance, agriculture, and broad economic policy: no sustained campaign plank found in the reviewed candidate-controlled record.",
+        "No church affiliation was found on this page in this pass.",
+        "Any current church/worship affiliation.",
+        "The page says a candidate is not considered filed until the petition or declaration and fee are received by the Secretary of State.",
+        "The page says the Kansas Secretary of State has several duties, mostly administrative, including registering businesses for state taxes and publishing legal paperwork.",
+        "Business services mentioned, but not developed into a detailed policy program in this source."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sam-lane-0083",
+      "url": null,
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:74",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court",
+        "voting record",
+        "ballot status",
+        "biography",
+        "meeting record",
+        "church/worship",
+        "donor/funding",
+        "campaign statement",
+        "controversy",
+        "endorsement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 273,
+      "rowIds": [
+        "em-sam-lane-00286",
+        "em-sam-lane-00289",
+        "em-sam-lane-00305",
+        "em-sam-lane-00320",
+        "em-sam-lane-00321",
+        "em-sam-lane-00372",
+        "em-sam-lane-00405",
+        "em-sam-lane-00450",
+        "em-sam-lane-00287",
+        "em-sam-lane-00302",
+        "em-sam-lane-00303",
+        "em-sam-lane-00318",
+        "em-sam-lane-00437",
+        "em-sam-lane-00439",
+        "em-sam-lane-00440",
+        "em-sam-lane-00441",
+        "em-sam-lane-00442",
+        "em-sam-lane-00443",
+        "em-sam-lane-00444",
+        "em-sam-lane-00445",
+        "em-sam-lane-00446",
+        "em-sam-lane-00447",
+        "em-sam-lane-00518",
+        "em-sam-lane-00575",
+        "em-sam-lane-00262",
+        "em-sam-lane-00263",
+        "em-sam-lane-00533",
+        "em-sam-lane-00534",
+        "em-sam-lane-00535",
+        "em-sam-lane-00555",
+        "em-sam-lane-00556",
+        "em-sam-lane-00578",
+        "em-sam-lane-00307",
+        "em-sam-lane-00322",
+        "em-sam-lane-00323",
+        "em-sam-lane-00370",
+        "em-sam-lane-00373",
+        "em-sam-lane-00379",
+        "em-sam-lane-00392",
+        "em-sam-lane-00433",
+        "em-sam-lane-00448",
+        "em-sam-lane-00252",
+        "em-sam-lane-00299",
+        "em-sam-lane-00314",
+        "em-sam-lane-00425",
+        "em-sam-lane-00454",
+        "em-sam-lane-00523",
+        "em-sam-lane-00579",
+        "em-sam-lane-00333",
+        "em-sam-lane-00338"
+      ],
+      "claimsAnchored": [
+        "1. The Abortion Ruling (2019): The Kansas Supreme Court ruled 6-1 that the Kansas Constitution protects a right to \"personal autonomy,\" including the right to decide whether to continue a pregnancy. This made Kansas one of the strongest states for abortion rig",
+        "Kansas Reflector explicitly headlined their coverage: \"Kansas Senate adopts plan to elect Supreme Court justices, a step toward overturning abortion rights.\"",
+        "FACT 1: This is on the August PRIMARY ballot, not November. Primary turnout in Kansas is typically 20-25%, compared to 50-60% in November. Republican voters dominate primary turnout because they have more contested races. Putting it on the primary ballot is wi",
+        "Wisconsin (2025): One Supreme Court seat. $144.5 million spent. Elon Musk spent $25 million+ on one candidate. Illinois Governor JB Pritzker and George Soros funded the other side. It became a national proxy war over abortion, Trump, and redistricting -- not a",
+        "North Carolina (2022): After partisan elections flipped the court's majority to conservative, the new justices took the extraordinary step of rehearing and reversing several predecessor decisions on redistricting and voting rights -- decisions issued just mont",
+        "Governor Laura Kelly (Democrat) is term-limited and cannot run again. This is the first open governor's race in Kansas since 2018. Open seats are rare and always attract crowded fields because there is no incumbent advantage. The winner will shape Kansas polic",
+        "Why this matters: The AG interprets and enforces Kansas laws on abortion, voting, immigration, and government transparency. Whoever holds this office shapes which laws get enforced aggressively and which ones gather dust.",
+        "Why this matters: The Board of Education has been a battleground over science standards (evolution vs. intelligent design), sex education, school library books, and transgender student policies. In recent years, conservative and moderate factions have fought f",
+        "2. The School Funding Wars (2005-2024): For nearly 20 years, the Kansas Supreme Court told the Legislature it was not funding public schools adequately. The court repeatedly ordered lawmakers to spend more money on education. Conservative legislators were furi",
+        "Rep. Rui Xu (D-Westwood): \"Republicans are mad that our Supreme Court wanted us to fully fund school and not ban abortions so now they want to change the Supreme Court.\"",
+        "Organizations opposing: Kansas Bar Association, ACLU of Kansas, American Federation of Teachers-Kansas, Kansas Appleseed Center for Law and Justice, Kansas Association of School Boards, Kansas Women Attorneys Association, Planned Parenthood Great Plains Votes,",
+        "Kansas Bar Association, ACLU, teacher unions, school board associations, and others listed above."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sam-lane-0084",
+      "url": null,
+      "sourceFile": "memory/candidates/sam-lane/site-profile.md:15",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "campaign statement",
+        "church/worship",
+        "ballot status",
+        "donor/funding",
+        "voting record"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 22,
+      "rowIds": [
+        "em-sam-lane-00588",
+        "em-sam-lane-00589",
+        "em-sam-lane-00593",
+        "em-sam-lane-00590",
+        "em-sam-lane-00601",
+        "em-sam-lane-00585",
+        "em-sam-lane-00584",
+        "em-sam-lane-00591",
+        "em-sam-lane-00595",
+        "em-sam-lane-00592",
+        "em-sam-lane-00583",
+        "em-sam-lane-00586",
+        "em-sam-lane-00597",
+        "em-sam-lane-00599",
+        "em-sam-lane-00600",
+        "em-sam-lane-00602",
+        "em-sam-lane-00581",
+        "em-sam-lane-00582",
+        "em-sam-lane-00587",
+        "em-sam-lane-00594",
+        "em-sam-lane-00596",
+        "em-sam-lane-00598"
+      ],
+      "claimsAnchored": [
+        "Abortion / Sanctity of Life: Has not taken a public position on abortion.",
+        "Marriage & Family / LGBTQ+ Policy: Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources.",
+        "School Choice / Parental Rights in Education: Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources.",
+        "Religious Liberty: Runs as a Democrat. No specific personal statement found in public sources.",
+        "Public sources do not identify a current church affiliation.",
+        "Lane has no previous elected office, so his public record is essentially the campaign itself. He uses his website to explain the secretary of state's duties and to argue that the office should be a safeguard for Kansas elections and business filings rather tha",
+        "Lane's operation is plainly small. He is not running as a party insider, a former officeholder, or a candidate with a large donor network. His appeal is built on simplicity: protect elections, take the office seriously, and stop turning it into a political wea",
+        "Guns / Second Amendment: Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy.",
+        "Election Integrity / Voter Access: This is his only real issue. Lane frames the secretary of state's office as the front line for democracy. He argues against voter suppression, says the office should be about fair elections and honest administration, and oppo",
+        "Immigration / Border: Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources. on immigration.",
+        "Sam Lane is a Democratic candidate for Kansas secretary of state who presents himself as a lifelong Kansan, a former independent, and a working-class outsider. The public biography available online is spare. He describes himself as a University of Kansas psych",
+        "That makes him different from better-known candidates in the field, but it also leaves a thinner paper trail. There are no committee assignments, legislative votes, or statewide controversies to review. Voters are being asked to judge him mostly on message, bi"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sam-lane-0085",
+      "url": null,
+      "sourceFile": "memory/candidates/sam-lane/sleuth-pass.md:67",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "church/worship",
+        "voting record",
+        "donor/funding",
+        "legal/court"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 45,
+      "rowIds": [
+        "em-sam-lane-00653",
+        "em-sam-lane-00654",
+        "em-sam-lane-00656",
+        "em-sam-lane-00670",
+        "em-sam-lane-00675",
+        "em-sam-lane-00657",
+        "em-sam-lane-00658",
+        "em-sam-lane-00107",
+        "em-sam-lane-00611",
+        "em-sam-lane-00613",
+        "em-sam-lane-00619",
+        "em-sam-lane-00621",
+        "em-sam-lane-00623",
+        "em-sam-lane-00625",
+        "em-sam-lane-00638",
+        "em-sam-lane-00639",
+        "em-sam-lane-00642",
+        "em-sam-lane-00643",
+        "em-sam-lane-00644",
+        "em-sam-lane-00648",
+        "em-sam-lane-00660",
+        "em-sam-lane-00667",
+        "em-sam-lane-00668",
+        "em-sam-lane-00669",
+        "em-sam-lane-00672",
+        "em-sam-lane-00673",
+        "em-sam-lane-00676",
+        "em-sam-lane-00677",
+        "em-sam-lane-00614",
+        "em-sam-lane-00661",
+        "em-sam-lane-00663",
+        "em-sam-lane-00664",
+        "em-sam-lane-00674",
+        "em-sam-lane-00689",
+        "em-sam-lane-00610",
+        "em-sam-lane-00612",
+        "em-sam-lane-00620",
+        "em-sam-lane-00626",
+        "em-sam-lane-00633",
+        "em-sam-lane-00647",
+        "em-sam-lane-00649",
+        "em-sam-lane-00666",
+        "em-sam-lane-00671",
+        "em-sam-lane-00624",
+        "em-sam-lane-00678"
+      ],
+      "claimsAnchored": [
+        "Abortion policy",
+        "Why it maps: Lane has an explicit candidate-controlled \"My Other Views\" abortion tab. The page says it is not as immediately relevant to Secretary of State, so it should be presented as a personal/civic view rather than an office-power promise.",
+        "No elected-office vote or official action by Lane on abortion was found.",
+        "Social issue relevance is strongest on election administration, voter access, privacy, and civil liberties. It is weaker or absent for taxes, agriculture, Medicaid, school finance, and broad economic policy.",
+        "No current church/worship affiliation was found in candidate-controlled or official public sources reviewed.",
+        "Guns / Second Amendment",
+        "Why it maps: Lane has an explicit candidate-controlled \"My Other Views\" guns tab. It is relevant to voter knowledge but not directly tied to Secretary of State duties.",
+        "Election administration / voter access",
+        "Candidate slug",
+        "This pass covers public, candidate-controlled, official, and indexed material for Sam Lane, Democratic candidate for Kansas Secretary of State. It does not use private accounts, private groups, unsourced screenshots, or inference from party label. Social signa",
+        "Ballot wording should remain cautious until after the June 1, 2026 filing deadline and any later official certification/readback.",
+        "Campaign site footer: \"Paid for by Samuel Lane for Kansas, Erika Ashley treasurer.\" Source: campaign home."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sam-lane-0086",
+      "url": null,
+      "sourceFile": "memory/candidates/sam-lane/v2-issues.yaml:165",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "voting record",
+        "ballot status",
+        "church/worship",
+        "donor/funding",
+        "meeting record",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 154,
+      "rowIds": [
+        "em-sam-lane-00922",
+        "em-sam-lane-00938",
+        "em-sam-lane-00918",
+        "em-sam-lane-01091",
+        "em-sam-lane-01103",
+        "em-sam-lane-01097",
+        "em-sam-lane-00853",
+        "em-sam-lane-00904",
+        "em-sam-lane-00923",
+        "em-sam-lane-00039",
+        "em-sam-lane-00196",
+        "em-sam-lane-00833",
+        "em-sam-lane-00835",
+        "em-sam-lane-00836",
+        "em-sam-lane-00854",
+        "em-sam-lane-00857",
+        "em-sam-lane-00860",
+        "em-sam-lane-00861",
+        "em-sam-lane-00864",
+        "em-sam-lane-00865",
+        "em-sam-lane-00869",
+        "em-sam-lane-00885",
+        "em-sam-lane-00886",
+        "em-sam-lane-00898",
+        "em-sam-lane-00899",
+        "em-sam-lane-00900",
+        "em-sam-lane-00909",
+        "em-sam-lane-00910",
+        "em-sam-lane-00911",
+        "em-sam-lane-00912",
+        "em-sam-lane-00916",
+        "em-sam-lane-00933",
+        "em-sam-lane-00934",
+        "em-sam-lane-00937",
+        "em-sam-lane-00939",
+        "em-sam-lane-00953",
+        "em-sam-lane-00955",
+        "em-sam-lane-00962",
+        "em-sam-lane-00966",
+        "em-sam-lane-00991",
+        "em-sam-lane-00993",
+        "em-sam-lane-00998",
+        "em-sam-lane-01001",
+        "em-sam-lane-01011",
+        "em-sam-lane-01094",
+        "em-sam-lane-01095",
+        "em-sam-lane-01098",
+        "em-sam-lane-01099",
+        "em-sam-lane-01100",
+        "em-sam-lane-01101"
+      ],
+      "claimsAnchored": [
+        "\"Abortion tab criticizes abortion bans and their effect on medical practice\"",
+        "\"Bill defines gender as biological sex at birth for statutory construction\"",
+        "\"Local capture records experience around Haskell Indian Nations University student groups and travel in India/Sri Lanka\"",
+        "summary: \"Public social research found one candidate-controlled Bluesky account and no candidate-owned public X/Twitter, Facebook, Instagram, TikTok, LinkedIn, Truth Social, Gab, Gettr, Substack, Reddit, or YouTube account. Social evidence is most relevant to ",
+        "\"Any detailed campaign platform on taxes, Medicaid, school finance, agriculture, or broad economic policy.\"",
+        "\"No current church or worship-community affiliation was found in candidate-controlled or official sources reviewed.\"",
+        "\"A candidate is not considered filed until the petition or declaration and fee are received\"",
+        "\"Page describes Secretary of State duties including business registration, legal publications, and election oversight\"",
+        "\"Guns tab says Lane includes gun rights in civil liberties and would be alright with some basic gun-control legislation if he were running for a lawmaker office\"",
+        "\"Incumbent: No\"",
+        "\"DASS lists Sam Lane as a Democratic Secretary of State candidate\"",
+        "\"Official anchors are Kansas SOS candidate-information/deadline pages, Johnson County Election Office, KPDC/Kansas.gov campaign-finance records, Kansas Legislature bill pages, and candidate-controlled campaign pages.\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sam-lane-0087",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/sam-lane.ts:249",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status",
+        "campaign statement",
+        "voting record",
+        "meeting record",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 163,
+      "rowIds": [
+        "em-sam-lane-01069",
+        "em-sam-lane-01070",
+        "em-sam-lane-01294",
+        "em-sam-lane-01295",
+        "em-sam-lane-01297",
+        "em-sam-lane-01310",
+        "em-sam-lane-01303",
+        "em-sam-lane-01304",
+        "em-sam-lane-01306",
+        "em-sam-lane-01072",
+        "em-sam-lane-01073",
+        "em-sam-lane-01292",
+        "em-sam-lane-00847",
+        "em-sam-lane-00868",
+        "em-sam-lane-00874",
+        "em-sam-lane-00884",
+        "em-sam-lane-00958",
+        "em-sam-lane-00964",
+        "em-sam-lane-00968",
+        "em-sam-lane-01004",
+        "em-sam-lane-01006",
+        "em-sam-lane-01008",
+        "em-sam-lane-01009",
+        "em-sam-lane-01010",
+        "em-sam-lane-01016",
+        "em-sam-lane-01017",
+        "em-sam-lane-01021",
+        "em-sam-lane-01032",
+        "em-sam-lane-01045",
+        "em-sam-lane-01046",
+        "em-sam-lane-01048",
+        "em-sam-lane-01050",
+        "em-sam-lane-01052",
+        "em-sam-lane-01053",
+        "em-sam-lane-01055",
+        "em-sam-lane-01058",
+        "em-sam-lane-01061",
+        "em-sam-lane-01062",
+        "em-sam-lane-01075",
+        "em-sam-lane-01285",
+        "em-sam-lane-01288",
+        "em-sam-lane-01289",
+        "em-sam-lane-01290",
+        "em-sam-lane-01302",
+        "em-sam-lane-01309",
+        "em-sam-lane-00875",
+        "em-sam-lane-00985",
+        "em-sam-lane-01015",
+        "em-sam-lane-01018",
+        "em-sam-lane-01034"
+      ],
+      "claimsAnchored": [
+        "\"title\": \"Abortion Policy\",",
+        "\"text\": \"Lane's candidate-controlled 'My Other Views' page says this area is not as immediately relevant to the Secretary of State office, but includes an abortion tab. In that tab he says he does not like to dwell on personal feelings about abortion and criti",
+        "\"observation\": \"No candidate-controlled post taking a detailed position on abortion policy was found in the captured set; related content appears mainly through broader civil-liberties/authoritarianism frames and a DASS-style democracy frame.\",",
+        "\"mappedToIssueId\": \"abortion-policy\"",
+        "\"observation\": \"No sustained platform plank was found on taxes, Medicaid, school finance, agriculture, guns, or abortion, beyond scattered social commentary.\",",
+        "\"Observed public online activity mapped to Abortion Policy.\"",
+        "\"observation\": \"The feed is not a conventional consultant-managed campaign channel. It includes jokes, holiday greetings, language asides, foreign-policy reactions, posts about India, Kansas weather, school lunch debt, road markings, books, and personal discom",
+        "\"observation\": \"Social issue relevance is strongest on election administration, voter access, privacy, and civil liberties. It is weaker or absent for taxes, agriculture, Medicaid, school finance, and broad economic policy.\",",
+        "\"ownWordsNarrative\": \"summary: Public social research found one candidate-controlled Bluesky account and no candidate-owned public X/Twitter, Facebook, Instagram, TikTok, LinkedIn, Truth Social, Gab, Gettr, Substack, Reddit, or YouTube account. Social evidence",
+        "\"title\": \"Guns / Second Amendment\",",
+        "\"text\": \"Lane's candidate-controlled 'My Other Views' page says he includes gun rights when he talks about civil liberties. The same page says that if he were running for a lawmaker office he would be alright with some basic gun-control legislation such as clo",
+        "\"observation\": \"Bluesky Posts - Civil Liberties, Immigration, and Anti-Authoritarian Signals\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sam-lane-0088",
+      "url": null,
+      "sourceFile": "ui/src/data/candidates.ts:28425",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "church/worship",
+        "donor/funding",
+        "voting record",
+        "campaign statement",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 67,
+      "rowIds": [
+        "em-sam-lane-01190",
+        "em-sam-lane-01191",
+        "em-sam-lane-01192",
+        "em-sam-lane-01197",
+        "em-sam-lane-01194",
+        "em-sam-lane-01204",
+        "em-sam-lane-01188",
+        "em-sam-lane-01187",
+        "em-sam-lane-01195",
+        "em-sam-lane-01200",
+        "em-sam-lane-01196",
+        "em-sam-lane-00841",
+        "em-sam-lane-01184",
+        "em-sam-lane-01185",
+        "em-sam-lane-01199",
+        "em-sam-lane-01209",
+        "em-sam-lane-01213",
+        "em-sam-lane-01218",
+        "em-sam-lane-01219",
+        "em-sam-lane-01221",
+        "em-sam-lane-01208",
+        "em-sam-lane-01220",
+        "em-sam-lane-00084",
+        "em-sam-lane-00258",
+        "em-sam-lane-00466",
+        "em-sam-lane-00829",
+        "em-sam-lane-00838",
+        "em-sam-lane-00840",
+        "em-sam-lane-01087",
+        "em-sam-lane-01088",
+        "em-sam-lane-01180",
+        "em-sam-lane-01181",
+        "em-sam-lane-01182",
+        "em-sam-lane-01183",
+        "em-sam-lane-01189",
+        "em-sam-lane-01193",
+        "em-sam-lane-01198",
+        "em-sam-lane-01201",
+        "em-sam-lane-01202",
+        "em-sam-lane-01203",
+        "em-sam-lane-01205",
+        "em-sam-lane-01207",
+        "em-sam-lane-01210",
+        "em-sam-lane-01212",
+        "em-sam-lane-01214",
+        "em-sam-lane-01215",
+        "em-sam-lane-01216",
+        "em-sam-lane-01217",
+        "em-sam-lane-01222",
+        "em-sam-lane-01223"
+      ],
+      "claimsAnchored": [
+        "\"issue\": \"Abortion / Sanctity of Life\",",
+        "\"stance\": \"Has not taken a public position on abortion.\"",
+        "\"issue\": \"Marriage & Family / LGBTQ+ Policy\",",
+        "\"issue\": \"School Choice / Parental Rights in Education\",",
+        "\"issue\": \"Religious Liberty\",",
+        "\"whereTheyWorship\": \"Public sources do not identify a current church affiliation.\",",
+        "\"theirRecord\": \"Lane has no previous elected office, so his public record is essentially the campaign itself. He uses his website to explain the secretary of state's duties and to argue that the office should be a safeguard for Kansas elections and business fi",
+        "\"whoTheyAre\": \"Sam Lane is a Democratic candidate for Kansas secretary of state who presents himself as a lifelong Kansan, a former independent, and a working-class outsider. The public biography available online is spare. He describes himself as a University ",
+        "\"issue\": \"Guns / Second Amendment\",",
+        "\"stance\": \"This is his only real issue. Lane frames the secretary of state's office as the front line for democracy. He argues against voter suppression, says the office should be about fair elections and honest administration, and opposes turning it into a pa",
+        "\"issue\": \"Immigration / Border\",",
+        "\"incumbent\": false,"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sam-lane-0089",
+      "url": null,
+      "sourceFile": "memory/candidates/sam-lane/in-their-own-words.md:11",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 3,
+      "rowIds": [
+        "em-sam-lane-00006",
+        "em-sam-lane-00007",
+        "em-sam-lane-00008"
+      ],
+      "claimsAnchored": [
+        "The feed is not a conventional consultant-managed campaign channel. It includes jokes, holiday greetings, language asides, foreign-policy reactions, posts about India, Kansas weather, school lunch debt, road markings, books, and personal discomfort with \"posh\"",
+        "Engagement is very small. The Bluesky profile had 35 followers at the May 11, 2026 capture, and the highest candidate-authored post found in the captured pages had only a few likes or reposts. The campaign does not appear to have a broad public social network ",
+        "Date range covered: campaign website current as of May 11, 2026; Bluesky capture from at least January 4, 2025 through May 8, 2026, with campaign-specific posts beginning by April 2025. Platforms surveyed: campaign website, Bluesky, X, Facebook, Instagram, Tik"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sam-lane-0090",
+      "url": null,
+      "sourceFile": "reports/sos-insurance-ks01-all-candidates-complete.md:266",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "church/worship",
+        "ballot status",
+        "legal/court",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 55,
+      "rowIds": [
+        "em-sam-lane-01131",
+        "em-sam-lane-01135",
+        "em-sam-lane-01136",
+        "em-sam-lane-01141",
+        "em-sam-lane-01134",
+        "em-sam-lane-01156",
+        "em-sam-lane-01160",
+        "em-sam-lane-01143",
+        "em-sam-lane-01179",
+        "em-sam-lane-01146",
+        "em-sam-lane-01149",
+        "em-sam-lane-01150",
+        "em-sam-lane-01152",
+        "em-sam-lane-01153",
+        "em-sam-lane-01166",
+        "em-sam-lane-01177",
+        "em-sam-lane-01140",
+        "em-sam-lane-01168",
+        "em-sam-lane-01122",
+        "em-sam-lane-01126",
+        "em-sam-lane-01127",
+        "em-sam-lane-01128",
+        "em-sam-lane-01129",
+        "em-sam-lane-01130",
+        "em-sam-lane-01132",
+        "em-sam-lane-01133",
+        "em-sam-lane-01137",
+        "em-sam-lane-01138",
+        "em-sam-lane-01139",
+        "em-sam-lane-01142",
+        "em-sam-lane-01144",
+        "em-sam-lane-01145",
+        "em-sam-lane-01147",
+        "em-sam-lane-01148",
+        "em-sam-lane-01151",
+        "em-sam-lane-01154",
+        "em-sam-lane-01155",
+        "em-sam-lane-01172",
+        "em-sam-lane-01175",
+        "em-sam-lane-01178",
+        "em-sam-lane-01173",
+        "em-sam-lane-01157",
+        "em-sam-lane-01158",
+        "em-sam-lane-01159",
+        "em-sam-lane-01161",
+        "em-sam-lane-01162",
+        "em-sam-lane-01163",
+        "em-sam-lane-01164",
+        "em-sam-lane-01165",
+        "em-sam-lane-01169"
+      ],
+      "claimsAnchored": [
+        "| Residence | Kansas (born in Leavenworth, graduated Leavenworth High School) |",
+        "Education",
+        "Leavenworth High School",
+        "Worked with student groups from Haskell Indian Nations University during KU years",
+        "| Church | Not publicly identified |",
+        "Church Affiliations Not Found",
+        "Sam Lane: No church identified",
+        "\"Knows what it's like to live paycheck to paycheck and work multiple jobs just to get by\"",
+        "Races covered: 3 (Secretary of State, Insurance Commissioner, KS-01 U.S. House)",
+        "States he is \"throwing his hat in with the Democrats\" because the SOS race requires a party affiliation to be competitive",
+        "Campaign Platform",
+        "Election Integrity: \"In Kansas, the Secretary of State oversees elections, and if you don't have a Secretary of State that plays fair and takes the job seriously, you don't have fair elections, and without fair elections, you don't have a democratic republic.\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sam-lane-0091",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:166",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "legal/court",
+        "ballot status",
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 30,
+      "rowIds": [
+        "em-sam-lane-01266",
+        "em-sam-lane-01267",
+        "em-sam-lane-01258",
+        "em-sam-lane-01268",
+        "em-sam-lane-01269",
+        "em-sam-lane-01254",
+        "em-sam-lane-01256",
+        "em-sam-lane-01261",
+        "em-sam-lane-01242",
+        "em-sam-lane-01243",
+        "em-sam-lane-01244",
+        "em-sam-lane-01245",
+        "em-sam-lane-01246",
+        "em-sam-lane-01247",
+        "em-sam-lane-01248",
+        "em-sam-lane-01249",
+        "em-sam-lane-01250",
+        "em-sam-lane-01251",
+        "em-sam-lane-01253",
+        "em-sam-lane-01255",
+        "em-sam-lane-01257",
+        "em-sam-lane-01259",
+        "em-sam-lane-01260",
+        "em-sam-lane-01262",
+        "em-sam-lane-01270",
+        "em-sam-lane-01252",
+        "em-sam-lane-01265",
+        "em-sam-lane-01264",
+        "em-sam-lane-01263",
+        "em-sam-lane-01271"
+      ],
+      "claimsAnchored": [
+        "\"The state treasurer oversees state cash management, debt, public deposits, unclaimed property, and college-savings programs that affect Kansas taxpayers and families.\",",
+        "\"The Kansas State Treasurer manages the state's money functions: cash management, public deposits, debt-related work, unclaimed property, and several public savings programs. The office is less flashy than governor or attorney general, but it affects how publi",
+        "\"The secretary of state runs elections in Kansas. They decide the rules for voter registration, manage candidate filings, oversee how ballots are counted, and handle business registrations for every company in the state. When there's a question about whether y",
+        "slug: \"kansas-insurance-2026\",",
+        "name: \"Kansas Insurance Commissioner\",",
+        "\"The secretary of state runs Kansas elections, handles candidate filings, and oversees major state records. With Scott Schwab stepping aside, Pat Proctor, Ken Rahjes, Jennifer Day, and Sam Lane are all in the race.\",",
+        "\"This office decides how easy or difficult it is to vote, how election disputes are handled, and how confidently Kansans can trust the statewide process.\",",
+        "status: \"Incumbent Running\",",
+        "slug: \"kansas-sos-2026\",",
+        "name: \"Kansas Secretary of State\",",
+        "level: \"State\",",
+        "date: \"2026-11-03\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sam-lane-0092",
+      "url": null,
+      "sourceFile": "memory/elections/2026-11-03-kansas-secretary-of-state.md:40",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 14,
+      "rowIds": [
+        "em-sam-lane-01121",
+        "em-sam-lane-01118",
+        "em-sam-lane-01105",
+        "em-sam-lane-01106",
+        "em-sam-lane-01107",
+        "em-sam-lane-01110",
+        "em-sam-lane-01112",
+        "em-sam-lane-01116",
+        "em-sam-lane-01119",
+        "em-sam-lane-01108",
+        "em-sam-lane-01109",
+        "em-sam-lane-01111",
+        "em-sam-lane-01120",
+        "em-sam-lane-01117"
+      ],
+      "claimsAnchored": [
+        "The Secretary of State also handles business filings, trademarks, and administrative regulations.",
+        "The Secretary of State oversees all Kansas elections, making this a critically important office.",
+        "Eligible Voters: All registered Kansas voters",
+        "Declared Candidates",
+        "Republican Primary",
+        "Democratic Primary",
+        "Sam Lane -- Limited public profile information available.",
+        "Notes",
+        "Both Republican candidates are current state representatives, giving them legislative track records to examine."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-sam-lane-0093",
+      "url": "https://mann.house.gov/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:496",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00502"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0094",
+      "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:513",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00515"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0095",
+      "url": "https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:508",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00511"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0096",
+      "url": "https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:509",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00512"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0097",
+      "url": "https://kansasreflector.com/2025/07/22/kansas-sen-ethan-corson-enters-race-for-democratic-partys-nomination-for-governor/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:484",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00492"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0098",
+      "url": "https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-u-s-senate-sharpen-attack-on-gop-incumbent-roger-marshall/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:490",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00497"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0099",
+      "url": "https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:503",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00507"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0100",
+      "url": "https://barbforkansas.com/",
+      "sourceFile": "memory/candidates/sam-lane/raw-dump.md:515",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-00517"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-sam-lane-0101",
+      "url": "https://kansasreflector.com/2025/01/08/scott-schwab-runs-for-kansas-governor-after-two-terms-as-states-top-election-official/",
+      "sourceFile": "memory/elections/2026-11-03-kansas-secretary-of-state.md:33",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-sam-lane-01115"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    }
+  ]
+}

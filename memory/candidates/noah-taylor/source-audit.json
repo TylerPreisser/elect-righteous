@@ -1,0 +1,1199 @@
+{
+  "candidateSlug": "noah-taylor",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceCount": 38,
+  "sources": [
+    {
+      "sourceId": "src-noah-taylor-0001",
+      "url": "https://www.fec.gov/data/candidate/S6KS00296/",
+      "sourceFile": "memory/candidates/noah-taylor/v2-issues.yaml:28",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00047"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.fec.gov/data/candidate/S6KS00296/\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0002",
+      "url": "https://www.fec.gov/data/elections/senate/KS/2026/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:736",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00208"
+      ],
+      "claimsAnchored": [
+        "[FEC - 2026 Kansas Senate](https://www.fec.gov/data/elections/senate/KS/2026/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0003",
+      "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:528",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-noah-taylor-00129",
+        "em-noah-taylor-00205"
+      ],
+      "claimsAnchored": [
+        "[KCUR Candidate Guide](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
+        "[KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0004",
+      "url": "https://mikeforkansas.my.canva.site/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:529",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-noah-taylor-00130",
+        "em-noah-taylor-00234"
+      ],
+      "claimsAnchored": [
+        "[Campaign Website](https://mikeforkansas.my.canva.site/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0005",
+      "url": "https://www.noahforkansas.com/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:551",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-noah-taylor-00144",
+        "em-noah-taylor-00235"
+      ],
+      "claimsAnchored": [
+        "Campaign Website: [noahforkansas.com](https://www.noahforkansas.com/)",
+        "[Noah Taylor for Kansas](https://www.noahforkansas.com/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0006",
+      "url": "https://www.kwch.com/2026/03/17/kansas-veteran-noah-taylor-announces-campaign-us-senate/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:588",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-noah-taylor-00166",
+        "em-noah-taylor-00218"
+      ],
+      "claimsAnchored": [
+        "[KWCH - Taylor Announcement (Mar 2026)](https://www.kwch.com/2026/03/17/kansas-veteran-noah-taylor-announces-campaign-us-senate/)",
+        "[KWCH - Noah Taylor Announcement (Mar 17, 2026)](https://www.kwch.com/2026/03/17/kansas-veteran-noah-taylor-announces-campaign-us-senate/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0007",
+      "url": "https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:590",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use",
+        "reject"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-noah-taylor-00167",
+        "em-noah-taylor-00212"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector - Hart Profile (mentions Taylor)](https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0008",
+      "url": "https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:613",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-noah-taylor-00180",
+        "em-noah-taylor-00216"
+      ],
+      "claimsAnchored": [
+        "[Kansas Reflector - Davids Senate Speculation (Jan 2026)](https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/)",
+        "[Sharice Davids Senate Speculation (Jan 29, 2026)](https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0009",
+      "url": "https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:614",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-noah-taylor-00181",
+        "em-noah-taylor-00222"
+      ],
+      "claimsAnchored": [
+        "[KCUR - Davids Not Ruling It Out (Feb 2026)](https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out)",
+        "[KCUR - Sharice Davids Discussion (Feb 24, 2026)](https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0010",
+      "url": "https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:734",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00206"
+      ],
+      "claimsAnchored": [
+        "[Ballotpedia - Kansas Senate 2026](https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0011",
+      "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:735",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00207"
+      ],
+      "claimsAnchored": [
+        "[Wikipedia - 2026 Kansas Senate Election](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0012",
+      "url": "https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:739",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00210"
+      ],
+      "claimsAnchored": [
+        "[Democrats Focus on Defeating GOP Incumbent (Mar 8, 2026)](https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0013",
+      "url": "https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:757",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00225"
+      ],
+      "claimsAnchored": [
+        "[Smart Politics - Kansas 2026 Senate Analysis](https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0014",
+      "url": "https://www.cookpolitical.com/senate/race/488581",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:758",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00226"
+      ],
+      "claimsAnchored": [
+        "[Cook Political Report - KS Senate 2026](https://www.cookpolitical.com/senate/race/488581)"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0015",
+      "url": null,
+      "sourceFile": "memory/candidates/noah-taylor/social-harvest.md:20",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social follow",
+        "social post"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 16,
+      "rowIds": [
+        "em-noah-taylor-00013",
+        "em-noah-taylor-00005",
+        "em-noah-taylor-00012",
+        "em-noah-taylor-00014",
+        "em-noah-taylor-00016",
+        "em-noah-taylor-00019",
+        "em-noah-taylor-00020",
+        "em-noah-taylor-00021",
+        "em-noah-taylor-00022",
+        "em-noah-taylor-00023",
+        "em-noah-taylor-00025",
+        "em-noah-taylor-00009",
+        "em-noah-taylor-00003",
+        "em-noah-taylor-00008",
+        "em-noah-taylor-00024",
+        "em-noah-taylor-00026"
+      ],
+      "claimsAnchored": [
+        "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associa",
+        "This artifact was created because the candidate-completeness audit found Noah Taylor in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+        "Ballot / filing status: Noah Taylor appears in the reviewed official or campaign-finance records connected to U.S. Senate candidate, Kansas. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked",
+        "Donor / funding information: FEC reports a processed 2026 first-quarter finance summary for Noah Taylor for Kansas.",
+        "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+        "Noah Taylor - social harvest",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Slug: noah-taylor",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-noah-taylor-0016",
+      "url": null,
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:524",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "legal/court",
+        "donor/funding",
+        "endorsement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 125,
+      "rowIds": [
+        "em-noah-taylor-00126",
+        "em-noah-taylor-00137",
+        "em-noah-taylor-00141",
+        "em-noah-taylor-00157",
+        "em-noah-taylor-00196",
+        "em-noah-taylor-00240",
+        "em-noah-taylor-00123",
+        "em-noah-taylor-00091",
+        "em-noah-taylor-00099",
+        "em-noah-taylor-00100",
+        "em-noah-taylor-00101",
+        "em-noah-taylor-00102",
+        "em-noah-taylor-00103",
+        "em-noah-taylor-00104",
+        "em-noah-taylor-00105",
+        "em-noah-taylor-00106",
+        "em-noah-taylor-00108",
+        "em-noah-taylor-00110",
+        "em-noah-taylor-00111",
+        "em-noah-taylor-00112",
+        "em-noah-taylor-00115",
+        "em-noah-taylor-00116",
+        "em-noah-taylor-00117",
+        "em-noah-taylor-00118",
+        "em-noah-taylor-00119",
+        "em-noah-taylor-00120",
+        "em-noah-taylor-00121",
+        "em-noah-taylor-00122",
+        "em-noah-taylor-00124",
+        "em-noah-taylor-00125",
+        "em-noah-taylor-00131",
+        "em-noah-taylor-00133",
+        "em-noah-taylor-00134",
+        "em-noah-taylor-00135",
+        "em-noah-taylor-00136",
+        "em-noah-taylor-00138",
+        "em-noah-taylor-00139",
+        "em-noah-taylor-00140",
+        "em-noah-taylor-00142",
+        "em-noah-taylor-00143",
+        "em-noah-taylor-00145",
+        "em-noah-taylor-00146",
+        "em-noah-taylor-00147",
+        "em-noah-taylor-00148",
+        "em-noah-taylor-00149",
+        "em-noah-taylor-00150",
+        "em-noah-taylor-00151",
+        "em-noah-taylor-00152",
+        "em-noah-taylor-00153",
+        "em-noah-taylor-00154"
+      ],
+      "claimsAnchored": [
+        "Ideological inconsistency (conservative pro-life Republican in 2019, now running as a Democrat)",
+        "Education: Not specified in available sources",
+        "Small business consultant (runs a consulting company for small businesses in/around Wichita)",
+        "Small business owner gives economic credibility",
+        "| Noah Taylor | Kechi | Army vet, counterintelligence, business owner | Lower |",
+        "Individual candidate property/business/court records -- requires deeper public records investigation per candidate",
+        "Support for Medicaid cuts threatening rural hospitals",
+        "[Democratic Challengers (8 Candidates)](#democratic-challengers)",
+        "[Noah Taylor](#8-noah-taylor)",
+        "[Potential Entrants / Wild Cards](#potential-entrants)",
+        "[Libertarian / Independent / Third-Party Candidates](#third-party-candidates)",
+        "[Race Ratings and Forecasts](#race-ratings)"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-noah-taylor-0017",
+      "url": null,
+      "sourceFile": "memory/candidates/noah-taylor/v2-issues.yaml:58",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "meeting record",
+        "donor/funding",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 61,
+      "rowIds": [
+        "em-noah-taylor-00063",
+        "em-noah-taylor-00087",
+        "em-noah-taylor-00033",
+        "em-noah-taylor-00034",
+        "em-noah-taylor-00036",
+        "em-noah-taylor-00037",
+        "em-noah-taylor-00040",
+        "em-noah-taylor-00051",
+        "em-noah-taylor-00053",
+        "em-noah-taylor-00065",
+        "em-noah-taylor-00079",
+        "em-noah-taylor-00086",
+        "em-noah-taylor-00088",
+        "em-noah-taylor-00035",
+        "em-noah-taylor-00042",
+        "em-noah-taylor-00043",
+        "em-noah-taylor-00044",
+        "em-noah-taylor-00055",
+        "em-noah-taylor-00059",
+        "em-noah-taylor-00067",
+        "em-noah-taylor-00068",
+        "em-noah-taylor-00070",
+        "em-noah-taylor-00073",
+        "em-noah-taylor-00081",
+        "em-noah-taylor-00083",
+        "em-noah-taylor-00084",
+        "em-noah-taylor-00007",
+        "em-noah-taylor-00027",
+        "em-noah-taylor-00028",
+        "em-noah-taylor-00029",
+        "em-noah-taylor-00030",
+        "em-noah-taylor-00031",
+        "em-noah-taylor-00032",
+        "em-noah-taylor-00038",
+        "em-noah-taylor-00039",
+        "em-noah-taylor-00041",
+        "em-noah-taylor-00046",
+        "em-noah-taylor-00052",
+        "em-noah-taylor-00056",
+        "em-noah-taylor-00058",
+        "em-noah-taylor-00062",
+        "em-noah-taylor-00071",
+        "em-noah-taylor-00072",
+        "em-noah-taylor-00074",
+        "em-noah-taylor-00075",
+        "em-noah-taylor-00076",
+        "em-noah-taylor-00077",
+        "em-noah-taylor-00078",
+        "em-noah-taylor-00080",
+        "em-noah-taylor-00082"
+      ],
+      "claimsAnchored": [
+        "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+        "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+        "\"incumbent\": false,",
+        "\"occupation\": \"U.S. Senate candidate\",",
+        "\"recordSummary\": \"The strongest verified record in this pass is federal filing and finance data. No candidate-controlled issue platform was captured.\",",
+        "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+        "\"publisher\": \"Federal Election Commission\",",
+        "\"title\": \"Ballot / filing status\",",
+        "\"text\": \"Noah Taylor appears in the reviewed official or campaign-finance records connected to U.S. Senate candidate, Kansas. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the fili",
+        "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+        "\"name\": \"Candidate contributions\",",
+        "\"Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-noah-taylor-0018",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/noah-taylor.ts:62",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "church/worship",
+        "ballot status",
+        "biography",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 21,
+      "rowIds": [
+        "em-noah-taylor-00300",
+        "em-noah-taylor-00048",
+        "em-noah-taylor-00304",
+        "em-noah-taylor-00292",
+        "em-noah-taylor-00293",
+        "em-noah-taylor-00294",
+        "em-noah-taylor-00295",
+        "em-noah-taylor-00296",
+        "em-noah-taylor-00297",
+        "em-noah-taylor-00299",
+        "em-noah-taylor-00301",
+        "em-noah-taylor-00302",
+        "em-noah-taylor-00303",
+        "em-noah-taylor-00305",
+        "em-noah-taylor-00306",
+        "em-noah-taylor-00307",
+        "em-noah-taylor-00308",
+        "em-noah-taylor-00309",
+        "em-noah-taylor-00310",
+        "em-noah-taylor-00311",
+        "em-noah-taylor-00298"
+      ],
+      "claimsAnchored": [
+        "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comm",
+        "\"title\": \"TAYLOR, NOAH - Candidate overview\",",
+        "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+        "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+        "To refresh:",
+        "node scripts/hydrate-v2-social-signals.mjs",
+        "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+        "import { validateCandidateV2 } from \"@/data/types-v2\";",
+        "export const NOAH_TAYLOR_V2: CandidateFullV2 = {",
+        "\"platform\": \"Public web\",",
+        "\"observedAt\": \"2026-05-19\",",
+        "\"mappedToIssueId\": \"i-public-issue-record\""
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-noah-taylor-0019",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:49",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "voting record",
+        "legal/court",
+        "ballot status",
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 42,
+      "rowIds": [
+        "em-noah-taylor-00268",
+        "em-noah-taylor-00270",
+        "em-noah-taylor-00288",
+        "em-noah-taylor-00266",
+        "em-noah-taylor-00277",
+        "em-noah-taylor-00287",
+        "em-noah-taylor-00275",
+        "em-noah-taylor-00260",
+        "em-noah-taylor-00263",
+        "em-noah-taylor-00265",
+        "em-noah-taylor-00267",
+        "em-noah-taylor-00269",
+        "em-noah-taylor-00271",
+        "em-noah-taylor-00272",
+        "em-noah-taylor-00273",
+        "em-noah-taylor-00274",
+        "em-noah-taylor-00276",
+        "em-noah-taylor-00278",
+        "em-noah-taylor-00279",
+        "em-noah-taylor-00289",
+        "em-noah-taylor-00290",
+        "em-noah-taylor-00291",
+        "em-noah-taylor-00264",
+        "em-noah-taylor-00286",
+        "em-noah-taylor-00250",
+        "em-noah-taylor-00251",
+        "em-noah-taylor-00252",
+        "em-noah-taylor-00253",
+        "em-noah-taylor-00254",
+        "em-noah-taylor-00255",
+        "em-noah-taylor-00256",
+        "em-noah-taylor-00257",
+        "em-noah-taylor-00258",
+        "em-noah-taylor-00259",
+        "em-noah-taylor-00261",
+        "em-noah-taylor-00262",
+        "em-noah-taylor-00280",
+        "em-noah-taylor-00281",
+        "em-noah-taylor-00282",
+        "em-noah-taylor-00283",
+        "em-noah-taylor-00284",
+        "em-noah-taylor-00285"
+      ],
+      "claimsAnchored": [
+        "\"U.S. senators vote on judges, war powers, federal spending, farm policy, healthcare, and the national laws that affect Kansas every day. This race shapes who speaks for the entire state in Washington.\",",
+        "\"A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If",
+        "\"Your U.S. Representative is the one person in Congress who represents your specific district — not the whole state, just your area. They serve two-year terms, vote on federal laws and spending bills, and are supposed to be your direct voice in Washington on e",
+        "\"Kansas gets only two U.S. senators, and this seat is on the ballot in November 2026. Incumbent Roger Marshall is running again, while Democratic challengers now include Damon Anderson, Jason Hart, Kevin Latz, Patrick Schmidt, Christy Cauble Davis, Sandy Spide",
+        "status: \"Incumbent Running\",",
+        "\"The KS-01 member of Congress becomes the main federal voice for agriculture, water, roads, trade, and rural infrastructure across a huge stretch of Kansas.\",",
+        "jurisdiction: \"Kansas 1st Congressional District\",",
+        "\"noah-taylor\",",
+        "description:",
+        "plainEnglish:",
+        "whyItMatters:",
+        "jobDescription:"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-noah-taylor-0020",
+      "url": null,
+      "sourceFile": "memory/candidates/noah-taylor/in-their-own-words.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography",
+        "ballot status"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 7,
+      "rowIds": [
+        "em-noah-taylor-00001",
+        "em-noah-taylor-00002",
+        "em-noah-taylor-00004",
+        "em-noah-taylor-00006",
+        "em-noah-taylor-00011",
+        "em-noah-taylor-00010",
+        "em-noah-taylor-00015"
+      ],
+      "claimsAnchored": [
+        "Noah Taylor - in their own words",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-noah-taylor-0021",
+      "url": null,
+      "sourceFile": "memory/candidates/noah-taylor/raw-dump-v2.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00017"
+      ],
+      "claimsAnchored": [
+        "Noah Taylor - raw dump v2"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-noah-taylor-0022",
+      "url": null,
+      "sourceFile": "memory/candidates/noah-taylor/sleuth-pass.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00018"
+      ],
+      "claimsAnchored": [
+        "Noah Taylor - sleuth pass"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-noah-taylor-0023",
+      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:742",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00213"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0024",
+      "url": "https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:751",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00221"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0025",
+      "url": "https://ballotpedia.org/Michael_Soetaert",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:527",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00128"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0026",
+      "url": "https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:740",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00211"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0027",
+      "url": "https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:743",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00214"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0028",
+      "url": "https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:744",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00215"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0029",
+      "url": "https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:749",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00219"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0030",
+      "url": "https://www.wibw.com/2026/02/05/kansas-state-senator-files-us-senate/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:750",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00220"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0031",
+      "url": "https://www.emporiagazette.com/free/article_a62c2b8f-db73-4d78-b386-94bee4080a06.html",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:755",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00223"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0032",
+      "url": "https://sunflowerstatejournal.com/kck-developer-announces-for-u-s-senate-as-democratic-primary-grows-to-five/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:756",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00224"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0033",
+      "url": "https://www.christydavisforkansas.com/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:761",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00228"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0034",
+      "url": "https://patrickforkansas.com/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:762",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00229"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0035",
+      "url": "https://sandyforkansas.com/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:763",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00230"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0036",
+      "url": "https://www.anneforkansas.com/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:764",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00231"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0037",
+      "url": "https://erikforkansas.com/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:765",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00232"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-noah-taylor-0038",
+      "url": "https://hartforsenate.com/",
+      "sourceFile": "reports/2026-kansas-us-senate-race-investigation.md:766",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "legal/court"
+      ],
+      "useDecisions": [
+        "reject"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-noah-taylor-00233"
+      ],
+      "claimsAnchored": [],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    }
+  ]
+}

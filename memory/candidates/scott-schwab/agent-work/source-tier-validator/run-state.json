@@ -1,0 +1,28 @@
+{
+  "agent_id": "source-tier-validator",
+  "agent_role": "Source quality auditor",
+  "candidate_slug": "scott-schwab",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/scott-schwab/evidence-matrix.json"
+  ],
+  "files_written": [
+    "memory/candidates/scott-schwab/source-audit.json",
+    "memory/candidates/scott-schwab/source-audit.md",
+    "memory/candidates/scott-schwab/agent-work/source-tier-validator/run-state.json",
+    "memory/candidates/scott-schwab/agent-work/source-tier-validator/notes.md",
+    "memory/candidates/scott-schwab/agent-work/source-tier-validator/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs scott-schwab"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Use source-audit.md during fixed-issue-matrix-builder for scott-schwab."
+  ],
+  "handoff_summary": "Audited 424 unique source records for scott-schwab."
+}

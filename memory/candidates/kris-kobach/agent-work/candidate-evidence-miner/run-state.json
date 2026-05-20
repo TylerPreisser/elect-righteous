@@ -1,0 +1,50 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "kris-kobach",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/kris-kobach/in-their-own-words.md",
+    "memory/candidates/kris-kobach/raw-dump-v2.md",
+    "memory/candidates/kris-kobach/raw-dump.md",
+    "memory/candidates/kris-kobach/site-profile.md",
+    "memory/candidates/kris-kobach/sleuth-pass.md",
+    "memory/candidates/kris-kobach/social-harvest.md",
+    "memory/candidates/kris-kobach/v2-issues.yaml",
+    "memory/elections/2026-08-04-kansas-supreme-court-amendment.md",
+    "memory/elections/2026-11-03-kansas-attorney-general.md",
+    "memory/elections/2026-11-03-ks-governor.md",
+    "memory/elections/2026-11-03-ks-statewide-offices.md",
+    "reports/2026-kansas-ballot-measures-investigation.md",
+    "reports/Kris-Kobach-Complete-Dossier.md",
+    "reports/chris-mann-complete-dossier.md",
+    "reports/faith-church-investigation-2026-03-31.md",
+    "reports/governor-2026-all-remaining-candidates-complete.md",
+    "reports/hays-kansas-election-finder-2026-03-30.md",
+    "reports/jeff-colyer-complete-dossier.md",
+    "reports/plain-english-voter-guide.md",
+    "reports/scott-schwab-complete-dossier.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/kris-kobach.ts"
+  ],
+  "files_written": [
+    "memory/candidates/kris-kobach/evidence-matrix-raw.json",
+    "memory/candidates/kris-kobach/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/kris-kobach/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/kris-kobach/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/kris-kobach/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs kris-kobach"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for kris-kobach."
+  ],
+  "handoff_summary": "Extracted 12133 raw evidence rows for kris-kobach."
+}

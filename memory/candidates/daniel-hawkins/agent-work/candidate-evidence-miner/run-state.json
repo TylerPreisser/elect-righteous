@@ -1,0 +1,42 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "daniel-hawkins",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/daniel-hawkins/in-their-own-words.md",
+    "memory/candidates/daniel-hawkins/raw-dump-v2.md",
+    "memory/candidates/daniel-hawkins/raw-dump.md",
+    "memory/candidates/daniel-hawkins/site-profile.md",
+    "memory/candidates/daniel-hawkins/sleuth-pass.md",
+    "memory/candidates/daniel-hawkins/social-harvest.md",
+    "memory/candidates/daniel-hawkins/v2-issues.yaml",
+    "memory/elections/2026-11-03-kansas-insurance-commissioner.md",
+    "memory/elections/2026-11-03-ks-governor.md",
+    "memory/elections/2026-11-03-ks-statewide-offices.md",
+    "reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md",
+    "reports/sos-insurance-ks01-all-candidates-complete.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/daniel-hawkins.ts"
+  ],
+  "files_written": [
+    "memory/candidates/daniel-hawkins/evidence-matrix-raw.json",
+    "memory/candidates/daniel-hawkins/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/daniel-hawkins/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/daniel-hawkins/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/daniel-hawkins/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs daniel-hawkins"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for daniel-hawkins."
+  ],
+  "handoff_summary": "Extracted 3093 raw evidence rows for daniel-hawkins."
+}

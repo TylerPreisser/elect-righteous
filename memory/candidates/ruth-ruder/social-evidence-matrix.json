@@ -1,0 +1,1983 @@
+{
+  "candidateSlug": "ruth-ruder",
+  "generated": "2026-05-20T18:46:44Z",
+  "sourceFiles": [
+    "memory/candidates/ruth-ruder/social-harvest.md",
+    "memory/candidates/ruth-ruder/evidence-matrix.json"
+  ],
+  "platformPresence": [],
+  "signals": [
+    {
+      "id": "soc-ruth-ruder-0001",
+      "evidenceRowId": "em-ruth-ruder-00007",
+      "platform": "hayspost.com",
+      "actionType": "online-reference",
+      "target": "https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        3,
+        4,
+        8,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Immigration / border",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use",
+      "confidence": "likely",
+      "observation": "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays ([source](https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a)). Second, the candidate-profiler raw intelligence from this project records that no reliable public source identifies Ruder's church affiliation; that data point is absent from the harvested set. The captured period contains no posts or quotes from Ruder on healthcare, immigration, abortion specifics, foreign policy, federal elections, K–12 curriculum content beyond test-score performance, or social-issue topics.",
+      "sourceUrl": "https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a",
+      "sourceFile": "memory/candidates/ruth-ruder/in-their-own-words.md:15",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-in-their-own-words-md-l15",
+        "mem-ui-src-data-candidates-ts-l46516"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0002",
+      "evidenceRowId": "em-ruth-ruder-01903",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use",
+      "confidence": "likely",
+      "observation": "U-2: Family-network adjacency to other Hays officeholders. Ruth's husband Vernon Ruder Jr. (Ellis County Treasurer) and son Mason Ruder (Hays Mayor) hold separate elective offices. Per directive, this context belongs in narrative, NOT here. No observable behavior of Ruth's was detected in the sweep that imputes a position from a family member's position. The only Ruth-specific behavior adjacent to the family network is her own Hays Post candidate-profile disclosure of family roles (https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a). Recording here so narrative-writer has a clean handoff: there are no Facebook shares, retweets, or co-attendance photos of Ruth amplifying Mason's or Vernon's positions in the harvested record.",
+      "sourceUrl": "https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a",
+      "sourceFile": "memory/candidates/ruth-ruder/sleuth-pass.md:136",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-sleuth-pass-md-l136"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0003",
+      "evidenceRowId": "em-ruth-ruder-02935",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "LGBT / gender / parental rights",
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Taxes / spending / debt",
+        "Guns / Second Amendment",
+        "Immigration / border",
+        "Health care / insurance / Medicaid",
+        "Election integrity / voting / courts",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use-with-caveat",
+      "confidence": "likely",
+      "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he described himself as someone with \\\"a love for our community\\\" and \\\"a love for kids,\\\" said he listens to people and studies board materials, and framed school-board service as a way to improve Hays and USD 489. ([Hays Post](https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220))\\n\\nFacilities and the bond program are central to his own account of why he ran again. Brooks said that when he first ran, he did not have an agenda \\\"so much,\\\" but he did want the bond passed. By 2025, he pointed to the new high school opening, remaining bond projects, O'Loughlin work, and the five-year capital outlay plan as evidence that the district was staying on track. He said the capital outlay plan helps the board budget and plan for the future. ([Hays Post](https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220))\\n\\nHe also repeatedly talks about direct family costs. In 2021, he called high enrollment costs the most negative thing about USD 489 and said they put hardship on many families. In 2025, he returned to the same issue, saying it cost him $1,000 to enroll three children when his oldest was a senior and that the board had lowered fees in most years since he joined. ([Hays Post 2021](https://hayspost.com/posts/2613aaa8-8055-4feb-9a79-d1b5479babca), [Hays Post 2025](https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220))\\n\\nBrooks' clearest governing philosophy is anti-micromanagement. In the 2025 Q&A, he said the board should provide oversight while administrators and teachers handle day-to-day operations, and that the superintendent is the only employee who answers directly to the board. In later board coverage, he used the same frame on handbooks, contracts, and bathroom/vandalism disputes. ([Hays Post](https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220), [Tiger Media Network](https://tigermedianet.com/?p=87800), [Tiger Media Network](https://tigermedianet.com/?p=96863))\\n\\nThat posture often becomes a defense of administrators. Brooks told Hays Post in 2025 that Chris Hipp, Ron Wilson, and district administrators had proven trustworthy on budget matters. In March 2026 contract coverage, Tiger Media Network quoted him saying the board had an incredible administrative staff and had no reason not to approve every contract. ([Hays Post](https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220), [Tiger Media Network](https://tigermedianet.com/?p=95549))\\n\\nOn budget, he argues the district has been responsible while acknowledging uncertain outside funding. Brooks said he believed USD 489 was adequately managing its budget and that critics had not shown the district to be irresponsible. He also said national and state conditions were uncertain, that the board needed proven leadership, and that special education had never been fully funded by the state. ([Hays Post](https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220))\\n\\nHis older 2021 profile shows the same mix of facilities, costs, and community relations. Brooks said he opposed the 2016 bond but supported the 2017 version because he thought it better matched district needs. He said future facilities work should include classroom updates, new administrative offices, and a new auditorium, and that maintenance outside a bond would require community involvement and information. He also said board unity mattered and that good decisions require listening to other points of view. ([Hays Post](https://hayspost.com/posts/2613aaa8-8055-4feb-9a79-d1b5479babca))\\n\\nHis faith and civic-service statements are visible but not campaign-social. In the 2021 profile, Brooks listed Kiwanis, helping lead children's ministry at Celebration Community Church for almost 14 years, and coordinating the Thanksgiving Community Food Drive with ECMA and First Call For Help since 2008. The current Celebration Community Church Hays campus page confirms the Hays campus context and its public mission language, but Brooks' own church-service claim comes from the candidate profile. ([Hays Post](https://hayspost.com/posts/2613aaa8-8055-4feb-9a79-d1b5479babca), [Celebration Community Church](https://www.celebratejesus.org/hays-campus))\\n\\nAfter the November 2025 election, Brooks kept his public comments focused on the board's work. Hays Post reported that Brooks and Craig Pallister tied with 1,948 unofficial votes; official Ellis County results later listed each at 1,962 votes. Brooks said he hoped to keep the district on track while finishing the bond project and was excited about the next four years. ([Hays Post](https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d), [Ellis County official results](https://www.ellisco.net/DocumentCenter/View/5892/Official-Results-2025-General-Election))\\n\\nOn contentious high-school bathroom and vandalism discussions, Brooks' visible remarks are less about bathroom design itself and more about process, data, and treatment of administrators. In April 2026 coverage, he challenged Allen Park's claim about Hays High having the highest percentage of single-stall bathrooms in the state, saying, \\\"You make up data,\\\" and then said administrators should not feel attacked or that it is \\\"us versus them.\\\" Hays Post separately quoted Brooks saying the board had discussed the issue many times and that micromanaging administrators was not the board's job. ([Tiger Media Network](https://tigermedianet.com/?p=96863), [Hays Post](https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede))\\n\\nThe accessible social footprint is thin. A LinkedIn public preview identifies Allen Ken Brooks in Hays with Insurance Planning, Inc., University of Central Oklahoma, CSP and CFPS credentials, 234 followers, and 238 connections, but the visible activity snippets are limited and do not provide a reliable school-board campaign post inventory. A GoodParty.org candidate shell exists, but it says Brooks had not filled out occupation, top issues, or running-against sections. ([LinkedIn](https://www.linkedin.com/in/allen-ken-brooks-csp-cfps-a3416623), [GoodParty.org](https://goodparty.org/candidate/ken-brooks/hays-usd-489-school-board))\\n\\nRole records should be handled carefully. The user-facing profile labels Brooks as USD 489 Board President, but verified public sources did not support that as of May 11, 2026. Tiger Media Network reported in July 2025 that Curt Vajnar was re-elected board president and Brooks was elected vice president; Hays Post called Brooks the current vice president after the November 2025 election; Tiger Media Network reported in January 2026 that Vajnar was elected president and Ruth Ruder vice president; and the Hays Chamber USD 489 member page lists Brooks as Board Member, Ruder as Board Vice President, and Vajnar as Board President. The USD 489 Diligent portal still listed Brooks as vice president in the accessible capture, which appears stale relative to January 2026 coverage and the Chamber page. This harvest therefore treats Brooks as a USD 489 board member with prior vice-president status, not as current board president. ([Tiger Media Network, July 2025](https://tigermedianet.com/?p=87800), [Hays Post](https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d), [Tiger Media Network, Jan. 2026](https://tigermedianet.com/?p=93501), [Hays Chamber listing](https://members.hayschamber.com/list/member/usd-489-1040), [USD 489 portal](https://usd489.community.highbond.com/portal/members.aspx?id=18))\\n\\nThe absences matter. No verified candidate-controlled campaign website surfaced, and the known bad campaignWebsite value was not used. No clear candidate-controlled campaign account was found on Facebook, X/Twitter, Instagram, YouTube, TikTok, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, Medium, Reddit, or a newsletter platform. Public Facebook discussion of USD 489 bathrooms was reported by local media, but no Brooks-authored public Facebook content was verified. ([harvest](social-harvest.md#visible-absences))\\n\\nAcross the accessible set, Brooks does not center national partisan issues. I found no candidate-controlled or candidate-attributed messaging focused on Donald Trump, Joe Biden, abortion, guns, immigration, LGBTQ policy, Medicaid, rural hospitals, water/Ogallala policy, roads, broadband, policing, or tax policy beyond school-budget and school-fee issues. His visible words stay close to USD 489 operations: bond projects, facilities, enrollment fees, special education funding, administrative trust, staff contracts, bathrooms/vandalism, and board process. ([harvest](social-harvest.md#topic-share-analysis))\\n\\nMethodology: Public capture was conducted on May 11, 2026. Date range covered: October 20, 2021 through May 11, 2026. Sources surveyed included USD 489 official pages, USD 489 Diligent/HighBond board portal, meeting/video entry points where indexed, Ellis County election pages and official results, Hays Post, Tiger Media Network, LinkedIn, GoodParty.org, Celebration Community Church, Facebook, X/Twitter, Instagram, YouTube, TikTok, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, Medium, Reddit, broad public web search, and existing project memory for source leads. Login-walled, script-blocked, unindexed, or otherwise inaccessible social feeds were not counted as reviewed content. We report visible patterns and documented absences; we do not infer private views, inaccessible account activity, or intent.\",",
+      "sourceUrl": "https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220",
+      "sourceFile": "ui/src/data/candidates.ts:45108",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l45108"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0004",
+      "evidenceRowId": "em-ruth-ruder-02912",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        5,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "use-with-caveat",
+      "confidence": "likely",
+      "observation": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Ellis County treasury pages, the Kansas County Treasurers Association, election results, Hays Post reporting, and public civic-event coverage.\\n\\nHis central message is efficiency. In his 2020 candidate profile, Ruder said he entered the treasurer race after seeing turnover and spending issues in the office, and said he could decrease spending and increase efficiencies. He tied that pitch to his landfill-management experience, saying he ran that operation like his own money and knew he could reduce spending by thousands in the treasurer department. Source: [Hays Post, July 31, 2020](https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4).\\n\\nRuder's own 2020 letter adds the biography behind that message. He described growing up in Hays, raising his family there, graduating from Thomas More Prep and NCK-Tech, working as a financial advisor, spending 25 years with Pepsi, and managing a multi-state E.A. Sween territory before joining Ellis County in 2017. He framed himself as a lifelong conservative bringing \\\"30+ years of Private Sector knowledge\\\" to county government. Source: [Hays Post, Oct. 13, 2020](https://hayspost.com/posts/3a069c69-9317-434a-8454-26da7a61d342).\\n\\nThe most concrete office-policy example is the motor-vehicle facility fee. In 2023, Ruder defended a $2.50 walk-in motor-vehicle transaction fee as a state-authorized way to fund motor-vehicle operations locally after the state stopped buying office computers and printers. His argument was that the motor-vehicle side of the office should be funded with motor-vehicle money, reducing reliance on property taxpayers. Source: [Hays Post, Nov. 20, 2023](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494).\\n\\nThat fee message is paired with budget claims. Ruder estimated the added fee would generate more than $50,000 in a year and said the additional funds helped him reduce the treasury budget from $452,000 in 2022 to $367,000 in 2023. The theme is not anti-fee in the abstract; it is user-fee funding for the office function he says creates the cost. Source: [Hays Post, Nov. 20, 2023](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494).\\n\\nHe also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by text message, app, home kiosk link, and office kiosk for joining the treasurer office queue. Sources: [Hays Post, July 31, 2020](https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4), [Ellis County Treasury](https://www.ellisco.net/566/Treasury).\\n\\nTransparency and professionalism are another repeated lane. Ruder said in 2020 that he would present monthly financial reports showing where county money was and how it was invested. He also promised to be a working elected official, learn every job in the office, communicate with other department heads, and avoid conflict. In his words, he solves problems and does not create them. Source: [Hays Post, July 31, 2020](https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4).\\n\\nThe current official office messaging is statutory and service-oriented. Ellis County says the treasurer office handles tax billing, collection, and distribution for taxing entities, county monies directed by law to the treasurer, and Kansas Department of Revenue motor-vehicle work for Ellis County residents. KCTA lists Ruder as having taken office in 2021 and lists services such as online tax payments, escrow options, ACH or wire property-tax payment, notary services, and a 24-hour drop box. Sources: [Ellis County Treasury](https://www.ellisco.net/566/Treasury), [Kansas County Treasurers Association](https://kansastreasurers.org/index.php/directory/ellis-county/).\\n\\nHis public-service message also appears in school civic events. At a 2024 TMP-Marian voter-education event, Ruder told students voting can make a difference in county and city government by putting people in office who can do a good job for them. At a Hays Middle School event later that year, he recommended getting involved in community and local politics early. Sources: [Hays Post, Feb. 22, 2024](https://hayspost.com/posts/2cb7cdcf-1199-4696-8356-6849a960b247), [Hays Post, Sept. 30, 2024](https://hayspost.com/posts/fd6be90b-bcb4-49d7-bf9a-20194a876c3c).\\n\\nElectorally, the public record shows him winning the office in 2020 and continuing as incumbent. Hays Post preliminary 2020 results showed Ruder defeating Democrat Julie Mercer and write-ins in the general election. Hays Post preliminary 2024 results showed incumbent Ruder with all precincts reporting, and Ellis County's official election-results page links the official 2024 results. In 2025, Hays Post reported that County Clerk Bobbi Dreiling administered the oath of office to re-elected County Treasurer Vern Ruder. Sources: [Hays Post, Nov. 4, 2020](https://hayspost.com/posts/fd0105da-9c9e-469c-a595-d2221ee9b2fb), [Hays Post, Nov. 6, 2024](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496), [Ellis County Election Results](https://www.ellisco.net/435/Election-Results), [Hays Post, Oct. 13, 2025](https://hayspost.com/posts/769b9cc3-43f2-4772-9389-e5a962d9a36a).\\n\\nVisible absences are important. Ruder's 2020 letter gave voteruderfortreasurer@gmail.com and said readers could message him on his Facebook page, but I did not verify accessible public Facebook content during this capture. I found no current campaign website, no usable campaign Facebook archive, no clearly attributable LinkedIn activity, and no public X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or candidate-controlled YouTube account. The public message is therefore best understood through the 2020 campaign letter/profile, county office pages, office-policy reporting, election results, and civic-event comments, not through a live campaign-social operation.\\n\\nMethodology: I reviewed public sources visible through May 11, 2026, including official Ellis County treasury and election pages, the Kansas County Treasurers Association profile, Hays Post candidate coverage, Ruder's signed Hays Post letter, motor-vehicle fee coverage, election results, civic-event articles, and targeted searches for campaign websites and major social platforms. I did not use the reported bad campaignWebsite value and did not fabricate inaccessible social content.\\n\\nDisclaimer: This summary reflects accessible public, candidate-controlled, official-office, or candidate-attributed messaging. It is not a complete archive of private accounts, deleted posts, login-only social-media activity, every public meeting statement, or every local-news mention.\",",
+      "sourceUrl": "https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4",
+      "sourceFile": "ui/src/data/candidates.ts:43879",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l43879"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0005",
+      "evidenceRowId": "em-ruth-ruder-00743",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/aaron-cunningham-653b3094/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[LinkedIn](https://www.linkedin.com/in/aaron-cunningham-653b3094/) -- lists K-State education",
+      "sourceUrl": "https://www.linkedin.com/in/aaron-cunningham-653b3094/",
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:627",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l627"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ruth-ruder-0006",
+      "evidenceRowId": "em-ruth-ruder-00003",
+      "platform": "Facebook",
+      "actionType": "absence",
+      "target": "https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "At time of harvest, Ruth Ruder does not maintain a detectable personal public social-media presence. No campaign Facebook page, no X / Twitter account, no Instagram account, no public LinkedIn profile, no YouTube channel, and no Substack or Truth Social account was found indexed under her name during the harvest window. The single Facebook hit returned for her name is a 2023 community-organization post congratulating her on a Wonder Women League honor ([source](https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447)). The harvested record consists of two 2023 candidate questionnaires published by Hays Post and a recurring set of board-meeting quotes captured by Hays Post over the 2024 to 2026 period. Voters who want to read her own direct statements will find them almost exclusively in board-meeting coverage, not on a candidate-controlled feed.",
+      "sourceUrl": "https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447",
+      "sourceFile": "memory/candidates/ruth-ruder/in-their-own-words.md:7",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-in-their-own-words-md-l7",
+        "mem-ui-src-data-candidates-ts-l46508"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-ruth-ruder-0007",
+      "evidenceRowId": "em-ruth-ruder-00580",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/EllisCountyDistrict1/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Facebook -- Commissioner Ellis County 1st District](https://www.facebook.com/EllisCountyDistrict1/) -- Active public page for his commissioner seat",
+      "sourceUrl": "https://www.facebook.com/EllisCountyDistrict1/",
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:418",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l418"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ruth-ruder-0008",
+      "evidenceRowId": "em-ruth-ruder-00583",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Facebook Page](https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/)",
+      "sourceUrl": "https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/",
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:750",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l427",
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l750"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ruth-ruder-0009",
+      "evidenceRowId": "em-ruth-ruder-01804",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/EllisCountyDistrict1/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "[Facebook -- Commissioner Ellis County 1st District](https://www.facebook.com/EllisCountyDistrict1/)",
+      "sourceUrl": "https://www.facebook.com/EllisCountyDistrict1/",
+      "sourceFile": "memory/candidates/ruth-ruder/site-profile.md:84",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-site-profile-md-l84"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ruth-ruder-0010",
+      "evidenceRowId": "em-ruth-ruder-01902",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "U-1: No detectable personal social-media footprint. Per the in-their-own-words harvest, Ruth Ruder maintains no detectable personal Facebook page, X / Twitter account, Instagram, LinkedIn, YouTube channel, Substack, Truth Social, Reddit, or TikTok account in the search window (July 2023 – April 2026). The single Facebook hit under her name is a 2023 community-organization post congratulating her on a Wonder Women League honor (https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447). This is itself an observation — a board member of a $93.5M district with effectively zero candidate-controlled platform footprint — and may warrant a single line in the narrative on \"where to find her direct statements\" (answer: board meetings and Hays Post coverage, not a personal feed). NOT an issue card on its own.",
+      "sourceUrl": "https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447",
+      "sourceFile": "memory/candidates/ruth-ruder/sleuth-pass.md:134",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-sleuth-pass-md-l134"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ruth-ruder-0011",
+      "evidenceRowId": "em-ruth-ruder-02930",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "strong",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "\"url\": \"https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/\"",
+      "sourceUrl": "https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/",
+      "sourceFile": "ui/src/data/candidates.ts:43941",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l43917",
+        "mem-ui-src-data-candidates-ts-l43929",
+        "mem-ui-src-data-candidates-ts-l43941"
+      ],
+      "caveat": "Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive."
+    },
+    {
+      "id": "soc-ruth-ruder-0012",
+      "evidenceRowId": "em-ruth-ruder-00246",
+      "platform": "Facebook",
+      "actionType": "absence",
+      "target": "https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Personal social-media footprint. No personal Facebook, X, Instagram, LinkedIn, YouTube, Substack, Truth Social, Reddit, or TikTok account detected. Single hit under her name remains the 2023 Wonder Women League community-organization Facebook post (https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447). Content fact — absence of platform footprint is itself observable.",
+      "sourceUrl": "https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447",
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump-v2.md:336",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-v2-md-l336"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-ruth-ruder-0013",
+      "evidenceRowId": "em-ruth-ruder-00291",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| s-fb-ruder-wonderwomen-2023 | https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447 | Only personal-name Facebook hit (community-organization honor, not a candidate-controlled post) |",
+      "sourceUrl": "https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447",
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump-v2.md:392",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-v2-md-l392"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0014",
+      "evidenceRowId": "em-ruth-ruder-00533",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/nathan-leiker-1236bb276",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[LinkedIn](https://www.linkedin.com/in/nathan-leiker-1236bb276) -- VP at L5 Farms Inc.",
+      "sourceUrl": "https://www.linkedin.com/in/nathan-leiker-1236bb276",
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:348",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l348"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0015",
+      "evidenceRowId": "em-ruth-ruder-00547",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/nathan-leiker-1236bb276",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[LinkedIn Profile](https://www.linkedin.com/in/nathan-leiker-1236bb276)",
+      "sourceUrl": "https://www.linkedin.com/in/nathan-leiker-1236bb276",
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:369",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l369"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0016",
+      "evidenceRowId": "em-ruth-ruder-00665",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/aaron-cunningham-653b3094/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "[LinkedIn](https://www.linkedin.com/in/aaron-cunningham-653b3094/)",
+      "sourceUrl": "https://www.linkedin.com/in/aaron-cunningham-653b3094/",
+      "sourceFile": "memory/candidates/ruth-ruder/site-profile.md:102",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l528",
+        "mem-memory-candidates-ruth-ruder-site-profile-md-l81",
+        "mem-memory-candidates-ruth-ruder-site-profile-md-l102"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0017",
+      "evidenceRowId": "em-ruth-ruder-01919",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "| social | https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447 | U-1 (only personal-name Facebook hit; community-org honor, not her own post) |",
+      "sourceUrl": "https://www.facebook.com/photo.php?fbid=644520724592613&id=100071040736523&set=a.200235762354447",
+      "sourceFile": "memory/candidates/ruth-ruder/sleuth-pass.md:158",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-sleuth-pass-md-l158"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0018",
+      "evidenceRowId": "em-ruth-ruder-00008",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/in-their-own-words.md:17",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        6,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Economy / jobs / labor",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Ruder's platform footprint at the time of this harvest is effectively zero personal accounts and several institutional surfaces where she appears as a representative of Golden Plains Credit Union, where she serves as Vice-President of the Hays branch, or as a USD 489 board member. Voters seeking direct statements from Ruth Ruder will find them in Hays Post candidate questionnaires, in Hays Post and KAYS Radio coverage of USD 489 board meetings, in the live and archived USD 489 board-meeting video stream published by the district, and at in-person USD 489 board meetings open to the public.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/in-their-own-words.md:17",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-in-their-own-words-md-l17",
+        "mem-ui-src-data-candidates-ts-l46518"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0019",
+      "evidenceRowId": "em-ruth-ruder-00009",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:46522",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Methodology: Date range covered: July 2023 to April 2026. Platforms surveyed: Facebook, X / Twitter, Instagram, LinkedIn, YouTube, Substack, Truth Social, Reddit, TikTok. Personal accounts detected: zero. Indirect sources used: two 2023 Hays Post candidate questionnaires and approximately ten Hays Post articles covering USD 489 board meetings between 2024 and 2026. Quotes are verbatim from indexed sources; links lead to source. We report patterns; we do not interpret intent.,",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:46522",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-in-their-own-words-md-l21",
+        "mem-ui-src-data-candidates-ts-l46522"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0020",
+      "evidenceRowId": "em-ruth-ruder-00019",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump-v2.md:15",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Primary-tier upgrade pass on the 6 motion-records flagged in sleuth-pass.md. The sleuth pass surfaced verbatim quotes via Hays Post secondary coverage; this pass anchors each observation to a specific board-meeting date, agenda item context, roll-call structure, and (where retrievable) named-vote attribution. Primary tier in this brief means dated USD 489 board-meeting record with roll-call structure attributed in contemporaneous reporting; full BoardDocs PDFs were not directly retrievable due to JavaScript-rendered platform and HTTP 403 to non-browser fetches (recorded as blocker below), but each meeting date is independently corroborated and the roll-call structure is documented in the Hays Post coverage of each motion.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump-v2.md:15",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-v2-md-l15"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0021",
+      "evidenceRowId": "em-ruth-ruder-02936",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:45110",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        4,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"USD 489 official pages\",\"USD 489 Diligent/HighBond portal\",\"USD 489 meeting/video entry points\",\"Ellis County election pages\",\"Hays Post\",\"Tiger Media Network\",\"LinkedIn\",\"GoodParty.org\",\"Celebration Community Church\",\"Facebook\",\"X / Twitter\",\"Instagram\",\"YouTube\",\"TikTok\",\"Bluesky\",\"Threads\",\"Truth Social\",\"Gab\",\"Gettr\",\"Substack\",\"Medium\",\"Reddit\",\"Public search\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:45110",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l45110"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0022",
+      "evidenceRowId": "em-ruth-ruder-03057",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ruth-ruder.ts:298",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        6,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Economy / jobs / labor",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"observation\": \"Ruder's platform footprint at the time of this harvest is effectively zero personal accounts and several institutional surfaces where she appears as a representative of Golden Plains Credit Union, where she serves as Vice-President of the Hays branch, or as a USD 489 board member. Voters seeking direct statements from Ruth Ruder will find them in Hays Post candidate questionnaires, in Hays Post and KAYS Radio...\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ruth-ruder.ts:298",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ruth-ruder-ts-l298"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0023",
+      "evidenceRowId": "em-ruth-ruder-01013",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump.md:1031",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No faith or church references found in her candidate profiles, HaysPost Q&As, or social media",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:1031",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l1031"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0024",
+      "evidenceRowId": "em-ruth-ruder-00289",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump-v2.md:388",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social tier (no candidate-controlled accounts; presence-only signal)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump-v2.md:388",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-v2-md-l388"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0025",
+      "evidenceRowId": "em-ruth-ruder-00500",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "reports/ellis-county-elected-officials-deep-investigation.md:614",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social Media & Online Presence",
+      "sourceUrl": null,
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:614",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l301",
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l347",
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l417",
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l626",
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l857",
+        "mem-reports-ellis-county-elected-officials-deep-investigation-md-l614"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0026",
+      "evidenceRowId": "em-ruth-ruder-00855",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump.md:778",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Extremely limited. No Facebook campaign page found. No LinkedIn found. No Twitter/X found.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:778",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l778"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0027",
+      "evidenceRowId": "em-ruth-ruder-00909",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump.md:858",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No Facebook campaign page found",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:858",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l858",
+        "mem-reports-ellis-county-elected-officials-deep-investigation-md-l615"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0028",
+      "evidenceRowId": "em-ruth-ruder-01769",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump.md:2461",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "The second pass reinforced her Hays High and Golden Plains background and the district board portal record. I also checked for additional public-record angles such as property, court, and archived social content, but nothing attributable enough surfaced to change the profile.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:2461",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l2461"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0029",
+      "evidenceRowId": "em-ruth-ruder-01843",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/sleuth-pass.md:23",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Facebook public-page search under Ruth's name — single 2023 community hit (Wonder Women League honor); no personal candidate/officeholder page detected",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/sleuth-pass.md:23",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-sleuth-pass-md-l23"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0030",
+      "evidenceRowId": "em-ruth-ruder-01954",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/v2-issues.yaml:19",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "SOCIAL: None. Ruth Ruder maintains no candidate-controlled platform",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/v2-issues.yaml:19",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-v2-issues-yaml-l19"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0031",
+      "evidenceRowId": "em-ruth-ruder-02569",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/v2-issues.yaml:940",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "note: \"Every action is backed by at least one tier-secondary or tier-primary source. No action is backed only by social tier (no social signals exist on this candidate).\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/v2-issues.yaml:940",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-v2-issues-yaml-l940"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0032",
+      "evidenceRowId": "em-ruth-ruder-02571",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/v2-issues.yaml:942",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "note_social: \"Ruth Ruder has no candidate-controlled social platforms. socialSignals[] is intentionally empty on every issue.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/v2-issues.yaml:942",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-v2-issues-yaml-l942"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0033",
+      "evidenceRowId": "em-ruth-ruder-02707",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/v2-issues.yaml:1112",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Ruth Ruder has no candidate-controlled social-media accounts in the",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/v2-issues.yaml:1112",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-v2-issues-yaml-l1112"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0034",
+      "evidenceRowId": "em-ruth-ruder-02734",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "reports/ellis-county-elected-officials-deep-investigation.md:616",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No LinkedIn found",
+      "sourceUrl": null,
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:616",
+      "sourceIds": [
+        "mem-reports-ellis-county-elected-officials-deep-investigation-md-l616"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0035",
+      "evidenceRowId": "em-ruth-ruder-02735",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "reports/ellis-county-elected-officials-deep-investigation.md:617",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No Twitter/X found",
+      "sourceUrl": null,
+      "sourceFile": "reports/ellis-county-elected-officials-deep-investigation.md:617",
+      "sourceIds": [
+        "mem-reports-ellis-county-elected-officials-deep-investigation-md-l617"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0036",
+      "evidenceRowId": "em-ruth-ruder-02914",
+      "platform": "Bluesky",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:43881",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"Ellis County treasury page\",\"Ellis County election pages\",\"Kansas County Treasurers Association\",\"Hays Post\",\"Facebook\",\"LinkedIn\",\"X / Twitter\",\"Instagram\",\"Threads\",\"Bluesky\",\"TikTok\",\"Substack\",\"YouTube\",\"Public search\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:43881",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l43881"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0037",
+      "evidenceRowId": "em-ruth-ruder-01846",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/sleuth-pass.md:27",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Surface area for Ruth Ruder is observation-of-record at board meetings, not personal-account expression. There is effectively no candidate-controlled platform footprint to analyze; what exists is meeting-coverage capture by local press.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/sleuth-pass.md:27",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-sleuth-pass-md-l27"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0038",
+      "evidenceRowId": "em-ruth-ruder-02977",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:46524",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platformsCovered\": [\"Facebook\", \"X\", \"Instagram\", \"LinkedIn\", \"YouTube\", \"Substack\", \"Truth Social\", \"Reddit\", \"TikTok\", \"Local news\"],",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:46524",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l46524"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0039",
+      "evidenceRowId": "em-ruth-ruder-00296",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump-v2.md:403",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Per the schema requirement that each ActionEvidence must be backed by at least one primary or secondary source (pure social backing is rejected), every AE in this brief is buildable because every AE is anchored to at least one tier-secondary Hays Post or Tiger Media Network article, and each carries the BoardDocs primary upgrade path as documented in the sources registry.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump-v2.md:403",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-v2-md-l403"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0040",
+      "evidenceRowId": "em-ruth-ruder-00311",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump-v2.md:429",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Primary BoardDocs PDFs not directly retrieved due to environmental HTTP 403 / JS-rendered platform blocker (recorded above); upgrade path documented for each AE",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump-v2.md:429",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-v2-md-l429"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0041",
+      "evidenceRowId": "em-ruth-ruder-00502",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump.md:303",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No LinkedIn profile found",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:303",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l303",
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l419"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0042",
+      "evidenceRowId": "em-ruth-ruder-00503",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump.md:304",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No Twitter/X presence found",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:304",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l304",
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l350",
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l420"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0043",
+      "evidenceRowId": "em-ruth-ruder-00534",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump.md:349",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Facebook profile exists (limited public info)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:349",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l349"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0044",
+      "evidenceRowId": "em-ruth-ruder-00615",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump.md:467",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Certified Public Manager (CPM) designation (listed on LinkedIn)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:467",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l467"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0045",
+      "evidenceRowId": "em-ruth-ruder-00910",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump.md:859",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No LinkedIn found",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:859",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l859"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0046",
+      "evidenceRowId": "em-ruth-ruder-00911",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump.md:860",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "No Twitter/X found",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:860",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l860"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0047",
+      "evidenceRowId": "em-ruth-ruder-00983",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump.md:977",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social media (Facebook, about.me, LinkedIn)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:977",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l977"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0048",
+      "evidenceRowId": "em-ruth-ruder-01715",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump.md:2373",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Social media profiles -- Facebook, Instagram, Twitter/X accounts for each member could not be directly accessed via search tools. Manual review recommended.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:2373",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l2373"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0049",
+      "evidenceRowId": "em-ruth-ruder-01844",
+      "platform": "Instagram",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/sleuth-pass.md:24",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "X / Twitter, Instagram, LinkedIn, YouTube, Substack, Truth Social, Reddit, TikTok — no personal account detected in the harvest window per in-their-own-words.md",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/sleuth-pass.md:24",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-sleuth-pass-md-l24"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0050",
+      "evidenceRowId": "em-ruth-ruder-01956",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/v2-issues.yaml:21",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Facebook hit recorded but not behavior-attributable to her.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/v2-issues.yaml:21",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-v2-issues-yaml-l21"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0051",
+      "evidenceRowId": "em-ruth-ruder-02570",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/v2-issues.yaml:941",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "social_signal_mapping: N/A",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/v2-issues.yaml:941",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-v2-issues-yaml-l941"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0052",
+      "evidenceRowId": "em-ruth-ruder-02705",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/v2-issues.yaml:1110",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "social_signal_count: 0",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/v2-issues.yaml:1110",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-v2-issues-yaml-l1110"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0053",
+      "evidenceRowId": "em-ruth-ruder-02706",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/v2-issues.yaml:1111",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "note_social_signals: |",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/v2-issues.yaml:1111",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-v2-issues-yaml-l1111"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0054",
+      "evidenceRowId": "em-ruth-ruder-02708",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/v2-issues.yaml:1113",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "harvest window (sleuth U-1, raw-dump-v2 gap 9). socialSignals[] is",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/v2-issues.yaml:1113",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-v2-issues-yaml-l1113"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0055",
+      "evidenceRowId": "em-ruth-ruder-02710",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/v2-issues.yaml:1115",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "Facebook hit under her name is recorded in raw-dump-v2 sources",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/v2-issues.yaml:1115",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-v2-issues-yaml-l1115"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0056",
+      "evidenceRowId": "em-ruth-ruder-02790",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "reports/mason-ruder-complete-dossier.md:20",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "| Twitter/X | @agentruder |",
+      "sourceUrl": null,
+      "sourceFile": "reports/mason-ruder-complete-dossier.md:20",
+      "sourceIds": [
+        "mem-reports-mason-ruder-complete-dossier-md-l20"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0057",
+      "evidenceRowId": "em-ruth-ruder-02840",
+      "platform": "X / Twitter",
+      "actionType": "online-reference",
+      "target": "reports/mason-ruder-complete-dossier.md:216",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "@agentruder Twitter/X feed (requires direct viewing -- X blocks automated scraping)",
+      "sourceUrl": null,
+      "sourceFile": "reports/mason-ruder-complete-dossier.md:216",
+      "sourceIds": [
+        "mem-reports-mason-ruder-complete-dossier-md-l216"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0058",
+      "evidenceRowId": "em-ruth-ruder-02929",
+      "platform": "LinkedIn",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:43916",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"title\": \"Linkedin.Com\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:43916",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l43916",
+        "mem-ui-src-data-candidates-ts-l43944"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0059",
+      "evidenceRowId": "em-ruth-ruder-02932",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "ui/src/data/candidates.ts:43928",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"title\": \"Facebook.Com\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/candidates.ts:43928",
+      "sourceIds": [
+        "mem-ui-src-data-candidates-ts-l43928",
+        "mem-ui-src-data-candidates-ts-l43940"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0060",
+      "evidenceRowId": "em-ruth-ruder-03015",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ruth-ruder.ts:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ruth-ruder.ts:1",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ruth-ruder-ts-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0061",
+      "evidenceRowId": "em-ruth-ruder-03017",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ruth-ruder.ts:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "node scripts/hydrate-v2-social-signals.mjs",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ruth-ruder.ts:3",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ruth-ruder-ts-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0062",
+      "evidenceRowId": "em-ruth-ruder-03026",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ruth-ruder.ts:66",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Public web\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ruth-ruder.ts:66",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ruth-ruder-ts-l66",
+        "mem-ui-src-data-v2-ruth-ruder-ts-l317"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0063",
+      "evidenceRowId": "em-ruth-ruder-03031",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ruth-ruder.ts:76",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"Hays Post\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ruth-ruder.ts:76",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ruth-ruder-ts-l76",
+        "mem-ui-src-data-v2-ruth-ruder-ts-l230",
+        "mem-ui-src-data-v2-ruth-ruder-ts-l297",
+        "mem-ui-src-data-v2-ruth-ruder-ts-l307"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0064",
+      "evidenceRowId": "em-ruth-ruder-03034",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ruth-ruder.ts:86",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"platform\": \"hayspost.com\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ruth-ruder.ts:86",
+      "sourceIds": [
+        "mem-ui-src-data-v2-ruth-ruder-ts-l86",
+        "mem-ui-src-data-v2-ruth-ruder-ts-l120",
+        "mem-ui-src-data-v2-ruth-ruder-ts-l130",
+        "mem-ui-src-data-v2-ruth-ruder-ts-l140",
+        "mem-ui-src-data-v2-ruth-ruder-ts-l220",
+        "mem-ui-src-data-v2-ruth-ruder-ts-l240"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0065",
+      "evidenceRowId": "em-ruth-ruder-00585",
+      "platform": "Facebook",
+      "actionType": "comment",
+      "target": "https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[Hays Daily News -- Berges Commission Comment](https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/)",
+      "sourceUrl": "https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/",
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:430",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l430",
+        "mem-memory-candidates-ruth-ruder-site-profile-md-l87"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0066",
+      "evidenceRowId": "em-ruth-ruder-00761",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Facebook: [Bobbi Dreiling for Ellis County Clerk](https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/)",
+      "sourceUrl": "https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/",
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:654",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l654"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0067",
+      "evidenceRowId": "em-ruth-ruder-01809",
+      "platform": "Facebook",
+      "actionType": "post",
+      "target": "https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[Bobbi Dreiling for Ellis County Clerk](https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/)",
+      "sourceUrl": "https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/",
+      "sourceFile": "memory/candidates/ruth-ruder/site-profile.md:110",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-site-profile-md-l110"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0068",
+      "evidenceRowId": "em-ruth-ruder-00591",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/scott-braun-cpm-62833366/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "LinkedIn: [linkedin.com/in/scott-braun-cpm-62833366](https://www.linkedin.com/in/scott-braun-cpm-62833366/)",
+      "sourceUrl": "https://www.linkedin.com/in/scott-braun-cpm-62833366/",
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:440",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l440"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0069",
+      "evidenceRowId": "em-ruth-ruder-01590",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/ron-wilson-96762118a/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "LinkedIn: [linkedin.com/in/ron-wilson-96762118a](https://www.linkedin.com/in/ron-wilson-96762118a/)",
+      "sourceUrl": "https://www.linkedin.com/in/ron-wilson-96762118a/",
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:2204",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l2204"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0070",
+      "evidenceRowId": "em-ruth-ruder-01805",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/scott-braun-cpm-62833366/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[linkedin.com/in/scott-braun-cpm-62833366](https://www.linkedin.com/in/scott-braun-cpm-62833366/)",
+      "sourceUrl": "https://www.linkedin.com/in/scott-braun-cpm-62833366/",
+      "sourceFile": "memory/candidates/ruth-ruder/site-profile.md:88",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-site-profile-md-l88"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0071",
+      "evidenceRowId": "em-ruth-ruder-01813",
+      "platform": "LinkedIn",
+      "actionType": "post",
+      "target": "https://www.linkedin.com/in/ron-wilson-96762118a/",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "[linkedin.com/in/ron-wilson-96762118a](https://www.linkedin.com/in/ron-wilson-96762118a/)",
+      "sourceUrl": "https://www.linkedin.com/in/ron-wilson-96762118a/",
+      "sourceFile": "memory/candidates/ruth-ruder/site-profile.md:222",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-site-profile-md-l222"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0072",
+      "evidenceRowId": "em-ruth-ruder-01323",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump.md:1740",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        4,
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Religious liberty / church / civic morality",
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Assessment: Jeff Colyer has a Catholic education background from Hays, and his policy positions align with Catholic social teaching on life issues. However, his international medical work is through a secular organization (International Medical Corps), not a faith-based one. His current church affiliation is unknown. He may still be Catholic, he may have shifted denominations, or he may be a private worshiper. The fact that his campaign and official profiles do not prominently feature church membership is notable for a Republican running in a Kansas primary. Recommend direct inquiry.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:1740",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l1740"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0073",
+      "evidenceRowId": "em-ruth-ruder-01871",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/sleuth-pass.md:73",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Primary source upgrade path: USD 489 BoardDocs roll-calls for each cited motion would upgrade these to tier-primary. The platform exists (go.boarddocs.com/ks/usd489) and per the project's Allen Park PoC is the standard verification surface. Recommend deep-scraper (Stage 2.b) pull the specific meeting packets.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/sleuth-pass.md:73",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-sleuth-pass-md-l73"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0074",
+      "evidenceRowId": "em-ruth-ruder-00863",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump.md:791",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        11
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Rebecca Herzog has the thinnest public information profile of all eight elected officials. No news interviews, no candidate profiles, no social media presence found. Additional investigation would require direct outreach or courthouse records review.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:791",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l791"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0075",
+      "evidenceRowId": "em-ruth-ruder-00740",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump.md:622",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Both share the Cunningham surname and both are in Hays public office, but no public record, news article, or social media post confirms they are related",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:622",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l622"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0076",
+      "evidenceRowId": "em-ruth-ruder-00501",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump.md:302",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "No dedicated Facebook page found for his commissioner seat (unlike Berges)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:302",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l302"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0077",
+      "evidenceRowId": "em-ruth-ruder-00570",
+      "platform": "Facebook",
+      "actionType": "online-reference",
+      "target": "memory/candidates/ruth-ruder/raw-dump.md:404",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "Hays Daily News Quote: \"Commissioners are not...\" (partial quote from Facebook post by Hays Daily News about Berges asserting commissioners' role/limitations)",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/ruth-ruder/raw-dump.md:404",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-raw-dump-md-l404"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-ruth-ruder-0078",
+      "evidenceRowId": "em-ruth-ruder-02066",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/ruth-ruder.ts:349",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"socialSignals\": []",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/ruth-ruder.ts:349",
+      "sourceIds": [
+        "mem-memory-candidates-ruth-ruder-v2-issues-yaml-l151",
+        "mem-memory-candidates-ruth-ruder-v2-issues-yaml-l198",
+        "mem-memory-candidates-ruth-ruder-v2-issues-yaml-l315",
+        "mem-memory-candidates-ruth-ruder-v2-issues-yaml-l397",
+        "mem-memory-candidates-ruth-ruder-v2-issues-yaml-l455",
+        "mem-memory-candidates-ruth-ruder-v2-issues-yaml-l512",
+        "mem-ui-src-data-v2-ruth-ruder-ts-l63",
+        "mem-ui-src-data-v2-ruth-ruder-ts-l117",
+        "mem-ui-src-data-v2-ruth-ruder-ts-l217",
+        "mem-ui-src-data-v2-ruth-ruder-ts-l294",
+        "mem-ui-src-data-v2-ruth-ruder-ts-l349",
+        "mem-ui-src-data-v2-ruth-ruder-ts-l376"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    }
+  ],
+  "issueCoverage": {
+    "1": {
+      "issue": "Abortion / life",
+      "total": 2,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 2
+    },
+    "2": {
+      "issue": "LGBT / gender / parental rights",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "3": {
+      "issue": "Education / curriculum / schools",
+      "total": 11,
+      "strong": 1,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 8
+    },
+    "4": {
+      "issue": "Religious liberty / church / civic morality",
+      "total": 5,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 4
+    },
+    "5": {
+      "issue": "Taxes / spending / debt",
+      "total": 2,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 2
+    },
+    "6": {
+      "issue": "Economy / jobs / labor",
+      "total": 2,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 2
+    },
+    "7": {
+      "issue": "Guns / Second Amendment",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "8": {
+      "issue": "Immigration / border",
+      "total": 2,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 2
+    },
+    "9": {
+      "issue": "Health care / insurance / Medicaid",
+      "total": 3,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 2
+    },
+    "10": {
+      "issue": "Election integrity / voting / courts",
+      "total": 19,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 18
+    },
+    "11": {
+      "issue": "Public safety / law enforcement / criminal justice",
+      "total": 5,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 4
+    },
+    "12": {
+      "issue": "Agriculture / rural economy / water",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "13": {
+      "issue": "Local governance / transparency / ethics",
+      "total": 33,
+      "strong": 5,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 21
+    },
+    "14": {
+      "issue": "Environment / energy / land use",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    }
+  },
+  "caveats": [
+    "Social evidence is signal, not fact. A follow, like, share, or platform absence is not treated as a belief or policy position.",
+    "Candidate-controlled posts and campaign pages may be used as stated positions only when the text itself says the position.",
+    "Login-walled, blocked, or inaccessible platform content is documented as a capture limitation, not as evidence of silence."
+  ]
+}

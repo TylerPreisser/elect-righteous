@@ -1,0 +1,26 @@
+# Source Audit — sharilyn-ray — 2026-05-20
+
+## Summary
+- Unique source records: 8
+- Tier correction flags: 1
+- Invalid URL records: 0
+- Internal-file-only records: 7
+
+## Source Table
+| Source ID             | URL / File                                                                       | Assigned        | Recommended     | Tier OK | Status           | Rows |
+| --------------------- | -------------------------------------------------------------------------------- | --------------- | --------------- | ------- | ---------------- | ---- |
+| src-sharilyn-ray-0001 | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditu… | primary         | primary         | yes     | not-live-checked | 1    |
+| src-sharilyn-ray-0002 | memory/candidates/sharilyn-ray/social-harvest.md:20                              | social          | internal-memory | no      | internal-file    | 16   |
+| src-sharilyn-ray-0003 | ui/src/data/elections.ts:109                                                     | internal-memory | internal-memory | yes     | internal-file    | 34   |
+| src-sharilyn-ray-0004 | memory/candidates/sharilyn-ray/v2-issues.yaml:81                                 | internal-memory | internal-memory | yes     | internal-file    | 58   |
+| src-sharilyn-ray-0005 | ui/src/data/v2/sharilyn-ray.ts:77                                                | internal-memory | internal-memory | yes     | internal-file    | 25   |
+| src-sharilyn-ray-0006 | memory/candidates/sharilyn-ray/in-their-own-words.md:1                           | internal-memory | internal-memory | yes     | internal-file    | 7    |
+| src-sharilyn-ray-0007 | memory/candidates/sharilyn-ray/raw-dump-v2.md:1                                  | internal-memory | internal-memory | yes     | internal-file    | 1    |
+| src-sharilyn-ray-0008 | memory/candidates/sharilyn-ray/sleuth-pass.md:1                                  | internal-memory | internal-memory | yes     | internal-file    | 1    |
+
+## Tier Corrections Needed
+- src-sharilyn-ray-0002: assigned social; recommended internal-memory; memory/candidates/sharilyn-ray/social-harvest.md:20
+
+## Unsupported / Internal-Only Caveat
+- Internal memory rows are useful for preservation and context, but downstream profile claims should prefer public URL-backed rows whenever possible.
+- URLs were classified by domain/tier in this pass. Full live HTTP verification can be run as a later high-latency sweep if needed; blocked social/government pages should not be treated as factual failures without manual review.

@@ -1,0 +1,1793 @@
+# Fixed 14-Issue Matrix — jeff-colyer — 2026-05-20
+
+This matrix is built from `evidence-matrix.json`, `social-evidence-matrix.json`, and `source-audit.json`. It is a candidate-rebuild input, not final public prose.
+
+## 1. Abortion / life
+
+Abortion / life: 30 selected evidence items from 88 mapped rows. Public URL-backed rows: 11.
+
+### Evidence
+- **candidate-stated** [em-jeff-colyer-00756] Reproductive Rights: Supports reproductive freedom
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:1207
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-04013] description: "Current 25-point plan says Colyer would protect the unborn, provide options for young mothers, protect God-given rights, and protect lawful gun owners and hunters."
+  - Source: memory/candidates/jeff-colyer/v2-issues.yaml:301
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-04520] "body": "Current 25-point plan says Colyer would protect the unborn, provide options for young mothers, protect God-given rights, and protect lawful gun owners and hunters.",
+  - Source: ui/src/data/v2/jeff-colyer.ts:188
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00005] Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent ([harvest](social-harvest.md#topic-share-analysis)). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools ([source](https://jeffcolyer.com/)). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against "political agendas" in classrooms ([source](https://mobile.twstalker.com/DrJeffColyer)). The 2026 campaign site groups school choice, parental authority, abortion, the Second Amendment, and religious liberty under "Freedom to Thrive" ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://jeffcolyer.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00007] Abortion appears as a recurring moral and campaign issue. The 2026 campaign site says Colyer will "defend the unborn" ([source](https://www.colyerforgovernor.com/)). The older, still-live announcements archive includes a 2021 statement attacking abortion increases in Kansas and the Biden administration's budget position on the Hyde Amendment ([source](https://www.jeffcolyer.com/announcements.html)). That archive is older than the active 2026 campaign period, but it remains linked from the public campaign website and is consistent with the current site's abortion framing.
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00042] | s-campaign-old-announcements | primary | https://www.jeffcolyer.com/announcements.html | accessed 2026-05-19 | still-live 2021 archive on abortion, energy, KU adult stem-cell research, COVID closures | issue archive |
+  - Source: https://www.jeffcolyer.com/announcements.html
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00080] The older campaign announcements archive remains live and includes 2021 material on abortion, KU adult stem-cell research, oil/gas, COVID-era closures, and conservative identity. Treat this as older candidate-controlled archive material, not necessarily new 2026 platform detail.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:117
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00119] Topic-share coding across 29 accessible items: taxes/affordability/fraud/regulation/property rights 28%; education/parental rights/youth healthcare/school conflict/public safety 24%; campaign identity/Trump alignment/electability 17%; health/rural healthcare/KanCare/abortion/stem-cell 17%; sports/military/condolence/patriotic/community identity 14%.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:197
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-01763] > "How do we defend innocent life? I think this is one of the civil rights issues of our time. We have a Supreme Court that has found this right to abortion that is nowhere found in that constitution. It's our fastest-growing industry in the state of Kansas."
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2804
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-01779] As governor, supported state constitutional amendment to remove abortion rights protections (failed at ballot in 2022)
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2832
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-01817] > "We have a Supreme Court that has found this right to abortion that is nowhere found in that constitution. It's our fastest-growing industry in the state of Kansas."
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2903
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jeff-colyer-03773] | Campaign site | https://jeffcolyer.com/ | FOUND | Public site links X, Instagram, Facebook, and YouTube. Homepage pushes actions on critical race theory, private property rights, abortion, medical innovation, and oil/gas. |
+  - Source: https://jeffcolyer.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03774] | Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around "Faith & Family First," Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03789] Colyer's active campaign footprint is split between an older campaign domain, [jeffcolyer.com](https://jeffcolyer.com/), and a 2026-specific domain, [colyerforgovernor.com](https://www.colyerforgovernor.com/). The older site links his public X, Instagram, Facebook, and YouTube accounts and foregrounds action items on critical race theory, private property rights, abortion, KU stem-cell funding, and oil/gas policy. The homepage identifies him as a fifth-generation Kansan from Hays and says he is "dedicated to making a difference in people's lives" ([source](https://jeffcolyer.com/)).
+  - Source: https://jeffcolyer.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03815] [jeffcolyer.com homepage](https://jeffcolyer.com/), captured 2026-05-11. Key visible signals: critical race theory pledge, private property rights letter, abortion announcement, KU stem-cell research criticism, oil/gas criticism, bio, and social links.
+  - Source: https://jeffcolyer.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03816] [jeffcolyer.com/about](https://www.jeffcolyer.com/about), captured 2026-05-11. Key visible signals: Hays biography, family, surgeon identity, humanitarian war-zone work, pro-life record, KanCare, budget/stability claims, and education/workforce claims.
+  - Source: https://www.jeffcolyer.com/about
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03818] [jeffcolyer.com/announcements.html](https://www.jeffcolyer.com/announcements.html), captured 2026-05-11. The announcements page is largely a 2021 archive, but it remains live and visible from the campaign site; recurring themes include abortion, KU adult stem-cell research, oil/gas, COVID-era closures, conservative identity, and school/church/small-business framing.
+  - Source: https://www.jeffcolyer.com/announcements.html
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03819] [colyerforgovernor.com](https://www.colyerforgovernor.com/), captured 2026-05-11. Key visible signals: Trump quote, "Faith & Family First," lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03829] | Health, rural healthcare, medical biography, KanCare, abortion, and adult stem-cell research | 5 | 17% |
+  - Source: memory/candidates/jeff-colyer/social-harvest.md:85
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jeff-colyer-04330] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-jeff-colyer-00077] Issue Area 3 - Faith, Family, Abortion, Guns, and Religious Liberty
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:111
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jeff-colyer-00079] The current campaign plan groups several topics under "Faith, Values & Life / Faith & Family First." It includes "Protect God-given rights," "Protect the unborn and provide options for young mothers," and "Protect lawful gun owners and hunters from being targeted by the left."
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:115
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jeff-colyer-00545] Signed abortion restriction legislation
+  - Source: reports/faith-church-investigation-2026-03-31.md:771
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-jeff-colyer-03301] Abortion Votes -- THE KEY CONTROVERSY
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:5379
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00147] His 2026 messaging emphasizes CRT in schools, private-property rights, abortion policy, STEM innovation, and energy policy.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:19
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-01636] Abortion:
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2608
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-01637] Described abortion as "one of the civil rights issues of our time"
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2609
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-01638] Kansas should shed its status as "Midwest magnet for abortion"
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2610
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-01762] On Abortion:
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2803
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-01777] All six candidates found unity on: abortion opposition, marijuana legalization opposition, judicial bias concerns, and praise for President Trump
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2824
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous X / Twitter online-reference** [soc-jeff-colyer-0001] Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent ([harvest](social-harvest.md#topic-share-analysis)). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools ([source](https://jeffcolyer.com/)). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against "political agendas" in classrooms ([source](https://mobile.twstalker.com/DrJeffColyer)). The 2026 campaign site groups school choice, parental authority, abortion, the Second Amendment, and religious liberty under "Freedom to Thrive" ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://jeffcolyer.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-jeff-colyer-0008] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Facebook post** [soc-jeff-colyer-0009] | Campaign site | https://jeffcolyer.com/ | FOUND | Public site links X, Instagram, Facebook, and YouTube. Homepage pushes actions on critical race theory, private property rights, abortion, medical innovation, and oil/gas. |
+  - Source: https://jeffcolyer.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong colyerforgovernor.com post** [soc-jeff-colyer-0010] | Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around "Faith & Family First," Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong Facebook post** [soc-jeff-colyer-0011] Colyer's active campaign footprint is split between an older campaign domain, [jeffcolyer.com](https://jeffcolyer.com/), and a 2026-specific domain, [colyerforgovernor.com](https://www.colyerforgovernor.com/). The older site links his public X, Instagram, Facebook, and YouTube accounts and foregrounds action items on critical race theory, private property rights, abortion, KU stem-cell funding, and oil/gas policy. The homepage identifies him as a fifth-generation Kansan from Hays and says he is "dedicated to making a difference in people's lives" ([source](https://jeffcolyer.com/)).
+  - Source: https://jeffcolyer.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong jeffcolyer.com post** [soc-jeff-colyer-0012] [jeffcolyer.com homepage](https://jeffcolyer.com/), captured 2026-05-11. Key visible signals: critical race theory pledge, private property rights letter, abortion announcement, KU stem-cell research criticism, oil/gas criticism, bio, and social links.
+  - Source: https://jeffcolyer.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong jeffcolyer.com post** [soc-jeff-colyer-0013] [jeffcolyer.com/about](https://www.jeffcolyer.com/about), captured 2026-05-11. Key visible signals: Hays biography, family, surgeon identity, humanitarian war-zone work, pro-life record, KanCare, budget/stability claims, and education/workforce claims.
+  - Source: https://www.jeffcolyer.com/about
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong jeffcolyer.com post** [soc-jeff-colyer-0014] [jeffcolyer.com/announcements.html](https://www.jeffcolyer.com/announcements.html), captured 2026-05-11. The announcements page is largely a 2021 archive, but it remains live and visible from the campaign site; recurring themes include abortion, KU adult stem-cell research, oil/gas, COVID-era closures, conservative identity, and school/church/small-business framing.
+  - Source: https://www.jeffcolyer.com/announcements.html
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong colyerforgovernor.com post** [soc-jeff-colyer-0015] [colyerforgovernor.com](https://www.colyerforgovernor.com/), captured 2026-05-11. Key visible signals: Trump quote, "Faith & Family First," lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-jeff-colyer-0016] | Health, rural healthcare, medical biography, KanCare, abortion, and adult stem-cell research | 5 | 17% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 2. LGBT / gender / parental rights
+
+LGBT / gender / parental rights: 28 selected evidence items from 49 mapped rows. Public URL-backed rows: 7.
+
+### Evidence
+- **candidate-stated** [em-jeff-colyer-00072] The "Education & Family / Freedom to Learn" pillar says Colyer would get "woke" out of schools, focus schools on math/reading/tech, teach STEM and adulthood preparation, provide better options when a school fails a family, and strengthen parental rights.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:99
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-00814] Transgender Athletes: OPPOSES transgender girls competing in girls' sports (unusual for a Democrat)
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:1317
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-03640] Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.
+  - Source: memory/candidates/jeff-colyer/site-profile.md:21
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-03742] Education and parental rights: The 25-point plan says to get "woke" out of schools, focus on math/reading/tech, teach STEM, provide options when a school fails a family, and strengthen parental rights. Local harvest also found classroom and "education not indoctrination" posts. Map social signals here when they reference schools, curriculum, or parental authority.
+  - Source: memory/candidates/jeff-colyer/sleuth-pass.md:40
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-03988] "text": "Colyer's education message combines curriculum focus, parental rights, and school options. His 25-point plan says schools should focus on math, reading, technology, STEM, and adulthood preparation; it also says families should have better options if a school fails them and says parental rights should be strengthened.",
+  - Source: ui/src/data/v2/jeff-colyer.ts:97
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-03993] description: "KCUR/KMUW reported Colyer said he wanted to prevent gender-affirming care for minors."
+  - Source: memory/candidates/jeff-colyer/v2-issues.yaml:257
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-04512] "body": "KCUR/KMUW reported Colyer said he wanted to prevent gender-affirming care for minors.",
+  - Source: ui/src/data/v2/jeff-colyer.ts:114
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00008] On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration ([source](https://www.colyerforgovernor.com/)). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport undocumented immigrants who are criminals, prevent gender-affirming care for minors, and bring tech and manufacturing jobs to Kansas ([source](https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-02121] [Kansas Reflector: Gender Marker $1 Fine](https://kansasreflector.com/2026/01/20/kansas-judge-rebukes-ag-kris-kobach-in-gender-marker-case-issues-symbolic-1-fine/)
+  - Source: https://kansasreflector.com/2026/01/20/kansas-judge-rebukes-ag-kris-kobach-in-gender-marker-case-issues-symbolic-1-fine/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00073] KCUR/KMUW launch coverage reports Colyer said he wanted to prevent gender-affirming care for minors. The 25-point plan also says "No child will be mutilated and men will not be in girls' locker rooms." Use that as candidate-controlled campaign language if quoted; paraphrase neutrally in prose as sex/gender/youth-health policy.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:101
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00119] Topic-share coding across 29 accessible items: taxes/affordability/fraud/regulation/property rights 28%; education/parental rights/youth healthcare/school conflict/public safety 24%; campaign identity/Trump alignment/electability 17%; health/rural healthcare/KanCare/abortion/stem-cell 17%; sports/military/condolence/patriotic/community identity 14%.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:197
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00943] Education/Parental Rights: Fought for "parents' rights, fiscal responsibility" on school board
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:1558
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-02260] Pushed for legislation requiring government buildings to restrict bathroom access by birth sex, with penalties up to $125,000/day
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3628
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-02261] After losing the driver's license gender marker case in court, went to the legislature to pass SB 244 to achieve the same goal legislatively -- the ACLU characterized this as a "power grab" and "poor sportsmanship over his recent losses"
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3629
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-02317] After courts reject his legal arguments, he goes to the legislature to pass laws achieving the same goals -- documented in the driver's license gender marker case and bathroom bills
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3705
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jeff-colyer-03799] a week ago -- Parents and medical decisions post. Engagement: 1 reply, 2 reposts, 28 likes, 590 views, 0 quotes. Topic: parental rights / minors' healthcare. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03820] [KCUR/KMUW campaign launch coverage](https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race), published 2025-05-16. Key visible signals: Trump comparison, 47/49 governor framing, cancer recovery, taxes/property taxes, school litigation, border/deportation, gender-affirming care for minors, tech/manufacturing jobs.
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03827] | Education, parental rights, anti-woke schools, youth healthcare, campus/school conflict, and public safety | 7 | 24% |
+  - Source: memory/candidates/jeff-colyer/social-harvest.md:83
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jeff-colyer-04330] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-jeff-colyer-00544] Signed the Adoption Protection Act as governor (allows religious adoption agencies to refuse placements to same-sex couples)
+  - Source: reports/faith-church-investigation-2026-03-31.md:770
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jeff-colyer-01574] May 2018: Signed Senate Bill 284 granting legal protections to faith-based adoption agencies that cite religious beliefs for not placing children in LGBTQ+ homes
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2518
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jeff-colyer-03641] Religious Liberty: As governor, signed Senate Bill 284 granting legal protections to faith-based adoption agencies that cite religious beliefs for not placing children in LGBTQ+ homes.
+  - Source: memory/candidates/jeff-colyer/site-profile.md:23
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-02119] [Kansas Reflector: Transgender Law](https://kansasreflector.com/2026/03/06/kansas-ag-offers-to-delay-enforcement-of-anti-trans-law-until-march-26-while-judge-weighs-challenge/)
+  - Source: https://kansasreflector.com/2026/03/06/kansas-ag-offers-to-delay-enforcement-of-anti-trans-law-until-march-26-while-judge-weighs-challenge/
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-02266] [LGBTQ Nation: Romney Surrogate Compares LGBT People to Drug Users](https://www.lgbtqnation.com/2012/08/top-romney-surrogate-compares-lgbt-people-to-drug-users-polygamists/)
+  - Source: https://www.lgbtqnation.com/2012/08/top-romney-surrogate-compares-lgbt-people-to-drug-users-polygamists/
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-00070] Issue Area 2 - Education, Parental Rights, and Youth Policy
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:95
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00991] Education: Restore parental rights in education
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:1648
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-02098] Title IX Transgender Regulations (May 2024): Sued Biden administration over rewrite of Title IX rules to include protections for LGBTQ+ students. Joined by Alaska, Utah, Wyoming. Won preliminary injunction (July 2024) blocking implementation nationwide -- declared it a "sweeping victory affecting all 50 states."
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3357
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-02258] On Transgender Issues
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3626
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-jeff-colyer-0008] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate mobile.twstalker.com comment** [soc-jeff-colyer-0018] a week ago -- Parents and medical decisions post. Engagement: 1 reply, 2 reposts, 28 likes, 590 views, 0 quotes. Topic: parental rights / minors' healthcare. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong kcur.org post** [soc-jeff-colyer-0019] [KCUR/KMUW campaign launch coverage](https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race), published 2025-05-16. Key visible signals: Trump comparison, 47/49 governor framing, cancer recovery, taxes/property taxes, school litigation, border/deportation, gender-affirming care for minors, tech/manufacturing jobs.
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-jeff-colyer-0020] | Education, parental rights, anti-woke schools, youth healthcare, campus/school conflict, and public safety | 7 | 24% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0130] Faith, family, abortion, guns, and religious liberty: The campaign plan groups abortion, gun owners/hunters, God-given rights, and sex/gender policy under "Faith & Family First." Primary action evidence exists from Colyer's governorship: SB 284, the Adoption Protection Act, was approved by the governor on May 18, 2018. Use neutral language: the bill created protections for child-placement agencies when placements would violate sincerely held religious beliefs; do not infer personal faith from the signature.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0131] "text": "Colyer's current campaign groups abortion, gun owners and hunters, farmers, God-given rights, sex/gender policy, and honest work under a 'Faith & Family First' pillar. The plan says he would protect the unborn and provide options for young mothers, protect lawful gun owners and hunters, and protect God-given rights.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0132] "observation": "Current campaign plan labels one pillar 'Faith & Family First' and places abortion, guns, farmers, God-given rights, and sex/gender policy in that pillar.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0135] KCUR/KMUW launch coverage reports Colyer said he wanted to prevent gender-affirming care for minors. The 25-point plan also says "No child will be mutilated and men will not be in girls' locker rooms." Use that as candidate-controlled campaign language if quoted; paraphrase neutrally in prose as sex/gender/youth-health policy.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0136] Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0137] Education and parental rights: The 25-point plan says to get "woke" out of schools, focus on math/reading/tech, teach STEM, provide options when a school fails a family, and strengthen parental rights. Local harvest also found classroom and "education not indoctrination" posts. Map social signals here when they reference schools, curriculum, or parental authority.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 3. Education / curriculum / schools
+
+Education / curriculum / schools: 37 selected evidence items from 212 mapped rows. Public URL-backed rows: 24.
+
+### Evidence
+- **candidate-stated** [em-jeff-colyer-00011] Several areas were absent or thin in the accessible reviewed set. The public material did not show sustained discussion of child care, foster care, housing costs, water policy, the Ogallala Aquifer, broadband, transportation infrastructure, higher education affordability, or detailed rural hospital finance. Medicaid appears mainly through Colyer's KanCare record rather than a current Medicaid-expansion debate. Veterans and service members appear through troop-support posts, but not through a detailed veterans-services platform ([harvest](social-harvest.md#visible-absences)).
+  - Source: memory/candidates/jeff-colyer/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-00072] The "Education & Family / Freedom to Learn" pillar says Colyer would get "woke" out of schools, focus schools on math/reading/tech, teach STEM and adulthood preparation, provide better options when a school fails a family, and strengthen parental rights.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:99
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-00211] STRONG INDICATOR = Family/school ties strongly suggest affiliation but no direct membership statement found
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:122
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-00813] School Vouchers: Opposes private schools receiving taxpayer funds or competing in public school athletics
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:1316
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-03742] Education and parental rights: The 25-point plan says to get "woke" out of schools, focus on math/reading/tech, teach STEM, provide options when a school fails a family, and strengthen parental rights. Local harvest also found classroom and "education not indoctrination" posts. Map social signals here when they reference schools, curriculum, or parental authority.
+  - Source: memory/candidates/jeff-colyer/sleuth-pass.md:40
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-03968] description: "KCUR/KMUW reported Colyer said at launch that, as governor, he held the line on taxes including property taxes and ended long-running school litigation."
+  - Source: memory/candidates/jeff-colyer/v2-issues.yaml:216
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-03988] "text": "Colyer's education message combines curriculum focus, parental rights, and school options. His 25-point plan says schools should focus on math, reading, technology, STEM, and adulthood preparation; it also says families should have better options if a school fails them and says parental rights should be strengthened.",
+  - Source: ui/src/data/v2/jeff-colyer.ts:97
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-03996] description: "KCUR/KMUW reported Colyer said he ended 50 years of school litigation while governor."
+  - Source: memory/candidates/jeff-colyer/v2-issues.yaml:264
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00005] Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent ([harvest](social-harvest.md#topic-share-analysis)). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools ([source](https://jeffcolyer.com/)). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against "political agendas" in classrooms ([source](https://mobile.twstalker.com/DrJeffColyer)). The 2026 campaign site groups school choice, parental authority, abortion, the Second Amendment, and religious liberty under "Freedom to Thrive" ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://jeffcolyer.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00377] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-01199] [Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)
+  - Source: https://www.usd489.com/page/board-of-education
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jeff-colyer-01263] [Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)
+  - Source: https://www.haysusa.com/335/Public-Library-Board
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jeff-colyer-02652] [Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-02653] [Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)
+  - Source: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jeff-colyer-02654] [Kansas Reflector: Board races could shift power to conservative bloc](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)
+  - Source: https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-04206] "url": "https://www.haysusa.com/335/Public-Library-Board"
+  - Source: https://www.haysusa.com/335/Public-Library-Board
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-jeff-colyer-00430] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:650
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-01686] Raised Catholic in Hays -- attended Thomas More Prep-Marian, a Catholic high school
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2688
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-03252] Vicki (maiden name Greene per WikiTree records) was born and raised in Wichita. She and Mike both attended Wichita South High School. Their families lived two blocks from each other and "shared similar upbringings focused on hard work, honesty, and faith." They went to the University of Kansas together and married in 1974. They have resided in Topeka for over 40 years, where they raised their two sons.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:5286
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jeff-colyer-03774] | Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around "Faith & Family First," Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03795] 2 days ago -- Greensburg classroom visit. Message: Kansas's future starts in classrooms; emphasis on phonics-based reading, math, writing, tech skills, and career preparation. Engagement: 3 replies, 1 repost, 12 likes, 553 views, 0 quotes. Topic: education. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03797] 5 days ago -- Anti-woke education post: "EDUCATION NOT INDOCTRINATION," with reading, writing, math, technology skills, and "real-world preparation." Engagement: 16 replies, 6 reposts, 38 likes, 1K views, 1 quote. Topic: education / anti-woke schools. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03816] [jeffcolyer.com/about](https://www.jeffcolyer.com/about), captured 2026-05-11. Key visible signals: Hays biography, family, surgeon identity, humanitarian war-zone work, pro-life record, KanCare, budget/stability claims, and education/workforce claims.
+  - Source: https://www.jeffcolyer.com/about
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03818] [jeffcolyer.com/announcements.html](https://www.jeffcolyer.com/announcements.html), captured 2026-05-11. The announcements page is largely a 2021 archive, but it remains live and visible from the campaign site; recurring themes include abortion, KU adult stem-cell research, oil/gas, COVID-era closures, conservative identity, and school/church/small-business framing.
+  - Source: https://www.jeffcolyer.com/announcements.html
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03819] [colyerforgovernor.com](https://www.colyerforgovernor.com/), captured 2026-05-11. Key visible signals: Trump quote, "Faith & Family First," lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03820] [KCUR/KMUW campaign launch coverage](https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race), published 2025-05-16. Key visible signals: Trump comparison, 47/49 governor framing, cancer recovery, taxes/property taxes, school litigation, border/deportation, gender-affirming care for minors, tech/manufacturing jobs.
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03822] [Kansas Reflector commentary on Katie Allen/Kansas Department of Education firing](https://kansasreflector.com/2025/10/14/kansas-officials-zeal-for-firing-state-employee-over-post-leaves-agency-taxpayers-in-the-lurch/), published 2025-10-14. Key visible signal: it links to and reports a Colyer X post saying KSDE "must fire Katie Allen for cause without delay," in the context of Charlie Kirk-related social-media controversy.
+  - Source: https://kansasreflector.com/2025/10/14/kansas-officials-zeal-for-firing-state-employee-over-post-leaves-agency-taxpayers-in-the-lurch/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jeff-colyer-00354] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jeff-colyer-04330] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-jeff-colyer-00083] Neutral framing: Do not infer Colyer's current church membership or personal religious state from campaign language, Catholic-school background, or SB 284 signature. State the public act and candidate-controlled framing only.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:123
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jeff-colyer-00113] The current campaign site is the strongest candidate-controlled online source. The "Colyer Commitment" page contains 25 commitments across five pillars: Economic Strength; Law, Order & Safety; Education & Family; Faith, Values & Life; and Government & Community. The endorsements page lists featured endorsements by Congressman Tracey Mann, Dr. Ben Carson, and Gov. Sarah Huckabee Sanders, plus "21+ Current & Former State Senators" and "10+ House Members." These are campaign-claimed endorsements unless matched to endorser-controlled channels.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:188
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00009] The highest visible engagement in the accessible social sample came from a quote-post about an Olathe anti-ICE student walkout and students holding Trump flags. The indexed X mirror showed 42 replies, 32 reposts, 223 likes, 18K views, and 6 quotes as of the May 11, 2026 capture ([harvest](social-harvest.md#engagement-review)). In that post, Colyer described the incident as not representative of Kansas and called on Democratic governor candidates to condemn violence and extremism ([source](https://mobile.twstalker.com/DrJeffColyer)).
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-00032] | s-kansapedia | primary | https://www.kansashistory.gov/kansapedia/jeff-colyer/20011 | accessed 2026-05-19 | state biography: governor, House, Senate, lieutenant governor, education/profession | biography, public office |
+  - Source: https://www.kansashistory.gov/kansapedia/jeff-colyer/20011
+  - Confidence/use: confirmed / use
+- **background-context** [em-jeff-colyer-00434] [HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-01200] [Ballotpedia: Hays USD 489 Elections](https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections)
+  - Source: https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-01327] | Hays USD 489 | 785-623-2400 | [usd489.com](https://www.usd489.com) |
+  - Source: https://www.usd489.com
+  - Confidence/use: confirmed / use
+- **background-context** [em-jeff-colyer-00070] Issue Area 2 - Education, Parental Rights, and Youth Policy
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:95
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous X / Twitter online-reference** [soc-jeff-colyer-0001] Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent ([harvest](social-harvest.md#topic-share-analysis)). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools ([source](https://jeffcolyer.com/)). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against "political agendas" in classrooms ([source](https://mobile.twstalker.com/DrJeffColyer)). The 2026 campaign site groups school choice, parental authority, abortion, the Second Amendment, and religious liberty under "Freedom to Thrive" ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://jeffcolyer.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate X / Twitter share/repost** [soc-jeff-colyer-0002] The highest visible engagement in the accessible social sample came from a quote-post about an Olathe anti-ICE student walkout and students holding Trump flags. The indexed X mirror showed 42 replies, 32 reposts, 223 likes, 18K views, and 6 quotes as of the May 11, 2026 capture ([harvest](social-harvest.md#engagement-review)). In that post, Colyer described the incident as not representative of Kansas and called on Democratic governor candidates to condemn violence and extremism ([source](https://mobile.twstalker.com/DrJeffColyer)).
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-jeff-colyer-0008] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong colyerforgovernor.com post** [soc-jeff-colyer-0010] | Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around "Faith & Family First," Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong jeffcolyer.com post** [soc-jeff-colyer-0013] [jeffcolyer.com/about](https://www.jeffcolyer.com/about), captured 2026-05-11. Key visible signals: Hays biography, family, surgeon identity, humanitarian war-zone work, pro-life record, KanCare, budget/stability claims, and education/workforce claims.
+  - Source: https://www.jeffcolyer.com/about
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong jeffcolyer.com post** [soc-jeff-colyer-0014] [jeffcolyer.com/announcements.html](https://www.jeffcolyer.com/announcements.html), captured 2026-05-11. The announcements page is largely a 2021 archive, but it remains live and visible from the campaign site; recurring themes include abortion, KU adult stem-cell research, oil/gas, COVID-era closures, conservative identity, and school/church/small-business framing.
+  - Source: https://www.jeffcolyer.com/announcements.html
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong colyerforgovernor.com post** [soc-jeff-colyer-0015] [colyerforgovernor.com](https://www.colyerforgovernor.com/), captured 2026-05-11. Key visible signals: Trump quote, "Faith & Family First," lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-jeff-colyer-0017] Across the accessible reviewed set, Colyer's current campaign material and indexed social feed did not show sustained attention to child care costs, foster care, housing affordability, water rights, the Ogallala Aquifer, broadband deployment, road and bridge funding, higher education affordability, veterans services beyond general troop support, or detailed hospital-finance mechanics beyond rural health positioning. Medicaid appears through Colyer's KanCare record rather than a fresh Medicaid expansion discussion. Abortion appears as a recurring moral/political issue; maternal health, infant mortality, and contraception policy were not visible in the reviewed material.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong kcur.org post** [soc-jeff-colyer-0019] [KCUR/KMUW campaign launch coverage](https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race), published 2025-05-16. Key visible signals: Trump comparison, 47/49 governor framing, cancer recovery, taxes/property taxes, school litigation, border/deportation, gender-affirming care for minors, tech/manufacturing jobs.
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-jeff-colyer-0020] | Education, parental rights, anti-woke schools, youth healthcare, campus/school conflict, and public safety | 7 | 24% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 4. Religious liberty / church / civic morality
+
+Religious liberty / church / civic morality: 20 selected evidence items from 303 mapped rows. Public URL-backed rows: 31.
+
+### Evidence
+- **documented-record** [em-jeff-colyer-00005] Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent ([harvest](social-harvest.md#topic-share-analysis)). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools ([source](https://jeffcolyer.com/)). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against "political agendas" in classrooms ([source](https://mobile.twstalker.com/DrJeffColyer)). The 2026 campaign site groups school choice, parental authority, abortion, the Second Amendment, and religious liberty under "Freedom to Thrive" ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://jeffcolyer.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00035] | s-ksleg-sb284 | primary | https://kslegislature.gov/li_2018/b2017_18/measures/sb284/ | accessed 2026-05-19 | SB 284 short title, passage history, approved by governor May 18, 2018 | religious liberty, foster/adoption |
+  - Source: https://kslegislature.gov/li_2018/b2017_18/measures/sb284/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jeff-colyer-00446] Introduced resolution to authorize use of the Capitol Rotunda for prayer events
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-00430] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:650
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-03252] Vicki (maiden name Greene per WikiTree records) was born and raised in Wichita. She and Mike both attended Wichita South High School. Their families lived two blocks from each other and "shared similar upbringings focused on hard work, honesty, and faith." They went to the University of Kansas together and married in 1974. They have resided in Topeka for over 40 years, where they raised their two sons.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:5286
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jeff-colyer-03774] | Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around "Faith & Family First," Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03790] The 2026 campaign site is more polished and explicitly primary-oriented. It leads with Trump validation, "Faith & Family First," Colyer's status as Kansas's 47th governor, his appointment by Trump to a rural-health advisory role, and his service as Trump's 2024 Kansas chair. It lists five campaign pillars: lower costs/higher pay, safer communities, freedom to thrive, healthy rural Kansas, and honest accountable government ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03802] 2 weeks ago -- Short faith-coded reply, "Big amen." Engagement: 4 replies, 2 reposts, 29 likes, 585 views, 0 quotes. Topic: faith / affirmation. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03818] [jeffcolyer.com/announcements.html](https://www.jeffcolyer.com/announcements.html), captured 2026-05-11. The announcements page is largely a 2021 archive, but it remains live and visible from the campaign site; recurring themes include abortion, KU adult stem-cell research, oil/gas, COVID-era closures, conservative identity, and school/church/small-business framing.
+  - Source: https://www.jeffcolyer.com/announcements.html
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03819] [colyerforgovernor.com](https://www.colyerforgovernor.com/), captured 2026-05-11. Key visible signals: Trump quote, "Faith & Family First," lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jeff-colyer-00003] Across the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as "Faith & Family First" ([source](https://www.colyerforgovernor.com/)). In KCUR/KMUW launch coverage, Colyer tied Trump's return to his own 47/49 governor frame and said, "I've done the job" ([source](https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jeff-colyer-00010] Colyer's visible X feed is not exclusively campaign policy. The recent indexed sample also included Kansas City Chiefs, USA Hockey, Miracle on Ice, troop-prayer, military-condolence, faith-coded, and Rep. John Resman condolence posts ([source](https://mobile.twstalker.com/DrJeffColyer)). Those items account for 4 of 29 coded items in the cross-platform harvest, but they take up a larger share of the immediately visible recent X mirror because several were clustered around late-April and early-May sports and military moments ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jeff-colyer-00229] [Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)
+  - Source: https://www.hfehays.org/o/hfe/article/923439
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jeff-colyer-00230] [Immaculate Heart of Mary Parish](https://www.ihm-church.com/)
+  - Source: https://www.ihm-church.com/
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-00036] | s-ksleg-sb284-enrolled | primary | https://www.kslegislature.gov/li_2018/b2017_18/measures/documents/sb284_enrolled.pdf | accessed 2026-05-19 | enrolled statutory text for Adoption Protection Act | religious liberty, foster/adoption |
+  - Source: https://www.kslegislature.gov/li_2018/b2017_18/measures/documents/sb284_enrolled.pdf
+  - Confidence/use: confirmed / use
+- **background-context** [em-jeff-colyer-00093] The local social harvest found accessible posts or public-record items about military condolences/troop prayer, an Olathe anti-ICE student-walkout quote-post, SNAP and unemployment-insurance fraud, and government efficiency themes. The highest visible engagement in the May 11 X mirror sample was the Olathe/Libs of TikTok quote-post: 42 replies, 32 reposts, 223 likes, 18K views, and 6 quotes.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:149
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00440] | Notable Roles | Co-Chair, National Prayer Breakfast (2023 & 2024) |
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:674
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00442] Co-chaired the 2023 AND 2024 National Prayer Breakfast in Washington, DC
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:678
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00444] Read scripture publicly at the National Prayer Breakfast
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:680
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-02098] Title IX Transgender Regulations (May 2024): Sued Biden administration over rewrite of Title IX rules to include protections for LGBTQ+ students. Joined by Alaska, Utah, Wyoming. Won preliminary injunction (July 2024) blocking implementation nationwide -- declared it a "sweeping victory affecting all 50 states."
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3357
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous X / Twitter online-reference** [soc-jeff-colyer-0001] Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent ([harvest](social-harvest.md#topic-share-analysis)). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools ([source](https://jeffcolyer.com/)). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against "political agendas" in classrooms ([source](https://mobile.twstalker.com/DrJeffColyer)). The 2026 campaign site groups school choice, parental authority, abortion, the Second Amendment, and religious liberty under "Freedom to Thrive" ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://jeffcolyer.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-jeff-colyer-0003] Colyer's visible X feed is not exclusively campaign policy. The recent indexed sample also included Kansas City Chiefs, USA Hockey, Miracle on Ice, troop-prayer, military-condolence, faith-coded, and Rep. John Resman condolence posts ([source](https://mobile.twstalker.com/DrJeffColyer)). Those items account for 4 of 29 coded items in the cross-platform harvest, but they take up a larger share of the immediately visible recent X mirror because several were clustered around late-April and early-May sports and military moments ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-jeff-colyer-0008] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong colyerforgovernor.com post** [soc-jeff-colyer-0010] | Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around "Faith & Family First," Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong jeffcolyer.com post** [soc-jeff-colyer-0014] [jeffcolyer.com/announcements.html](https://www.jeffcolyer.com/announcements.html), captured 2026-05-11. The announcements page is largely a 2021 archive, but it remains live and visible from the campaign site; recurring themes include abortion, KU adult stem-cell research, oil/gas, COVID-era closures, conservative identity, and school/church/small-business framing.
+  - Source: https://www.jeffcolyer.com/announcements.html
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong colyerforgovernor.com post** [soc-jeff-colyer-0015] [colyerforgovernor.com](https://www.colyerforgovernor.com/), captured 2026-05-11. Key visible signals: Trump quote, "Faith & Family First," lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong colyerforgovernor.com post** [soc-jeff-colyer-0025] The 2026 campaign site is more polished and explicitly primary-oriented. It leads with Trump validation, "Faith & Family First," Colyer's status as Kansas's 47th governor, his appointment by Trump to a rural-health advisory role, and his service as Trump's 2024 Kansas chair. It lists five campaign pillars: lower costs/higher pay, safer communities, freedom to thrive, healthy rural Kansas, and honest accountable government ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate mobile.twstalker.com comment** [soc-jeff-colyer-0026] 2 weeks ago -- Short faith-coded reply, "Big amen." Engagement: 4 replies, 2 reposts, 29 likes, 585 views, 0 quotes. Topic: faith / affirmation. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0130] Faith, family, abortion, guns, and religious liberty: The campaign plan groups abortion, gun owners/hunters, God-given rights, and sex/gender policy under "Faith & Family First." Primary action evidence exists from Colyer's governorship: SB 284, the Adoption Protection Act, was approved by the governor on May 18, 2018. Use neutral language: the bill created protections for child-placement agencies when placements would violate sincerely held religious beliefs; do not infer personal faith from the signature.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0131] "text": "Colyer's current campaign groups abortion, gun owners and hunters, farmers, God-given rights, sex/gender policy, and honest work under a 'Faith & Family First' pillar. The plan says he would protect the unborn and provide options for young mothers, protect lawful gun owners and hunters, and protect God-given rights.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 5. Taxes / spending / debt
+
+Taxes / spending / debt: 32 selected evidence items from 142 mapped rows. Public URL-backed rows: 11.
+
+### Evidence
+- **candidate-stated** [em-jeff-colyer-00066] KCUR/KMUW launch coverage reports that Colyer said he held the line on taxes, including property taxes, while governor, and listed reducing government spending, cutting taxes, bolstering small businesses, protecting farmers, and bringing tech/manufacturing jobs among launch priorities.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:85
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-03968] description: "KCUR/KMUW reported Colyer said at launch that, as governor, he held the line on taxes including property taxes and ended long-running school litigation."
+  - Source: memory/candidates/jeff-colyer/v2-issues.yaml:216
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-04408] "stance": "This is her lead issue. She says she \"cannot stand silent and watch small businesses and homeowners be destroyed through high property taxes\" and wants to sunset STAR bonds that she says \"funnel millions into investor pockets.\""
+  - Source: ui/src/data/candidates.ts:21369
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-04500] "body": "KCUR/KMUW reported Colyer said at launch that, as governor, he held the line on taxes including property taxes and ended long-running school litigation.",
+  - Source: ui/src/data/v2/jeff-colyer.ts:42
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00004] The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent ([harvest](social-harvest.md#topic-share-analysis)). The 2026 campaign site promises a high-wage, low-tax Kansas with "a real lid on property taxes" ([source](https://www.colyerforgovernor.com/)). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud, Sedgwick County property valuations, lesser prairie chicken delisting, and regulations affecting farmers, ranchers, homeowners, and small businesses ([harvest](social-harvest.md#indexed-x-items-reviewed)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00007] Abortion appears as a recurring moral and campaign issue. The 2026 campaign site says Colyer will "defend the unborn" ([source](https://www.colyerforgovernor.com/)). The older, still-live announcements archive includes a 2021 statement attacking abortion increases in Kansas and the Biden administration's budget position on the Hyde Amendment ([source](https://www.jeffcolyer.com/announcements.html)). That archive is older than the active 2026 campaign period, but it remains linked from the public campaign website and is consistent with the current site's abortion framing.
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-02612] [Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)
+  - Source: https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-02613] [PBS Wisconsin: $100M+ spending on 2025 race](https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/)
+  - Source: https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-03148] [Kansas Reflector: Property tax reform campaign](https://kansasreflector.com/briefs/scott-schwab-aims-gop-gubernatorial-campaign-at-property-tax-reform/)
+  - Source: https://kansasreflector.com/briefs/scott-schwab-aims-gop-gubernatorial-campaign-at-property-tax-reform/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00022] Official ballot wording needs caution. The Kansas Secretary of State candidate-information page says candidates for national, state, legislative, and judicial offices must file with the Secretary of State and are not considered filed until their petition or declaration and fee are received. It lists the 2026 primary filing deadline as 12:00 p.m. Monday, June 1, 2026. The official SOS candidate-list endpoint returned a JavaScript/robot-verification page in text capture, so this pass did not obtain a machine-readable official SOS filed-candidate list confirming final ballot placement. Treat Colyer as an active gubernatorial campaign/finance filer, with final filed-candidate/ballot status pending official readback.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:15
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00049] The SOS candidate-information page lists Governor/Lt. Governor among offices to be elected or retained in 2026 and says Democratic and Republican candidates must run in the primary. It states candidates for national, state, legislative, and judicial offices must file with the Secretary of State and are not considered filed until the petition or declaration and fee are received. The primary filing deadline is listed as noon on June 1, 2026.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:53
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00067] The local social harvest found accessible X/campaign items on SNAP fraud, unemployment-insurance fraud, Sedgwick County property valuations/mill levies/reappraisals, higher wages/lower taxes, and lesser prairie chicken regulation/property rights.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:87
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-00956] Analysis: The $1M self-loan means 88% of her war chest is her own money. This is not grassroots fundraising -- it is a wealthy candidate buying a seat at the table. Only ~$140K came from actual donors. The low spending ($116K) suggests she is stockpiling for later ad buys.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:1584
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-02530] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4120
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-02569] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4205
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-02872] Taxes: Served on Taxation Committee as vice-chair; consistent advocate for lower taxes
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4670
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-03298] > "It is a vote I regret. [...] The GOP strategy in the Senate was to place the tax bill in the hands of a House-Senate negotiating committee so a more balanced reform plan could be drafted. Instead of revisions, the House concurred with the Senate and Brownback signed the bill into law."
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:5374
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jeff-colyer-03798] 6 days ago -- Governor campaign post tying higher wages, lower taxes, small business, and President Trump. Engagement: 22 replies, 6 reposts, 52 likes, 2K views, 2 quotes. Topic: campaign / taxes / economy / Trump alignment. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03805] 2 weeks ago -- Topeka event post: working families, faithful values, conservative leadership, and lower taxes. Engagement: 4 replies, 1 repost, 14 likes, 848 views, 0 quotes. Topic: campaign event / taxes / values. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03811] 3 weeks ago -- Sedgwick County property valuations, mill levies, reappraisals, agricultural land, and spending restraint. Engagement: 7 replies, 3 reposts, 24 likes, 1K views, 1 quote. Topic: property taxes / spending. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03816] [jeffcolyer.com/about](https://www.jeffcolyer.com/about), captured 2026-05-11. Key visible signals: Hays biography, family, surgeon identity, humanitarian war-zone work, pro-life record, KanCare, budget/stability claims, and education/workforce claims.
+  - Source: https://www.jeffcolyer.com/about
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03820] [KCUR/KMUW campaign launch coverage](https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race), published 2025-05-16. Key visible signals: Trump comparison, 47/49 governor framing, cancer recovery, taxes/property taxes, school litigation, border/deportation, gender-affirming care for minors, tech/manufacturing jobs.
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03826] | Taxes, affordability, property taxes, government spending, fraud, regulation, and property rights | 8 | 28% |
+  - Source: memory/candidates/jeff-colyer/social-harvest.md:82
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03835] Exact post-level engagement was visible only for the indexed X sample. Highest visible engagement in the capture was the Olathe/Libs of TikTok quote-post: 42 replies, 32 reposts, 223 likes, 18K views, and 6 quotes. Highest visible non-quote campaign/policy post in the same indexed sample was the SNAP data/fraud post with 74 likes, 8 reposts, 9 replies, 2K views, and 2 quotes. The governor-campaign post on higher wages/lower taxes showed 52 likes, 6 reposts, 22 replies, 2K views, and 2 quotes.
+  - Source: memory/candidates/jeff-colyer/social-harvest.md:96
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jeff-colyer-04330] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **public-controversy** [em-jeff-colyer-02744] Criticized the 2025 Legislature and Governor Laura Kelly for delivering only "$25.88 property tax break for the owner of a $150,000 home"
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4482
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00058] Issue Area 1 - Taxes, Affordability, Fraud, and Property Taxes
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:73
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00062] Make Kansas a high-wage, low-tax state again.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:80
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00063] Place "a real lid" on property taxes.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:81
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00064] Deliver fiscal responsibility and balanced budgets.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:82
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00076] Gap: No detailed education budget, school-finance, special-education, teacher-workforce, or higher-education affordability plan was found in this pass.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:107
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00329] Policy focus: county spending, transparency
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:390
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous X / Twitter online-reference** [soc-jeff-colyer-0004] The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent ([harvest](social-harvest.md#topic-share-analysis)). The 2026 campaign site promises a high-wage, low-tax Kansas with "a real lid on property taxes" ([source](https://www.colyerforgovernor.com/)). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud, Sedgwick County property valuations, lesser prairie chicken delisting, and regulations affecting farmers, ranchers, homeowners, and small businesses ([harvest](social-harvest.md#indexed-x-items-reviewed)).
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-jeff-colyer-0008] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong jeffcolyer.com post** [soc-jeff-colyer-0013] [jeffcolyer.com/about](https://www.jeffcolyer.com/about), captured 2026-05-11. Key visible signals: Hays biography, family, surgeon identity, humanitarian war-zone work, pro-life record, KanCare, budget/stability claims, and education/workforce claims.
+  - Source: https://www.jeffcolyer.com/about
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong kcur.org post** [soc-jeff-colyer-0019] [KCUR/KMUW campaign launch coverage](https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race), published 2025-05-16. Key visible signals: Trump comparison, 47/49 governor framing, cancer recovery, taxes/property taxes, school litigation, border/deportation, gender-affirming care for minors, tech/manufacturing jobs.
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate mobile.twstalker.com share/repost** [soc-jeff-colyer-0027] 6 days ago -- Governor campaign post tying higher wages, lower taxes, small business, and President Trump. Engagement: 22 replies, 6 reposts, 52 likes, 2K views, 2 quotes. Topic: campaign / taxes / economy / Trump alignment. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate mobile.twstalker.com share/repost** [soc-jeff-colyer-0028] 2 weeks ago -- Topeka event post: working families, faithful values, conservative leadership, and lower taxes. Engagement: 4 replies, 1 repost, 14 likes, 848 views, 0 quotes. Topic: campaign event / taxes / values. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate mobile.twstalker.com share/repost** [soc-jeff-colyer-0029] 3 weeks ago -- Sedgwick County property valuations, mill levies, reappraisals, agricultural land, and spending restraint. Engagement: 7 replies, 3 reposts, 24 likes, 1K views, 1 quote. Topic: property taxes / spending. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-jeff-colyer-0030] | Taxes, affordability, property taxes, government spending, fraud, regulation, and property rights | 8 | 28% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate TikTok share/repost** [soc-jeff-colyer-0031] Exact post-level engagement was visible only for the indexed X sample. Highest visible engagement in the capture was the Olathe/Libs of TikTok quote-post: 42 replies, 32 reposts, 223 likes, 18K views, and 6 quotes. Highest visible non-quote campaign/policy post in the same indexed sample was the SNAP data/fraud post with 74 likes, 8 reposts, 9 replies, 2K views, and 2 quotes. The governor-campaign post on higher wages/lower taxes showed 52 likes, 6 reposts, 22 replies, 2K views, and 2 quotes.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0134] "observation": "1. jeffcolyer.com homepage, captured 2026-05-11. Key visible signals: critical race theory pledge, private property rights letter, abortion announcement, KU stem-cell research criticism, oil/gas criticism, bio, and social links. 2. jeffcolyer.com/about, captured 2026-05-11. Key visible signals: Hays biography, family, surgeon identity, humanitarian war-zone work, pro-life record, KanCare, budget/stability claims,...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 6. Economy / jobs / labor
+
+Economy / jobs / labor: 29 selected evidence items from 88 mapped rows. Public URL-backed rows: 9.
+
+### Evidence
+- **candidate-stated** [em-jeff-colyer-00066] KCUR/KMUW launch coverage reports that Colyer said he held the line on taxes, including property taxes, while governor, and listed reducing government spending, cutting taxes, bolstering small businesses, protecting farmers, and bringing tech/manufacturing jobs among launch priorities.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:85
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-04388] "stance": "Says small business is \"how we rebuild rural Kansas\" and wants to make Kansas more affordable for entrepreneurs."
+  - Source: ui/src/data/candidates.ts:18582
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00004] The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent ([harvest](social-harvest.md#topic-share-analysis)). The 2026 campaign site promises a high-wage, low-tax Kansas with "a real lid on property taxes" ([source](https://www.colyerforgovernor.com/)). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud, Sedgwick County property valuations, lesser prairie chicken delisting, and regulations affecting farmers, ranchers, homeowners, and small businesses ([harvest](social-harvest.md#indexed-x-items-reviewed)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00008] On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration ([source](https://www.colyerforgovernor.com/)). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport undocumented immigrants who are criminals, prevent gender-affirming care for minors, and bring tech and manufacturing jobs to Kansas ([source](https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00125] ui/src/data/v2/jeff-colyer.ts currently points campaignWebsite to a 2013 House docs bio PDF, not the current campaign site. Do not edit UI in this worker scope; site-profile-writer should consider changing it later to https://www.colyerforgovernor.com/ or a candidate-controlled source selected by the orchestrator.
+  - Source: https://www.colyerforgovernor.com/`
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00690] Notable Legislative Focus Areas: Education funding, lowering cost of living, workforce development, small business support, rural healthcare access. Specific bill-by-bill voting record available at kslegislature.gov but not extractable in bulk from search.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:1100
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-01869] | Jobs for America's Graduates (JAG) | Honorary Board Member |
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2997
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-02192] | Hazleton, PA | Drafted housing/employment ordinance penalizing landlords and businesses that hired/housed undocumented immigrants | LOST -- Third Circuit struck down both provisions as preempted by federal law (July 2013) |
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3525
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-02561] The Insurance Commissioner regulates every insurance company doing business in Kansas -- health insurance, car insurance, homeowners insurance, crop insurance, all of it. They review rate increases, make sure companies can actually pay claims, handle consumer complaints, and license insurance agents. In rural Kansas, where hospital closures and limited healthcare options are a growing crisis, the Insurance Commissioner's decisions on what health plans are available and what they can charge directly affect your family's bottom line.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4186
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-02590] | In one sentence | Changes how KS Supreme Court justices get their jobs -- from commission-appointed to elected | Changes "every citizen can vote" to "only citizens can vote" in the state constitution |
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4244
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-00109] The report includes a large statewide donor list with individual donors, business entities, PACs, and in-kind contributors. Visible sample entries include physicians, attorneys, real estate professionals, retirees, business owners/executives, finance/private-equity figures, Wichita-area business entities, and PAC entries such as Kansas Contractors Association PAC. Several Wichita-area business contributors appear around shared addresses on East Central/East Kellogg/Rock Road; this pass did not complete a donor-industry clustering or business-before-state analysis.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:178
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-00131] "Complete donor-industry clustering and donor-business-before-state cross-reference."
+  - Source: memory/candidates/jeff-colyer/v2-issues.yaml:445
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-02569] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4205
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-02854] | Vice Chairman, Commerce and Labor Committee | During House tenure |
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4640
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-03761] Complete itemized donor industry clusters or donor business before the state.
+  - Source: memory/candidates/jeff-colyer/sleuth-pass.md:63
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-04079] "Full donor-industry clustering was not completed; visible sample contributors include physicians, attorneys, real estate professionals, retirees, business owners/executives, finance/private-equity figures, Wichita-area business entities, and PAC entries."
+  - Source: memory/candidates/jeff-colyer/v2-issues.yaml:423
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jeff-colyer-03798] 6 days ago -- Governor campaign post tying higher wages, lower taxes, small business, and President Trump. Engagement: 22 replies, 6 reposts, 52 likes, 2K views, 2 quotes. Topic: campaign / taxes / economy / Trump alignment. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03807] 2 weeks ago -- Wyandotte County State of the Union watch party; SNAP and unemployment-insurance fraud, household affordability, and regulation. Engagement: 4 replies, 7 reposts, 25 likes, 2K views, 2 quotes. Topic: campaign event / fraud / affordability. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03818] [jeffcolyer.com/announcements.html](https://www.jeffcolyer.com/announcements.html), captured 2026-05-11. The announcements page is largely a 2021 archive, but it remains live and visible from the campaign site; recurring themes include abortion, KU adult stem-cell research, oil/gas, COVID-era closures, conservative identity, and school/church/small-business framing.
+  - Source: https://www.jeffcolyer.com/announcements.html
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03820] [KCUR/KMUW campaign launch coverage](https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race), published 2025-05-16. Key visible signals: Trump comparison, 47/49 governor framing, cancer recovery, taxes/property taxes, school litigation, border/deportation, gender-affirming care for minors, tech/manufacturing jobs.
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jeff-colyer-04330] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-jeff-colyer-00445] Introduced the FAITH in Small Business Act (ensures faith-based businesses can participate in SBA loans)
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:681
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jeff-colyer-00925] Faith: Theological Studies is part of her academic background. Cornerstone Data company description notes her work is done "in light of the people and organizations that produced it" -- suggesting faith-integrated business philosophy. The company name "Cornerstone" itself has Christian connotations. No specific church identified.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:1530
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-01936] [Jobs for America's Graduates - Bio](https://jag.org/dipl-team-member/jeff-colyer/)
+  - Source: https://jag.org/dipl-team-member/jeff-colyer/
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-00062] Make Kansas a high-wage, low-tax state again.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:80
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00065] Bring high-paying manufacturing and tech jobs to Kansas.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:83
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00369] 55 years old, rancher/farmer, K-Lawn business partner
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:486
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00381] Bank Vice President (Golden Plains Credit Union, 30+ years)
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:511
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00669] Wife: Jenna Brofsky -- attorney at Husch Blackwell law firm (employment group, advising and litigation). She previously served on the Fairway City Council. Grew up in a New York City suburb, attended a Conservative synagogue.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:1074
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous X / Twitter online-reference** [soc-jeff-colyer-0004] The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent ([harvest](social-harvest.md#topic-share-analysis)). The 2026 campaign site promises a high-wage, low-tax Kansas with "a real lid on property taxes" ([source](https://www.colyerforgovernor.com/)). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud, Sedgwick County property valuations, lesser prairie chicken delisting, and regulations affecting farmers, ranchers, homeowners, and small businesses ([harvest](social-harvest.md#indexed-x-items-reviewed)).
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-jeff-colyer-0008] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong jeffcolyer.com post** [soc-jeff-colyer-0014] [jeffcolyer.com/announcements.html](https://www.jeffcolyer.com/announcements.html), captured 2026-05-11. The announcements page is largely a 2021 archive, but it remains live and visible from the campaign site; recurring themes include abortion, KU adult stem-cell research, oil/gas, COVID-era closures, conservative identity, and school/church/small-business framing.
+  - Source: https://www.jeffcolyer.com/announcements.html
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong kcur.org post** [soc-jeff-colyer-0019] [KCUR/KMUW campaign launch coverage](https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race), published 2025-05-16. Key visible signals: Trump comparison, 47/49 governor framing, cancer recovery, taxes/property taxes, school litigation, border/deportation, gender-affirming care for minors, tech/manufacturing jobs.
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate mobile.twstalker.com share/repost** [soc-jeff-colyer-0027] 6 days ago -- Governor campaign post tying higher wages, lower taxes, small business, and President Trump. Engagement: 22 replies, 6 reposts, 52 likes, 2K views, 2 quotes. Topic: campaign / taxes / economy / Trump alignment. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate mobile.twstalker.com share/repost** [soc-jeff-colyer-0032] 2 weeks ago -- Wyandotte County State of the Union watch party; SNAP and unemployment-insurance fraud, household affordability, and regulation. Engagement: 4 replies, 7 reposts, 25 likes, 2K views, 2 quotes. Topic: campaign event / fraud / affordability. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0155] Taxes, affordability, fraud, and property taxes: Strongest current 2026 campaign pillar. The 25-point plan says he would end welfare fraud, make Kansas high-wage/low-tax, cap property taxes, balance budgets, and bring manufacturing/tech jobs. Local social harvest also found posts on SNAP fraud, unemployment-insurance fraud, Sedgwick County property valuations, and property-rights/regulation.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous TikTok share/repost** [soc-jeff-colyer-0157] "observation": "Topic: agriculture / property rights / regulation. (source) 13. 2 weeks ago -- Wyandotte County State of the Union watch party; SNAP and unemployment-insurance fraud, household affordability, and regulation. Engagement: 4 replies, 7 reposts, 25 likes, 2K views, 2 quotes. Topic: campaign event / fraud / affordability. (source) 14. 2 weeks ago -- Quote-post of Libs of TikTok item about Olathe students, anti-ICE...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 7. Guns / Second Amendment
+
+Guns / Second Amendment: 20 selected evidence items from 24 mapped rows. Public URL-backed rows: 3.
+
+### Evidence
+- **candidate-stated** [em-jeff-colyer-04013] description: "Current 25-point plan says Colyer would protect the unborn, provide options for young mothers, protect God-given rights, and protect lawful gun owners and hunters."
+  - Source: memory/candidates/jeff-colyer/v2-issues.yaml:301
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-04520] "body": "Current 25-point plan says Colyer would protect the unborn, provide options for young mothers, protect God-given rights, and protect lawful gun owners and hunters.",
+  - Source: ui/src/data/v2/jeff-colyer.ts:188
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00005] Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent ([harvest](social-harvest.md#topic-share-analysis)). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools ([source](https://jeffcolyer.com/)). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against "political agendas" in classrooms ([source](https://mobile.twstalker.com/DrJeffColyer)). The 2026 campaign site groups school choice, parental authority, abortion, the Second Amendment, and religious liberty under "Freedom to Thrive" ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://jeffcolyer.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-02762] Second Amendment
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4507
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-02763] "We will protect our Second Amendment rights"
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4508
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-03203] Pro-Second Amendment
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:5209
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-03642] Guns / Second Amendment: Has not made gun policy a centerpiece of his 2026 campaign, though his overall conservative platform and Trump alignment suggest support for gun rights.
+  - Source: memory/candidates/jeff-colyer/site-profile.md:25
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-04307] "issue": "Guns / Second Amendment",
+  - Source: ui/src/data/candidates.ts:16765
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-02871] Guns: Pro-Second Amendment, specific NRA rating not publicly available in search results
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4669
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-03001] Specific formal endorsements (NRA rating, Kansas Right to Life, Kansas Farm Bureau, etc.) were not comprehensively documented in publicly available reporting at time of investigation. The Kansas Ethics Commission filings may contain PAC contribution details that indicate organizational support.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4885
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-03470] | NRA | Unknown | No endorsement data found |
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:5683
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-03755] No current formal endorsement from Kansas Right to Life, NRA-PVF, Kansas Chamber, or similar organizations was confirmed in this pass.
+  - Source: memory/candidates/jeff-colyer/sleuth-pass.md:55
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jeff-colyer-03819] [colyerforgovernor.com](https://www.colyerforgovernor.com/), captured 2026-05-11. Key visible signals: Trump quote, "Faith & Family First," lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jeff-colyer-04330] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-jeff-colyer-00077] Issue Area 3 - Faith, Family, Abortion, Guns, and Religious Liberty
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:111
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jeff-colyer-00079] The current campaign plan groups several topics under "Faith, Values & Life / Faith & Family First." It includes "Protect God-given rights," "Protect the unborn and provide options for young mothers," and "Protect lawful gun owners and hunters from being targeted by the left."
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:115
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jeff-colyer-03743] Faith, family, abortion, guns, and religious liberty: The campaign plan groups abortion, gun owners/hunters, God-given rights, and sex/gender policy under "Faith & Family First." Primary action evidence exists from Colyer's governorship: SB 284, the Adoption Protection Act, was approved by the governor on May 18, 2018. Use neutral language: the bill created protections for child-placement agencies when placements would violate sincerely held religious beliefs; do not infer personal faith from the signature.
+  - Source: memory/candidates/jeff-colyer/sleuth-pass.md:41
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-01807] Gun Rights
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2874
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-02996] | Guns | Pro-2A, protect rights | Standard GOP |
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4878
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-03917] "Plan includes abortion, gun owners/hunters, farmers, foster kids, veterans, and accountable government"
+  - Source: memory/candidates/jeff-colyer/v2-issues.yaml:132
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous X / Twitter online-reference** [soc-jeff-colyer-0001] Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent ([harvest](social-harvest.md#topic-share-analysis)). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools ([source](https://jeffcolyer.com/)). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against "political agendas" in classrooms ([source](https://mobile.twstalker.com/DrJeffColyer)). The 2026 campaign site groups school choice, parental authority, abortion, the Second Amendment, and religious liberty under "Freedom to Thrive" ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://jeffcolyer.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-jeff-colyer-0008] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong colyerforgovernor.com post** [soc-jeff-colyer-0015] [colyerforgovernor.com](https://www.colyerforgovernor.com/), captured 2026-05-11. Key visible signals: Trump quote, "Faith & Family First," lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0130] Faith, family, abortion, guns, and religious liberty: The campaign plan groups abortion, gun owners/hunters, God-given rights, and sex/gender policy under "Faith & Family First." Primary action evidence exists from Colyer's governorship: SB 284, the Adoption Protection Act, was approved by the governor on May 18, 2018. Use neutral language: the bill created protections for child-placement agencies when placements would violate sincerely held religious beliefs; do not infer personal faith from the signature.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0131] "text": "Colyer's current campaign groups abortion, gun owners and hunters, farmers, God-given rights, sex/gender policy, and honest work under a 'Faith & Family First' pillar. The plan says he would protect the unborn and provide options for young mothers, protect lawful gun owners and hunters, and protect God-given rights.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0132] "observation": "Current campaign plan labels one pillar 'Faith & Family First' and places abortion, guns, farmers, God-given rights, and sex/gender policy in that pillar.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0158] Guns / Second Amendment: Has not made gun policy a centerpiece of his 2026 campaign, though his overall conservative platform and Trump alignment suggest support for gun rights.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 8. Immigration / border
+
+Immigration / border: 23 selected evidence items from 63 mapped rows. Public URL-backed rows: 9.
+
+### Evidence
+- **documented-record** [em-jeff-colyer-00008] On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration ([source](https://www.colyerforgovernor.com/)). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport undocumented immigrants who are criminals, prevent gender-affirming care for minors, and bring tech and manufacturing jobs to Kansas ([source](https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-02620] [CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)
+  - Source: https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00091] The current campaign plan's safety pillar says Colyer would combat cybercrime targeting seniors and children, make Kansas a "beacon of law, order, and safety," and keep criminal illegal aliens out of Kansas. KCUR/KMUW launch coverage reports he listed securing the border and deporting undocumented immigrants who are criminals among priorities.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:145
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-02195] | Valley Park, MO | Anti-immigration ordinance | Partial -- Only a watered-down version survived |
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3528
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-02275] Campaign message: Low crime rates, anti-Biden lawsuits, immigration enforcement partnership with Trump, fentanyl enforcement, ESG/Vanguard settlement
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3651
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-02309] 2-6 win-loss record on immigration ordinance cases that cost cities millions
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3695
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-02480] Their argument is straightforward: Voting should be exclusively for citizens, and the Constitution should say so clearly and forcefully. They point out that similar amendments passed in all 8 states where they appeared on the 2024 ballot, often with 65-80% of the vote. It is a matter of principle, even if non-citizen voting is not currently a problem.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4012
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-02489] FACT 1: Non-citizen voting is already illegal. This amendment does not make anything new illegal.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4034
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-01827] Endorsed Trump stating he would "protect Medicare, lower health care and drug prices, speed development of medical treatments and address the overdose epidemic." Also argued Trump would "close the southern U.S. border with Mexico to drug traffickers" and that America deserved "a president dedicated to securing our borders, stopping the drug traffickers and saving American lives."
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2923
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-02215] We Build the Wall was the Steve Bannon-linked organization that raised millions for a private border wall. Bannon was later indicted for fraud related to the organization (pardoned by Trump), and organizer Brian Kolfage was sentenced to 51 months in prison for fraud
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3559
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jeff-colyer-03808] 2 weeks ago -- Quote-post of Libs of TikTok item about Olathe students, anti-ICE walkout, Trump flags, violence, extremism, and Democratic candidates. Engagement: 42 replies, 32 reposts, 223 likes, 18K views, 6 quotes. Topic: schools / immigration protest / public safety / partisan conflict. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03809] 3 weeks ago -- Miracle on Ice anniversary / USA post. Engagement: 2 replies, 0 reposts, 24 likes, 778 views, 0 quotes. Topic: patriotism / sports. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03820] [KCUR/KMUW campaign launch coverage](https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race), published 2025-05-16. Key visible signals: Trump comparison, 47/49 governor framing, cancer recovery, taxes/property taxes, school litigation, border/deportation, gender-affirming care for minors, tech/manufacturing jobs.
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03832] The accessible X mirror exposed a limited amplification sample. The most visible amplification was a quote-post of Libs of TikTok about an Olathe anti-ICE student walkout and students holding Trump flags; Colyer used it to call on Democratic governor candidates to condemn violence and extremism ([source](https://mobile.twstalker.com/DrJeffColyer)). The same capture showed USA Hockey retweets/quote-posts around Olympic hockey. The capture did not expose a complete repost inventory, so no full amplification network is reported.
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jeff-colyer-00010] Colyer's visible X feed is not exclusively campaign policy. The recent indexed sample also included Kansas City Chiefs, USA Hockey, Miracle on Ice, troop-prayer, military-condolence, faith-coded, and Rep. John Resman condolence posts ([source](https://mobile.twstalker.com/DrJeffColyer)). Those items account for 4 of 29 coded items in the cross-platform harvest, but they take up a larger share of the immediately visible recent X mirror because several were clustered around late-April and early-May sports and military moments ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jeff-colyer-04330] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-jeff-colyer-00543] Extensive international humanitarian medical work with International Medical Corps -- 20+ countries since 1985 (Afghanistan, Iraq, Kosovo, South Sudan, Cameroon, Syria border, Ukraine)
+  - Source: reports/faith-church-investigation-2026-03-31.md:769
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00009] The highest visible engagement in the accessible social sample came from a quote-post about an Olathe anti-ICE student walkout and students holding Trump flags. The indexed X mirror showed 42 replies, 32 reposts, 223 likes, 18K views, and 6 quotes as of the May 11, 2026 capture ([harvest](social-harvest.md#engagement-review)). In that post, Colyer described the incident as not representative of Kansas and called on Democratic governor candidates to condemn violence and extremism ([source](https://mobile.twstalker.com/DrJeffColyer)).
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-00090] Issue Area 5 - Public Safety, Immigration, Cybercrime, Veterans, Foster Care, and Accountability
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:141
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00093] The local social harvest found accessible posts or public-record items about military condolences/troop prayer, an Olathe anti-ICE student-walkout quote-post, SNAP and unemployment-insurance fraud, and government efficiency themes. The highest visible engagement in the May 11 X mirror sample was the Olathe/Libs of TikTok quote-post: 42 replies, 32 reposts, 223 likes, 18K views, and 6 quotes.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:149
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00862] "Let's end the border war -- keep the Chiefs and Royals in Missouri. Kansas simply can't afford to subsidize them."
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:1410
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-01462] | ~2012+ | Syrian border | Syrian Civil War | Provided medical care to refugees/casualties |
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2360
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-01633] Immigration:
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2604
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate X / Twitter share/repost** [soc-jeff-colyer-0002] The highest visible engagement in the accessible social sample came from a quote-post about an Olathe anti-ICE student walkout and students holding Trump flags. The indexed X mirror showed 42 replies, 32 reposts, 223 likes, 18K views, and 6 quotes as of the May 11, 2026 capture ([harvest](social-harvest.md#engagement-review)). In that post, Colyer described the incident as not representative of Kansas and called on Democratic governor candidates to condemn violence and extremism ([source](https://mobile.twstalker.com/DrJeffColyer)).
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-jeff-colyer-0003] Colyer's visible X feed is not exclusively campaign policy. The recent indexed sample also included Kansas City Chiefs, USA Hockey, Miracle on Ice, troop-prayer, military-condolence, faith-coded, and Rep. John Resman condolence posts ([source](https://mobile.twstalker.com/DrJeffColyer)). Those items account for 4 of 29 coded items in the cross-platform harvest, but they take up a larger share of the immediately visible recent X mirror because several were clustered around late-April and early-May sports and military moments ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-jeff-colyer-0008] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong kcur.org post** [soc-jeff-colyer-0019] [KCUR/KMUW campaign launch coverage](https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race), published 2025-05-16. Key visible signals: Trump comparison, 47/49 governor framing, cancer recovery, taxes/property taxes, school litigation, border/deportation, gender-affirming care for minors, tech/manufacturing jobs.
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate TikTok share/repost** [soc-jeff-colyer-0024] The accessible X mirror exposed a limited amplification sample. The most visible amplification was a quote-post of Libs of TikTok about an Olathe anti-ICE student walkout and students holding Trump flags; Colyer used it to call on Democratic governor candidates to condemn violence and extremism ([source](https://mobile.twstalker.com/DrJeffColyer)). The same capture showed USA Hockey retweets/quote-posts around Olympic hockey. The capture did not expose a complete repost inventory, so no full amplification network is reported.
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate TikTok share/repost** [soc-jeff-colyer-0033] 2 weeks ago -- Quote-post of Libs of TikTok item about Olathe students, anti-ICE walkout, Trump flags, violence, extremism, and Democratic candidates. Engagement: 42 replies, 32 reposts, 223 likes, 18K views, 6 quotes. Topic: schools / immigration protest / public safety / partisan conflict. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate mobile.twstalker.com share/repost** [soc-jeff-colyer-0034] 3 weeks ago -- Miracle on Ice anniversary / USA post. Engagement: 2 replies, 0 reposts, 24 likes, 778 views, 0 quotes. Topic: patriotism / sports. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous TikTok share/repost** [soc-jeff-colyer-0141] The local social harvest found accessible posts or public-record items about military condolences/troop prayer, an Olathe anti-ICE student-walkout quote-post, SNAP and unemployment-insurance fraud, and government efficiency themes. The highest visible engagement in the May 11 X mirror sample was the Olathe/Libs of TikTok quote-post: 42 replies, 32 reposts, 223 likes, 18K views, and 6 quotes.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter share/repost** [soc-jeff-colyer-0145] X / Twitter: @DrJeffColyer is the active public campaign/personal account referenced in the local social harvest. Direct X is script/login constrained, so the May 11 local harvest used an indexed public mirror and preserved engagement metadata. The most visible post in that sample was a quote-post about an Olathe anti-ICE student walkout, with 42 replies, 32 reposts, 223 likes, 18K views, and 6 quotes as of capture.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous TikTok share/repost** [soc-jeff-colyer-0157] "observation": "Topic: agriculture / property rights / regulation. (source) 13. 2 weeks ago -- Wyandotte County State of the Union watch party; SNAP and unemployment-insurance fraud, household affordability, and regulation. Engagement: 4 replies, 7 reposts, 25 likes, 2K views, 2 quotes. Topic: campaign event / fraud / affordability. (source) 14. 2 weeks ago -- Quote-post of Libs of TikTok item about Olathe students, anti-ICE...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 9. Health care / insurance / Medicaid
+
+Health care / insurance / Medicaid: 40 selected evidence items from 230 mapped rows. Public URL-backed rows: 31.
+
+### Evidence
+- **candidate-stated** [em-jeff-colyer-03596] [Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023)](https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/)
+  - Source: https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-jeff-colyer-00011] Several areas were absent or thin in the accessible reviewed set. The public material did not show sustained discussion of child care, foster care, housing costs, water policy, the Ogallala Aquifer, broadband, transportation infrastructure, higher education affordability, or detailed rural hospital finance. Medicaid appears mainly through Colyer's KanCare record rather than a current Medicaid-expansion debate. Veterans and service members appear through troop-support posts, but not through a detailed veterans-services platform ([harvest](social-harvest.md#visible-absences)).
+  - Source: memory/candidates/jeff-colyer/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-00757] Cannabis: Supports legalization of medical marijuana
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:1208
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-01797] Opposes bureaucratic control of healthcare decisions
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2858
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-01897] Health questions. While he says he's recovered from prostate cancer, opponents or voters may quietly wonder about long-term health.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3049
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-04046] "summary": "No detailed 2026 Medicaid expansion stance, rural hospital finance plan, insurance plan, maternal health plan, or behavioral-health platform was found beyond broad rural-health positioning and KanCare record claims.",
+  - Source: ui/src/data/v2/jeff-colyer.ts:310
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-04384] "stance": "Supports expanding healthcare access, especially in rural Kansas. Said \"Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor.\""
+  - Source: ui/src/data/candidates.ts:18574
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-04410] "stance": "Believes families should have the right to make their own medical decisions, \"even if those decisions are different from what government bureaucrats recommend.\" This extends to her experience raising children with learning challenges."
+  - Source: ui/src/data/candidates.ts:21373
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00004] The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent ([harvest](social-harvest.md#topic-share-analysis)). The 2026 campaign site promises a high-wage, low-tax Kansas with "a real lid on property taxes" ([source](https://www.colyerforgovernor.com/)). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud, Sedgwick County property valuations, lesser prairie chicken delisting, and regulations affecting farmers, ranchers, homeowners, and small businesses ([harvest](social-harvest.md#indexed-x-items-reviewed)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00006] Colyer's medical identity remains central rather than incidental. His campaign biography says he is a craniofacial/plastic surgeon who has treated more than 20,000 patients and volunteered in more than 25 war zones, including Rwanda during the genocide ([source](https://www.colyerforgovernor.com/)). The older campaign about page says he created Kansas's privatized integrated Medicaid system, KanCare, and presents it as a taxpayer-savings and care-management achievement ([source](https://www.jeffcolyer.com/about)). The 2026 site extends that biography into rural health, saying he would deliver care and hospitals for small towns ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00041] | s-campaign-old-about | primary | https://www.jeffcolyer.com/about | accessed 2026-05-19 | Hays biography, family, surgeon identity, KanCare and prior record claims | biography, health care |
+  - Source: https://www.jeffcolyer.com/about
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00042] | s-campaign-old-announcements | primary | https://www.jeffcolyer.com/announcements.html | accessed 2026-05-19 | still-live 2021 archive on abortion, energy, KU adult stem-cell research, COVID closures | issue archive |
+  - Source: https://www.jeffcolyer.com/announcements.html
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00185] "focus on economic prosperity, healthcare reform, and family values" - campaign site, 2026-04-01, https://www.jeffcolyer.com/ - topic: campaign priorities.
+  - Source: https://www.jeffcolyer.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00701] > -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-01050] [Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-02117] [Kansas Reflector: Pfizer Lawsuit](https://kansasreflector.com/2024/06/17/kansas-ag-kobach-accuses-pfizer-of-misleading-vaccine-marketing-in-lawsuit/)
+  - Source: https://kansasreflector.com/2024/06/17/kansas-ag-kobach-accuses-pfizer-of-misleading-vaccine-marketing-in-lawsuit/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-jeff-colyer-01516] Financial Institutions and Insurance Committee member
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2440
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-01827] Endorsed Trump stating he would "protect Medicare, lower health care and drug prices, speed development of medical treatments and address the overdose epidemic." Also argued Trump would "close the southern U.S. border with Mexico to drug traffickers" and that America deserved "a president dedicated to securing our borders, stopping the drug traffickers and saving American lives."
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2923
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-02530] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4120
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-03291] | Committee Chair | Public Health and Welfare (6 years) |
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:5362
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-03292] | Committee Member | Financial Institutions and Insurance (12 years) |
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:5363
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-03354] Member, Life Insurance and Annuities (A) Committee
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:5469
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jeff-colyer-03773] | Campaign site | https://jeffcolyer.com/ | FOUND | Public site links X, Instagram, Facebook, and YouTube. Homepage pushes actions on critical race theory, private property rights, abortion, medical innovation, and oil/gas. |
+  - Source: https://jeffcolyer.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03774] | Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around "Faith & Family First," Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03790] The 2026 campaign site is more polished and explicitly primary-oriented. It leads with Trump validation, "Faith & Family First," Colyer's status as Kansas's 47th governor, his appointment by Trump to a rural-health advisory role, and his service as Trump's 2024 Kansas chair. It lists five campaign pillars: lower costs/higher pay, safer communities, freedom to thrive, healthy rural Kansas, and honest accountable government ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03799] a week ago -- Parents and medical decisions post. Engagement: 1 reply, 2 reposts, 28 likes, 590 views, 0 quotes. Topic: parental rights / minors' healthcare. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03807] 2 weeks ago -- Wyandotte County State of the Union watch party; SNAP and unemployment-insurance fraud, household affordability, and regulation. Engagement: 4 replies, 7 reposts, 25 likes, 2K views, 2 quotes. Topic: campaign event / fraud / affordability. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03818] [jeffcolyer.com/announcements.html](https://www.jeffcolyer.com/announcements.html), captured 2026-05-11. The announcements page is largely a 2021 archive, but it remains live and visible from the campaign site; recurring themes include abortion, KU adult stem-cell research, oil/gas, COVID-era closures, conservative identity, and school/church/small-business framing.
+  - Source: https://www.jeffcolyer.com/announcements.html
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03819] [colyerforgovernor.com](https://www.colyerforgovernor.com/), captured 2026-05-11. Key visible signals: Trump quote, "Faith & Family First," lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03827] | Education, parental rights, anti-woke schools, youth healthcare, campus/school conflict, and public safety | 7 | 24% |
+  - Source: memory/candidates/jeff-colyer/social-harvest.md:83
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jeff-colyer-00551] [KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jeff-colyer-04330] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-jeff-colyer-00403] No faith or church references in any professional profiles, medical directories, or candidate information
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:561
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jeff-colyer-00543] Extensive international humanitarian medical work with International Medical Corps -- 20+ countries since 1985 (Afghanistan, Iraq, Kosovo, South Sudan, Cameroon, Syria border, Ukraine)
+  - Source: reports/faith-church-investigation-2026-03-31.md:769
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-01923] [KSHB - Ukraine medical mission](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-01946] [NKC Health - Jeffrey W. Colyer, M.D.](https://www.nkchealth.org/provider/jeffrey-w-colyer-plastic-surgery)
+  - Source: https://www.nkchealth.org/provider/jeffrey-w-colyer-plastic-surgery
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-01947] [WebMD - Dr. Jeffrey Colyer](https://doctor.webmd.com/doctor/jeffrey-colyer-31dcc3a2-b552-47fe-acf3-0ec6615c7ca3-overview)
+  - Source: https://doctor.webmd.com/doctor/jeffrey-colyer-31dcc3a2-b552-47fe-acf3-0ec6615c7ca3-overview
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-01949] [IMC - Lt. Governor to Climb Mt. Kilimanjaro](https://internationalmedicalcorps.org/press-release/lt-governor-to-climb-mt-kilimanjaro-in-support-of-international-medical-corps-humanitarian-relief-efforts/)
+  - Source: https://internationalmedicalcorps.org/press-release/lt-governor-to-climb-mt-kilimanjaro-in-support-of-international-medical-corps-humanitarian-relief-efforts/
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-02646] [Ballotpedia: Kansas Insurance Commissioner 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-03582] [Kansas Department of Insurance - About Us](https://insurance.kansas.gov/about-us/)
+  - Source: https://insurance.kansas.gov/about-us/
+  - Confidence/use: confirmed / use
+
+### Social / Online Signals
+- **ambiguous X / Twitter online-reference** [soc-jeff-colyer-0004] The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent ([harvest](social-harvest.md#topic-share-analysis)). The 2026 campaign site promises a high-wage, low-tax Kansas with "a real lid on property taxes" ([source](https://www.colyerforgovernor.com/)). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud, Sedgwick County property valuations, lesser prairie chicken delisting, and regulations affecting farmers, ranchers, homeowners, and small businesses ([harvest](social-harvest.md#indexed-x-items-reviewed)).
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-jeff-colyer-0008] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Facebook post** [soc-jeff-colyer-0009] | Campaign site | https://jeffcolyer.com/ | FOUND | Public site links X, Instagram, Facebook, and YouTube. Homepage pushes actions on critical race theory, private property rights, abortion, medical innovation, and oil/gas. |
+  - Source: https://jeffcolyer.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong colyerforgovernor.com post** [soc-jeff-colyer-0010] | Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around "Faith & Family First," Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong jeffcolyer.com post** [soc-jeff-colyer-0014] [jeffcolyer.com/announcements.html](https://www.jeffcolyer.com/announcements.html), captured 2026-05-11. The announcements page is largely a 2021 archive, but it remains live and visible from the campaign site; recurring themes include abortion, KU adult stem-cell research, oil/gas, COVID-era closures, conservative identity, and school/church/small-business framing.
+  - Source: https://www.jeffcolyer.com/announcements.html
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong colyerforgovernor.com post** [soc-jeff-colyer-0015] [colyerforgovernor.com](https://www.colyerforgovernor.com/), captured 2026-05-11. Key visible signals: Trump quote, "Faith & Family First," lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-jeff-colyer-0016] | Health, rural healthcare, medical biography, KanCare, abortion, and adult stem-cell research | 5 | 17% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-jeff-colyer-0017] Across the accessible reviewed set, Colyer's current campaign material and indexed social feed did not show sustained attention to child care costs, foster care, housing affordability, water rights, the Ogallala Aquifer, broadband deployment, road and bridge funding, higher education affordability, veterans services beyond general troop support, or detailed hospital-finance mechanics beyond rural health positioning. Medicaid appears through Colyer's KanCare record rather than a fresh Medicaid expansion discussion. Abortion appears as a recurring moral/political issue; maternal health, infant mortality, and contraception policy were not visible in the reviewed material.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate mobile.twstalker.com comment** [soc-jeff-colyer-0018] a week ago -- Parents and medical decisions post. Engagement: 1 reply, 2 reposts, 28 likes, 590 views, 0 quotes. Topic: parental rights / minors' healthcare. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-jeff-colyer-0020] | Education, parental rights, anti-woke schools, youth healthcare, campus/school conflict, and public safety | 7 | 24% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 10. Election integrity / voting / courts
+
+Election integrity / voting / courts: 29 selected evidence items from 837 mapped rows. Public URL-backed rows: 167.
+
+### Evidence
+- **candidate-stated** [em-jeff-colyer-02465] Right now, the Kansas Constitution says: "Every citizen of the United States who has attained the age of eighteen years and who resides in the voting area in which he or she seeks to vote shall be deemed a qualified elector."
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3976
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00004] The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent ([harvest](social-harvest.md#topic-share-analysis)). The 2026 campaign site promises a high-wage, low-tax Kansas with "a real lid on property taxes" ([source](https://www.colyerforgovernor.com/)). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud, Sedgwick County property valuations, lesser prairie chicken delisting, and regulations affecting farmers, ranchers, homeowners, and small businesses ([harvest](social-harvest.md#indexed-x-items-reviewed)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00005] Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent ([harvest](social-harvest.md#topic-share-analysis)). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools ([source](https://jeffcolyer.com/)). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against "political agendas" in classrooms ([source](https://mobile.twstalker.com/DrJeffColyer)). The 2026 campaign site groups school choice, parental authority, abortion, the Second Amendment, and religious liberty under "Freedom to Thrive" ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://jeffcolyer.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00006] Colyer's medical identity remains central rather than incidental. His campaign biography says he is a craniofacial/plastic surgeon who has treated more than 20,000 patients and volunteered in more than 25 war zones, including Rwanda during the genocide ([source](https://www.colyerforgovernor.com/)). The older campaign about page says he created Kansas's privatized integrated Medicaid system, KanCare, and presents it as a taxpayer-savings and care-management achievement ([source](https://www.jeffcolyer.com/about)). The 2026 site extends that biography into rural health, saying he would deliver care and hospitals for small towns ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00007] Abortion appears as a recurring moral and campaign issue. The 2026 campaign site says Colyer will "defend the unborn" ([source](https://www.colyerforgovernor.com/)). The older, still-live announcements archive includes a 2021 statement attacking abortion increases in Kansas and the Biden administration's budget position on the Hyde Amendment ([source](https://www.jeffcolyer.com/announcements.html)). That archive is older than the active 2026 campaign period, but it remains linked from the public campaign website and is consistent with the current site's abortion framing.
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00008] On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration ([source](https://www.colyerforgovernor.com/)). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport undocumented immigrants who are criminals, prevent gender-affirming care for minors, and bring tech and manufacturing jobs to Kansas ([source](https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00027] | s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | 2026 offices, filing deadline, filed-candidate rule, filing fees | election status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jeff-colyer-00034] | s-sos-2018-primary-results | primary | https://sos.ks.gov/elections/18elec/PrimaryElectionOfficialResults.pdf | official 2018 primary; accessed 2026-05-19 | Republican governor primary vote totals and 336-vote margin | election history |
+  - Source: https://sos.ks.gov/elections/18elec/PrimaryElectionOfficialResults.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jeff-colyer-00037] | s-campaign-current | primary | https://www.colyerforgovernor.com/ | accessed 2026-05-19 | current campaign home, identity, Trump alignment, five-pillar framing | stated platform |
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-jeff-colyer-02239] | December 2022 | Federal Election Commission | $30,000 fine | Illegal in-kind contribution from We Build the Wall during 2020 Senate race |
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3595
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-02859] Election Integrity: Championed the Secure and Fair Elections (SAFE) Act requiring voter ID (signed into law 2011). This was his signature legislative achievement as Elections Committee Chairman.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4650
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-02871] Guns: Pro-Second Amendment, specific NRA rating not publicly available in search results
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4669
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-02888] The detailed itemized donor list is available through the Kansas Ethics Commission 2026 election cycle filings:
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4698
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-03298] > "It is a vote I regret. [...] The GOP strategy in the Senate was to place the tax bill in the hands of a House-Senate negotiating committee so a more balanced reform plan could be drafted. Instead of revisions, the House concurred with the Senate and Brownback signed the bill into law."
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:5374
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-03654] His 2025 year-end filing showed $2,070,322.09 raised and $1,884,509.78 cash on hand, including a major personal loan.
+  - Source: memory/candidates/jeff-colyer/site-profile.md:46
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jeff-colyer-03819] [colyerforgovernor.com](https://www.colyerforgovernor.com/), captured 2026-05-11. Key visible signals: Trump quote, "Faith & Family First," lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03767] Election slug: kansas-governor-2026
+  - Source: memory/candidates/jeff-colyer/social-harvest.md:6
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jeff-colyer-01117] [Kansas Catholic Conference: Election 2026](https://www.kansascatholic.org/current-news/election-2026)
+  - Source: https://www.kansascatholic.org/current-news/election-2026
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jeff-colyer-04330] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-jeff-colyer-00351] Spoke at TMP about the importance of voting (invited as elected official to Catholic school)
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:436
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jeff-colyer-00531] Pushed the judicial selection amendment -- faith motivation was part of the framing
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:847
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-jeff-colyer-02310] Consistent pattern of judicial rebukes -- multiple judges across jurisdictions have criticized his legal work
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3696
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-jeff-colyer-03208] Accused by ACLU and voting rights groups of voter suppression
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:5216
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-01261] [Vote No Kansas 2026](https://www.votenokansas.org/)
+  - Source: https://www.votenokansas.org/
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-02027] [NPR: Judge Tosses Kansas Proof-of-Citizenship Voter Law](https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba)
+  - Source: https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-02028] [ACLU Kansas - Federal Judge Rules](https://www.aclukansas.org/news/federal-judge-rules-favor-aclu-strikes-down-kobachs-illegal-voter-restrictions/)
+  - Source: https://www.aclukansas.org/news/federal-judge-rules-favor-aclu-strikes-down-kobachs-illegal-voter-restrictions/
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-02072] [Common Cause: Crosscheck System Shuttered](https://www.commoncause.org/democracy-wire/crosscheck-system-shuttered-after-wrongly-tagging-legal-voters/)
+  - Source: https://www.commoncause.org/democracy-wire/crosscheck-system-shuttered-after-wrongly-tagging-legal-voters/
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-02119] [Kansas Reflector: Transgender Law](https://kansasreflector.com/2026/03/06/kansas-ag-offers-to-delay-enforcement-of-anti-trans-law-until-march-26-while-judge-weighs-challenge/)
+  - Source: https://kansasreflector.com/2026/03/06/kansas-ag-offers-to-delay-enforcement-of-anti-trans-law-until-march-26-while-judge-weighs-challenge/
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-02400] Brennan Center - Anti-Voting History: https://www.brennancenter.org/our-work/analysis-opinion/uncovering-kris-kobachs-anti-voting-history
+  - Source: https://www.brennancenter.org/our-work/analysis-opinion/uncovering-kris-kobachs-anti-voting-history
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous X / Twitter online-reference** [soc-jeff-colyer-0001] Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent ([harvest](social-harvest.md#topic-share-analysis)). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools ([source](https://jeffcolyer.com/)). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against "political agendas" in classrooms ([source](https://mobile.twstalker.com/DrJeffColyer)). The 2026 campaign site groups school choice, parental authority, abortion, the Second Amendment, and religious liberty under "Freedom to Thrive" ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://jeffcolyer.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-jeff-colyer-0004] The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent ([harvest](social-harvest.md#topic-share-analysis)). The 2026 campaign site promises a high-wage, low-tax Kansas with "a real lid on property taxes" ([source](https://www.colyerforgovernor.com/)). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud, Sedgwick County property valuations, lesser prairie chicken delisting, and regulations affecting farmers, ranchers, homeowners, and small businesses ([harvest](social-harvest.md#indexed-x-items-reviewed)).
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous colyerforgovernor.com online-reference** [soc-jeff-colyer-0005] | s-campaign-current | primary | https://www.colyerforgovernor.com/ | accessed 2026-05-19 | current campaign home, identity, Trump alignment, five-pillar framing | stated platform |
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous colyerforgovernor.com online-reference** [soc-jeff-colyer-0006] | s-campaign-commitment | primary | https://colyerforgovernor.com/colyer-commitment | accessed 2026-05-19 | 25-point Colyer Commitment plan | stated platform, issues |
+  - Source: https://colyerforgovernor.com/colyer-commitment
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous jeffcolyer.com online-reference** [soc-jeff-colyer-0007] | s-campaign-old-home | primary | https://www.jeffcolyer.com/ | accessed 2026-05-19 | older campaign site, social links, active issue links | online presence, issue archive |
+  - Source: https://www.jeffcolyer.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-jeff-colyer-0008] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong colyerforgovernor.com post** [soc-jeff-colyer-0015] [colyerforgovernor.com](https://www.colyerforgovernor.com/), captured 2026-05-11. Key visible signals: Trump quote, "Faith & Family First," lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-jeff-colyer-0035] Election slug: kansas-governor-2026
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0129] The older campaign announcements archive remains live and includes 2021 material on abortion, KU adult stem-cell research, oil/gas, COVID-era closures, and conservative identity. Treat this as older candidate-controlled archive material, not necessarily new 2026 platform detail.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-jeff-colyer-0133] "observation": "Colyer's active campaign footprint is split between an older campaign domain, jeffcolyer.com, and a 2026-specific domain, colyerforgovernor.com. The older site links his public X, Instagram, Facebook, and YouTube accounts and foregrounds action items on critical race theory, private property rights, abortion, KU stem-cell funding, and oil/gas policy. The homepage identifies him as a fifth-generation Kansan from...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 11. Public safety / law enforcement / criminal justice
+
+Public safety / law enforcement / criminal justice: 22 selected evidence items from 168 mapped rows. Public URL-backed rows: 35.
+
+### Evidence
+- **candidate-stated** [em-jeff-colyer-02291] Platform: "Defend the rule of law, protect our rights, protect our families and make Kansas a safer place to live." Emphasizes reorienting the AG's office toward basics of law enforcement rather than partisan federal lawsuits.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3670
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00008] On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration ([source](https://www.colyerforgovernor.com/)). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport undocumented immigrants who are criminals, prevent gender-affirming care for minors, and bring tech and manufacturing jobs to Kansas ([source](https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00152] Kansas Ethics filing: [SW01JC_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jeff-colyer-00175] https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jeff-colyer-00190] Kansas Ethics filing index: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jeff-colyer-00191] 2026 filing PDF: [state filing PDF referenced in SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jeff-colyer-00377] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-01260] [Ballotpedia: Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))
+  - Source: https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-01953] [Kansas Ethics Commission - 2026 Election Cycle Filing](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-jeff-colyer-02215] We Build the Wall was the Steve Bannon-linked organization that raised millions for a private border wall. Bannon was later indicted for fraud related to the organization (pardoned by Trump), and organizer Brian Kolfage was sentenced to 51 months in prison for fraud
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3559
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jeff-colyer-03774] | Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around "Faith & Family First," Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03808] 2 weeks ago -- Quote-post of Libs of TikTok item about Olathe students, anti-ICE walkout, Trump flags, violence, extremism, and Democratic candidates. Engagement: 42 replies, 32 reposts, 223 likes, 18K views, 6 quotes. Topic: schools / immigration protest / public safety / partisan conflict. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03819] [colyerforgovernor.com](https://www.colyerforgovernor.com/), captured 2026-05-11. Key visible signals: Trump quote, "Faith & Family First," lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03827] | Education, parental rights, anti-woke schools, youth healthcare, campus/school conflict, and public safety | 7 | 24% |
+  - Source: memory/candidates/jeff-colyer/social-harvest.md:83
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jeff-colyer-04330] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-jeff-colyer-00263] Assessment: The "core values" language is suggestive but not conclusive. His background is law enforcement and military -- both communities where faith can be deeply held but not publicly displayed. No specific church identified. Recommend direct inquiry.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:241
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-02132] [KLRD: Kansas Law Enforcement Fentanyl Response](https://klrd.gov/2024/12/18/kansas-law-enforcement-fentanyl-response/)
+  - Source: https://klrd.gov/2024/12/18/kansas-law-enforcement-fentanyl-response/
+  - Confidence/use: confirmed / use
+- **background-context** [em-jeff-colyer-00090] Issue Area 5 - Public Safety, Immigration, Cybercrime, Veterans, Foster Care, and Accountability
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:141
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00095] Gap: No detailed foster-care administrative plan, corrections plan, fentanyl policy text, or veterans-services plan was located in this pass.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:153
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00259] Retired Hays Police officer (19 years HPD + military police = 22 years total)
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:236
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00283] FHSU graduate, 24 years law enforcement
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:292
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-01304] Ellis County Sheriff primary (if on cycle -- VERIFY)
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2145
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-jeff-colyer-0008] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong colyerforgovernor.com post** [soc-jeff-colyer-0010] | Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around "Faith & Family First," Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong colyerforgovernor.com post** [soc-jeff-colyer-0015] [colyerforgovernor.com](https://www.colyerforgovernor.com/), captured 2026-05-11. Key visible signals: Trump quote, "Faith & Family First," lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-jeff-colyer-0020] | Education, parental rights, anti-woke schools, youth healthcare, campus/school conflict, and public safety | 7 | 24% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate TikTok share/repost** [soc-jeff-colyer-0033] 2 weeks ago -- Quote-post of Libs of TikTok item about Olathe students, anti-ICE walkout, Trump flags, violence, extremism, and Democratic candidates. Engagement: 42 replies, 32 reposts, 223 likes, 18K views, 6 quotes. Topic: schools / immigration protest / public safety / partisan conflict. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-jeff-colyer-0138] "observation": "Local social harvest coded education, parental rights, youth healthcare, school conflict, and public safety as 7 of 29 accessible reviewed items, or 24%. Indexed X examples included classroom, academic-skills, and 'EDUCATION NOT INDOCTRINATION' posts.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0184] Platform: "Defend the rule of law, protect our rights, protect our families and make Kansas a safer place to live." Emphasizes reorienting the AG's office toward basics of law enforcement rather than partisan federal lawsuits.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 12. Agriculture / rural economy / water
+
+Agriculture / rural economy / water: 33 selected evidence items from 91 mapped rows. Public URL-backed rows: 17.
+
+### Evidence
+- **candidate-stated** [em-jeff-colyer-00011] Several areas were absent or thin in the accessible reviewed set. The public material did not show sustained discussion of child care, foster care, housing costs, water policy, the Ogallala Aquifer, broadband, transportation infrastructure, higher education affordability, or detailed rural hospital finance. Medicaid appears mainly through Colyer's KanCare record rather than a current Medicaid-expansion debate. Veterans and service members appear through troop-support posts, but not through a detailed veterans-services platform ([harvest](social-harvest.md#visible-absences)).
+  - Source: memory/candidates/jeff-colyer/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-04046] "summary": "No detailed 2026 Medicaid expansion stance, rural hospital finance plan, insurance plan, maternal health plan, or behavioral-health platform was found beyond broad rural-health positioning and KanCare record claims.",
+  - Source: ui/src/data/v2/jeff-colyer.ts:310
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-04384] "stance": "Supports expanding healthcare access, especially in rural Kansas. Said \"Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor.\""
+  - Source: ui/src/data/candidates.ts:18574
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-04388] "stance": "Says small business is \"how we rebuild rural Kansas\" and wants to make Kansas more affordable for entrepreneurs."
+  - Source: ui/src/data/candidates.ts:18582
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00006] Colyer's medical identity remains central rather than incidental. His campaign biography says he is a craniofacial/plastic surgeon who has treated more than 20,000 patients and volunteered in more than 25 war zones, including Rwanda during the genocide ([source](https://www.colyerforgovernor.com/)). The older campaign about page says he created Kansas's privatized integrated Medicaid system, KanCare, and presents it as a taxpayer-savings and care-management achievement ([source](https://www.jeffcolyer.com/about)). The 2026 site extends that biography into rural health, saying he would deliver care and hospitals for small towns ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00701] > -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-01050] [Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00086] Colyer's public identity combines medicine and politics. Kansas Historical Society identifies him as a surgeon and former International Medical Corps volunteer in multiple countries. The older campaign about page says he created KanCare, Kansas's privatized integrated Medicaid system, and presents it as a taxpayer-savings and care-management achievement. Current campaign framing includes "Healthy Rural Kansas" and references his medical background and rural-health work.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:131
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00089] Gap: No current detailed Medicaid-expansion stance, rural hospital finance plan, health insurance plan, maternal health plan, or behavioral-health platform was found in this pass beyond broad campaign framing.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:137
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00107] Schedule A includes multiple loan entries from Jeffrey Colyer. The extracted visible loan entries total at least $1,055,481.00 ($437,698.00, $467,783.00, $100,000.00, and $50,000.00). Schedule D also lists candidate-paid campaign items to be reimbursed, such as campaign event food/beverage, office supplies/shipping/subscriptions, and campaign equipment.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:174
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00119] Topic-share coding across 29 accessible items: taxes/affordability/fraud/regulation/property rights 28%; education/parental rights/youth healthcare/school conflict/public safety 24%; campaign identity/Trump alignment/electability 17%; health/rural healthcare/KanCare/abortion/stem-cell 17%; sports/military/condolence/patriotic/community identity 14%.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:197
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00690] Notable Legislative Focus Areas: Education funding, lowering cost of living, workforce development, small business support, rural healthcare access. Specific bill-by-bill voting record available at kslegislature.gov but not extractable in bulk from search.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:1100
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-00430] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:650
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-01882] Hays roots. For western Kansas voters specifically, Colyer is one of their own -- born and raised in Hays, TMP graduate, father was a beloved Hays dentist for 30 years, family raised horses on a small farm. He is the only Kansas governor from Hays in state history.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3019
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-02530] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4120
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-02569] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4205
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jeff-colyer-03001] Specific formal endorsements (NRA rating, Kansas Right to Life, Kansas Farm Bureau, etc.) were not comprehensively documented in publicly available reporting at time of investigation. The Kansas Ethics Commission filings may contain PAC contribution details that indicate organizational support.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4885
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jeff-colyer-03774] | Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around "Faith & Family First," Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03790] The 2026 campaign site is more polished and explicitly primary-oriented. It leads with Trump validation, "Faith & Family First," Colyer's status as Kansas's 47th governor, his appointment by Trump to a rural-health advisory role, and his service as Trump's 2024 Kansas chair. It lists five campaign pillars: lower costs/higher pay, safer communities, freedom to thrive, healthy rural Kansas, and honest accountable government ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03806] 2 weeks ago -- Lesser prairie chicken delisting, property rights, farmers, ranchers, and federal regulation. Engagement: 12 replies, 5 reposts, 42 likes, 1K views, 2 quotes. Topic: agriculture / property rights / regulation. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03819] [colyerforgovernor.com](https://www.colyerforgovernor.com/), captured 2026-05-11. Key visible signals: Trump quote, "Faith & Family First," lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03829] | Health, rural healthcare, medical biography, KanCare, abortion, and adult stem-cell research | 5 | 17% |
+  - Source: memory/candidates/jeff-colyer/social-harvest.md:85
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03838] Across the accessible reviewed set, Colyer's current campaign material and indexed social feed did not show sustained attention to child care costs, foster care, housing affordability, water rights, the Ogallala Aquifer, broadband deployment, road and bridge funding, higher education affordability, veterans services beyond general troop support, or detailed hospital-finance mechanics beyond rural health positioning. Medicaid appears through Colyer's KanCare record rather than a fresh Medicaid expansion discussion. Abortion appears as a recurring moral/political issue; maternal health, infant mortality, and contraception policy were not visible in the reviewed material.
+  - Source: memory/candidates/jeff-colyer/social-harvest.md:102
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jeff-colyer-02945] Caleb had attended church with his family hours before his death that Sunday morning. The family went from church to the waterpark for what was supposed to be a fun family outing. Source: [Christian Post article](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)
+  - Source: https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jeff-colyer-03179] [Christian Post: Caleb attended church hours before death](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)
+  - Source: https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jeff-colyer-04223] "url": "https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html"
+  - Source: https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jeff-colyer-04330] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **background-context** [em-jeff-colyer-01052] [Kansas Reflector: Rural voter appeal (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-01072] [Kansas Reflector: Rural voters (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-01093] [Schooley Mitchell: Eberly Farm / Kids Closet story](https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/)
+  - Source: https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-03172] [ABC News: Family of boy killed on water slide speaks out](https://abcnews.go.com/US/family-boy-killed-waterslide-speaks-hurting/story?id=45445546)
+  - Source: https://abcnews.go.com/US/family-boy-killed-waterslide-speaks-hurting/story?id=45445546
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-03180] [TIME: What we know about the water slide death](https://time.com/4444447/caleb-schwab-verruckt-water-slide-death/)
+  - Source: https://time.com/4444447/caleb-schwab-verruckt-water-slide-death/
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-03861] "url": "https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas"
+  - Source: https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas
+  - Confidence/use: confirmed / use
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-jeff-colyer-0008] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong colyerforgovernor.com post** [soc-jeff-colyer-0010] | Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around "Faith & Family First," Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong colyerforgovernor.com post** [soc-jeff-colyer-0015] [colyerforgovernor.com](https://www.colyerforgovernor.com/), captured 2026-05-11. Key visible signals: Trump quote, "Faith & Family First," lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-jeff-colyer-0016] | Health, rural healthcare, medical biography, KanCare, abortion, and adult stem-cell research | 5 | 17% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-jeff-colyer-0017] Across the accessible reviewed set, Colyer's current campaign material and indexed social feed did not show sustained attention to child care costs, foster care, housing affordability, water rights, the Ogallala Aquifer, broadband deployment, road and bridge funding, higher education affordability, veterans services beyond general troop support, or detailed hospital-finance mechanics beyond rural health positioning. Medicaid appears through Colyer's KanCare record rather than a fresh Medicaid expansion discussion. Abortion appears as a recurring moral/political issue; maternal health, infant mortality, and contraception policy were not visible in the reviewed material.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong colyerforgovernor.com post** [soc-jeff-colyer-0025] The 2026 campaign site is more polished and explicitly primary-oriented. It leads with Trump validation, "Faith & Family First," Colyer's status as Kansas's 47th governor, his appointment by Trump to a rural-health advisory role, and his service as Trump's 2024 Kansas chair. It lists five campaign pillars: lower costs/higher pay, safer communities, freedom to thrive, healthy rural Kansas, and honest accountable government ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate mobile.twstalker.com share/repost** [soc-jeff-colyer-0036] 2 weeks ago -- Lesser prairie chicken delisting, property rights, farmers, ranchers, and federal regulation. Engagement: 12 replies, 5 reposts, 42 likes, 1K views, 2 quotes. Topic: agriculture / property rights / regulation. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0139] Several areas were absent or thin in the accessible reviewed set. The public material did not show sustained discussion of child care, foster care, housing costs, water policy, the Ogallala Aquifer, broadband, transportation infrastructure, higher education affordability, or detailed rural hospital finance. Medicaid appears mainly through Colyer's KanCare record rather than a current Medicaid-expansion debate. Veterans and service members appear through troop-support posts, but not through a detailed veterans-services platform ([harvest](social-harvest.md#visible-absences)).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous TikTok share/repost** [soc-jeff-colyer-0157] "observation": "Topic: agriculture / property rights / regulation. (source) 13. 2 weeks ago -- Wyandotte County State of the Union watch party; SNAP and unemployment-insurance fraud, household affordability, and regulation. Engagement: 4 replies, 7 reposts, 25 likes, 2K views, 2 quotes. Topic: campaign event / fraud / affordability. (source) 14. 2 weeks ago -- Quote-post of Libs of TikTok item about Olathe students, anti-ICE...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0159] Gap: No current detailed Medicaid-expansion stance, rural hospital finance plan, health insurance plan, maternal health plan, or behavioral-health platform was found in this pass beyond broad campaign framing.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 13. Local governance / transparency / ethics
+
+Local governance / transparency / ethics: 38 selected evidence items from 991 mapped rows. Public URL-backed rows: 176.
+
+### Evidence
+- **candidate-stated** [em-jeff-colyer-00045] | s-social-harvest-local | social | memory/candidates/jeff-colyer/social-harvest.md | captured 2026-05-11; read 2026-05-19 | logged-out social/platform harvest, topic shares, indexed X sample and engagement | social signals |
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:43
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-00092] The government/community pillar says he would restore accountability and higher expectations across state government, bring the number of foster kids missing and sleeping in offices back to zero, support veterans, and invest in Kansas businesses.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:147
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-00124] site-profile.md says the 2018 primary loss was by "roughly 345 votes"; official SOS results support 336 votes.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:207
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-02291] Platform: "Defend the rule of law, protect our rights, protect our families and make Kansas a safer place to live." Emphasizes reorienting the AG's office toward basics of law enforcement rather than partisan federal lawsuits.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3670
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-02981] Kansas requires a Statement of Substantial Interests (SSI) for state officials. These filings are available through the Kansas Secretary of State's office but are not comprehensively digitized for public search online.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4855
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-03402] | June 14, 2023 | Public announcement via official statement |
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:5559
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-03468] | Kansans for Life PAC | ACTIVELY OPPOSING | Released formal statement calling her record "the worst on life of any Republican to ever seek office in Kansas" |
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:5681
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jeff-colyer-03742] Education and parental rights: The 25-point plan says to get "woke" out of schools, focus on math/reading/tech, teach STEM, provide options when a school fails a family, and strengthen parental rights. Local harvest also found classroom and "education not indoctrination" posts. Map social signals here when they reference schools, curriculum, or parental authority.
+  - Source: memory/candidates/jeff-colyer/sleuth-pass.md:40
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-00004] The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent ([harvest](social-harvest.md#topic-share-analysis)). The 2026 campaign site promises a high-wage, low-tax Kansas with "a real lid on property taxes" ([source](https://www.colyerforgovernor.com/)). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud, Sedgwick County property valuations, lesser prairie chicken delisting, and regulations affecting farmers, ranchers, homeowners, and small businesses ([harvest](social-harvest.md#indexed-x-items-reviewed)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00006] Colyer's medical identity remains central rather than incidental. His campaign biography says he is a craniofacial/plastic surgeon who has treated more than 20,000 patients and volunteered in more than 25 war zones, including Rwanda during the genocide ([source](https://www.colyerforgovernor.com/)). The older campaign about page says he created Kansas's privatized integrated Medicaid system, KanCare, and presents it as a taxpayer-savings and care-management achievement ([source](https://www.jeffcolyer.com/about)). The 2026 site extends that biography into rural health, saying he would deliver care and hospitals for small towns ([source](https://www.colyerforgovernor.com/)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00008] On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration ([source](https://www.colyerforgovernor.com/)). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport undocumented immigrants who are criminals, prevent gender-affirming care for minors, and bring tech and manufacturing jobs to Kansas ([source](https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race)).
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00027] | s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | 2026 offices, filing deadline, filed-candidate rule, filing fees | election status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jeff-colyer-00034] | s-sos-2018-primary-results | primary | https://sos.ks.gov/elections/18elec/PrimaryElectionOfficialResults.pdf | official 2018 primary; accessed 2026-05-19 | Republican governor primary vote totals and 336-vote margin | election history |
+  - Source: https://sos.ks.gov/elections/18elec/PrimaryElectionOfficialResults.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jeff-colyer-00035] | s-ksleg-sb284 | primary | https://kslegislature.gov/li_2018/b2017_18/measures/sb284/ | accessed 2026-05-19 | SB 284 short title, passage history, approved by governor May 18, 2018 | religious liberty, foster/adoption |
+  - Source: https://kslegislature.gov/li_2018/b2017_18/measures/sb284/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jeff-colyer-00037] | s-campaign-current | primary | https://www.colyerforgovernor.com/ | accessed 2026-05-19 | current campaign home, identity, Trump alignment, five-pillar framing | stated platform |
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00038] | s-campaign-commitment | primary | https://colyerforgovernor.com/colyer-commitment | accessed 2026-05-19 | 25-point Colyer Commitment plan | stated platform, issues |
+  - Source: https://colyerforgovernor.com/colyer-commitment
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-jeff-colyer-00029] | s-kpdc-statewide-index | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm | accessed 2026-05-19 | Colyer listed under gubernatorial candidates with AT and 202601 links | campaign finance, status |
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-jeff-colyer-00030] | s-kpdc-at | primary | https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01JC_AT.pdf | executed 2025-05-12; accessed 2026-05-19 | Appointment of treasurer; office sought Governor; treasurer Kyle Hoffman | campaign finance, status |
+  - Source: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01JC_AT.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-jeff-colyer-00031] | s-kpdc-202601 | primary | https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf | filed 2026-01-09; accessed 2026-05-19 | 2025 receipts, expenditures, cash on hand, in-kind, other transactions, donor/loan schedules | campaign finance |
+  - Source: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-jeff-colyer-00948] > -- [Kansas Reflector, January 19, 2026](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)
+  - Source: https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-jeff-colyer-01097] [Kansas Reflector: Millionaire candidates (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)
+  - Source: https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-jeff-colyer-01107] [Trending Politics: Frontrunner emerges](https://trendingpoliticsnews.com/new-frontrunner-emerges-in-key-race-as-gop-candidate-shatters-fundraising-records-mace/)
+  - Source: https://trendingpoliticsnews.com/new-frontrunner-emerges-in-key-race-as-gop-candidate-shatters-fundraising-records-mace/
+  - Confidence/use: likely / use
+- **social-online-signal** [em-jeff-colyer-02721] | X (Twitter) | [@KansasSOS](https://x.com/KansasSOS) | Official Office | Office of Kansas Secretary of State |
+  - Source: https://x.com/KansasSOS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-02723] | Instagram | [@kansassos](https://www.instagram.com/kansassos/) | Official Office | Kansas Secretary of State office account |
+  - Source: https://www.instagram.com/kansassos/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03257] | Facebook | [@VickiSchmidtKS](https://www.facebook.com/VickiSchmidtKS/) | Bio: "Lifelong Kansan & Republican, Mother & Grandmother, Local Pharmacist, Running for Governor" |
+  - Source: https://www.facebook.com/VickiSchmidtKS/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03796] 3 days ago -- Kansas City Chiefs / Kenneth Walker III post. Engagement: 0 replies, 0 reposts, 10 likes, 463 views, 0 quotes. Topic: sports / Kansas identity. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03807] 2 weeks ago -- Wyandotte County State of the Union watch party; SNAP and unemployment-insurance fraud, household affordability, and regulation. Engagement: 4 replies, 7 reposts, 25 likes, 2K views, 2 quotes. Topic: campaign event / fraud / affordability. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03811] 3 weeks ago -- Sedgwick County property valuations, mill levies, reappraisals, agricultural land, and spending restraint. Engagement: 7 replies, 3 reposts, 24 likes, 1K views, 1 quote. Topic: property taxes / spending. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jeff-colyer-00010] Colyer's visible X feed is not exclusively campaign policy. The recent indexed sample also included Kansas City Chiefs, USA Hockey, Miracle on Ice, troop-prayer, military-condolence, faith-coded, and Rep. John Resman condolence posts ([source](https://mobile.twstalker.com/DrJeffColyer)). Those items account for 4 of 29 coded items in the cross-platform harvest, but they take up a larger share of the immediately visible recent X mirror because several were clustered around late-April and early-May sports and military moments ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jeff-colyer-00354] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jeff-colyer-00551] [KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jeff-colyer-04330] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **background-context** [em-jeff-colyer-00032] | s-kansapedia | primary | https://www.kansashistory.gov/kansapedia/jeff-colyer/20011 | accessed 2026-05-19 | state biography: governor, House, Senate, lieutenant governor, education/profession | biography, public office |
+  - Source: https://www.kansashistory.gov/kansapedia/jeff-colyer/20011
+  - Confidence/use: confirmed / use
+- **background-context** [em-jeff-colyer-00273] [City Manager's Office - Hays](https://www.haysusa.com/149/City-Managers-Office)
+  - Source: https://www.haysusa.com/149/City-Managers-Office
+  - Confidence/use: confirmed / use
+- **background-context** [em-jeff-colyer-00285] [Kansas Sheriffs' Association - Ellis County](https://www.kansassheriffs.org/county_map/county/914)
+  - Source: https://www.kansassheriffs.org/county_map/county/914
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-00300] [HaysPost: New Ellis County Attorney](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1)
+  - Source: https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-00343] [FHSU: Germans from Russia in Ellis County](https://fhsuguides.fhsu.edu/kansasheritage/elliscounty)
+  - Source: https://fhsuguides.fhsu.edu/kansasheritage/elliscounty
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-00362] [Ellis County Register of Deeds](https://www.ellisco.net/100/Register-of-Deeds)
+  - Source: https://www.ellisco.net/100/Register-of-Deeds
+  - Confidence/use: confirmed / use
+
+### Social / Online Signals
+- **ambiguous X / Twitter online-reference** [soc-jeff-colyer-0003] Colyer's visible X feed is not exclusively campaign policy. The recent indexed sample also included Kansas City Chiefs, USA Hockey, Miracle on Ice, troop-prayer, military-condolence, faith-coded, and Rep. John Resman condolence posts ([source](https://mobile.twstalker.com/DrJeffColyer)). Those items account for 4 of 29 coded items in the cross-platform harvest, but they take up a larger share of the immediately visible recent X mirror because several were clustered around late-April and early-May sports and military moments ([harvest](social-harvest.md#topic-share-analysis)).
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-jeff-colyer-0004] The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent ([harvest](social-harvest.md#topic-share-analysis)). The 2026 campaign site promises a high-wage, low-tax Kansas with "a real lid on property taxes" ([source](https://www.colyerforgovernor.com/)). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud, Sedgwick County property valuations, lesser prairie chicken delisting, and regulations affecting farmers, ranchers, homeowners, and small businesses ([harvest](social-harvest.md#indexed-x-items-reviewed)).
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous colyerforgovernor.com online-reference** [soc-jeff-colyer-0005] | s-campaign-current | primary | https://www.colyerforgovernor.com/ | accessed 2026-05-19 | current campaign home, identity, Trump alignment, five-pillar framing | stated platform |
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous colyerforgovernor.com online-reference** [soc-jeff-colyer-0006] | s-campaign-commitment | primary | https://colyerforgovernor.com/colyer-commitment | accessed 2026-05-19 | 25-point Colyer Commitment plan | stated platform, issues |
+  - Source: https://colyerforgovernor.com/colyer-commitment
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous jeffcolyer.com online-reference** [soc-jeff-colyer-0007] | s-campaign-old-home | primary | https://www.jeffcolyer.com/ | accessed 2026-05-19 | older campaign site, social links, active issue links | online presence, issue archive |
+  - Source: https://www.jeffcolyer.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-jeff-colyer-0008] narrative: "_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report patterns; we do not interpret intent._\n\nAcross the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a Donald Trump quote, identifies him as Kansas's 47th governor and Trump's 2024 Kansas chair, and frames the campaign as \"Faith & Family First\" ([source](https://www.colyerforgoverno…
+  - Source: https://www.colyerforgovernor.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate mobile.twstalker.com share/repost** [soc-jeff-colyer-0029] 3 weeks ago -- Sedgwick County property valuations, mill levies, reappraisals, agricultural land, and spending restraint. Engagement: 7 replies, 3 reposts, 24 likes, 1K views, 1 quote. Topic: property taxes / spending. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate mobile.twstalker.com share/repost** [soc-jeff-colyer-0032] 2 weeks ago -- Wyandotte County State of the Union watch party; SNAP and unemployment-insurance fraud, household affordability, and regulation. Engagement: 4 replies, 7 reposts, 25 likes, 2K views, 2 quotes. Topic: campaign event / fraud / affordability. ([source](https://mobile.twstalker.com/DrJeffColyer))
+  - Source: https://mobile.twstalker.com/DrJeffColyer
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong X / Twitter post** [soc-jeff-colyer-0037] | X (Twitter) | [@KansasSOS](https://x.com/KansasSOS) | Official Office | Office of Kansas Secretary of State |
+  - Source: https://x.com/KansasSOS
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong Instagram post** [soc-jeff-colyer-0038] | Instagram | [@kansassos](https://www.instagram.com/kansassos/) | Official Office | Kansas Secretary of State office account |
+  - Source: https://www.instagram.com/kansassos/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 14. Environment / energy / land use
+
+Environment / energy / land use: 17 selected evidence items from 18 mapped rows. Public URL-backed rows: 6.
+
+### Evidence
+- **documented-record** [em-jeff-colyer-00042] | s-campaign-old-announcements | primary | https://www.jeffcolyer.com/announcements.html | accessed 2026-05-19 | still-live 2021 archive on abortion, energy, KU adult stem-cell research, COVID closures | issue archive |
+  - Source: https://www.jeffcolyer.com/announcements.html
+  - Confidence/use: likely / use
+- **documented-record** [em-jeff-colyer-00080] The older campaign announcements archive remains live and includes 2021 material on abortion, KU adult stem-cell research, oil/gas, COVID-era closures, and conservative identity. Treat this as older candidate-controlled archive material, not necessarily new 2026 platform detail.
+  - Source: memory/candidates/jeff-colyer/raw-dump-v2.md:117
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-01274] The City of Hays manages its own water utility through the city commission
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2090
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-02324] Fired Morgan & Morgan law firm from the natural gas price-gouging case, allegedly because the firm's founder donated to Democrats -- had to backtrack after legal experts warned of retaliation liability
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:3714
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-03928] "Still-live 2021 archive contains candidate-controlled statements on abortion, KU adult stem-cell research, oil/gas, COVID-era closures, and conservative identity"
+  - Source: memory/candidates/jeff-colyer/v2-issues.yaml:160
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-04504] "observation": "Colyer's active campaign footprint is split between an older campaign domain, jeffcolyer.com, and a 2026-specific domain, colyerforgovernor.com. The older site links his public X, Instagram, Facebook, and YouTube accounts and foregrounds action items on critical race theory, private property rights, abortion, KU stem-cell funding, and oil/gas policy. The homepage identifies him as a fifth-generation Kansan from...",
+  - Source: ui/src/data/v2/jeff-colyer.ts:68
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jeff-colyer-04524] "observation": "1. jeffcolyer.com homepage, captured 2026-05-11. Key visible signals: critical race theory pledge, private property rights letter, abortion announcement, KU stem-cell research criticism, oil/gas criticism, bio, and social links. 2. jeffcolyer.com/about, captured 2026-05-11. Key visible signals: Hays biography, family, surgeon identity, humanitarian war-zone work, pro-life record, KanCare, budget/stability claims,...",
+  - Source: ui/src/data/v2/jeff-colyer.ts:226
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jeff-colyer-03773] | Campaign site | https://jeffcolyer.com/ | FOUND | Public site links X, Instagram, Facebook, and YouTube. Homepage pushes actions on critical race theory, private property rights, abortion, medical innovation, and oil/gas. |
+  - Source: https://jeffcolyer.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03789] Colyer's active campaign footprint is split between an older campaign domain, [jeffcolyer.com](https://jeffcolyer.com/), and a 2026-specific domain, [colyerforgovernor.com](https://www.colyerforgovernor.com/). The older site links his public X, Instagram, Facebook, and YouTube accounts and foregrounds action items on critical race theory, private property rights, abortion, KU stem-cell funding, and oil/gas policy. The homepage identifies him as a fifth-generation Kansan from Hays and says he is "dedicated to making a difference in people's lives" ([source](https://jeffcolyer.com/)).
+  - Source: https://jeffcolyer.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03815] [jeffcolyer.com homepage](https://jeffcolyer.com/), captured 2026-05-11. Key visible signals: critical race theory pledge, private property rights letter, abortion announcement, KU stem-cell research criticism, oil/gas criticism, bio, and social links.
+  - Source: https://jeffcolyer.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jeff-colyer-03818] [jeffcolyer.com/announcements.html](https://www.jeffcolyer.com/announcements.html), captured 2026-05-11. The announcements page is largely a 2021 archive, but it remains live and visible from the campaign site; recurring themes include abortion, KU adult stem-cell research, oil/gas, COVID-era closures, conservative identity, and school/church/small-business framing.
+  - Source: https://www.jeffcolyer.com/announcements.html
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-jeff-colyer-01109] [NOLN: Strickland Brothers franchise owner](https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor)
+  - Source: https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor
+  - Confidence/use: likely / use
+- **background-context** [em-jeff-colyer-00147] His 2026 messaging emphasizes CRT in schools, private-property rights, abortion policy, STEM innovation, and energy policy.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:19
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00166] The site includes issue-focused calls to action on schools, property rights, and energy.
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:43
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-00976] Largest national franchise owner, Strickland Brothers 10 Minute Oil Change -- locations across Kansas including Andover, El Dorado, Derby, Pittsburg, Fort Scott, Independence
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:1624
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-01272] Water District / Utility Boards
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:2088
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jeff-colyer-02907] "Caleb was an incredible young man. He's going to be missed for his energy, for his life, for his smile, for the way he lit up a room."
+  - Source: memory/candidates/jeff-colyer/raw-dump.md:4732
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **strong Facebook post** [soc-jeff-colyer-0009] | Campaign site | https://jeffcolyer.com/ | FOUND | Public site links X, Instagram, Facebook, and YouTube. Homepage pushes actions on critical race theory, private property rights, abortion, medical innovation, and oil/gas. |
+  - Source: https://jeffcolyer.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong Facebook post** [soc-jeff-colyer-0011] Colyer's active campaign footprint is split between an older campaign domain, [jeffcolyer.com](https://jeffcolyer.com/), and a 2026-specific domain, [colyerforgovernor.com](https://www.colyerforgovernor.com/). The older site links his public X, Instagram, Facebook, and YouTube accounts and foregrounds action items on critical race theory, private property rights, abortion, KU stem-cell funding, and oil/gas policy. The homepage identifies him as a fifth-generation Kansan from Hays and says he is "dedicated to making a difference in people's lives" ([source](https://jeffcolyer.com/)).
+  - Source: https://jeffcolyer.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong jeffcolyer.com post** [soc-jeff-colyer-0012] [jeffcolyer.com homepage](https://jeffcolyer.com/), captured 2026-05-11. Key visible signals: critical race theory pledge, private property rights letter, abortion announcement, KU stem-cell research criticism, oil/gas criticism, bio, and social links.
+  - Source: https://jeffcolyer.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong jeffcolyer.com post** [soc-jeff-colyer-0014] [jeffcolyer.com/announcements.html](https://www.jeffcolyer.com/announcements.html), captured 2026-05-11. The announcements page is largely a 2021 archive, but it remains live and visible from the campaign site; recurring themes include abortion, KU adult stem-cell research, oil/gas, COVID-era closures, conservative identity, and school/church/small-business framing.
+  - Source: https://www.jeffcolyer.com/announcements.html
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0129] The older campaign announcements archive remains live and includes 2021 material on abortion, KU adult stem-cell research, oil/gas, COVID-era closures, and conservative identity. Treat this as older candidate-controlled archive material, not necessarily new 2026 platform detail.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-jeff-colyer-0133] "observation": "Colyer's active campaign footprint is split between an older campaign domain, jeffcolyer.com, and a 2026-specific domain, colyerforgovernor.com. The older site links his public X, Instagram, Facebook, and YouTube accounts and foregrounds action items on critical race theory, private property rights, abortion, KU stem-cell funding, and oil/gas policy. The homepage identifies him as a fifth-generation Kansan from...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jeff-colyer-0134] "observation": "1. jeffcolyer.com homepage, captured 2026-05-11. Key visible signals: critical race theory pledge, private property rights letter, abortion announcement, KU stem-cell research criticism, oil/gas criticism, bio, and social links. 2. jeffcolyer.com/about, captured 2026-05-11. Key visible signals: Hays biography, family, surgeon identity, humanitarian war-zone work, pro-life record, KanCare, budget/stability claims,...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.

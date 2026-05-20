@@ -1,0 +1,1694 @@
+# Fixed 14-Issue Matrix — cindy-holscher — 2026-05-20
+
+This matrix is built from `evidence-matrix.json`, `social-evidence-matrix.json`, and `source-audit.json`. It is a candidate-rebuild input, not final public prose.
+
+## 1. Abortion / life
+
+Abortion / life: 23 selected evidence items from 38 mapped rows. Public URL-backed rows: 5.
+
+### Evidence
+- **candidate-stated** [em-cindy-holscher-00823] Reproductive Rights: Supports reproductive freedom
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:1203
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-01658] Abortion / Sanctity of Life: Supports reproductive freedom. Has been a visible Democratic voice on reproductive rights in the Kansas Legislature.
+  - Source: memory/candidates/cindy-holscher/site-profile.md:17
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-02305] "stance": "Supports reproductive freedom. Has been a visible Democratic voice on reproductive rights in the Kansas Legislature."
+  - Source: ui/src/data/candidates.ts:19540
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00056] | s-kansas-reflector-corecivic-forum | secondary | https://kansasreflector.com/2026/04/26/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum/ | published 2026-04-26; accessed 2026-05-19 | Forum coverage on CoreCivic, establishment tensions, reproductive healthcare access | immigration, abortion, campaign posture |
+  - Source: https://kansasreflector.com/2026/04/26/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00131] Campaign priorities call for Medicaid expansion and say expansion would lower costs, expand access, and shore up rural hospitals. The Feb. 3, 2026 release includes expanding Medicaid as a lower-costs plank. Social posts focus on ACA subsidies and healthcare affordability. Forum coverage reported Holscher supported access to reproductive healthcare.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:200
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00135] 2025 abortion-adjacent vote: Holscher voted nay on HB 2062, concerning unborn-child support orders and unborn/stillborn income-tax exemptions. Source: s-ksleg-vote-2025.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:207
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00613] Signed abortion restriction legislation
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:869
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01419] 1. The Abortion Ruling (2019): The Kansas Supreme Court ruled 6-1 that the Kansas Constitution protects a right to "personal autonomy," including the right to decide whether to continue a pregnancy. This made Kansas one of the strongest states for abortion rights -- decided by appointed justices, not elected ones.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2226
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01422] Kansas Reflector explicitly headlined their coverage: "Kansas Senate adopts plan to elect Supreme Court justices, a step toward overturning abortion rights."
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2232
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01438] FACT 1: This is on the August PRIMARY ballot, not November. Primary turnout in Kansas is typically 20-25%, compared to 50-60% in November. Republican voters dominate primary turnout because they have more contested races. Putting it on the primary ballot is widely seen as a strategy to pass it with a smaller, more conservative electorate. The exact same strategy was used for the 2022 abortion amendment -- and it backfired spectacularly when turnout surged to nearly 50% and the amendment was crushed 59-41.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2270
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01453] Wisconsin (2025): One Supreme Court seat. $144.5 million spent. Elon Musk spent $25 million+ on one candidate. Illinois Governor JB Pritzker and George Soros funded the other side. It became a national proxy war over abortion, Trump, and redistricting -- not about Kansas-style local concerns. The losing candidate's supporters included $4.3 million from Wisconsin Manufacturers and Commerce, $4 million from Fair Courts America (tied to conservative megadonor Richard Uihlein), and $3.2 million from Americans for Prosperity (Koch). This is what Kansas could look like.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2298
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-02336] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-cindy-holscher-01856] KMUW / Kansas Reflector coverage of an April 26, 2026 forum reported that Holscher cast herself as the anti-establishment Democrat, criticized Republican "culture war" bills, attacked CoreCivic-linked donations to her opponent, said she had never taken CoreCivic money and never would, supported making voting easier and reproductive health care access, and described a coalition of nurses, teachers, neighbors, farmers, veterans, and union members ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)).
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01881] The captured Bluesky feed strongly features education, affordability, healthcare, redistricting, tariffs/agriculture, and campaign outreach. It contains less sustained original discussion of gun policy, water policy/Ogallala depletion, abortion policy after launch, or detailed state-budget mechanics than the website priorities and news coverage do.
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:146
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-cindy-holscher-00011] The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics ([harvest](social-harvest.md#visible-absences)). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to reproductive healthcare -- but abortion was not a high-frequency original Bluesky topic in the captured period ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). Faith references appear occasionally, including Jewish holiday greetings and criticism of the Kansas Catholic Conference's immigration stance, but the social harvest did not confirm a current ch…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Confidence/use: likely / use
+- **public-controversy** [em-cindy-holscher-02302] "theirRecord": "Holscher served in the Kansas House from 2017 through 2020 and has served in the Kansas Senate since 2021. She was part of the coalition that reversed key pieces of the Brownback tax experiment in 2017, pushed for Medicaid expansion, and became a frequent Democratic voice on school funding, reproductive rights, and consumer concerns. One of her clearest institutional projects was co-founding the Women's Bipartisan Caucus in the Legislature, an effort meant to create cross-party working relationships in a polarized statehouse. She has also made opposition to private-school vouchers a signature issue, arguing that the policy would drain public money from local schools while doing little for many rural counties that have no private-school option at all. Her 2026 governor's race also carries a more personal political fight. In August 2025, Holscher publicly accused aides to …
+  - Source: ui/src/data/candidates.ts:19536
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-cindy-holscher-02476] "observation": "KMUW / Kansas Reflector coverage of an April 26, 2026 forum reported that Holscher cast herself as the anti-establishment Democrat, criticized Republican \"culture war\" bills, attacked CoreCivic-linked donations to her opponent, said she had never taken CoreCivic money and never would, supported making voting easier and reproductive health care access, and described a coalition of nurses, teachers, neighbors,...",
+  - Source: ui/src/data/v2/cindy-holscher.ts:315
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00057] | s-kmuw-corecivic-forum | secondary | https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum | published 2026-04-29; accessed locally 2026-05-19 | KMUW republication of forum coverage | immigration, abortion |
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Confidence/use: likely / use
+- **background-context** [em-cindy-holscher-00129] Issue Area 3 - Healthcare, Medicaid, Rural Hospitals, and Reproductive Care
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:194
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00137] Reproductive healthcare appears in forum/news coverage and legislative voting but was not a high-frequency original Bluesky topic in the local May 11 harvest.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:212
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-01537] Why this matters: The AG interprets and enforces Kansas laws on abortion, voting, immigration, and government transparency. Whoever holds this office shapes which laws get enforced aggressively and which ones gather dust.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2488
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-01654] Holscher served in the Kansas House from 2017 through 2020 and has served in the Kansas Senate since 2021. She was part of the coalition that reversed key pieces of the Brownback tax experiment in 2017, pushed for Medicaid expansion, and became a frequent Democratic voice on school funding, reproductive rights, and consumer concerns.
+  - Source: memory/candidates/cindy-holscher/site-profile.md:9
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-02043] "Forum coverage addressed CoreCivic, party-establishment conflict, and reproductive healthcare access"
+  - Source: memory/candidates/cindy-holscher/v2-issues.yaml:305
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0001] The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics ([harvest](social-harvest.md#visible-absences)). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to reproductive healthcare -- but abortion was not a high-frequency original Bluesky topic in the captured period ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). Faith references appear occasionally, including Jewish holiday greetings and criticism of the Kansas Catholic Conference's immigration stance, but the social harvest did not confirm a current ch…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0011] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong kmuw.org post** [soc-cindy-holscher-0012] KMUW / Kansas Reflector coverage of an April 26, 2026 forum reported that Holscher cast herself as the anti-establishment Democrat, criticized Republican "culture war" bills, attacked CoreCivic-linked donations to her opponent, said she had never taken CoreCivic money and never would, supported making voting easier and reproductive health care access, and described a coalition of nurses, teachers, neighbors, farmers, veterans, and union members ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)).
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky post** [soc-cindy-holscher-0013] The captured Bluesky feed strongly features education, affordability, healthcare, redistricting, tariffs/agriculture, and campaign outreach. It contains less sustained original discussion of gun policy, water policy/Ogallala depletion, abortion policy after launch, or detailed state-budget mechanics than the website priorities and news coverage do.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-cindy-holscher-0162] Campaign priorities call for Medicaid expansion and say expansion would lower costs, expand access, and shore up rural hospitals. The Feb. 3, 2026 release includes expanding Medicaid as a lower-costs plank. Social posts focus on ACA subsidies and healthcare affordability. Forum coverage reported Holscher supported access to reproductive healthcare.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0163] Reproductive healthcare appears in forum/news coverage and legislative voting but was not a high-frequency original Bluesky topic in the local May 11 harvest.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0164] Reproductive care / abortion: KMUW/Kansas Reflector forum coverage reported Holscher supported reproductive healthcare access. Legislative vote record shows she voted nay on HB 2062, a 2025 bill on child support orders for unborn children and unborn/stillborn income-tax exemptions. The captured Bluesky feed did not make abortion a high-frequency original topic.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0165] "summary": "Reproductive healthcare is supported by forum coverage and vote evidence, but abortion was not a high-frequency original Bluesky topic in the measured local harvest.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0166] "observation": "The captured Bluesky feed strongly features education, affordability, healthcare, redistricting, tariffs/agriculture, and campaign outreach. It contains less sustained original discussion of gun policy, water policy/Ogallala depletion, abortion policy after launch, or detailed state-budget mechanics than the website priorities and news coverage do.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 2. LGBT / gender / parental rights
+
+LGBT / gender / parental rights: 19 selected evidence items from 28 mapped rows. Public URL-backed rows: 0.
+
+### Evidence
+- **candidate-stated** [em-cindy-holscher-00881] Transgender Athletes: OPPOSES transgender girls competing in girls' sports (unusual for a Democrat)
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:1313
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-01659] Marriage & Family / LGBTQ+ Policy: Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources.
+  - Source: memory/candidates/cindy-holscher/site-profile.md:19
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-01663] School Choice / Parental Rights in Education: One of her signature issues. Fiercely opposes private-school vouchers, calling them "a scam, a transfer of wealth to the already rich" and arguing that 60 Kansas counties have no private schools, making vouchers useless for most rural families. Strong advocate for public school funding. Walked from Shawnee to Topeka with education advocates to push for school funding increases.
+  - Source: memory/candidates/cindy-holscher/site-profile.md:27
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-02380] "stance": "Opposes allowing transgender girls to compete in girls' sports. This is an unusual position for a Democrat in a gubernatorial primary and one of his most politically distinctive stances."
+  - Source: ui/src/data/candidates.ts:20546
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00156] 2025 vote: Holscher voted nay on SB 63, the bill restricting gender-transition care for minors and related public funding/provider discipline provisions. Source: s-ksleg-vote-2025.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:266
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00189] Manual local coding of 431 original Bluesky posts found top categories: campaign events/positioning (83 posts, 19%); public education (77, 18%); cost of living/agriculture/tariffs/food/housing/taxes (76, 18%); healthcare (50, 12%); democracy/redistricting/courts/voting/elections/privacy (35, 8%); federal/national politics/immigration/war/national figures (24, 6%); labor (4, 1%); civil rights/LGBTQ/immigration/religious-community/public-safety miscellany (6, 1%); personal/community/holiday/uncategorized (76, 18%).
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:355
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01010] Education/Parental Rights: Fought for "parents' rights, fiscal responsibility" on school board
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:1554
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01580] Why this matters: The Board of Education has been a battleground over science standards (evolution vs. intelligent design), sex education, school library books, and transgender student policies. In recent years, conservative and moderate factions have fought for control. The 2026 elections could shift the balance of power on the board.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2574
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01724] Kansas Legislature vote record: 2025 votes on election administration, gender-transition-care restrictions, pronoun/name requirements in schools, unborn-child support/tax legislation, public assistance waivers, public health powers, budgets, and other measures.
+  - Source: memory/candidates/cindy-holscher/sleuth-pass.md:27
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01742] Marriage, family, and LGBTQ policy: Vote record shows Holscher voted nay on SB 63, the 2025 gender-transition-care restriction bill, and nay on SB 76, the school name/pronoun bill. No candidate-controlled marriage-specific plank was found.
+  - Source: memory/candidates/cindy-holscher/sleuth-pass.md:49
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01954] "Includes votes on election administration, public health, education, LGBTQ policy, reproductive-care-adjacent legislation, public assistance, taxes, and public safety"
+  - Source: memory/candidates/cindy-holscher/v2-issues.yaml:102
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-02156] "text": "No candidate-controlled marriage-specific plank was found. LGBTQ-related evidence in this pass comes from official vote records rather than a dedicated campaign page.",
+  - Source: ui/src/data/v2/cindy-holscher.ts:413
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-cindy-holscher-01871] Civil rights, LGBTQ policy, immigration/migrant care, religious-community references, political violence, and innocence/public-safety topics not already captured above: 6 posts (1%).
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:134
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-cindy-holscher-00154] Issue Area 6 - Marriage, Family, and LGBTQ Policy
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:258
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00158] LGBTQ policy is supported by official vote evidence. Marriage policy is not separately confirmed.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:271
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00612] Signed the Adoption Protection Act as governor (allows religious adoption agencies to refuse placements to same-sex couples)
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:868
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-01058] Education: Restore parental rights in education
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:1644
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-02155] "title": "Marriage, Family, and LGBTQ Policy",
+  - Source: ui/src/data/v2/cindy-holscher.ts:411
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-02162] "summary": "Do not infer a marriage-policy position from party label or LGBTQ-related votes.",
+  - Source: ui/src/data/v2/cindy-holscher.ts:459
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak Public web / internal harvest post** [soc-cindy-holscher-0014] Civil rights, LGBTQ policy, immigration/migrant care, religious-community references, political violence, and innocence/public-safety topics not already captured above: 6 posts (1%).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0167] Manual local coding of 431 original Bluesky posts found top categories: campaign events/positioning (83 posts, 19%); public education (77, 18%); cost of living/agriculture/tariffs/food/housing/taxes (76, 18%); healthcare (50, 12%); democracy/redistricting/courts/voting/elections/privacy (35, 8%); federal/national politics/immigration/war/national figures (24, 6%); labor (4, 1%); civil rights/LGBTQ/immigration/religious-community/public-safety miscellany (6, 1%); personal/community/holiday/uncategorized (76, 18%).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-cindy-holscher-0168] Marriage & Family / LGBTQ+ Policy: Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 3. Education / curriculum / schools
+
+Education / curriculum / schools: 39 selected evidence items from 191 mapped rows. Public URL-backed rows: 28.
+
+### Evidence
+- **candidate-stated** [em-cindy-holscher-00118] Social evidence: October 29, 2025 Bluesky post said she would fight to fund schools, stop vouchers, and put children first. Source: s-bsky-education-2025.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:164
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-00215] About page says she is the daughter of a union construction worker and an elementary school custodian.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:12
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-00279] STRONG INDICATOR = Family/school ties strongly suggest affiliation but no direct membership statement found
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:118
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-00880] School Vouchers: Opposes private schools receiving taxpayer funds or competing in public school athletics
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:1312
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-01663] School Choice / Parental Rights in Education: One of her signature issues. Fiercely opposes private-school vouchers, calling them "a scam, a transfer of wealth to the already rich" and arguing that 60 Kansas counties have no private schools, making vouchers useless for most rural families. Strong advocate for public school funding. Walked from Shawnee to Topeka with education advocates to push for school funding increases.
+  - Source: memory/candidates/cindy-holscher/site-profile.md:27
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-02312] "stance": "One of her signature issues. Fiercely opposes private-school vouchers, calling them \"a scam, a transfer of wealth to the already rich\" and arguing that 60 Kansas counties have no private schools, making vouchers useless for most rural families. Strong advocate for public school funding. Walked from Shawnee to Topeka with education advocates to push for school funding increases."
+  - Source: ui/src/data/candidates.ts:19560
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00003] Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign priorities page says she will focus on keeping down essential costs such as healthcare, childcare, groceries, and gas, and her campaign news page includes a February 3, 2026 rollout of a "Common Sense and Lower Costs" agenda ([source](https://cindyforkansas.com/priorities/), [source](https://cindyforkansas.com/news/)).
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00005] Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse school budget cuts, and founded the Women's Bipartisan Caucus ([source](https://cindyforkansas.com/about/)). On April 6, 2025, before her formal governor launch, she posted that vouchers are a scam and a transfer of wealth from working-class taxpayers to richer families ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lm5ms3vwyk2e)). A December 16, 2025 Bluesky post promoted her interview with Josh Cowen about public education, winning in red districts, values, and the Brownback tax experiment; that post had the highest repost count among her captured original Bluesky posts ([source](https://bsky.app/profile/cindyfo…
+  - Source: https://cindyforkansas.com/about/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00037] | s-ksleg-sb142 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb142/ | accessed 2026-05-19 | Holscher-sponsored bill allowing teacher representatives on school boards | education |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/sb142/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-cindy-holscher-00041] | s-campaign-about | primary | https://cindyforkansas.com/about/ | accessed 2026-05-19 | Biography, family, public schools, Brownback-era school-funding narrative, legislative service | biography, education, taxes |
+  - Source: https://cindyforkansas.com/about/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00042] | s-campaign-priorities | primary | https://cindyforkansas.com/priorities/ | accessed 2026-05-19 | Common Sense and Lower Costs agenda; Medicaid, school funding, labor, housing, marijuana, redistricting, term limits, corporate PAC limits | platform |
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00058] | s-joco-vouchers | secondary | https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/ | published 2023-03-13; local harvest | Voucher/school-choice column | education |
+  - Source: https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00230] "I walked with a group of education advocates from Shawnee to Topeka twice" - campaign about page, 2026-04-01, [cindyforkansas.com/about](https://cindyforkansas.com/about/) - topic: school-funding activism.
+  - Source: https://cindyforkansas.com/about/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00445] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-cindy-holscher-00004] Holscher's public biography is anchored in public schools, a working-class family story, and the Brownback-era fight over Kansas finances. Her campaign about page describes her as the daughter of a union construction worker and an elementary school custodian, raised on a farm, a first-generation college graduate, and the mother of three Kansas public-school graduates ([source](https://cindyforkansas.com/about/)). On Bluesky, she wrote on November 19, 2025 that she first ran for office "to end the Brownback experiment and get our schools back on track" and was now running for governor to make life more affordable ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m5zddxnft225)). She also posted on October 29, 2025 that she would fight to fund schools, stop vouchers, and put children first ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m4e2gws2hc2m)).
+  - Source: https://cindyforkansas.com/about/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-cindy-holscher-02336] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-cindy-holscher-00105] Campaign biography says Holscher was raised on a farm, is the daughter of a veteran/construction worker/union member/farmer and an elementary-school custodian, became the first college graduate in her family, has lived in Kansas for over 25 years with husband Greg, and has three children who graduated from Kansas public schools.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:139
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-00120] The campaign and social feed are highly specific on public-school funding and vouchers. Direct floor speeches, amendment explanations, or committee testimony from Holscher on SB 142 were not captured in this pass.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:168
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-00216] She says she was raised on a farm, became the first college graduate in her family, and has lived in Kansas with husband Greg and their three kids for more than 25 years.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:13
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-00498] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:646
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-cindy-holscher-00010] Audience response on measurable social media was modest and concentrated on labor, education, and anti-redistricting posts. Her highest-like original Bluesky post in the capture was a December 2, 2025 post about union workers, fair wages, and safe working conditions: 16 likes, 4 reposts, 0 replies, and 0 quotes as of May 11, 2026 ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m6z6c6yjhk23)). Her June 12, 2025 campaign-announcement post had 8 likes, 4 reposts, 1 reply, and 1 quote ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lrfy55fzgk2a)). Her December 16, 2025 Josh Cowen education interview post had 8 likes, 6 reposts, 0 replies, and 1 quote, the highest repost count in the captured original feed ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3ma4bxdovkc2v)).
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3m6z6c6yjhk23
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-00047] | s-bsky-running-mate | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3mltsfpocu22x | posted 2026-05-14; API read 2026-05-19 | Running-mate post; 11 likes, 1 repost, 0 replies, 0 quotes at readback | campaign status, education, healthcare |
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3mltsfpocu22x
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-00051] | s-bsky-education-2025 | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3m4e2gws2hc2m | posted 2025-10-29; local harvest | Public education and vouchers | education |
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3m4e2gws2hc2m
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01850] The [about page](https://cindyforkansas.com/about/) emphasizes a working-class biography: daughter of a union construction worker and an elementary school custodian, raised on a farm, first-generation college graduate, wife and mother of three Kansas public-school graduates, and former House member who helped reverse the Brownback tax experiment.
+  - Source: https://cindyforkansas.com/about/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01851] The [priorities page](https://cindyforkansas.com/priorities/) lists a "Common Sense & Lower Costs" agenda: lowering healthcare, childcare, grocery, and gas costs; minimum wage; paid sick time; property-tax relief; Medicaid expansion; free school lunches; tax exemptions for essential products; special-education funding; housing security; medical marijuana; independent redistricting; term limits; and limits on corporate PAC money.
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01858] Johnson County Post coverage from March 13, 2023 remains a useful pre-campaign benchmark for her voucher message; she called school-choice rhetoric a transfer of taxpayer money to wealthier families ([source](https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/)).
+  - Source: https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01875] Highest-repost original Bluesky post in the capture: December 16, 2025 Josh Cowen/public-education interview post with 8 likes, 6 reposts, 0 replies, 1 quote ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3ma4bxdovkc2v)).
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3ma4bxdovkc2v
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01786] Substack: no official campaign Substack confirmed; education writer Josh Cowen featured Holscher in a newsletter that she amplified on Bluesky.
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:22
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-cindy-holscher-00422] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **faith-community-record** [em-cindy-holscher-00280] INFERRED = Circumstantial evidence only (German-Catholic surname, attended Catholic school, etc.)
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:119
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-cindy-holscher-00291] 2010 graduate of Thomas More Prep-Marian (Catholic high school, Diocese of Salina)
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:140
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-cindy-holscher-00292] Works professionally FOR the Catholic school system in Hays (HCS Advancement Director)
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:141
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-cindy-holscher-02302] "theirRecord": "Holscher served in the Kansas House from 2017 through 2020 and has served in the Kansas Senate since 2021. She was part of the coalition that reversed key pieces of the Brownback tax experiment in 2017, pushed for Medicaid expansion, and became a frequent Democratic voice on school funding, reproductive rights, and consumer concerns. One of her clearest institutional projects was co-founding the Women's Bipartisan Caucus in the Legislature, an effort meant to create cross-party working relationships in a polarized statehouse. She has also made opposition to private-school vouchers a signature issue, arguing that the policy would drain public money from local schools while doing little for many rural counties that have no private-school option at all. Her 2026 governor's race also carries a more personal political fight. In August 2025, Holscher publicly accused aides to …
+  - Source: ui/src/data/candidates.ts:19536
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00502] [HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **background-context** [em-cindy-holscher-01266] [Ballotpedia: Hays USD 489 Elections](https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections)
+  - Source: https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections
+  - Confidence/use: likely / use
+- **background-context** [em-cindy-holscher-01393] | Hays USD 489 | 785-623-2400 | [usd489.com](https://www.usd489.com) |
+  - Source: https://www.usd489.com
+  - Confidence/use: confirmed / use
+- **background-context** [em-cindy-holscher-00110] Issue Area 1 - Public Education, School Funding, and Vouchers
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:151
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00219] Holscher has been one of the most visible Kansas Democrats on public schools, education funding, and countering the Brownback legacy.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:17
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00234] Her public story is rooted in working-class background, education activism, and family economics.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:36
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0002] Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign priorities page says she will focus on keeping down essential costs such as healthcare, childcare, groceries, and gas, and her campaign news page includes a February 3, 2026 rollout of a "Common Sense and Lower Costs" agenda ([source](https://cindyforkansas.com/priorities/), [source](https://cindyforkansas.com/news/)).
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0003] Holscher's public biography is anchored in public schools, a working-class family story, and the Brownback-era fight over Kansas finances. Her campaign about page describes her as the daughter of a union construction worker and an elementary school custodian, raised on a farm, a first-generation college graduate, and the mother of three Kansas public-school graduates ([source](https://cindyforkansas.com/about/)). On Bluesky, she wrote on November 19, 2025 that she first ran for office "to end the Brownback experiment and get our schools back on track" and was now running for governor to make life more affordable ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m5zddxnft225)). She also posted on October 29, 2025 that she would fight to fund schools, stop vouchers, and put children first ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m4e2gws2hc2m)).
+  - Source: https://cindyforkansas.com/about/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0004] Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse school budget cuts, and founded the Women's Bipartisan Caucus ([source](https://cindyforkansas.com/about/)). On April 6, 2025, before her formal governor launch, she posted that vouchers are a scam and a transfer of wealth from working-class taxpayers to richer families ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lm5ms3vwyk2e)). A December 16, 2025 Bluesky post promoted her interview with Josh Cowen about public education, winning in red districts, values, and the Brownback tax experiment; that post had the highest repost count among her captured original Bluesky posts ([source](https://bsky.app/profile/cindyfo…
+  - Source: https://cindyforkansas.com/about/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous cindyforkansas.com online-reference** [soc-cindy-holscher-0005] | s-campaign-priorities | primary | https://cindyforkansas.com/priorities/ | accessed 2026-05-19 | Common Sense and Lower Costs agenda; Medicaid, school funding, labor, housing, marijuana, redistricting, term limits, corporate PAC limits | platform |
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0011] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-cindy-holscher-0013] The captured Bluesky feed strongly features education, affordability, healthcare, redistricting, tariffs/agriculture, and campaign outreach. It contains less sustained original discussion of gun policy, water policy/Ogallala depletion, abortion policy after launch, or detailed state-budget mechanics than the website priorities and news coverage do.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky like** [soc-cindy-holscher-0015] Audience response on measurable social media was modest and concentrated on labor, education, and anti-redistricting posts. Her highest-like original Bluesky post in the capture was a December 2, 2025 post about union workers, fair wages, and safe working conditions: 16 likes, 4 reposts, 0 replies, and 0 quotes as of May 11, 2026 ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m6z6c6yjhk23)). Her June 12, 2025 campaign-announcement post had 8 likes, 4 reposts, 1 reply, and 1 quote ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lrfy55fzgk2a)). Her December 16, 2025 Josh Cowen education interview post had 8 likes, 6 reposts, 0 replies, and 1 quote, the highest repost count in the captured original feed ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3ma4bxdovkc2v)).
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3m6z6c6yjhk23
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0016] | s-bsky-running-mate | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3mltsfpocu22x | posted 2026-05-14; API read 2026-05-19 | Running-mate post; 11 likes, 1 repost, 0 replies, 0 quotes at readback | campaign status, education, healthcare |
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3mltsfpocu22x
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-cindy-holscher-0017] | s-bsky-education-2025 | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3m4e2gws2hc2m | posted 2025-10-29; local harvest | Public education and vouchers | education |
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3m4e2gws2hc2m
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky post** [soc-cindy-holscher-0018] Substack: no official campaign Substack confirmed; education writer Josh Cowen featured Holscher in a newsletter that she amplified on Bluesky.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 4. Religious liberty / church / civic morality
+
+Religious liberty / church / civic morality: 14 selected evidence items from 202 mapped rows. Public URL-backed rows: 15.
+
+### Evidence
+- **candidate-stated** [em-cindy-holscher-01660] Religious Liberty: Runs as a Democrat. No specific personal statement found in public sources.
+  - Source: memory/candidates/cindy-holscher/site-profile.md:21
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00514] Introduced resolution to authorize use of the Capitol Rotunda for prayer events
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:678
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01765] Candidate-controlled positions on gun policy, marriage policy, or religious liberty beyond votes/social signals noted above.
+  - Source: memory/candidates/cindy-holscher/sleuth-pass.md:79
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-02336] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-cindy-holscher-00498] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:646
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-cindy-holscher-01882] Faith references are occasional and issue-linked rather than biographical; examples include Rosh Hashanah greetings and criticism of the Kansas Catholic Conference's position on Trump immigration policy. No current church affiliation was confirmed in this social pass.
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:147
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-cindy-holscher-00011] The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics ([harvest](social-harvest.md#visible-absences)). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to reproductive healthcare -- but abortion was not a high-frequency original Bluesky topic in the captured period ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). Faith references appear occasionally, including Jewish holiday greetings and criticism of the Kansas Catholic Conference's immigration stance, but the social harvest did not confirm a current ch…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Confidence/use: likely / use
+- **faith-community-record** [em-cindy-holscher-00297] [Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)
+  - Source: https://www.hfehays.org/o/hfe/article/923439
+  - Confidence/use: likely / use
+- **faith-community-record** [em-cindy-holscher-00298] [Immaculate Heart of Mary Parish](https://www.ihm-church.com/)
+  - Source: https://www.ihm-church.com/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-cindy-holscher-00422] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **background-context** [em-cindy-holscher-00508] | Notable Roles | Co-Chair, National Prayer Breakfast (2023 & 2024) |
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:670
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00510] Co-chaired the 2023 AND 2024 National Prayer Breakfast in Washington, DC
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:674
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00512] Read scripture publicly at the National Prayer Breakfast
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:676
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-02308] "issue": "Religious Liberty",
+  - Source: ui/src/data/candidates.ts:19547
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0001] The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics ([harvest](social-harvest.md#visible-absences)). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to reproductive healthcare -- but abortion was not a high-frequency original Bluesky topic in the captured period ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). Faith references appear occasionally, including Jewish holiday greetings and criticism of the Kansas Catholic Conference's immigration stance, but the social harvest did not confirm a current ch…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0011] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-cindy-holscher-0030] Faith references are occasional and issue-linked rather than biographical; examples include Rosh Hashanah greetings and criticism of the Kansas Catholic Conference's position on Trump immigration policy. No current church affiliation was confirmed in this social pass.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-cindy-holscher-0179] Public sources reviewed here do not identify a current church affiliation. Local social harvest found occasional religious-community references, including Jewish holiday greetings and criticism of Kansas Catholic Conference immigration stance, but no current congregation or religious-liberty plank.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-cindy-holscher-0180] No faith or church references found in her candidate profiles, HaysPost Q&As, or social media
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-cindy-holscher-0181] Faith: Identifies as a "Child of God" on social media. No specific church or denomination identified, but faith language is prominent in her public profile.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-cindy-holscher-0182] Religious liberty / faith: Campaign biography and official legislative/campaign pages reviewed here did not identify a current church affiliation. Social harvest found occasional faith or religious-community references, but no religious-liberty policy plank.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-cindy-holscher-0183] Candidate-controlled positions on gun policy, marriage policy, or religious liberty beyond votes/social signals noted above.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-cindy-holscher-0184] "faith-social-occasional"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 5. Taxes / spending / debt
+
+Taxes / spending / debt: 32 selected evidence items from 87 mapped rows. Public URL-backed rows: 12.
+
+### Evidence
+- **candidate-stated** [em-cindy-holscher-01665] Healthcare / Medicaid: Supports Medicaid expansion and protecting ACA tax credits. Said "Politicians are making dangerous cuts to our programs, Medicaid and Social Security. That's hurting us."
+  - Source: memory/candidates/cindy-holscher/site-profile.md:31
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-02316] "stance": "Supports Medicaid expansion and protecting ACA tax credits. Said \"Politicians are making dangerous cuts to our programs, Medicaid and Social Security. That's hurting us.\""
+  - Source: ui/src/data/candidates.ts:19568
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-02381] "stance": "Supports legalizing marijuana in Kansas, with tax revenue invested in public schools."
+  - Source: ui/src/data/candidates.ts:20566
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00003] Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign priorities page says she will focus on keeping down essential costs such as healthcare, childcare, groceries, and gas, and her campaign news page includes a February 3, 2026 rollout of a "Common Sense and Lower Costs" agenda ([source](https://cindyforkansas.com/priorities/), [source](https://cindyforkansas.com/news/)).
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00005] Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse school budget cuts, and founded the Women's Bipartisan Caucus ([source](https://cindyforkansas.com/about/)). On April 6, 2025, before her formal governor launch, she posted that vouchers are a scam and a transfer of wealth from working-class taxpayers to richer families ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lm5ms3vwyk2e)). A December 16, 2025 Bluesky post promoted her interview with Josh Cowen about public education, winning in red districts, values, and the Brownback tax experiment; that post had the highest repost count among her captured original Bluesky posts ([source](https://bsky.app/profile/cindyfo…
+  - Source: https://cindyforkansas.com/about/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00028] | s-sos-candidate-info-2026 | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing framework; Governor/Lt. Governor office up in 2026; primary filing deadline June 1, 2026; candidate not filed until petition/declaration and fee received | official status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-cindy-holscher-00041] | s-campaign-about | primary | https://cindyforkansas.com/about/ | accessed 2026-05-19 | Biography, family, public schools, Brownback-era school-funding narrative, legislative service | biography, education, taxes |
+  - Source: https://cindyforkansas.com/about/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-01606] [Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)
+  - Source: https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-01607] [PBS Wisconsin: $100M+ spending on 2025 race](https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/)
+  - Source: https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00023] Kansas SOS confirms the 2026 filing framework: Governor/Lt. Governor is an office to be elected in 2026; national, state, legislative, and judicial candidates file with the Secretary of State; and a candidate is not considered filed until the petition or declaration and fee are received. The primary filing deadline is noon Monday, June 1, 2026. The live SOS candidate-list page could not be read directly in this environment because it returned JavaScript/CloudFront blocking. Treat Holscher as campaign-finance-filed and campaign-active, with direct SOS candidate-list/ballot certification still unconfirmed in this pass.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:15
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00063] Kansas SOS says Democratic and Republican candidates run in the primary for nomination; national, state, legislative, and judicial candidates file with the Secretary of State; and a candidate is not considered filed until the petition or declaration and fee are received. The 2026 primary filing deadline is noon Monday, June 1, 2026. Governor/Lt. Governor is one of the offices to be elected in 2026.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:66
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-02336] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-cindy-holscher-01023] Analysis: The $1M self-loan means 88% of her war chest is her own money. This is not grassroots fundraising -- it is a wealthy candidate buying a seat at the table. Only ~$140K came from actual donors. The low spending ($116K) suggests she is stockpiling for later ad buys.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:1580
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-01507] Democratic primary: Senator Ethan Corson (Fairway attorney, emphasizes bipartisan deal-making, helped eliminate the grocery sales tax), Senator Cindy Holscher (Overland Park, farm-raised, led repeal of Brownback tax cuts, founded Bipartisan Women's Caucus).
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2424
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-01524] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2461
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-01563] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2546
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-cindy-holscher-00006] Holscher also uses her social feed to argue that federal decisions are raising Kansas costs. Healthcare posts include ACA subsidies, Medicaid expansion, rural hospitals, disability services, mental health, vaccine policy, and health-agency decisions. On September 25, 2025, she posted that if Congress did not restore affordable-care tax credits, more than 100,000 Kansans would lose healthcare ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lzoibislgg2v)). On January 8, 2026, she wrote that thousands of Kansans faced skyrocketing healthcare costs and that Congress should extend ACA subsidies ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3mbx4kgkl6227)). Her campaign priorities page calls for Medicaid expansion and says expansion would help shore up rural hospitals ([source](https://cindyforkansas.com/priorities/)).
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3lzoibislgg2v
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01850] The [about page](https://cindyforkansas.com/about/) emphasizes a working-class biography: daughter of a union construction worker and an elementary school custodian, raised on a farm, first-generation college graduate, wife and mother of three Kansas public-school graduates, and former House member who helped reverse the Brownback tax experiment.
+  - Source: https://cindyforkansas.com/about/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01851] The [priorities page](https://cindyforkansas.com/priorities/) lists a "Common Sense & Lower Costs" agenda: lowering healthcare, childcare, grocery, and gas costs; minimum wage; paid sick time; property-tax relief; Medicaid expansion; free school lunches; tax exemptions for essential products; special-education funding; housing security; medical marijuana; independent redistricting; term limits; and limits on corporate PAC money.
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01855] Kansas Reflector coverage of a March 8, 2026 Democratic debate described the field emphasizing affordability, health care, and rural Kansas; the existing candidate file quotes Holscher warning about cuts to Medicaid, Social Security, and ACA tax credits ([source](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)).
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01813] 2025-12-16 -- Holscher promoted a conversation with Josh Cowen on public education, red districts, values, and the Brownback tax experiment.
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:56
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01836] 2025-09-25 -- "If Congress doesn't restore tax credits for affordable healthcare before Nov 1, over 100,000 Kansans will lose their healthcare..."
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:88
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01866] Cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics: 76 posts (18%).
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:129
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01881] The captured Bluesky feed strongly features education, affordability, healthcare, redistricting, tariffs/agriculture, and campaign outreach. It contains less sustained original discussion of gun policy, water policy/Ogallala depletion, abortion policy after launch, or detailed state-budget mechanics than the website priorities and news coverage do.
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:146
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-cindy-holscher-00011] The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics ([harvest](social-harvest.md#visible-absences)). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to reproductive healthcare -- but abortion was not a high-frequency original Bluesky topic in the captured period ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). Faith references appear occasionally, including Jewish holiday greetings and criticism of the Kansas Catholic Conference's immigration stance, but the social harvest did not confirm a current ch…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Confidence/use: likely / use
+- **public-controversy** [em-cindy-holscher-02302] "theirRecord": "Holscher served in the Kansas House from 2017 through 2020 and has served in the Kansas Senate since 2021. She was part of the coalition that reversed key pieces of the Brownback tax experiment in 2017, pushed for Medicaid expansion, and became a frequent Democratic voice on school funding, reproductive rights, and consumer concerns. One of her clearest institutional projects was co-founding the Women's Bipartisan Caucus in the Legislature, an effort meant to create cross-party working relationships in a polarized statehouse. She has also made opposition to private-school vouchers a signature issue, arguing that the policy would drain public money from local schools while doing little for many rural counties that have no private-school option at all. Her 2026 governor's race also carries a more personal political fight. In August 2025, Holscher publicly accused aides to …
+  - Source: ui/src/data/candidates.ts:19536
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00121] Issue Area 2 - Affordability, Taxes, Labor, and Housing
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:172
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00397] Policy focus: county spending, transparency
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:386
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00762] Taxes: Lower cost of living for working-class families
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:1102
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00815] Part of the bipartisan coalition that reversed the Brownback-era tax cuts in 2017
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:1191
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00835] > "Politicians are making dangerous cuts to our programs, Medicaid and Social Security. That's hurting us, and with the expiration of ACA tax credits, that's a huge threat."
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:1222
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00879] Cannabis: Legalize with tax revenue invested in schools
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:1311
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0001] The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics ([harvest](social-harvest.md#visible-absences)). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to reproductive healthcare -- but abortion was not a high-frequency original Bluesky topic in the captured period ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). Faith references appear occasionally, including Jewish holiday greetings and criticism of the Kansas Catholic Conference's immigration stance, but the social harvest did not confirm a current ch…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0002] Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign priorities page says she will focus on keeping down essential costs such as healthcare, childcare, groceries, and gas, and her campaign news page includes a February 3, 2026 rollout of a "Common Sense and Lower Costs" agenda ([source](https://cindyforkansas.com/priorities/), [source](https://cindyforkansas.com/news/)).
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0004] Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse school budget cuts, and founded the Women's Bipartisan Caucus ([source](https://cindyforkansas.com/about/)). On April 6, 2025, before her formal governor launch, she posted that vouchers are a scam and a transfer of wealth from working-class taxpayers to richer families ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lm5ms3vwyk2e)). A December 16, 2025 Bluesky post promoted her interview with Josh Cowen about public education, winning in red districts, values, and the Brownback tax experiment; that post had the highest repost count among her captured original Bluesky posts ([source](https://bsky.app/profile/cindyfo…
+  - Source: https://cindyforkansas.com/about/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0011] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-cindy-holscher-0013] The captured Bluesky feed strongly features education, affordability, healthcare, redistricting, tariffs/agriculture, and campaign outreach. It contains less sustained original discussion of gun policy, water policy/Ogallala depletion, abortion policy after launch, or detailed state-budget mechanics than the website priorities and news coverage do.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-cindy-holscher-0019] 2025-12-16 -- Holscher promoted a conversation with Josh Cowen on public education, red districts, values, and the Brownback tax experiment.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong cindyforkansas.com post** [soc-cindy-holscher-0025] The [about page](https://cindyforkansas.com/about/) emphasizes a working-class biography: daughter of a union construction worker and an elementary school custodian, raised on a farm, first-generation college graduate, wife and mother of three Kansas public-school graduates, and former House member who helped reverse the Brownback tax experiment.
+  - Source: https://cindyforkansas.com/about/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong cindyforkansas.com post** [soc-cindy-holscher-0026] The [priorities page](https://cindyforkansas.com/priorities/) lists a "Common Sense & Lower Costs" agenda: lowering healthcare, childcare, grocery, and gas costs; minimum wage; paid sick time; property-tax relief; Medicaid expansion; free school lunches; tax exemptions for essential products; special-education funding; housing security; medical marijuana; independent redistricting; term limits; and limits on corporate PAC money.
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong Bluesky post** [soc-cindy-holscher-0031] Holscher also uses her social feed to argue that federal decisions are raising Kansas costs. Healthcare posts include ACA subsidies, Medicaid expansion, rural hospitals, disability services, mental health, vaccine policy, and health-agency decisions. On September 25, 2025, she posted that if Congress did not restore affordable-care tax credits, more than 100,000 Kansans would lose healthcare ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lzoibislgg2v)). On January 8, 2026, she wrote that thousands of Kansans faced skyrocketing healthcare costs and that Congress should extend ACA subsidies ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3mbx4kgkl6227)). Her campaign priorities page calls for Medicaid expansion and says expansion would help shore up rural hospitals ([source](https://cindyforkansas.com/priorities/)).
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3lzoibislgg2v
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-cindy-holscher-0032] 2025-09-25 -- "If Congress doesn't restore tax credits for affordable healthcare before Nov 1, over 100,000 Kansans will lose their healthcare..."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 6. Economy / jobs / labor
+
+Economy / jobs / labor: 33 selected evidence items from 78 mapped rows. Public URL-backed rows: 13.
+
+### Evidence
+- **candidate-stated** [em-cindy-holscher-00215] About page says she is the daughter of a union construction worker and an elementary school custodian.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:12
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00003] Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign priorities page says she will focus on keeping down essential costs such as healthcare, childcare, groceries, and gas, and her campaign news page includes a February 3, 2026 rollout of a "Common Sense and Lower Costs" agenda ([source](https://cindyforkansas.com/priorities/), [source](https://cindyforkansas.com/news/)).
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00008] Holscher's campaign identity includes a clear anti-establishment lane inside the Democratic primary. KMUW / Kansas Reflector coverage of the April 26, 2026 Democratic forum reported that she positioned herself as an anti-establishment candidate with a record of winning Republican-held legislative districts ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). In that same coverage, she responded to Ethan Corson's endorsements by saying she was running on her record, not establishment coattails, and said her coalition was nurses, teachers, neighbors, farmers, veterans, and union members. On March 20, 2026, she posted, "I will never take Core Civic money and I call on all politicians who have taken their money to return it" ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3mhhbtc2uqs2g)…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00042] | s-campaign-priorities | primary | https://cindyforkansas.com/priorities/ | accessed 2026-05-19 | Common Sense and Lower Costs agenda; Medicaid, school funding, labor, housing, marijuana, redistricting, term limits, corporate PAC limits | platform |
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00044] | s-campaign-running-mate | primary | https://cindyforkansas.com/holscher-announces-running-mate-kc-ohaebosim/ | published 2026-05-14; accessed 2026-05-19 | Running mate KC Ohaebosim; campaign emphasis on affordability, schools, healthcare, jobs | official campaign status |
+  - Source: https://cindyforkansas.com/holscher-announces-running-mate-kc-ohaebosim/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00255] "cost of living is too high" - campaign/legislative framing, 2026-04-01, https://cindyforkansas.com/ - topic: affordability.
+  - Source: https://cindyforkansas.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00109] On May 14, 2026, the campaign announced State Rep. KC Ohaebosim as Holscher's running mate for lieutenant governor. The campaign release frames the ticket around affordability, public schools, healthcare, good jobs, worker protections, and government responsiveness. Bluesky post the same day announced the pick and had 11 likes and 1 repost at May 19 API readback.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:147
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00123] The campaign lower-costs agenda includes raising the minimum wage, allowing municipalities to set higher local minimum wages, paid sick time, repealing right-to-work, lowering residential property assessment rates from 11.5% to 9.0%, a property-tax task force, free school lunches, tax exemptions for essential products for women and babies, housing-security measures, and limiting late-rent penalties.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:178
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00189] Manual local coding of 431 original Bluesky posts found top categories: campaign events/positioning (83 posts, 19%); public education (77, 18%); cost of living/agriculture/tariffs/food/housing/taxes (76, 18%); healthcare (50, 12%); democracy/redistricting/courts/voting/elections/privacy (35, 8%); federal/national politics/immigration/war/national figures (24, 6%); labor (4, 1%); civil rights/LGBTQ/immigration/religious-community/public-safety miscellany (6, 1%); personal/community/holiday/uncategorized (76, 18%).
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:355
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-00004] Holscher's public biography is anchored in public schools, a working-class family story, and the Brownback-era fight over Kansas finances. Her campaign about page describes her as the daughter of a union construction worker and an elementary school custodian, raised on a farm, a first-generation college graduate, and the mother of three Kansas public-school graduates ([source](https://cindyforkansas.com/about/)). On Bluesky, she wrote on November 19, 2025 that she first ran for office "to end the Brownback experiment and get our schools back on track" and was now running for governor to make life more affordable ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m5zddxnft225)). She also posted on October 29, 2025 that she would fight to fund schools, stop vouchers, and put children first ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m4e2gws2hc2m)).
+  - Source: https://cindyforkansas.com/about/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-cindy-holscher-02336] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-cindy-holscher-00105] Campaign biography says Holscher was raised on a farm, is the daughter of a veteran/construction worker/union member/farmer and an elementary-school custodian, became the first college graduate in her family, has lived in Kansas for over 25 years with husband Greg, and has three children who graduated from Kansas public schools.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:139
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-01563] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2546
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-01651] Cindy Holscher is a Democratic state senator from Overland Park running for governor. She was born April 26, 1969, in Slater, Missouri, and her campaign biography places her in a working-class family headed by a union construction worker and an elementary school custodian. She says she was raised on a farm, became the first college graduate in her family, and has lived in Kansas for more than 25 years with her husband, Greg, and their three children.
+  - Source: memory/candidates/cindy-holscher/site-profile.md:4
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-02301] "whoTheyAre": "Cindy Holscher is a Democratic state senator from Overland Park running for governor. She was born April 26, 1969, in Slater, Missouri, and her campaign biography places her in a working-class family headed by a union construction worker and an elementary school custodian. She says she was raised on a farm, became the first college graduate in her family, and has lived in Kansas for more than 25 years with her husband, Greg, and their three children. Before running for office, Holscher worked in communications and business operations, including jobs at R.H. Donnelley, The Add Sheet, and Sprint, where her campaign says she managed multimillion-dollar budgets and operations. She later entered politics through Johnson County, carrying a biography built around public schools, family economics, and practical statehouse work rather than celebrity or movement politics.",
+  - Source: ui/src/data/candidates.ts:19535
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-cindy-holscher-00010] Audience response on measurable social media was modest and concentrated on labor, education, and anti-redistricting posts. Her highest-like original Bluesky post in the capture was a December 2, 2025 post about union workers, fair wages, and safe working conditions: 16 likes, 4 reposts, 0 replies, and 0 quotes as of May 11, 2026 ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m6z6c6yjhk23)). Her June 12, 2025 campaign-announcement post had 8 likes, 4 reposts, 1 reply, and 1 quote ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lrfy55fzgk2a)). Her December 16, 2025 Josh Cowen education interview post had 8 likes, 6 reposts, 0 replies, and 1 quote, the highest repost count in the captured original feed ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3ma4bxdovkc2v)).
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3m6z6c6yjhk23
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01850] The [about page](https://cindyforkansas.com/about/) emphasizes a working-class biography: daughter of a union construction worker and an elementary school custodian, raised on a farm, first-generation college graduate, wife and mother of three Kansas public-school graduates, and former House member who helped reverse the Brownback tax experiment.
+  - Source: https://cindyforkansas.com/about/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01851] The [priorities page](https://cindyforkansas.com/priorities/) lists a "Common Sense & Lower Costs" agenda: lowering healthcare, childcare, grocery, and gas costs; minimum wage; paid sick time; property-tax relief; Medicaid expansion; free school lunches; tax exemptions for essential products; special-education funding; housing security; medical marijuana; independent redistricting; term limits; and limits on corporate PAC money.
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01856] KMUW / Kansas Reflector coverage of an April 26, 2026 forum reported that Holscher cast herself as the anti-establishment Democrat, criticized Republican "culture war" bills, attacked CoreCivic-linked donations to her opponent, said she had never taken CoreCivic money and never would, supported making voting easier and reproductive health care access, and described a coalition of nurses, teachers, neighbors, farmers, veterans, and union members ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)).
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01874] Highest-like original Bluesky post in the capture: December 2, 2025 union/fair-wages post with 16 likes, 4 reposts, 0 replies, 0 quotes ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m6z6c6yjhk23)).
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3m6z6c6yjhk23
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01816] 2025-12-02 -- "As the daughter of a union worker, I'm proud to be part of the fight for fair wages and safe working conditions."
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:60
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01818] Topic: Labor / unions
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:63
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01826] Topic: Cost of living
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:75
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-cindy-holscher-00011] The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics ([harvest](social-harvest.md#visible-absences)). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to reproductive healthcare -- but abortion was not a high-frequency original Bluesky topic in the captured period ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). Faith references appear occasionally, including Jewish holiday greetings and criticism of the Kansas Catholic Conference's immigration stance, but the social harvest did not confirm a current ch…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Confidence/use: likely / use
+- **faith-community-record** [em-cindy-holscher-00513] Introduced the FAITH in Small Business Act (ensures faith-based businesses can participate in SBA loans)
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:677
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-cindy-holscher-00857] Holscher has the most compelling personal narrative in the Democratic field -- granddaughter of tenant farmers, daughter of a construction worker and school custodian, first-generation college graduate, single mom who worked her way up through Sprint. Her legislative record is genuinely bipartisan, and her 9 years in the statehouse give her more governing experience than Corson. But the Kelly-endorsed Corson has outflanked her on money and endorsements. Her school voucher critique is razor-sharp and resonates in rural Kansas where there simply are no private schools. Her silence on faith is notable -- in Kansas politics, that is a gap that opponents will exploit. The pressure campaign story is politically damaging to the Democratic establishment more than to Holscher herself.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:1272
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-cindy-holscher-00992] Faith: Theological Studies is part of her academic background. Cornerstone Data company description notes her work is done "in light of the people and organizations that produced it" -- suggesting faith-integrated business philosophy. The company name "Cornerstone" itself has Christian connotations. No specific church identified.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:1526
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00097] Visible Schedule A examples include Thomas Adrian ($500), Quinta Avance ($50), Elizabeth Bishop ($100), Archie Blumhorst ($250 and later entries), Rick Blumhorst (multiple entries including $100 and $1,000 entries), Ross Boelling ($200 and later entries), and William Bradley ($500). The extracted first pages also show many individual contributors with occupations such as not employed, retired, technician, physician, healthcare, and union.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:121
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00121] Issue Area 2 - Affordability, Taxes, Labor, and Housing
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:172
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00127] 2025 social: Highest-like original Bluesky post in the local harvest discussed union workers, fair wages, and safe working conditions, with 16 likes and 4 reposts at May 11 capture. Source: social-harvest.md / s-bsky-profile.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:186
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00165] Issue Area 8 - Agriculture, Rural Economy, Tariffs, and Water
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:293
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00437] 55 years old, rancher/farmer, K-Lawn business partner
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:482
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00449] Bank Vice President (Golden Plains Credit Union, 30+ years)
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:507
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0001] The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics ([harvest](social-harvest.md#visible-absences)). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to reproductive healthcare -- but abortion was not a high-frequency original Bluesky topic in the captured period ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). Faith references appear occasionally, including Jewish holiday greetings and criticism of the Kansas Catholic Conference's immigration stance, but the social harvest did not confirm a current ch…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0002] Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign priorities page says she will focus on keeping down essential costs such as healthcare, childcare, groceries, and gas, and her campaign news page includes a February 3, 2026 rollout of a "Common Sense and Lower Costs" agenda ([source](https://cindyforkansas.com/priorities/), [source](https://cindyforkansas.com/news/)).
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0003] Holscher's public biography is anchored in public schools, a working-class family story, and the Brownback-era fight over Kansas finances. Her campaign about page describes her as the daughter of a union construction worker and an elementary school custodian, raised on a farm, a first-generation college graduate, and the mother of three Kansas public-school graduates ([source](https://cindyforkansas.com/about/)). On Bluesky, she wrote on November 19, 2025 that she first ran for office "to end the Brownback experiment and get our schools back on track" and was now running for governor to make life more affordable ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m5zddxnft225)). She also posted on October 29, 2025 that she would fight to fund schools, stop vouchers, and put children first ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m4e2gws2hc2m)).
+  - Source: https://cindyforkansas.com/about/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous cindyforkansas.com online-reference** [soc-cindy-holscher-0005] | s-campaign-priorities | primary | https://cindyforkansas.com/priorities/ | accessed 2026-05-19 | Common Sense and Lower Costs agenda; Medicaid, school funding, labor, housing, marijuana, redistricting, term limits, corporate PAC limits | platform |
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kmuw.org online-reference** [soc-cindy-holscher-0006] Holscher's campaign identity includes a clear anti-establishment lane inside the Democratic primary. KMUW / Kansas Reflector coverage of the April 26, 2026 Democratic forum reported that she positioned herself as an anti-establishment candidate with a record of winning Republican-held legislative districts ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). In that same coverage, she responded to Ethan Corson's endorsements by saying she was running on her record, not establishment coattails, and said her coalition was nurses, teachers, neighbors, farmers, veterans, and union members. On March 20, 2026, she posted, "I will never take Core Civic money and I call on all politicians who have taken their money to return it" ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3mhhbtc2uqs2g)…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0011] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong kmuw.org post** [soc-cindy-holscher-0012] KMUW / Kansas Reflector coverage of an April 26, 2026 forum reported that Holscher cast herself as the anti-establishment Democrat, criticized Republican "culture war" bills, attacked CoreCivic-linked donations to her opponent, said she had never taken CoreCivic money and never would, supported making voting easier and reproductive health care access, and described a coalition of nurses, teachers, neighbors, farmers, veterans, and union members ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)).
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky like** [soc-cindy-holscher-0015] Audience response on measurable social media was modest and concentrated on labor, education, and anti-redistricting posts. Her highest-like original Bluesky post in the capture was a December 2, 2025 post about union workers, fair wages, and safe working conditions: 16 likes, 4 reposts, 0 replies, and 0 quotes as of May 11, 2026 ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m6z6c6yjhk23)). Her June 12, 2025 campaign-announcement post had 8 likes, 4 reposts, 1 reply, and 1 quote ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lrfy55fzgk2a)). Her December 16, 2025 Josh Cowen education interview post had 8 likes, 6 reposts, 0 replies, and 1 quote, the highest repost count in the captured original feed ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3ma4bxdovkc2v)).
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3m6z6c6yjhk23
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong cindyforkansas.com post** [soc-cindy-holscher-0025] The [about page](https://cindyforkansas.com/about/) emphasizes a working-class biography: daughter of a union construction worker and an elementary school custodian, raised on a farm, first-generation college graduate, wife and mother of three Kansas public-school graduates, and former House member who helped reverse the Brownback tax experiment.
+  - Source: https://cindyforkansas.com/about/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong cindyforkansas.com post** [soc-cindy-holscher-0026] The [priorities page](https://cindyforkansas.com/priorities/) lists a "Common Sense & Lower Costs" agenda: lowering healthcare, childcare, grocery, and gas costs; minimum wage; paid sick time; property-tax relief; Medicaid expansion; free school lunches; tax exemptions for essential products; special-education funding; housing security; medical marijuana; independent redistricting; term limits; and limits on corporate PAC money.
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 7. Guns / Second Amendment
+
+Guns / Second Amendment: 12 selected evidence items from 20 mapped rows. Public URL-backed rows: 2.
+
+### Evidence
+- **documented-record** [em-cindy-holscher-00159] Issue Area 7 - Guns / Second Amendment and Public Safety
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:275
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00160] No candidate-controlled gun-policy plank was found in reviewed campaign pages, campaign news, or the measured Bluesky evidence.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:279
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00164] Public safety voting exists, but a clean gun-policy issue card remains underdeveloped because no candidate-controlled statement was confirmed.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:289
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00201] Candidate-controlled gun-policy statement, marriage-specific policy statement, or detailed water/Ogallala policy statement.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:373
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01661] Guns / Second Amendment: Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy in the available source material.
+  - Source: memory/candidates/cindy-holscher/site-profile.md:23
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01743] Guns / Second Amendment: No candidate-controlled gun-policy plank was found in reviewed campaign pages or the measured Bluesky corpus. Vote record includes many public-safety votes, but no clean, candidate-stated gun-policy issue card was confirmed in this pass.
+  - Source: memory/candidates/cindy-holscher/sleuth-pass.md:50
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01759] No candidate-controlled gun-policy plank was confirmed.
+  - Source: memory/candidates/cindy-holscher/sleuth-pass.md:71
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01765] Candidate-controlled positions on gun policy, marriage policy, or religious liberty beyond votes/social signals noted above.
+  - Source: memory/candidates/cindy-holscher/sleuth-pass.md:79
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-02336] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-cindy-holscher-01881] The captured Bluesky feed strongly features education, affordability, healthcare, redistricting, tariffs/agriculture, and campaign outreach. It contains less sustained original discussion of gun policy, water policy/Ogallala depletion, abortion policy after launch, or detailed state-budget mechanics than the website priorities and news coverage do.
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:146
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-cindy-holscher-00011] The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics ([harvest](social-harvest.md#visible-absences)). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to reproductive healthcare -- but abortion was not a high-frequency original Bluesky topic in the captured period ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). Faith references appear occasionally, including Jewish holiday greetings and criticism of the Kansas Catholic Conference's immigration stance, but the social harvest did not confirm a current ch…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Confidence/use: likely / use
+- **faith-community-record** [em-cindy-holscher-02239] "No current church affiliation, candidate-controlled gun-policy plank, marriage-specific policy plank, or detailed water/Ogallala policy plank was confirmed."
+  - Source: memory/candidates/cindy-holscher/v2-issues.yaml:692
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0001] The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics ([harvest](social-harvest.md#visible-absences)). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to reproductive healthcare -- but abortion was not a high-frequency original Bluesky topic in the captured period ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). Faith references appear occasionally, including Jewish holiday greetings and criticism of the Kansas Catholic Conference's immigration stance, but the social harvest did not confirm a current ch…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0011] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-cindy-holscher-0013] The captured Bluesky feed strongly features education, affordability, healthcare, redistricting, tariffs/agriculture, and campaign outreach. It contains less sustained original discussion of gun policy, water policy/Ogallala depletion, abortion policy after launch, or detailed state-budget mechanics than the website priorities and news coverage do.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0166] "observation": "The captured Bluesky feed strongly features education, affordability, healthcare, redistricting, tariffs/agriculture, and campaign outreach. It contains less sustained original discussion of gun policy, water policy/Ogallala depletion, abortion policy after launch, or detailed state-budget mechanics than the website priorities and news coverage do.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-cindy-holscher-0183] Candidate-controlled positions on gun policy, marriage policy, or religious liberty beyond votes/social signals noted above.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0191] "observation": "The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics (harvest).",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0197] No candidate-controlled gun-policy plank was found in reviewed campaign pages, campaign news, or the measured Bluesky evidence.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-cindy-holscher-0198] Guns / Second Amendment: Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy in the available source material.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0199] Guns / Second Amendment: No candidate-controlled gun-policy plank was found in reviewed campaign pages or the measured Bluesky corpus. Vote record includes many public-safety votes, but no clean, candidate-stated gun-policy issue card was confirmed in this pass.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0200] "text": "No candidate-controlled gun-policy plank was found in reviewed campaign pages, campaign news, or the measured Bluesky corpus.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 8. Immigration / border
+
+Immigration / border: 28 selected evidence items from 44 mapped rows. Public URL-backed rows: 8.
+
+### Evidence
+- **candidate-stated** [em-cindy-holscher-01662] Immigration / Border: Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources. on immigration.
+  - Source: memory/candidates/cindy-holscher/site-profile.md:25
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00056] | s-kansas-reflector-corecivic-forum | secondary | https://kansasreflector.com/2026/04/26/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum/ | published 2026-04-26; accessed 2026-05-19 | Forum coverage on CoreCivic, establishment tensions, reproductive healthcare access | immigration, abortion, campaign posture |
+  - Source: https://kansasreflector.com/2026/04/26/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-01615] [CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)
+  - Source: https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00149] Campaign news page includes March 2026 releases opposing the Leavenworth CoreCivic/ICE detention project. Bluesky post from March 20, 2026 says she would never take CoreCivic money and called on politicians who have taken it to return it. April 2026 forum coverage reported CoreCivic became a point of contrast between Holscher and Ethan Corson.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:244
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00151] 2026 campaign release activity: Campaign news page includes March 10 and March 11, 2026 releases about Leavenworth/ICE/CoreCivic. Source: s-campaign-news.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:249
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00189] Manual local coding of 431 original Bluesky posts found top categories: campaign events/positioning (83 posts, 19%); public education (77, 18%); cost of living/agriculture/tariffs/food/housing/taxes (76, 18%); healthcare (50, 12%); democracy/redistricting/courts/voting/elections/privacy (35, 8%); federal/national politics/immigration/war/national figures (24, 6%); labor (4, 1%); civil rights/LGBTQ/immigration/religious-community/public-safety miscellany (6, 1%); personal/community/holiday/uncategorized (76, 18%).
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:355
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01474] Their argument is straightforward: Voting should be exclusively for citizens, and the Constitution should say so clearly and forcefully. They point out that similar amendments passed in all 8 states where they appeared on the 2024 ballot, often with 65-80% of the vote. It is a matter of principle, even if non-citizen voting is not currently a problem.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2353
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01483] FACT 1: Non-citizen voting is already illegal. This amendment does not make anything new illegal.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2375
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-02142] "text": "Campaign news and social posts oppose the Leavenworth CoreCivic/ICE detention project and present CoreCivic money as a campaign-finance issue. This pass did not find a broader candidate-controlled immigration platform.",
+  - Source: ui/src/data/v2/cindy-holscher.ts:344
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-02336] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-cindy-holscher-01741] Immigration / CoreCivic / private detention: Campaign news page includes March 2026 releases opposing the Leavenworth CoreCivic/ICE detention project. Bluesky post from March 20, 2026 says she would not take CoreCivic money. A text search of the 2025 KPDC report did not find the literal strings "CoreCivic" or "Core Civic"; this does not rule out all affiliated entities without a full donor-origin audit.
+  - Source: memory/candidates/cindy-holscher/sleuth-pass.md:48
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-cindy-holscher-00049] | s-bsky-corecivic | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3mhhbtc2uqs2g | posted 2026-03-20; API read 2026-05-19 | CoreCivic money pledge/call; 4 likes, 1 repost, 1 reply, 0 quotes at readback | immigration, campaign finance |
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3mhhbtc2uqs2g
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01773] Campaign news page: [cindyforkansas.com/news](https://cindyforkansas.com/news/) -- active; visible releases through April 29, 2026, including voting-rights, CoreCivic, legislative-session, cell-phone-ban, ICE detention, Chiefs stadium, lower-costs agenda, polling, health-care, and redistricting items.
+  - Source: https://cindyforkansas.com/news/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01852] The [news page](https://cindyforkansas.com/news/) shows campaign press activity through April 29, 2026. The latest visible items focused on voting rights, CoreCivic, the legislative session, cell-phone policy, ICE detention, the Chiefs stadium deal, lower costs, polling, working-family affordability, redistricting, and ACA costs.
+  - Source: https://cindyforkansas.com/news/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01800] Topic: CoreCivic / private prison / ICE detention
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:39
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01869] Federal/national politics, Trump/Musk administration, immigration/ICE, war, and national Republican figures: 24 posts (6%).
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:132
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01871] Civil rights, LGBTQ policy, immigration/migrant care, religious-community references, political violence, and innocence/public-safety topics not already captured above: 6 posts (1%).
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:134
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01877] Highest-profile non-social indexed engagement signal: the campaign news page and press coverage show recurring attention to CoreCivic/ICE detention and the Democratic primary establishment fight, especially the April 26, 2026 forum coverage republished by KMUW.
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:141
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01882] Faith references are occasional and issue-linked rather than biographical; examples include Rosh Hashanah greetings and criticism of the Kansas Catholic Conference's position on Trump immigration policy. No current church affiliation was confirmed in this social pass.
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:147
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-cindy-holscher-00011] The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics ([harvest](social-harvest.md#visible-absences)). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to reproductive healthcare -- but abortion was not a high-frequency original Bluesky topic in the captured period ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). Faith references appear occasionally, including Jewish holiday greetings and criticism of the Kansas Catholic Conference's immigration stance, but the social harvest did not confirm a current ch…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Confidence/use: likely / use
+- **faith-community-record** [em-cindy-holscher-00178] Public sources reviewed here do not identify a current church affiliation. Local social harvest found occasional religious-community references, including Jewish holiday greetings and criticism of Kansas Catholic Conference immigration stance, but no current congregation or religious-liberty plank.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:331
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-cindy-holscher-00153] This pass did not verify a comprehensive immigration platform beyond the CoreCivic/ICE detention controversy and related votes/social posts.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:254
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00057] | s-kmuw-corecivic-forum | secondary | https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum | published 2026-04-29; accessed locally 2026-05-19 | KMUW republication of forum coverage | immigration, abortion |
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Confidence/use: likely / use
+- **background-context** [em-cindy-holscher-00147] Issue Area 5 - Immigration, CoreCivic, and Private Detention
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:238
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00611] Extensive international humanitarian medical work with International Medical Corps -- 20+ countries since 1985 (Afghanistan, Iraq, Kosovo, South Sudan, Cameroon, Syria border, Ukraine)
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:867
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00929] "Let's end the border war -- keep the Chiefs and Royals in Missouri. Kansas simply can't afford to subsidize them."
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:1406
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-01466] Is Non-Citizen Voting Actually a Problem in Kansas?
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2335
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-01471] That is a ratio of roughly 1 non-citizen for every 797 blocked citizens
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2343
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0001] The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics ([harvest](social-harvest.md#visible-absences)). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to reproductive healthcare -- but abortion was not a high-frequency original Bluesky topic in the captured period ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). Faith references appear occasionally, including Jewish holiday greetings and criticism of the Kansas Catholic Conference's immigration stance, but the social harvest did not confirm a current ch…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0011] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-cindy-holscher-0014] Civil rights, LGBTQ policy, immigration/migrant care, religious-community references, political violence, and innocence/public-safety topics not already captured above: 6 posts (1%).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-cindy-holscher-0030] Faith references are occasional and issue-linked rather than biographical; examples include Rosh Hashanah greetings and criticism of the Kansas Catholic Conference's position on Trump immigration policy. No current church affiliation was confirmed in this social pass.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky comment** [soc-cindy-holscher-0040] | s-bsky-corecivic | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3mhhbtc2uqs2g | posted 2026-03-20; API read 2026-05-19 | CoreCivic money pledge/call; 4 likes, 1 repost, 1 reply, 0 quotes at readback | immigration, campaign finance |
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3mhhbtc2uqs2g
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong cindyforkansas.com post** [soc-cindy-holscher-0041] Campaign news page: [cindyforkansas.com/news](https://cindyforkansas.com/news/) -- active; visible releases through April 29, 2026, including voting-rights, CoreCivic, legislative-session, cell-phone-ban, ICE detention, Chiefs stadium, lower-costs agenda, polling, health-care, and redistricting items.
+  - Source: https://cindyforkansas.com/news/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-cindy-holscher-0042] Topic: CoreCivic / private prison / ICE detention
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong cindyforkansas.com post** [soc-cindy-holscher-0043] The [news page](https://cindyforkansas.com/news/) shows campaign press activity through April 29, 2026. The latest visible items focused on voting rights, CoreCivic, the legislative session, cell-phone policy, ICE detention, the Chiefs stadium deal, lower costs, polling, working-family affordability, redistricting, and ACA costs.
+  - Source: https://cindyforkansas.com/news/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-cindy-holscher-0044] Federal/national politics, Trump/Musk administration, immigration/ICE, war, and national Republican figures: 24 posts (6%).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-cindy-holscher-0045] Highest-profile non-social indexed engagement signal: the campaign news page and press coverage show recurring attention to CoreCivic/ICE detention and the Democratic primary establishment fight, especially the April 26, 2026 forum coverage republished by KMUW.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 9. Health care / insurance / Medicaid
+
+Health care / insurance / Medicaid: 37 selected evidence items from 150 mapped rows. Public URL-backed rows: 21.
+
+### Evidence
+- **candidate-stated** [em-cindy-holscher-00824] Cannabis: Supports legalization of medical marijuana
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:1204
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-01664] Marijuana / Drug Policy: Supports legalization of medical marijuana.
+  - Source: memory/candidates/cindy-holscher/site-profile.md:29
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-01665] Healthcare / Medicaid: Supports Medicaid expansion and protecting ACA tax credits. Said "Politicians are making dangerous cuts to our programs, Medicaid and Social Security. That's hurting us."
+  - Source: memory/candidates/cindy-holscher/site-profile.md:31
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-02314] "stance": "Supports legalization of medical marijuana."
+  - Source: ui/src/data/candidates.ts:19564
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-02316] "stance": "Supports Medicaid expansion and protecting ACA tax credits. Said \"Politicians are making dangerous cuts to our programs, Medicaid and Social Security. That's hurting us.\""
+  - Source: ui/src/data/candidates.ts:19568
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00003] Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign priorities page says she will focus on keeping down essential costs such as healthcare, childcare, groceries, and gas, and her campaign news page includes a February 3, 2026 rollout of a "Common Sense and Lower Costs" agenda ([source](https://cindyforkansas.com/priorities/), [source](https://cindyforkansas.com/news/)).
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00042] | s-campaign-priorities | primary | https://cindyforkansas.com/priorities/ | accessed 2026-05-19 | Common Sense and Lower Costs agenda; Medicaid, school funding, labor, housing, marijuana, redistricting, term limits, corporate PAC limits | platform |
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00044] | s-campaign-running-mate | primary | https://cindyforkansas.com/holscher-announces-running-mate-kc-ohaebosim/ | published 2026-05-14; accessed 2026-05-19 | Running mate KC Ohaebosim; campaign emphasis on affordability, schools, healthcare, jobs | official campaign status |
+  - Source: https://cindyforkansas.com/holscher-announces-running-mate-kc-ohaebosim/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00055] | s-kansas-reflector-debate | secondary | https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/ | published 2026-03-08; accessed 2026-05-19 | Democratic debate coverage on affordability, healthcare, rural Kansas | healthcare, affordability |
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00056] | s-kansas-reflector-corecivic-forum | secondary | https://kansasreflector.com/2026/04/26/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum/ | published 2026-04-26; accessed 2026-05-19 | Forum coverage on CoreCivic, establishment tensions, reproductive healthcare access | immigration, abortion, campaign posture |
+  - Source: https://kansasreflector.com/2026/04/26/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00769] > -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-01117] [Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-02332] "source": "Kansas Reflector, March 8, 2026, https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-cindy-holscher-02336] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-cindy-holscher-00084] Member/on-call roles include Ways and Means, Utilities, Legislative Post Audit, Health Care Stabilization Fund Oversight, Joint Committee on Child Welfare System Oversight, Corrections and Public Safety Subcommittee, and related committees.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:97
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-01524] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2461
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-01950] "Committee roles include ranking minority member on Government Efficiency and Public Health and Welfare"
+  - Source: memory/candidates/cindy-holscher/v2-issues.yaml:92
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-02468] "health-action-committee"
+  - Source: ui/src/data/v2/cindy-holscher.ts:253
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-cindy-holscher-00006] Holscher also uses her social feed to argue that federal decisions are raising Kansas costs. Healthcare posts include ACA subsidies, Medicaid expansion, rural hospitals, disability services, mental health, vaccine policy, and health-agency decisions. On September 25, 2025, she posted that if Congress did not restore affordable-care tax credits, more than 100,000 Kansans would lose healthcare ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lzoibislgg2v)). On January 8, 2026, she wrote that thousands of Kansans faced skyrocketing healthcare costs and that Congress should extend ACA subsidies ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3mbx4kgkl6227)). Her campaign priorities page calls for Medicaid expansion and says expansion would help shore up rural hospitals ([source](https://cindyforkansas.com/priorities/)).
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3lzoibislgg2v
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-00047] | s-bsky-running-mate | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3mltsfpocu22x | posted 2026-05-14; API read 2026-05-19 | Running-mate post; 11 likes, 1 repost, 0 replies, 0 quotes at readback | campaign status, education, healthcare |
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3mltsfpocu22x
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-00050] | s-bsky-aca-2026 | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3mbx4kgkl6227 | posted 2026-01-08; API read 2026-05-19 | ACA subsidies and healthcare costs | healthcare |
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3mbx4kgkl6227
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01772] Campaign website: [cindyforkansas.com](https://cindyforkansas.com/) -- active. The site frames the campaign around "Real Solutions for Real Kansans," affordability, public schools, healthcare, working families, housing, Medicaid expansion, medical marijuana, and election reform ([about](https://cindyforkansas.com/about/), [priorities](https://cindyforkansas.com/priorities/)).
+  - Source: https://cindyforkansas.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01773] Campaign news page: [cindyforkansas.com/news](https://cindyforkansas.com/news/) -- active; visible releases through April 29, 2026, including voting-rights, CoreCivic, legislative-session, cell-phone-ban, ICE detention, Chiefs stadium, lower-costs agenda, polling, health-care, and redistricting items.
+  - Source: https://cindyforkansas.com/news/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01851] The [priorities page](https://cindyforkansas.com/priorities/) lists a "Common Sense & Lower Costs" agenda: lowering healthcare, childcare, grocery, and gas costs; minimum wage; paid sick time; property-tax relief; Medicaid expansion; free school lunches; tax exemptions for essential products; special-education funding; housing security; medical marijuana; independent redistricting; term limits; and limits on corporate PAC money.
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01852] The [news page](https://cindyforkansas.com/news/) shows campaign press activity through April 29, 2026. The latest visible items focused on voting rights, CoreCivic, the legislative session, cell-phone policy, ICE detention, the Chiefs stadium deal, lower costs, polling, working-family affordability, redistricting, and ACA costs.
+  - Source: https://cindyforkansas.com/news/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01855] Kansas Reflector coverage of a March 8, 2026 Democratic debate described the field emphasizing affordability, health care, and rural Kansas; the existing candidate file quotes Holscher warning about cuts to Medicaid, Social Security, and ACA tax credits ([source](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)).
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-cindy-holscher-00011] The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics ([harvest](social-harvest.md#visible-absences)). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to reproductive healthcare -- but abortion was not a high-frequency original Bluesky topic in the captured period ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). Faith references appear occasionally, including Jewish holiday greetings and criticism of the Kansas Catholic Conference's immigration stance, but the social harvest did not confirm a current ch…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Confidence/use: likely / use
+- **faith-community-record** [em-cindy-holscher-00471] No faith or church references in any professional profiles, medical directories, or candidate information
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:557
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-cindy-holscher-00615] International Medical Corps is a SECULAR humanitarian organization (not faith-based like Samaritan's Purse or Catholic Relief Services)
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:871
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-cindy-holscher-02302] "theirRecord": "Holscher served in the Kansas House from 2017 through 2020 and has served in the Kansas Senate since 2021. She was part of the coalition that reversed key pieces of the Brownback tax experiment in 2017, pushed for Medicaid expansion, and became a frequent Democratic voice on school funding, reproductive rights, and consumer concerns. One of her clearest institutional projects was co-founding the Women's Bipartisan Caucus in the Legislature, an effort meant to create cross-party working relationships in a polarized statehouse. She has also made opposition to private-school vouchers a signature issue, arguing that the policy would drain public money from local schools while doing little for many rural counties that have no private-school option at all. Her 2026 governor's race also carries a more personal political fight. In August 2025, Holscher publicly accused aides to …
+  - Source: ui/src/data/candidates.ts:19536
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-cindy-holscher-02476] "observation": "KMUW / Kansas Reflector coverage of an April 26, 2026 forum reported that Holscher cast herself as the anti-establishment Democrat, criticized Republican \"culture war\" bills, attacked CoreCivic-linked donations to her opponent, said she had never taken CoreCivic money and never would, supported making voting easier and reproductive health care access, and described a coalition of nurses, teachers, neighbors,...",
+  - Source: ui/src/data/v2/cindy-holscher.ts:315
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00619] [KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **background-context** [em-cindy-holscher-01641] [Ballotpedia: Kansas Insurance Commissioner 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026
+  - Confidence/use: likely / use
+- **background-context** [em-cindy-holscher-00083] Ranking minority member, Government Efficiency and Public Health and Welfare.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:96
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00097] Visible Schedule A examples include Thomas Adrian ($500), Quinta Avance ($50), Elizabeth Bishop ($100), Archie Blumhorst ($250 and later entries), Rick Blumhorst (multiple entries including $100 and $1,000 entries), Ross Boelling ($200 and later entries), and William Bradley ($500). The extracted first pages also show many individual contributors with occupations such as not employed, retired, technician, physician, healthcare, and union.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:121
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00129] Issue Area 3 - Healthcare, Medicaid, Rural Hospitals, and Reproductive Care
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:194
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00136] 2026 social: January 8, 2026 Bluesky post called for extending ACA subsidies and addressed Kansans facing rising healthcare costs. Source: s-bsky-aca-2026.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:208
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0001] The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics ([harvest](social-harvest.md#visible-absences)). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to reproductive healthcare -- but abortion was not a high-frequency original Bluesky topic in the captured period ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). Faith references appear occasionally, including Jewish holiday greetings and criticism of the Kansas Catholic Conference's immigration stance, but the social harvest did not confirm a current ch…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0002] Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign priorities page says she will focus on keeping down essential costs such as healthcare, childcare, groceries, and gas, and her campaign news page includes a February 3, 2026 rollout of a "Common Sense and Lower Costs" agenda ([source](https://cindyforkansas.com/priorities/), [source](https://cindyforkansas.com/news/)).
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous cindyforkansas.com online-reference** [soc-cindy-holscher-0005] | s-campaign-priorities | primary | https://cindyforkansas.com/priorities/ | accessed 2026-05-19 | Common Sense and Lower Costs agenda; Medicaid, school funding, labor, housing, marijuana, redistricting, term limits, corporate PAC limits | platform |
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0011] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong kmuw.org post** [soc-cindy-holscher-0012] KMUW / Kansas Reflector coverage of an April 26, 2026 forum reported that Holscher cast herself as the anti-establishment Democrat, criticized Republican "culture war" bills, attacked CoreCivic-linked donations to her opponent, said she had never taken CoreCivic money and never would, supported making voting easier and reproductive health care access, and described a coalition of nurses, teachers, neighbors, farmers, veterans, and union members ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)).
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky post** [soc-cindy-holscher-0013] The captured Bluesky feed strongly features education, affordability, healthcare, redistricting, tariffs/agriculture, and campaign outreach. It contains less sustained original discussion of gun policy, water policy/Ogallala depletion, abortion policy after launch, or detailed state-budget mechanics than the website priorities and news coverage do.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0016] | s-bsky-running-mate | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3mltsfpocu22x | posted 2026-05-14; API read 2026-05-19 | Running-mate post; 11 likes, 1 repost, 0 replies, 0 quotes at readback | campaign status, education, healthcare |
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3mltsfpocu22x
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong cindyforkansas.com post** [soc-cindy-holscher-0026] The [priorities page](https://cindyforkansas.com/priorities/) lists a "Common Sense & Lower Costs" agenda: lowering healthcare, childcare, grocery, and gas costs; minimum wage; paid sick time; property-tax relief; Medicaid expansion; free school lunches; tax exemptions for essential products; special-education funding; housing security; medical marijuana; independent redistricting; term limits; and limits on corporate PAC money.
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong Bluesky post** [soc-cindy-holscher-0031] Holscher also uses her social feed to argue that federal decisions are raising Kansas costs. Healthcare posts include ACA subsidies, Medicaid expansion, rural hospitals, disability services, mental health, vaccine policy, and health-agency decisions. On September 25, 2025, she posted that if Congress did not restore affordable-care tax credits, more than 100,000 Kansans would lose healthcare ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lzoibislgg2v)). On January 8, 2026, she wrote that thousands of Kansans faced skyrocketing healthcare costs and that Congress should extend ACA subsidies ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3mbx4kgkl6227)). Her campaign priorities page calls for Medicaid expansion and says expansion would help shore up rural hospitals ([source](https://cindyforkansas.com/priorities/)).
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3lzoibislgg2v
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-cindy-holscher-0032] 2025-09-25 -- "If Congress doesn't restore tax credits for affordable healthcare before Nov 1, over 100,000 Kansans will lose their healthcare..."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 10. Election integrity / voting / courts
+
+Election integrity / voting / courts: 33 selected evidence items from 561 mapped rows. Public URL-backed rows: 127.
+
+### Evidence
+- **candidate-stated** [em-cindy-holscher-01459] Right now, the Kansas Constitution says: "Every citizen of the United States who has attained the age of eighteen years and who resides in the voting area in which he or she seeks to vote shall be deemed a qualified elector."
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2317
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00005] Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse school budget cuts, and founded the Women's Bipartisan Caucus ([source](https://cindyforkansas.com/about/)). On April 6, 2025, before her formal governor launch, she posted that vouchers are a scam and a transfer of wealth from working-class taxpayers to richer families ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lm5ms3vwyk2e)). A December 16, 2025 Bluesky post promoted her interview with Josh Cowen about public education, winning in red districts, values, and the Brownback tax experiment; that post had the highest repost count among her captured original Bluesky posts ([source](https://bsky.app/profile/cindyfo…
+  - Source: https://cindyforkansas.com/about/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00008] Holscher's campaign identity includes a clear anti-establishment lane inside the Democratic primary. KMUW / Kansas Reflector coverage of the April 26, 2026 Democratic forum reported that she positioned herself as an anti-establishment candidate with a record of winning Republican-held legislative districts ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). In that same coverage, she responded to Ethan Corson's endorsements by saying she was running on her record, not establishment coattails, and said her coalition was nurses, teachers, neighbors, farmers, veterans, and union members. On March 20, 2026, she posted, "I will never take Core Civic money and I call on all politicians who have taken their money to return it" ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3mhhbtc2uqs2g)…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00028] | s-sos-candidate-info-2026 | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing framework; Governor/Lt. Governor office up in 2026; primary filing deadline June 1, 2026; candidate not filed until petition/declaration and fee received | official status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-cindy-holscher-00033] | s-ksleg-member | primary | https://www.kslegislature.gov/b2025_26/legislators/sen_holscher_cindy_1/ | accessed 2026-05-19 | Senate District 8, Johnson County; Democrat; Senate Minority Whip; House 2017-2020; Senate 2021-present; committees | officeholder status, record |
+  - Source: https://www.kslegislature.gov/b2025_26/legislators/sen_holscher_cindy_1/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-cindy-holscher-00035] | s-ksleg-hb2479-rollcall | primary | https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt | accessed 2026-05-19 | March 10, 2026 Senate roll call showing Holscher yea on HB 2479 | public safety |
+  - Source: https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt
+  - Confidence/use: confirmed / use
+- **documented-record** [em-cindy-holscher-00037] | s-ksleg-sb142 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb142/ | accessed 2026-05-19 | Holscher-sponsored bill allowing teacher representatives on school boards | education |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/sb142/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-cindy-holscher-00038] | s-ksleg-sb143 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb143/ | accessed 2026-05-19 | Holscher-sponsored legislative term-limits bill | governance |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/sb143/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-cindy-holscher-00040] | s-campaign-home | primary | https://cindyforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage and campaign identity | biography, status |
+  - Source: https://cindyforkansas.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-cindy-holscher-00036] | s-ksleg-sb136 | primary | https://www.kslegislature.gov/bills/SB136/ | accessed 2026-05-19 | Holscher-sponsored bill limiting independent-expenditure political committee contributions and adding reporting/audit requirements | democracy, campaign finance |
+  - Source: https://www.kslegislature.gov/bills/SB136/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-cindy-holscher-02336] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-cindy-holscher-00120] The campaign and social feed are highly specific on public-school funding and vouchers. Direct floor speeches, amendment explanations, or committee testimony from Holscher on SB 142 were not captured in this pass.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:168
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-01673] Her 2025 year-end filing reported $397,952.07 raised, $218,060.34 spent, and $179,891.73 cash on hand.
+  - Source: memory/candidates/cindy-holscher/site-profile.md:44
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-01676] Holscher entered the race with a respectable but clearly second-tier fundraising position in the Democratic primary for governor. Her 2025 year-end filing reported $397,952.07 raised, $218,060.34 spent, and $179,891.73 cash on hand, with no personal loans listed in the source material.
+  - Source: memory/candidates/cindy-holscher/site-profile.md:50
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-01677] The filing points to a conventional donor-backed campaign rather than a self-financed one. Named contributors visible in the raw material included Thomas Adrian, Quinta Avance, Elizabeth Bishop, Archie Blumhorst, Rick Blumhorst, and Ross Boelling.
+  - Source: memory/candidates/cindy-holscher/site-profile.md:52
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-cindy-holscher-01772] Campaign website: [cindyforkansas.com](https://cindyforkansas.com/) -- active. The site frames the campaign around "Real Solutions for Real Kansans," affordability, public schools, healthcare, working families, housing, Medicaid expansion, medical marijuana, and election reform ([about](https://cindyforkansas.com/about/), [priorities](https://cindyforkansas.com/priorities/)).
+  - Source: https://cindyforkansas.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01773] Campaign news page: [cindyforkansas.com/news](https://cindyforkansas.com/news/) -- active; visible releases through April 29, 2026, including voting-rights, CoreCivic, legislative-session, cell-phone-ban, ICE detention, Chiefs stadium, lower-costs agenda, polling, health-care, and redistricting items.
+  - Source: https://cindyforkansas.com/news/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01852] The [news page](https://cindyforkansas.com/news/) shows campaign press activity through April 29, 2026. The latest visible items focused on voting rights, CoreCivic, the legislative session, cell-phone policy, ICE detention, the Chiefs stadium deal, lower costs, polling, working-family affordability, redistricting, and ACA costs.
+  - Source: https://cindyforkansas.com/news/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01856] KMUW / Kansas Reflector coverage of an April 26, 2026 forum reported that Holscher cast herself as the anti-establishment Democrat, criticized Republican "culture war" bills, attacked CoreCivic-linked donations to her opponent, said she had never taken CoreCivic money and never would, supported making voting easier and reproductive health care access, and described a coalition of nurses, teachers, neighbors, farmers, veterans, and union members ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)).
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01769] Election: kansas-governor-2026
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:4
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01812] Topic: Republican opponents / election administration
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:55
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01829] Topic: Redistricting / voting rights
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:79
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01868] Democracy, redistricting, courts, voting, elections, privacy, and Kansas election officials: 35 posts (8%).
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:131
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-cindy-holscher-01183] [Kansas Catholic Conference: Election 2026](https://www.kansascatholic.org/current-news/election-2026)
+  - Source: https://www.kansascatholic.org/current-news/election-2026
+  - Confidence/use: likely / use
+- **faith-community-record** [em-cindy-holscher-00419] Spoke at TMP about the importance of voting (invited as elected official to Catholic school)
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:432
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-cindy-holscher-00599] Pushed the judicial selection amendment -- faith motivation was part of the framing
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:843
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-cindy-holscher-02476] "observation": "KMUW / Kansas Reflector coverage of an April 26, 2026 forum reported that Holscher cast herself as the anti-establishment Democrat, criticized Republican \"culture war\" bills, attacked CoreCivic-linked donations to her opponent, said she had never taken CoreCivic money and never would, supported making voting easier and reproductive health care access, and described a coalition of nurses, teachers, neighbors,...",
+  - Source: ui/src/data/v2/cindy-holscher.ts:315
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00027] https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt
+  - Source: https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt
+  - Confidence/use: confirmed / use
+- **background-context** [em-cindy-holscher-00034] | s-ksleg-vote-2025 | primary | https://www.kslegislature.gov/b2025_26/vote-record/sen_holscher_cindy_1/2025/ | accessed 2026-05-19 | Holscher's 2025 Senate vote history | action evidence |
+  - Source: https://www.kslegislature.gov/b2025_26/vote-record/sen_holscher_cindy_1/2025/
+  - Confidence/use: confirmed / use
+- **background-context** [em-cindy-holscher-01327] [Vote No Kansas 2026](https://www.votenokansas.org/)
+  - Source: https://www.votenokansas.org/
+  - Confidence/use: likely / use
+- **background-context** [em-cindy-holscher-01595] Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/
+  - Source: https://myvoteinfo.voteks.org/
+  - Confidence/use: likely / use
+- **background-context** [em-cindy-holscher-01613] [NPR: Judge tosses Kansas proof-of-citizenship voter law](https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba)
+  - Source: https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba
+  - Confidence/use: likely / use
+- **background-context** [em-cindy-holscher-01617] [PBS: Kansas hopes to resurrect proof-of-citizenship law](https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law)
+  - Source: https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0004] Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse school budget cuts, and founded the Women's Bipartisan Caucus ([source](https://cindyforkansas.com/about/)). On April 6, 2025, before her formal governor launch, she posted that vouchers are a scam and a transfer of wealth from working-class taxpayers to richer families ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lm5ms3vwyk2e)). A December 16, 2025 Bluesky post promoted her interview with Josh Cowen about public education, winning in red districts, values, and the Brownback tax experiment; that post had the highest repost count among her captured original Bluesky posts ([source](https://bsky.app/profile/cindyfo…
+  - Source: https://cindyforkansas.com/about/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kmuw.org online-reference** [soc-cindy-holscher-0006] Holscher's campaign identity includes a clear anti-establishment lane inside the Democratic primary. KMUW / Kansas Reflector coverage of the April 26, 2026 Democratic forum reported that she positioned herself as an anti-establishment candidate with a record of winning Republican-held legislative districts ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). In that same coverage, she responded to Ethan Corson's endorsements by saying she was running on her record, not establishment coattails, and said her coalition was nurses, teachers, neighbors, farmers, veterans, and union members. On March 20, 2026, she posted, "I will never take Core Civic money and I call on all politicians who have taken their money to return it" ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3mhhbtc2uqs2g)…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous linktr.ee online-reference** [soc-cindy-holscher-0007] | s-linktree | primary | https://linktr.ee/cindyforkansas | accessed in local harvest 2026-05-11 | Campaign social/presence links | online presence |
+  - Source: https://linktr.ee/cindyforkansas
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-cindy-holscher-0008] Campaign website: https://cindyforkansas.com/ is active. The footer and pages link Facebook, X, and Instagram; the campaign news page is current through May 14, 2026.
+  - Source: https://cindyforkansas.com/`
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0011] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong kmuw.org post** [soc-cindy-holscher-0012] KMUW / Kansas Reflector coverage of an April 26, 2026 forum reported that Holscher cast herself as the anti-establishment Democrat, criticized Republican "culture war" bills, attacked CoreCivic-linked donations to her opponent, said she had never taken CoreCivic money and never would, supported making voting easier and reproductive health care access, and described a coalition of nurses, teachers, neighbors, farmers, veterans, and union members ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)).
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong cindyforkansas.com post** [soc-cindy-holscher-0041] Campaign news page: [cindyforkansas.com/news](https://cindyforkansas.com/news/) -- active; visible releases through April 29, 2026, including voting-rights, CoreCivic, legislative-session, cell-phone-ban, ICE detention, Chiefs stadium, lower-costs agenda, polling, health-care, and redistricting items.
+  - Source: https://cindyforkansas.com/news/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong cindyforkansas.com post** [soc-cindy-holscher-0043] The [news page](https://cindyforkansas.com/news/) shows campaign press activity through April 29, 2026. The latest visible items focused on voting rights, CoreCivic, the legislative session, cell-phone policy, ICE detention, the Chiefs stadium deal, lower costs, polling, working-family affordability, redistricting, and ACA costs.
+  - Source: https://cindyforkansas.com/news/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong cindyforkansas.com post** [soc-cindy-holscher-0047] Campaign website: [cindyforkansas.com](https://cindyforkansas.com/) -- active. The site frames the campaign around "Real Solutions for Real Kansans," affordability, public schools, healthcare, working families, housing, Medicaid expansion, medical marijuana, and election reform ([about](https://cindyforkansas.com/about/), [priorities](https://cindyforkansas.com/priorities/)).
+  - Source: https://cindyforkansas.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-cindy-holscher-0053] Election: kansas-governor-2026
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 11. Public safety / law enforcement / criminal justice
+
+Public safety / law enforcement / criminal justice: 18 selected evidence items from 76 mapped rows. Public URL-backed rows: 21.
+
+### Evidence
+- **documented-record** [em-cindy-holscher-00035] | s-ksleg-hb2479-rollcall | primary | https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt | accessed 2026-05-19 | March 10, 2026 Senate roll call showing Holscher yea on HB 2479 | public safety |
+  - Source: https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt
+  - Confidence/use: confirmed / use
+- **documented-record** [em-cindy-holscher-00204] https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01CH_AT.pdf
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01CH_AT.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-cindy-holscher-00225] Kansas Ethics filing: [SW01CH_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CH_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CH_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-cindy-holscher-00258] Kansas Ethics filing index: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+  - Confidence/use: confirmed / use
+- **documented-record** [em-cindy-holscher-00259] 2026 filing PDF: [SW01CH_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CH_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CH_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-cindy-holscher-00445] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-01326] [Ballotpedia: Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))
+  - Source: https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-01597] [Ballotpedia: Kansas Elections for Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))
+  - Source: https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-cindy-holscher-00084] Member/on-call roles include Ways and Means, Utilities, Legislative Post Audit, Health Care Stabilization Fund Oversight, Joint Committee on Child Welfare System Oversight, Corrections and Public Safety Subcommittee, and related committees.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:97
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-cindy-holscher-00048] | s-bsky-wildfires | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3mm6dk33nu22o | posted 2026-05-19; API read 2026-05-19 | Southwest Kansas wildfire post; 1 like, 0 reposts, 0 replies, 0 quotes at readback | public safety, rural/community |
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3mm6dk33nu22o
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01800] Topic: CoreCivic / private prison / ICE detention
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:39
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01806] Topic: Federal enforcement / public safety
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:47
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-cindy-holscher-00331] Assessment: The "core values" language is suggestive but not conclusive. His background is law enforcement and military -- both communities where faith can be deeply held but not publicly displayed. No specific church identified. Recommend direct inquiry.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:237
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00327] Retired Hays Police officer (19 years HPD + military police = 22 years total)
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:232
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00351] FHSU graduate, 24 years law enforcement
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:288
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-01370] Ellis County Sheriff primary (if on cycle -- VERIFY)
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2141
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-01383] Ellis County Sheriff (if on cycle -- VERIFY)
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2155
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-01535] This is a direct rematch. Mann is a Lawrence attorney and former police officer turned prosecutor. He focuses on "basics of law enforcement" -- DUI prevention, victims' rights, public safety. His pitch: the AG's office should protect Kansans, not chase national headlines.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2484
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak Public web / internal harvest post** [soc-cindy-holscher-0042] Topic: CoreCivic / private prison / ICE detention
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky like** [soc-cindy-holscher-0057] | s-bsky-wildfires | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3mm6dk33nu22o | posted 2026-05-19; API read 2026-05-19 | Southwest Kansas wildfire post; 1 like, 0 reposts, 0 replies, 0 quotes at readback | public safety, rural/community |
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3mm6dk33nu22o
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-cindy-holscher-0058] Topic: Federal enforcement / public safety
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 12. Agriculture / rural economy / water
+
+Agriculture / rural economy / water: 39 selected evidence items from 107 mapped rows. Public URL-backed rows: 19.
+
+### Evidence
+- **candidate-stated** [em-cindy-holscher-00171] The captured record did not show sustained water/Ogallala policy discussion. Do not inflate rural/agriculture messaging into a detailed water platform without more evidence.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:309
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-01663] School Choice / Parental Rights in Education: One of her signature issues. Fiercely opposes private-school vouchers, calling them "a scam, a transfer of wealth to the already rich" and arguing that 60 Kansas counties have no private schools, making vouchers useless for most rural families. Strong advocate for public school funding. Walked from Shawnee to Topeka with education advocates to push for school funding increases.
+  - Source: memory/candidates/cindy-holscher/site-profile.md:27
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-01666] Tariffs / Agriculture: Opposes Trump tariffs, saying the federal government inflicted "a completely self-inflicted wound" on Kansas farmers.
+  - Source: memory/candidates/cindy-holscher/site-profile.md:33
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-02182] "summary": "No sustained water-policy or Ogallala Aquifer platform was confirmed.",
+  - Source: ui/src/data/v2/cindy-holscher.ts:575
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-cindy-holscher-02312] "stance": "One of her signature issues. Fiercely opposes private-school vouchers, calling them \"a scam, a transfer of wealth to the already rich\" and arguing that 60 Kansas counties have no private schools, making vouchers useless for most rural families. Strong advocate for public school funding. Walked from Shawnee to Topeka with education advocates to push for school funding increases."
+  - Source: ui/src/data/candidates.ts:19560
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00003] Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign priorities page says she will focus on keeping down essential costs such as healthcare, childcare, groceries, and gas, and her campaign news page includes a February 3, 2026 rollout of a "Common Sense and Lower Costs" agenda ([source](https://cindyforkansas.com/priorities/), [source](https://cindyforkansas.com/news/)).
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00055] | s-kansas-reflector-debate | secondary | https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/ | published 2026-03-08; accessed 2026-05-19 | Democratic debate coverage on affordability, healthcare, rural Kansas | healthcare, affordability |
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00769] > -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-01117] [Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-02332] "source": "Kansas Reflector, March 8, 2026, https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00124] Campaign biography says Holscher's legislative efforts lowered costs by ending the food sales tax, removing the tax on Social Security, and implementing childcare tax credits.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:180
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00125] 2025 vote: Holscher voted yea on SB 69, extending rural opportunity zone benefits and adding down-payment assistance and childcare reimbursement options. Source: s-ksleg-vote-2025.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:184
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-00131] Campaign priorities call for Medicaid expansion and say expansion would lower costs, expand access, and shore up rural hospitals. The Feb. 3, 2026 release includes expanding Medicaid as a lower-costs plank. Social posts focus on ACA subsidies and healthcare affordability. Forum coverage reported Holscher supported access to reproductive healthcare.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:200
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-00004] Holscher's public biography is anchored in public schools, a working-class family story, and the Brownback-era fight over Kansas finances. Her campaign about page describes her as the daughter of a union construction worker and an elementary school custodian, raised on a farm, a first-generation college graduate, and the mother of three Kansas public-school graduates ([source](https://cindyforkansas.com/about/)). On Bluesky, she wrote on November 19, 2025 that she first ran for office "to end the Brownback experiment and get our schools back on track" and was now running for governor to make life more affordable ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m5zddxnft225)). She also posted on October 29, 2025 that she would fight to fund schools, stop vouchers, and put children first ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m4e2gws2hc2m)).
+  - Source: https://cindyforkansas.com/about/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-cindy-holscher-02336] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-cindy-holscher-00105] Campaign biography says Holscher was raised on a farm, is the daughter of a veteran/construction worker/union member/farmer and an elementary-school custodian, became the first college graduate in her family, has lived in Kansas for over 25 years with husband Greg, and has three children who graduated from Kansas public schools.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:139
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-00216] She says she was raised on a farm, became the first college graduate in her family, and has lived in Kansas with husband Greg and their three kids for more than 25 years.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:13
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-00498] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:646
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-01507] Democratic primary: Senator Ethan Corson (Fairway attorney, emphasizes bipartisan deal-making, helped eliminate the grocery sales tax), Senator Cindy Holscher (Overland Park, farm-raised, led repeal of Brownback tax cuts, founded Bipartisan Women's Caucus).
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2424
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-cindy-holscher-00006] Holscher also uses her social feed to argue that federal decisions are raising Kansas costs. Healthcare posts include ACA subsidies, Medicaid expansion, rural hospitals, disability services, mental health, vaccine policy, and health-agency decisions. On September 25, 2025, she posted that if Congress did not restore affordable-care tax credits, more than 100,000 Kansans would lose healthcare ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lzoibislgg2v)). On January 8, 2026, she wrote that thousands of Kansans faced skyrocketing healthcare costs and that Congress should extend ACA subsidies ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3mbx4kgkl6227)). Her campaign priorities page calls for Medicaid expansion and says expansion would help shore up rural hospitals ([source](https://cindyforkansas.com/priorities/)).
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3lzoibislgg2v
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-00007] On agriculture and rural economics, Holscher's feed links her farm background to tariffs, crop markets, sorghum, soybeans, beef imports, rural hospitals, and rural cost pressure. On September 10, 2025, she posted that tariff wars were devastating Kansas farmers and that wheat, corn, soybeans, and other crops were not showing positive cash flows ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lyig37yee22v)). On September 25, 2025, she wrote that Kansas farmers are among the world's top sorghum producers, but tariffs had hurt foreign markets and prices ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lzmu5xcw4r2s)). In November 2025, Kansas Reflector reported that Holscher and Ethan Corson were shaping their Democratic campaigns to appeal to rural voters ([source](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shapin…
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3lyig37yee22v
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-00048] | s-bsky-wildfires | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3mm6dk33nu22o | posted 2026-05-19; API read 2026-05-19 | Southwest Kansas wildfire post; 1 like, 0 reposts, 0 replies, 0 quotes at readback | public safety, rural/community |
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3mm6dk33nu22o
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-00052] | s-bsky-tariffs-2025 | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3lyig37yee22v | posted 2025-09-10; local harvest | Tariffs and Kansas farmers | agriculture |
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3lyig37yee22v
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01850] The [about page](https://cindyforkansas.com/about/) emphasizes a working-class biography: daughter of a union construction worker and an elementary school custodian, raised on a farm, first-generation college graduate, wife and mother of three Kansas public-school graduates, and former House member who helped reverse the Brownback tax experiment.
+  - Source: https://cindyforkansas.com/about/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01854] Kansas Reflector reported Holscher's launch on June 12, 2025, describing her focus on schools and "kitchen table" issues and quoting her concern that housing and food were expensive ([source](https://kansasreflector.com/2025/06/12/democrat-steps-forward-in-race-for-kansas-governor-focuses-on-schools-and-kitchen-table-issues/)).
+  - Source: https://kansasreflector.com/2025/06/12/democrat-steps-forward-in-race-for-kansas-governor-focuses-on-schools-and-kitchen-table-issues/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01855] Kansas Reflector coverage of a March 8, 2026 Democratic debate described the field emphasizing affordability, health care, and rural Kansas; the existing candidate file quotes Holscher warning about cuts to Medicaid, Social Security, and ACA tax credits ([source](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)).
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01857] Kansas Reflector coverage from November 25, 2025 described Holscher and Ethan Corson shaping Democratic campaigns to appeal to rural voters ([source](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)).
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-cindy-holscher-00011] The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics ([harvest](social-harvest.md#visible-absences)). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to reproductive healthcare -- but abortion was not a high-frequency original Bluesky topic in the captured period ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). Faith references appear occasionally, including Jewish holiday greetings and criticism of the Kansas Catholic Conference's immigration stance, but the social harvest did not confirm a current ch…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Confidence/use: likely / use
+- **faith-community-record** [em-cindy-holscher-00689] This is not surprising -- Ellis County was settled by German-Catholic Volga Germans in the 1870s, and Catholicism remains the dominant faith tradition. The three Catholic parishes in Hays (St. Joseph, Immaculate Heart of Mary, St. Nicholas of Myra) plus the surrounding rural parishes form the backbone of the local power structure.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:985
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-cindy-holscher-00857] Holscher has the most compelling personal narrative in the Democratic field -- granddaughter of tenant farmers, daughter of a construction worker and school custodian, first-generation college graduate, single mom who worked her way up through Sprint. Her legislative record is genuinely bipartisan, and her 9 years in the statehouse give her more governing experience than Corson. But the Kelly-endorsed Corson has outflanked her on money and endorsements. Her school voucher critique is razor-sharp and resonates in rural Kansas where there simply are no private schools. Her silence on faith is notable -- in Kansas politics, that is a gap that opponents will exploit. The pressure campaign story is politically damaging to the Democratic establishment more than to Holscher herself.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:1272
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-cindy-holscher-02239] "No current church affiliation, candidate-controlled gun-policy plank, marriage-specific policy plank, or detailed water/Ogallala policy plank was confirmed."
+  - Source: memory/candidates/cindy-holscher/v2-issues.yaml:692
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-cindy-holscher-02181] "observation": "September 10, 2025 post criticized tariff effects on Kansas crop economics.",
+  - Source: ui/src/data/v2/cindy-holscher.ts:566
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-cindy-holscher-02302] "theirRecord": "Holscher served in the Kansas House from 2017 through 2020 and has served in the Kansas Senate since 2021. She was part of the coalition that reversed key pieces of the Brownback tax experiment in 2017, pushed for Medicaid expansion, and became a frequent Democratic voice on school funding, reproductive rights, and consumer concerns. One of her clearest institutional projects was co-founding the Women's Bipartisan Caucus in the Legislature, an effort meant to create cross-party working relationships in a polarized statehouse. She has also made opposition to private-school vouchers a signature issue, arguing that the policy would drain public money from local schools while doing little for many rural counties that have no private-school option at all. Her 2026 governor's race also carries a more personal political fight. In August 2025, Holscher publicly accused aides to …
+  - Source: ui/src/data/candidates.ts:19536
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-01119] [Kansas Reflector: Rural voter appeal (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Confidence/use: likely / use
+- **background-context** [em-cindy-holscher-01138] [Kansas Reflector: Rural voters (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Confidence/use: likely / use
+- **background-context** [em-cindy-holscher-01159] [Schooley Mitchell: Eberly Farm / Kids Closet story](https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/)
+  - Source: https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/
+  - Confidence/use: likely / use
+- **background-context** [em-cindy-holscher-00129] Issue Area 3 - Healthcare, Medicaid, Rural Hospitals, and Reproductive Care
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:194
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00165] Issue Area 8 - Agriculture, Rural Economy, Tariffs, and Water
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:293
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00315] His identified priorities: water, population growth, economic development
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:190
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0001] The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics ([harvest](social-harvest.md#visible-absences)). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to reproductive healthcare -- but abortion was not a high-frequency original Bluesky topic in the captured period ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). Faith references appear occasionally, including Jewish holiday greetings and criticism of the Kansas Catholic Conference's immigration stance, but the social harvest did not confirm a current ch…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0002] Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign priorities page says she will focus on keeping down essential costs such as healthcare, childcare, groceries, and gas, and her campaign news page includes a February 3, 2026 rollout of a "Common Sense and Lower Costs" agenda ([source](https://cindyforkansas.com/priorities/), [source](https://cindyforkansas.com/news/)).
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0003] Holscher's public biography is anchored in public schools, a working-class family story, and the Brownback-era fight over Kansas finances. Her campaign about page describes her as the daughter of a union construction worker and an elementary school custodian, raised on a farm, a first-generation college graduate, and the mother of three Kansas public-school graduates ([source](https://cindyforkansas.com/about/)). On Bluesky, she wrote on November 19, 2025 that she first ran for office "to end the Brownback experiment and get our schools back on track" and was now running for governor to make life more affordable ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m5zddxnft225)). She also posted on October 29, 2025 that she would fight to fund schools, stop vouchers, and put children first ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m4e2gws2hc2m)).
+  - Source: https://cindyforkansas.com/about/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0011] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-cindy-holscher-0013] The captured Bluesky feed strongly features education, affordability, healthcare, redistricting, tariffs/agriculture, and campaign outreach. It contains less sustained original discussion of gun policy, water policy/Ogallala depletion, abortion policy after launch, or detailed state-budget mechanics than the website priorities and news coverage do.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong cindyforkansas.com post** [soc-cindy-holscher-0025] The [about page](https://cindyforkansas.com/about/) emphasizes a working-class biography: daughter of a union construction worker and an elementary school custodian, raised on a farm, first-generation college graduate, wife and mother of three Kansas public-school graduates, and former House member who helped reverse the Brownback tax experiment.
+  - Source: https://cindyforkansas.com/about/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong Bluesky post** [soc-cindy-holscher-0031] Holscher also uses her social feed to argue that federal decisions are raising Kansas costs. Healthcare posts include ACA subsidies, Medicaid expansion, rural hospitals, disability services, mental health, vaccine policy, and health-agency decisions. On September 25, 2025, she posted that if Congress did not restore affordable-care tax credits, more than 100,000 Kansans would lose healthcare ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lzoibislgg2v)). On January 8, 2026, she wrote that thousands of Kansans faced skyrocketing healthcare costs and that Congress should extend ACA subsidies ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3mbx4kgkl6227)). Her campaign priorities page calls for Medicaid expansion and says expansion would help shore up rural hospitals ([source](https://cindyforkansas.com/priorities/)).
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3lzoibislgg2v
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong kansasreflector.com post** [soc-cindy-holscher-0033] Kansas Reflector coverage of a March 8, 2026 Democratic debate described the field emphasizing affordability, health care, and rural Kansas; the existing candidate file quotes Holscher warning about cuts to Medicaid, Social Security, and ACA tax credits ([source](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)).
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-cindy-holscher-0034] Cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics: 76 posts (18%).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky like** [soc-cindy-holscher-0057] | s-bsky-wildfires | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3mm6dk33nu22o | posted 2026-05-19; API read 2026-05-19 | Southwest Kansas wildfire post; 1 like, 0 reposts, 0 replies, 0 quotes at readback | public safety, rural/community |
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3mm6dk33nu22o
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 13. Local governance / transparency / ethics
+
+Local governance / transparency / ethics: 33 selected evidence items from 654 mapped rows. Public URL-backed rows: 133.
+
+### Evidence
+- **documented-record** [em-cindy-holscher-00003] Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign priorities page says she will focus on keeping down essential costs such as healthcare, childcare, groceries, and gas, and her campaign news page includes a February 3, 2026 rollout of a "Common Sense and Lower Costs" agenda ([source](https://cindyforkansas.com/priorities/), [source](https://cindyforkansas.com/news/)).
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00005] Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse school budget cuts, and founded the Women's Bipartisan Caucus ([source](https://cindyforkansas.com/about/)). On April 6, 2025, before her formal governor launch, she posted that vouchers are a scam and a transfer of wealth from working-class taxpayers to richer families ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lm5ms3vwyk2e)). A December 16, 2025 Bluesky post promoted her interview with Josh Cowen about public education, winning in red districts, values, and the Brownback tax experiment; that post had the highest repost count among her captured original Bluesky posts ([source](https://bsky.app/profile/cindyfo…
+  - Source: https://cindyforkansas.com/about/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00008] Holscher's campaign identity includes a clear anti-establishment lane inside the Democratic primary. KMUW / Kansas Reflector coverage of the April 26, 2026 Democratic forum reported that she positioned herself as an anti-establishment candidate with a record of winning Republican-held legislative districts ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). In that same coverage, she responded to Ethan Corson's endorsements by saying she was running on her record, not establishment coattails, and said her coalition was nurses, teachers, neighbors, farmers, veterans, and union members. On March 20, 2026, she posted, "I will never take Core Civic money and I call on all politicians who have taken their money to return it" ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3mhhbtc2uqs2g)…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00028] | s-sos-candidate-info-2026 | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing framework; Governor/Lt. Governor office up in 2026; primary filing deadline June 1, 2026; candidate not filed until petition/declaration and fee received | official status |
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-cindy-holscher-00033] | s-ksleg-member | primary | https://www.kslegislature.gov/b2025_26/legislators/sen_holscher_cindy_1/ | accessed 2026-05-19 | Senate District 8, Johnson County; Democrat; Senate Minority Whip; House 2017-2020; Senate 2021-present; committees | officeholder status, record |
+  - Source: https://www.kslegislature.gov/b2025_26/legislators/sen_holscher_cindy_1/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-cindy-holscher-00038] | s-ksleg-sb143 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb143/ | accessed 2026-05-19 | Holscher-sponsored legislative term-limits bill | governance |
+  - Source: https://www.kslegislature.gov/li/b2025_26/measures/sb143/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-cindy-holscher-00040] | s-campaign-home | primary | https://cindyforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage and campaign identity | biography, status |
+  - Source: https://cindyforkansas.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00041] | s-campaign-about | primary | https://cindyforkansas.com/about/ | accessed 2026-05-19 | Biography, family, public schools, Brownback-era school-funding narrative, legislative service | biography, education, taxes |
+  - Source: https://cindyforkansas.com/about/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-cindy-holscher-00004] Holscher's public biography is anchored in public schools, a working-class family story, and the Brownback-era fight over Kansas finances. Her campaign about page describes her as the daughter of a union construction worker and an elementary school custodian, raised on a farm, a first-generation college graduate, and the mother of three Kansas public-school graduates ([source](https://cindyforkansas.com/about/)). On Bluesky, she wrote on November 19, 2025 that she first ran for office "to end the Brownback experiment and get our schools back on track" and was now running for governor to make life more affordable ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m5zddxnft225)). She also posted on October 29, 2025 that she would fight to fund schools, stop vouchers, and put children first ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m4e2gws2hc2m)).
+  - Source: https://cindyforkansas.com/about/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-cindy-holscher-00012] Holscher's confirmed platform footprint is broad but unevenly measurable. The official website links Facebook, X, and Instagram; Linktree confirms Instagram, TikTok, Facebook, X, Threads, website, donation and volunteer links, launch video, and Bluesky ([source](https://cindyforkansas.com/about/), [source](https://linktr.ee/cindyforkansas)). Bluesky is the strongest measurable channel in this pass, with 204 followers, 9 follows, and 596 total posts at capture ([harvest](social-harvest.md#bluesky-profile)). Linktree's Threads preview showed 1.7K followers and 0 threads. Facebook, Instagram, TikTok, X, and Threads were linked or confirmed but did not expose reliable logged-out post-level data; no candidate-controlled Truth Social, Gab, Gettr, Reddit, Substack, LinkedIn campaign account, or YouTube channel was confirmed.
+  - Source: https://cindyforkansas.com/about/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-cindy-holscher-00030] | s-kpdc-statewide-2026 | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm | accessed 2026-05-19 | KPDC statewide index lists Holscher under gubernatorial candidates and links AT/202601 forms | official status, finance |
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-cindy-holscher-00032] | s-kpdc-202601 | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CH_202601.pdf | filed 2026-01-13; accessed 2026-05-19 | 2025 year-end receipts, expenditures, cash-on-hand, in-kind, itemized schedule | finance |
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CH_202601.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-cindy-holscher-00036] | s-ksleg-sb136 | primary | https://www.kslegislature.gov/bills/SB136/ | accessed 2026-05-19 | Holscher-sponsored bill limiting independent-expenditure political committee contributions and adding reporting/audit requirements | democracy, campaign finance |
+  - Source: https://www.kslegislature.gov/bills/SB136/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-cindy-holscher-01015] > -- [Kansas Reflector, January 19, 2026](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)
+  - Source: https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/
+  - Confidence/use: likely / use
+- **social-online-signal** [em-cindy-holscher-00049] | s-bsky-corecivic | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3mhhbtc2uqs2g | posted 2026-03-20; API read 2026-05-19 | CoreCivic money pledge/call; 4 likes, 1 repost, 1 reply, 0 quotes at readback | immigration, campaign finance |
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3mhhbtc2uqs2g
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-00051] | s-bsky-education-2025 | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3m4e2gws2hc2m | posted 2025-10-29; local harvest | Public education and vouchers | education |
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3m4e2gws2hc2m
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-00052] | s-bsky-tariffs-2025 | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3lyig37yee22v | posted 2025-09-10; local harvest | Tariffs and Kansas farmers | agriculture |
+  - Source: https://bsky.app/profile/cindyforkansas.bsky.social/post/3lyig37yee22v
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01858] Johnson County Post coverage from March 13, 2023 remains a useful pre-campaign benchmark for her voucher message; she called school-choice rhetoric a transfer of taxpayer money to wealthier families ([source](https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/)).
+  - Source: https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01786] Substack: no official campaign Substack confirmed; education writer Josh Cowen featured Holscher in a newsletter that she amplified on Bluesky.
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:22
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01819] 2025-11-26 -- Holscher posted that her team helped distribute turkeys to Kansas families in Kansas City, Kansas.
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:64
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01822] 2025-11-19 -- "When I first ran for office, it was to end the Brownback experiment and get our schools back on track."
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:68
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01886] Candidate-controlled website/news range checked: official pages visible through 2026-05-11, with press releases visible through 2026-04-29.
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:152
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-cindy-holscher-00422] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **faith-community-record** [em-cindy-holscher-00178] Public sources reviewed here do not identify a current church affiliation. Local social harvest found occasional religious-community references, including Jewish holiday greetings and criticism of Kansas Catholic Conference immigration stance, but no current congregation or religious-liberty plank.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:331
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-cindy-holscher-00278] CONFIRMED = Named church/denomination found in official profile, news article, or candidate bio
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:117
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-cindy-holscher-00307] Assessment: The complete absence of faith references in any public profile is notable. This does not mean she is not a churchgoer -- many local officials simply do not publicize their church life. However, in a community as church-centric as Hays, the silence is itself a data point. Recommend direct inquiry.
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:168
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-cindy-holscher-02302] "theirRecord": "Holscher served in the Kansas House from 2017 through 2020 and has served in the Kansas Senate since 2021. She was part of the coalition that reversed key pieces of the Brownback tax experiment in 2017, pushed for Medicaid expansion, and became a frequent Democratic voice on school funding, reproductive rights, and consumer concerns. One of her clearest institutional projects was co-founding the Women's Bipartisan Caucus in the Legislature, an effort meant to create cross-party working relationships in a polarized statehouse. She has also made opposition to private-school vouchers a signature issue, arguing that the policy would drain public money from local schools while doing little for many rural counties that have no private-school option at all. Her 2026 governor's race also carries a more personal political fight. In August 2025, Holscher publicly accused aides to …
+  - Source: ui/src/data/candidates.ts:19536
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-00341] [City Manager's Office - Hays](https://www.haysusa.com/149/City-Managers-Office)
+  - Source: https://www.haysusa.com/149/City-Managers-Office
+  - Confidence/use: confirmed / use
+- **background-context** [em-cindy-holscher-00353] [Kansas Sheriffs' Association - Ellis County](https://www.kansassheriffs.org/county_map/county/914)
+  - Source: https://www.kansassheriffs.org/county_map/county/914
+  - Confidence/use: likely / use
+- **background-context** [em-cindy-holscher-00368] [HaysPost: New Ellis County Attorney](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1)
+  - Source: https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1
+  - Confidence/use: likely / use
+- **background-context** [em-cindy-holscher-00411] [FHSU: Germans from Russia in Ellis County](https://fhsuguides.fhsu.edu/kansasheritage/elliscounty)
+  - Source: https://fhsuguides.fhsu.edu/kansasheritage/elliscounty
+  - Confidence/use: likely / use
+- **background-context** [em-cindy-holscher-00430] [Ellis County Register of Deeds](https://www.ellisco.net/100/Register-of-Deeds)
+  - Source: https://www.ellisco.net/100/Register-of-Deeds
+  - Confidence/use: confirmed / use
+- **background-context** [em-cindy-holscher-00431] [Kansas Register of Deeds Association](https://ksrods.com/contact-information/ellis-county-el-nc-district/)
+  - Source: https://ksrods.com/contact-information/ellis-county-el-nc-district/
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0002] Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign priorities page says she will focus on keeping down essential costs such as healthcare, childcare, groceries, and gas, and her campaign news page includes a February 3, 2026 rollout of a "Common Sense and Lower Costs" agenda ([source](https://cindyforkansas.com/priorities/), [source](https://cindyforkansas.com/news/)).
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0003] Holscher's public biography is anchored in public schools, a working-class family story, and the Brownback-era fight over Kansas finances. Her campaign about page describes her as the daughter of a union construction worker and an elementary school custodian, raised on a farm, a first-generation college graduate, and the mother of three Kansas public-school graduates ([source](https://cindyforkansas.com/about/)). On Bluesky, she wrote on November 19, 2025 that she first ran for office "to end the Brownback experiment and get our schools back on track" and was now running for governor to make life more affordable ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m5zddxnft225)). She also posted on October 29, 2025 that she would fight to fund schools, stop vouchers, and put children first ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m4e2gws2hc2m)).
+  - Source: https://cindyforkansas.com/about/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0004] Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse school budget cuts, and founded the Women's Bipartisan Caucus ([source](https://cindyforkansas.com/about/)). On April 6, 2025, before her formal governor launch, she posted that vouchers are a scam and a transfer of wealth from working-class taxpayers to richer families ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3lm5ms3vwyk2e)). A December 16, 2025 Bluesky post promoted her interview with Josh Cowen about public education, winning in red districts, values, and the Brownback tax experiment; that post had the highest repost count among her captured original Bluesky posts ([source](https://bsky.app/profile/cindyfo…
+  - Source: https://cindyforkansas.com/about/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous cindyforkansas.com online-reference** [soc-cindy-holscher-0005] | s-campaign-priorities | primary | https://cindyforkansas.com/priorities/ | accessed 2026-05-19 | Common Sense and Lower Costs agenda; Medicaid, school funding, labor, housing, marijuana, redistricting, term limits, corporate PAC limits | platform |
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kmuw.org online-reference** [soc-cindy-holscher-0006] Holscher's campaign identity includes a clear anti-establishment lane inside the Democratic primary. KMUW / Kansas Reflector coverage of the April 26, 2026 Democratic forum reported that she positioned herself as an anti-establishment candidate with a record of winning Republican-held legislative districts ([source](https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum)). In that same coverage, she responded to Ethan Corson's endorsements by saying she was running on her record, not establishment coattails, and said her coalition was nurses, teachers, neighbors, farmers, veterans, and union members. On March 20, 2026, she posted, "I will never take Core Civic money and I call on all politicians who have taken their money to return it" ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3mhhbtc2uqs2g)…
+  - Source: https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous linktr.ee online-reference** [soc-cindy-holscher-0007] | s-linktree | primary | https://linktr.ee/cindyforkansas | accessed in local harvest 2026-05-11 | Campaign social/presence links | online presence |
+  - Source: https://linktr.ee/cindyforkansas
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-cindy-holscher-0008] Campaign website: https://cindyforkansas.com/ is active. The footer and pages link Facebook, X, and Instagram; the campaign news page is current through May 14, 2026.
+  - Source: https://cindyforkansas.com/`
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0009] Holscher's confirmed platform footprint is broad but unevenly measurable. The official website links Facebook, X, and Instagram; Linktree confirms Instagram, TikTok, Facebook, X, Threads, website, donation and volunteer links, launch video, and Bluesky ([source](https://cindyforkansas.com/about/), [source](https://linktr.ee/cindyforkansas)). Bluesky is the strongest measurable channel in this pass, with 204 followers, 9 follows, and 596 total posts at capture ([harvest](social-harvest.md#bluesky-profile)). Linktree's Threads preview showed 1.7K followers and 0 threads. Facebook, Instagram, TikTok, X, and Threads were linked or confirmed but did not expose reliable logged-out post-level data; no candidate-controlled Truth Social, Gab, Gettr, Reddit, Substack, LinkedIn campaign account, or YouTube channel was confirmed.
+  - Source: https://cindyforkansas.com/about/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous cindyforkansas.com online-reference** [soc-cindy-holscher-0010] | s-campaign-lower-costs | primary | https://cindyforkansas.com/sen-cindy-holscher-unveils-2026-common-sense-and-lower-costs-agenda-focused-on-working-families/ | published 2026-02-03; accessed 2026-05-19 | Lower-costs agenda and issue specifics | platform |
+  - Source: https://cindyforkansas.com/sen-cindy-holscher-unveils-2026-common-sense-and-lower-costs-agenda-focused-on-working-families/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0011] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 14. Environment / energy / land use
+
+Environment / energy / land use: 15 selected evidence items from 15 mapped rows. Public URL-backed rows: 6.
+
+### Evidence
+- **documented-record** [em-cindy-holscher-00003] Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign priorities page says she will focus on keeping down essential costs such as healthcare, childcare, groceries, and gas, and her campaign news page includes a February 3, 2026 rollout of a "Common Sense and Lower Costs" agenda ([source](https://cindyforkansas.com/priorities/), [source](https://cindyforkansas.com/news/)).
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use
+- **documented-record** [em-cindy-holscher-00029] | s-sos-candidate-list-blocked | primary | https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx | attempted 2026-05-19 | Official candidate-list endpoint returned JavaScript/CloudFront blocking in this environment | blocker |
+  - Source: https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **documented-record** [em-cindy-holscher-00023] Kansas SOS confirms the 2026 filing framework: Governor/Lt. Governor is an office to be elected in 2026; national, state, legislative, and judicial candidates file with the Secretary of State; and a candidate is not considered filed until the petition or declaration and fee are received. The primary filing deadline is noon Monday, June 1, 2026. The live SOS candidate-list page could not be read directly in this environment because it returned JavaScript/CloudFront blocking. Treat Holscher as campaign-finance-filed and campaign-active, with direct SOS candidate-list/ballot certification still unconfirmed in this pass.
+  - Source: memory/candidates/cindy-holscher/raw-dump-v2.md:15
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01340] The City of Hays manages its own water utility through the city commission
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2086
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01717] SOS ballot caveat: Kansas SOS candidate-information page confirms Governor/Lt. Governor is up in 2026, statewide candidates file with the Secretary of State, and the primary filing deadline is noon Monday, June 1, 2026. The live SOS candidate-list page was blocked by JavaScript/CloudFront verification in this environment, so this pass did not directly confirm a readable SOS candidate-list row or final ballot certification.
+  - Source: memory/candidates/cindy-holscher/sleuth-pass.md:18
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01753] Direct SOS candidate-list row could not be read because the live candidate-list endpoint returned JavaScript verification / CloudFront blocking in this environment.
+  - Source: memory/candidates/cindy-holscher/sleuth-pass.md:65
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01897] "Holscher is campaign-finance-filed and campaign-active for Governor, but the live Kansas SOS candidate-list row could not be read directly in this environment."
+  - Source: memory/candidates/cindy-holscher/v2-issues.yaml:7
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-cindy-holscher-01922] "Attempted official candidate-list readback returned JavaScript verification / CloudFront blocking in this environment"
+  - Source: memory/candidates/cindy-holscher/v2-issues.yaml:41
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-cindy-holscher-02336] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-cindy-holscher-01851] The [priorities page](https://cindyforkansas.com/priorities/) lists a "Common Sense & Lower Costs" agenda: lowering healthcare, childcare, grocery, and gas costs; minimum wage; paid sick time; property-tax relief; Medicaid expansion; free school lunches; tax exemptions for essential products; special-education funding; housing security; medical marijuana; independent redistricting; term limits; and limits on corporate PAC money.
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-cindy-holscher-01872] Personal, family, holidays, community notes, congratulations, weather, sports, reading, pets, and uncategorized items: 76 posts (18%).
+  - Source: memory/candidates/cindy-holscher/social-harvest.md:135
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-cindy-holscher-00039] | s-ksleg-calendar-sb144 | primary | https://www.kslegislature.gov/documents/view/?apn=b2025_26%2Fyear1%2Fready_for_publication%2Fcalendar%2Fdaily_calendar_senate_20250203181126.odt | accessed 2026-05-19 | Calendar lists SB 144 by Senator Holscher on rooftop solar covenants | energy/property rights |
+  - Source: https://www.kslegislature.gov/documents/view/?apn=b2025_26%2Fyear1%2Fready_for_publication%2Fcalendar%2Fdaily_calendar_senate_20250203181126.odt
+  - Confidence/use: confirmed / use
+- **background-context** [em-cindy-holscher-01175] [NOLN: Strickland Brothers franchise owner](https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor)
+  - Source: https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor
+  - Confidence/use: likely / use
+- **background-context** [em-cindy-holscher-01043] Largest national franchise owner, Strickland Brothers 10 Minute Oil Change -- locations across Kansas including Andover, El Dorado, Derby, Pittsburg, Fort Scott, Independence
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:1620
+  - Confidence/use: unknown / background-only
+- **background-context** [em-cindy-holscher-01338] Water District / Utility Boards
+  - Source: memory/candidates/cindy-holscher/raw-dump.md:2084
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-cindy-holscher-0002] Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign priorities page says she will focus on keeping down essential costs such as healthcare, childcare, groceries, and gas, and her campaign news page includes a February 3, 2026 rollout of a "Common Sense and Lower Costs" agenda ([source](https://cindyforkansas.com/priorities/), [source](https://cindyforkansas.com/news/)).
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-cindy-holscher-0011] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong cindyforkansas.com post** [soc-cindy-holscher-0026] The [priorities page](https://cindyforkansas.com/priorities/) lists a "Common Sense & Lower Costs" agenda: lowering healthcare, childcare, grocery, and gas costs; minimum wage; paid sick time; property-tax relief; Medicaid expansion; free school lunches; tax exemptions for essential products; special-education funding; housing security; medical marijuana; independent redistricting; term limits; and limits on corporate PAC money.
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-cindy-holscher-0068] Personal, family, holidays, community notes, congratulations, weather, sports, reading, pets, and uncategorized items: 76 posts (18%).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.

@@ -1,0 +1,1744 @@
+# Fixed 14-Issue Matrix — ty-masterson — 2026-05-20
+
+This matrix is built from `evidence-matrix.json`, `social-evidence-matrix.json`, and `source-audit.json`. It is a candidate-rebuild input, not final public prose.
+
+## 1. Abortion / life
+
+Abortion / life: 23 selected evidence items from 66 mapped rows. Public URL-backed rows: 3.
+
+### Evidence
+- **candidate-stated** [em-ty-masterson-00167] Debate coverage says the candidates reached platform consensus on judicial selection reform, marijuana, abortion, support for ICE/federal law enforcement, energy, and cooperation with federal government.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:286
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-00935] Reproductive Rights: Supports reproductive freedom
+  - Source: memory/candidates/ty-masterson/raw-dump.md:1209
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-04104] [Kansas Reflector: DEI Law](https://kansasreflector.com/2024/04/19/kansas-governor-allows-anti-dei-bill-to-become-law-vetoes-anti-abortion-and-election-bills/)
+  - Source: https://kansasreflector.com/2024/04/19/kansas-governor-allows-anti-dei-bill-to-become-law-vetoes-anti-abortion-and-election-bills/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00285] This pass did not pull a current abortion-specific bill/vote record for Masterson; use prior raw-dump only with source verification.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:502
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-00286] Need primary or direct candidate-controlled source for detailed abortion policy, exceptions, and executive actions.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:505
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-01942] > "How do we defend innocent life? I think this is one of the civil rights issues of our time. We have a Supreme Court that has found this right to abortion that is nowhere found in that constitution. It's our fastest-growing industry in the state of Kansas."
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2806
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-01958] As governor, supported state constitutional amendment to remove abortion rights protections (failed at ballot in 2022)
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2834
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-01996] > "We have a Supreme Court that has found this right to abortion that is nowhere found in that constitution. It's our fastest-growing industry in the state of Kansas."
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2905
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-02157] 1. The Abortion Ruling (2019): The Kansas Supreme Court ruled 6-1 that the Kansas Constitution protects a right to "personal autonomy," including the right to decide whether to continue a pregnancy. This made Kansas one of the strongest states for abortion rights -- decided by appointed justices, not elected ones.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3177
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-02160] Kansas Reflector explicitly headlined their coverage: "Kansas Senate adopts plan to elect Supreme Court justices, a step toward overturning abortion rights."
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3183
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-04389] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-04409] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-ty-masterson-00724] Signed abortion restriction legislation
+  - Source: reports/faith-church-investigation-2026-03-31.md:771
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ty-masterson-01874] His faith is expressed more through action (humanitarian service, pro-life positions, protecting faith-based organizations) than through verbal testimony
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2700
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ty-masterson-03372] Abortion / Sanctity of Life: Opposes abortion. At the January 2026 GOP debate, all six Republican candidates found unity on abortion opposition. Masterson has led the Kansas Senate through fights over abortion policy, and his campaign language ties the sanctity of life to his faith: "every life is precious -- it doesn't matter your background, your ethnicity, or your color... we're all one people, created by God."
+  - Source: memory/candidates/ty-masterson/site-profile.md:15
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ty-masterson-03493] Kansas Reflector snippets say Masterson spoke at the 2026 March for Life rally and described abortion/courts in faith-inflected terms.
+  - Source: memory/candidates/ty-masterson/sleuth-pass.md:87
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-ty-masterson-03036] Abortion Votes -- THE KEY CONTROVERSY
+  - Source: memory/candidates/ty-masterson/raw-dump.md:4671
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00282] Abortion / Sanctity of Life
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:495
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00284] Kansas Reflector snippets say Masterson spoke at the 2026 March for Life rally and connected courts to abortion.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:499
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00361] Masterson has led the Kansas Senate through major fights over taxes, education, elections, and abortion policy.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:74
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-01815] Abortion:
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2610
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-01816] Described abortion as "one of the civil rights issues of our time"
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2611
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-01817] Kansas should shed its status as "Midwest magnet for abortion"
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2612
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-ty-masterson-0005] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-ty-masterson-0006] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0131] Debate coverage says the candidates reached platform consensus on judicial selection reform, marijuana, abortion, support for ICE/federal law enforcement, energy, and cooperation with federal government.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0132] "text": "Debate coverage says all six Republican candidates at the January 2026 Kansas GOP debate supported the conservative platform on the right to life. Existing local artifacts also note Masterson's faith language about every life being precious, but that statement came in an Israel/antisemitism interview and should not be used alone as a detailed abortion platform.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 2. LGBT / gender / parental rights
+
+LGBT / gender / parental rights: 24 selected evidence items from 50 mapped rows. Public URL-backed rows: 7.
+
+### Evidence
+- **candidate-stated** [em-ty-masterson-00993] Transgender Athletes: OPPOSES transgender girls competing in girls' sports (unusual for a Democrat)
+  - Source: memory/candidates/ty-masterson/raw-dump.md:1319
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-03373] Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.
+  - Source: memory/candidates/ty-masterson/site-profile.md:17
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-00005] Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank "Teach reading. Teach math. Not woke nonsense," citing low fourth-grade proficiency and promising higher pay for "good teachers," parental say, and accountability. ([source](https://www.mastersonforgovernor.com/about)) The biography page says he fought DEI in higher education, transgender participation in women's sports, and transgender surgeries for minors. ([source](https://www.mastersonforgovernor.com/services)) In a January 2026 indexed X post, Masterson wrote that Charlie Kirk was "martyred for freedom of speech" and said he was drafting legislation to protect free speech in K-12 classrooms. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-04102] [Kansas Reflector: SB 244 Bathroom Bill Veto](https://kansasreflector.com/2026/02/13/kansas-governor-vetoes-anti-trans-bathroom-bill-citing-numerous-and-significant-consequences/)
+  - Source: https://kansasreflector.com/2026/02/13/kansas-governor-vetoes-anti-trans-bathroom-bill-citing-numerous-and-significant-consequences/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00080] Claims tax cuts, anti-DEI/transgender-policy actions, election-integrity measures, and Senate leadership experience.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:108
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-00260] Campaign issue page and bio list DEI, women's sports, and gender-transition care for minors as record claims.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:447
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-01122] Education/Parental Rights: Fought for "parents' rights, fiscal responsibility" on school board
+  - Source: memory/candidates/ty-masterson/raw-dump.md:1560
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-02318] Why this matters: The Board of Education has been a battleground over science standards (evolution vs. intelligent design), sex education, school library books, and transgender student policies. In recent years, conservative and moderate factions have fought for control. The 2026 elections could shift the balance of power on the board.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3525
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-03377] School Choice / Parental Rights in Education: His campaign attacks what he calls the "woke agenda" in schools and government. He frames education reform as part of a broader conservative governing vision.
+  - Source: memory/candidates/ty-masterson/site-profile.md:25
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-03456] SB 244 official bill page and vote records: public-building bathroom/ID-sex-definition bill, veto overridden; Masterson is listed among Senate yeas on concurrence and veto override.
+  - Source: memory/candidates/ty-masterson/sleuth-pass.md:26
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-04409] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-ty-masterson-03539] The campaign biography page presents Masterson as a "husband, father, pa, results-oriented conservative, and fighter for working Kansans." It says his family attends NewSpring Church and claims he championed a $2 billion tax cut, fought DEI in higher education, opposed transgender participation in women's sports, opposed transgender surgeries for minors, and supported election-integrity measures. ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.mastersonforgovernor.com/services
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03546] Campaign biography page, captured 2026-05-11. The biography ties Masterson's public identity to faith, family, Butler County roots, Senate leadership, GoCreate, NewSpring Church, and anti-DEI / anti-transgender policy claims. ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.mastersonforgovernor.com/services
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03579] | Education, free speech, anti-"woke" messaging, DEI/transgender policy, and Charlie Kirk-related education politics | 7 | 23% |
+  - Source: memory/candidates/ty-masterson/social-harvest.md:84
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ty-masterson-04249] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-ty-masterson-00723] Signed the Adoption Protection Act as governor (allows religious adoption agencies to refuse placements to same-sex couples)
+  - Source: reports/faith-church-investigation-2026-03-31.md:770
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ty-masterson-01753] May 2018: Signed Senate Bill 284 granting legal protections to faith-based adoption agencies that cite religious beliefs for not placing children in LGBTQ+ homes
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2520
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ty-masterson-03463] | Campaign site | Found | Strongest candidate-controlled issue source. Maps to taxes, jobs, public safety, education, LGBTQ+ policy, elections, faith/church metadata. |
+  - Source: memory/candidates/ty-masterson/sleuth-pass.md:36
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-04101] [Kansas Reflector: Transgender Sports Ban Override](https://kansasreflector.com/2023/04/05/between-laughter-and-cursing-kansas-house-overrides-veto-of-transgender-sports-ban/)
+  - Source: https://kansasreflector.com/2023/04/05/between-laughter-and-cursing-kansas-house-overrides-veto-of-transgender-sports-ban/
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-00088] Values plank: cites DEI in higher education, transgender participation in women's sports, and gender-transition care for minors.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:121
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00102] Restricts state funds for gender-transitioning promotion.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:146
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00103] Prohibits providers from providing gender-transition care to minors whose gender identity is inconsistent with sex.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:147
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00117] Defines gender as biological sex at birth for statutory construction.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:178
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00118] Directs driver's-license and birth-certificate reissuance when necessary to correct gender/sex identification.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:179
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-ty-masterson-0006] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-ty-masterson-0007] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0008] The campaign biography page presents Masterson as a "husband, father, pa, results-oriented conservative, and fighter for working Kansans." It says his family attends NewSpring Church and claims he championed a $2 billion tax cut, fought DEI in higher education, opposed transgender participation in women's sports, opposed transgender surgeries for minors, and supported election-integrity measures. ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.mastersonforgovernor.com/services
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0009] Campaign biography page, captured 2026-05-11. The biography ties Masterson's public identity to faith, family, Butler County roots, Senate leadership, GoCreate, NewSpring Church, and anti-DEI / anti-transgender policy claims. ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.mastersonforgovernor.com/services
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-ty-masterson-0010] | Education, free speech, anti-"woke" messaging, DEI/transgender policy, and Charlie Kirk-related education politics | 7 | 23% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0133] Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0134] "observation": "Issue mapping: LGBTQ+ policy and family/children policy. Use official bill descriptions; do not infer motive from faith, party, or social associations.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 3. Education / curriculum / schools
+
+Education / curriculum / schools: 40 selected evidence items from 211 mapped rows. Public URL-backed rows: 27.
+
+### Evidence
+- **candidate-stated** [em-ty-masterson-00087] Education plank: says Kansas students are underperforming in reading/math; promises teacher pay for "good teachers," parent say, and accountability.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:120
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-00157] He said education funding may not change materially but should be revisited.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:271
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-00254] Salina Post debate says he advocated school choice.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:432
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-00390] STRONG INDICATOR = Family/school ties strongly suggest affiliation but no direct membership statement found
+  - Source: memory/candidates/ty-masterson/raw-dump.md:124
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-00992] School Vouchers: Opposes private schools receiving taxpayer funds or competing in public school athletics
+  - Source: memory/candidates/ty-masterson/raw-dump.md:1318
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-03477] Salina Post debate coverage says Masterson advocated school choice and tied education policy to the Working Family Tax Cut Act.
+  - Source: memory/candidates/ty-masterson/sleuth-pass.md:56
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-03478] HPPR/Kansas Reflector coverage says Masterson publicly shared White House praise for veto overrides involving private-school support.
+  - Source: memory/candidates/ty-masterson/sleuth-pass.md:57
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-03710] "Masterson said education policy should be revisited"
+  - Source: memory/candidates/ty-masterson/v2-issues.yaml:242
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-00005] Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank "Teach reading. Teach math. Not woke nonsense," citing low fourth-grade proficiency and promising higher pay for "good teachers," parental say, and accountability. ([source](https://www.mastersonforgovernor.com/about)) The biography page says he fought DEI in higher education, transgender participation in women's sports, and transgender surgeries for minors. ([source](https://www.mastersonforgovernor.com/services)) In a January 2026 indexed X post, Masterson wrote that Charlie Kirk was "martyred for freedom of speech" and said he was drafting legislation to protect free speech in K-12 classrooms. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00010] Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/)) The campaign biography condenses that record into the claim that he delivered conservative priorities: lower taxes, efficient spending, safer communities, stronger elections, and opposition to the "woke agenda." ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-00170] "url": "https://www.haysusa.com/335/Public-Library-Board"
+  - Source: https://www.haysusa.com/335/Public-Library-Board
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-00556] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-01378] [Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)
+  - Source: https://www.usd489.com/page/board-of-education
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-01442] [Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)
+  - Source: https://www.haysusa.com/335/Public-Library-Board
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-02385] [Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-02386] [Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)
+  - Source: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-ty-masterson-04389] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-04409] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-00609] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/ty-masterson/raw-dump.md:652
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-01865] Raised Catholic in Hays -- attended Thomas More Prep-Marian, a Catholic high school
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2690
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-02986] Vicki (maiden name Greene per WikiTree records) was born and raised in Wichita. She and Mike both attended Wichita South High School. Their families lived two blocks from each other and "shared similar upbringings focused on hard work, honesty, and faith." They went to the University of Kansas together and married in 1974. They have resided in Topeka for over 40 years, where they raised their two sons.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:4578
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-04542] "observation": "Visible mirror metrics: about 2K views, 40 likes, and 10 replies in the mirror display. (source) 15. 2026-01 indexed X sample: Joseph Claeys endorsement. Masterson highlighted Claeys' background as a school psychologist and \"student-focused education.\" (source) 16. 2026-01 indexed X sample: Wichita Pachyderm Club / property tax. Masterson said the top legislative priority would be a constitutional amendment...",
+  - Source: ui/src/data/v2/ty-masterson.ts:159
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-ty-masterson-03537] The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-"woke" policy, and conservative social policy. The homepage says Kansas is not living up to its "potential" or "promises" and that Masterson is running "To Take Back Kansas." ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03539] The campaign biography page presents Masterson as a "husband, father, pa, results-oriented conservative, and fighter for working Kansans." It says his family attends NewSpring Church and claims he championed a $2 billion tax cut, fought DEI in higher education, opposed transgender participation in women's sports, opposed transgender surgeries for minors, and supported election-integrity measures. ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.mastersonforgovernor.com/services
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03544] Campaign homepage, captured 2026-05-11. Masterson says Kansas is home, accuses Democratic governors and Laura Kelly/Joe Biden alignment of breaking Kansas's promise, cites violent crime, school proficiency, tax burden, and out-migration, and asks voters to "Take Back Kansas." ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03557] 2026-01 indexed X sample: Charlie Kirk and classroom speech. Masterson wrote that Charlie Kirk was "martyred for freedom of speech," connected the issue to K-12 education reform, and said legislation was being drafted to protect classroom speech. Visible mirror metrics: about 2K views, 40 likes, and 10 replies in the mirror display. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03558] 2026-01 indexed X sample: Joseph Claeys endorsement. Masterson highlighted Claeys' background as a school psychologist and "student-focused education." ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03571] 2026-01 indexed X sample: Brad Starnes endorsement. Masterson praised Starnes on blocking foreign adversaries such as Communist China from buying land near Fort Riley, education, and property-tax reform. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03572] 2025-12-05 indexed X status: Scott Hill endorsement. Search-indexed X status showed Masterson praising Hill on education funding, property taxes, and Salina law-enforcement training; visible X snippet listed 702 views, 5 replies, 3 reposts, and 13 likes. ([source](https://x.com/TyMastersonKS/status/1997017478438756446))
+  - Source: https://x.com/TyMastersonKS/status/1997017478438756446
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03574] 2025-10 Kansas Reflector public-employee speech coverage. Kansas Reflector quoted Masterson's X post urging the education commissioner to remove Katie Allen from the Kansas Department of Education after a social-media comment about Charlie Kirk's death. ([source](https://kansasreflector.com/2025/10/14/kansas-officials-zeal-for-firing-state-employee-over-post-leaves-agency-taxpayers-in-the-lurch/))
+  - Source: https://kansasreflector.com/2025/10/14/kansas-officials-zeal-for-firing-state-employee-over-post-leaves-agency-taxpayers-in-the-lurch/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ty-masterson-00533] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ty-masterson-04249] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-ty-masterson-00011] Several issue areas were not visible in the accessible material reviewed. The public set did not include captured items centered on Medicaid expansion, rural hospital closures, child care, foster care, veterans services, detailed broadband deployment, water policy, the Ogallala aquifer, affordable rental housing, or state employee pay. The available record is therefore strongest on taxes, property values, affordability, anti-"woke" education politics, Trump alignment, public safety, faith/Israel, and campaign endorsements, and thinner on health care, social services, water, and infrastructure detail.
+  - Source: memory/candidates/ty-masterson/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ty-masterson-00391] INFERRED = Circumstantial evidence only (German-Catholic surname, attended Catholic school, etc.)
+  - Source: memory/candidates/ty-masterson/raw-dump.md:125
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00613] [HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-01379] [Ballotpedia: Hays USD 489 Elections](https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections)
+  - Source: https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-01506] | Hays USD 489 | 785-623-2400 | [usd489.com](https://www.usd489.com) |
+  - Source: https://www.usd489.com
+  - Confidence/use: confirmed / use
+- **background-context** [em-ty-masterson-04108] [Kansas Reflector: School Vouchers $125M](https://kansasreflector.com/2025/01/29/senate-republican-promotes-education-freedom-with-125m-voucher-program-for-private-schools/)
+  - Source: https://kansasreflector.com/2025/01/29/senate-republican-promotes-education-freedom-with-125m-voucher-program-for-private-schools/
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-00088] Values plank: cites DEI in higher education, transgender participation in women's sports, and gender-transition care for minors.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:121
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00166] On education, he advocated school choice.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:285
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous kslegislature.gov online-reference** [soc-ty-masterson-0001] Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/)) The campaign biography condenses that record into the claim that he delivered conservative priorities: lower taxes, efficient spending, safer communities, stronger elections, and opposition to the "woke agenda." ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kslegislature.gov online-reference** [soc-ty-masterson-0002] 2026 Kansas Legislature sponsored measures. The Legislature profile lists sponsored or co-sponsored items including SCR1603 and SCR1616 on property tax valuation limits, SB302 on student devices/social media communications, SCR1608 on citizen voting, SCR1610 on gun rights, and SCR1615 on Charlie Kirk Free Speech Day. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ty-masterson-0005] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-ty-masterson-0006] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-ty-masterson-0007] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0008] The campaign biography page presents Masterson as a "husband, father, pa, results-oriented conservative, and fighter for working Kansans." It says his family attends NewSpring Church and claims he championed a $2 billion tax cut, fought DEI in higher education, opposed transgender participation in women's sports, opposed transgender surgeries for minors, and supported election-integrity measures. ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.mastersonforgovernor.com/services
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-ty-masterson-0010] | Education, free speech, anti-"woke" messaging, DEI/transgender policy, and Charlie Kirk-related education politics | 7 | 23% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0011] The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-"woke" policy, and conservative social policy. The homepage says Kansas is not living up to its "potential" or "promises" and that Masterson is running "To Take Back Kansas." ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0012] Campaign homepage, captured 2026-05-11. Masterson says Kansas is home, accuses Democratic governors and Laura Kelly/Joe Biden alignment of breaking Kansas's promise, cites violent crime, school proficiency, tax burden, and out-migration, and asks voters to "Take Back Kansas." ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong X / Twitter post** [soc-ty-masterson-0013] 2026-01 indexed X sample: Charlie Kirk and classroom speech. Masterson wrote that Charlie Kirk was "martyred for freedom of speech," connected the issue to K-12 education reform, and said legislation was being drafted to protect classroom speech. Visible mirror metrics: about 2K views, 40 likes, and 10 replies in the mirror display. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 4. Religious liberty / church / civic morality
+
+Religious liberty / church / civic morality: 22 selected evidence items from 307 mapped rows. Public URL-backed rows: 34.
+
+### Evidence
+- **candidate-stated** [em-ty-masterson-03374] Religious Liberty: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources.
+  - Source: memory/candidates/ty-masterson/site-profile.md:19
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-00625] Introduced resolution to authorize use of the Capitol Rotunda for prayer events
+  - Source: memory/candidates/ty-masterson/raw-dump.md:684
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-04389] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-04409] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-00609] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/ty-masterson/raw-dump.md:652
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-02986] Vicki (maiden name Greene per WikiTree records) was born and raised in Wichita. She and Mike both attended Wichita South High School. Their families lived two blocks from each other and "shared similar upbringings focused on hard work, honesty, and faith." They went to the University of Kansas together and married in 1974. They have resided in Topeka for over 40 years, where they raised their two sons.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:4578
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-03392] > "Born and raised in Butler County, Ty learned Kansas values early - live your faith, stand by your family, work hard, and if you're not willing to do something about it, don't waste time complaining."
+  - Source: memory/candidates/ty-masterson/site-profile.md:53
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-04243] "text": "Born and raised in Butler County, Ty learned Kansas values early - live your faith, stand by your family, work hard, and if you're not willing to do something about it, don't waste time complaining.",
+  - Source: ui/src/data/candidates.ts:14994
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-ty-masterson-03539] The campaign biography page presents Masterson as a "husband, father, pa, results-oriented conservative, and fighter for working Kansans." It says his family attends NewSpring Church and claims he championed a $2 billion tax cut, fought DEI in higher education, opposed transgender participation in women's sports, opposed transgender surgeries for minors, and supported election-integrity measures. ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.mastersonforgovernor.com/services
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03546] Campaign biography page, captured 2026-05-11. The biography ties Masterson's public identity to faith, family, Butler County roots, Senate leadership, GoCreate, NewSpring Church, and anti-DEI / anti-transgender policy claims. ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.mastersonforgovernor.com/services
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03552] 2025-10-30 Israel / antisemitism interview. Combat Antisemitism Movement published a Q&A with Masterson after a state-lawmakers delegation visit to Israel, including comments on state authority, IHRA antisemitism definition, Christian faith, Israel, and moral courage. ([source](https://combatantisemitism.org/interview/its-important-to-understand-the-truth-and-spread-it-kansas-senate-president-ty-masterson-reflects-on-state-lawmakers-delegation-visit-to-israel/))
+  - Source: https://combatantisemitism.org/interview/its-important-to-understand-the-truth-and-spread-it-kansas-senate-president-ty-masterson-reflects-on-state-lawmakers-delegation-visit-to-israel/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03555] 2026-01 indexed X sample: Ron Bryce endorsement. Masterson praised Rep. Ron Bryce as a physician, conservative, author of *Fingerprint of God*, and someone whose "Christian worldview" guides work in Topeka. Visible mirror metrics: 155 views and small visible engagement counts. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03556] 2026-01 indexed X sample: Martin Luther King Jr. Day. Masterson wrote that people should be judged by "content of his character" rather than immutable quality, ethnicity, or faith. Visible mirror metrics: 373 views and small visible engagement counts. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03582] | Faith, Christian identity, Israel, antisemitism, and moral courage language | 3 | 10% |
+  - Source: memory/candidates/ty-masterson/social-harvest.md:87
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ty-masterson-00007] Faith is not background-only in the visible record. The campaign biography says Masterson and his family attend NewSpring Church. ([source](https://www.mastersonforgovernor.com/services)) In the October 2025 Combat Antisemitism Movement interview, he said, "My faith teaches that every life is precious," and described Christianity's roots in Judaism as a reason he feels kinship with Jews and Israel. ([source](https://combatantisemitism.org/interview/its-important-to-understand-the-truth-and-spread-it-kansas-senate-president-ty-masterson-reflects-on-state-lawmakers-delegation-visit-to-israel/)) In the same interview, he said moral courage means taking a stand "no matter the price" and added, "I don't need to fear man -- I fear God." ([source](https://combatantisemitism.org/interview/its-important-to-understand-the-truth-and-spread-it-kansas-senate-president-ty-masterson-reflects-on-state-…
+  - Source: https://www.mastersonforgovernor.com/services
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ty-masterson-00329] Church website: [newspring.org](https://www.newspring.org/)
+  - Source: https://www.newspring.org/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ty-masterson-00337] "They attend NewSpring Church." - campaign biography, 2026-04-01, [senatortymasterson.com](https://senatortymasterson.com/meet-ty/) - topic: faith/church.
+  - Source: https://senatortymasterson.com/meet-ty/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ty-masterson-00363] "They attend NewSpring Church." - Ty Masterson biography, 2026-04-01, https://senatortymasterson.com/meet-ty/ - topic: faith/church.
+  - Source: https://senatortymasterson.com/meet-ty/
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-00619] | Notable Roles | Co-Chair, National Prayer Breakfast (2023 & 2024) |
+  - Source: memory/candidates/ty-masterson/raw-dump.md:676
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00621] Co-chaired the 2023 AND 2024 National Prayer Breakfast in Washington, DC
+  - Source: memory/candidates/ty-masterson/raw-dump.md:680
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00623] Read scripture publicly at the National Prayer Breakfast
+  - Source: memory/candidates/ty-masterson/raw-dump.md:682
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-04224] "issue": "Religious Liberty",
+  - Source: ui/src/data/candidates.ts:14945
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-ty-masterson-0005] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-ty-masterson-0006] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-ty-masterson-0007] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0008] The campaign biography page presents Masterson as a "husband, father, pa, results-oriented conservative, and fighter for working Kansans." It says his family attends NewSpring Church and claims he championed a $2 billion tax cut, fought DEI in higher education, opposed transgender participation in women's sports, opposed transgender surgeries for minors, and supported election-integrity measures. ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.mastersonforgovernor.com/services
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0009] Campaign biography page, captured 2026-05-11. The biography ties Masterson's public identity to faith, family, Butler County roots, Senate leadership, GoCreate, NewSpring Church, and anti-DEI / anti-transgender policy claims. ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.mastersonforgovernor.com/services
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong combatantisemitism.org post** [soc-ty-masterson-0020] 2025-10-30 Israel / antisemitism interview. Combat Antisemitism Movement published a Q&A with Masterson after a state-lawmakers delegation visit to Israel, including comments on state authority, IHRA antisemitism definition, Christian faith, Israel, and moral courage. ([source](https://combatantisemitism.org/interview/its-important-to-understand-the-truth-and-spread-it-kansas-senate-president-ty-masterson-reflects-on-state-lawmakers-delegation-visit-to-israel/))
+  - Source: https://combatantisemitism.org/interview/its-important-to-understand-the-truth-and-spread-it-kansas-senate-president-ty-masterson-reflects-on-state-lawmakers-delegation-visit-to-israel/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong X / Twitter post** [soc-ty-masterson-0021] 2026-01 indexed X sample: Ron Bryce endorsement. Masterson praised Rep. Ron Bryce as a physician, conservative, author of *Fingerprint of God*, and someone whose "Christian worldview" guides work in Topeka. Visible mirror metrics: 155 views and small visible engagement counts. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong X / Twitter post** [soc-ty-masterson-0022] 2026-01 indexed X sample: Martin Luther King Jr. Day. Masterson wrote that people should be judged by "content of his character" rather than immutable quality, ethnicity, or faith. Visible mirror metrics: 373 views and small visible engagement counts. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-ty-masterson-0023] | Faith, Christian identity, Israel, antisemitism, and moral courage language | 3 | 10% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0132] "text": "Debate coverage says all six Republican candidates at the January 2026 Kansas GOP debate supported the conservative platform on the right to life. Existing local artifacts also note Masterson's faith language about every life being precious, but that statement came in an Israel/antisemitism interview and should not be used alone as a detailed abortion platform.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 5. Taxes / spending / debt
+
+Taxes / spending / debt: 42 selected evidence items from 197 mapped rows. Public URL-backed rows: 27.
+
+### Evidence
+- **candidate-stated** [em-ty-masterson-00084] Tax plank: Kansas has the 16th highest tax burden; Masterson led a $2 billion tax cut; he says he would continue cutting taxes.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:117
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-00156] He described property taxes as a crisis and said Kansas should trim spending.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:270
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-00158] He said state spending accelerated after COVID aid and the answer is slowing spending growth.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:272
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-00164] On taxes, he emphasized income and property-tax reform and said a governor's signature would matter.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:283
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-03471] KVOE interview coverage on 2026-05-15 says Masterson described a property-tax crisis, said Kansas should trim spending, and argued spending growth should slow.
+  - Source: memory/candidates/ty-masterson/sleuth-pass.md:48
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-03477] Salina Post debate coverage says Masterson advocated school choice and tied education policy to the Working Family Tax Cut Act.
+  - Source: memory/candidates/ty-masterson/sleuth-pass.md:56
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-03709] "Masterson described property tax as a crisis and said Kansas should trim spending"
+  - Source: memory/candidates/ty-masterson/v2-issues.yaml:241
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-04055] Property Tax Failure -- Covered House-Senate feud and Masterson's inability to deliver promised relief
+  - Source: reports/ty-masterson-complete-dossier.md:574
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-00003] Across the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the "16th highest tax burden" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a January 2026 indexed X post, he wrote that Kansans are "being taxed out of their homes" and called property taxes the state's "number one crisis" ([source](https://w.twstalker.com/TyMastersonKS)). That was the highest visible-engagement item in the harvest, with about 64K views in the public mirror.
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00004] His campaign message pairs that tax frame with a broader "Take Back Kansas" argument. On the campaign homepage, Masterson says Kansas promised safe communities, low cost of living, and a shot at the American Dream, but that "liberal Democrats" and Laura Kelly's alignment with Joe Biden broke that promise. ([source](https://www.mastersonforgovernor.com/)) The site says, "Kansas is not living up to its potential -- or its promises," and presents his Senate record as proof he can make "big change" from the governor's office. ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00010] Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/)) The campaign biography condenses that record into the claim that he delivered conservative priorities: lower taxes, efficient spending, safer communities, stronger elections, and opposition to the "woke agenda." ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-02344] [Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)
+  - Source: https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-02345] [PBS Wisconsin: $100M+ spending on 2025 race](https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/)
+  - Source: https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-02882] [Kansas Reflector: Property tax reform campaign](https://kansasreflector.com/briefs/scott-schwab-aims-gop-gubernatorial-campaign-at-property-tax-reform/)
+  - Source: https://kansasreflector.com/briefs/scott-schwab-aims-gop-gubernatorial-campaign-at-property-tax-reform/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-03542] The official Kansas Legislature profile identifies Masterson as Senate president, Republican, District 16, with House service from 2005-2008 and Senate service from 2009-present. It also lists sponsored 2025-2026 measures on property tax limits, school-device rules, citizen voting, gun rights, housing permitting, Charlie Kirk Free Speech Day, and other resolutions. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-03573] 2026 Kansas Legislature sponsored measures. The Legislature profile lists sponsored or co-sponsored items including SCR1603 and SCR1616 on property tax valuation limits, SB302 on student devices/social media communications, SCR1608 on citizen voting, SCR1610 on gun rights, and SCR1615 on Charlie Kirk Free Speech Day. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-ty-masterson-04389] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-04409] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-01135] Analysis: The $1M self-loan means 88% of her war chest is her own money. This is not grassroots fundraising -- it is a wealthy candidate buying a seat at the table. Only ~$140K came from actual donors. The low spending ($116K) suggests she is stockpiling for later ad buys.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:1586
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-02262] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3412
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-02301] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3497
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-02606] Taxes: Served on Taxation Committee as vice-chair; consistent advocate for lower taxes
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3962
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-ty-masterson-03537] The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-"woke" policy, and conservative social policy. The homepage says Kansas is not living up to its "potential" or "promises" and that Masterson is running "To Take Back Kansas." ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03538] The campaign issue page organizes the message into five named fights: "End the Kansas tax squeeze," "Bring back Kansas jobs," "Stand with the law. Not the lawbreakers," "Teach reading. Teach math. Not woke nonsense," and "Defend our Kansas values." ([source](https://www.mastersonforgovernor.com/about))
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03539] The campaign biography page presents Masterson as a "husband, father, pa, results-oriented conservative, and fighter for working Kansans." It says his family attends NewSpring Church and claims he championed a $2 billion tax cut, fought DEI in higher education, opposed transgender participation in women's sports, opposed transgender surgeries for minors, and supported election-integrity measures. ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.mastersonforgovernor.com/services
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03544] Campaign homepage, captured 2026-05-11. Masterson says Kansas is home, accuses Democratic governors and Laura Kelly/Joe Biden alignment of breaking Kansas's promise, cites violent crime, school proficiency, tax burden, and out-migration, and asks voters to "Take Back Kansas." ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03545] Campaign issue page, captured 2026-05-11. The campaign lists taxes, jobs, law enforcement/public safety, reading/math instead of "woke nonsense," and "Kansas values" as the core issue frame. ([source](https://www.mastersonforgovernor.com/about))
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03559] 2026-01 indexed X sample: Wichita Pachyderm Club / property tax. Masterson said the top legislative priority would be a constitutional amendment capping runaway property valuations and argued Kansans are taxed on unrealized gains. Visible mirror metrics: about 1K views. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03560] 2026-01 indexed X sample: property tax after State of the State. Masterson wrote that Kansans are "being taxed out of their homes" and that Kelly and Democrats ignored the state's "number one crisis." Visible mirror metrics: about 64K views, 476 likes, 87 replies, 44 reposts, and 34 bookmarks/reactions as displayed by the mirror. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03566] 2026-01 indexed X sample: Scott City / agriculture. Masterson said he discussed property tax reform, affordability, and support for agriculture with community leaders in Scott City. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ty-masterson-04249] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-ty-masterson-00011] Several issue areas were not visible in the accessible material reviewed. The public set did not include captured items centered on Medicaid expansion, rural hospital closures, child care, foster care, veterans services, detailed broadband deployment, water policy, the Ogallala aquifer, affordable rental housing, or state employee pay. The available record is therefore strongest on taxes, property values, affordability, anti-"woke" education politics, Trump alignment, public safety, faith/Israel, and campaign endorsements, and thinner on health care, social services, water, and infrastructure detail.
+  - Source: memory/candidates/ty-masterson/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ty-masterson-03463] | Campaign site | Found | Strongest candidate-controlled issue source. Maps to taxes, jobs, public safety, education, LGBTQ+ policy, elections, faith/church metadata. |
+  - Source: memory/candidates/ty-masterson/sleuth-pass.md:36
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ty-masterson-04041] Depth of Involvement: Limited public information on Masterson's specific role at NewSpring Church. His campaign website references his faith and family values, but no evidence of formal church leadership positions (elder, deacon, board member) was found in public records. His legislative agenda strongly reflects conservative Christian values (pro-life, anti-DEI, health care sharing ministries tax breaks, pregnancy center protections).
+  - Source: reports/ty-masterson-complete-dossier.md:401
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-ty-masterson-02477] Criticized the 2025 Legislature and Governor Laura Kelly for delivering only "$25.88 property tax break for the owner of a $150,000 home"
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3774
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-ty-masterson-04057] Wine and Cheese Crowd -- Covered GoCreate salary controversy and Senate budget debates (March 2026)
+  - Source: reports/ty-masterson-complete-dossier.md:576
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-04105] [Kansas Reflector: Flat Tax](https://kansasreflector.com/2024/03/15/kansas-senate-clear-flat-tax-plan-after-heated-discussion/)
+  - Source: https://kansasreflector.com/2024/03/15/kansas-senate-clear-flat-tax-plan-after-heated-discussion/
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-04106] [Kansas Reflector: Property Tax Feud](https://kansasreflector.com/2026/03/17/kansas-house-senate-trade-blows-on-property-tax-relief/)
+  - Source: https://kansasreflector.com/2026/03/17/kansas-house-senate-trade-blows-on-property-tax-relief/
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-04114] [MicroBilt: Debt Does In Kansas Lawmaker](https://www.microbilt.com/news/article/debt-does-in-kansas-lawmaker)
+  - Source: https://www.microbilt.com/news/article/debt-does-in-kansas-lawmaker
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-04132] [Kansas Reflector: Wine and Cheese / GoCreate](https://kansasreflector.com/2026/03/04/kansas-senate-budget-seeks-to-pry-state-funding-from-wine-and-cheese-crowd/)
+  - Source: https://kansasreflector.com/2026/03/04/kansas-senate-budget-seeks-to-pry-state-funding-from-wine-and-cheese-crowd/
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-00078] Presents Kansas as failing on safety, affordability, schools, taxes, and out-migration.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:106
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00085] Jobs plank: calls for lower taxes, fewer regulations, and pro-growth policy.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:118
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous kslegislature.gov online-reference** [soc-ty-masterson-0001] Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/)) The campaign biography condenses that record into the claim that he delivered conservative priorities: lower taxes, efficient spending, safer communities, stronger elections, and opposition to the "woke agenda." ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kslegislature.gov online-reference** [soc-ty-masterson-0002] 2026 Kansas Legislature sponsored measures. The Legislature profile lists sponsored or co-sponsored items including SCR1603 and SCR1616 on property tax valuation limits, SB302 on student devices/social media communications, SCR1608 on citizen voting, SCR1610 on gun rights, and SCR1615 on Charlie Kirk Free Speech Day. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ty-masterson-0003] Across the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the "16th highest tax burden" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a January 2026 indexed X post, he wrote that Kansans are "being taxed out of their homes" and called property taxes the state's "number one crisis" ([source](https://w.twstalker.com/TyMastersonKS)). That was the highest visible-engagement item in the harvest, with about 64K views in the public mirror.
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ty-masterson-0005] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-ty-masterson-0006] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-ty-masterson-0007] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0008] The campaign biography page presents Masterson as a "husband, father, pa, results-oriented conservative, and fighter for working Kansans." It says his family attends NewSpring Church and claims he championed a $2 billion tax cut, fought DEI in higher education, opposed transgender participation in women's sports, opposed transgender surgeries for minors, and supported election-integrity measures. ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.mastersonforgovernor.com/services
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0011] The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-"woke" policy, and conservative social policy. The homepage says Kansas is not living up to its "potential" or "promises" and that Masterson is running "To Take Back Kansas." ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0012] Campaign homepage, captured 2026-05-11. Masterson says Kansas is home, accuses Democratic governors and Laura Kelly/Joe Biden alignment of breaking Kansas's promise, cites violent crime, school proficiency, tax burden, and out-migration, and asks voters to "Take Back Kansas." ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong X / Twitter post** [soc-ty-masterson-0015] 2026-01 indexed X sample: Brad Starnes endorsement. Masterson praised Starnes on blocking foreign adversaries such as Communist China from buying land near Fort Riley, education, and property-tax reform. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 6. Economy / jobs / labor
+
+Economy / jobs / labor: 27 selected evidence items from 83 mapped rows. Public URL-backed rows: 11.
+
+### Evidence
+- **candidate-stated** [em-ty-masterson-00321] Masterson says he chose to raise his family in Kansas because of "safe communities" and "a low cost of living."
+  - Source: memory/candidates/ty-masterson/raw-dump.md:15
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-00003] Across the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the "16th highest tax burden" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a January 2026 indexed X post, he wrote that Kansans are "being taxed out of their homes" and called property taxes the state's "number one crisis" ([source](https://w.twstalker.com/TyMastersonKS)). That was the highest visible-engagement item in the harvest, with about 64K views in the public mirror.
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00004] His campaign message pairs that tax frame with a broader "Take Back Kansas" argument. On the campaign homepage, Masterson says Kansas promised safe communities, low cost of living, and a shot at the American Dream, but that "liberal Democrats" and Laura Kelly's alignment with Joe Biden broke that promise. ([source](https://www.mastersonforgovernor.com/)) The site says, "Kansas is not living up to its potential -- or its promises," and presents his Senate record as proof he can make "big change" from the governor's office. ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00336] "safe communities, a low cost of living, and a shot at achieving the American Dream" - campaign homepage, 2026-04-01, [mastersonforgovernor.com](https://www.mastersonforgovernor.com/) - topic: worldview.
+  - Source: https://www.mastersonforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-03509] The current UI object has campaignWebsite set to https://mann.house.gov/about, which is not Ty Masterson's campaign site. This worker is not authorized to edit UI files, so flag for orchestrator/site-profile-writer.
+  - Source: https://mann.house.gov/about`
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-00869] Notable Legislative Focus Areas: Education funding, lowering cost of living, workforce development, small business support, rural healthcare access. Specific bill-by-bill voting record available at kslegislature.gov but not extractable in bulk from search.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:1102
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-02048] | Jobs for America's Graduates (JAG) | Honorary Board Member |
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2999
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-02293] The Insurance Commissioner regulates every insurance company doing business in Kansas -- health insurance, car insurance, homeowners insurance, crop insurance, all of it. They review rate increases, make sure companies can actually pay claims, handle consumer complaints, and license insurance agents. In rural Kansas, where hospital closures and limited healthcare options are a growing crisis, the Insurance Commissioner's decisions on what health plans are available and what they can charge directly affect your family's bottom line.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3478
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-02322] | In one sentence | Changes how KS Supreme Court justices get their jobs -- from commission-appointed to elected | Changes "every citizen can vote" to "only citizens can vote" in the state constitution |
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3536
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-04389] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-04409] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-02301] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3497
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-02588] | Vice Chairman, Commerce and Labor Committee | During House tenure |
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3932
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-ty-masterson-03537] The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-"woke" policy, and conservative social policy. The homepage says Kansas is not living up to its "potential" or "promises" and that Masterson is running "To Take Back Kansas." ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03538] The campaign issue page organizes the message into five named fights: "End the Kansas tax squeeze," "Bring back Kansas jobs," "Stand with the law. Not the lawbreakers," "Teach reading. Teach math. Not woke nonsense," and "Defend our Kansas values." ([source](https://www.mastersonforgovernor.com/about))
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03545] Campaign issue page, captured 2026-05-11. The campaign lists taxes, jobs, law enforcement/public safety, reading/math instead of "woke nonsense," and "Kansas values" as the core issue frame. ([source](https://www.mastersonforgovernor.com/about))
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03578] | Taxes, property-tax relief, affordability, housing, jobs, business regulation, and economic growth | 8 | 26% |
+  - Source: memory/candidates/ty-masterson/social-harvest.md:83
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ty-masterson-04249] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-ty-masterson-00624] Introduced the FAITH in Small Business Act (ensures faith-based businesses can participate in SBA loans)
+  - Source: memory/candidates/ty-masterson/raw-dump.md:683
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ty-masterson-01104] Faith: Theological Studies is part of her academic background. Cornerstone Data company description notes her work is done "in light of the people and organizations that produced it" -- suggesting faith-integrated business philosophy. The company name "Cornerstone" itself has Christian connotations. No specific church identified.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:1532
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ty-masterson-03367] Masterson's public biography combines legislative leadership, Wichita-area civic and business connections, and explicit Christian identity. Public sources tie him to NewSpring Church in Wichita, and his campaign biography says he and his family attend there. His campaign presents him as a conservative who wants to take the priorities he has advanced in the Senate and bring them to the governor's office.
+  - Source: memory/candidates/ty-masterson/site-profile.md:6
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-02115] [Jobs for America's Graduates - Bio](https://jag.org/dipl-team-member/jeff-colyer/)
+  - Source: https://jag.org/dipl-team-member/jeff-colyer/
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-00085] Jobs plank: calls for lower taxes, fewer regulations, and pro-growth policy.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:118
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00247] Jobs / Economic Development / Regulation
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:416
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00316] He is also a Wichita-area business leader and one of the most powerful Republicans in Kansas government.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:9
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00346] Public bios and site copy consistently emphasize family, Kansas roots, and a business background.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:46
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00359] Masterson's public story emphasizes family, business experience, and a hardline conservative record.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:71
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous X / Twitter online-reference** [soc-ty-masterson-0003] Across the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the "16th highest tax burden" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a January 2026 indexed X post, he wrote that Kansans are "being taxed out of their homes" and called property taxes the state's "number one crisis" ([source](https://w.twstalker.com/TyMastersonKS)). That was the highest visible-engagement item in the harvest, with about 64K views in the public mirror.
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ty-masterson-0005] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-ty-masterson-0006] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-ty-masterson-0007] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0011] The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-"woke" policy, and conservative social policy. The homepage says Kansas is not living up to its "potential" or "promises" and that Masterson is running "To Take Back Kansas." ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0024] The campaign issue page organizes the message into five named fights: "End the Kansas tax squeeze," "Bring back Kansas jobs," "Stand with the law. Not the lawbreakers," "Teach reading. Teach math. Not woke nonsense," and "Defend our Kansas values." ([source](https://www.mastersonforgovernor.com/about))
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0025] Campaign issue page, captured 2026-05-11. The campaign lists taxes, jobs, law enforcement/public safety, reading/math instead of "woke nonsense," and "Kansas values" as the core issue frame. ([source](https://www.mastersonforgovernor.com/about))
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-ty-masterson-0029] | Taxes, property-tax relief, affordability, housing, jobs, business regulation, and economic growth | 8 | 26% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0143] "observation": "The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-\"woke\" policy, and conservative social policy. The homepage says Kansas is not living up to its \"potential\" or \"promises\" and that Masterson is running \"To Take Back Kansas.\" (source)",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 7. Guns / Second Amendment
+
+Guns / Second Amendment: 15 selected evidence items from 16 mapped rows. Public URL-backed rows: 5.
+
+### Evidence
+- **documented-record** [em-ty-masterson-00010] Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/)) The campaign biography condenses that record into the claim that he delivered conservative priorities: lower taxes, efficient spending, safer communities, stronger elections, and opposition to the "woke agenda." ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-03542] The official Kansas Legislature profile identifies Masterson as Senate president, Republican, District 16, with House service from 2005-2008 and Senate service from 2009-present. It also lists sponsored 2025-2026 measures on property tax limits, school-device rules, citizen voting, gun rights, housing permitting, Charlie Kirk Free Speech Day, and other resolutions. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-03573] 2026 Kansas Legislature sponsored measures. The Legislature profile lists sponsored or co-sponsored items including SCR1603 and SCR1616 on property tax valuation limits, SB302 on student devices/social media communications, SCR1608 on citizen voting, SCR1610 on gun rights, and SCR1615 on Charlie Kirk Free Speech Day. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-02495] Second Amendment
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3799
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-02496] "We will protect our Second Amendment rights"
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3800
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-02937] Pro-Second Amendment
+  - Source: memory/candidates/ty-masterson/raw-dump.md:4501
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-03375] Guns / Second Amendment: Runs as a Republican. The Kansas Republican Party platform supports Second Amendment rights without restrictions. No specific personal statement found in public sources.
+  - Source: memory/candidates/ty-masterson/site-profile.md:21
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-04225] "issue": "Guns / Second Amendment",
+  - Source: ui/src/data/candidates.ts:14949
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-04389] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-02605] Guns: Pro-Second Amendment, specific NRA rating not publicly available in search results
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3961
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-02735] Specific formal endorsements (NRA rating, Kansas Right to Life, Kansas Farm Bureau, etc.) were not comprehensively documented in publicly available reporting at time of investigation. The Kansas Ethics Commission filings may contain PAC contribution details that indicate organizational support.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:4177
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-03205] | NRA | Unknown | No endorsement data found |
+  - Source: memory/candidates/ty-masterson/raw-dump.md:4975
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ty-masterson-04249] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **background-context** [em-ty-masterson-01986] Gun Rights
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2876
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-02730] | Guns | Pro-2A, protect rights | Standard GOP |
+  - Source: memory/candidates/ty-masterson/raw-dump.md:4170
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous kslegislature.gov online-reference** [soc-ty-masterson-0001] Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/)) The campaign biography condenses that record into the claim that he delivered conservative priorities: lower taxes, efficient spending, safer communities, stronger elections, and opposition to the "woke agenda." ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kslegislature.gov online-reference** [soc-ty-masterson-0002] 2026 Kansas Legislature sponsored measures. The Legislature profile lists sponsored or co-sponsored items including SCR1603 and SCR1616 on property tax valuation limits, SB302 on student devices/social media communications, SCR1608 on citizen voting, SCR1610 on gun rights, and SCR1615 on Charlie Kirk Free Speech Day. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ty-masterson-0005] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-ty-masterson-0007] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0144] "observation": "Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. (source) The campaign biography condenses that record into the claim that he...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0156] Guns / Second Amendment: Runs as a Republican. The Kansas Republican Party platform supports Second Amendment rights without restrictions. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 8. Immigration / border
+
+Immigration / border: 25 selected evidence items from 50 mapped rows. Public URL-backed rows: 5.
+
+### Evidence
+- **candidate-stated** [em-ty-masterson-00167] Debate coverage says the candidates reached platform consensus on judicial selection reform, marijuana, abortion, support for ICE/federal law enforcement, energy, and cooperation with federal government.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:286
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-00278] HPPR/Kansas Reflector says Masterson shared White House praise for first-responder buffer-zone and sheriff/ICE-agreement bills.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:486
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-03491] Existing social-harvest captures an indexed X item saying he stood with ICE and President Trump. Treat this as a social signal, not as a complete immigration platform.
+  - Source: memory/candidates/ty-masterson/sleuth-pass.md:82
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-00006] The reviewed campaign and social material also shows a deliberate Trump-alignment strategy. Washington Examiner reported on November 11, 2025, that Trump 2024 orbit consultants and outside groups were organizing behind Masterson through Take Back Kansas and Take Back Kansas Action. ([source](https://www.washingtonexaminer.com/news/campaigns/state/3883028/trumpworld-gets-behind-ty-masterson-kansas-governor-race/)) In the X sample, Masterson wrote, "I stand with ICE and with President Trump!" ([source](https://w.twstalker.com/TyMastersonKS)) and said President Trump's affordability agenda was making home ownership attainable, adding that as governor he would "Make Kansas Affordable Again." ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://www.washingtonexaminer.com/news/campaigns/state/3883028/trumpworld-gets-behind-ty-masterson-kansas-governor-race/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-02353] [CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)
+  - Source: https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00174] Article lists actions on spending/data matching, election rules, first-responder buffer zone, sheriff/ICE agreements, and private-school tax-credit participation.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:297
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-00279] Specific 2026 bill numbers and Masterson member votes for buffer-zone / sheriff-ICE provisions need final verification.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:489
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-02212] Their argument is straightforward: Voting should be exclusively for citizens, and the Constitution should say so clearly and forcefully. They point out that similar amendments passed in all 8 states where they appeared on the 2024 ballot, often with 65-80% of the vote. It is a matter of principle, even if non-citizen voting is not currently a problem.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3304
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-02221] FACT 1: Non-citizen voting is already illegal. This amendment does not make anything new illegal.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3326
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-02723] Campaign language: "We will work with the Trump administration on enforcing our immigration laws"
+  - Source: memory/candidates/ty-masterson/raw-dump.md:4160
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-03376] Immigration / Border: Has not released detailed immigration policy, but his campaign rhetoric aligns with Republican enforcement-first positioning. His general message is about "safe communities."
+  - Source: memory/candidates/ty-masterson/site-profile.md:23
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-04389] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-02006] Endorsed Trump stating he would "protect Medicare, lower health care and drug prices, speed development of medical treatments and address the overdose epidemic." Also argued Trump would "close the southern U.S. border with Mexico to drug traffickers" and that America deserved "a president dedicated to securing our borders, stopping the drug traffickers and saving American lives."
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2925
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-ty-masterson-03568] 2026-01 indexed X sample: ICE / Trump. Masterson wrote, "I stand with ICE and with President Trump!" This post was also quoted by Tony's Kansas City on 2026-01-09. ([mirror source](https://w.twstalker.com/TyMastersonKS), [news/source capture](https://www.tonyskansascity.com/2026/01/kansas-senate-prez-pledges-allegiance.html))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03581] | Public safety, law enforcement, ICE, crime, drug trafficking, and foreign-adversary land restrictions | 4 | 13% |
+  - Source: memory/candidates/ty-masterson/social-harvest.md:86
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03586] The accessible amplification pattern is message and alliance based: the campaign site links to Facebook, Instagram, and X; the X sample repeatedly uses #TakeBackKansas; the indexed sample includes endorsements from Republican legislators; public reporting shows Trump-aligned consultants and outside groups forming around Masterson; and Masterson's own posts explicitly align with President Trump and ICE.
+  - Source: memory/candidates/ty-masterson/social-harvest.md:94
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03592] | "I stand with ICE and with President Trump!" | About 3K views and 52 likes displayed by the public mirror; also picked up by Tony's Kansas City. |
+  - Source: memory/candidates/ty-masterson/social-harvest.md:104
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ty-masterson-04249] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-ty-masterson-00722] Extensive international humanitarian medical work with International Medical Corps -- 20+ countries since 1985 (Afghanistan, Iraq, Kosovo, South Sudan, Cameroon, Syria border, Ukraine)
+  - Source: reports/faith-church-investigation-2026-03-31.md:769
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00199] Indexed items included property-tax posts, law enforcement appreciation, ICE/Trump post, Charlie Kirk/classroom-speech post, endorsements, agriculture/community stops, and newsletter/signup requests.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:340
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00275] Public Safety / Law Enforcement / Immigration
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:481
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00277] Existing X mirror sample includes an ICE/Trump alignment post.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:485
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00280] No comprehensive immigration plan found beyond law-enforcement/ICE alignment.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:492
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-01041] "Let's end the border war -- keep the Chiefs and Royals in Missouri. Kansas simply can't afford to subsidize them."
+  - Source: memory/candidates/ty-masterson/raw-dump.md:1412
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-01641] | ~2012+ | Syrian border | Syrian Civil War | Provided medical care to refugees/casualties |
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2362
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous X / Twitter online-reference** [soc-ty-masterson-0004] The reviewed campaign and social material also shows a deliberate Trump-alignment strategy. Washington Examiner reported on November 11, 2025, that Trump 2024 orbit consultants and outside groups were organizing behind Masterson through Take Back Kansas and Take Back Kansas Action. ([source](https://www.washingtonexaminer.com/news/campaigns/state/3883028/trumpworld-gets-behind-ty-masterson-kansas-governor-race/)) In the X sample, Masterson wrote, "I stand with ICE and with President Trump!" ([source](https://w.twstalker.com/TyMastersonKS)) and said President Trump's affordability agenda was making home ownership attainable, adding that as governor he would "Make Kansas Affordable Again." ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://www.washingtonexaminer.com/news/campaigns/state/3883028/trumpworld-gets-behind-ty-masterson-kansas-governor-race/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ty-masterson-0005] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-ty-masterson-0007] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong X / Twitter post** [soc-ty-masterson-0031] 2026-01 indexed X sample: ICE / Trump. Masterson wrote, "I stand with ICE and with President Trump!" This post was also quoted by Tony's Kansas City on 2026-01-09. ([mirror source](https://w.twstalker.com/TyMastersonKS), [news/source capture](https://www.tonyskansascity.com/2026/01/kansas-senate-prez-pledges-allegiance.html))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-ty-masterson-0032] | Public safety, law enforcement, ICE, crime, drug trafficking, and foreign-adversary land restrictions | 4 | 13% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Facebook post** [soc-ty-masterson-0033] The accessible amplification pattern is message and alliance based: the campaign site links to Facebook, Instagram, and X; the X sample repeatedly uses #TakeBackKansas; the indexed sample includes endorsements from Republican legislators; public reporting shows Trump-aligned consultants and outside groups forming around Masterson; and Masterson's own posts explicitly align with President Trump and ICE.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-ty-masterson-0034] | "I stand with ICE and with President Trump!" | About 3K views and 52 likes displayed by the public mirror; also picked up by Tony's Kansas City. |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0131] Debate coverage says the candidates reached platform consensus on judicial selection reform, marijuana, abortion, support for ICE/federal law enforcement, energy, and cooperation with federal government.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ty-masterson-0140] "Existing social harvest captured indexed X items on property taxes, law enforcement, ICE/Trump, endorsements, and education/free speech"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ty-masterson-0153] | X / Twitter @TyMastersonKS | Found by campaign-site link and indexed mirror | Direct X timeline was not fully accessible logged out. Existing social-harvest captured indexed public items on property taxes, ICE/Trump, endorsements, Charlie Kirk/free speech, law enforcement, and campaign travel. |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 9. Health care / insurance / Medicaid
+
+Health care / insurance / Medicaid: 32 selected evidence items from 187 mapped rows. Public URL-backed rows: 25.
+
+### Evidence
+- **candidate-stated** [em-ty-masterson-03331] [Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023)](https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/)
+  - Source: https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-ty-masterson-00158] He said state spending accelerated after COVID aid and the answer is slowing spending growth.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:272
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-00936] Cannabis: Supports legalization of medical marijuana
+  - Source: memory/candidates/ty-masterson/raw-dump.md:1210
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-01976] Opposes bureaucratic control of healthcare decisions
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2860
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-02076] Health questions. While he says he's recovered from prostate cancer, opponents or voters may quietly wonder about long-term health.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3051
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-04446] "stance": "Believes families should have the right to make their own medical decisions, \"even if those decisions are different from what government bureaucrats recommend.\" This extends to her experience raising children with learning challenges."
+  - Source: ui/src/data/candidates.ts:21373
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-00880] > -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-01229] [Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-02990] | Prior Campaign Site | [vickischmidt.org](https://vickischmidt.org/) | Insurance Commissioner campaign site |
+  - Source: https://vickischmidt.org/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-03327] [KWCH: Kansas insurance commissioner backs bill (Feb 2, 2026)](https://www.kwch.com/2026/02/02/kansas-insurance-commissioner-backs-bill-eliminate-breast-cancer-screening-costs/)
+  - Source: https://www.kwch.com/2026/02/02/kansas-insurance-commissioner-backs-bill-eliminate-breast-cancer-screening-costs/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-03356] [2022 Kansas Insurance Commissioner Election - Wikipedia](https://en.wikipedia.org/wiki/2022_Kansas_Insurance_Commissioner_election)
+  - Source: https://en.wikipedia.org/wiki/2022_Kansas_Insurance_Commissioner_election
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-04110] [Kansas Reflector: SB 368 Override](https://kansasreflector.com/2026/03/27/kansas-governor-vetoes-bill-offering-tax-breaks-to-people-using-nontraditional-health-plans/)
+  - Source: https://kansasreflector.com/2026/03/27/kansas-governor-vetoes-bill-offering-tax-breaks-to-people-using-nontraditional-health-plans/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-04122] [Marijuana Moment: Kill Medical Marijuana Pilot](https://www.marijuanamoment.net/kansas-senators-kill-bill-to-create-medical-marijuana-pilot-program/)
+  - Source: https://www.marijuanamoment.net/kansas-senators-kill-bill-to-create-medical-marijuana-pilot-program/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-04197] "url": "https://kansasreflector.com/2026/03/27/kansas-governor-vetoes-bill-offering-tax-breaks-to-people-using-nontraditional-health-plans/",
+  - Source: https://kansasreflector.com/2026/03/27/kansas-governor-vetoes-bill-offering-tax-breaks-to-people-using-nontraditional-health-plans/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ty-masterson-04389] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-04409] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-00295] No detailed positions found on Medicaid expansion, rural hospitals, child care, foster care, disability services, veterans services, water policy, broadband deployment beyond committee role, or state employee pay.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:528
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-01695] Financial Institutions and Insurance Committee member
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2442
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-02006] Endorsed Trump stating he would "protect Medicare, lower health care and drug prices, speed development of medical treatments and address the overdose epidemic." Also argued Trump would "close the southern U.S. border with Mexico to drug traffickers" and that America deserved "a president dedicated to securing our borders, stopping the drug traffickers and saving American lives."
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2925
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-02262] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3412
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-ty-masterson-03567] 2026-01 indexed X sample: Stephen Owens endorsement. Masterson praised Owens as a "principled warrior," a Kansas Truth Caucus chair, tough on crime, and supportive of drug-treatment and mental-health access. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03595] Across the accessible candidate-controlled and indexed public set reviewed, no reviewed item centered Medicaid expansion, rural hospital closures, child care, foster care, veterans services, broadband deployment beyond his committee listing, water policy, Ogallala aquifer policy, state employee pay, affordable rental housing, or detailed mental-health-system funding. Mental health appeared only as part of an endorsement praising another senator's work on drug treatment and mental-health access.
+  - Source: memory/candidates/ty-masterson/social-harvest.md:109
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ty-masterson-00730] [KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ty-masterson-04249] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-ty-masterson-00011] Several issue areas were not visible in the accessible material reviewed. The public set did not include captured items centered on Medicaid expansion, rural hospital closures, child care, foster care, veterans services, detailed broadband deployment, water policy, the Ogallala aquifer, affordable rental housing, or state employee pay. The available record is therefore strongest on taxes, property values, affordability, anti-"woke" education politics, Trump alignment, public safety, faith/Israel, and campaign endorsements, and thinner on health care, social services, water, and infrastructure detail.
+  - Source: memory/candidates/ty-masterson/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ty-masterson-00582] No faith or church references in any professional profiles, medical directories, or candidate information
+  - Source: memory/candidates/ty-masterson/raw-dump.md:563
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-02102] [KSHB - Ukraine medical mission](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-02128] [IMC - Lt. Governor to Climb Mt. Kilimanjaro](https://internationalmedicalcorps.org/press-release/lt-governor-to-climb-mt-kilimanjaro-in-support-of-international-medical-corps-humanitarian-relief-efforts/)
+  - Source: https://internationalmedicalcorps.org/press-release/lt-governor-to-climb-mt-kilimanjaro-in-support-of-international-medical-corps-humanitarian-relief-efforts/
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-02379] [Ballotpedia: Kansas Insurance Commissioner 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-03317] [Kansas Department of Insurance - About Us](https://insurance.kansas.gov/about-us/)
+  - Source: https://insurance.kansas.gov/about-us/
+  - Confidence/use: confirmed / use
+- **background-context** [em-ty-masterson-03329] [KWCH: "It's humbling" -- KS Insurance Commissioner discusses breast cancer journey (Oct 17, 2023)](https://www.kwch.com/2023/10/17/its-humbling-ks-insurance-commissioner-discusses-breast-cancer-journey/)
+  - Source: https://www.kwch.com/2023/10/17/its-humbling-ks-insurance-commissioner-discusses-breast-cancer-journey/
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-03330] [Kansas Reflector: Kansas insurance commissioner has breast cancer, expects full recovery (June 2023)](https://kansasreflector.com/briefs/kansas-insurance-commissioner-has-breast-cancer-expects-full-recovery/)
+  - Source: https://kansasreflector.com/briefs/kansas-insurance-commissioner-has-breast-cancer-expects-full-recovery/
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-ty-masterson-0005] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-ty-masterson-0006] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-ty-masterson-0007] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong X / Twitter post** [soc-ty-masterson-0035] 2026-01 indexed X sample: Stephen Owens endorsement. Masterson praised Owens as a "principled warrior," a Kansas Truth Caucus chair, tough on crime, and supportive of drug-treatment and mental-health access. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-ty-masterson-0036] Across the accessible candidate-controlled and indexed public set reviewed, no reviewed item centered Medicaid expansion, rural hospital closures, child care, foster care, veterans services, broadband deployment beyond his committee listing, water policy, Ogallala aquifer policy, state employee pay, affordable rental housing, or detailed mental-health-system funding. Mental health appeared only as part of an endorsement praising another senator's work on drug treatment and mental-health access.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0135] Several issue areas were not visible in the accessible material reviewed. The public set did not include captured items centered on Medicaid expansion, rural hospital closures, child care, foster care, veterans services, detailed broadband deployment, water policy, the Ogallala aquifer, affordable rental housing, or state employee pay. The available record is therefore strongest on taxes, property values, affordability, anti-"woke" education politics, Trump alignment, public safety, faith/Israel, and campaign endorsements, and thinner on health care, social services, water, and infrastructure detail.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0151] > "Politicians are making dangerous cuts to our programs, Medicaid and Social Security. That's hurting us, and with the expiration of ACA tax credits, that's a huge threat."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0159] Healthcare / Medicaid / Social Services
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0160] Campaign site does not provide a detailed healthcare platform.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0161] "title": "Healthcare / Medicaid / Social Services",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 10. Election integrity / voting / courts
+
+Election integrity / voting / courts: 31 selected evidence items from 858 mapped rows. Public URL-backed rows: 151.
+
+### Evidence
+- **candidate-stated** [em-ty-masterson-00167] Debate coverage says the candidates reached platform consensus on judicial selection reform, marijuana, abortion, support for ICE/federal law enforcement, energy, and cooperation with federal government.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:286
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-00320] Home-page metadata says: "Vote Ty Masterson for Governor."
+  - Source: memory/candidates/ty-masterson/raw-dump.md:14
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-02197] Right now, the Kansas Constitution says: "Every citizen of the United States who has attained the age of eighteen years and who resides in the voting area in which he or she seeks to vote shall be deemed a qualified elector."
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3268
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-00003] Across the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the "16th highest tax burden" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a January 2026 indexed X post, he wrote that Kansans are "being taxed out of their homes" and called property taxes the state's "number one crisis" ([source](https://w.twstalker.com/TyMastersonKS)). That was the highest visible-engagement item in the harvest, with about 64K views in the public mirror.
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00004] His campaign message pairs that tax frame with a broader "Take Back Kansas" argument. On the campaign homepage, Masterson says Kansas promised safe communities, low cost of living, and a shot at the American Dream, but that "liberal Democrats" and Laura Kelly's alignment with Joe Biden broke that promise. ([source](https://www.mastersonforgovernor.com/)) The site says, "Kansas is not living up to its potential -- or its promises," and presents his Senate record as proof he can make "big change" from the governor's office. ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00005] Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank "Teach reading. Teach math. Not woke nonsense," citing low fourth-grade proficiency and promising higher pay for "good teachers," parental say, and accountability. ([source](https://www.mastersonforgovernor.com/about)) The biography page says he fought DEI in higher education, transgender participation in women's sports, and transgender surgeries for minors. ([source](https://www.mastersonforgovernor.com/services)) In a January 2026 indexed X post, Masterson wrote that Charlie Kirk was "martyred for freedom of speech" and said he was drafting legislation to protect free speech in K-12 classrooms. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00010] Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/)) The campaign biography condenses that record into the claim that he delivered conservative priorities: lower taxes, efficient spending, safer communities, stronger elections, and opposition to the "woke agenda." ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-00023] Candidate-controlled campaign site is https://www.mastersonforgovernor.com/; current UI has an unrelated mann.house.gov campaignWebsite value.
+  - Source: https://www.mastersonforgovernor.com/`
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00045] "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01TM_AT.pdf",
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01TM_AT.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-00318] | Campaign Website | [mastersonforgovernor.com](https://www.mastersonforgovernor.com/) |
+  - Source: https://www.mastersonforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00319] Campaign bio: [Meet Ty](https://senatortymasterson.com/meet-ty/)
+  - Source: https://senatortymasterson.com/meet-ty/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ty-masterson-04389] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-04409] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-00022] Campaign finance and office-sought status are confirmed through KPDC/SOS reports, but formal SOS ballot filing could not be confirmed because the official candidate-list endpoint was CloudFront/JavaScript-gated.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:17
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-00025] The strongest new primary-source issue anchors are SB 63, SB 244, SCR 1611, SB 4, SB 5, HCR 5011, the official Senate profile/vote record, and KPDC/SOS finance filings.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:20
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-00349] I did not fully verify every legislative vote or committee action in this pass.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:50
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-02593] Election Integrity: Championed the Secure and Fair Elections (SAFE) Act requiring voter ID (signed into law 2011). This was his signature legislative achievement as Elections Committee Chairman.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3942
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-ty-masterson-03539] The campaign biography page presents Masterson as a "husband, father, pa, results-oriented conservative, and fighter for working Kansans." It says his family attends NewSpring Church and claims he championed a $2 billion tax cut, fought DEI in higher education, opposed transgender participation in women's sports, opposed transgender surgeries for minors, and supported election-integrity measures. ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.mastersonforgovernor.com/services
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03559] 2026-01 indexed X sample: Wichita Pachyderm Club / property tax. Masterson said the top legislative priority would be a constitutional amendment capping runaway property valuations and argued Kansans are taxed on unrealized gains. Visible mirror metrics: about 1K views. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03517] Election slug: kansas-governor-2026
+  - Source: memory/candidates/ty-masterson/social-harvest.md:6
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ty-masterson-01296] [Kansas Catholic Conference: Election 2026](https://www.kansascatholic.org/current-news/election-2026)
+  - Source: https://www.kansascatholic.org/current-news/election-2026
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ty-masterson-04249] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-ty-masterson-00530] Spoke at TMP about the importance of voting (invited as elected official to Catholic school)
+  - Source: memory/candidates/ty-masterson/raw-dump.md:438
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ty-masterson-00710] Pushed the judicial selection amendment -- faith motivation was part of the framing
+  - Source: memory/candidates/ty-masterson/raw-dump.md:849
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-ty-masterson-02942] Accused by ACLU and voting rights groups of voter suppression
+  - Source: memory/candidates/ty-masterson/raw-dump.md:4508
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00041] "url": "https://www.kslegislature.gov/b2025_26/vote-record/sen_masterson_ty_1/2025/",
+  - Source: https://www.kslegislature.gov/b2025_26/vote-record/sen_masterson_ty_1/2025/
+  - Confidence/use: confirmed / use
+- **background-context** [em-ty-masterson-01440] [Vote No Kansas 2026](https://www.votenokansas.org/)
+  - Source: https://www.votenokansas.org/
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-02333] Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/
+  - Source: https://myvoteinfo.voteks.org/
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-02351] [NPR: Judge tosses Kansas proof-of-citizenship voter law](https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba)
+  - Source: https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-02355] [PBS: Kansas hopes to resurrect proof-of-citizenship law](https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law)
+  - Source: https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-02912] [NPR: Judge dismisses murder charges](https://www.npr.org/2019/02/25/697647804/judge-dismisses-murder-charges-over-boys-death-on-kansas-waterslide)
+  - Source: https://www.npr.org/2019/02/25/697647804/judge-dismisses-murder-charges-over-boys-death-on-kansas-waterslide
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous kslegislature.gov online-reference** [soc-ty-masterson-0001] Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/)) The campaign biography condenses that record into the claim that he delivered conservative priorities: lower taxes, efficient spending, safer communities, stronger elections, and opposition to the "woke agenda." ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kslegislature.gov online-reference** [soc-ty-masterson-0002] 2026 Kansas Legislature sponsored measures. The Legislature profile lists sponsored or co-sponsored items including SCR1603 and SCR1616 on property tax valuation limits, SB302 on student devices/social media communications, SCR1608 on citizen voting, SCR1610 on gun rights, and SCR1615 on Charlie Kirk Free Speech Day. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ty-masterson-0003] Across the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the "16th highest tax burden" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a January 2026 indexed X post, he wrote that Kansans are "being taxed out of their homes" and called property taxes the state's "number one crisis" ([source](https://w.twstalker.com/TyMastersonKS)). That was the highest visible-engagement item in the harvest, with about 64K views in the public mirror.
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ty-masterson-0005] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-ty-masterson-0006] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-ty-masterson-0007] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0008] The campaign biography page presents Masterson as a "husband, father, pa, results-oriented conservative, and fighter for working Kansans." It says his family attends NewSpring Church and claims he championed a $2 billion tax cut, fought DEI in higher education, opposed transgender participation in women's sports, opposed transgender surgeries for minors, and supported election-integrity measures. ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.mastersonforgovernor.com/services
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong X / Twitter post** [soc-ty-masterson-0026] 2026-01 indexed X sample: Wichita Pachyderm Club / property tax. Masterson said the top legislative priority would be a constitutional amendment capping runaway property valuations and argued Kansans are taxed on unrealized gains. Visible mirror metrics: about 1K views. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-ty-masterson-0037] Election slug: kansas-governor-2026
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0131] Debate coverage says the candidates reached platform consensus on judicial selection reform, marijuana, abortion, support for ICE/federal law enforcement, energy, and cooperation with federal government.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 11. Public safety / law enforcement / criminal justice
+
+Public safety / law enforcement / criminal justice: 29 selected evidence items from 154 mapped rows. Public URL-backed rows: 34.
+
+### Evidence
+- **candidate-stated** [em-ty-masterson-00086] Public-safety plank: says he would stand with law enforcement, back tough-on-crime policy, and fund police.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:119
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-00167] Debate coverage says the candidates reached platform consensus on judicial selection reform, marijuana, abortion, support for ICE/federal law enforcement, energy, and cooperation with federal government.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:286
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-00278] HPPR/Kansas Reflector says Masterson shared White House praise for first-responder buffer-zone and sheriff/ICE-agreement bills.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:486
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-00045] "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01TM_AT.pdf",
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01TM_AT.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-00331] Kansas Ethics filing: [SW01TM_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01TM_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01TM_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-00354] https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01TM_202601.pdf
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01TM_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-00369] Kansas Ethics filing index: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-00370] 2026 filing PDF: [SW01TM_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01TM_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01TM_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-00556] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-01439] [Ballotpedia: Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))
+  - Source: https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-02132] [Kansas Ethics Commission - 2026 Election Cycle Filing](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-ty-masterson-00008] His public safety message is direct and enforcement-oriented. The campaign site says Kansas ranks behind "liberal crime havens" for violent crime and that he would stand with law enforcement, back tough-on-crime policies, and fund police. ([source](https://www.mastersonforgovernor.com/about)) On X, he thanked Kansas law enforcement officers and used #BackTheBlue ([source](https://w.twstalker.com/TyMastersonKS)). In endorsement posts, he praised senators for law-enforcement training, drug-trafficking policy, blocking foreign adversaries such as Communist China from buying land near Fort Riley, and being tough on crime. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ty-masterson-04409] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-ty-masterson-03537] The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-"woke" policy, and conservative social policy. The homepage says Kansas is not living up to its "potential" or "promises" and that Masterson is running "To Take Back Kansas." ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03544] Campaign homepage, captured 2026-05-11. Masterson says Kansas is home, accuses Democratic governors and Laura Kelly/Joe Biden alignment of breaking Kansas's promise, cites violent crime, school proficiency, tax burden, and out-migration, and asks voters to "Take Back Kansas." ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03545] Campaign issue page, captured 2026-05-11. The campaign lists taxes, jobs, law enforcement/public safety, reading/math instead of "woke nonsense," and "Kansas values" as the core issue frame. ([source](https://www.mastersonforgovernor.com/about))
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03565] 2026-01 indexed X sample: law enforcement appreciation. Masterson thanked Kansas law enforcement officers and used #BackTheBlue. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03567] 2026-01 indexed X sample: Stephen Owens endorsement. Masterson praised Owens as a "principled warrior," a Kansas Truth Caucus chair, tough on crime, and supportive of drug-treatment and mental-health access. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03581] | Public safety, law enforcement, ICE, crime, drug trafficking, and foreign-adversary land restrictions | 4 | 13% |
+  - Source: memory/candidates/ty-masterson/social-harvest.md:86
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ty-masterson-04249] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-ty-masterson-00011] Several issue areas were not visible in the accessible material reviewed. The public set did not include captured items centered on Medicaid expansion, rural hospital closures, child care, foster care, veterans services, detailed broadband deployment, water policy, the Ogallala aquifer, affordable rental housing, or state employee pay. The available record is therefore strongest on taxes, property values, affordability, anti-"woke" education politics, Trump alignment, public safety, faith/Israel, and campaign endorsements, and thinner on health care, social services, water, and infrastructure detail.
+  - Source: memory/candidates/ty-masterson/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ty-masterson-00442] Assessment: The "core values" language is suggestive but not conclusive. His background is law enforcement and military -- both communities where faith can be deeply held but not publicly displayed. No specific church identified. Recommend direct inquiry.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:243
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-ty-masterson-03463] | Campaign site | Found | Strongest candidate-controlled issue source. Maps to taxes, jobs, public safety, education, LGBTQ+ policy, elections, faith/church metadata. |
+  - Source: memory/candidates/ty-masterson/sleuth-pass.md:36
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00199] Indexed items included property-tax posts, law enforcement appreciation, ICE/Trump post, Charlie Kirk/classroom-speech post, endorsements, agriculture/community stops, and newsletter/signup requests.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:340
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00275] Public Safety / Law Enforcement / Immigration
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:481
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00438] Retired Hays Police officer (19 years HPD + military police = 22 years total)
+  - Source: memory/candidates/ty-masterson/raw-dump.md:238
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00462] FHSU graduate, 24 years law enforcement
+  - Source: memory/candidates/ty-masterson/raw-dump.md:294
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-01483] Ellis County Sheriff primary (if on cycle -- VERIFY)
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2147
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-01496] Ellis County Sheriff (if on cycle -- VERIFY)
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2161
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Bluesky online-reference** [soc-ty-masterson-0006] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-ty-masterson-0007] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0011] The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-"woke" policy, and conservative social policy. The homepage says Kansas is not living up to its "potential" or "promises" and that Masterson is running "To Take Back Kansas." ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0012] Campaign homepage, captured 2026-05-11. Masterson says Kansas is home, accuses Democratic governors and Laura Kelly/Joe Biden alignment of breaking Kansas's promise, cites violent crime, school proficiency, tax burden, and out-migration, and asks voters to "Take Back Kansas." ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0025] Campaign issue page, captured 2026-05-11. The campaign lists taxes, jobs, law enforcement/public safety, reading/math instead of "woke nonsense," and "Kansas values" as the core issue frame. ([source](https://www.mastersonforgovernor.com/about))
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-ty-masterson-0032] | Public safety, law enforcement, ICE, crime, drug trafficking, and foreign-adversary land restrictions | 4 | 13% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong X / Twitter post** [soc-ty-masterson-0035] 2026-01 indexed X sample: Stephen Owens endorsement. Masterson praised Owens as a "principled warrior," a Kansas Truth Caucus chair, tough on crime, and supportive of drug-treatment and mental-health access. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong X / Twitter post** [soc-ty-masterson-0038] 2026-01 indexed X sample: law enforcement appreciation. Masterson thanked Kansas law enforcement officers and used #BackTheBlue. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0131] Debate coverage says the candidates reached platform consensus on judicial selection reform, marijuana, abortion, support for ICE/federal law enforcement, energy, and cooperation with federal government.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0135] Several issue areas were not visible in the accessible material reviewed. The public set did not include captured items centered on Medicaid expansion, rural hospital closures, child care, foster care, veterans services, detailed broadband deployment, water policy, the Ogallala aquifer, affordable rental housing, or state employee pay. The available record is therefore strongest on taxes, property values, affordability, anti-"woke" education politics, Trump alignment, public safety, faith/Israel, and campaign endorsements, and thinner on health care, social services, water, and infrastructure detail.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 12. Agriculture / rural economy / water
+
+Agriculture / rural economy / water: 26 selected evidence items from 67 mapped rows. Public URL-backed rows: 13.
+
+### Evidence
+- **documented-record** [em-ty-masterson-00880] > -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-01229] [Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00251] No detailed rural economic-development plan, workforce plan, or incentive-accountability plan found in candidate-controlled sources.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:426
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-00869] Notable Legislative Focus Areas: Education funding, lowering cost of living, workforce development, small business support, rural healthcare access. Specific bill-by-bill voting record available at kslegislature.gov but not extractable in bulk from search.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:1102
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-01453] The City of Hays manages its own water utility through the city commission
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2092
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-01456] Confidence: MEDIUM -- Library board confirmed as appointed. Hospital/water district status based on available information; recommend confirming with the Ellis County Clerk.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2097
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-02249] He worked to move USAID's Food for Peace program under the Department of Agriculture -- directly relevant to Kansas farmers. He has introduced legislation to codify DOGE spending cuts.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3386
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-02267] The honest assessment: This is a long-shot race for Democrats. But the DOGE layoffs of federal employees in rural Kansas could create unusual dynamics.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3420
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-04389] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-04409] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-00295] No detailed positions found on Medicaid expansion, rural hospitals, child care, foster care, disability services, veterans services, water policy, broadband deployment beyond committee role, or state employee pay.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:528
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-00609] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/ty-masterson/raw-dump.md:652
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-02262] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3412
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-02301] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:3497
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-ty-masterson-03566] 2026-01 indexed X sample: Scott City / agriculture. Masterson said he discussed property tax reform, affordability, and support for agriculture with community leaders in Scott City. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03595] Across the accessible candidate-controlled and indexed public set reviewed, no reviewed item centered Medicaid expansion, rural hospital closures, child care, foster care, veterans services, broadband deployment beyond his committee listing, water policy, Ogallala aquifer policy, state employee pay, affordable rental housing, or detailed mental-health-system funding. Mental health appeared only as part of an endorsement praising another senator's work on drug treatment and mental-health access.
+  - Source: memory/candidates/ty-masterson/social-harvest.md:109
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ty-masterson-02679] Caleb had attended church with his family hours before his death that Sunday morning. The family went from church to the waterpark for what was supposed to be a fun family outing. Source: [Christian Post article](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)
+  - Source: https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ty-masterson-02913] [Christian Post: Caleb attended church hours before death](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)
+  - Source: https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ty-masterson-04249] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-ty-masterson-00011] Several issue areas were not visible in the accessible material reviewed. The public set did not include captured items centered on Medicaid expansion, rural hospital closures, child care, foster care, veterans services, detailed broadband deployment, water policy, the Ogallala aquifer, affordable rental housing, or state employee pay. The available record is therefore strongest on taxes, property values, affordability, anti-"woke" education politics, Trump alignment, public safety, faith/Israel, and campaign endorsements, and thinner on health care, social services, water, and infrastructure detail.
+  - Source: memory/candidates/ty-masterson/in-their-own-words.md:21
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-01231] [Kansas Reflector: Rural voter appeal (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-01251] [Kansas Reflector: Rural voters (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-01272] [Schooley Mitchell: Eberly Farm / Kids Closet story](https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/)
+  - Source: https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-02906] [ABC News: Family of boy killed on water slide speaks out](https://abcnews.go.com/US/family-boy-killed-waterslide-speaks-hurting/story?id=45445546)
+  - Source: https://abcnews.go.com/US/family-boy-killed-waterslide-speaks-hurting/story?id=45445546
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-02914] [TIME: What we know about the water slide death](https://time.com/4444447/caleb-schwab-verruckt-water-slide-death/)
+  - Source: https://time.com/4444447/caleb-schwab-verruckt-water-slide-death/
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-00199] Indexed items included property-tax posts, law enforcement appreciation, ICE/Trump post, Charlie Kirk/classroom-speech post, endorsements, agriculture/community stops, and newsletter/signup requests.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:340
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-ty-masterson-0005] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-ty-masterson-0006] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-ty-masterson-0007] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong X / Twitter post** [soc-ty-masterson-0028] 2026-01 indexed X sample: Scott City / agriculture. Masterson said he discussed property tax reform, affordability, and support for agriculture with community leaders in Scott City. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-ty-masterson-0036] Across the accessible candidate-controlled and indexed public set reviewed, no reviewed item centered Medicaid expansion, rural hospital closures, child care, foster care, veterans services, broadband deployment beyond his committee listing, water policy, Ogallala aquifer policy, state employee pay, affordable rental housing, or detailed mental-health-system funding. Mental health appeared only as part of an endorsement praising another senator's work on drug treatment and mental-health access.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0135] Several issue areas were not visible in the accessible material reviewed. The public set did not include captured items centered on Medicaid expansion, rural hospital closures, child care, foster care, veterans services, detailed broadband deployment, water policy, the Ogallala aquifer, affordable rental housing, or state employee pay. The available record is therefore strongest on taxes, property values, affordability, anti-"woke" education politics, Trump alignment, public safety, faith/Israel, and campaign endorsements, and thinner on health care, social services, water, and infrastructure detail.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0155] SB 169 (2023): Proposed single flat income tax rate of 4.75% for all Kansans earning above $5,225/year. Estimated cost: $566 million/year. Part of three-pronged approach: (1) zero tax on healthy food, (2) reduce/eliminate Social Security tax, (3) flat income tax.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0162] "text": "No detailed healthcare platform was found on the campaign site. HPPR/Kansas Reflector coverage of the White House-praise letter says the 2026 Legislature acted on eligibility data matching for government food and medical assistance, but this pass did not verify the exact bill number and Masterson member vote.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 13. Local governance / transparency / ethics
+
+Local governance / transparency / ethics: 42 selected evidence items from 975 mapped rows. Public URL-backed rows: 156.
+
+### Evidence
+- **candidate-stated** [em-ty-masterson-00087] Education plank: says Kansas students are underperforming in reading/math; promises teacher pay for "good teachers," parent say, and accountability.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:120
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-00165] On STAR bonds/economic development, he defended use of STAR bonds for the Kansas City Chiefs stadium effort and said he wanted things built in Kansas.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:284
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-00184] Existing local artifact says article reported Trump 2024 orbit consultants and outside groups backing Masterson through Take Back Kansas / Take Back Kansas Action.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:316
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-00200] Engagement figures are mirror-visible only and not official platform analytics.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:341
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-00249] Salina Post debate says Masterson defended STAR bonds for the Kansas City Chiefs stadium effort and said he wanted things built in Kansas.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:420
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-02715] Kansas requires a Statement of Substantial Interests (SSI) for state officials. These filings are available through the Kansas Secretary of State's office but are not comprehensively digitized for public search online.
+  - Source: memory/candidates/ty-masterson/raw-dump.md:4147
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-03137] | June 14, 2023 | Public announcement via official statement |
+  - Source: memory/candidates/ty-masterson/raw-dump.md:4851
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-ty-masterson-03203] | Kansans for Life PAC | ACTIVELY OPPOSING | Released formal statement calling her record "the worst on life of any Republican to ever seek office in Kansas" |
+  - Source: memory/candidates/ty-masterson/raw-dump.md:4973
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-00003] Across the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the "16th highest tax burden" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a January 2026 indexed X post, he wrote that Kansans are "being taxed out of their homes" and called property taxes the state's "number one crisis" ([source](https://w.twstalker.com/TyMastersonKS)). That was the highest visible-engagement item in the harvest, with about 64K views in the public mirror.
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00004] His campaign message pairs that tax frame with a broader "Take Back Kansas" argument. On the campaign homepage, Masterson says Kansas promised safe communities, low cost of living, and a shot at the American Dream, but that "liberal Democrats" and Laura Kelly's alignment with Joe Biden broke that promise. ([source](https://www.mastersonforgovernor.com/)) The site says, "Kansas is not living up to its potential -- or its promises," and presents his Senate record as proof he can make "big change" from the governor's office. ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00005] Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank "Teach reading. Teach math. Not woke nonsense," citing low fourth-grade proficiency and promising higher pay for "good teachers," parental say, and accountability. ([source](https://www.mastersonforgovernor.com/about)) The biography page says he fought DEI in higher education, transgender participation in women's sports, and transgender surgeries for minors. ([source](https://www.mastersonforgovernor.com/services)) In a January 2026 indexed X post, Masterson wrote that Charlie Kirk was "martyred for freedom of speech" and said he was drafting legislation to protect free speech in K-12 classrooms. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00006] The reviewed campaign and social material also shows a deliberate Trump-alignment strategy. Washington Examiner reported on November 11, 2025, that Trump 2024 orbit consultants and outside groups were organizing behind Masterson through Take Back Kansas and Take Back Kansas Action. ([source](https://www.washingtonexaminer.com/news/campaigns/state/3883028/trumpworld-gets-behind-ty-masterson-kansas-governor-race/)) In the X sample, Masterson wrote, "I stand with ICE and with President Trump!" ([source](https://w.twstalker.com/TyMastersonKS)) and said President Trump's affordability agenda was making home ownership attainable, adding that as governor he would "Make Kansas Affordable Again." ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://www.washingtonexaminer.com/news/campaigns/state/3883028/trumpworld-gets-behind-ty-masterson-kansas-governor-race/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00009] The strongest structural-power signal is redistricting. KWCH reported in September 2025 that Masterson confirmed plans for a fall special session to consider redrawing Kansas's congressional map. ([source](https://www.kwch.com/2025/09/24/gubernatorial-candidate-ty-masterson-confirms-plan-fall-redistricting-session/)) In October, KWCH quoted him saying redistricting is a "standard political tool" and that the aim was to strengthen Kansas Republican representation in Congress to back President Trump's agenda. ([source](https://www.kwch.com/2025/10/14/redistricting-fight-heats-up-between-kansas-governor-candidates/))
+  - Source: https://www.kwch.com/2025/09/24/gubernatorial-candidate-ty-masterson-confirms-plan-fall-redistricting-session/
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00010] Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/)) The campaign biography condenses that record into the claim that he delivered conservative priorities: lower taxes, efficient spending, safer communities, stronger elections, and opposition to the "woke agenda." ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-ty-masterson-00023] Candidate-controlled campaign site is https://www.mastersonforgovernor.com/; current UI has an unrelated mann.house.gov campaignWebsite value.
+  - Source: https://www.mastersonforgovernor.com/`
+  - Confidence/use: likely / use
+- **documented-record** [em-ty-masterson-00170] "url": "https://www.haysusa.com/335/Public-Library-Board"
+  - Source: https://www.haysusa.com/335/Public-Library-Board
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-ty-masterson-00177] "url": "https://www.fec.gov/data/elections/senate/KS/2026/"
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-ty-masterson-01127] > -- [Kansas Reflector, January 19, 2026](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)
+  - Source: https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ty-masterson-01276] [Kansas Reflector: Millionaire candidates (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)
+  - Source: https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ty-masterson-01286] [Trending Politics: Frontrunner emerges](https://trendingpoliticsnews.com/new-frontrunner-emerges-in-key-race-as-gop-candidate-shatters-fundraising-records-mace/)
+  - Source: https://trendingpoliticsnews.com/new-frontrunner-emerges-in-key-race-as-gop-candidate-shatters-fundraising-records-mace/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ty-masterson-01923] | Campaign/Donation Site | [colyerforgovernor.com](https://www.colyerforgovernor.com/) |
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-ty-masterson-02090] [Kansas Reflector - Millionaire candidates fundraising (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)
+  - Source: https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/
+  - Confidence/use: likely / use
+- **social-online-signal** [em-ty-masterson-02454] | X (Twitter) | [@KansasSOS](https://x.com/KansasSOS) | Official Office | Office of Kansas Secretary of State |
+  - Source: https://x.com/KansasSOS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-02456] | Instagram | [@kansassos](https://www.instagram.com/kansassos/) | Official Office | Kansas Secretary of State office account |
+  - Source: https://www.instagram.com/kansassos/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-02991] | Facebook | [@VickiSchmidtKS](https://www.facebook.com/VickiSchmidtKS/) | Bio: "Lifelong Kansan & Republican, Mother & Grandmother, Local Pharmacist, Running for Governor" |
+  - Source: https://www.facebook.com/VickiSchmidtKS/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03522] | Campaign site | https://www.mastersonforgovernor.com/ | FOUND | Official campaign site. Source HTML showed publication date Apr 30, 2026; public text was accessible on 2026-05-11. |
+  - Source: https://www.mastersonforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03525] | X / Twitter | https://twitter.com/TyMastersonKS and https://x.com/TyMastersonKS | FOUND | Campaign site links this account. Indexed mirror metadata: official account for Kansas Senate President Ty Masterson, joined January 2021, about 527 tweets, 3K followers, 61 following, 78 likes in the public mirror capture. Direct X timeline was not accessible logged out. |
+  - Source: https://twitter.com/TyMastersonKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03537] The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-"woke" policy, and conservative social policy. The homepage says Kansas is not living up to its "potential" or "promises" and that Masterson is running "To Take Back Kansas." ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03541] The public X mirror identifies @TyMastersonKS as the official account for Kansas Senate President Ty Masterson, linking to the campaign site and listing about 527 tweets and 3K followers in the mirror capture. ([source](https://w.twstalker.com/TyMastersonKS)) Direct X profile pages were walled or empty in logged-out capture, so the X sample below relies on indexed public snippets and mirrors, not a complete X export.
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-ty-masterson-03546] Campaign biography page, captured 2026-05-11. The biography ties Masterson's public identity to faith, family, Butler County roots, Senate leadership, GoCreate, NewSpring Church, and anti-DEI / anti-transgender policy claims. ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.mastersonforgovernor.com/services
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-ty-masterson-00533] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ty-masterson-00730] [KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **faith-community-record** [em-ty-masterson-04249] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-ty-masterson-00389] CONFIRMED = Named church/denomination found in official profile, news article, or candidate bio
+  - Source: memory/candidates/ty-masterson/raw-dump.md:123
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-ty-masterson-03468] | Young Republicans photo controversy | Secondary lead only | Kansas City Star / Kansas Reflector reported Dwyer and Hendrix were photographed at Masterson's kickoff and that Masterson posted a statement denying association with them. This maps to campaign-affiliation scrutiny only; no belief inference. |
+  - Source: memory/candidates/ty-masterson/sleuth-pass.md:41
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-ty-masterson-03861] "text": "The campaign site links Facebook, Instagram, and X as official online surfaces. Facebook and Instagram were login-limited, and direct X was not fully available logged out. Secondary reporting on the Kansas Young Republicans chat controversy said two Kansas Young Republican leaders were photographed at a Masterson campaign event and that Masterson publicly denied campaign association with them.",
+  - Source: ui/src/data/v2/ty-masterson.ts:443
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-00452] [City Manager's Office - Hays](https://www.haysusa.com/149/City-Managers-Office)
+  - Source: https://www.haysusa.com/149/City-Managers-Office
+  - Confidence/use: confirmed / use
+- **background-context** [em-ty-masterson-00464] [Kansas Sheriffs' Association - Ellis County](https://www.kansassheriffs.org/county_map/county/914)
+  - Source: https://www.kansassheriffs.org/county_map/county/914
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-00479] [HaysPost: New Ellis County Attorney](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1)
+  - Source: https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-00522] [FHSU: Germans from Russia in Ellis County](https://fhsuguides.fhsu.edu/kansasheritage/elliscounty)
+  - Source: https://fhsuguides.fhsu.edu/kansasheritage/elliscounty
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-00541] [Ellis County Register of Deeds](https://www.ellisco.net/100/Register-of-Deeds)
+  - Source: https://www.ellisco.net/100/Register-of-Deeds
+  - Confidence/use: confirmed / use
+- **background-context** [em-ty-masterson-00542] [Kansas Register of Deeds Association](https://ksrods.com/contact-information/ellis-county-el-nc-district/)
+  - Source: https://ksrods.com/contact-information/ellis-county-el-nc-district/
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous kslegislature.gov online-reference** [soc-ty-masterson-0001] Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/)) The campaign biography condenses that record into the claim that he delivered conservative priorities: lower taxes, efficient spending, safer communities, stronger elections, and opposition to the "woke agenda." ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.kslegislature.gov/legislators/sen_masterson_ty_1/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ty-masterson-0003] Across the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the "16th highest tax burden" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a January 2026 indexed X post, he wrote that Kansans are "being taxed out of their homes" and called property taxes the state's "number one crisis" ([source](https://w.twstalker.com/TyMastersonKS)). That was the highest visible-engagement item in the harvest, with about 64K views in the public mirror.
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-ty-masterson-0004] The reviewed campaign and social material also shows a deliberate Trump-alignment strategy. Washington Examiner reported on November 11, 2025, that Trump 2024 orbit consultants and outside groups were organizing behind Masterson through Take Back Kansas and Take Back Kansas Action. ([source](https://www.washingtonexaminer.com/news/campaigns/state/3883028/trumpworld-gets-behind-ty-masterson-kansas-governor-race/)) In the X sample, Masterson wrote, "I stand with ICE and with President Trump!" ([source](https://w.twstalker.com/TyMastersonKS)) and said President Trump's affordability agenda was making home ownership attainable, adding that as governor he would "Make Kansas Affordable Again." ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://www.washingtonexaminer.com/news/campaigns/state/3883028/trumpworld-gets-behind-ty-masterson-kansas-governor-race/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-ty-masterson-0005] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-ty-masterson-0006] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-ty-masterson-0007] narrative: "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a Ja…
+  - Source: https://www.mastersonforgovernor.com/about
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0009] Campaign biography page, captured 2026-05-11. The biography ties Masterson's public identity to faith, family, Butler County roots, Senate leadership, GoCreate, NewSpring Church, and anti-DEI / anti-transgender policy claims. ([source](https://www.mastersonforgovernor.com/services))
+  - Source: https://www.mastersonforgovernor.com/services
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong mastersonforgovernor.com post** [soc-ty-masterson-0011] The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-"woke" policy, and conservative social policy. The homepage says Kansas is not living up to its "potential" or "promises" and that Masterson is running "To Take Back Kansas." ([source](https://www.mastersonforgovernor.com/))
+  - Source: https://www.mastersonforgovernor.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-ty-masterson-0019] The reviewed set contained multiple references to schools, but the visible education material focused on proficiency, parental say, accountability, anti-"woke" language, free speech, device/social-media rules, and student-focused education rather than school-finance formulas, special-education funding, teacher-retention plans beyond raising pay for "good teachers," or higher-education affordability.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong X / Twitter post** [soc-ty-masterson-0028] 2026-01 indexed X sample: Scott City / agriculture. Masterson said he discussed property tax reform, affordability, and support for agriculture with community leaders in Scott City. ([source](https://w.twstalker.com/TyMastersonKS))
+  - Source: https://w.twstalker.com/TyMastersonKS
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 14. Environment / energy / land use
+
+Environment / energy / land use: 12 selected evidence items from 12 mapped rows. Public URL-backed rows: 3.
+
+### Evidence
+- **candidate-stated** [em-ty-masterson-00167] Debate coverage says the candidates reached platform consensus on judicial selection reform, marijuana, abortion, support for ICE/federal law enforcement, energy, and cooperation with federal government.
+  - Source: memory/candidates/ty-masterson/raw-dump-v2.md:286
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-01453] The City of Hays manages its own water utility through the city commission
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2092
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-03450] | Formal ballot filing | Could not confirm from SOS candidate-list endpoint in this environment | Kansas SOS says candidates are not considered filed until petition/declaration and fee are received, and the 2026 primary filing deadline is 12:00 p.m. Monday, 2026-06-01. The SOS candidate-list page was CloudFront/JavaScript-gated during this pass. |
+  - Source: memory/candidates/ty-masterson/sleuth-pass.md:18
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-ty-masterson-04072] Significance: ALEC membership and national chairmanship represents deep connection to corporate-funded model legislation pipeline. ALEC has drafted template bills on school choice, flat taxes, election integrity, and criminal justice that closely mirror Masterson's Kansas legislative priorities.
+  - Source: reports/ty-masterson-complete-dossier.md:600
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-ty-masterson-04389] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-ty-masterson-04409] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **background-context** [em-ty-masterson-01288] [NOLN: Strickland Brothers franchise owner](https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor)
+  - Source: https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor
+  - Confidence/use: likely / use
+- **background-context** [em-ty-masterson-01155] Largest national franchise owner, Strickland Brothers 10 Minute Oil Change -- locations across Kansas including Andover, El Dorado, Derby, Pittsburg, Fort Scott, Independence
+  - Source: memory/candidates/ty-masterson/raw-dump.md:1626
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-01451] Water District / Utility Boards
+  - Source: memory/candidates/ty-masterson/raw-dump.md:2090
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-02641] "Caleb was an incredible young man. He's going to be missed for his energy, for his life, for his smile, for the way he lit up a room."
+  - Source: memory/candidates/ty-masterson/raw-dump.md:4024
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-03194] Upside: She avoids being attacked on her abortion record in a hostile environment, maintains her "above the fray" positioning, and scores points with voters skeptical of party establishment
+  - Source: memory/candidates/ty-masterson/raw-dump.md:4955
+  - Confidence/use: unknown / background-only
+- **background-context** [em-ty-masterson-03717] "The debate field showed consensus on judicial selection, marijuana, abortion, ICE/federal law enforcement, and energy"
+  - Source: memory/candidates/ty-masterson/v2-issues.yaml:254
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-ty-masterson-0005] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Bluesky online-reference** [soc-ty-masterson-0006] narrative: "_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing judges in partisan elections, removing DEI/WOKE/CRT fro…
+  - Source: https://oharaforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-ty-masterson-0131] Debate coverage says the candidates reached platform consensus on judicial selection reform, marijuana, abortion, support for ICE/federal law enforcement, energy, and cooperation with federal government.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.

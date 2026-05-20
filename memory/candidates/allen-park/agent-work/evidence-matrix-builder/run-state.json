@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "allen-park",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/allen-park/evidence-matrix-raw.json",
+    "memory/candidates/allen-park/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/allen-park/evidence-matrix.json",
+    "memory/candidates/allen-park/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/allen-park/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/allen-park/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs allen-park"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for allen-park.",
+    "Run source-tier-validator for allen-park."
+  ],
+  "handoff_summary": "Built final evidence matrix for allen-park: 3714 raw rows to 1799 deduplicated rows."
+}

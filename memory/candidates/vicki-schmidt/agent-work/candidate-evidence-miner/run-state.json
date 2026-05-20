@@ -1,0 +1,50 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "vicki-schmidt",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/vicki-schmidt/in-their-own-words.md",
+    "memory/candidates/vicki-schmidt/raw-dump-v2.md",
+    "memory/candidates/vicki-schmidt/raw-dump.md",
+    "memory/candidates/vicki-schmidt/site-profile.md",
+    "memory/candidates/vicki-schmidt/sleuth-pass.md",
+    "memory/candidates/vicki-schmidt/social-harvest.md",
+    "memory/candidates/vicki-schmidt/v2-issues.yaml",
+    "memory/elections/2026-11-03-kansas-governor.md",
+    "memory/elections/2026-11-03-kansas-insurance-commissioner.md",
+    "memory/elections/2026-11-03-ks-governor.md",
+    "memory/elections/2026-11-03-ks-statewide-offices.md",
+    "reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md",
+    "reports/faith-church-investigation-2026-03-31.md",
+    "reports/hays-kansas-election-finder-2026-03-30.md",
+    "reports/jeff-colyer-complete-dossier.md",
+    "reports/plain-english-voter-guide.md",
+    "reports/scott-schwab-complete-dossier.md",
+    "reports/sos-insurance-ks01-all-candidates-complete.md",
+    "reports/ty-masterson-complete-dossier.md",
+    "reports/vicki-schmidt-complete-dossier.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/vicki-schmidt.ts"
+  ],
+  "files_written": [
+    "memory/candidates/vicki-schmidt/evidence-matrix-raw.json",
+    "memory/candidates/vicki-schmidt/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/vicki-schmidt/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/vicki-schmidt/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/vicki-schmidt/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs vicki-schmidt"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for vicki-schmidt."
+  ],
+  "handoff_summary": "Extracted 11631 raw evidence rows for vicki-schmidt."
+}

@@ -1,0 +1,42 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "lauren-reinhold",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/lauren-reinhold/in-their-own-words.md",
+    "memory/candidates/lauren-reinhold/raw-dump-v2.md",
+    "memory/candidates/lauren-reinhold/raw-dump.md",
+    "memory/candidates/lauren-reinhold/site-profile.md",
+    "memory/candidates/lauren-reinhold/sleuth-pass.md",
+    "memory/candidates/lauren-reinhold/social-harvest.md",
+    "memory/candidates/lauren-reinhold/v2-issues.yaml",
+    "memory/elections/2026-11-03-us-house-ks01.md",
+    "reports/KS-01-2026-challengers-investigation.md",
+    "reports/hays-kansas-election-finder-2026-03-30.md",
+    "reports/plain-english-voter-guide.md",
+    "reports/sos-insurance-ks01-all-candidates-complete.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/lauren-reinhold.ts"
+  ],
+  "files_written": [
+    "memory/candidates/lauren-reinhold/evidence-matrix-raw.json",
+    "memory/candidates/lauren-reinhold/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/lauren-reinhold/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/lauren-reinhold/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/lauren-reinhold/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs lauren-reinhold"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for lauren-reinhold."
+  ],
+  "handoff_summary": "Extracted 4540 raw evidence rows for lauren-reinhold."
+}

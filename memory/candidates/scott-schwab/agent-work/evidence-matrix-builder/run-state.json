@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "scott-schwab",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/scott-schwab/evidence-matrix-raw.json",
+    "memory/candidates/scott-schwab/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/scott-schwab/evidence-matrix.json",
+    "memory/candidates/scott-schwab/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/scott-schwab/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/scott-schwab/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs scott-schwab"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for scott-schwab.",
+    "Run source-tier-validator for scott-schwab."
+  ],
+  "handoff_summary": "Built final evidence matrix for scott-schwab: 13261 raw rows to 4689 deduplicated rows."
+}

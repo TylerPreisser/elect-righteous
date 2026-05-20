@@ -1,0 +1,42 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "colin-mcroberts",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/colin-mcroberts/in-their-own-words.md",
+    "memory/candidates/colin-mcroberts/raw-dump-v2.md",
+    "memory/candidates/colin-mcroberts/raw-dump.md",
+    "memory/candidates/colin-mcroberts/site-profile.md",
+    "memory/candidates/colin-mcroberts/sleuth-pass.md",
+    "memory/candidates/colin-mcroberts/social-harvest.md",
+    "memory/candidates/colin-mcroberts/v2-issues.yaml",
+    "memory/elections/2026-11-03-us-house-ks01.md",
+    "reports/KS-01-2026-challengers-investigation.md",
+    "reports/hays-kansas-election-finder-2026-03-30.md",
+    "reports/plain-english-voter-guide.md",
+    "reports/sos-insurance-ks01-all-candidates-complete.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/colin-mcroberts.ts"
+  ],
+  "files_written": [
+    "memory/candidates/colin-mcroberts/evidence-matrix-raw.json",
+    "memory/candidates/colin-mcroberts/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/colin-mcroberts/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/colin-mcroberts/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/colin-mcroberts/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs colin-mcroberts"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for colin-mcroberts."
+  ],
+  "handoff_summary": "Extracted 4899 raw evidence rows for colin-mcroberts."
+}

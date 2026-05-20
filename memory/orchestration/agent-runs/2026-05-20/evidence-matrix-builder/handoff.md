@@ -1,25 +1,217 @@
 # Handoff — evidence-matrix-builder — 2026-05-20
 
 ## What I Did
-Built final evidence-matrix.json files for roger-marshall, damon-anderson, jason-hart from the raw line-level matrices produced by candidate-evidence-miner.
+Built final evidence-matrix.json files for aaron-cunningham, adam-hamilton, alaina-cunningham, allen-park, anne-parelkar, barb-wasinger, bobbi-dreiling, brandon-adams, cathy-hopkins, charlotte-ohara, chase-laporte, chris-mann, christy-cauble-davis, cindy-holscher, colin-mcroberts, craig-musser, craig-pallister, curt-vajnar, daniel-hawkins, david-vilaysing, derek-yarmer, dinah-sykes, doug-billings, eric-lund, erik-murray, ethan-corson, jayme-goetz, jeff-colyer, jennifer-day, joy-eakins, ken-brooks, ken-rahjes, kevin-latz, kris-kobach, lauren-reinhold, lorie-wood, mark-lane, marty-tuley, mason-ruder, michael-berges, michael-soetaert, michelle-cunningham, nathan-leiker, neal-younger, noah-taylor, pat-proctor, patrick-schmidt, philip-sarnecki, rebecca-herzog, ric-koehn, ron-wilson, ruth-ruder, sam-lane, sandy-jacobs, sandy-spidel-neumann, scott-braun, scott-schwab, sharilyn-ray, shaun-musil, stacy-rogers, steven-jacob, steven-johnson, toby-dougherty, tracey-mann, ty-masterson, vernon-ruder-jr, vicki-schmidt from the raw line-level matrices produced by candidate-evidence-miner.
 
 ## Key Findings
-- roger-marshall: 10037 raw rows → 6188 final rows; use decisions {"use":371,"use-with-caveat":140,"source-only":202,"background-only":4393,"reject":1082}.
-- damon-anderson: 667 raw rows → 343 final rows; use decisions {"use":5,"use-with-caveat":5,"source-only":4,"background-only":221,"reject":108}.
-- jason-hart: 5407 raw rows → 3561 final rows; use decisions {"use":186,"use-with-caveat":117,"source-only":97,"background-only":2530,"reject":631}.
+- aaron-cunningham: 10962 raw rows → 3028 final rows; use decisions {"use":151,"use-with-caveat":61,"source-only":87,"background-only":2082,"reject":647}.
+- adam-hamilton: 426 raw rows → 157 final rows; use decisions {"use":1,"use-with-caveat":4,"source-only":2,"background-only":111,"reject":39}.
+- alaina-cunningham: 9899 raw rows → 3257 final rows; use decisions {"use":195,"use-with-caveat":47,"source-only":118,"background-only":2211,"reject":686}.
+- allen-park: 3714 raw rows → 1799 final rows; use decisions {"use":111,"use-with-caveat":36,"source-only":32,"background-only":1218,"reject":402}.
+- anne-parelkar: 9237 raw rows → 3985 final rows; use decisions {"use":212,"use-with-caveat":90,"source-only":102,"background-only":2883,"reject":698}.
+- barb-wasinger: 5056 raw rows → 2887 final rows; use decisions {"use":221,"use-with-caveat":44,"source-only":96,"background-only":2079,"reject":447}.
+- bobbi-dreiling: 8655 raw rows → 3204 final rows; use decisions {"use":190,"use-with-caveat":58,"source-only":121,"background-only":2136,"reject":699}.
+- brandon-adams: 400 raw rows → 145 final rows; use decisions {"use":1,"use-with-caveat":4,"background-only":105,"reject":35}.
+- cathy-hopkins: 2045 raw rows → 948 final rows; use decisions {"use":17,"source-only":2,"background-only":771,"reject":158}.
+- charlotte-ohara: 4139 raw rows → 1525 final rows; use decisions {"use":90,"use-with-caveat":39,"source-only":22,"background-only":1112,"reject":262}.
+- chase-laporte: 8166 raw rows → 3520 final rows; use decisions {"use":198,"use-with-caveat":23,"source-only":117,"background-only":2556,"reject":626}.
+- chris-mann: 6022 raw rows → 2821 final rows; use decisions {"use":162,"use-with-caveat":50,"source-only":70,"background-only":2062,"reject":477}.
+- christy-cauble-davis: 7666 raw rows → 3180 final rows; use decisions {"use":147,"use-with-caveat":43,"source-only":91,"background-only":2382,"reject":517}.
+- cindy-holscher: 6287 raw rows → 2529 final rows; use decisions {"use":179,"use-with-caveat":61,"source-only":47,"background-only":1752,"reject":490}.
+- colin-mcroberts: 4899 raw rows → 2137 final rows; use decisions {"use":151,"use-with-caveat":82,"source-only":41,"background-only":1554,"reject":309}.
+- craig-musser: 3616 raw rows → 1409 final rows; use decisions {"use":73,"use-with-caveat":42,"source-only":44,"background-only":1089,"reject":161}.
+- craig-pallister: 3558 raw rows → 1791 final rows; use decisions {"use":118,"use-with-caveat":53,"source-only":20,"background-only":1218,"reject":382}.
+- curt-vajnar: 3009 raw rows → 1699 final rows; use decisions {"use":148,"use-with-caveat":52,"source-only":25,"background-only":1142,"reject":332}.
+- daniel-hawkins: 3093 raw rows → 1632 final rows; use decisions {"use":93,"use-with-caveat":38,"source-only":41,"background-only":1251,"reject":209}.
+- david-vilaysing: 4832 raw rows → 2734 final rows; use decisions {"use":128,"use-with-caveat":51,"source-only":71,"background-only":1940,"reject":544}.
+- derek-yarmer: 3836 raw rows → 1955 final rows; use decisions {"use":109,"use-with-caveat":40,"source-only":38,"background-only":1384,"reject":384}.
+- dinah-sykes: 4843 raw rows → 1877 final rows; use decisions {"use":142,"use-with-caveat":55,"source-only":47,"background-only":1372,"reject":261}.
+- doug-billings: 544 raw rows → 226 final rows; use decisions {"use":1,"use-with-caveat":4,"source-only":2,"background-only":161,"reject":58}.
+- eric-lund: 393 raw rows → 135 final rows; use decisions {"use":1,"use-with-caveat":4,"background-only":107,"reject":23}.
+- erik-murray: 8716 raw rows → 3339 final rows; use decisions {"use":159,"use-with-caveat":52,"source-only":85,"background-only":2474,"reject":569}.
+- ethan-corson: 11399 raw rows → 2524 final rows; use decisions {"use":185,"use-with-caveat":44,"source-only":54,"background-only":1779,"reject":462}.
+- jayme-goetz: 3876 raw rows → 1832 final rows; use decisions {"use":114,"use-with-caveat":57,"source-only":18,"background-only":1280,"reject":363}.
+- jeff-colyer: 13312 raw rows → 4560 final rows; use decisions {"use":254,"use-with-caveat":38,"source-only":120,"background-only":3310,"reject":838}.
+- jennifer-day: 2339 raw rows → 1261 final rows; use decisions {"use":76,"use-with-caveat":46,"source-only":21,"background-only":955,"reject":163}.
+- joy-eakins: 7795 raw rows → 3122 final rows; use decisions {"use":168,"use-with-caveat":43,"source-only":60,"background-only":2311,"reject":540}.
+- ken-brooks: 4126 raw rows → 2330 final rows; use decisions {"use":171,"use-with-caveat":61,"source-only":32,"background-only":1628,"reject":438}.
+- ken-rahjes: 2933 raw rows → 1354 final rows; use decisions {"use":71,"use-with-caveat":32,"source-only":21,"background-only":1067,"reject":163}.
+- kevin-latz: 403 raw rows → 150 final rows; use decisions {"use":1,"use-with-caveat":4,"source-only":1,"background-only":105,"reject":39}.
+- kris-kobach: 12133 raw rows → 5235 final rows; use decisions {"use":294,"use-with-caveat":72,"source-only":132,"background-only":3925,"reject":812}.
+- lauren-reinhold: 4540 raw rows → 2030 final rows; use decisions {"use":139,"use-with-caveat":54,"source-only":45,"background-only":1480,"reject":312}.
+- lorie-wood: 507 raw rows → 184 final rows; use decisions {"use":3,"use-with-caveat":6,"source-only":1,"background-only":143,"reject":31}.
+- mark-lane: 400 raw rows → 142 final rows; use decisions {"use":1,"use-with-caveat":4,"background-only":104,"reject":33}.
+- marty-tuley: 6108 raw rows → 1678 final rows; use decisions {"use":110,"use-with-caveat":33,"source-only":36,"background-only":1247,"reject":252}.
+- mason-ruder: 8062 raw rows → 4005 final rows; use decisions {"use":286,"use-with-caveat":49,"source-only":152,"background-only":2804,"reject":714}.
+- michael-berges: 3564 raw rows → 1335 final rows; use decisions {"use":24,"use-with-caveat":5,"source-only":2,"background-only":1006,"reject":298}.
+- michael-soetaert: 9840 raw rows → 3361 final rows; use decisions {"use":182,"use-with-caveat":34,"source-only":89,"background-only":2464,"reject":592}.
+- michelle-cunningham: 391 raw rows → 140 final rows; use decisions {"use":1,"use-with-caveat":4,"background-only":111,"reject":24}.
+- nathan-leiker: 7792 raw rows → 3141 final rows; use decisions {"use":165,"use-with-caveat":54,"source-only":102,"background-only":2199,"reject":621}.
+- neal-younger: 8482 raw rows → 3378 final rows; use decisions {"use":145,"use-with-caveat":56,"source-only":87,"background-only":2429,"reject":661}.
+- noah-taylor: 552 raw rows → 311 final rows; use decisions {"use":19,"use-with-caveat":4,"background-only":205,"reject":83}.
+- pat-proctor: 2519 raw rows → 1183 final rows; use decisions {"use":81,"use-with-caveat":8,"source-only":23,"background-only":884,"reject":187}.
+- patrick-schmidt: 9914 raw rows → 3387 final rows; use decisions {"use":151,"use-with-caveat":28,"source-only":85,"background-only":2544,"reject":579}.
+- philip-sarnecki: 7912 raw rows → 3124 final rows; use decisions {"use":163,"use-with-caveat":57,"source-only":64,"background-only":2313,"reject":527}.
+- rebecca-herzog: 4389 raw rows → 2642 final rows; use decisions {"use":159,"use-with-caveat":32,"source-only":81,"background-only":1791,"reject":579}.
+- ric-koehn: 404 raw rows → 139 final rows; use decisions {"use":1,"use-with-caveat":4,"background-only":111,"reject":23}.
+- ron-wilson: 9051 raw rows → 2011 final rows; use decisions {"use":107,"use-with-caveat":51,"source-only":26,"background-only":1414,"reject":413}.
+- ruth-ruder: 5236 raw rows → 3075 final rows; use decisions {"use":225,"use-with-caveat":17,"source-only":58,"background-only":2234,"reject":541}.
+- sam-lane: 2485 raw rows → 1317 final rows; use decisions {"use":98,"use-with-caveat":66,"source-only":22,"background-only":986,"reject":145}.
+- sandy-jacobs: 12375 raw rows → 3074 final rows; use decisions {"use":140,"use-with-caveat":54,"source-only":77,"background-only":2130,"reject":673}.
+- sandy-spidel-neumann: 10110 raw rows → 3205 final rows; use decisions {"use":156,"use-with-caveat":31,"source-only":79,"background-only":2347,"reject":592}.
+- scott-braun: 5863 raw rows → 2774 final rows; use decisions {"use":182,"use-with-caveat":52,"source-only":90,"background-only":1870,"reject":580}.
+- scott-schwab: 13261 raw rows → 4689 final rows; use decisions {"use":244,"use-with-caveat":32,"source-only":119,"background-only":3474,"reject":820}.
+- sharilyn-ray: 410 raw rows → 143 final rows; use decisions {"use":1,"use-with-caveat":4,"background-only":106,"reject":32}.
+- shaun-musil: 11948 raw rows → 2850 final rows; use decisions {"use":151,"use-with-caveat":48,"source-only":98,"background-only":1986,"reject":567}.
+- stacy-rogers: 7918 raw rows → 2949 final rows; use decisions {"use":196,"use-with-caveat":32,"source-only":62,"background-only":2174,"reject":485}.
+- steven-jacob: 362 raw rows → 143 final rows; use decisions {"use":1,"use-with-caveat":4,"background-only":101,"reject":37}.
+- steven-johnson: 509 raw rows → 240 final rows; use decisions {"use":7,"use-with-caveat":4,"source-only":5,"background-only":182,"reject":42}.
+- toby-dougherty: 9033 raw rows → 3057 final rows; use decisions {"use":156,"use-with-caveat":49,"source-only":80,"background-only":2137,"reject":635}.
+- tracey-mann: 6113 raw rows → 3228 final rows; use decisions {"use":201,"use-with-caveat":15,"source-only":87,"background-only":2371,"reject":554}.
+- ty-masterson: 11653 raw rows → 4568 final rows; use decisions {"use":233,"use-with-caveat":48,"source-only":107,"background-only":3339,"reject":841}.
+- vernon-ruder-jr: 5657 raw rows → 3331 final rows; use decisions {"use":183,"use-with-caveat":31,"source-only":94,"background-only":2083,"reject":940}.
+- vicki-schmidt: 11631 raw rows → 4205 final rows; use decisions {"use":242,"use-with-caveat":49,"source-only":99,"background-only":3078,"reject":737}.
 
 ## Files Created or Modified
-- memory/candidates/roger-marshall/evidence-matrix.json: final reconciled evidence matrix.
-- memory/candidates/damon-anderson/evidence-matrix.json: final reconciled evidence matrix.
-- memory/candidates/jason-hart/evidence-matrix.json: final reconciled evidence matrix.
-- memory/candidates/roger-marshall/agent-work/evidence-matrix-builder/*: candidate-specific run files.
-- memory/candidates/damon-anderson/agent-work/evidence-matrix-builder/*: candidate-specific run files.
-- memory/candidates/jason-hart/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/aaron-cunningham/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/adam-hamilton/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/alaina-cunningham/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/allen-park/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/anne-parelkar/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/barb-wasinger/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/bobbi-dreiling/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/brandon-adams/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/cathy-hopkins/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/charlotte-ohara/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/chase-laporte/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/chris-mann/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/christy-cauble-davis/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/cindy-holscher/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/colin-mcroberts/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/craig-musser/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/craig-pallister/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/curt-vajnar/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/daniel-hawkins/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/david-vilaysing/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/derek-yarmer/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/dinah-sykes/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/doug-billings/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/eric-lund/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/erik-murray/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/ethan-corson/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/jayme-goetz/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/jeff-colyer/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/jennifer-day/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/joy-eakins/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/ken-brooks/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/ken-rahjes/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/kevin-latz/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/kris-kobach/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/lauren-reinhold/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/lorie-wood/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/mark-lane/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/marty-tuley/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/mason-ruder/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/michael-berges/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/michael-soetaert/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/michelle-cunningham/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/nathan-leiker/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/neal-younger/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/noah-taylor/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/pat-proctor/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/patrick-schmidt/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/philip-sarnecki/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/rebecca-herzog/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/ric-koehn/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/ron-wilson/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/ruth-ruder/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/sam-lane/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/sandy-jacobs/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/sandy-spidel-neumann/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/scott-braun/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/scott-schwab/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/sharilyn-ray/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/shaun-musil/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/stacy-rogers/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/steven-jacob/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/steven-johnson/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/toby-dougherty/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/tracey-mann/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/ty-masterson/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/vernon-ruder-jr/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/vicki-schmidt/evidence-matrix.json: final reconciled evidence matrix.
+- memory/candidates/aaron-cunningham/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/adam-hamilton/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/alaina-cunningham/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/allen-park/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/anne-parelkar/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/barb-wasinger/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/bobbi-dreiling/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/brandon-adams/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/cathy-hopkins/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/charlotte-ohara/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/chase-laporte/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/chris-mann/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/christy-cauble-davis/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/cindy-holscher/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/colin-mcroberts/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/craig-musser/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/craig-pallister/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/curt-vajnar/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/daniel-hawkins/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/david-vilaysing/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/derek-yarmer/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/dinah-sykes/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/doug-billings/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/eric-lund/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/erik-murray/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/ethan-corson/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/jayme-goetz/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/jeff-colyer/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/jennifer-day/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/joy-eakins/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/ken-brooks/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/ken-rahjes/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/kevin-latz/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/kris-kobach/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/lauren-reinhold/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/lorie-wood/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/mark-lane/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/marty-tuley/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/mason-ruder/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/michael-berges/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/michael-soetaert/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/michelle-cunningham/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/nathan-leiker/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/neal-younger/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/noah-taylor/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/pat-proctor/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/patrick-schmidt/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/philip-sarnecki/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/rebecca-herzog/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/ric-koehn/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/ron-wilson/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/ruth-ruder/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/sam-lane/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/sandy-jacobs/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/sandy-spidel-neumann/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/scott-braun/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/scott-schwab/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/sharilyn-ray/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/shaun-musil/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/stacy-rogers/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/steven-jacob/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/steven-johnson/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/toby-dougherty/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/tracey-mann/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/ty-masterson/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/vernon-ruder-jr/agent-work/evidence-matrix-builder/*: candidate-specific run files.
+- memory/candidates/vicki-schmidt/agent-work/evidence-matrix-builder/*: candidate-specific run files.
 - memory/orchestration/agent-runs/2026-05-20/evidence-matrix-builder/*: batch run files.
 - scripts/build-evidence-matrix.mjs: reusable builder used for this batch.
 
 ## What the Next Task Should Do
-Run social-footprint-analyst for roger-marshall, damon-anderson, and jason-hart, then run source-tier-validator for the same three candidates.
+Run social-footprint-analyst for aaron-cunningham, adam-hamilton, alaina-cunningham, allen-park, anne-parelkar, barb-wasinger, bobbi-dreiling, brandon-adams, cathy-hopkins, charlotte-ohara, chase-laporte, chris-mann, christy-cauble-davis, cindy-holscher, colin-mcroberts, craig-musser, craig-pallister, curt-vajnar, daniel-hawkins, david-vilaysing, derek-yarmer, dinah-sykes, doug-billings, eric-lund, erik-murray, ethan-corson, jayme-goetz, jeff-colyer, jennifer-day, joy-eakins, ken-brooks, ken-rahjes, kevin-latz, kris-kobach, lauren-reinhold, lorie-wood, mark-lane, marty-tuley, mason-ruder, michael-berges, michael-soetaert, michelle-cunningham, nathan-leiker, neal-younger, noah-taylor, pat-proctor, patrick-schmidt, philip-sarnecki, rebecca-herzog, ric-koehn, ron-wilson, ruth-ruder, sam-lane, sandy-jacobs, sandy-spidel-neumann, scott-braun, scott-schwab, sharilyn-ray, shaun-musil, stacy-rogers, steven-jacob, steven-johnson, toby-dougherty, tracey-mann, ty-masterson, vernon-ruder-jr, vicki-schmidt, then run source-tier-validator for the same candidates.
 
 ## Blockers for Next Task
 - None.

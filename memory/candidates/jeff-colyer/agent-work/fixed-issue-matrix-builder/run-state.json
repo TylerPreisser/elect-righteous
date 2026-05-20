@@ -1,0 +1,31 @@
+{
+  "agent_id": "fixed-issue-matrix-builder",
+  "agent_role": "Issue-by-issue content builder",
+  "candidate_slug": "jeff-colyer",
+  "phase": "3",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/jeff-colyer/evidence-matrix.json",
+    "memory/candidates/jeff-colyer/social-evidence-matrix.json",
+    "memory/candidates/jeff-colyer/source-audit.json"
+  ],
+  "files_written": [
+    "memory/candidates/jeff-colyer/issue-matrix.md",
+    "memory/candidates/jeff-colyer/fixed-issue-matrix.json",
+    "memory/candidates/jeff-colyer/v2-issues.yaml",
+    "memory/candidates/jeff-colyer/agent-work/fixed-issue-matrix-builder/run-state.json",
+    "memory/candidates/jeff-colyer/agent-work/fixed-issue-matrix-builder/notes.md",
+    "memory/candidates/jeff-colyer/agent-work/fixed-issue-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-fixed-issue-matrix.mjs jeff-colyer"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run biography/record/funding/faith/profile assembler passes for jeff-colyer."
+  ],
+  "handoff_summary": "Built fixed 14-issue matrix for jeff-colyer."
+}

@@ -1,0 +1,4953 @@
+[
+  {
+    "id": "em-kevin-latz-00050",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:37",
+    "sourceUrl": "https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf",
+    "sourceTier": "primary",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"url\": \"https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf\",",
+    "exactEvidenceSummary": "\"url\": \"https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf\",",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Usable as sourced evidence; best available row has primary tier support. Deduplicated from 2 raw rows.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l37",
+      "mem-ui-src-data-v2-kevin-latz-ts-l135"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00101",
+      "raw-kevin-latz-00384"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [
+      "https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf"
+    ],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:37",
+      "ui/src/data/v2/kevin-latz.ts:135"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00013",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/social-harvest.md:20",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social follow",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+    "exactEvidenceSummary": "- Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-in-their-own-words-md-l20",
+      "mem-memory-candidates-kevin-latz-raw-dump-v2-md-l20",
+      "mem-memory-candidates-kevin-latz-sleuth-pass-md-l20",
+      "mem-memory-candidates-kevin-latz-social-harvest-md-l20"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00013",
+      "raw-kevin-latz-00029",
+      "raw-kevin-latz-00045",
+      "raw-kevin-latz-00061"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/in-their-own-words.md:20",
+      "memory/candidates/kevin-latz/raw-dump-v2.md:20",
+      "memory/candidates/kevin-latz/sleuth-pass.md:20",
+      "memory/candidates/kevin-latz/social-harvest.md:20"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00005",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/social-harvest.md:8",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "This artifact was created because the candidate-completeness audit found Kevin Latz in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+    "exactEvidenceSummary": "This artifact was created because the candidate-completeness audit found Kevin Latz in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-in-their-own-words-md-l8",
+      "mem-memory-candidates-kevin-latz-raw-dump-v2-md-l8",
+      "mem-memory-candidates-kevin-latz-sleuth-pass-md-l8",
+      "mem-memory-candidates-kevin-latz-social-harvest-md-l8"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00005",
+      "raw-kevin-latz-00021",
+      "raw-kevin-latz-00037",
+      "raw-kevin-latz-00053"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/in-their-own-words.md:8",
+      "memory/candidates/kevin-latz/raw-dump-v2.md:8",
+      "memory/candidates/kevin-latz/sleuth-pass.md:8",
+      "memory/candidates/kevin-latz/social-harvest.md:8"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00012",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/social-harvest.md:19",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Ballot / filing status: Kevin Latz appears in the reviewed official or campaign-finance records connected to U.S. Senate candidate, Kansas. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the filing deadline.",
+    "exactEvidenceSummary": "- Ballot / filing status: Kevin Latz appears in the reviewed official or campaign-finance records connected to U.S. Senate candidate, Kansas. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the filing deadline.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-in-their-own-words-md-l19",
+      "mem-memory-candidates-kevin-latz-raw-dump-v2-md-l19",
+      "mem-memory-candidates-kevin-latz-sleuth-pass-md-l19",
+      "mem-memory-candidates-kevin-latz-social-harvest-md-l19"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00012",
+      "raw-kevin-latz-00028",
+      "raw-kevin-latz-00044",
+      "raw-kevin-latz-00060"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/in-their-own-words.md:19",
+      "memory/candidates/kevin-latz/raw-dump-v2.md:19",
+      "memory/candidates/kevin-latz/sleuth-pass.md:19",
+      "memory/candidates/kevin-latz/social-harvest.md:19"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00014",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/social-harvest.md:21",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+    "exactEvidenceSummary": "- Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+    "confidence": "weak-signal",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Usable only as an observed public social/online signal, not as a confirmed policy position or belief.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-in-their-own-words-md-l21",
+      "mem-memory-candidates-kevin-latz-raw-dump-v2-md-l21",
+      "mem-memory-candidates-kevin-latz-sleuth-pass-md-l21",
+      "mem-memory-candidates-kevin-latz-social-harvest-md-l21"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00014",
+      "raw-kevin-latz-00030",
+      "raw-kevin-latz-00046",
+      "raw-kevin-latz-00062"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/in-their-own-words.md:21",
+      "memory/candidates/kevin-latz/raw-dump-v2.md:21",
+      "memory/candidates/kevin-latz/sleuth-pass.md:21",
+      "memory/candidates/kevin-latz/social-harvest.md:21"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00045",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:26",
+    "sourceUrl": "https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS",
+    "sourceTier": "primary",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"url\": \"https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS\",",
+    "exactEvidenceSummary": "\"url\": \"https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS\",",
+    "confidence": "confirmed",
+    "useDecision": "source-only",
+    "reasonForDecision": "Kept as a source-trail pointer; the row identifies a useful public source but does not itself state a complete voter-facing claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l26",
+      "mem-ui-src-data-v2-kevin-latz-ts-l124"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00090",
+      "raw-kevin-latz-00373"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [
+      "https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS"
+    ],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:26",
+      "ui/src/data/v2/kevin-latz.ts:124"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00016",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/social-harvest.md:25",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+    "exactEvidenceSummary": "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-in-their-own-words-md-l25",
+      "mem-memory-candidates-kevin-latz-raw-dump-v2-md-l25",
+      "mem-memory-candidates-kevin-latz-sleuth-pass-md-l25",
+      "mem-memory-candidates-kevin-latz-social-harvest-md-l25"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00016",
+      "raw-kevin-latz-00032",
+      "raw-kevin-latz-00048",
+      "raw-kevin-latz-00064"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/in-their-own-words.md:25",
+      "memory/candidates/kevin-latz/raw-dump-v2.md:25",
+      "memory/candidates/kevin-latz/sleuth-pass.md:25",
+      "memory/candidates/kevin-latz/social-harvest.md:25"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00019",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/social-harvest.md:1",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Kevin Latz - social harvest",
+    "exactEvidenceSummary": "# Kevin Latz - social harvest",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-social-harvest-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00049"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/social-harvest.md:1"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00020",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/social-harvest.md:3",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Generated: 2026-05-20",
+    "exactEvidenceSummary": "Generated: 2026-05-20",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-social-harvest-md-l3"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00050"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/social-harvest.md:3"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00021",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/social-harvest.md:6",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Scope",
+    "exactEvidenceSummary": "## Scope",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-social-harvest-md-l6"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00052"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/social-harvest.md:6"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00022",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/social-harvest.md:10",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Current profile status",
+    "exactEvidenceSummary": "## Current profile status",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-social-harvest-md-l10"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00054"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/social-harvest.md:10"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00023",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/social-harvest.md:12",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Slug: kevin-latz",
+    "exactEvidenceSummary": "- Slug: kevin-latz",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-social-harvest-md-l12"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00055"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/social-harvest.md:12"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00025",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/social-harvest.md:17",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Evidence summary",
+    "exactEvidenceSummary": "## Evidence summary",
+    "confidence": "weak-signal",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context because the row is useful background but lacks enough public support or issue specificity for direct profile use.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-social-harvest-md-l17"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00059"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/social-harvest.md:17"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00067",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:69",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"text\": \"No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l69",
+      "mem-ui-src-data-v2-kevin-latz-ts-l45"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00133",
+      "raw-kevin-latz-00294"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:69",
+      "ui/src/data/v2/kevin-latz.ts:45"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00083",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:124",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l124"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00188"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:124"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00137",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:66",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "church/worship",
+    "issueMappedTo": [
+      4
+    ],
+    "claim": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "exactEvidenceSummary": "\"observation\": \"Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l66"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00315"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:66"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00110",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:49",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "voting record",
+    "issueMappedTo": [
+      5,
+      9,
+      10,
+      12
+    ],
+    "claim": "\"U.S. senators vote on judges, war powers, federal spending, farm policy, healthcare, and the national laws that affect Kansas every day. This race shapes who speaks for the entire state in Washington.\",",
+    "exactEvidenceSummary": "\"U.S. senators vote on judges, war powers, federal spending, farm policy, healthcare, and the national laws that affect Kansas every day. This race shapes who speaks for the entire state in Washington.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l49"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00218"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:49"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00112",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:51",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "legal/court",
+    "issueMappedTo": [
+      5,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "claim": "\"A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.\",",
+    "exactEvidenceSummary": "\"A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l51"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00220"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:51"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00125",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:76",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "voting record",
+    "issueMappedTo": [
+      5,
+      10,
+      12,
+      13
+    ],
+    "claim": "\"Your U.S. Representative is the one person in Congress who represents your specific district — not the whole state, just your area. They serve two-year terms, vote on federal laws and spending bills, and are supposed to be your direct voice in Washington on everything from farm policy to highway funding to military spending. If Hays has a federal issue, this is the person whose phone should ring.\",",
+    "exactEvidenceSummary": "\"Your U.S. Representative is the one person in Congress who represents your specific district — not the whole state, just your area. They serve two-year terms, vote on federal laws and spending bills, and are supposed to be your direct voice in Washington on everything from farm policy to highway funding to military spending. If Hays has a federal issue, this is the person whose phone should ring.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l76"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00245"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:76"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00033",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:11",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"incumbent\": false,",
+    "exactEvidenceSummary": "\"incumbent\": false,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l11",
+      "mem-ui-src-data-v2-kevin-latz-ts-l15"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00075",
+      "raw-kevin-latz-00264"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:11",
+      "ui/src/data/v2/kevin-latz.ts:15"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00034",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:12",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"occupation\": \"U.S. Senate candidate\",",
+    "exactEvidenceSummary": "\"occupation\": \"U.S. Senate candidate\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l12",
+      "mem-ui-src-data-v2-kevin-latz-ts-l16"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00076",
+      "raw-kevin-latz-00265"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:12",
+      "ui/src/data/v2/kevin-latz.ts:16"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00035",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:13",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"whoTheyAre\": \"Kevin Latz appears in current Kansas U.S. Senate filing material as a Democratic candidate from Mission Hills. This pass did not find a candidate-controlled platform or public elected record.\",",
+    "exactEvidenceSummary": "\"whoTheyAre\": \"Kevin Latz appears in current Kansas U.S. Senate filing material as a Democratic candidate from Mission Hills. This pass did not find a candidate-controlled platform or public elected record.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l13",
+      "mem-ui-src-data-v2-kevin-latz-ts-l110"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00077",
+      "raw-kevin-latz-00359"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:13",
+      "ui/src/data/v2/kevin-latz.ts:110"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00036",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:14",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"recordSummary\": \"The verified record is limited to candidate-filing appearances. The profile is intentionally sparse until a candidate-controlled platform, FEC committee page, or reliable coverage is captured.\",",
+    "exactEvidenceSummary": "\"recordSummary\": \"The verified record is limited to candidate-filing appearances. The profile is intentionally sparse until a candidate-controlled platform, FEC committee page, or reliable coverage is captured.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l14",
+      "mem-ui-src-data-v2-kevin-latz-ts-l111"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00078",
+      "raw-kevin-latz-00360"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:14",
+      "ui/src/data/v2/kevin-latz.ts:111"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00037",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:15",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+    "exactEvidenceSummary": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l15"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00079"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:15"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00040",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:20",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"publisher\": \"Kansas candidate filing mirror / State of Kansas filing data\",",
+    "exactEvidenceSummary": "\"publisher\": \"Kansas candidate filing mirror / State of Kansas filing data\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l20",
+      "mem-ui-src-data-v2-kevin-latz-ts-l126"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00084",
+      "raw-kevin-latz-00375"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:20",
+      "ui/src/data/v2/kevin-latz.ts:126"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00042",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:22",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Kevin Latz appears as a Democratic U.S. Senate candidate\"",
+    "exactEvidenceSummary": "\"Kevin Latz appears as a Democratic U.S. Senate candidate\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l22",
+      "mem-ui-src-data-v2-kevin-latz-ts-l129"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00086",
+      "raw-kevin-latz-00378"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:22",
+      "ui/src/data/v2/kevin-latz.ts:129"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00046",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:125",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"title\": \"Candidate Filing Info - United States Senate, Kansas\",",
+    "exactEvidenceSummary": "\"title\": \"Candidate Filing Info - United States Senate, Kansas\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l27",
+      "mem-ui-src-data-v2-kevin-latz-ts-l125"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00091",
+      "raw-kevin-latz-00374"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:27",
+      "ui/src/data/v2/kevin-latz.ts:125"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00051",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:136",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"title\": \"2026 Saline County Candidate Filings - Unofficial\",",
+    "exactEvidenceSummary": "\"title\": \"2026 Saline County Candidate Filings - Unofficial\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l38",
+      "mem-ui-src-data-v2-kevin-latz-ts-l136"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00102",
+      "raw-kevin-latz-00385"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:38",
+      "ui/src/data/v2/kevin-latz.ts:136"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00054",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:44",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"title\": \"Ballot / filing status\",",
+    "exactEvidenceSummary": "\"title\": \"Ballot / filing status\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l44",
+      "mem-ui-src-data-v2-kevin-latz-ts-l20"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00108",
+      "raw-kevin-latz-00269"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:44",
+      "ui/src/data/v2/kevin-latz.ts:20"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00056",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:46",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"text\": \"Kevin Latz appears in the reviewed official or campaign-finance records connected to U.S. Senate candidate, Kansas. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the filing deadline.\",",
+    "exactEvidenceSummary": "\"text\": \"Kevin Latz appears in the reviewed official or campaign-finance records connected to U.S. Senate candidate, Kansas. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the filing deadline.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l46",
+      "mem-ui-src-data-v2-kevin-latz-ts-l22"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00110",
+      "raw-kevin-latz-00271"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:46",
+      "ui/src/data/v2/kevin-latz.ts:22"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00058",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:48",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"s-ks-filing-senate\",",
+    "exactEvidenceSummary": "\"s-ks-filing-senate\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l48",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l58",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l71",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l81",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l94",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l104",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l119",
+      "mem-ui-src-data-v2-kevin-latz-ts-l24",
+      "mem-ui-src-data-v2-kevin-latz-ts-l34",
+      "mem-ui-src-data-v2-kevin-latz-ts-l47",
+      "mem-ui-src-data-v2-kevin-latz-ts-l57",
+      "mem-ui-src-data-v2-kevin-latz-ts-l69",
+      "mem-ui-src-data-v2-kevin-latz-ts-l81",
+      "mem-ui-src-data-v2-kevin-latz-ts-l91",
+      "mem-ui-src-data-v2-kevin-latz-ts-l103"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00112",
+      "raw-kevin-latz-00122",
+      "raw-kevin-latz-00135",
+      "raw-kevin-latz-00145",
+      "raw-kevin-latz-00158",
+      "raw-kevin-latz-00168",
+      "raw-kevin-latz-00183",
+      "raw-kevin-latz-00273",
+      "raw-kevin-latz-00283",
+      "raw-kevin-latz-00296",
+      "raw-kevin-latz-00306",
+      "raw-kevin-latz-00318",
+      "raw-kevin-latz-00330",
+      "raw-kevin-latz-00340",
+      "raw-kevin-latz-00352"
+    ],
+    "duplicateCount": 15,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:48",
+      "memory/candidates/kevin-latz/v2-issues.yaml:58",
+      "memory/candidates/kevin-latz/v2-issues.yaml:71",
+      "memory/candidates/kevin-latz/v2-issues.yaml:81",
+      "memory/candidates/kevin-latz/v2-issues.yaml:94",
+      "memory/candidates/kevin-latz/v2-issues.yaml:104",
+      "memory/candidates/kevin-latz/v2-issues.yaml:119",
+      "ui/src/data/v2/kevin-latz.ts:24",
+      "ui/src/data/v2/kevin-latz.ts:34",
+      "ui/src/data/v2/kevin-latz.ts:47",
+      "ui/src/data/v2/kevin-latz.ts:57",
+      "ui/src/data/v2/kevin-latz.ts:69",
+      "ui/src/data/v2/kevin-latz.ts:81",
+      "ui/src/data/v2/kevin-latz.ts:91",
+      "ui/src/data/v2/kevin-latz.ts:103"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00063",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:56",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"body\": \"The Kansas candidate-filing mirror lists Kevin Latz under United States Senate as a Democratic candidate.\",",
+    "exactEvidenceSummary": "\"body\": \"The Kansas candidate-filing mirror lists Kevin Latz under United States Senate as a Democratic candidate.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l56",
+      "mem-ui-src-data-v2-kevin-latz-ts-l32"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00120",
+      "raw-kevin-latz-00281"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:56",
+      "ui/src/data/v2/kevin-latz.ts:32"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00069",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:79",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+    "exactEvidenceSummary": "\"body\": \"The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l79",
+      "mem-ui-src-data-v2-kevin-latz-ts-l55"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00143",
+      "raw-kevin-latz-00304"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:79",
+      "ui/src/data/v2/kevin-latz.ts:55"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00072",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:92",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "exactEvidenceSummary": "\"text\": \"Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l92",
+      "mem-ui-src-data-v2-kevin-latz-ts-l79"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00156",
+      "raw-kevin-latz-00328"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:92",
+      "ui/src/data/v2/kevin-latz.ts:79"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00080",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:117",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"source\": \"Candidate Filing Info - United States Senate, Kansas\",",
+    "exactEvidenceSummary": "\"source\": \"Candidate Filing Info - United States Senate, Kansas\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l117",
+      "mem-ui-src-data-v2-kevin-latz-ts-l117"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00181",
+      "raw-kevin-latz-00366"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:117",
+      "ui/src/data/v2/kevin-latz.ts:117"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00082",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:123",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.\",",
+    "exactEvidenceSummary": "\"Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l123"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00187"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:123"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00084",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:125",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication.\"",
+    "exactEvidenceSummary": "\"Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication.\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l125"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00189"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:125"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00089",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:27",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "status: \"Incumbent Running\",",
+    "exactEvidenceSummary": "status: \"Incumbent Running\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l27",
+      "mem-ui-src-data-elections-ts-l60"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00196",
+      "raw-kevin-latz-00229"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:27",
+      "ui/src/data/elections.ts:60"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00108",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:47",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Kansas gets only two U.S. senators, and this seat is on the ballot in November 2026. Incumbent Roger Marshall is running again, while Democratic challengers now include Damon Anderson, Jason Hart, Kevin Latz, Patrick Schmidt, Christy Cauble Davis, Sandy Spidel Neumann, Erik Murray, Anne Parelkar, Michael Soetaert, Noah Taylor, and Adam Hamilton. Chase LaPorte remains flagged because federal filing evidence exists, but his profile notes conflicting House/Senate records that require final-list recheck.\",",
+    "exactEvidenceSummary": "\"Kansas gets only two U.S. senators, and this seat is on the ballot in November 2026. Incumbent Roger Marshall is running again, while Democratic challengers now include Damon Anderson, Jason Hart, Kevin Latz, Patrick Schmidt, Christy Cauble Davis, Sandy Spidel Neumann, Erik Murray, Anne Parelkar, Michael Soetaert, Noah Taylor, and Adam Hamilton. Chase LaPorte remains flagged because federal filing evidence exists, but his profile notes conflicting House/Senate records that require final-list recheck.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l47"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00216"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:47"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00140",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:100",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "exactEvidenceSummary": "\"observation\": \"Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l100"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00349"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:100"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00143",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:119",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+    "exactEvidenceSummary": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l119"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00368"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:119"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00124",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:74",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      12
+    ],
+    "claim": "\"The KS-01 member of Congress becomes the main federal voice for agriculture, water, roads, trade, and rural infrastructure across a huge stretch of Kansas.\",",
+    "exactEvidenceSummary": "\"The KS-01 member of Congress becomes the main federal voice for agriculture, water, roads, trade, and rural infrastructure across a huge stretch of Kansas.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l74"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00243"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:74"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00047",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:31",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"publisher\": \"Saline County, Kansas\",",
+    "exactEvidenceSummary": "\"publisher\": \"Saline County, Kansas\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l31",
+      "mem-ui-src-data-v2-kevin-latz-ts-l137"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00095",
+      "raw-kevin-latz-00386"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:31",
+      "ui/src/data/v2/kevin-latz.ts:137"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00048",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:33",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"An unofficial county list included Kevin Latz under United States Senate\"",
+    "exactEvidenceSummary": "\"An unofficial county list included Kevin Latz under United States Senate\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l33",
+      "mem-ui-src-data-v2-kevin-latz-ts-l140"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00097",
+      "raw-kevin-latz-00389"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:33",
+      "ui/src/data/v2/kevin-latz.ts:140"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00071",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:90",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"title\": \"Donor / funding information\",",
+    "exactEvidenceSummary": "\"title\": \"Donor / funding information\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l90",
+      "mem-ui-src-data-v2-kevin-latz-ts-l77"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00154",
+      "raw-kevin-latz-00326"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:90",
+      "ui/src/data/v2/kevin-latz.ts:77"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00074",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:102",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"body\": \"The reviewed finance source confirms either a campaign-finance account, committee record, or no itemized summary yet; final donor detail needs the next public report if one is not already posted.\",",
+    "exactEvidenceSummary": "\"body\": \"The reviewed finance source confirms either a campaign-finance account, committee record, or no itemized summary yet; final donor detail needs the next public report if one is not already posted.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l102",
+      "mem-ui-src-data-v2-kevin-latz-ts-l89"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00166",
+      "raw-kevin-latz-00338"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:102",
+      "ui/src/data/v2/kevin-latz.ts:89"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00077",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:114",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"narrative\": \"No donor-by-donor public finance interpretation is made from the available records in this pass.\",",
+    "exactEvidenceSummary": "\"narrative\": \"No donor-by-donor public finance interpretation is made from the available records in this pass.\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l114",
+      "mem-ui-src-data-v2-kevin-latz-ts-l114"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00178",
+      "raw-kevin-latz-00363"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:114",
+      "ui/src/data/v2/kevin-latz.ts:114"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00115",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:58",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "jurisdiction: \"Kansas 1st Congressional District\",",
+    "exactEvidenceSummary": "jurisdiction: \"Kansas 1st Congressional District\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l58"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00227"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:58"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00141",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:105",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"mappedToIssueId\": \"i-donor-funding\"",
+    "exactEvidenceSummary": "\"mappedToIssueId\": \"i-donor-funding\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l105"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00354"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:105"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00001",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/in-their-own-words.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Kevin Latz - in their own words",
+    "exactEvidenceSummary": "# Kevin Latz - in their own words",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-in-their-own-words-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00001"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/in-their-own-words.md:1"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00002",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/in-their-own-words.md:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Generated: 2026-05-20",
+    "exactEvidenceSummary": "Generated: 2026-05-20",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-in-their-own-words-md-l3",
+      "mem-memory-candidates-kevin-latz-raw-dump-v2-md-l3",
+      "mem-memory-candidates-kevin-latz-sleuth-pass-md-l3"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00002",
+      "raw-kevin-latz-00018",
+      "raw-kevin-latz-00034"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/in-their-own-words.md:3",
+      "memory/candidates/kevin-latz/raw-dump-v2.md:3",
+      "memory/candidates/kevin-latz/sleuth-pass.md:3"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00004",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/in-their-own-words.md:6",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Scope",
+    "exactEvidenceSummary": "## Scope",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-in-their-own-words-md-l6",
+      "mem-memory-candidates-kevin-latz-raw-dump-v2-md-l6",
+      "mem-memory-candidates-kevin-latz-sleuth-pass-md-l6"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00004",
+      "raw-kevin-latz-00020",
+      "raw-kevin-latz-00036"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/in-their-own-words.md:6",
+      "memory/candidates/kevin-latz/raw-dump-v2.md:6",
+      "memory/candidates/kevin-latz/sleuth-pass.md:6"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00006",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/in-their-own-words.md:10",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Current profile status",
+    "exactEvidenceSummary": "## Current profile status",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-in-their-own-words-md-l10",
+      "mem-memory-candidates-kevin-latz-raw-dump-v2-md-l10",
+      "mem-memory-candidates-kevin-latz-sleuth-pass-md-l10"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00006",
+      "raw-kevin-latz-00022",
+      "raw-kevin-latz-00038"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/in-their-own-words.md:10",
+      "memory/candidates/kevin-latz/raw-dump-v2.md:10",
+      "memory/candidates/kevin-latz/sleuth-pass.md:10"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00007",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:2",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"slug\": \"kevin-latz\",",
+    "exactEvidenceSummary": "\"slug\": \"kevin-latz\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-in-their-own-words-md-l12",
+      "mem-memory-candidates-kevin-latz-raw-dump-v2-md-l12",
+      "mem-memory-candidates-kevin-latz-sleuth-pass-md-l12",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l2",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l6",
+      "mem-ui-src-data-v2-kevin-latz-ts-l10"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00007",
+      "raw-kevin-latz-00023",
+      "raw-kevin-latz-00039",
+      "raw-kevin-latz-00066",
+      "raw-kevin-latz-00070",
+      "raw-kevin-latz-00259"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/in-their-own-words.md:12",
+      "memory/candidates/kevin-latz/raw-dump-v2.md:12",
+      "memory/candidates/kevin-latz/sleuth-pass.md:12",
+      "memory/candidates/kevin-latz/v2-issues.yaml:2",
+      "memory/candidates/kevin-latz/v2-issues.yaml:6",
+      "ui/src/data/v2/kevin-latz.ts:10"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00011",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/in-their-own-words.md:17",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Evidence summary",
+    "exactEvidenceSummary": "## Evidence summary",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-in-their-own-words-md-l17",
+      "mem-memory-candidates-kevin-latz-raw-dump-v2-md-l17",
+      "mem-memory-candidates-kevin-latz-sleuth-pass-md-l17"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00011",
+      "raw-kevin-latz-00027",
+      "raw-kevin-latz-00043"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/in-their-own-words.md:17",
+      "memory/candidates/kevin-latz/raw-dump-v2.md:17",
+      "memory/candidates/kevin-latz/sleuth-pass.md:17"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00017",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/raw-dump-v2.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Kevin Latz - raw dump v2",
+    "exactEvidenceSummary": "# Kevin Latz - raw dump v2",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-raw-dump-v2-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00017"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/raw-dump-v2.md:1"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00018",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/sleuth-pass.md:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Kevin Latz - sleuth pass",
+    "exactEvidenceSummary": "# Kevin Latz - sleuth pass",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-sleuth-pass-md-l1"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00033"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/sleuth-pass.md:1"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00027",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:16",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "},",
+    "exactEvidenceSummary": "},",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l1",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l16",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l18",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l23",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l28",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l29",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l34",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l39",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l40",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l42",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l50",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l51",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l53",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l60",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l61",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l62",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l64",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l65",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l73",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l74",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l76",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l83",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l84",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l85",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l87",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l88",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l96",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l97",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l99",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l106",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l107",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l108",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l110",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l111",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l120",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l121",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l126",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l127",
+      "mem-ui-src-data-elections-ts-l43",
+      "mem-ui-src-data-elections-ts-l52",
+      "mem-ui-src-data-elections-ts-l53",
+      "mem-ui-src-data-elections-ts-l68",
+      "mem-ui-src-data-elections-ts-l77",
+      "mem-ui-src-data-elections-ts-l78",
+      "mem-ui-src-data-v2-kevin-latz-ts-l4",
+      "mem-ui-src-data-v2-kevin-latz-ts-l18",
+      "mem-ui-src-data-v2-kevin-latz-ts-l26",
+      "mem-ui-src-data-v2-kevin-latz-ts-l27",
+      "mem-ui-src-data-v2-kevin-latz-ts-l29",
+      "mem-ui-src-data-v2-kevin-latz-ts-l36",
+      "mem-ui-src-data-v2-kevin-latz-ts-l37",
+      "mem-ui-src-data-v2-kevin-latz-ts-l38",
+      "mem-ui-src-data-v2-kevin-latz-ts-l40",
+      "mem-ui-src-data-v2-kevin-latz-ts-l41",
+      "mem-ui-src-data-v2-kevin-latz-ts-l49",
+      "mem-ui-src-data-v2-kevin-latz-ts-l50",
+      "mem-ui-src-data-v2-kevin-latz-ts-l52",
+      "mem-ui-src-data-v2-kevin-latz-ts-l59",
+      "mem-ui-src-data-v2-kevin-latz-ts-l60",
+      "mem-ui-src-data-v2-kevin-latz-ts-l61",
+      "mem-ui-src-data-v2-kevin-latz-ts-l63",
+      "mem-ui-src-data-v2-kevin-latz-ts-l70",
+      "mem-ui-src-data-v2-kevin-latz-ts-l72",
+      "mem-ui-src-data-v2-kevin-latz-ts-l73",
+      "mem-ui-src-data-v2-kevin-latz-ts-l74",
+      "mem-ui-src-data-v2-kevin-latz-ts-l75",
+      "mem-ui-src-data-v2-kevin-latz-ts-l83",
+      "mem-ui-src-data-v2-kevin-latz-ts-l84",
+      "mem-ui-src-data-v2-kevin-latz-ts-l86",
+      "mem-ui-src-data-v2-kevin-latz-ts-l93",
+      "mem-ui-src-data-v2-kevin-latz-ts-l94",
+      "mem-ui-src-data-v2-kevin-latz-ts-l95",
+      "mem-ui-src-data-v2-kevin-latz-ts-l97",
+      "mem-ui-src-data-v2-kevin-latz-ts-l104",
+      "mem-ui-src-data-v2-kevin-latz-ts-l106",
+      "mem-ui-src-data-v2-kevin-latz-ts-l107",
+      "mem-ui-src-data-v2-kevin-latz-ts-l108",
+      "mem-ui-src-data-v2-kevin-latz-ts-l109",
+      "mem-ui-src-data-v2-kevin-latz-ts-l118",
+      "mem-ui-src-data-v2-kevin-latz-ts-l121",
+      "mem-ui-src-data-v2-kevin-latz-ts-l130",
+      "mem-ui-src-data-v2-kevin-latz-ts-l131",
+      "mem-ui-src-data-v2-kevin-latz-ts-l132",
+      "mem-ui-src-data-v2-kevin-latz-ts-l141",
+      "mem-ui-src-data-v2-kevin-latz-ts-l142",
+      "mem-ui-src-data-v2-kevin-latz-ts-l143",
+      "mem-ui-src-data-v2-kevin-latz-ts-l144",
+      "mem-ui-src-data-v2-kevin-latz-ts-l153",
+      "mem-ui-src-data-v2-kevin-latz-ts-l154",
+      "mem-ui-src-data-v2-kevin-latz-ts-l155"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00065",
+      "raw-kevin-latz-00080",
+      "raw-kevin-latz-00082",
+      "raw-kevin-latz-00087",
+      "raw-kevin-latz-00092",
+      "raw-kevin-latz-00093",
+      "raw-kevin-latz-00098",
+      "raw-kevin-latz-00103",
+      "raw-kevin-latz-00104",
+      "raw-kevin-latz-00106",
+      "raw-kevin-latz-00114",
+      "raw-kevin-latz-00115",
+      "raw-kevin-latz-00117",
+      "raw-kevin-latz-00124",
+      "raw-kevin-latz-00125",
+      "raw-kevin-latz-00126",
+      "raw-kevin-latz-00128",
+      "raw-kevin-latz-00129",
+      "raw-kevin-latz-00137",
+      "raw-kevin-latz-00138",
+      "raw-kevin-latz-00140",
+      "raw-kevin-latz-00147",
+      "raw-kevin-latz-00148",
+      "raw-kevin-latz-00149",
+      "raw-kevin-latz-00151",
+      "raw-kevin-latz-00152",
+      "raw-kevin-latz-00160",
+      "raw-kevin-latz-00161",
+      "raw-kevin-latz-00163",
+      "raw-kevin-latz-00170",
+      "raw-kevin-latz-00171",
+      "raw-kevin-latz-00172",
+      "raw-kevin-latz-00174",
+      "raw-kevin-latz-00175",
+      "raw-kevin-latz-00184",
+      "raw-kevin-latz-00185",
+      "raw-kevin-latz-00190",
+      "raw-kevin-latz-00191",
+      "raw-kevin-latz-00212",
+      "raw-kevin-latz-00221",
+      "raw-kevin-latz-00222",
+      "raw-kevin-latz-00237",
+      "raw-kevin-latz-00246",
+      "raw-kevin-latz-00247",
+      "raw-kevin-latz-00255",
+      "raw-kevin-latz-00267",
+      "raw-kevin-latz-00275",
+      "raw-kevin-latz-00276",
+      "raw-kevin-latz-00278",
+      "raw-kevin-latz-00285",
+      "raw-kevin-latz-00286",
+      "raw-kevin-latz-00287",
+      "raw-kevin-latz-00289",
+      "raw-kevin-latz-00290",
+      "raw-kevin-latz-00298",
+      "raw-kevin-latz-00299",
+      "raw-kevin-latz-00301",
+      "raw-kevin-latz-00308",
+      "raw-kevin-latz-00309",
+      "raw-kevin-latz-00310",
+      "raw-kevin-latz-00312",
+      "raw-kevin-latz-00319",
+      "raw-kevin-latz-00321",
+      "raw-kevin-latz-00322",
+      "raw-kevin-latz-00323",
+      "raw-kevin-latz-00324",
+      "raw-kevin-latz-00332",
+      "raw-kevin-latz-00333",
+      "raw-kevin-latz-00335",
+      "raw-kevin-latz-00342",
+      "raw-kevin-latz-00343",
+      "raw-kevin-latz-00344",
+      "raw-kevin-latz-00346",
+      "raw-kevin-latz-00353",
+      "raw-kevin-latz-00355",
+      "raw-kevin-latz-00356",
+      "raw-kevin-latz-00357",
+      "raw-kevin-latz-00358",
+      "raw-kevin-latz-00367",
+      "raw-kevin-latz-00370",
+      "raw-kevin-latz-00379",
+      "raw-kevin-latz-00380",
+      "raw-kevin-latz-00381",
+      "raw-kevin-latz-00390",
+      "raw-kevin-latz-00391",
+      "raw-kevin-latz-00392",
+      "raw-kevin-latz-00393",
+      "raw-kevin-latz-00401",
+      "raw-kevin-latz-00402",
+      "raw-kevin-latz-00403"
+    ],
+    "duplicateCount": 90,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:1",
+      "memory/candidates/kevin-latz/v2-issues.yaml:16",
+      "memory/candidates/kevin-latz/v2-issues.yaml:18",
+      "memory/candidates/kevin-latz/v2-issues.yaml:23",
+      "memory/candidates/kevin-latz/v2-issues.yaml:28",
+      "memory/candidates/kevin-latz/v2-issues.yaml:29",
+      "memory/candidates/kevin-latz/v2-issues.yaml:34",
+      "memory/candidates/kevin-latz/v2-issues.yaml:39",
+      "memory/candidates/kevin-latz/v2-issues.yaml:40",
+      "memory/candidates/kevin-latz/v2-issues.yaml:42",
+      "memory/candidates/kevin-latz/v2-issues.yaml:50",
+      "memory/candidates/kevin-latz/v2-issues.yaml:51",
+      "memory/candidates/kevin-latz/v2-issues.yaml:53",
+      "memory/candidates/kevin-latz/v2-issues.yaml:60",
+      "memory/candidates/kevin-latz/v2-issues.yaml:61",
+      "memory/candidates/kevin-latz/v2-issues.yaml:62",
+      "memory/candidates/kevin-latz/v2-issues.yaml:64",
+      "memory/candidates/kevin-latz/v2-issues.yaml:65",
+      "memory/candidates/kevin-latz/v2-issues.yaml:73",
+      "memory/candidates/kevin-latz/v2-issues.yaml:74",
+      "memory/candidates/kevin-latz/v2-issues.yaml:76",
+      "memory/candidates/kevin-latz/v2-issues.yaml:83",
+      "memory/candidates/kevin-latz/v2-issues.yaml:84",
+      "memory/candidates/kevin-latz/v2-issues.yaml:85",
+      "memory/candidates/kevin-latz/v2-issues.yaml:87",
+      "memory/candidates/kevin-latz/v2-issues.yaml:88",
+      "memory/candidates/kevin-latz/v2-issues.yaml:96",
+      "memory/candidates/kevin-latz/v2-issues.yaml:97",
+      "memory/candidates/kevin-latz/v2-issues.yaml:99",
+      "memory/candidates/kevin-latz/v2-issues.yaml:106",
+      "memory/candidates/kevin-latz/v2-issues.yaml:107",
+      "memory/candidates/kevin-latz/v2-issues.yaml:108",
+      "memory/candidates/kevin-latz/v2-issues.yaml:110",
+      "memory/candidates/kevin-latz/v2-issues.yaml:111",
+      "memory/candidates/kevin-latz/v2-issues.yaml:120",
+      "memory/candidates/kevin-latz/v2-issues.yaml:121",
+      "memory/candidates/kevin-latz/v2-issues.yaml:126",
+      "memory/candidates/kevin-latz/v2-issues.yaml:127",
+      "ui/src/data/elections.ts:43",
+      "ui/src/data/elections.ts:52",
+      "ui/src/data/elections.ts:53",
+      "ui/src/data/elections.ts:68",
+      "ui/src/data/elections.ts:77",
+      "ui/src/data/elections.ts:78",
+      "ui/src/data/v2/kevin-latz.ts:4",
+      "ui/src/data/v2/kevin-latz.ts:18",
+      "ui/src/data/v2/kevin-latz.ts:26",
+      "ui/src/data/v2/kevin-latz.ts:27",
+      "ui/src/data/v2/kevin-latz.ts:29",
+      "ui/src/data/v2/kevin-latz.ts:36",
+      "ui/src/data/v2/kevin-latz.ts:37",
+      "ui/src/data/v2/kevin-latz.ts:38",
+      "ui/src/data/v2/kevin-latz.ts:40",
+      "ui/src/data/v2/kevin-latz.ts:41",
+      "ui/src/data/v2/kevin-latz.ts:49",
+      "ui/src/data/v2/kevin-latz.ts:50",
+      "ui/src/data/v2/kevin-latz.ts:52",
+      "ui/src/data/v2/kevin-latz.ts:59",
+      "ui/src/data/v2/kevin-latz.ts:60",
+      "ui/src/data/v2/kevin-latz.ts:61",
+      "ui/src/data/v2/kevin-latz.ts:63",
+      "ui/src/data/v2/kevin-latz.ts:70",
+      "ui/src/data/v2/kevin-latz.ts:72",
+      "ui/src/data/v2/kevin-latz.ts:73",
+      "ui/src/data/v2/kevin-latz.ts:74",
+      "ui/src/data/v2/kevin-latz.ts:75",
+      "ui/src/data/v2/kevin-latz.ts:83",
+      "ui/src/data/v2/kevin-latz.ts:84",
+      "ui/src/data/v2/kevin-latz.ts:86",
+      "ui/src/data/v2/kevin-latz.ts:93",
+      "ui/src/data/v2/kevin-latz.ts:94",
+      "ui/src/data/v2/kevin-latz.ts:95",
+      "ui/src/data/v2/kevin-latz.ts:97",
+      "ui/src/data/v2/kevin-latz.ts:104",
+      "ui/src/data/v2/kevin-latz.ts:106",
+      "ui/src/data/v2/kevin-latz.ts:107",
+      "ui/src/data/v2/kevin-latz.ts:108",
+      "ui/src/data/v2/kevin-latz.ts:109",
+      "ui/src/data/v2/kevin-latz.ts:118",
+      "ui/src/data/v2/kevin-latz.ts:121",
+      "ui/src/data/v2/kevin-latz.ts:130",
+      "ui/src/data/v2/kevin-latz.ts:131",
+      "ui/src/data/v2/kevin-latz.ts:132",
+      "ui/src/data/v2/kevin-latz.ts:141",
+      "ui/src/data/v2/kevin-latz.ts:142",
+      "ui/src/data/v2/kevin-latz.ts:143",
+      "ui/src/data/v2/kevin-latz.ts:144",
+      "ui/src/data/v2/kevin-latz.ts:153",
+      "ui/src/data/v2/kevin-latz.ts:154",
+      "ui/src/data/v2/kevin-latz.ts:155"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00028",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"generated\": \"2026-05-20T02:11:14.682Z\",",
+    "exactEvidenceSummary": "\"generated\": \"2026-05-20T02:11:14.682Z\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l3"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00067"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:3"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00029",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:5",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"candidate_metadata\": {",
+    "exactEvidenceSummary": "\"candidate_metadata\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l5"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00069"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:5"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00030",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:7",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"name\": \"Kevin Latz\",",
+    "exactEvidenceSummary": "\"name\": \"Kevin Latz\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l7",
+      "mem-ui-src-data-v2-kevin-latz-ts-l11"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00071",
+      "raw-kevin-latz-00260"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:7",
+      "ui/src/data/v2/kevin-latz.ts:11"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00031",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:8",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"party\": \"D\",",
+    "exactEvidenceSummary": "\"party\": \"D\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l8",
+      "mem-ui-src-data-v2-kevin-latz-ts-l12"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00072",
+      "raw-kevin-latz-00261"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:8",
+      "ui/src/data/v2/kevin-latz.ts:12"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00032",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:10",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"electionSlug\": \"us-senate-2026\",",
+    "exactEvidenceSummary": "\"electionSlug\": \"us-senate-2026\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l10",
+      "mem-ui-src-data-v2-kevin-latz-ts-l14"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00074",
+      "raw-kevin-latz-00263"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:10",
+      "ui/src/data/v2/kevin-latz.ts:14"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00038",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:17",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sources\": [",
+    "exactEvidenceSummary": "\"sources\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l17",
+      "mem-ui-src-data-v2-kevin-latz-ts-l120"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00081",
+      "raw-kevin-latz-00369"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:17",
+      "ui/src/data/v2/kevin-latz.ts:120"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00039",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:19",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"accessed\": \"2026-05-20\",",
+    "exactEvidenceSummary": "\"accessed\": \"2026-05-20\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l19",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l30",
+      "mem-ui-src-data-v2-kevin-latz-ts-l127",
+      "mem-ui-src-data-v2-kevin-latz-ts-l138"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00083",
+      "raw-kevin-latz-00094",
+      "raw-kevin-latz-00376",
+      "raw-kevin-latz-00387"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:19",
+      "memory/candidates/kevin-latz/v2-issues.yaml:30",
+      "ui/src/data/v2/kevin-latz.ts:127",
+      "ui/src/data/v2/kevin-latz.ts:138"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00041",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:21",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"claimsAnchored\": [",
+    "exactEvidenceSummary": "\"claimsAnchored\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l21",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l32",
+      "mem-ui-src-data-v2-kevin-latz-ts-l128",
+      "mem-ui-src-data-v2-kevin-latz-ts-l139"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00085",
+      "raw-kevin-latz-00096",
+      "raw-kevin-latz-00377",
+      "raw-kevin-latz-00388"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:21",
+      "memory/candidates/kevin-latz/v2-issues.yaml:32",
+      "ui/src/data/v2/kevin-latz.ts:128",
+      "ui/src/data/v2/kevin-latz.ts:139"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00044",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:25",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"tier\": \"primary\",",
+    "exactEvidenceSummary": "\"tier\": \"primary\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l25",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l36",
+      "mem-ui-src-data-v2-kevin-latz-ts-l123",
+      "mem-ui-src-data-v2-kevin-latz-ts-l134"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00089",
+      "raw-kevin-latz-00100",
+      "raw-kevin-latz-00372",
+      "raw-kevin-latz-00383"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:25",
+      "memory/candidates/kevin-latz/v2-issues.yaml:36",
+      "ui/src/data/v2/kevin-latz.ts:123",
+      "ui/src/data/v2/kevin-latz.ts:134"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00055",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:45",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"stated\": {",
+    "exactEvidenceSummary": "\"stated\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l45",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l68",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l91",
+      "mem-ui-src-data-v2-kevin-latz-ts-l21",
+      "mem-ui-src-data-v2-kevin-latz-ts-l44",
+      "mem-ui-src-data-v2-kevin-latz-ts-l78"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00109",
+      "raw-kevin-latz-00132",
+      "raw-kevin-latz-00155",
+      "raw-kevin-latz-00270",
+      "raw-kevin-latz-00293",
+      "raw-kevin-latz-00327"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:45",
+      "memory/candidates/kevin-latz/v2-issues.yaml:68",
+      "memory/candidates/kevin-latz/v2-issues.yaml:91",
+      "ui/src/data/v2/kevin-latz.ts:21",
+      "ui/src/data/v2/kevin-latz.ts:44",
+      "ui/src/data/v2/kevin-latz.ts:78"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00059",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:49",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"s-saline-unofficial-list\"",
+    "exactEvidenceSummary": "\"s-saline-unofficial-list\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l49",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l59",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l72",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l82",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l95",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l105",
+      "mem-ui-src-data-v2-kevin-latz-ts-l25",
+      "mem-ui-src-data-v2-kevin-latz-ts-l35",
+      "mem-ui-src-data-v2-kevin-latz-ts-l48",
+      "mem-ui-src-data-v2-kevin-latz-ts-l58",
+      "mem-ui-src-data-v2-kevin-latz-ts-l82",
+      "mem-ui-src-data-v2-kevin-latz-ts-l92"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00113",
+      "raw-kevin-latz-00123",
+      "raw-kevin-latz-00136",
+      "raw-kevin-latz-00146",
+      "raw-kevin-latz-00159",
+      "raw-kevin-latz-00169",
+      "raw-kevin-latz-00274",
+      "raw-kevin-latz-00284",
+      "raw-kevin-latz-00297",
+      "raw-kevin-latz-00307",
+      "raw-kevin-latz-00331",
+      "raw-kevin-latz-00341"
+    ],
+    "duplicateCount": 12,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:49",
+      "memory/candidates/kevin-latz/v2-issues.yaml:59",
+      "memory/candidates/kevin-latz/v2-issues.yaml:72",
+      "memory/candidates/kevin-latz/v2-issues.yaml:82",
+      "memory/candidates/kevin-latz/v2-issues.yaml:95",
+      "memory/candidates/kevin-latz/v2-issues.yaml:105",
+      "ui/src/data/v2/kevin-latz.ts:25",
+      "ui/src/data/v2/kevin-latz.ts:35",
+      "ui/src/data/v2/kevin-latz.ts:48",
+      "ui/src/data/v2/kevin-latz.ts:58",
+      "ui/src/data/v2/kevin-latz.ts:82",
+      "ui/src/data/v2/kevin-latz.ts:92"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00060",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:52",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"actions\": [",
+    "exactEvidenceSummary": "\"actions\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l52",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l75",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l98",
+      "mem-ui-src-data-v2-kevin-latz-ts-l28",
+      "mem-ui-src-data-v2-kevin-latz-ts-l51",
+      "mem-ui-src-data-v2-kevin-latz-ts-l85"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00116",
+      "raw-kevin-latz-00139",
+      "raw-kevin-latz-00162",
+      "raw-kevin-latz-00277",
+      "raw-kevin-latz-00300",
+      "raw-kevin-latz-00334"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:52",
+      "memory/candidates/kevin-latz/v2-issues.yaml:75",
+      "memory/candidates/kevin-latz/v2-issues.yaml:98",
+      "ui/src/data/v2/kevin-latz.ts:28",
+      "ui/src/data/v2/kevin-latz.ts:51",
+      "ui/src/data/v2/kevin-latz.ts:85"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00062",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:55",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"date\": \"2026-05-20\",",
+    "exactEvidenceSummary": "\"date\": \"2026-05-20\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l55",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l78",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l101",
+      "mem-ui-src-data-v2-kevin-latz-ts-l31",
+      "mem-ui-src-data-v2-kevin-latz-ts-l54",
+      "mem-ui-src-data-v2-kevin-latz-ts-l88"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00119",
+      "raw-kevin-latz-00142",
+      "raw-kevin-latz-00165",
+      "raw-kevin-latz-00280",
+      "raw-kevin-latz-00303",
+      "raw-kevin-latz-00337"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:55",
+      "memory/candidates/kevin-latz/v2-issues.yaml:78",
+      "memory/candidates/kevin-latz/v2-issues.yaml:101",
+      "ui/src/data/v2/kevin-latz.ts:31",
+      "ui/src/data/v2/kevin-latz.ts:54",
+      "ui/src/data/v2/kevin-latz.ts:88"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00066",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:67",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"title\": \"Where they stand on big issues\",",
+    "exactEvidenceSummary": "\"title\": \"Where they stand on big issues\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l67",
+      "mem-ui-src-data-v2-kevin-latz-ts-l43"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00131",
+      "raw-kevin-latz-00292"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:67",
+      "ui/src/data/v2/kevin-latz.ts:43"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00075",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:112",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"campaign_finance\": {",
+    "exactEvidenceSummary": "\"campaign_finance\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l112"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00176"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:112"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00076",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:113",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"totalRaised\": \"Not itemized in the reviewed public records for this pass\",",
+    "exactEvidenceSummary": "\"totalRaised\": \"Not itemized in the reviewed public records for this pass\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l113",
+      "mem-ui-src-data-v2-kevin-latz-ts-l113"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00177",
+      "raw-kevin-latz-00362"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:113",
+      "ui/src/data/v2/kevin-latz.ts:113"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00078",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:115",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"donors\": [],",
+    "exactEvidenceSummary": "\"donors\": [],",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l115",
+      "mem-ui-src-data-v2-kevin-latz-ts-l115"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00179",
+      "raw-kevin-latz-00364"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:115",
+      "ui/src/data/v2/kevin-latz.ts:115"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00079",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:116",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"reportingPeriod\": \"Most recent public record reviewed\",",
+    "exactEvidenceSummary": "\"reportingPeriod\": \"Most recent public record reviewed\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l116",
+      "mem-ui-src-data-v2-kevin-latz-ts-l116"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00180",
+      "raw-kevin-latz-00365"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:116",
+      "ui/src/data/v2/kevin-latz.ts:116"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00081",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:122",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"editorial_notes\": [",
+    "exactEvidenceSummary": "\"editorial_notes\": [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l122"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00186"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:122"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00085",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:23",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "level: \"Federal\",",
+    "exactEvidenceSummary": "level: \"Federal\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l23",
+      "mem-ui-src-data-elections-ts-l56"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00192",
+      "raw-kevin-latz-00225"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:23",
+      "ui/src/data/elections.ts:56"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00086",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:24",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "date: \"2026-11-03\",",
+    "exactEvidenceSummary": "date: \"2026-11-03\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l24",
+      "mem-ui-src-data-elections-ts-l57",
+      "mem-ui-src-data-elections-ts-l82"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00193",
+      "raw-kevin-latz-00226",
+      "raw-kevin-latz-00251"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:24",
+      "ui/src/data/elections.ts:57",
+      "ui/src/data/elections.ts:82"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00087",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:25",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "jurisdiction: \"State of Kansas\",",
+    "exactEvidenceSummary": "jurisdiction: \"State of Kansas\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l25"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00194"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:25"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00088",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:26",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "seats: 1,",
+    "exactEvidenceSummary": "seats: 1,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l26",
+      "mem-ui-src-data-elections-ts-l59"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00195",
+      "raw-kevin-latz-00228"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:26",
+      "ui/src/data/elections.ts:59"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00090",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:28",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateCount: 13,",
+    "exactEvidenceSummary": "candidateCount: 13,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l28"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00197"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:28"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00091",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:29",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateSlugs: [",
+    "exactEvidenceSummary": "candidateSlugs: [",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l29",
+      "mem-ui-src-data-elections-ts-l62"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00198",
+      "raw-kevin-latz-00231"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:29",
+      "ui/src/data/elections.ts:62"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00095",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:33",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"kevin-latz\",",
+    "exactEvidenceSummary": "\"kevin-latz\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l33"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00202"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:33"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00105",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:44",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "description:",
+    "exactEvidenceSummary": "description:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l44",
+      "mem-ui-src-data-elections-ts-l69"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00213",
+      "raw-kevin-latz-00238"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:44",
+      "ui/src/data/elections.ts:69"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00107",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:46",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "plainEnglish:",
+    "exactEvidenceSummary": "plainEnglish:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l46",
+      "mem-ui-src-data-elections-ts-l71"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00215",
+      "raw-kevin-latz-00240"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:46",
+      "ui/src/data/elections.ts:71"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00109",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:48",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "whyItMatters:",
+    "exactEvidenceSummary": "whyItMatters:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l48",
+      "mem-ui-src-data-elections-ts-l73"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00217",
+      "raw-kevin-latz-00242"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:48",
+      "ui/src/data/elections.ts:73"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00111",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:50",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "jobDescription:",
+    "exactEvidenceSummary": "jobDescription:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l50",
+      "mem-ui-src-data-elections-ts-l75"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00219",
+      "raw-kevin-latz-00244"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:50",
+      "ui/src/data/elections.ts:75"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00113",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:54",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "slug: \"ks-01-house-2026\",",
+    "exactEvidenceSummary": "slug: \"ks-01-house-2026\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l54"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00223"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:54"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00114",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:55",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "name: \"KS-01 U.S. House\",",
+    "exactEvidenceSummary": "name: \"KS-01 U.S. House\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l55"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00224"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:55"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00116",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:61",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "candidateCount: 5,",
+    "exactEvidenceSummary": "candidateCount: 5,",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l61"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00230"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:61"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00126",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:79",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "slug: \"kansas-governor-2026\",",
+    "exactEvidenceSummary": "slug: \"kansas-governor-2026\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l79"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00248"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:79"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00127",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:80",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "name: \"Kansas Governor\",",
+    "exactEvidenceSummary": "name: \"Kansas Governor\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l80"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00249"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:80"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00128",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:81",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "level: \"State\",",
+    "exactEvidenceSummary": "level: \"State\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l81"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00250"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:81"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00129",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:1",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+    "exactEvidenceSummary": "/* Auto-normalized with issue-mapped social/online cross-reference signals.",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l1"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00252"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:1"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00130",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:2",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "To refresh:",
+    "exactEvidenceSummary": "* To refresh:",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l2"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00253"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:2"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00131",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:3",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "node scripts/hydrate-v2-social-signals.mjs",
+    "exactEvidenceSummary": "* node scripts/hydrate-v2-social-signals.mjs",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l3"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00254"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:3"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00132",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:6",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+    "exactEvidenceSummary": "import type { CandidateFullV2 } from \"@/data/types-v2\";",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l6"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00256"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:6"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00133",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:7",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "import { validateCandidateV2 } from \"@/data/types-v2\";",
+    "exactEvidenceSummary": "import { validateCandidateV2 } from \"@/data/types-v2\";",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l7"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00257"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:7"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00134",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:9",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "export const KEVIN_LATZ_V2: CandidateFullV2 = {",
+    "exactEvidenceSummary": "export const KEVIN_LATZ_V2: CandidateFullV2 = {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l9"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00258"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:9"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00136",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:65",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "campaign statement",
+    "issueMappedTo": [],
+    "claim": "\"platform\": \"Public web\",",
+    "exactEvidenceSummary": "\"platform\": \"Public web\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l65",
+      "mem-ui-src-data-v2-kevin-latz-ts-l99"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00314",
+      "raw-kevin-latz-00348"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:65",
+      "ui/src/data/v2/kevin-latz.ts:99"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00138",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:67",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"observedAt\": \"2026-05-19\",",
+    "exactEvidenceSummary": "\"observedAt\": \"2026-05-19\",",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l67",
+      "mem-ui-src-data-v2-kevin-latz-ts-l101"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00316",
+      "raw-kevin-latz-00350"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:67",
+      "ui/src/data/v2/kevin-latz.ts:101"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00139",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:71",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"mappedToIssueId\": \"i-public-issue-record\"",
+    "exactEvidenceSummary": "\"mappedToIssueId\": \"i-public-issue-record\"",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l71"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00320"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:71"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00142",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:112",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"campaignFinance\": {",
+    "exactEvidenceSummary": "\"campaignFinance\": {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l112"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00361"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:112"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00144",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:146",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "if (process.env.NODE_ENV !== \"production\") {",
+    "exactEvidenceSummary": "if (process.env.NODE_ENV !== \"production\") {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l146"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00394"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:146"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00145",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:147",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "const result = validateCandidateV2(KEVIN_LATZ_V2);",
+    "exactEvidenceSummary": "const result = validateCandidateV2(KEVIN_LATZ_V2);",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l147"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00395"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:147"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00146",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:148",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "if (!result.ok) {",
+    "exactEvidenceSummary": "if (!result.ok) {",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l148"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00396"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:148"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00147",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:149",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "// eslint-disable-next-line no-console",
+    "exactEvidenceSummary": "// eslint-disable-next-line no-console",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l149"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00397"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:149"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00148",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:150",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "console.error(",
+    "exactEvidenceSummary": "console.error(",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l150"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00398"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:150"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00149",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:151",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"[kevin-latz.ts] validateCandidateV2 FAILED:\\n\" +",
+    "exactEvidenceSummary": "\"[kevin-latz.ts] validateCandidateV2 FAILED:\\n\" +",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l151"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00399"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:151"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00150",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:152",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "result.errors.join(\"\\n\"),",
+    "exactEvidenceSummary": "result.errors.join(\"\\n\"),",
+    "confidence": "unknown",
+    "useDecision": "background-only",
+    "reasonForDecision": "Preserved for context, but not used as a standalone public claim because it is internal memory without a public URL.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l152"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00400"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:152"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00009",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/social-harvest.md:14",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [
+      10
+    ],
+    "claim": "Election grouping: us-senate-2026",
+    "exactEvidenceSummary": "- Election grouping: us-senate-2026",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-in-their-own-words-md-l14",
+      "mem-memory-candidates-kevin-latz-raw-dump-v2-md-l14",
+      "mem-memory-candidates-kevin-latz-sleuth-pass-md-l14",
+      "mem-memory-candidates-kevin-latz-social-harvest-md-l14"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00009",
+      "raw-kevin-latz-00025",
+      "raw-kevin-latz-00041",
+      "raw-kevin-latz-00057"
+    ],
+    "duplicateCount": 4,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/in-their-own-words.md:14",
+      "memory/candidates/kevin-latz/raw-dump-v2.md:14",
+      "memory/candidates/kevin-latz/sleuth-pass.md:14",
+      "memory/candidates/kevin-latz/social-harvest.md:14"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00003",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/social-harvest.md:4",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Agent: codex candidate-completeness generator",
+    "exactEvidenceSummary": "Agent: codex candidate-completeness generator",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-in-their-own-words-md-l4",
+      "mem-memory-candidates-kevin-latz-raw-dump-v2-md-l4",
+      "mem-memory-candidates-kevin-latz-sleuth-pass-md-l4",
+      "mem-memory-candidates-kevin-latz-social-harvest-md-l4",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l4"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00003",
+      "raw-kevin-latz-00019",
+      "raw-kevin-latz-00035",
+      "raw-kevin-latz-00051",
+      "raw-kevin-latz-00068"
+    ],
+    "duplicateCount": 5,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/in-their-own-words.md:4",
+      "memory/candidates/kevin-latz/raw-dump-v2.md:4",
+      "memory/candidates/kevin-latz/sleuth-pass.md:4",
+      "memory/candidates/kevin-latz/social-harvest.md:4",
+      "memory/candidates/kevin-latz/v2-issues.yaml:4"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00008",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/social-harvest.md:13",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Position: U.S. Senate candidate, Kansas",
+    "exactEvidenceSummary": "- Position: U.S. Senate candidate, Kansas",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-in-their-own-words-md-l13",
+      "mem-memory-candidates-kevin-latz-raw-dump-v2-md-l13",
+      "mem-memory-candidates-kevin-latz-sleuth-pass-md-l13",
+      "mem-memory-candidates-kevin-latz-social-harvest-md-l13",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l9",
+      "mem-ui-src-data-v2-kevin-latz-ts-l13"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00008",
+      "raw-kevin-latz-00024",
+      "raw-kevin-latz-00040",
+      "raw-kevin-latz-00056",
+      "raw-kevin-latz-00073",
+      "raw-kevin-latz-00262"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/in-their-own-words.md:13",
+      "memory/candidates/kevin-latz/raw-dump-v2.md:13",
+      "memory/candidates/kevin-latz/sleuth-pass.md:13",
+      "memory/candidates/kevin-latz/social-harvest.md:13",
+      "memory/candidates/kevin-latz/v2-issues.yaml:9",
+      "ui/src/data/v2/kevin-latz.ts:13"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00024",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/social-harvest.md:15",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Incumbent: no",
+    "exactEvidenceSummary": "- Incumbent: no",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-social-harvest-md-l15"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00058"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/social-harvest.md:15"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00026",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/social-harvest.md:23",
+    "sourceUrl": null,
+    "sourceTier": "social",
+    "evidenceType": "social post",
+    "issueMappedTo": [],
+    "claim": "Source handling",
+    "exactEvidenceSummary": "## Source handling",
+    "confidence": "weak-signal",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-social-harvest-md-l23"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00063"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/social-harvest.md:23"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00010",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/in-their-own-words.md:15",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "Incumbent: no",
+    "exactEvidenceSummary": "- Incumbent: no",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-in-their-own-words-md-l15",
+      "mem-memory-candidates-kevin-latz-raw-dump-v2-md-l15",
+      "mem-memory-candidates-kevin-latz-sleuth-pass-md-l15"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00010",
+      "raw-kevin-latz-00026",
+      "raw-kevin-latz-00042"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/in-their-own-words.md:15",
+      "memory/candidates/kevin-latz/raw-dump-v2.md:15",
+      "memory/candidates/kevin-latz/sleuth-pass.md:15"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00043",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:24",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"id\": \"s-ks-filing-senate\",",
+    "exactEvidenceSummary": "\"id\": \"s-ks-filing-senate\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l24",
+      "mem-ui-src-data-v2-kevin-latz-ts-l122"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00088",
+      "raw-kevin-latz-00371"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:24",
+      "ui/src/data/v2/kevin-latz.ts:122"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00053",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:43",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"id\": \"i-ballot-status\",",
+    "exactEvidenceSummary": "\"id\": \"i-ballot-status\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l43",
+      "mem-ui-src-data-v2-kevin-latz-ts-l19"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00107",
+      "raw-kevin-latz-00268"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:43",
+      "ui/src/data/v2/kevin-latz.ts:19"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00106",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:45",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"Roger Marshall faces a crowded field of Democratic challengers plus Republican-side filing activity in one of Kansas's highest-profile races.\",",
+    "exactEvidenceSummary": "\"Roger Marshall faces a crowded field of Democratic challengers plus Republican-side filing activity in one of Kansas's highest-profile races.\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l45"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00214"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:45"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00123",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:72",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "ballot status",
+    "issueMappedTo": [
+      10,
+      13
+    ],
+    "claim": "\"If you live in Hays, this is your U.S. House race. Tracey Mann is the incumbent, and Colin McRoberts, Lauren Reinhold, Craig Musser, and Steven Robert Jacob have all appeared in the contest to represent western and central Kansas.\",",
+    "exactEvidenceSummary": "\"If you live in Hays, this is your U.S. House race. Tracey Mann is the incumbent, and Colin McRoberts, Lauren Reinhold, Craig Musser, and Steven Robert Jacob have all appeared in the contest to represent western and central Kansas.\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l72"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00241"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:72"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00070",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:89",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "donor/funding",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "\"id\": \"i-donor-funding\",",
+    "exactEvidenceSummary": "\"id\": \"i-donor-funding\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l89",
+      "mem-ui-src-data-v2-kevin-latz-ts-l76"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00153",
+      "raw-kevin-latz-00325"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:89",
+      "ui/src/data/v2/kevin-latz.ts:76"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00015",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/in-their-own-words.md:23",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "Source handling",
+    "exactEvidenceSummary": "## Source handling",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-in-their-own-words-md-l23",
+      "mem-memory-candidates-kevin-latz-raw-dump-v2-md-l23",
+      "mem-memory-candidates-kevin-latz-sleuth-pass-md-l23"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00015",
+      "raw-kevin-latz-00031",
+      "raw-kevin-latz-00047"
+    ],
+    "duplicateCount": 3,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/in-their-own-words.md:23",
+      "memory/candidates/kevin-latz/raw-dump-v2.md:23",
+      "memory/candidates/kevin-latz/sleuth-pass.md:23"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00049",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:35",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"s-saline-unofficial-list\",",
+    "exactEvidenceSummary": "\"id\": \"s-saline-unofficial-list\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l35",
+      "mem-ui-src-data-v2-kevin-latz-ts-l133"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00099",
+      "raw-kevin-latz-00382"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:35",
+      "ui/src/data/v2/kevin-latz.ts:133"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00052",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:41",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"issues\": [",
+    "exactEvidenceSummary": "\"issues\": [",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l41",
+      "mem-ui-src-data-v2-kevin-latz-ts-l17"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00105",
+      "raw-kevin-latz-00266"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:41",
+      "ui/src/data/v2/kevin-latz.ts:17"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00057",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:47",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sourceIds\": [",
+    "exactEvidenceSummary": "\"sourceIds\": [",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l47",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l57",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l70",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l80",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l93",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l103",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l118",
+      "mem-ui-src-data-v2-kevin-latz-ts-l23",
+      "mem-ui-src-data-v2-kevin-latz-ts-l33",
+      "mem-ui-src-data-v2-kevin-latz-ts-l46",
+      "mem-ui-src-data-v2-kevin-latz-ts-l56",
+      "mem-ui-src-data-v2-kevin-latz-ts-l68",
+      "mem-ui-src-data-v2-kevin-latz-ts-l80",
+      "mem-ui-src-data-v2-kevin-latz-ts-l90",
+      "mem-ui-src-data-v2-kevin-latz-ts-l102"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00111",
+      "raw-kevin-latz-00121",
+      "raw-kevin-latz-00134",
+      "raw-kevin-latz-00144",
+      "raw-kevin-latz-00157",
+      "raw-kevin-latz-00167",
+      "raw-kevin-latz-00182",
+      "raw-kevin-latz-00272",
+      "raw-kevin-latz-00282",
+      "raw-kevin-latz-00295",
+      "raw-kevin-latz-00305",
+      "raw-kevin-latz-00317",
+      "raw-kevin-latz-00329",
+      "raw-kevin-latz-00339",
+      "raw-kevin-latz-00351"
+    ],
+    "duplicateCount": 15,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:47",
+      "memory/candidates/kevin-latz/v2-issues.yaml:57",
+      "memory/candidates/kevin-latz/v2-issues.yaml:70",
+      "memory/candidates/kevin-latz/v2-issues.yaml:80",
+      "memory/candidates/kevin-latz/v2-issues.yaml:93",
+      "memory/candidates/kevin-latz/v2-issues.yaml:103",
+      "memory/candidates/kevin-latz/v2-issues.yaml:118",
+      "ui/src/data/v2/kevin-latz.ts:23",
+      "ui/src/data/v2/kevin-latz.ts:33",
+      "ui/src/data/v2/kevin-latz.ts:46",
+      "ui/src/data/v2/kevin-latz.ts:56",
+      "ui/src/data/v2/kevin-latz.ts:68",
+      "ui/src/data/v2/kevin-latz.ts:80",
+      "ui/src/data/v2/kevin-latz.ts:90",
+      "ui/src/data/v2/kevin-latz.ts:102"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00061",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:54",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-record-appearance\",",
+    "exactEvidenceSummary": "\"id\": \"a-record-appearance\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l54",
+      "mem-ui-src-data-v2-kevin-latz-ts-l30"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00118",
+      "raw-kevin-latz-00279"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:54",
+      "ui/src/data/v2/kevin-latz.ts:30"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00064",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:63",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"socialSignals\": []",
+    "exactEvidenceSummary": "\"socialSignals\": []",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l63",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l86",
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l109",
+      "mem-ui-src-data-v2-kevin-latz-ts-l39",
+      "mem-ui-src-data-v2-kevin-latz-ts-l62",
+      "mem-ui-src-data-v2-kevin-latz-ts-l96"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00127",
+      "raw-kevin-latz-00150",
+      "raw-kevin-latz-00173",
+      "raw-kevin-latz-00288",
+      "raw-kevin-latz-00311",
+      "raw-kevin-latz-00345"
+    ],
+    "duplicateCount": 6,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:63",
+      "memory/candidates/kevin-latz/v2-issues.yaml:86",
+      "memory/candidates/kevin-latz/v2-issues.yaml:109",
+      "ui/src/data/v2/kevin-latz.ts:39",
+      "ui/src/data/v2/kevin-latz.ts:62",
+      "ui/src/data/v2/kevin-latz.ts:96"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00065",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:66",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"i-public-issue-record\",",
+    "exactEvidenceSummary": "\"id\": \"i-public-issue-record\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l66",
+      "mem-ui-src-data-v2-kevin-latz-ts-l42"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00130",
+      "raw-kevin-latz-00291"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:66",
+      "ui/src/data/v2/kevin-latz.ts:42"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00068",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:77",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "campaign statement",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-platform-gap\",",
+    "exactEvidenceSummary": "\"id\": \"a-platform-gap\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l77",
+      "mem-ui-src-data-v2-kevin-latz-ts-l53"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00141",
+      "raw-kevin-latz-00302"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:77",
+      "ui/src/data/v2/kevin-latz.ts:53"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00073",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/kevin-latz/v2-issues.yaml:100",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"a-finance-record\",",
+    "exactEvidenceSummary": "\"id\": \"a-finance-record\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-memory-candidates-kevin-latz-v2-issues-yaml-l100",
+      "mem-ui-src-data-v2-kevin-latz-ts-l87"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00164",
+      "raw-kevin-latz-00336"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "memory/candidates/kevin-latz/v2-issues.yaml:100",
+      "ui/src/data/v2/kevin-latz.ts:87"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00092",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:30",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"roger-marshall\",",
+    "exactEvidenceSummary": "\"roger-marshall\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l30"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00199"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:30"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00093",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:31",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"damon-anderson\",",
+    "exactEvidenceSummary": "\"damon-anderson\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l31"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00200"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:31"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00094",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:32",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"jason-hart\",",
+    "exactEvidenceSummary": "\"jason-hart\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l32"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00201"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:32"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00096",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:34",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"patrick-schmidt\",",
+    "exactEvidenceSummary": "\"patrick-schmidt\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l34"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00203"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:34"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00097",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:35",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"christy-cauble-davis\",",
+    "exactEvidenceSummary": "\"christy-cauble-davis\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l35"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00204"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:35"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00098",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:36",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"sandy-spidel-neumann\",",
+    "exactEvidenceSummary": "\"sandy-spidel-neumann\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l36"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00205"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:36"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00099",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:37",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"erik-murray\",",
+    "exactEvidenceSummary": "\"erik-murray\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l37"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00206"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:37"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00100",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:38",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"anne-parelkar\",",
+    "exactEvidenceSummary": "\"anne-parelkar\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l38"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00207"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:38"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00101",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:39",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"michael-soetaert\",",
+    "exactEvidenceSummary": "\"michael-soetaert\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l39"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00208"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:39"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00102",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:40",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"noah-taylor\",",
+    "exactEvidenceSummary": "\"noah-taylor\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l40"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00209"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:40"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00103",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:41",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"adam-hamilton\",",
+    "exactEvidenceSummary": "\"adam-hamilton\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l41"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00210"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:41"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00104",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:42",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"chase-laporte\",",
+    "exactEvidenceSummary": "\"chase-laporte\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l42"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00211"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:42"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00117",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:63",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"tracey-mann\",",
+    "exactEvidenceSummary": "\"tracey-mann\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l63"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00232"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:63"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00118",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:64",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"colin-mcroberts\",",
+    "exactEvidenceSummary": "\"colin-mcroberts\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l64"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00233"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:64"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00119",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:65",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"lauren-reinhold\",",
+    "exactEvidenceSummary": "\"lauren-reinhold\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l65"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00234"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:65"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00120",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:66",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"craig-musser\",",
+    "exactEvidenceSummary": "\"craig-musser\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l66"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00235"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:66"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00121",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:67",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"steven-jacob\",",
+    "exactEvidenceSummary": "\"steven-jacob\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l67"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00236"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:67"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00122",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/elections.ts:70",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"Tracey Mann is seeking another term in the Big First, with Democratic, independent, and Libertarian challengers already in the field.\",",
+    "exactEvidenceSummary": "\"Tracey Mann is seeking another term in the Big First, with Democratic, independent, and Libertarian challengers already in the field.\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as likely cross-candidate contamination from a broad raw report; the claim names another project candidate and not the assigned candidate.",
+    "sourceIds": [
+      "mem-ui-src-data-elections-ts-l70"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00239"
+    ],
+    "duplicateCount": 1,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/elections.ts:70"
+    ]
+  },
+  {
+    "id": "em-kevin-latz-00135",
+    "candidateSlug": "kevin-latz",
+    "candidateName": "Kevin Latz",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "ui/src/data/v2/kevin-latz.ts:64",
+    "sourceUrl": null,
+    "sourceTier": "internal-memory",
+    "evidenceType": "biography",
+    "issueMappedTo": [],
+    "claim": "\"id\": \"ss-crossref-1\",",
+    "exactEvidenceSummary": "\"id\": \"ss-crossref-1\",",
+    "confidence": "unknown",
+    "useDecision": "reject",
+    "reasonForDecision": "Rejected as generated metadata, structural residue, or non-substantive source scaffolding rather than a voter-facing factual claim.",
+    "sourceIds": [
+      "mem-ui-src-data-v2-kevin-latz-ts-l64",
+      "mem-ui-src-data-v2-kevin-latz-ts-l98"
+    ],
+    "rawRowIds": [
+      "raw-kevin-latz-00313",
+      "raw-kevin-latz-00347"
+    ],
+    "duplicateCount": 2,
+    "supportingSourceUrls": [],
+    "supportingSourceFiles": [
+      "ui/src/data/v2/kevin-latz.ts:64",
+      "ui/src/data/v2/kevin-latz.ts:98"
+    ]
+  }
+]

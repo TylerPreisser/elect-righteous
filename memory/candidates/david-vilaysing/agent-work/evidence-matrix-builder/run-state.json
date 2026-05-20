@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "david-vilaysing",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/david-vilaysing/evidence-matrix-raw.json",
+    "memory/candidates/david-vilaysing/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/david-vilaysing/evidence-matrix.json",
+    "memory/candidates/david-vilaysing/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/david-vilaysing/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/david-vilaysing/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs david-vilaysing"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for david-vilaysing.",
+    "Run source-tier-validator for david-vilaysing."
+  ],
+  "handoff_summary": "Built final evidence matrix for david-vilaysing: 4832 raw rows to 2734 deduplicated rows."
+}

@@ -1,0 +1,31 @@
+{
+  "agent_id": "fixed-issue-matrix-builder",
+  "agent_role": "Issue-by-issue content builder",
+  "candidate_slug": "mason-ruder",
+  "phase": "3",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/mason-ruder/evidence-matrix.json",
+    "memory/candidates/mason-ruder/social-evidence-matrix.json",
+    "memory/candidates/mason-ruder/source-audit.json"
+  ],
+  "files_written": [
+    "memory/candidates/mason-ruder/issue-matrix.md",
+    "memory/candidates/mason-ruder/fixed-issue-matrix.json",
+    "memory/candidates/mason-ruder/v2-issues.yaml",
+    "memory/candidates/mason-ruder/agent-work/fixed-issue-matrix-builder/run-state.json",
+    "memory/candidates/mason-ruder/agent-work/fixed-issue-matrix-builder/notes.md",
+    "memory/candidates/mason-ruder/agent-work/fixed-issue-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-fixed-issue-matrix.mjs mason-ruder"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run biography/record/funding/faith/profile assembler passes for mason-ruder."
+  ],
+  "handoff_summary": "Built fixed 14-issue matrix for mason-ruder."
+}

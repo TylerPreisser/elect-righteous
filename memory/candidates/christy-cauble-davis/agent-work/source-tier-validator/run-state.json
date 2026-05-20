@@ -1,0 +1,28 @@
+{
+  "agent_id": "source-tier-validator",
+  "agent_role": "Source quality auditor",
+  "candidate_slug": "christy-cauble-davis",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/christy-cauble-davis/evidence-matrix.json"
+  ],
+  "files_written": [
+    "memory/candidates/christy-cauble-davis/source-audit.json",
+    "memory/candidates/christy-cauble-davis/source-audit.md",
+    "memory/candidates/christy-cauble-davis/agent-work/source-tier-validator/run-state.json",
+    "memory/candidates/christy-cauble-davis/agent-work/source-tier-validator/notes.md",
+    "memory/candidates/christy-cauble-davis/agent-work/source-tier-validator/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs christy-cauble-davis"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Use source-audit.md during fixed-issue-matrix-builder for christy-cauble-davis."
+  ],
+  "handoff_summary": "Audited 230 unique source records for christy-cauble-davis."
+}

@@ -1,0 +1,28 @@
+{
+  "agent_id": "source-tier-validator",
+  "agent_role": "Source quality auditor",
+  "candidate_slug": "stacy-rogers",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/stacy-rogers/evidence-matrix.json"
+  ],
+  "files_written": [
+    "memory/candidates/stacy-rogers/source-audit.json",
+    "memory/candidates/stacy-rogers/source-audit.md",
+    "memory/candidates/stacy-rogers/agent-work/source-tier-validator/run-state.json",
+    "memory/candidates/stacy-rogers/agent-work/source-tier-validator/notes.md",
+    "memory/candidates/stacy-rogers/agent-work/source-tier-validator/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs stacy-rogers"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Use source-audit.md during fixed-issue-matrix-builder for stacy-rogers."
+  ],
+  "handoff_summary": "Audited 260 unique source records for stacy-rogers."
+}

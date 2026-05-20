@@ -1,0 +1,41 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "bobbi-dreiling",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/bobbi-dreiling/in-their-own-words.md",
+    "memory/candidates/bobbi-dreiling/raw-dump-v2.md",
+    "memory/candidates/bobbi-dreiling/raw-dump.md",
+    "memory/candidates/bobbi-dreiling/site-profile.md",
+    "memory/candidates/bobbi-dreiling/sleuth-pass.md",
+    "memory/candidates/bobbi-dreiling/social-harvest.md",
+    "memory/candidates/bobbi-dreiling/v2-issues.yaml",
+    "reports/ellis-county-elected-officials-deep-investigation.md",
+    "reports/faith-church-investigation-2026-03-31.md",
+    "reports/hays-kansas-election-finder-2026-03-30.md",
+    "reports/senate-challengers-local-officials-complete.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/bobbi-dreiling.ts"
+  ],
+  "files_written": [
+    "memory/candidates/bobbi-dreiling/evidence-matrix-raw.json",
+    "memory/candidates/bobbi-dreiling/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/bobbi-dreiling/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/bobbi-dreiling/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/bobbi-dreiling/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-raw-evidence-matrix.mjs bobbi-dreiling"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for bobbi-dreiling."
+  ],
+  "handoff_summary": "Extracted 8655 raw evidence rows for bobbi-dreiling."
+}

@@ -1,0 +1,62 @@
+# Social Analysis — nathan-leiker — 2026-05-20
+
+## Scope
+Read social-harvest.md and 3141 evidence-matrix rows; classified 218 social/online/platform observations.
+
+## Platform Presence
+- No structured presence summary was found in social-harvest.md.
+
+## Issue Coverage
+| Issue | Title                                              | Total | Strong | Moderate | Weak | Ambiguous |
+| ----- | -------------------------------------------------- | ----- | ------ | -------- | ---- | --------- |
+| 1     | Abortion / life                                    | 5     | 0      | 0        | 1    | 2         |
+| 2     | LGBT / gender / parental rights                    | 3     | 0      | 0        | 1    | 2         |
+| 3     | Education / curriculum / schools                   | 5     | 1      | 0        | 1    | 2         |
+| 4     | Religious liberty / church / civic morality        | 2     | 0      | 0        | 0    | 1         |
+| 5     | Taxes / spending / debt                            | 21    | 10     | 0        | 4    | 4         |
+| 6     | Economy / jobs / labor                             | 9     | 4      | 0        | 1    | 3         |
+| 7     | Guns / Second Amendment                            | 1     | 0      | 0        | 0    | 0         |
+| 8     | Immigration / border                               | 5     | 0      | 0        | 1    | 4         |
+| 9     | Health care / insurance / Medicaid                 | 13    | 3      | 0        | 0    | 7         |
+| 10    | Election integrity / voting / courts               | 34    | 2      | 0        | 4    | 21        |
+| 11    | Public safety / law enforcement / criminal justice | 9     | 0      | 0        | 0    | 5         |
+| 12    | Agriculture / rural economy / water                | 25    | 12     | 0        | 3    | 7         |
+| 13    | Local governance / transparency / ethics           | 74    | 19     | 0        | 10   | 30        |
+| 14    | Environment / energy / land use                    | 9     | 3      | 0        | 1    | 3         |
+
+## Representative Signals
+- **strong / LinkedIn / post** — [LinkedIn](https://www.linkedin.com/in/aaron-cunningham-653b3094/) -- lists K-State education (https://www.linkedin.com/in/aaron-cunningham-653b3094/)
+- **strong / hayspost.com / post** — | Candidate Q&A / platform | Yes, candidate-authored answers | [Hays Post, Jul. 19, 2022](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17) | Best source for direct campaign-position language: sales tax, infrastructure, economic development, broadband/telecom, transparency, property rights, and opposition to a five-member commission. | (https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17)
+- **strong / hayspost.com / post** — | Budget, taxes, revenue, fiscal restraint | 7 | [Candidate Q&A](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17), [2025 budget](https://hayspost.com/posts/d81583db-0414-44c6-8dac-7d4ad565ed13), [2026 budget draft](https://hayspost.com/posts/7c57b3c8-1314-4bd7-8501-f559ff7c176d), [property tax discussion](https://hayspost.com/posts/0dc3bf76-b (https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17)
+- **strong / hayspost.com / post** — | Transparency, accessibility, public participation | 3 | [Candidate Q&A](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17), [2025 budget](https://hayspost.com/posts/d81583db-0414-44c6-8dac-7d4ad565ed13), [official commission page](https://www.ellisco.net/120/County-Commission) | (https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17)
+- **strong / hayspost.com / post** — On sales tax, he said the county should leave the sales tax alone and make it permanent before sunset, while using the funds for capital improvements and residents' quality of life. Source: [Hays Post candidate Q&A, Jul. 19, 2022](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17). (https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17)
+- **strong / hayspost.com / post** — On the 2025 budget, he said the commission tries to limit tax-dollar impact, but also warned against deferring bridge and road needs until failures or accidents happen. Source: [Hays Post, Oct. 1, 2024](https://hayspost.com/posts/d81583db-0414-44c6-8dac-7d4ad565ed13). (https://hayspost.com/posts/d81583db-0414-44c6-8dac-7d4ad565ed13)
+- **strong / hayspost.com / post** — On the 2026 budget draft, he said a mill increase gave the county flexibility for a soft landing if state or federal grants were pulled. Source: [Hays Post, Aug. 14, 2025](https://hayspost.com/posts/7c57b3c8-1314-4bd7-8501-f559ff7c176d). (https://hayspost.com/posts/7c57b3c8-1314-4bd7-8501-f559ff7c176d)
+- **strong / hayspost.com / post** — On property tax relief, he said counties keep losing tools and then get told they are not doing it right. Source: [Hays Post, Dec. 22, 2025](https://hayspost.com/posts/0dc3bf76-bd9f-4190-a0c7-231ca8172d18). (https://hayspost.com/posts/0dc3bf76-bd9f-4190-a0c7-231ca8172d18)
+- **strong / hayspost.com / post** — [2025 budget with mill levy reduction, Hays Post, Oct. 1, 2024](https://hayspost.com/posts/d81583db-0414-44c6-8dac-7d4ad565ed13) (https://hayspost.com/posts/d81583db-0414-44c6-8dac-7d4ad565ed13)
+- **strong / hayspost.com / post** — [2026 budget draft, Hays Post, Aug. 14, 2025](https://hayspost.com/posts/7c57b3c8-1314-4bd7-8501-f559ff7c176d) (https://hayspost.com/posts/7c57b3c8-1314-4bd7-8501-f559ff7c176d)
+- **strong / hayspost.com / post** — [Property tax relief discussion, Hays Post, Dec. 22, 2025](https://hayspost.com/posts/0dc3bf76-bd9f-4190-a0c7-231ca8172d18) (https://hayspost.com/posts/0dc3bf76-bd9f-4190-a0c7-231ca8172d18)
+- **strong / ingrams.com / post** — | Agriculture/business profile | Yes | [Ingram's 50 Kansans You Should Know 2021](https://ingrams.com/article/50-kansans-you-should-know-2021/) | Profile-controlled/attributed agriculture remarks on L5 Farms, producer-consumer relationships, food supply fragility, direct marketing, and farm values. | (https://ingrams.com/article/50-kansans-you-should-know-2021/)
+- **strong / myaniml.com / post** — | Agriculture technology case study | Yes | [MyAnIML case study, Jul. 19, 2023](https://myaniml.com/Kansas_Rancher_Installs_MyAnIML_to_Save.pdf) | Public product case study attributes detailed remarks to Leiker about cattle health technology, labor limits, early disease detection, low-stress livestock handling, and productivity. | (https://myaniml.com/Kansas_Rancher_Installs_MyAnIML_to_Save.pdf)
+- **strong / manta.com / post** — | L5 Farms public listings | Yes, business listing only | [Manta Hays crop farms listing](https://www.manta.com/mb_54_C00BX_6QH/general_farms_primarily_crop/hays_ks), [MapQuest L5 Farms](https://www.mapquest.com/us/kansas/l5-farms-inc-422724172) | Public listings identify L5 Farms Inc. in Hays. They are not candidate messaging, but they support the agricultu (https://www.manta.com/mb_54_C00BX_6QH/general_farms_primarily_crop/hays_ks)
+- **strong / hayspost.com / post** — On citizen governance, he described himself as someone who built his life around Ellis County and had done the "dirty, grimy, hard jobs" many taxpayers do. Source: [Hays Post candidate Q&A](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17). (https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17)
+- **strong / ingrams.com / post** — On agriculture, he told Ingram's that producer-consumer partnerships were an opportunity after COVID exposed food-supply fragility, and that agriculture's values of hard work and perseverance do not change. Source: [Ingram's, March 2021](https://ingrams.com/article/50-kansans-you-should-know-2021/). (https://ingrams.com/article/50-kansans-you-should-know-2021/)
+- **strong / myaniml.com / post** — On cattle technology, he said MyAnIML could spread cattle-health expertise across the farm and that low-stress, less-invasive management drew him to the tool. Source: [MyAnIML case study, Jul. 19, 2023](https://myaniml.com/Kansas_Rancher_Installs_MyAnIML_to_Save.pdf). (https://myaniml.com/Kansas_Rancher_Installs_MyAnIML_to_Save.pdf)
+- **strong / hayspost.com / post** — The clearest public electoral attention marker is Leiker's 2024 general-election result. Hays Post reported 4,193 votes for Nathan D. Leiker in the District 3 race on election night; Ellis County's official results PDF later listed 4,272 votes and 45 write-ins. Sources: [Hays Post, Nov. 6, 2024](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496 (https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)
+- **strong / hayspost.com / post** — [2024 general election results, Hays Post, Nov. 6, 2024](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496) (https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)
+- **strong / hayspost.com / post** — | Campaign announcement | Yes, attributed | [Hays Post, Apr. 12, 2022](https://hayspost.com/posts/aedbf614-0ea1-4a7c-8932-156b271a4709) | Leiker's launch message emphasized zoning board service, Extension board work, oil-industry and rural-fire experience, family farm/ranch identity, and serving Ellis County. | (https://hayspost.com/posts/aedbf614-0ea1-4a7c-8932-156b271a4709)
+- **strong / hayspost.com / post** — | Roads, bridges, infrastructure, public works | 8 | [Candidate Q&A](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17), [2022 canvass remarks](https://hayspost.com/posts/6e260438-27db-4402-bf8e-e8df621996d4), [rural road maintenance](https://hayspost.com/posts/0ec5af1e-3acd-4f02-9842-bf61a57eae9a), [city-county road collaboration](https://hays (https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17)
+- **strong / ingrams.com / post** — | Agriculture, cattle, farm technology, food supply | 3 | [Ingram's 2021 profile](https://ingrams.com/article/50-kansans-you-should-know-2021/), [MyAnIML case study](https://myaniml.com/Kansas_Rancher_Installs_MyAnIML_to_Save.pdf), [campaign announcement](https://hayspost.com/posts/aedbf614-0ea1-4a7c-8932-156b271a4709) | (https://ingrams.com/article/50-kansans-you-should-know-2021/)
+- **strong / hayspost.com / post** — On why he ran, Leiker cited zoning board, Cottonwood Extension, oil-industry, rural-fire, and family-farm experience, saying he was proud to be from Ellis County and looked forward to serving it. Source: [Hays Post, Apr. 12, 2022](https://hayspost.com/posts/aedbf614-0ea1-4a7c-8932-156b271a4709). (https://hayspost.com/posts/aedbf614-0ea1-4a7c-8932-156b271a4709)
+- **strong / hayspost.com / post** — On rural road maintenance, he said Ellis County promoted growth in subdivisions but did not promote growth in public works to handle those added residents. Source: [Hays Post, Feb. 29, 2024](https://hayspost.com/posts/0ec5af1e-3acd-4f02-9842-bf61a57eae9a). (https://hayspost.com/posts/0ec5af1e-3acd-4f02-9842-bf61a57eae9a)
+- **strong / hayspost.com / post** — [Rural road maintenance, Hays Post, Feb. 29, 2024](https://hayspost.com/posts/0ec5af1e-3acd-4f02-9842-bf61a57eae9a) (https://hayspost.com/posts/0ec5af1e-3acd-4f02-9842-bf61a57eae9a)
+- **strong / manta.com / post** — [Manta Hays crop farms listing](https://www.manta.com/mb_54_C00BX_6QH/general_farms_primarily_crop/hays_ks) (https://www.manta.com/mb_54_C00BX_6QH/general_farms_primarily_crop/hays_ks)
+- **strong / YouTube / post** — https://www.youtube.com/channel/UCBBRknufuCapLbNnXXU3Xhg — Ellis County, KS YouTube channel (archived meetings) (https://www.youtube.com/channel/UCBBRknufuCapLbNnXXU3Xhg)
+- **strong / Facebook / post** — [Facebook -- Commissioner Ellis County 1st District](https://www.facebook.com/EllisCountyDistrict1/) -- Active public page for his commissioner seat (https://www.facebook.com/EllisCountyDistrict1/)
+- **strong / Facebook / post** — [Facebook Page](https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/) (https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/)
+- **strong / Facebook / post** — Facebook (Official): [musilcomish](https://www.facebook.com/musilcomish/) (https://www.facebook.com/musilcomish/)
+
+## Required Caveats
+- Social evidence is signal, not fact. A follow, like, share, or platform absence is not treated as a belief or policy position.
+- Candidate-controlled posts and campaign pages may be used as stated positions only when the text itself says the position.
+- Login-walled, blocked, or inaccessible platform content is documented as a capture limitation, not as evidence of silence.

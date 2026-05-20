@@ -1,0 +1,28 @@
+{
+  "agent_id": "source-tier-validator",
+  "agent_role": "Source quality auditor",
+  "candidate_slug": "michelle-cunningham",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:46:44Z",
+  "completed_at": "2026-05-20T18:46:44Z",
+  "inputs_read": [
+    "memory/candidates/michelle-cunningham/evidence-matrix.json"
+  ],
+  "files_written": [
+    "memory/candidates/michelle-cunningham/source-audit.json",
+    "memory/candidates/michelle-cunningham/source-audit.md",
+    "memory/candidates/michelle-cunningham/agent-work/source-tier-validator/run-state.json",
+    "memory/candidates/michelle-cunningham/agent-work/source-tier-validator/notes.md",
+    "memory/candidates/michelle-cunningham/agent-work/source-tier-validator/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs michelle-cunningham"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Use source-audit.md during fixed-issue-matrix-builder for michelle-cunningham."
+  ],
+  "handoff_summary": "Audited 8 unique source records for michelle-cunningham."
+}

@@ -1,0 +1,1511 @@
+# Fixed 14-Issue Matrix — scott-schwab — 2026-05-20
+
+This matrix is built from `evidence-matrix.json`, `social-evidence-matrix.json`, and `source-audit.json`. It is a candidate-rebuild input, not final public prose.
+
+## 1. Abortion / life
+
+Abortion / life: 24 selected evidence items from 66 mapped rows. Public URL-backed rows: 2.
+
+### Evidence
+- **candidate-stated** [em-scott-schwab-00909] Reproductive Rights: Supports reproductive freedom
+  - Source: memory/candidates/scott-schwab/raw-dump.md:1210
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-03647] Abortion / Sanctity of Life: Opposes abortion. Believes personhood begins at implantation. At a GOP debate he said: "I feel horrible that a young woman can be manipulated to have an abortion, and there's no recourse."
+  - Source: memory/candidates/scott-schwab/site-profile.md:17
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-03796] Kansas Reflector June 2025 story, available in search snippets, reported Schwab said he remained an opponent of abortion and described implantation as the point at which he personally believed constitutional/legal protection should attach. Because direct fetch was blocked, use this carefully and prefer the accessible Wichita Eagle/Kansas Reflector republication for the Jan. 2026 debate.
+  - Source: memory/candidates/scott-schwab/sleuth-pass.md:109
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-04273] | Abortion / Reproductive Rights | Supports women's right to make private medical decisions. Will NOT use AG office resources to attack constitutional rights. Respects 2022 Value Them Both referendum result (rejected by 18 points). "I would not waste the resources of the office to attack women's constitutional rights." |
+  - Source: reports/chris-mann-complete-dossier.md:239
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-04394] "stance": "Opposes abortion. Believes personhood begins at implantation. At a GOP debate he said: \"I feel horrible that a young woman can be manipulated to have an abortion, and there's no recourse.\""
+  - Source: ui/src/data/candidates.ts:11566
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-04662] "statement-abortion-gop-debate"
+  - Source: ui/src/data/v2/scott-schwab.ts:352
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00135] Schwab abortion/court quote: "It is frustration that the court hates its Legislature"; "That's unholy"; "I feel horrible that a young woman can be manipulated to have an abortion, and there's no recourse."
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:213
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00698] Signed abortion restriction legislation
+  - Source: memory/candidates/scott-schwab/raw-dump.md:876
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-01916] > "How do we defend innocent life? I think this is one of the civil rights issues of our time. We have a Supreme Court that has found this right to abortion that is nowhere found in that constitution. It's our fastest-growing industry in the state of Kansas."
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2807
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-01932] As governor, supported state constitutional amendment to remove abortion rights protections (failed at ballot in 2022)
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2835
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-01970] > "We have a Supreme Court that has found this right to abortion that is nowhere found in that constitution. It's our fastest-growing industry in the state of Kansas."
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2906
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-02365] The 2022 Kansas abortion vote showed rural Kansans can break with the GOP on specific issues, but that hasn't translated to candidate elections
+  - Source: memory/candidates/scott-schwab/raw-dump.md:3577
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-02432] 1. The Abortion Ruling (2019): The Kansas Supreme Court ruled 6-1 that the Kansas Constitution protects a right to "personal autonomy," including the right to decide whether to continue a pregnancy. This made Kansas one of the strongest states for abortion rights -- decided by appointed justices, not elected ones.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:3689
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-02435] Kansas Reflector explicitly headlined their coverage: "Kansas Senate adopts plan to elect Supreme Court justices, a step toward overturning abortion rights."
+  - Source: memory/candidates/scott-schwab/raw-dump.md:3695
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-04494] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-04531] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-scott-schwab-01848] His faith is expressed more through action (humanitarian service, pro-life positions, protecting faith-based organizations) than through verbal testimony
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2701
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-scott-schwab-03310] Abortion Votes -- THE KEY CONTROVERSY
+  - Source: memory/candidates/scott-schwab/raw-dump.md:5183
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00214] Abortion / Judicial Selection
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:365
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00216] Quote from debate coverage: "I feel horrible that a young woman can be manipulated to have an abortion, and there's no recourse."
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:370
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-01789] Abortion:
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2611
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-01790] Described abortion as "one of the civil rights issues of our time"
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2612
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-01791] Kansas should shed its status as "Midwest magnet for abortion"
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2613
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-01915] On Abortion:
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2806
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-scott-schwab-0003] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-scott-schwab-0004] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 2. LGBT / gender / parental rights
+
+LGBT / gender / parental rights: 12 selected evidence items from 12 mapped rows. Public URL-backed rows: 1.
+
+### Evidence
+- **candidate-stated** [em-scott-schwab-00967] Transgender Athletes: OPPOSES transgender girls competing in girls' sports (unusual for a Democrat)
+  - Source: memory/candidates/scott-schwab/raw-dump.md:1320
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-03648] Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.
+  - Source: memory/candidates/scott-schwab/site-profile.md:19
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-03652] School Choice / Parental Rights in Education: Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources.
+  - Source: memory/candidates/scott-schwab/site-profile.md:27
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-01096] Education/Parental Rights: Fought for "parents' rights, fiscal responsibility" on school board
+  - Source: memory/candidates/scott-schwab/raw-dump.md:1561
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-02593] Why this matters: The Board of Education has been a battleground over science standards (evolution vs. intelligent design), sex education, school library books, and transgender student policies. In recent years, conservative and moderate factions have fought for control. The 2026 elections could shift the balance of power on the board.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4037
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-04531] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-scott-schwab-01727] May 2018: Signed Senate Bill 284 granting legal protections to faith-based adoption agencies that cite religious beliefs for not placing children in LGBTQ+ homes
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2521
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00697] Signed the Adoption Protection Act as governor (allows religious adoption agencies to refuse placements to same-sex couples)
+  - Source: memory/candidates/scott-schwab/raw-dump.md:875
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-01144] Education: Restore parental rights in education
+  - Source: memory/candidates/scott-schwab/raw-dump.md:1651
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-02879] LGBTQ Rights: Supported restrictions on LGBTQ rights
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4472
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-04395] "issue": "Marriage & Family / LGBTQ+ Policy",
+  - Source: ui/src/data/candidates.ts:11569
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-04402] "issue": "School Choice / Parental Rights in Education",
+  - Source: ui/src/data/candidates.ts:11585
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Facebook share/repost** [soc-scott-schwab-0004] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-scott-schwab-0123] Marriage & Family / LGBTQ+ Policy: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-scott-schwab-0124] School Choice / Parental Rights in Education: Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 3. Education / curriculum / schools
+
+Education / curriculum / schools: 28 selected evidence items from 189 mapped rows. Public URL-backed rows: 14.
+
+### Evidence
+- **candidate-stated** [em-scott-schwab-00364] STRONG INDICATOR = Family/school ties strongly suggest affiliation but no direct membership statement found
+  - Source: memory/candidates/scott-schwab/raw-dump.md:125
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-00966] School Vouchers: Opposes private schools receiving taxpayer funds or competing in public school athletics
+  - Source: memory/candidates/scott-schwab/raw-dump.md:1319
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-03652] School Choice / Parental Rights in Education: Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources.
+  - Source: memory/candidates/scott-schwab/site-profile.md:27
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-04656] "statement-education-debate"
+  - Source: ui/src/data/v2/scott-schwab.ts:304
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00086] "url": "https://www.usd489.com/page/board-of-education"
+  - Source: https://www.usd489.com/page/board-of-education
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00530] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-01352] [Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)
+  - Source: https://www.usd489.com/page/board-of-education
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-01416] [Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)
+  - Source: https://www.haysusa.com/335/Public-Library-Board
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-02660] [Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-02661] [Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)
+  - Source: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-02662] [Kansas Reflector: Board races could shift power to conservative bloc](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)
+  - Source: https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-00009] Several issue areas were not visible in the accessible material reviewed. The public set did not include captured items centered on Medicaid expansion, rural hospital closures, child care, K-12 school finance, higher education affordability, foster care, housing costs, water policy, Ogallala aquifer policy, veterans services, road and bridge funding, or broadband buildout. The available record is therefore most complete on elections, state administration, taxes, rural/economic positioning, and basic campaign identity, and less complete on those absent policy areas.
+  - Source: memory/candidates/scott-schwab/in-their-own-words.md:17
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-04494] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-04531] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-00583] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/scott-schwab/raw-dump.md:653
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-01839] Raised Catholic in Hays -- attended Thomas More Prep-Marian, a Catholic high school
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2691
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-03260] Vicki (maiden name Greene per WikiTree records) was born and raised in Wichita. She and Mike both attended Wichita South High School. Their families lived two blocks from each other and "shared similar upbringings focused on hard work, honesty, and faith." They went to the University of Kansas together and married in 1974. They have resided in Topeka for over 40 years, where they raised their two sons.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:5090
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-scott-schwab-03893] Across the accessible public set reviewed, no reviewed item centered Medicaid expansion, rural hospital closures, child care, K-12 school finance, higher education affordability, foster care, housing costs, water policy, Ogallala aquifer policy, veterans services, road and bridge funding, or broadband buildout. The reviewed set contained one personal health update, but no health-policy item was captured.
+  - Source: memory/candidates/scott-schwab/social-harvest.md:83
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-scott-schwab-00507] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **faith-community-record** [em-scott-schwab-00365] INFERRED = Circumstantial evidence only (German-Catholic surname, attended Catholic school, etc.)
+  - Source: memory/candidates/scott-schwab/raw-dump.md:126
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-scott-schwab-00376] 2010 graduate of Thomas More Prep-Marian (Catholic high school, Diocese of Salina)
+  - Source: memory/candidates/scott-schwab/raw-dump.md:147
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-scott-schwab-00377] Works professionally FOR the Catholic school system in Hays (HCS Advancement Director)
+  - Source: memory/candidates/scott-schwab/raw-dump.md:148
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00587] [HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-01353] [Ballotpedia: Hays USD 489 Elections](https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections)
+  - Source: https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-01480] | Hays USD 489 | 785-623-2400 | [usd489.com](https://www.usd489.com) |
+  - Source: https://www.usd489.com
+  - Confidence/use: confirmed / use
+- **background-context** [em-scott-schwab-02374] [KU School of Business Faculty Page](https://business.ku.edu/people/colin-mcroberts)
+  - Source: https://business.ku.edu/people/colin-mcroberts
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-00118] Reports Schwab was in Hays promoting the Jobs, Education, Agriculture, Networking and Sustainability plan.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:190
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00127] Schwab discussed community-college job training, local manufacturing, Highway 83 four-laning, all forms of energy production, rural schools, rural hospitals, and leveraging Kansas agriculture.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:199
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-scott-schwab-0003] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-scott-schwab-0004] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-scott-schwab-0005] Across the accessible public set reviewed, no reviewed item centered Medicaid expansion, rural hospital closures, child care, K-12 school finance, higher education affordability, foster care, housing costs, water policy, Ogallala aquifer policy, veterans services, road and bridge funding, or broadband buildout. The reviewed set contained one personal health update, but no health-policy item was captured.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-scott-schwab-0124] School Choice / Parental Rights in Education: Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-scott-schwab-0125] *This dossier was compiled from publicly available sources including news articles, government records, campaign materials, social media posts, biographical databases, obituary records, and academic surveys. All facts have been cross-referenced across multiple sources where possible. Confidence level: HIGH for biographical facts, education, family, and political record. MEDIUM for some financial details and organizational roles where primary sources were limited.*
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-scott-schwab-0126] Curriculum standards -- what Kansas kids learn in math, science, reading, writing, and social studies (yes, including what gets taught about evolution, history, and sex education)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 4. Religious liberty / church / civic morality
+
+Religious liberty / church / civic morality: 14 selected evidence items from 299 mapped rows. Public URL-backed rows: 22.
+
+### Evidence
+- **candidate-stated** [em-scott-schwab-03649] Religious Liberty: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources.
+  - Source: memory/candidates/scott-schwab/site-profile.md:21
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00599] Introduced resolution to authorize use of the Capitol Rotunda for prayer events
+  - Source: memory/candidates/scott-schwab/raw-dump.md:685
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-04494] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-00583] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/scott-schwab/raw-dump.md:653
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-03260] Vicki (maiden name Greene per WikiTree records) was born and raised in Wichita. She and Mike both attended Wichita South High School. Their families lived two blocks from each other and "shared similar upbringings focused on hard work, honesty, and faith." They went to the University of Kansas together and married in 1974. They have resided in Topeka for over 40 years, where they raised their two sons.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:5090
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-scott-schwab-00336] "As a Christian, my faith has guided me" - Scott Schwab campaign site, 2026-04-01, https://scottschwab.com/ - topic: faith and worldview.
+  - Source: https://scottschwab.com/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-scott-schwab-00382] [Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)
+  - Source: https://www.hfehays.org/o/hfe/article/923439
+  - Confidence/use: likely / use
+- **faith-community-record** [em-scott-schwab-00383] [Immaculate Heart of Mary Parish](https://www.ihm-church.com/)
+  - Source: https://www.ihm-church.com/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-scott-schwab-00507] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-00593] | Notable Roles | Co-Chair, National Prayer Breakfast (2023 & 2024) |
+  - Source: memory/candidates/scott-schwab/raw-dump.md:677
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00595] Co-chaired the 2023 AND 2024 National Prayer Breakfast in Washington, DC
+  - Source: memory/candidates/scott-schwab/raw-dump.md:681
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00597] Read scripture publicly at the National Prayer Breakfast
+  - Source: memory/candidates/scott-schwab/raw-dump.md:683
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-04388] "religion": "Non-denominational",
+  - Source: ui/src/data/candidates.ts:11559
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-04397] "issue": "Religious Liberty",
+  - Source: ui/src/data/candidates.ts:11573
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-scott-schwab-0003] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-scott-schwab-0127] No faith or church references found in her candidate profiles, HaysPost Q&As, or social media
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-scott-schwab-0128] Faith: Identifies as a "Child of God" on social media. No specific church or denomination identified, but faith language is prominent in her public profile.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-scott-schwab-0129] X/Twitter (@ScottSchwabKS): Mix of official duties, campaign messaging, and personal reflections. Posts about election security, office achievements, policy positions. References faith directly. Example post included a quote about faith in the context of his work.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-scott-schwab-0130] Religious Liberty: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 5. Taxes / spending / debt
+
+Taxes / spending / debt: 37 selected evidence items from 138 mapped rows. Public URL-backed rows: 10.
+
+### Evidence
+- **candidate-stated** [em-scott-schwab-00071] Jobs/taxes statement: as governor he would cut taxes and costs, cut regulations, and bring jobs to rural Kansas.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:99
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-00121] Schwab said a hard cap on property taxes in the Kansas Constitution would not work; quote: "You can't put a static cap on a dynamic market."
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:193
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-00122] Schwab said he favored all property tax increases going to voters.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:194
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-03781] Hays Post interview, 2026-03-22: Schwab said property taxes were "crushing people"; said he did not think a hard constitutional cap would work; favored all property tax increases going to voters; and described the appraisal process as the problem.
+  - Source: memory/candidates/scott-schwab/sleuth-pass.md:84
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-03978] "Schwab said property taxes are crushing people"
+  - Source: memory/candidates/scott-schwab/v2-issues.yaml:158
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-03980] "Schwab said a hard constitutional cap on property taxes would not work"
+  - Source: memory/candidates/scott-schwab/v2-issues.yaml:160
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-04061] summary: "Hays Post reported Schwab said property taxes were crushing people, identified appraisal process as the problem, said a static cap would not work, and favored all property-tax increases going to voters."
+  - Source: memory/candidates/scott-schwab/v2-issues.yaml:308
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-04629] "body": "Hays Post reported Schwab said property taxes were crushing people, identified appraisal process as the problem, said a static cap would not work, and favored all property-tax increases going to voters.",
+  - Source: ui/src/data/v2/scott-schwab.ts:120
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00004] His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, "As Governor, Scott will continue to fight against federal interference in our state." ([source](https://scottschwab.com/)) KCUR’s January 2025 campaign-launch report quoted Schwab saying, "I believe that to do something great, we have to throw off the chains that hold you back," ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab)) and "In Kansas, those chains come from big government." ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab))
+  - Source: https://scottschwab.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-02619] [Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)
+  - Source: https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-02620] [PBS Wisconsin: $100M+ spending on 2025 race](https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/)
+  - Source: https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-03155] [Kansas Reflector: Schwab certain voting secure, eager to cut property taxes](https://kansasreflector.com/2025/06/02/kansas-governor-candidate-scott-schwab-certain-voting-secure-eager-to-cut-property-taxes/)
+  - Source: https://kansasreflector.com/2025/06/02/kansas-governor-candidate-scott-schwab-certain-voting-secure-eager-to-cut-property-taxes/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-03156] [Kansas Reflector: Property tax reform campaign](https://kansasreflector.com/briefs/scott-schwab-aims-gop-gubernatorial-campaign-at-property-tax-reform/)
+  - Source: https://kansasreflector.com/briefs/scott-schwab-aims-gop-gubernatorial-campaign-at-property-tax-reform/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-00009] Several issue areas were not visible in the accessible material reviewed. The public set did not include captured items centered on Medicaid expansion, rural hospital closures, child care, K-12 school finance, higher education affordability, foster care, housing costs, water policy, Ogallala aquifer policy, veterans services, road and bridge funding, or broadband buildout. The available record is therefore most complete on elections, state administration, taxes, rural/economic positioning, and basic campaign identity, and less complete on those absent policy areas.
+  - Source: memory/candidates/scott-schwab/in-their-own-words.md:17
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00034] "A candidate is not considered filed until the petition or declaration and fee are received"
+  - Source: memory/candidates/scott-schwab/v2-issues.yaml:25
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00181] Final official ballot placement as of 2026-05-19. The SOS page says the filing deadline is June 1, 2026 and that candidates are not considered filed until declaration/petition and fee are received. The official candidate list endpoint was blocked by a JS/bot gate.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:288
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-04494] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-04531] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-01109] Analysis: The $1M self-loan means 88% of her war chest is her own money. This is not grassroots fundraising -- it is a wealthy candidate buying a seat at the table. Only ~$140K came from actual donors. The low spending ($116K) suggests she is stockpiling for later ad buys.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:1587
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-02537] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:3924
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-02576] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4009
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-02881] Taxes: Served on Taxation Committee as vice-chair; consistent advocate for lower taxes
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4474
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-scott-schwab-03858] The campaign website frames the candidacy around state governance, tax costs, business regulation, rural Kansas, election administration, and federal election authority. Its visible social links route to Facebook, X, and Instagram. The site says, "As Governor, Scott will continue to fight against federal interference in our state." ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-03864] Campaign site homepage and priorities page, captured 2026-05-11. Key visible issue areas: governor campaign, tax costs, business regulation, rural Kansas, election administration, public safety, and federal election authority. ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-03870] Jan. 8, 2025 campaign launch coverage with Schwab quotes on Kansas, property taxes, rural communities, election administration, and federal/state authority. ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab))
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-03879] | Governor campaign frame, tax costs, business regulation, and rural Kansas | 3 | 27% |
+  - Source: memory/candidates/scott-schwab/social-harvest.md:61
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-scott-schwab-03645] In the governor's race, Schwab has centered property taxes, state control over elections, and opposition to federal interference. He also entered 2026 while dealing publicly with a lung-cancer diagnosis, which added another personal challenge to a campaign already shaped by grief, faith, and years in the spotlight.
+  - Source: memory/candidates/scott-schwab/site-profile.md:13
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-scott-schwab-04391] "theirRecord": "As secretary of state, Schwab has been responsible for Kansas elections, business filings, and state records. He supported voter ID and other election-integrity measures earlier in his legislative career, but he also broke with election conspiracy politics after 2020 and publicly said he had seen no evidence that the presidential election in Kansas was stolen. That made him stand out inside his own party. His record is not without controversy. Kansas courts ruled that his office violated the state's open-records law by altering a computer system in a way that made some records harder to obtain. He has also been under pressure from both sides of the election debate, drawing criticism from hard-line skeptics who wanted more fraud claims and from transparency advocates who wanted more openness. In the governor's race, Schwab has centered property taxes, state control over e…
+  - Source: ui/src/data/candidates.ts:11562
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-scott-schwab-02752] Criticized the 2025 Legislature and Governor Laura Kelly for delivering only "$25.88 property tax break for the owner of a $150,000 home"
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4286
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-scott-schwab-03654] Property Taxes: This is the centerpiece of his campaign. He has criticized both the Legislature and Governor Kelly for delivering only a "$25.88 property tax break for the owner of a $150,000 home" and wants to overhaul the county appraisal process.
+  - Source: memory/candidates/scott-schwab/site-profile.md:31
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-scott-schwab-04405] "stance": "This is the centerpiece of his campaign. He has criticized both the Legislature and Governor Kelly for delivering only a \"$25.88 property tax break for the owner of a $150,000 home\" and wants to overhaul the county appraisal process."
+  - Source: ui/src/data/candidates.ts:11594
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00119] Schwab quote: "Property taxes are crushing people."
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:191
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00123] Schwab quote on local tax questions: "If they want it, they'll vote for it. If they don't, then it's OK to hold those local units of government accountable."
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:195
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00145] Property taxes: transcript attributes to Schwab a closing line about fixing the appraisal process and avoiding another real estate bubble.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:229
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00196] Taxes / Appraisals / Local Government Accountability
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:318
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00199] Hays Post: property taxes are "crushing people"; appraisal process is the problem; hard constitutional cap would not work; all property tax increases should go to voters.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:323
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00201] Schwab's property-tax frame is not simply "cap everything." He rejected a hard static constitutional cap in the Hays Post interview and instead emphasized appraisal process and voter approval for increases.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:327
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-scott-schwab-0003] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-scott-schwab-0004] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Facebook post** [soc-scott-schwab-0006] The campaign website frames the candidacy around state governance, tax costs, business regulation, rural Kansas, election administration, and federal election authority. Its visible social links route to Facebook, X, and Instagram. The site says, "As Governor, Scott will continue to fight against federal interference in our state." ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong scottschwab.com post** [soc-scott-schwab-0007] Campaign site homepage and priorities page, captured 2026-05-11. Key visible issue areas: governor campaign, tax costs, business regulation, rural Kansas, election administration, public safety, and federal election authority. ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong kcur.org post** [soc-scott-schwab-0008] Jan. 8, 2025 campaign launch coverage with Schwab quotes on Kansas, property taxes, rural communities, election administration, and federal/state authority. ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab))
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-scott-schwab-0009] | Governor campaign frame, tax costs, business regulation, and rural Kansas | 3 | 27% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-scott-schwab-0131] > "Politicians are making dangerous cuts to our programs, Medicaid and Social Security. That's hurting us, and with the expiration of ACA tax credits, that's a huge threat."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-scott-schwab-0132] "observation": "The campaign website frames the candidacy around state governance, tax costs, business regulation, rural Kansas, election administration, and federal election authority. Its visible social links route to Facebook, X, and Instagram. The site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source)",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-scott-schwab-0133] "observation": "1. Campaign site homepage and priorities page, captured 2026-05-11. Key visible issue areas: governor campaign, tax costs, business regulation, rural Kansas, election administration, public safety, and federal election authority. (source) 2. Campaign Facebook page metadata, captured 2026-05-11. Page-level public signal: 1,759 likes and 63 talking about this. (source) 3. Campaign Instagram metadata, captured...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-scott-schwab-0134] "observation": "Personal/campaign X profile metadata, captured 2026-05-11. (source) 5. Office X profile metadata, captured 2026-05-11. (source) 6. Kansas Secretary of State YouTube channel metadata, captured 2026-05-11. (source) 7. Jan. 8, 2025 campaign launch coverage with Schwab quotes on Kansas, property taxes, rural communities, election administration, and federal/state authority. (source) 8. Mar.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 6. Economy / jobs / labor
+
+Economy / jobs / labor: 27 selected evidence items from 108 mapped rows. Public URL-backed rows: 8.
+
+### Evidence
+- **candidate-stated** [em-scott-schwab-00071] Jobs/taxes statement: as governor he would cut taxes and costs, cut regulations, and bring jobs to rural Kansas.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:99
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00004] His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, "As Governor, Scott will continue to fight against federal interference in our state." ([source](https://scottschwab.com/)) KCUR’s January 2025 campaign-launch report quoted Schwab saying, "I believe that to do something great, we have to throw off the chains that hold you back," ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab)) and "In Kansas, those chains come from big government." ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab))
+  - Source: https://scottschwab.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-00007] The clearest official-record signal in 2026 is administrative language about voter rolls, business services, regulations, and office modernization. On Apr. 9, 2026, Schwab said, "This legislation reflects our commitment to maintaining accurate voter rolls while protecting the rights of every eligible Kansas voter for decades to come," ([source](https://www.sos.ks.gov/media/press-releases/2026/04-09-26-secretary-schwabs-voter-roll-maintenance-bill-becomes-law-after-veto-override.html)) and "I appreciate the Kansas Legislature overriding Governor Kelly’s veto." ([source](https://www.sos.ks.gov/media/press-releases/2026/04-09-26-secretary-schwabs-voter-roll-maintenance-bill-becomes-law-after-veto-override.html)) In the same January 2026 office release, he said, "Good government isn’t about how much government does," ([source](https://www.sos.ks.gov/media/press-releases/2026/01-07-26-secret…
+  - Source: https://www.sos.ks.gov/media/press-releases/2026/04-09-26-secretary-schwabs-voter-roll-maintenance-bill-becomes-law-after-veto-override.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00082] Office priorities include support and guidance to county election officials, business filing system improvement, IT security, and election integrity.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:117
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00088] Announced a legislative agenda to improve election administration, strengthen business services, and reduce costs.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:129
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00090] Agenda items: voter roll maintenance, secure data checks, voter-registration data protections, signature verification clarification, election-law cleanup, regulatory modernization, expanded online filings, reduced fees, and combating business fraud.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:131
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00204] Campaign site priority label: JEANS, "Jobs, Education, Agriculture, Networking and Sustainability."
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:339
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00286] His campaign site presents him as a conservative reformer rooted in elections, business, and anti-federal-interference messaging.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:9
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00316] Official biography and campaign site agree on his Great Bend upbringing, FHSU education, and small-business background.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:46
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-04494] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-04531] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-00080] Served as Chair of House Elections Committee, Chair of House Financial Institutions Committee, Vice Chair of Taxation, Vice Chair of Commerce and Labor, and Speaker Pro Tempore.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:115
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-02576] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4009
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-02863] | Vice Chairman, Commerce and Labor Committee | During House tenure |
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4444
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-scott-schwab-03858] The campaign website frames the candidacy around state governance, tax costs, business regulation, rural Kansas, election administration, and federal election authority. Its visible social links route to Facebook, X, and Instagram. The site says, "As Governor, Scott will continue to fight against federal interference in our state." ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-03864] Campaign site homepage and priorities page, captured 2026-05-11. Key visible issue areas: governor campaign, tax costs, business regulation, rural Kansas, election administration, public safety, and federal election authority. ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-03879] | Governor campaign frame, tax costs, business regulation, and rural Kansas | 3 | 27% |
+  - Source: memory/candidates/scott-schwab/social-harvest.md:61
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-scott-schwab-00598] Introduced the FAITH in Small Business Act (ensures faith-based businesses can participate in SBA loans)
+  - Source: memory/candidates/scott-schwab/raw-dump.md:684
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-scott-schwab-01078] Faith: Theological Studies is part of her academic background. Cornerstone Data company description notes her work is done "in light of the people and organizations that produced it" -- suggesting faith-integrated business philosophy. The company name "Cornerstone" itself has Christian connotations. No specific church identified.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:1533
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-scott-schwab-03641] Schwab is an established Kansas Republican, but not a fringe figure. His public image is that of an institutional conservative with a business background, a long legislative resume, and direct election-management experience. His personal story also carries a nationally known tragedy: the 2016 death of his son Caleb on the Verruckt waterslide, an event that has shaped the public way Schwab talks about faith, family, and leadership.
+  - Source: memory/candidates/scott-schwab/site-profile.md:6
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-scott-schwab-04390] "whoTheyAre": "Scott Schwab is the Kansas secretary of state and a Republican candidate for governor in 2026. He grew up in Great Bend, graduated from Fort Hays State University in 1994, worked in Farm Bureau insurance and medical-equipment sales, and spent years in the Kansas House before moving into statewide office. He represented House District 49 over seven terms, served as speaker pro tempore, and won the secretary of state's office in 2018 and 2022. Schwab is an established Kansas Republican, but not a fringe figure. His public image is that of an institutional conservative with a business background, a long legislative resume, and direct election-management experience. His personal story also carries a nationally known tragedy: the 2016 death of his son Caleb on the Verruckt waterslide, an event that has shaped the public way Schwab talks about faith, family, and leadership.",
+  - Source: ui/src/data/candidates.ts:11561
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-02089] [Jobs for America's Graduates - Bio](https://jag.org/dipl-team-member/jeff-colyer/)
+  - Source: https://jag.org/dipl-team-member/jeff-colyer/
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-02374] [KU School of Business Faculty Page](https://business.ku.edu/people/colin-mcroberts)
+  - Source: https://business.ku.edu/people/colin-mcroberts
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-00067] Biography: grew up in Great Bend, graduated from Fort Hays State University, small business owner, elected to Kansas House in 2002, elected Kansas Secretary of State in 2018 and 2022.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:95
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00118] Reports Schwab was in Hays promoting the Jobs, Education, Agriculture, Networking and Sustainability plan.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:190
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00205] Hays Post: community-college training for local jobs; small manufacturers in rural communities; Kansas as agricultural epicenter; U.S. Highway 83 four-laning; water regulation plus voluntary conservation; all forms of energy; rural communities need to keep schools and hospitals; agriculture is a seventh of Kansas's economy.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:340
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00290] Schwab grew up in Great Bend, graduated from Fort Hays State University, and was a small business owner before entering public service.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:14
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-scott-schwab-0003] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-scott-schwab-0004] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Facebook post** [soc-scott-schwab-0006] The campaign website frames the candidacy around state governance, tax costs, business regulation, rural Kansas, election administration, and federal election authority. Its visible social links route to Facebook, X, and Instagram. The site says, "As Governor, Scott will continue to fight against federal interference in our state." ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong scottschwab.com post** [soc-scott-schwab-0007] Campaign site homepage and priorities page, captured 2026-05-11. Key visible issue areas: governor campaign, tax costs, business regulation, rural Kansas, election administration, public safety, and federal election authority. ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-scott-schwab-0009] | Governor campaign frame, tax costs, business regulation, and rural Kansas | 3 | 27% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-scott-schwab-0132] "observation": "The campaign website frames the candidacy around state governance, tax costs, business regulation, rural Kansas, election administration, and federal election authority. Its visible social links route to Facebook, X, and Instagram. The site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source)",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-scott-schwab-0133] "observation": "1. Campaign site homepage and priorities page, captured 2026-05-11. Key visible issue areas: governor campaign, tax costs, business regulation, rural Kansas, election administration, public safety, and federal election authority. (source) 2. Campaign Facebook page metadata, captured 2026-05-11. Page-level public signal: 1,759 likes and 63 talking about this. (source) 3. Campaign Instagram metadata, captured...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-scott-schwab-0135] Attorney-Adviser, Social Security Administration -- Federal employment, worked on disability cases and administrative law
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 7. Guns / Second Amendment
+
+Guns / Second Amendment: 17 selected evidence items from 24 mapped rows. Public URL-backed rows: 2.
+
+### Evidence
+- **documented-record** [em-scott-schwab-00072] Security statement: would ban communist China from buying land near military bases, fund public safety, work with the Trump administration on immigration-law enforcement, and protect Second Amendment rights.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:100
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00225] Campaign site: work with the Trump administration on immigration-law enforcement; fully fund public safety; protect Second Amendment rights.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:399
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-02770] Second Amendment
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4311
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-02771] "We will protect our Second Amendment rights"
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4312
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-03211] Pro-Second Amendment
+  - Source: memory/candidates/scott-schwab/raw-dump.md:5013
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-03650] Guns / Second Amendment: Has said "We will protect our Second Amendment rights" on his campaign website.
+  - Source: memory/candidates/scott-schwab/site-profile.md:23
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-03806] Guns / Second Amendment
+  - Source: memory/candidates/scott-schwab/sleuth-pass.md:127
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-03807] Campaign site says, "We will protect our Second Amendment rights."
+  - Source: memory/candidates/scott-schwab/sleuth-pass.md:129
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-04494] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-04531] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-02880] Guns: Pro-Second Amendment, specific NRA rating not publicly available in search results
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4473
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-03010] Specific formal endorsements (NRA rating, Kansas Right to Life, Kansas Farm Bureau, etc.) were not comprehensively documented in publicly available reporting at time of investigation. The Kansas Ethics Commission filings may contain PAC contribution details that indicate organizational support.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4689
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-03479] | NRA | Unknown | No endorsement data found |
+  - Source: memory/candidates/scott-schwab/raw-dump.md:5487
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00224] Immigration / Public Safety / Guns
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:395
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-01960] Gun Rights
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2877
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-03005] | Guns | Pro-2A, protect rights | Standard GOP |
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4682
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-04099] "title": "Immigration / Public Safety / Guns",
+  - Source: ui/src/data/v2/scott-schwab.ts:386
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-scott-schwab-0003] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-scott-schwab-0004] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 8. Immigration / border
+
+Immigration / border: 19 selected evidence items from 40 mapped rows. Public URL-backed rows: 3.
+
+### Evidence
+- **candidate-stated** [em-scott-schwab-03651] Immigration / Border: Supports working with the Trump administration to enforce immigration laws and fund public safety.
+  - Source: memory/candidates/scott-schwab/site-profile.md:25
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-04401] "stance": "Supports working with the Trump administration to enforce immigration laws and fund public safety."
+  - Source: ui/src/data/candidates.ts:11582
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-02628] [CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)
+  - Source: https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-00072] Security statement: would ban communist China from buying land near military bases, fund public safety, work with the Trump administration on immigration-law enforcement, and protect Second Amendment rights.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:100
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00143] Immigration/public safety: transcript attributes to Schwab a federal-cooperation frame, saying governors should work with the president regardless of party and referencing CISA, FBI, and Homeland Security election-security work.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:227
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00225] Campaign site: work with the Trump administration on immigration-law enforcement; fully fund public safety; protect Second Amendment rights.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:399
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-02487] Their argument is straightforward: Voting should be exclusively for citizens, and the Constitution should say so clearly and forcefully. They point out that similar amendments passed in all 8 states where they appeared on the 2024 ballot, often with 65-80% of the vote. It is a matter of principle, even if non-citizen voting is not currently a problem.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:3816
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-02496] FACT 1: Non-citizen voting is already illegal. This amendment does not make anything new illegal.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:3838
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-02998] Campaign language: "We will work with the Trump administration on enforcing our immigration laws"
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4672
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-03803] Campaign site says Schwab would work with the Trump administration on enforcing immigration laws and fully fund public safety.
+  - Source: memory/candidates/scott-schwab/sleuth-pass.md:122
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-04494] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-04531] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-01980] Endorsed Trump stating he would "protect Medicare, lower health care and drug prices, speed development of medical treatments and address the overdose epidemic." Also argued Trump would "close the southern U.S. border with Mexico to drug traffickers" and that America deserved "a president dedicated to securing our borders, stopping the drug traffickers and saving American lives."
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2926
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00224] Immigration / Public Safety / Guns
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:395
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00696] Extensive international humanitarian medical work with International Medical Corps -- 20+ countries since 1985 (Afghanistan, Iraq, Kosovo, South Sudan, Cameroon, Syria border, Ukraine)
+  - Source: memory/candidates/scott-schwab/raw-dump.md:874
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-01015] "Let's end the border war -- keep the Chiefs and Royals in Missouri. Kansas simply can't afford to subsidize them."
+  - Source: memory/candidates/scott-schwab/raw-dump.md:1413
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-01615] | ~2012+ | Syrian border | Syrian Civil War | Provided medical care to refugees/casualties |
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2363
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-01786] Immigration:
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2607
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-01788] Deport illegal immigrants
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2609
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-scott-schwab-0003] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-scott-schwab-0004] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 9. Health care / insurance / Medicaid
+
+Health care / insurance / Medicaid: 35 selected evidence items from 189 mapped rows. Public URL-backed rows: 20.
+
+### Evidence
+- **candidate-stated** [em-scott-schwab-03605] [Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023)](https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/)
+  - Source: https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-scott-schwab-04486] "url": "https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/"
+  - Source: https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-scott-schwab-00910] Cannabis: Supports legalization of medical marijuana
+  - Source: memory/candidates/scott-schwab/raw-dump.md:1211
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-01950] Opposes bureaucratic control of healthcare decisions
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2861
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-02050] Health questions. While he says he's recovered from prostate cancer, opponents or voters may quietly wonder about long-term health.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:3052
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-04273] | Abortion / Reproductive Rights | Supports women's right to make private medical decisions. Will NOT use AG office resources to attack constitutional rights. Respects 2022 Value Them Both referendum result (rejected by 18 points). "I would not waste the resources of the office to attack women's constitutional rights." |
+  - Source: reports/chris-mann-complete-dossier.md:239
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-04277] | Marijuana | Personally believes in well-regulated medical marijuana. Acknowledges this is a legislative issue. As AG, would enforce current laws. If laws change, would ensure protection of children, addiction resources, and roadway safety. |
+  - Source: reports/chris-mann-complete-dossier.md:243
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00854] > -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-01203] [Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-03264] | Prior Campaign Site | [vickischmidt.org](https://vickischmidt.org/) | Insurance Commissioner campaign site |
+  - Source: https://vickischmidt.org/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-03601] [KWCH: Kansas insurance commissioner backs bill (Feb 2, 2026)](https://www.kwch.com/2026/02/02/kansas-insurance-commissioner-backs-bill-eliminate-breast-cancer-screening-costs/)
+  - Source: https://www.kwch.com/2026/02/02/kansas-insurance-commissioner-backs-bill-eliminate-breast-cancer-screening-costs/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-03630] [2022 Kansas Insurance Commissioner Election - Wikipedia](https://en.wikipedia.org/wiki/2022_Kansas_Insurance_Commissioner_election)
+  - Source: https://en.wikipedia.org/wiki/2022_Kansas_Insurance_Commissioner_election
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-00009] Several issue areas were not visible in the accessible material reviewed. The public set did not include captured items centered on Medicaid expansion, rural hospital closures, child care, K-12 school finance, higher education affordability, foster care, housing costs, water policy, Ogallala aquifer policy, veterans services, road and bridge funding, or broadband buildout. The available record is therefore most complete on elections, state administration, taxes, rural/economic positioning, and basic campaign identity, and less complete on those absent policy areas.
+  - Source: memory/candidates/scott-schwab/in-their-own-words.md:17
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00142] Marijuana: transcript attributes to Schwab support for research and FDA-approved dispensing but opposition to medical/recreational legalization in current form, citing strength variability and lack of rapid THC testing.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:226
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00222] Free State News transcript: Schwab supports research and FDA-approved dispensing, but not medical/recreational legalization as currently proposed; he cited variable product strength and lack of rapid THC testing.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:387
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-04494] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-04531] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-01669] Financial Institutions and Insurance Committee member
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2443
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-01980] Endorsed Trump stating he would "protect Medicare, lower health care and drug prices, speed development of medical treatments and address the overdose epidemic." Also argued Trump would "close the southern U.S. border with Mexico to drug traffickers" and that America deserved "a president dedicated to securing our borders, stopping the drug traffickers and saving American lives."
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2926
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-02537] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:3924
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-03300] | Committee Chair | Public Health and Welfare (6 years) |
+  - Source: memory/candidates/scott-schwab/raw-dump.md:5166
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-scott-schwab-03871] Mar. 21, 2025 public social-media health update quoted by KCTV/WIBW. Schwab wrote, "My doctors have confirmed it was found very early, and no further treatment will be required post-surgery. I will make a full recovery." ([source](https://www.kctv5.com/2025/03/21/ks-secretary-state-announces-cancer-diagnosis/))
+  - Source: https://www.kctv5.com/2025/03/21/ks-secretary-state-announces-cancer-diagnosis/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-03881] | Personal health update | 1 | 9% |
+  - Source: memory/candidates/scott-schwab/social-harvest.md:63
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-03893] Across the accessible public set reviewed, no reviewed item centered Medicaid expansion, rural hospital closures, child care, K-12 school finance, higher education affordability, foster care, housing costs, water policy, Ogallala aquifer policy, veterans services, road and bridge funding, or broadband buildout. The reviewed set contained one personal health update, but no health-policy item was captured.
+  - Source: memory/candidates/scott-schwab/social-harvest.md:83
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-scott-schwab-00556] No faith or church references in any professional profiles, medical directories, or candidate information
+  - Source: memory/candidates/scott-schwab/raw-dump.md:564
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-scott-schwab-00666] Kansas Insurance Commissioner since 2018, former state senator (14 years)
+  - Source: reports/faith-church-investigation-2026-03-31.md:714
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-scott-schwab-00700] International Medical Corps is a SECULAR humanitarian organization (not faith-based like Samaritan's Purse or Catholic Relief Services)
+  - Source: memory/candidates/scott-schwab/raw-dump.md:878
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-scott-schwab-04390] "whoTheyAre": "Scott Schwab is the Kansas secretary of state and a Republican candidate for governor in 2026. He grew up in Great Bend, graduated from Fort Hays State University in 1994, worked in Farm Bureau insurance and medical-equipment sales, and spent years in the Kansas House before moving into statewide office. He represented House District 49 over seven terms, served as speaker pro tempore, and won the secretary of state's office in 2018 and 2022. Schwab is an established Kansas Republican, but not a fringe figure. His public image is that of an institutional conservative with a business background, a long legislative resume, and direct election-management experience. His personal story also carries a nationally known tragedy: the 2016 death of his son Caleb on the Verruckt waterslide, an event that has shaped the public way Schwab talks about faith, family, and leadership.",
+  - Source: ui/src/data/candidates.ts:11561
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-scott-schwab-02238] Criticized broken promises on healthcare
+  - Source: memory/candidates/scott-schwab/raw-dump.md:3344
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00008] The reviewed set contains one personal health update rather than a health-policy item. KCTV/WIBW reported Schwab’s March 21, 2025 social-media post on surgery for cancer, quoting him: "My doctors have confirmed it was found very early, and no further treatment will be required post-surgery. I will make a full recovery." ([source](https://www.kctv5.com/2025/03/21/ks-secretary-state-announces-cancer-diagnosis/))
+  - Source: https://www.kctv5.com/2025/03/21/ks-secretary-state-announces-cancer-diagnosis/
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-00704] [KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-02076] [KSHB - Ukraine medical mission](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-02102] [IMC - Lt. Governor to Climb Mt. Kilimanjaro](https://internationalmedicalcorps.org/press-release/lt-governor-to-climb-mt-kilimanjaro-in-support-of-international-medical-corps-humanitarian-relief-efforts/)
+  - Source: https://internationalmedicalcorps.org/press-release/lt-governor-to-climb-mt-kilimanjaro-in-support-of-international-medical-corps-humanitarian-relief-efforts/
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-02654] [Ballotpedia: Kansas Insurance Commissioner 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-03591] [Kansas Department of Insurance - About Us](https://insurance.kansas.gov/about-us/)
+  - Source: https://insurance.kansas.gov/about-us/
+  - Confidence/use: confirmed / use
+
+### Social / Online Signals
+- **ambiguous kctv5.com online-reference** [soc-scott-schwab-0002] The reviewed set contains one personal health update rather than a health-policy item. KCTV/WIBW reported Schwab’s March 21, 2025 social-media post on surgery for cancer, quoting him: "My doctors have confirmed it was found very early, and no further treatment will be required post-surgery. I will make a full recovery." ([source](https://www.kctv5.com/2025/03/21/ks-secretary-state-announces-cancer-diagnosis/))
+  - Source: https://www.kctv5.com/2025/03/21/ks-secretary-state-announces-cancer-diagnosis/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-scott-schwab-0003] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-scott-schwab-0004] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-scott-schwab-0005] Across the accessible public set reviewed, no reviewed item centered Medicaid expansion, rural hospital closures, child care, K-12 school finance, higher education affordability, foster care, housing costs, water policy, Ogallala aquifer policy, veterans services, road and bridge funding, or broadband buildout. The reviewed set contained one personal health update, but no health-policy item was captured.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong kctv5.com post** [soc-scott-schwab-0010] Mar. 21, 2025 public social-media health update quoted by KCTV/WIBW. Schwab wrote, "My doctors have confirmed it was found very early, and no further treatment will be required post-surgery. I will make a full recovery." ([source](https://www.kctv5.com/2025/03/21/ks-secretary-state-announces-cancer-diagnosis/))
+  - Source: https://www.kctv5.com/2025/03/21/ks-secretary-state-announces-cancer-diagnosis/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-scott-schwab-0011] | Personal health update | 1 | 9% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-scott-schwab-0131] > "Politicians are making dangerous cuts to our programs, Medicaid and Social Security. That's hurting us, and with the expiration of ACA tax credits, that's a huge threat."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-scott-schwab-0136] Protect Social Security and Medicare
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-scott-schwab-0137] Platform: Cross-partisan, centrist. Focuses on voter choice, strong schools, affordable housing, accessible healthcare, accountable leadership
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 10. Election integrity / voting / courts
+
+Election integrity / voting / courts: 33 selected evidence items from 943 mapped rows. Public URL-backed rows: 161.
+
+### Evidence
+- **candidate-stated** [em-scott-schwab-00121] Schwab said a hard cap on property taxes in the Kansas Constitution would not work; quote: "You can't put a static cap on a dynamic market."
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:193
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-02472] Right now, the Kansas Constitution says: "Every citizen of the United States who has attained the age of eighteen years and who resides in the voting area in which he or she seeks to vote shall be deemed a qualified elector."
+  - Source: memory/candidates/scott-schwab/raw-dump.md:3780
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00003] Across the public set reviewed, Schwab’s visible record centers first on election administration and voter-roll maintenance. That category accounts for 5 of the 11 accessible items in the harvest, including the campaign site, office social profiles, and Secretary of State releases. In a Jan. 7, 2026 office release, Schwab said, "We use a mix of laws, regulations, and internal reforms to deliver better service, protect election integrity, modernize the agency, and run government more efficiently." ([source](https://www.sos.ks.gov/media/press-releases/2026/01-07-26-secretary-schwab-outlines-legislative-agenda-centered-on-efficiency-integrity-and-better-service.html))
+  - Source: https://www.sos.ks.gov/media/press-releases/2026/01-07-26-secretary-schwab-outlines-legislative-agenda-centered-on-efficiency-integrity-and-better-service.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00004] His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, "As Governor, Scott will continue to fight against federal interference in our state." ([source](https://scottschwab.com/)) KCUR’s January 2025 campaign-launch report quoted Schwab saying, "I believe that to do something great, we have to throw off the chains that hold you back," ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab)) and "In Kansas, those chains come from big government." ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab))
+  - Source: https://scottschwab.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-00007] The clearest official-record signal in 2026 is administrative language about voter rolls, business services, regulations, and office modernization. On Apr. 9, 2026, Schwab said, "This legislation reflects our commitment to maintaining accurate voter rolls while protecting the rights of every eligible Kansas voter for decades to come," ([source](https://www.sos.ks.gov/media/press-releases/2026/04-09-26-secretary-schwabs-voter-roll-maintenance-bill-becomes-law-after-veto-override.html)) and "I appreciate the Kansas Legislature overriding Governor Kelly’s veto." ([source](https://www.sos.ks.gov/media/press-releases/2026/04-09-26-secretary-schwabs-voter-roll-maintenance-bill-becomes-law-after-veto-override.html)) In the same January 2026 office release, he said, "Good government isn’t about how much government does," ([source](https://www.sos.ks.gov/media/press-releases/2026/01-07-26-secret…
+  - Source: https://www.sos.ks.gov/media/press-releases/2026/04-09-26-secretary-schwabs-voter-roll-maintenance-bill-becomes-law-after-veto-override.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00043] "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf"
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00288] Official campaign bio: [scottschwab.com](https://scottschwab.com/)
+  - Source: https://scottschwab.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-00301] Kansas Ethics filing: [SW01SS_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00304] The filing index is here: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm).
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00306] "Scott Schwab Conservative Results" - campaign homepage, 2026-04-01, [scottschwab.com](https://scottschwab.com/) - topic: campaign identity.
+  - Source: https://scottschwab.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-scott-schwab-02193] Note: Specific fundraising totals not available from search results. Most recent FEC filing covers July 1 - December 31, 2025. Full financial data available at [fec.gov/data/candidate/H6KS01195](https://www.fec.gov/data/candidate/H6KS01195/) and [fec.gov/data/committee/C00919860](https://www.fec.gov/data/committee/C00919860/).
+  - Source: https://www.fec.gov/data/candidate/H6KS01195/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-scott-schwab-02397] [FEC Form 2 Filing (PDF)](https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf)
+  - Source: https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-scott-schwab-02412] [FEC - KS-01 2026 Election Page](https://www.fec.gov/data/elections/house/KS/01/2026/)
+  - Source: https://www.fec.gov/data/elections/house/KS/01/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-scott-schwab-02216] FEC Filing Status: Campaign active; specific FEC candidate ID not confirmed in search results. Committee details available at [fec.gov/data/elections/house/KS/01/2026](https://www.fec.gov/data/elections/house/KS/01/2026/).
+  - Source: https://www.fec.gov/data/elections/house/KS/01/2026/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-04494] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-04531] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-scott-schwab-03858] The campaign website frames the candidacy around state governance, tax costs, business regulation, rural Kansas, election administration, and federal election authority. Its visible social links route to Facebook, X, and Instagram. The site says, "As Governor, Scott will continue to fight against federal interference in our state." ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-03864] Campaign site homepage and priorities page, captured 2026-05-11. Key visible issue areas: governor campaign, tax costs, business regulation, rural Kansas, election administration, public safety, and federal election authority. ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-03870] Jan. 8, 2025 campaign launch coverage with Schwab quotes on Kansas, property taxes, rural communities, election administration, and federal/state authority. ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab))
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-03878] | Election administration, voter rolls, election security, and federal/state election authority | 5 | 45% |
+  - Source: memory/candidates/scott-schwab/social-harvest.md:60
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-scott-schwab-01270] [Kansas Catholic Conference: Election 2026](https://www.kansascatholic.org/current-news/election-2026)
+  - Source: https://www.kansascatholic.org/current-news/election-2026
+  - Confidence/use: likely / use
+- **faith-community-record** [em-scott-schwab-00504] Spoke at TMP about the importance of voting (invited as elected official to Catholic school)
+  - Source: memory/candidates/scott-schwab/raw-dump.md:439
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-scott-schwab-00684] Pushed the judicial selection amendment -- faith motivation was part of the framing
+  - Source: memory/candidates/scott-schwab/raw-dump.md:850
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-scott-schwab-02735] X/Twitter (@ScottSchwabKS): Mix of official duties, campaign messaging, and personal reflections. Posts about election security, office achievements, policy positions. References faith directly. Example post included a quote about faith in the context of his work.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4258
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-scott-schwab-00348] He has also been criticized by hard-line election skeptics for not echoing false fraud claims.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:95
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-scott-schwab-03216] Accused by ACLU and voting rights groups of voter suppression
+  - Source: memory/candidates/scott-schwab/raw-dump.md:5020
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-scott-schwab-03644] His record is not without controversy. Kansas courts ruled that his office violated the state's open-records law by altering a computer system in a way that made some records harder to obtain. He has also been under pressure from both sides of the election debate, drawing criticism from hard-line skeptics who wanted more fraud claims and from transparency advocates who wanted more openness.
+  - Source: memory/candidates/scott-schwab/site-profile.md:11
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-01414] [Vote No Kansas 2026](https://www.votenokansas.org/)
+  - Source: https://www.votenokansas.org/
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-02200] [Hays Post - "Kansas Democrats wrap up Democracy Fest in Hays"](https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9)
+  - Source: https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-02608] Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/
+  - Source: https://myvoteinfo.voteks.org/
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-02626] [NPR: Judge tosses Kansas proof-of-citizenship voter law](https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba)
+  - Source: https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-02630] [PBS: Kansas hopes to resurrect proof-of-citizenship law](https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law)
+  - Source: https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-03186] [NPR: Judge dismisses murder charges](https://www.npr.org/2019/02/25/697647804/judge-dismisses-murder-charges-over-boys-death-on-kansas-waterslide)
+  - Source: https://www.npr.org/2019/02/25/697647804/judge-dismisses-murder-charges-over-boys-death-on-kansas-waterslide
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous sos.ks.gov online-reference** [soc-scott-schwab-0001] Across the public set reviewed, Schwab’s visible record centers first on election administration and voter-roll maintenance. That category accounts for 5 of the 11 accessible items in the harvest, including the campaign site, office social profiles, and Secretary of State releases. In a Jan. 7, 2026 office release, Schwab said, "We use a mix of laws, regulations, and internal reforms to deliver better service, protect election integrity, modernize the agency, and run government more efficiently." ([source](https://www.sos.ks.gov/media/press-releases/2026/01-07-26-secretary-schwab-outlines-legislative-agenda-centered-on-efficiency-integrity-and-better-service.html))
+  - Source: https://www.sos.ks.gov/media/press-releases/2026/01-07-26-secretary-schwab-outlines-legislative-agenda-centered-on-efficiency-integrity-and-better-service.html
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-scott-schwab-0003] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-scott-schwab-0004] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Facebook post** [soc-scott-schwab-0006] The campaign website frames the candidacy around state governance, tax costs, business regulation, rural Kansas, election administration, and federal election authority. Its visible social links route to Facebook, X, and Instagram. The site says, "As Governor, Scott will continue to fight against federal interference in our state." ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong scottschwab.com post** [soc-scott-schwab-0007] Campaign site homepage and priorities page, captured 2026-05-11. Key visible issue areas: governor campaign, tax costs, business regulation, rural Kansas, election administration, public safety, and federal election authority. ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong kcur.org post** [soc-scott-schwab-0008] Jan. 8, 2025 campaign launch coverage with Schwab quotes on Kansas, property taxes, rural communities, election administration, and federal/state authority. ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab))
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-scott-schwab-0012] | Election administration, voter rolls, election security, and federal/state election authority | 5 | 45% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-scott-schwab-0125] *This dossier was compiled from publicly available sources including news articles, government records, campaign materials, social media posts, biographical databases, obituary records, and academic surveys. All facts have been cross-referenced across multiple sources where possible. Confidence level: HIGH for biographical facts, education, family, and political record. MEDIUM for some financial details and organizational roles where primary sources were limited.*
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous X / Twitter online-reference** [soc-scott-schwab-0129] X/Twitter (@ScottSchwabKS): Mix of official duties, campaign messaging, and personal reflections. Posts about election security, office achievements, policy positions. References faith directly. Example post included a quote about faith in the context of his work.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-scott-schwab-0132] "observation": "The campaign website frames the candidacy around state governance, tax costs, business regulation, rural Kansas, election administration, and federal election authority. Its visible social links route to Facebook, X, and Instagram. The site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source)",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 11. Public safety / law enforcement / criminal justice
+
+Public safety / law enforcement / criminal justice: 19 selected evidence items from 196 mapped rows. Public URL-backed rows: 34.
+
+### Evidence
+- **candidate-stated** [em-scott-schwab-03651] Immigration / Border: Supports working with the Trump administration to enforce immigration laws and fund public safety.
+  - Source: memory/candidates/scott-schwab/site-profile.md:25
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-04401] "stance": "Supports working with the Trump administration to enforce immigration laws and fund public safety."
+  - Source: ui/src/data/candidates.ts:11582
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00004] His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, "As Governor, Scott will continue to fight against federal interference in our state." ([source](https://scottschwab.com/)) KCUR’s January 2025 campaign-launch report quoted Schwab saying, "I believe that to do something great, we have to throw off the chains that hold you back," ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab)) and "In Kansas, those chains come from big government." ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab))
+  - Source: https://scottschwab.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-00043] "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf"
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00301] Kansas Ethics filing: [SW01SS_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00304] The filing index is here: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm).
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00326] https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00343] Kansas Ethics filing index: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00344] 2026 filing PDF: [SW01SS_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00530] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-scott-schwab-04531] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-scott-schwab-03864] Campaign site homepage and priorities page, captured 2026-05-11. Key visible issue areas: governor campaign, tax costs, business regulation, rural Kansas, election administration, public safety, and federal election authority. ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-scott-schwab-00416] Assessment: The "core values" language is suggestive but not conclusive. His background is law enforcement and military -- both communities where faith can be deeply held but not publicly displayed. No specific church identified. Recommend direct inquiry.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:244
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00224] Immigration / Public Safety / Guns
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:395
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00412] Retired Hays Police officer (19 years HPD + military police = 22 years total)
+  - Source: memory/candidates/scott-schwab/raw-dump.md:239
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00436] FHSU graduate, 24 years law enforcement
+  - Source: memory/candidates/scott-schwab/raw-dump.md:295
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-01457] Ellis County Sheriff primary (if on cycle -- VERIFY)
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2148
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-01470] Ellis County Sheriff (if on cycle -- VERIFY)
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2162
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-02548] This is a direct rematch. Mann is a Lawrence attorney and former police officer turned prosecutor. He focuses on "basics of law enforcement" -- DUI prevention, victims' rights, public safety. His pitch: the AG's office should protect Kansans, not chase national headlines.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:3947
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Facebook share/repost** [soc-scott-schwab-0004] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong scottschwab.com post** [soc-scott-schwab-0007] Campaign site homepage and priorities page, captured 2026-05-11. Key visible issue areas: governor campaign, tax costs, business regulation, rural Kansas, election administration, public safety, and federal election authority. ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **ambiguous Facebook online-reference** [soc-scott-schwab-0133] "observation": "1. Campaign site homepage and priorities page, captured 2026-05-11. Key visible issue areas: governor campaign, tax costs, business regulation, rural Kansas, election administration, public safety, and federal election authority. (source) 2. Campaign Facebook page metadata, captured 2026-05-11. Page-level public signal: 1,759 likes and 63 talking about this. (source) 3. Campaign Instagram metadata, captured...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-scott-schwab-0137] Platform: Cross-partisan, centrist. Focuses on voter choice, strong schools, affordable housing, accessible healthcare, accountable leadership
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-scott-schwab-0152] Social Media & Online Presence
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 12. Agriculture / rural economy / water
+
+Agriculture / rural economy / water: 36 selected evidence items from 116 mapped rows. Public URL-backed rows: 18.
+
+### Evidence
+- **candidate-stated** [em-scott-schwab-00071] Jobs/taxes statement: as governor he would cut taxes and costs, cut regulations, and bring jobs to rural Kansas.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:99
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-00125] Schwab said he supported a combination of water regulation and voluntary conservation.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:197
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-00207] Hays Post noted agriculture accounts for about 85% of groundwater consumption and said Schwab did not address ag water use in detail in that interview. This is a useful precision point for any water-policy card.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:344
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-04072] summary: "Schwab said he supported a combination of water regulation and voluntary conservation; Hays Post noted he did not address agricultural water use in detail in that interview."
+  - Source: memory/candidates/scott-schwab/v2-issues.yaml:339
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-04074] summary: "Schwab said he supported all forms of energy production, including wind and solar, and tied energy availability to affordability and rural opportunity."
+  - Source: memory/candidates/scott-schwab/v2-issues.yaml:345
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-04643] "body": "Schwab said he supported a combination of water regulation and voluntary conservation; Hays Post noted he did not address agricultural water use in detail in that interview.",
+  - Source: ui/src/data/v2/scott-schwab.ts:195
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-04644] "body": "Schwab said he supported all forms of energy production, including wind and solar, and tied energy availability to affordability and rural opportunity.",
+  - Source: ui/src/data/v2/scott-schwab.ts:203
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00004] His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, "As Governor, Scott will continue to fight against federal interference in our state." ([source](https://scottschwab.com/)) KCUR’s January 2025 campaign-launch report quoted Schwab saying, "I believe that to do something great, we have to throw off the chains that hold you back," ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab)) and "In Kansas, those chains come from big government." ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab))
+  - Source: https://scottschwab.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-00854] > -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-01203] [Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+  - Source: https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-00009] Several issue areas were not visible in the accessible material reviewed. The public set did not include captured items centered on Medicaid expansion, rural hospital closures, child care, K-12 school finance, higher education affordability, foster care, housing costs, water policy, Ogallala aquifer policy, veterans services, road and bridge funding, or broadband buildout. The available record is therefore most complete on elections, state administration, taxes, rural/economic positioning, and basic campaign identity, and less complete on those absent policy areas.
+  - Source: memory/candidates/scott-schwab/in-their-own-words.md:17
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00204] Campaign site priority label: JEANS, "Jobs, Education, Agriculture, Networking and Sustainability."
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:339
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00843] Notable Legislative Focus Areas: Education funding, lowering cost of living, workforce development, small business support, rural healthcare access. Specific bill-by-bill voting record available at kslegislature.gov but not extractable in bulk from search.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:1103
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-01427] The City of Hays manages its own water utility through the city commission
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2093
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-01430] Confidence: MEDIUM -- Library board confirmed as appointed. Hospital/water district status based on available information; recommend confirming with the Ellis County Clerk.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2098
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-04494] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-04531] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-scott-schwab-00583] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/scott-schwab/raw-dump.md:653
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-02537] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 million per couple so family farms can pass to the next generation without being sold to pay taxes. He was named a "Friend of Farm Bureau" by the American Farm Bureau Federation.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:3924
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-02576] In the Legislature, she serves on the Appropriations Committee (controls the state budget), Commerce, Labor and Economic Development, Financial Institutions and Rural Development, and chairs the Committee on General Government Budget and the Joint Committee on Administrative Rules and Regulations.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4009
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-03010] Specific formal endorsements (NRA rating, Kansas Right to Life, Kansas Farm Bureau, etc.) were not comprehensively documented in publicly available reporting at time of investigation. The Kansas Ethics Commission filings may contain PAC contribution details that indicate organizational support.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4689
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-scott-schwab-03858] The campaign website frames the candidacy around state governance, tax costs, business regulation, rural Kansas, election administration, and federal election authority. Its visible social links route to Facebook, X, and Instagram. The site says, "As Governor, Scott will continue to fight against federal interference in our state." ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-03864] Campaign site homepage and priorities page, captured 2026-05-11. Key visible issue areas: governor campaign, tax costs, business regulation, rural Kansas, election administration, public safety, and federal election authority. ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-03870] Jan. 8, 2025 campaign launch coverage with Schwab quotes on Kansas, property taxes, rural communities, election administration, and federal/state authority. ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab))
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-03879] | Governor campaign frame, tax costs, business regulation, and rural Kansas | 3 | 27% |
+  - Source: memory/candidates/scott-schwab/social-harvest.md:61
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-03893] Across the accessible public set reviewed, no reviewed item centered Medicaid expansion, rural hospital closures, child care, K-12 school finance, higher education affordability, foster care, housing costs, water policy, Ogallala aquifer policy, veterans services, road and bridge funding, or broadband buildout. The reviewed set contained one personal health update, but no health-policy item was captured.
+  - Source: memory/candidates/scott-schwab/social-harvest.md:83
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-scott-schwab-00661] [Christian Post: Caleb Schwab attended church with family hours before death](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)
+  - Source: https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html
+  - Confidence/use: likely / use
+- **faith-community-record** [em-scott-schwab-00664] [Heavy.com: Scott & Michele Schwab, Caleb's Parents](https://heavy.com/news/2016/08/scott-schwab-michele-caleb-rep-parents-father-dad-mother-mom-family-verruckt-water-slide-kansas-schlitterbahn-photos-death-accident/)
+  - Source: https://heavy.com/news/2016/08/scott-schwab-michele-caleb-rep-parents-father-dad-mother-mom-family-verruckt-water-slide-kansas-schlitterbahn-photos-death-accident/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-scott-schwab-02954] Caleb had attended church with his family hours before his death that Sunday morning. The family went from church to the waterpark for what was supposed to be a fun family outing. Source: [Christian Post article](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)
+  - Source: https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html
+  - Confidence/use: likely / use
+- **faith-community-record** [em-scott-schwab-03187] [Christian Post: Caleb attended church hours before death](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)
+  - Source: https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-01205] [Kansas Reflector: Rural voter appeal (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-01225] [Kansas Reflector: Rural voters (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)
+  - Source: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-01246] [Schooley Mitchell: Eberly Farm / Kids Closet story](https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/)
+  - Source: https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-03180] [ABC News: Family of boy killed on water slide speaks out](https://abcnews.go.com/US/family-boy-killed-waterslide-speaks-hurting/story?id=45445546)
+  - Source: https://abcnews.go.com/US/family-boy-killed-waterslide-speaks-hurting/story?id=45445546
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-03188] [TIME: What we know about the water slide death](https://time.com/4444447/caleb-schwab-verruckt-water-slide-death/)
+  - Source: https://time.com/4444447/caleb-schwab-verruckt-water-slide-death/
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-00118] Reports Schwab was in Hays promoting the Jobs, Education, Agriculture, Networking and Sustainability plan.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:190
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-scott-schwab-0003] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-scott-schwab-0004] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-scott-schwab-0005] Across the accessible public set reviewed, no reviewed item centered Medicaid expansion, rural hospital closures, child care, K-12 school finance, higher education affordability, foster care, housing costs, water policy, Ogallala aquifer policy, veterans services, road and bridge funding, or broadband buildout. The reviewed set contained one personal health update, but no health-policy item was captured.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Facebook post** [soc-scott-schwab-0006] The campaign website frames the candidacy around state governance, tax costs, business regulation, rural Kansas, election administration, and federal election authority. Its visible social links route to Facebook, X, and Instagram. The site says, "As Governor, Scott will continue to fight against federal interference in our state." ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong scottschwab.com post** [soc-scott-schwab-0007] Campaign site homepage and priorities page, captured 2026-05-11. Key visible issue areas: governor campaign, tax costs, business regulation, rural Kansas, election administration, public safety, and federal election authority. ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong kcur.org post** [soc-scott-schwab-0008] Jan. 8, 2025 campaign launch coverage with Schwab quotes on Kansas, property taxes, rural communities, election administration, and federal/state authority. ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab))
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest post** [soc-scott-schwab-0009] | Governor campaign frame, tax costs, business regulation, and rural Kansas | 3 | 27% |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-scott-schwab-0132] "observation": "The campaign website frames the candidacy around state governance, tax costs, business regulation, rural Kansas, election administration, and federal election authority. Its visible social links route to Facebook, X, and Instagram. The site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source)",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Facebook online-reference** [soc-scott-schwab-0133] "observation": "1. Campaign site homepage and priorities page, captured 2026-05-11. Key visible issue areas: governor campaign, tax costs, business regulation, rural Kansas, election administration, public safety, and federal election authority. (source) 2. Campaign Facebook page metadata, captured 2026-05-11. Page-level public signal: 1,759 likes and 63 talking about this. (source) 3. Campaign Instagram metadata, captured...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous YouTube online-reference** [soc-scott-schwab-0134] "observation": "Personal/campaign X profile metadata, captured 2026-05-11. (source) 5. Office X profile metadata, captured 2026-05-11. (source) 6. Kansas Secretary of State YouTube channel metadata, captured 2026-05-11. (source) 7. Jan. 8, 2025 campaign launch coverage with Schwab quotes on Kansas, property taxes, rural communities, election administration, and federal/state authority. (source) 8. Mar.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 13. Local governance / transparency / ethics
+
+Local governance / transparency / ethics: 43 selected evidence items from 1083 mapped rows. Public URL-backed rows: 186.
+
+### Evidence
+- **candidate-stated** [em-scott-schwab-00278] Social/platform endpoints checked or inherited from local harvest: 12
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:494
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-02842] When Hammet requested updated information, Schwab's office said it could no longer produce the data centrally -- unless Hammet agreed to pay more than $500 to have a software expert spend three hours accessing it through a more complicated process
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4413
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-02990] Kansas requires a Statement of Substantial Interests (SSI) for state officials. These filings are available through the Kansas Secretary of State's office but are not comprehensively digitized for public search online.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:4659
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-03411] | June 14, 2023 | Public announcement via official statement |
+  - Source: memory/candidates/scott-schwab/raw-dump.md:5363
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-03477] | Kansans for Life PAC | ACTIVELY OPPOSING | Released formal statement calling her record "the worst on life of any Republican to ever seek office in Kansas" |
+  - Source: memory/candidates/scott-schwab/raw-dump.md:5485
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-03741] Current office: Kansas Secretary of State. The official Secretary of State biography says Schwab was elected in 2018 and re-elected in 2022.
+  - Source: memory/candidates/scott-schwab/sleuth-pass.md:14
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-03974] "The brief says proponent testimony came from a representative of the Office of the Secretary of State"
+  - Source: memory/candidates/scott-schwab/v2-issues.yaml:148
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-04051] "platform": "Public web / X / office channels",
+  - Source: ui/src/data/v2/scott-schwab.ts:72
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-00003] Across the public set reviewed, Schwab’s visible record centers first on election administration and voter-roll maintenance. That category accounts for 5 of the 11 accessible items in the harvest, including the campaign site, office social profiles, and Secretary of State releases. In a Jan. 7, 2026 office release, Schwab said, "We use a mix of laws, regulations, and internal reforms to deliver better service, protect election integrity, modernize the agency, and run government more efficiently." ([source](https://www.sos.ks.gov/media/press-releases/2026/01-07-26-secretary-schwab-outlines-legislative-agenda-centered-on-efficiency-integrity-and-better-service.html))
+  - Source: https://www.sos.ks.gov/media/press-releases/2026/01-07-26-secretary-schwab-outlines-legislative-agenda-centered-on-efficiency-integrity-and-better-service.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00004] His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, "As Governor, Scott will continue to fight against federal interference in our state." ([source](https://scottschwab.com/)) KCUR’s January 2025 campaign-launch report quoted Schwab saying, "I believe that to do something great, we have to throw off the chains that hold you back," ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab)) and "In Kansas, those chains come from big government." ([source](https://www.kcur.org/politics-elections-and-government/2025-01-08/kansas-governor-race-2026-scott-schwab))
+  - Source: https://scottschwab.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-00007] The clearest official-record signal in 2026 is administrative language about voter rolls, business services, regulations, and office modernization. On Apr. 9, 2026, Schwab said, "This legislation reflects our commitment to maintaining accurate voter rolls while protecting the rights of every eligible Kansas voter for decades to come," ([source](https://www.sos.ks.gov/media/press-releases/2026/04-09-26-secretary-schwabs-voter-roll-maintenance-bill-becomes-law-after-veto-override.html)) and "I appreciate the Kansas Legislature overriding Governor Kelly’s veto." ([source](https://www.sos.ks.gov/media/press-releases/2026/04-09-26-secretary-schwabs-voter-roll-maintenance-bill-becomes-law-after-veto-override.html)) In the same January 2026 office release, he said, "Good government isn’t about how much government does," ([source](https://www.sos.ks.gov/media/press-releases/2026/01-07-26-secret…
+  - Source: https://www.sos.ks.gov/media/press-releases/2026/04-09-26-secretary-schwabs-voter-roll-maintenance-bill-becomes-law-after-veto-override.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00086] "url": "https://www.usd489.com/page/board-of-education"
+  - Source: https://www.usd489.com/page/board-of-education
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00288] Official campaign bio: [scottschwab.com](https://scottschwab.com/)
+  - Source: https://scottschwab.com/
+  - Confidence/use: likely / use
+- **documented-record** [em-scott-schwab-00301] Kansas Ethics filing: [SW01SS_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf)
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00304] The filing index is here: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm).
+  - Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+  - Confidence/use: confirmed / use
+- **documented-record** [em-scott-schwab-00306] "Scott Schwab Conservative Results" - campaign homepage, 2026-04-01, [scottschwab.com](https://scottschwab.com/) - topic: campaign identity.
+  - Source: https://scottschwab.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-scott-schwab-01101] > -- [Kansas Reflector, January 19, 2026](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)
+  - Source: https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-scott-schwab-01250] [Kansas Reflector: Millionaire candidates (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)
+  - Source: https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-scott-schwab-01260] [Trending Politics: Frontrunner emerges](https://trendingpoliticsnews.com/new-frontrunner-emerges-in-key-race-as-gop-candidate-shatters-fundraising-records-mace/)
+  - Source: https://trendingpoliticsnews.com/new-frontrunner-emerges-in-key-race-as-gop-candidate-shatters-fundraising-records-mace/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-scott-schwab-01897] | Campaign/Donation Site | [colyerforgovernor.com](https://www.colyerforgovernor.com/) |
+  - Source: https://www.colyerforgovernor.com/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-scott-schwab-02064] [Kansas Reflector - Millionaire candidates fundraising (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)
+  - Source: https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-scott-schwab-02144] [FEC Committee - Colin for Kansas (C00919860)](https://www.fec.gov/data/committee/C00919860/)
+  - Source: https://www.fec.gov/data/committee/C00919860/
+  - Confidence/use: confirmed / use
+- **social-online-signal** [em-scott-schwab-00005] The public platform footprint is compact and mostly campaign- or office-directed. The campaign site links Facebook, X, and Instagram. Public Facebook metadata listed 1,759 likes and 63 talking about this on May 11, 2026, and the page description began, "Kansas has a decision to make: Which path will we take?" ([source](https://www.facebook.com/SchwabforGovernor)) Public Instagram metadata listed 184 followers, 167 following, and 57 posts on the same capture date, with the bio line, "2026 Candidate for Kansas Governor" ([source](https://www.instagram.com/scottschwabks/))
+  - Source: https://www.facebook.com/SchwabforGovernor
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-00006] The X presence separates personal/campaign and office accounts. The @ScottSchwabKS profile metadata described him as, "Husband. Father. Honored to serve as Kansas' 32nd @kansassos." ([source](https://x.com/ScottSchwabKS)) The @KansasSOS profile metadata described the account as, "Official Twitter account for the Office of Kansas Secretary of State @scottschwabks" ([source](https://x.com/KansasSOS)) Logged-out capture did not expose a dependable post-level X feed or repost inventory, so no X engagement totals are reported.
+  - Source: https://x.com/ScottSchwabKS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-00239] YouTube: https://www.youtube.com/@kansassecretaryofstate; office channel metadata accessible.
+  - Source: https://www.youtube.com/@kansassecretaryofstate
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-02253] Facebook Video: Spoke at Douglas County Democrats meeting about exploratory campaign ([facebook.com/dgcodems](https://www.facebook.com/dgcodems/videos/2299093513898616/))
+  - Source: https://www.facebook.com/dgcodems/videos/2299093513898616/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-02392] [Douglas County Democrats Facebook - Exploratory Campaign Video](https://www.facebook.com/dgcodems/videos/2299093513898616/)
+  - Source: https://www.facebook.com/dgcodems/videos/2299093513898616/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-02729] | X (Twitter) | [@KansasSOS](https://x.com/KansasSOS) | Official Office | Office of Kansas Secretary of State |
+  - Source: https://x.com/KansasSOS
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-02731] | Instagram | [@kansassos](https://www.instagram.com/kansassos/) | Official Office | Kansas Secretary of State office account |
+  - Source: https://www.instagram.com/kansassos/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-scott-schwab-03265] | Facebook | [@VickiSchmidtKS](https://www.facebook.com/VickiSchmidtKS/) | Bio: "Lifelong Kansan & Republican, Mother & Grandmother, Local Pharmacist, Running for Governor" |
+  - Source: https://www.facebook.com/VickiSchmidtKS/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-scott-schwab-00507] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+- **faith-community-record** [em-scott-schwab-00363] CONFIRMED = Named church/denomination found in official profile, news article, or candidate bio
+  - Source: memory/candidates/scott-schwab/raw-dump.md:124
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-scott-schwab-00392] Assessment: The complete absence of faith references in any public profile is notable. This does not mean she is not a churchgoer -- many local officials simply do not publicize their church life. However, in a community as church-centric as Hays, the silence is itself a data point. Recommend direct inquiry.
+  - Source: memory/candidates/scott-schwab/raw-dump.md:175
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-scott-schwab-00504] Spoke at TMP about the importance of voting (invited as elected official to Catholic school)
+  - Source: memory/candidates/scott-schwab/raw-dump.md:439
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-scott-schwab-03644] His record is not without controversy. Kansas courts ruled that his office violated the state's open-records law by altering a computer system in a way that made some records harder to obtain. He has also been under pressure from both sides of the election debate, drawing criticism from hard-line skeptics who wanted more fraud claims and from transparency advocates who wanted more openness.
+  - Source: memory/candidates/scott-schwab/site-profile.md:11
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-scott-schwab-03654] Property Taxes: This is the centerpiece of his campaign. He has criticized both the Legislature and Governor Kelly for delivering only a "$25.88 property tax break for the owner of a $150,000 home" and wants to overhaul the county appraisal process.
+  - Source: memory/candidates/scott-schwab/site-profile.md:31
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-scott-schwab-04405] "stance": "This is the centerpiece of his campaign. He has criticized both the Legislature and Governor Kelly for delivering only a \"$25.88 property tax break for the owner of a $150,000 home\" and wants to overhaul the county appraisal process."
+  - Source: ui/src/data/candidates.ts:11594
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00039] "url": "https://www.haysusa.com/149/City-Managers-Office"
+  - Source: https://www.haysusa.com/149/City-Managers-Office
+  - Confidence/use: confirmed / use
+- **background-context** [em-scott-schwab-00331] Official state bio: [Kansas Secretary of State biography](https://www.sos.ks.gov/about/schwab-biography.html)
+  - Source: https://www.sos.ks.gov/about/schwab-biography.html
+  - Confidence/use: confirmed / use
+- **background-context** [em-scott-schwab-00426] [City Manager's Office - Hays](https://www.haysusa.com/149/City-Managers-Office)
+  - Source: https://www.haysusa.com/149/City-Managers-Office
+  - Confidence/use: confirmed / use
+- **background-context** [em-scott-schwab-00438] [Kansas Sheriffs' Association - Ellis County](https://www.kansassheriffs.org/county_map/county/914)
+  - Source: https://www.kansassheriffs.org/county_map/county/914
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-00453] [HaysPost: New Ellis County Attorney](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1)
+  - Source: https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-00496] [FHSU: Germans from Russia in Ellis County](https://fhsuguides.fhsu.edu/kansasheritage/elliscounty)
+  - Source: https://fhsuguides.fhsu.edu/kansasheritage/elliscounty
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous sos.ks.gov online-reference** [soc-scott-schwab-0001] Across the public set reviewed, Schwab’s visible record centers first on election administration and voter-roll maintenance. That category accounts for 5 of the 11 accessible items in the harvest, including the campaign site, office social profiles, and Secretary of State releases. In a Jan. 7, 2026 office release, Schwab said, "We use a mix of laws, regulations, and internal reforms to deliver better service, protect election integrity, modernize the agency, and run government more efficiently." ([source](https://www.sos.ks.gov/media/press-releases/2026/01-07-26-secretary-schwab-outlines-legislative-agenda-centered-on-efficiency-integrity-and-better-service.html))
+  - Source: https://www.sos.ks.gov/media/press-releases/2026/01-07-26-secretary-schwab-outlines-legislative-agenda-centered-on-efficiency-integrity-and-better-service.html
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-scott-schwab-0003] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Facebook share/repost** [soc-scott-schwab-0004] narrative: "_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered on 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust and integrity\" and uses the slogan block \"TRUST...BUT VERIFY\" and \"Securing Your Future with Trust and Integrity.\" ([source](https:/…
+  - Source: https://kenforkansas.com/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Facebook post** [soc-scott-schwab-0006] The campaign website frames the candidacy around state governance, tax costs, business regulation, rural Kansas, election administration, and federal election authority. Its visible social links route to Facebook, X, and Instagram. The site says, "As Governor, Scott will continue to fight against federal interference in our state." ([source](https://scottschwab.com/))
+  - Source: https://scottschwab.com/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Facebook follow** [soc-scott-schwab-0013] The public platform footprint is compact and mostly campaign- or office-directed. The campaign site links Facebook, X, and Instagram. Public Facebook metadata listed 1,759 likes and 63 talking about this on May 11, 2026, and the page description began, "Kansas has a decision to make: Which path will we take?" ([source](https://www.facebook.com/SchwabforGovernor)) Public Instagram metadata listed 184 followers, 167 following, and 57 posts on the same capture date, with the bio line, "2026 Candidate for Kansas Governor" ([source](https://www.instagram.com/scottschwabks/))
+  - Source: https://www.facebook.com/SchwabforGovernor
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate X / Twitter share/repost** [soc-scott-schwab-0014] The X presence separates personal/campaign and office accounts. The @ScottSchwabKS profile metadata described him as, "Husband. Father. Honored to serve as Kansas' 32nd @kansassos." ([source](https://x.com/ScottSchwabKS)) The @KansasSOS profile metadata described the account as, "Official Twitter account for the Office of Kansas Secretary of State @scottschwabks" ([source](https://x.com/KansasSOS)) Logged-out capture did not expose a dependable post-level X feed or repost inventory, so no X engagement totals are reported.
+  - Source: https://x.com/ScottSchwabKS
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong YouTube post** [soc-scott-schwab-0015] YouTube: https://www.youtube.com/@kansassecretaryofstate; office channel metadata accessible.
+  - Source: https://www.youtube.com/@kansassecretaryofstate
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong Facebook post** [soc-scott-schwab-0016] Facebook Video: Spoke at Douglas County Democrats meeting about exploratory campaign ([facebook.com/dgcodems](https://www.facebook.com/dgcodems/videos/2299093513898616/))
+  - Source: https://www.facebook.com/dgcodems/videos/2299093513898616/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong Facebook post** [soc-scott-schwab-0017] [Douglas County Democrats Facebook - Exploratory Campaign Video](https://www.facebook.com/dgcodems/videos/2299093513898616/)
+  - Source: https://www.facebook.com/dgcodems/videos/2299093513898616/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong X / Twitter post** [soc-scott-schwab-0018] | X (Twitter) | [@KansasSOS](https://x.com/KansasSOS) | Official Office | Office of Kansas Secretary of State |
+  - Source: https://x.com/KansasSOS
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 14. Environment / energy / land use
+
+Environment / energy / land use: 14 selected evidence items from 28 mapped rows. Public URL-backed rows: 3.
+
+### Evidence
+- **candidate-stated** [em-scott-schwab-04074] summary: "Schwab said he supported all forms of energy production, including wind and solar, and tied energy availability to affordability and rural opportunity."
+  - Source: memory/candidates/scott-schwab/v2-issues.yaml:345
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-scott-schwab-04644] "body": "Schwab said he supported all forms of energy production, including wind and solar, and tied energy availability to affordability and rural opportunity.",
+  - Source: ui/src/data/v2/scott-schwab.ts:203
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-03747] Kansas SOS candidate list endpoint (blocked in this environment): https://www.kssos.org/elections/elections_upcoming_candidate.aspx
+  - Source: https://www.kssos.org/elections/elections_upcoming_candidate.aspx
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **documented-record** [em-scott-schwab-00040] The linked official candidate-list endpoint returned a JavaScript / not-a-robot gate in this environment.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:51
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-01427] The City of Hays manages its own water utility through the city commission
+  - Source: memory/candidates/scott-schwab/raw-dump.md:2093
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-03916] "The official candidate-list endpoint required JavaScript / bot verification in this environment"
+  - Source: memory/candidates/scott-schwab/v2-issues.yaml:36
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-scott-schwab-04068] "text": "Schwab's campaign labels one priority as J.E.A.N.S: Jobs, Education, Agriculture, Networking and Sustainability. In Hays, he connected the plan to rural manufacturing, community-college training, Highway 83, agriculture, water, energy, rural schools, and rural hospitals.",
+  - Source: ui/src/data/v2/scott-schwab.ts:177
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-scott-schwab-04494] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **background-context** [em-scott-schwab-01262] [NOLN: Strickland Brothers franchise owner](https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor)
+  - Source: https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor
+  - Confidence/use: likely / use
+- **background-context** [em-scott-schwab-00127] Schwab discussed community-college job training, local manufacturing, Highway 83 four-laning, all forms of energy production, rural schools, rural hospitals, and leveraging Kansas agriculture.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:199
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00144] Energy/rural manufacturing: transcript attributes to Schwab a broad "every resource" energy posture and tie to manufacturing costs and rural opportunities.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:228
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00203] Rural Kansas / Agriculture / Water / Hospitals / Energy
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:335
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-00205] Hays Post: community-college training for local jobs; small manufacturers in rural communities; Kansas as agricultural epicenter; U.S. Highway 83 four-laning; water regulation plus voluntary conservation; all forms of energy; rural communities need to keep schools and hospitals; agriculture is a seventh of Kansas's economy.
+  - Source: memory/candidates/scott-schwab/raw-dump-v2.md:340
+  - Confidence/use: unknown / background-only
+- **background-context** [em-scott-schwab-01129] Largest national franchise owner, Strickland Brothers 10 Minute Oil Change -- locations across Kansas including Andover, El Dorado, Derby, Pittsburg, Fort Scott, Independence
+  - Source: memory/candidates/scott-schwab/raw-dump.md:1627
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Bluesky share/repost** [soc-scott-schwab-0003] narrative: "*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent ([harvest](social-harvest.md#topic-share-analysis)). Her campaign pri…
+  - Source: https://cindyforkansas.com/priorities/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
