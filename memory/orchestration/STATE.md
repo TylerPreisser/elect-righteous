@@ -1,7 +1,7 @@
 # Elect Righteous — Orchestration State
-Last updated: 2026-05-20T15:43:39Z
-Last agent: master-orchestrator
-Last commit: 858789f
+Last updated: 2026-05-20T16:01:00Z
+Last agent: candidate-evidence-miner
+Last commit: 9f4e9dc
 
 ## Current Phase
 Phase 2: Evidence Matrixing
@@ -18,7 +18,7 @@ Phase 2: Evidence Matrixing
 | 7 | Deploy | not started |
 
 ## Blockers
-- Required evidence matrix files are absent for all 70 candidates — master-orchestrator — high — 2026-05-20
+- Final evidence-matrix.json files remain absent for all 70 candidates; raw evidence matrices now exist for roger-marshall, damon-anderson, and jason-hart — candidate-evidence-miner — high — 2026-05-20
 - Fixed 14-issue matrix is not satisfied for all 70 candidates — master-orchestrator — high — 2026-05-20
 - No prior agent-run handoff existed under memory/orchestration/agent-runs before this bootstrap — master-orchestrator — medium — 2026-05-20
 - Official Kansas post-filing roster recheck remains required after the filing deadline/final official lists — roster-auditor — medium — 2026-05-20
@@ -44,7 +44,7 @@ Phase 2: Evidence Matrixing
 | craig-musser | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | craig-pallister | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | curt-vajnar | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| damon-anderson | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| damon-anderson | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | daniel-hawkins | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | david-vilaysing | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | derek-yarmer | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
@@ -53,7 +53,7 @@ Phase 2: Evidence Matrixing
 | eric-lund | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | erik-murray | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | ethan-corson | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| jason-hart | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| jason-hart | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | jayme-goetz | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | jeff-colyer | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | jennifer-day | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
@@ -78,7 +78,7 @@ Phase 2: Evidence Matrixing
 | philip-sarnecki | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | rebecca-herzog | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | ric-koehn | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
-| roger-marshall | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
+| roger-marshall | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | ron-wilson | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | ruth-ruder | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
 | sam-lane | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |
@@ -126,18 +126,19 @@ Phase 2: Evidence Matrixing
 | Static build | 2026-05-20T15:43:39Z | Pass | npm run build generated 232 static pages. |
 | Candidate count parity | 2026-05-20T15:43:39Z | Pass | 15 race entries; every candidateCount matches candidateSlugs.length. |
 | Forbidden public labels | 2026-05-20T15:43:39Z | Pass | No tpreisser.github.io, Preisser Tech, What You Should Know, or In Their Own Words strings remain under ui/src or ui/public. |
-| Evidence matrix presence | 2026-05-20T15:43:39Z | Fail | 0 of 70 candidates have evidence-matrix.json; 0 have social-evidence-matrix.json. |
+| Evidence matrix presence | 2026-05-20T16:01:00Z | Fail | 0 of 70 candidates have final evidence-matrix.json; 3 of 70 have evidence-matrix-raw.json; 0 have social-evidence-matrix.json. |
 | Fixed 14-issue matrix | 2026-05-20T15:43:39Z | Fail | 70 of 70 candidates have issue arrays below 14. |
 
 ## Next Actions Queue
-1. Run candidate-evidence-miner for a small federal batch: roger-marshall, damon-anderson, jason-hart — candidate-evidence-miner — P0 — blocked by none
-2. Run evidence-matrix-builder for each mined candidate immediately after miner output exists — evidence-matrix-builder — P0 — blocked by evidence-matrix-raw.json
-3. Run social-footprint-analyst for each candidate after evidence-matrix.json exists — social-footprint-analyst — P0 — blocked by evidence-matrix.json
-4. Run source-tier-validator for each candidate after evidence-matrix.json exists — source-tier-validator — P0 — blocked by evidence-matrix.json
+1. Run evidence-matrix-builder for roger-marshall, damon-anderson, and jason-hart — evidence-matrix-builder — P0 — blocked by none
+2. Run social-footprint-analyst for each of those three candidates after evidence-matrix.json exists — social-footprint-analyst — P0 — blocked by evidence-matrix.json
+3. Run source-tier-validator for each of those three candidates after evidence-matrix.json exists — source-tier-validator — P0 — blocked by evidence-matrix.json
+4. Continue candidate-evidence-miner on the next federal batch after this builder batch is queued — candidate-evidence-miner — P1 — blocked by none
 5. Rebuild v2-issues.yaml into the fixed 14-issue matrix after the matrices exist — fixed-issue-matrix-builder — P0 — blocked by evidence and social matrices
 6. Rerun build-validation-gatekeeper only after the fixed 14-issue matrix exists for every candidate — build-validation-gatekeeper — P1 — blocked by Phase 2 and Phase 3 completion
 
 ## Session Log (last 20 entries)
+- 2026-05-20T16:01:00Z candidate-evidence-miner Extracted raw evidence matrices for roger-marshall, damon-anderson, and jason-hart: 10037, 667, and 5407 rows respectively.
 - 2026-05-20T15:43:39Z master-orchestrator Installed master prompt as AGENTS.md.
 - 2026-05-20T15:43:39Z master-orchestrator Created first required agent-run folder under memory/orchestration/agent-runs/2026-05-20/master-orchestrator.
 - 2026-05-20T15:43:39Z master-orchestrator Ran master prompt validation gates and recorded pass/fail results.

@@ -1,0 +1,58 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "roger-marshall",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T15:56:25Z",
+  "completed_at": "2026-05-20T15:56:25Z",
+  "inputs_read": [
+    "memory/candidates/roger-marshall/in-their-own-words.md",
+    "memory/candidates/roger-marshall/profile.md",
+    "memory/candidates/roger-marshall/raw-dump-v2.md",
+    "memory/candidates/roger-marshall/raw-dump.md",
+    "memory/candidates/roger-marshall/raw-intel.md",
+    "memory/candidates/roger-marshall/site-profile.md",
+    "memory/candidates/roger-marshall/sleuth-pass.md",
+    "memory/candidates/roger-marshall/social-harvest.md",
+    "memory/candidates/roger-marshall/v2-issues.yaml",
+    "memory/elections/2026-11-03-us-senate-kansas.md",
+    "reports/2026-kansas-us-senate-race-investigation.md",
+    "reports/KS-01-2026-challengers-investigation.md",
+    "reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md",
+    "reports/Kris-Kobach-Complete-Dossier.md",
+    "reports/faith-church-investigation-2026-03-31.md",
+    "reports/hays-kansas-election-finder-2026-03-30.md",
+    "reports/jeff-colyer-complete-dossier.md",
+    "reports/plain-english-voter-guide.md",
+    "reports/roger-marshall-complete-dossier.md",
+    "reports/senate-challengers-local-officials-complete.md",
+    "reports/sos-insurance-ks01-all-candidates-complete.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/roger-marshall.ts"
+  ],
+  "files_written": [
+    "memory/candidates/roger-marshall/evidence-matrix-raw.json",
+    "memory/candidates/roger-marshall/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/roger-marshall/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/roger-marshall/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/roger-marshall/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "sed -n 1,220p memory/orchestration/STATE.md",
+    "find memory/orchestration/agent-runs -name handoff.md -print | sort | tail -1 | xargs sed -n 1,220p",
+    "find memory/candidates/{roger-marshall,damon-anderson,jason-hart} -maxdepth 2 -type f",
+    "wc -l memory/candidates/{roger-marshall,damon-anderson,jason-hart}/*",
+    "rg -l -i candidate names across reports/elections/ui data",
+    "node generated extraction script"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for roger-marshall.",
+    "Deduplicate repeated evidence from v2 YAML, compiled TypeScript, and markdown research dumps.",
+    "Resolve caveats and source-needs before fixed 14-issue rebuild."
+  ],
+  "handoff_summary": "Extracted 10037 raw evidence rows for Roger Marshall from 24 input files. 113 caveat/conflict/source-limitation rows and 6811 internal-memory rows require matrix-builder review."
+}

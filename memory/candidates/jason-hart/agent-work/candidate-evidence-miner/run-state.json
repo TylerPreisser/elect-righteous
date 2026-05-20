@@ -1,0 +1,50 @@
+{
+  "agent_id": "candidate-evidence-miner",
+  "agent_role": "Candidate evidence extraction researcher",
+  "candidate_slug": "jason-hart",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T15:56:25Z",
+  "completed_at": "2026-05-20T15:56:25Z",
+  "inputs_read": [
+    "memory/candidates/jason-hart/in-their-own-words.md",
+    "memory/candidates/jason-hart/raw-dump-v2.md",
+    "memory/candidates/jason-hart/raw-dump.md",
+    "memory/candidates/jason-hart/site-profile.md",
+    "memory/candidates/jason-hart/sleuth-pass.md",
+    "memory/candidates/jason-hart/social-harvest.md",
+    "memory/candidates/jason-hart/v2-issues.yaml",
+    "memory/elections/2026-11-03-us-senate-kansas.md",
+    "reports/2026-kansas-us-senate-race-investigation.md",
+    "reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md",
+    "reports/plain-english-voter-guide.md",
+    "reports/roger-marshall-complete-dossier.md",
+    "reports/senate-challengers-local-officials-complete.md",
+    "ui/src/data/candidates.ts",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/jason-hart.ts"
+  ],
+  "files_written": [
+    "memory/candidates/jason-hart/evidence-matrix-raw.json",
+    "memory/candidates/jason-hart/agent-work/candidate-evidence-miner/run-state.json",
+    "memory/candidates/jason-hart/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/jason-hart/agent-work/candidate-evidence-miner/outputs.md",
+    "memory/candidates/jason-hart/agent-work/candidate-evidence-miner/handoff.md"
+  ],
+  "commands_run": [
+    "sed -n 1,220p memory/orchestration/STATE.md",
+    "find memory/orchestration/agent-runs -name handoff.md -print | sort | tail -1 | xargs sed -n 1,220p",
+    "find memory/candidates/{roger-marshall,damon-anderson,jason-hart} -maxdepth 2 -type f",
+    "wc -l memory/candidates/{roger-marshall,damon-anderson,jason-hart}/*",
+    "rg -l -i candidate names across reports/elections/ui data",
+    "node generated extraction script"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run evidence-matrix-builder for jason-hart.",
+    "Deduplicate repeated evidence from v2 YAML, compiled TypeScript, and markdown research dumps.",
+    "Resolve caveats and source-needs before fixed 14-issue rebuild."
+  ],
+  "handoff_summary": "Extracted 5407 raw evidence rows for Jason Hart from 16 input files. 47 caveat/conflict/source-limitation rows and 3773 internal-memory rows require matrix-builder review."
+}
