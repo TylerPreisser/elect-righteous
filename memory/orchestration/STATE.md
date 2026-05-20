@@ -1,7 +1,7 @@
 # Elect Righteous — Orchestration State
-Last updated: 2026-05-20T19:28:00Z
-Last agent: form-verification
-Last commit: 1d747af
+Last updated: 2026-05-20T19:30:06Z
+Last agent: source-tier-validator
+Last commit: pending
 
 ## Current Phase
 Phase 3: Profile Rebuild
@@ -20,7 +20,7 @@ Phase 3: Profile Rebuild
 ## Blockers
 - Full editorial/legal/symmetry review remains incomplete for 70 of 70 candidates; automated legal cleanup has removed internal-only issue leakage and cross-candidate lawsuit source contamination from rendered issue cards — legal-accuracy-reviewer — high — 2026-05-20
 - Ten rendered profiles remain public-source/action-thin after assembly and require explicit editorial caveats/research follow-up: adam-hamilton, brandon-adams, doug-billings, eric-lund, kevin-latz, mark-lane, michelle-cunningham, ric-koehn, sharilyn-ray, steven-jacob — candidate-profile-assembler — medium — 2026-05-20
-- Source-tier validator used structural/domain classification, not live HTTP fetch; a later high-latency source-health sweep is still needed before final publication claims — source-tier-validator — medium — 2026-05-20
+- Rendered source-health sweep checked 2,643 unique public URLs and found 393 non-live/blocked URLs requiring manual replacement or verification before final publication claims: 243 HTTP errors, 97 blocked/forbidden, 32 timeouts, 21 network errors — source-tier-validator — high — 2026-05-20
 - Official Kansas post-filing roster recheck remains required after the filing deadline/final official lists — roster-auditor — medium — 2026-05-20
 - Correction form routes to tyler@preissersolutions.com in code, but FormSubmit activation and old-submission mailbox review are not confirmed from repo-only access — form-verification — medium — 2026-05-20
 
@@ -138,15 +138,17 @@ Phase 3: Profile Rebuild
 | Narrative section presence | 2026-05-20T19:17:36Z | Pass | 70 of 70 rendered profiles have non-empty Who They Are, Their Record, Donor/Funding, Where They Worship, and Social/Online notes. Thin-record fallbacks are caveated. |
 | Automated legal cleanup | 2026-05-20T19:23:52Z | Pass | Rendered issue cards no longer surface internal-only issue text as public stance evidence; cross-candidate lawsuit URL scan reports 0 suspect references; validateCandidateV2, TypeScript, and npm run build pass. |
 | Correction form routing | 2026-05-20T19:28:00Z | Partial | Code routes FormSubmit AJAX, HTML fallback, and mailto fallback to tyler@preissersolutions.com. FormSubmit activation and old submissions require mailbox/dashboard confirmation. |
+| Rendered source health | 2026-05-20T19:30:06Z | Partial | 2,643 unique public rendered source URLs checked; 2,250 live, 97 blocked/forbidden, 243 HTTP errors, 32 timeouts, 21 network errors. See source-health-2026-05-20.md/json. |
 
 ## Next Actions Queue
-1. Run professional-narrative-editor, legal-accuracy-reviewer, and symmetry-test-editor for all 70 rendered profiles — editorial review agents — P0 — blocked by none
-2. Run a live URL/source-health sweep for source-audit.json records before final publication claims — source-tier-validator — P1 — blocked by network/runtime time only
-3. Rerun full build-validation-gatekeeper after editorial/legal/symmetry review — build-validation-gatekeeper — P1 — blocked by Phase 4 completion
+1. Repair or replace rendered source URLs with malformed/dead links and document blocked sources that are verifiable only manually — source-tier-validator — P0 — blocked by none
+2. Run professional-narrative-editor, legal-accuracy-reviewer, and symmetry-test-editor for all 70 rendered profiles — editorial review agents — P0 — blocked by source cleanup for final publication confidence
+3. Rerun full build-validation-gatekeeper after source cleanup and editorial/legal/symmetry review — build-validation-gatekeeper — P1 — blocked by Phase 4 completion
 4. Confirm FormSubmit activation and old correction submissions from tyler@preissersolutions.com mailbox/dashboard — form-verification — P1 — blocked by mailbox/FormSubmit access
 5. Deploy only after validation gates, form verification, and release report pass — deploy agents — P1 — blocked by validation and release readiness
 
 ## Session Log (last 20 entries)
+- 2026-05-20T19:30:06Z source-tier-validator Added rendered source-health checker and checked 2,643 unique public rendered source URLs: 2,250 live, 97 blocked/forbidden, 243 HTTP errors, 32 timeouts, 21 network errors.
 - 2026-05-20T19:28:00Z form-verification Verified correction-form code routes to tyler@preissersolutions.com and documented activation/old-submission blockers in form-verification-2026-05-20.md.
 - 2026-05-20T19:23:52Z legal-accuracy-reviewer Added renderer guards against internal-only issue leakage, source-table/narrative rows as actions, and lawsuit URLs that do not name the current candidate; validation/build passed.
 - 2026-05-20T19:17:36Z specialist-profile-writers Populated narrative profile sections for all 70 rendered candidates: whoTheyAre, recordSummary, campaignFinance, whereTheyWorship, and socialResearchNote are now present for every candidate; thin records are caveated.
