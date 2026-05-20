@@ -10,8 +10,8 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
   "slug": "neal-younger",
   "name": "Neal Younger",
   "party": "R",
-  "position": "Ellis County Commissioner, District 2",
-  "electionSlug": "ellis-county-current",
+  "position": "Ellis County Commissioner, District 2; current officeholder not on the 2026 county filing PDF",
+  "electionSlug": "ellis-county-incumbents-off-cycle",
   "incumbent": true,
   "occupation": "Electrician / Plumber",
   "issues": [

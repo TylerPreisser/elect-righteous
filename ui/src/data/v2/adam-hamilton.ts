@@ -1,0 +1,176 @@
+/* Auto-normalized with issue-mapped social/online cross-reference signals.
+ * To refresh:
+ *   node scripts/hydrate-v2-social-signals.mjs
+ */
+
+import type { CandidateFullV2 } from "@/data/types-v2";
+import { validateCandidateV2 } from "@/data/types-v2";
+
+export const ADAM_HAMILTON_V2: CandidateFullV2 = {
+  "slug": "adam-hamilton",
+  "name": "Adam Hamilton",
+  "party": "D",
+  "position": "U.S. Senate candidate, Kansas",
+  "electionSlug": "us-senate-2026",
+  "incumbent": false,
+  "occupation": "Founding pastor / author",
+  "campaignWebsite": "https://hamiltonforkansas.com/",
+  "issues": [
+    {
+      "id": "i-ballot-status",
+      "title": "Ballot / filing status",
+      "stated": {
+        "text": "Hamilton's campaign site presents him as a U.S. Senate candidate, and FEC candidate data identifies him as a Democratic candidate for Kansas Senate.",
+        "sourceIds": [
+          "s-campaign-home",
+          "s-fec-candidate"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-campaign-launch",
+          "date": "2026-05-20",
+          "body": "Hamilton's campaign site published donation, volunteer, biography, and U.S. Senate campaign content.",
+          "sourceIds": [
+            "s-campaign-home"
+          ]
+        },
+        {
+          "id": "a-fec-record",
+          "date": "2026-05-20",
+          "body": "FEC candidate data identifies Adam Hamilton as a 2026 Kansas Senate candidate with Hamilton for Kansas as the committee.",
+          "sourceIds": [
+            "s-fec-candidate"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-crossref-1",
+          "platform": "Public web",
+          "observation": "Ballot / filing status: Hamilton's campaign site presents him as a U.S. Senate candidate, and FEC candidate data identifies him as a Democratic candidate for Kansas Senate.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-campaign-home"
+          ],
+          "mappedToIssueId": "i-ballot-status"
+        }
+      ]
+    },
+    {
+      "id": "i-campaign-themes",
+      "title": "Where they stand on big issues",
+      "stated": {
+        "text": "Hamilton's campaign says he is focused on listening to Kansans, addressing high costs for food, energy, and health care, building bridges across party lines, and restoring decency and shared humanity in government.",
+        "sourceIds": [
+          "s-campaign-home"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-platform-summary",
+          "date": "2026-05-20",
+          "body": "The campaign site lists listening, affordability and opportunity, bridge-building, and restoring decency and humanity as campaign focus areas.",
+          "sourceIds": [
+            "s-campaign-home"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-crossref-1",
+          "platform": "Public web",
+          "observation": "Where they stand on big issues: Hamilton's campaign says he is focused on listening to Kansans, addressing high costs for food, energy, and health care, building bridges across party lines, and restoring decency and shared humanity in government.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-campaign-home"
+          ],
+          "mappedToIssueId": "i-campaign-themes"
+        }
+      ]
+    },
+    {
+      "id": "i-donor-funding",
+      "title": "Donor / funding information",
+      "stated": {
+        "text": "Hamilton's campaign site links ActBlue donation flows. This pass did not capture a processed FEC financial summary for the committee.",
+        "sourceIds": [
+          "s-campaign-home",
+          "s-fec-candidate"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-actblue-donation-flow",
+          "date": "2026-05-20",
+          "body": "The campaign home page includes ActBlue donation buttons and the paid-for line for Hamilton for Kansas.",
+          "sourceIds": [
+            "s-campaign-home"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-crossref-1",
+          "platform": "Public web",
+          "observation": "Donor / funding information: Hamilton's campaign site links ActBlue donation flows. This pass did not capture a processed FEC financial summary for the committee.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-campaign-home"
+          ],
+          "mappedToIssueId": "i-donor-funding"
+        }
+      ]
+    }
+  ],
+  "whoTheyAre": "Adam Hamilton is a fifth-generation Kansan and founding pastor of Church of the Resurrection. His campaign biography says the church grew from four people in a borrowed space to a large multi-location United Methodist congregation.",
+  "recordSummary": "The reviewed candidate-controlled material emphasizes listening, affordability, bridge-building, and decency in government. FEC bulk records identify Hamilton as a Democratic U.S. Senate candidate with Hamilton for Kansas as the committee.",
+  "ownWordsNarrative": "Hamilton's campaign uses the phrases 'People Over Politics,' 'Faith. Family. Kansas,' and says the campaign is focused on listening to Kansans, solving affordability and opportunity problems, building bridges, and restoring decency and humanity in government.",
+  "whereTheyWorship": "Hamilton's campaign biography says he founded Church of the Resurrection; this is background only and is not used to infer policy positions.",
+  "campaignFinance": {
+    "totalRaised": "Not itemized in the reviewed public records for this pass",
+    "narrative": "No donor-by-donor public finance interpretation is made from the available records in this pass.",
+    "donors": [],
+    "reportingPeriod": "Most recent public record reviewed",
+    "source": "Adam Hamilton for Kansas"
+  },
+  "socialResearchNote": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.",
+  "sources": [
+    {
+      "id": "s-campaign-home",
+      "tier": "primary",
+      "url": "https://hamiltonforkansas.com/",
+      "title": "Adam Hamilton for Kansas",
+      "publisher": "Hamilton for Kansas",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Campaign identifies Hamilton as a U.S. Senate candidate",
+        "Campaign biography describes Hamilton's Kansas roots, family, and Church of the Resurrection background",
+        "Campaign states themes of listening, affordability, bridge-building, and decency"
+      ]
+    },
+    {
+      "id": "s-fec-candidate",
+      "tier": "primary",
+      "url": "https://www.fec.gov/data/candidate/S6KS00312/",
+      "title": "HAMILTON, ADAM - Candidate overview",
+      "publisher": "Federal Election Commission",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "FEC candidate master data identifies Adam Hamilton as a Democratic candidate for Kansas Senate in 2026",
+        "FEC identifies Hamilton for Kansas as the principal committee"
+      ]
+    }
+  ]
+};
+
+if (process.env.NODE_ENV !== "production") {
+  const result = validateCandidateV2(ADAM_HAMILTON_V2);
+  if (!result.ok) {
+    // eslint-disable-next-line no-console
+    console.error(
+      "[adam-hamilton.ts] validateCandidateV2 FAILED:\n" +
+        result.errors.join("\n"),
+    );
+  }
+}

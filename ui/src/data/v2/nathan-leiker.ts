@@ -10,8 +10,8 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
   "slug": "nathan-leiker",
   "name": "Nathan Leiker",
   "party": "R",
-  "position": "Ellis County Commissioner, District 3",
-  "electionSlug": "ellis-county-2026-ballot",
+  "position": "Current Ellis County Commissioner, District 3; not listed in the current 2026 county filing PDF",
+  "electionSlug": "ellis-county-incumbents-off-cycle",
   "incumbent": true,
   "occupation": "Vice President, L5 Farms Inc.; farmer / rancher",
   "issues": [

@@ -1,0 +1,162 @@
+/* Auto-normalized with issue-mapped social/online cross-reference signals.
+ * To refresh:
+ *   node scripts/hydrate-v2-social-signals.mjs
+ */
+
+import type { CandidateFullV2 } from "@/data/types-v2";
+import { validateCandidateV2 } from "@/data/types-v2";
+
+export const DAMON_ANDERSON_V2: CandidateFullV2 = {
+  "slug": "damon-anderson",
+  "name": "Damon Anderson",
+  "party": "D",
+  "position": "U.S. Senate candidate, Kansas",
+  "electionSlug": "us-senate-2026",
+  "incumbent": false,
+  "occupation": "Business owner / entrepreneur",
+  "campaignWebsite": "https://www.andersonforkansas.com/",
+  "issues": [
+    {
+      "id": "i-ballot-status",
+      "title": "Ballot / filing status",
+      "stated": {
+        "text": "Anderson is presented in the reviewed Kansas filing source as a Democratic U.S. Senate candidate for the 2026 cycle.",
+        "sourceIds": [
+          "s-ks-filing-senate"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-filed-senate",
+          "date": "2026-05-20",
+          "body": "The Kansas candidate-filing mirror lists Damon Anderson under United States Senate with Democratic affiliation and the Anderson for Kansas campaign site.",
+          "sourceIds": [
+            "s-ks-filing-senate"
+          ]
+        }
+      ],
+      "socialSignals": []
+    },
+    {
+      "id": "i-money-politics",
+      "title": "Money in politics / ethics reform",
+      "stated": {
+        "text": "Anderson's campaign says Washington answers too much to corporate donors, lobbyists, and party leadership; his reform list includes overturning Citizens United, limiting leadership PACs, banning congressional stock trading, limiting lobbying after office, strengthening donor disclosure, and increasing bill transparency.",
+        "sourceIds": [
+          "s-campaign-systemfix"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-systemfix-platform",
+          "date": "2026-05-20",
+          "body": "The campaign published a dedicated 'Fixing the System' page tying its agenda to campaign-finance reform, lobbying limits, stock-trading limits, transparency, and budget accountability.",
+          "sourceIds": [
+            "s-campaign-systemfix"
+          ]
+        }
+      ],
+      "socialSignals": []
+    },
+    {
+      "id": "i-big-issues-platform",
+      "title": "Where they stand on big issues",
+      "stated": {
+        "text": "Anderson's campaign states support for affordable health care and prescription drugs, public education investments, tech-sector growth with guardrails, AI regulation, strong-border immigration reform with E-Verify and guest-worker systems, small-farmer agriculture policy, labor-union support, a balanced-budget amendment, public prison reform, and public-service accountability before privatization.",
+        "sourceIds": [
+          "s-campaign-issues"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-issues-platform",
+          "date": "2026-05-20",
+          "body": "The campaign published a detailed issue page covering health care, education, technology, AI, immigration, agriculture, labor, budget policy, prison reform, privatization, LGBTQ rights, and reproductive rights.",
+          "sourceIds": [
+            "s-campaign-issues"
+          ]
+        }
+      ],
+      "socialSignals": []
+    },
+    {
+      "id": "i-cultural-rights",
+      "title": "LGBTQ and reproductive-rights positions",
+      "stated": {
+        "text": "Anderson's campaign states support for the LGBTQ+ community and says he is pro-choice while also saying he respects those who disagree.",
+        "sourceIds": [
+          "s-campaign-issues"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-cultural-positions",
+          "date": "2026-05-20",
+          "body": "The campaign issue page includes explicit LGBTQ+ rights and reproductive-rights sections rather than requiring inference from social-media behavior.",
+          "sourceIds": [
+            "s-campaign-issues"
+          ]
+        }
+      ],
+      "socialSignals": []
+    }
+  ],
+  "whoTheyAre": "Damon Anderson is a Democratic U.S. Senate candidate from Shawnee. His campaign frames him as a lifelong Kansan, parent, and business owner running on a democracy-and-money-in-politics theme.",
+  "recordSummary": "The strongest records found in this pass are the Kansas candidate-filing entry and candidate-controlled issue pages. No elected voting record was identified in the reviewed material.",
+  "ownWordsNarrative": "Anderson's own campaign repeatedly frames the race around reducing the influence of corporate money, lobbyists, and party leadership. His issue page contains explicit stated positions on health care, education, AI regulation, immigration, agriculture, labor, budget policy, prison reform, privatization, LGBTQ rights, and reproductive rights.",
+  "campaignFinance": {
+    "totalRaised": "The campaign says Anderson does not answer to corporate PACs and centers donor influence as a core issue. This pass did not capture a processed FEC financial summary for an Anderson committee.",
+    "narrative": "The campaign says Anderson does not answer to corporate PACs and centers donor influence as a core issue. This pass did not capture a processed FEC financial summary for an Anderson committee.",
+    "donors": [],
+    "reportingPeriod": "Most recent public record reviewed",
+    "source": "Candidate Filing Info - United States Senate, Kansas"
+  },
+  "socialResearchNote": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.",
+  "sources": [
+    {
+      "id": "s-ks-filing-senate",
+      "tier": "primary",
+      "url": "https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS",
+      "title": "Candidate Filing Info - United States Senate, Kansas",
+      "publisher": "Kansas candidate filing mirror / State of Kansas filing data",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Damon Anderson appears as a Democratic U.S. Senate candidate",
+        "The filing entry links AndersonforKansas.com"
+      ]
+    },
+    {
+      "id": "s-campaign-issues",
+      "tier": "primary",
+      "url": "https://www.andersonforkansas.com/issues",
+      "title": "Where I Stand",
+      "publisher": "Damon Anderson for U.S. Senate",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Campaign states positions on health care, education, tech, AI, immigration, agriculture, labor, balanced budget, prison reform, privatization, LGBTQ rights, and reproductive rights"
+      ]
+    },
+    {
+      "id": "s-campaign-systemfix",
+      "tier": "primary",
+      "url": "https://www.andersonforkansas.com/systemfix",
+      "title": "Fixing the System",
+      "publisher": "Damon Anderson for U.S. Senate",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Campaign supports overturning Citizens United, limiting leadership PACs, banning congressional stock trading, lobbying restrictions, donor disclosure, bill transparency, and national E-Verify"
+      ]
+    }
+  ]
+};
+
+if (process.env.NODE_ENV !== "production") {
+  const result = validateCandidateV2(DAMON_ANDERSON_V2);
+  if (!result.ok) {
+    // eslint-disable-next-line no-console
+    console.error(
+      "[damon-anderson.ts] validateCandidateV2 FAILED:\n" +
+        result.errors.join("\n"),
+    );
+  }
+}

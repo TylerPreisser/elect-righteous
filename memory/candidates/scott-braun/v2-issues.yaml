@@ -22,7 +22,8 @@ candidate:
   office: "Ellis County Sheriff"
   currentOffice: "Ellis County Sheriff"
   incumbent: true
-  electionSlug: "ellis-county-current"
+  position: "Ellis County Sheriff; current officeholder not on the 2026 county filing PDF"
+  electionSlug: "ellis-county-incumbents-off-cycle"
   status: "current_officeholder_off_cycle_2026"
   lastElection:
     date: "2024-11-05"

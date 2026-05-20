@@ -1,0 +1,127 @@
+{
+  "slug": "kevin-latz",
+  "generated": "2026-05-20T02:11:14.682Z",
+  "agent": "codex candidate-completeness generator",
+  "candidate_metadata": {
+    "slug": "kevin-latz",
+    "name": "Kevin Latz",
+    "party": "D",
+    "position": "U.S. Senate candidate, Kansas",
+    "electionSlug": "us-senate-2026",
+    "incumbent": false,
+    "occupation": "U.S. Senate candidate",
+    "whoTheyAre": "Kevin Latz appears in current Kansas U.S. Senate filing material as a Democratic candidate from Mission Hills. This pass did not find a candidate-controlled platform or public elected record.",
+    "recordSummary": "The verified record is limited to candidate-filing appearances. The profile is intentionally sparse until a candidate-controlled platform, FEC committee page, or reliable coverage is captured.",
+    "social_presence_note": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set."
+  },
+  "sources": [
+    {
+      "accessed": "2026-05-20",
+      "publisher": "Kansas candidate filing mirror / State of Kansas filing data",
+      "claimsAnchored": [
+        "Kevin Latz appears as a Democratic U.S. Senate candidate"
+      ],
+      "id": "s-ks-filing-senate",
+      "tier": "primary",
+      "url": "https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS",
+      "title": "Candidate Filing Info - United States Senate, Kansas"
+    },
+    {
+      "accessed": "2026-05-20",
+      "publisher": "Saline County, Kansas",
+      "claimsAnchored": [
+        "An unofficial county list included Kevin Latz under United States Senate"
+      ],
+      "id": "s-saline-unofficial-list",
+      "tier": "primary",
+      "url": "https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf",
+      "title": "2026 Saline County Candidate Filings - Unofficial"
+    }
+  ],
+  "issues": [
+    {
+      "id": "i-ballot-status",
+      "title": "Ballot / filing status",
+      "stated": {
+        "text": "Kevin Latz appears in the reviewed official or campaign-finance records connected to U.S. Senate candidate, Kansas. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the filing deadline.",
+        "sourceIds": [
+          "s-ks-filing-senate",
+          "s-saline-unofficial-list"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-record-appearance",
+          "date": "2026-05-20",
+          "body": "The Kansas candidate-filing mirror lists Kevin Latz under United States Senate as a Democratic candidate.",
+          "sourceIds": [
+            "s-ks-filing-senate",
+            "s-saline-unofficial-list"
+          ]
+        }
+      ],
+      "socialSignals": []
+    },
+    {
+      "id": "i-public-issue-record",
+      "title": "Where they stand on big issues",
+      "stated": {
+        "text": "No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+        "sourceIds": [
+          "s-ks-filing-senate",
+          "s-saline-unofficial-list"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-platform-gap",
+          "date": "2026-05-20",
+          "body": "The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.",
+          "sourceIds": [
+            "s-ks-filing-senate",
+            "s-saline-unofficial-list"
+          ]
+        }
+      ],
+      "socialSignals": []
+    },
+    {
+      "id": "i-donor-funding",
+      "title": "Donor / funding information",
+      "stated": {
+        "text": "Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+        "sourceIds": [
+          "s-ks-filing-senate",
+          "s-saline-unofficial-list"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-finance-record",
+          "date": "2026-05-20",
+          "body": "The reviewed finance source confirms either a campaign-finance account, committee record, or no itemized summary yet; final donor detail needs the next public report if one is not already posted.",
+          "sourceIds": [
+            "s-ks-filing-senate",
+            "s-saline-unofficial-list"
+          ]
+        }
+      ],
+      "socialSignals": []
+    }
+  ],
+  "campaign_finance": {
+    "totalRaised": "Not itemized in the reviewed public records for this pass",
+    "narrative": "No donor-by-donor public finance interpretation is made from the available records in this pass.",
+    "donors": [],
+    "reportingPeriod": "Most recent public record reviewed",
+    "source": "Candidate Filing Info - United States Senate, Kansas",
+    "sourceIds": [
+      "s-ks-filing-senate"
+    ]
+  },
+  "editorial_notes": [
+    "Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.",
+    "Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.",
+    "Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication."
+  ]
+}

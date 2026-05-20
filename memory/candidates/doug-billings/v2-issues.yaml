@@ -1,0 +1,173 @@
+{
+  "slug": "doug-billings",
+  "generated": "2026-05-20T02:11:14.686Z",
+  "agent": "codex candidate-completeness generator",
+  "candidate_metadata": {
+    "slug": "doug-billings",
+    "name": "Doug Billings",
+    "party": "R",
+    "position": "Kansas Governor candidate / campaign-finance account holder",
+    "electionSlug": "kansas-governor-2026",
+    "incumbent": false,
+    "occupation": "Conservative broadcaster / podcaster",
+    "campaignWebsite": "https://dougbillingsforkansas.com/",
+    "whoTheyAre": "Doug Billings is a conservative broadcaster and Republican governor candidate associated with a 2026 gubernatorial campaign and KPDC account. Reporting also says his SOS candidate-list status changed after a running-mate dispute, so the page must distinguish campaign/account evidence from final ballot certification.",
+    "recordSummary": "The profile captures campaign-account status, candidate-controlled platform themes, and reporting about removal from the Secretary of State candidate list. It should be rechecked against the final SOS list.",
+    "ownWordsNarrative": "Billings's campaign site frames him as a MAGA conservative and lists campaign pillars including Kansas sovereignty, gold and silver, trafficking, government efficiency, taxes, regulation, election integrity, education, property rights, and social-conservative themes.",
+    "whereTheyWorship": "Campaign and reporting describe Billings in explicitly Christian/conservative terms; that background is descriptive and is not used as a substitute for governance evidence.",
+    "social_presence_note": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set."
+  },
+  "sources": [
+    {
+      "accessed": "2026-05-20",
+      "publisher": "Kansas Governmental Ethics Commission / KPDC",
+      "claimsAnchored": [
+        "KPDC index lists Billings, Doug under gubernatorial candidates",
+        "KPDC links a 202601 report for Billings"
+      ],
+      "id": "s-kpdc-statewide",
+      "tier": "primary",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "title": "Kansas State Wide Office - 2026 Election Cycle"
+    },
+    {
+      "accessed": "2026-05-20",
+      "publisher": "Doug Billings for Kansas Governor",
+      "claimsAnchored": [
+        "Campaign site presents Billings as a 2026 Kansas Governor candidate",
+        "Campaign site lists candidate-controlled policy pillars"
+      ],
+      "id": "s-campaign-home",
+      "tier": "primary",
+      "url": "https://dougbillingsforkansas.com/",
+      "title": "Doug Billings For Kansas Governor 2026"
+    },
+    {
+      "accessed": "2026-05-20",
+      "publisher": "KCTV5 / WIBW",
+      "claimsAnchored": [
+        "Reporting described Billings as seeking the Kansas Republican Party nomination",
+        "Reporting summarized campaign themes including K-DOGE, tax cuts, and regulation cuts"
+      ],
+      "id": "s-kctv-filed",
+      "tier": "secondary",
+      "url": "https://www.kctv5.com/2025/05/05/conservative-podcaster-run-kansas-governor-2026/",
+      "title": "Conservative podcaster to run for Kansas Governor in 2026"
+    },
+    {
+      "accessed": "2026-05-20",
+      "publisher": "Kansas City Star",
+      "claimsAnchored": [
+        "Reporting said Billings was removed from the Secretary of State candidate list after a running-mate dispute and legal opinion"
+      ],
+      "id": "s-kcstar-removed",
+      "tier": "secondary",
+      "url": "https://www.kansascity.com/news/politics-government/article311905084.html",
+      "title": "Doug Billings removed from Kansas governor's candidate list"
+    }
+  ],
+  "issues": [
+    {
+      "id": "i-ballot-status",
+      "title": "Ballot / filing status",
+      "stated": {
+        "text": "Billings has campaign and KPDC account evidence connected to the 2026 governor race, but reporting says he was removed from the Secretary of State candidate list after a running-mate dispute. Treat final ballot status as unresolved until the final SOS list is checked.",
+        "sourceIds": [
+          "s-kpdc-statewide",
+          "s-kcstar-removed"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-kpdc-account",
+          "date": "2026-05-20",
+          "body": "KPDC lists Billings under gubernatorial candidates and links a 202601 finance report.",
+          "sourceIds": [
+            "s-kpdc-statewide"
+          ]
+        },
+        {
+          "id": "a-reported-removal",
+          "date": "2026-05-20",
+          "body": "The Kansas City Star reported Billings was removed from the Secretary of State candidate list after a running-mate dispute and legal opinion.",
+          "sourceIds": [
+            "s-kcstar-removed"
+          ]
+        }
+      ],
+      "socialSignals": [],
+      "gap": {
+        "summary": "Campaign/KPDC-account evidence and reported SOS-list status point in different directions; this is a ballot-status conflict, not a policy inference.",
+        "evidenceIds": [
+          "a-kpdc-account",
+          "a-reported-removal"
+        ]
+      }
+    },
+    {
+      "id": "i-campaign-platform",
+      "title": "Where they stand on big issues",
+      "stated": {
+        "text": "Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.",
+        "sourceIds": [
+          "s-campaign-home",
+          "s-kctv-filed"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-campaign-platform",
+          "date": "2026-05-20",
+          "body": "The campaign site and launch reporting published candidate-controlled or candidate-attributed platform themes.",
+          "sourceIds": [
+            "s-campaign-home",
+            "s-kctv-filed"
+          ]
+        }
+      ],
+      "socialSignals": []
+    },
+    {
+      "id": "i-donor-funding",
+      "title": "Donor / funding information",
+      "stated": {
+        "text": "KPDC records provide a finance-report path for Billings, and reporting separately describes disputed accusations about a contribution; the candidate denied wrongdoing.",
+        "sourceIds": [
+          "s-kpdc-statewide",
+          "s-kcstar-removed"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-finance-report",
+          "date": "2026-05-20",
+          "body": "Audit extraction from KPDC 202601 recorded receipts, expenditures, and negative cash-on-hand figures for Billings.",
+          "sourceIds": [
+            "s-kpdc-statewide"
+          ]
+        },
+        {
+          "id": "a-finance-allegation-reporting",
+          "date": "2026-05-20",
+          "body": "The Kansas City Star reported allegations involving a $2,700 contribution and said Billings denied wrongdoing.",
+          "sourceIds": [
+            "s-kcstar-removed"
+          ]
+        }
+      ],
+      "socialSignals": []
+    }
+  ],
+  "campaign_finance": {
+    "totalRaised": "$9,337.09",
+    "narrative": "KPDC 202601 extraction in the audit recorded $9,337.09 receipts, $13,208.88 expenditures, and negative $3,245.30 cash on hand. Reporting also raised disputed allegations around a $2,700 contribution; Billings denied wrongdoing.",
+    "donors": [],
+    "reportingPeriod": "KPDC 202601 / 2025 reporting period",
+    "source": "KPDC statewide index and 202601 report extraction"
+  },
+  "editorial_notes": [
+    "Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.",
+    "Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.",
+    "Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication."
+  ]
+}

@@ -10,8 +10,8 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
   "slug": "cathy-hopkins",
   "name": "Cathy Hopkins",
   "party": "R",
-  "position": "Kansas State Board of Education District 5 member/chair",
-  "electionSlug": "sboe-district-5",
+  "position": "Current Kansas State Board of Education District 5 member/chair; not confirmed filed for 2026",
+  "electionSlug": "sboe-district-5-current",
   "incumbent": true,
   "occupation": "Kansas State Board of Education District 5 member/chair",
   "issues": [
@@ -432,6 +432,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
     "reportingPeriod": "No Hopkins 2026 report found; historical 2022 State Board campaign reports reviewed",
     "source": "Kansas State Board of Education Odd Numbered Districts 2026 Election Cycle"
   },
+  "socialResearchNote": "Hopkins remains a current-officeholder profile. The 2026 SBOE District 5 election page now uses the KPDC District 5 campaign-account records for Michelle Cunningham and Lorie Wood instead of treating Hopkins as the only 2026 candidate.",
   "sources": [
     {
       "id": "s-ksde-state-board",

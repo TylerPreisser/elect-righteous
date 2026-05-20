@@ -1,0 +1,167 @@
+/* Auto-normalized with issue-mapped social/online cross-reference signals.
+ * To refresh:
+ *   node scripts/hydrate-v2-social-signals.mjs
+ */
+
+import type { CandidateFullV2 } from "@/data/types-v2";
+import { validateCandidateV2 } from "@/data/types-v2";
+
+export const SHARILYN_RAY_V2: CandidateFullV2 = {
+  "slug": "sharilyn-ray",
+  "name": "Sharilyn Ray",
+  "party": "NP",
+  "position": "Kansas Governor campaign-finance account holder",
+  "electionSlug": "kansas-governor-2026",
+  "incumbent": false,
+  "occupation": "Governor candidate / campaign-finance account holder",
+  "issues": [
+    {
+      "id": "i-ballot-status",
+      "title": "Ballot / filing status",
+      "stated": {
+        "text": "KPDC lists Sharilyn Ray under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+        "sourceIds": [
+          "s-kpdc-statewide",
+          "s-kpdc-at"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-record-appearance",
+          "date": "2026-05-20",
+          "body": "Sharilyn Ray was identified in the reviewed official or campaign-finance source for Kansas Governor campaign-finance account holder.",
+          "sourceIds": [
+            "s-kpdc-statewide",
+            "s-kpdc-at"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-crossref-1",
+          "platform": "Public web",
+          "observation": "Ballot / filing status: KPDC lists Sharilyn Ray under gubernatorial candidates; this pass did not verify a current Secretary-of-State filing-row entry or candidate-controlled platform.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-kpdc-statewide"
+          ],
+          "mappedToIssueId": "i-ballot-status"
+        }
+      ]
+    },
+    {
+      "id": "i-public-issue-record",
+      "title": "Where they stand on big issues",
+      "stated": {
+        "text": "No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+        "sourceIds": [
+          "s-kpdc-statewide",
+          "s-kpdc-at"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-platform-gap",
+          "date": "2026-05-20",
+          "body": "The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.",
+          "sourceIds": [
+            "s-kpdc-statewide",
+            "s-kpdc-at"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-crossref-1",
+          "platform": "Public web",
+          "observation": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-kpdc-statewide"
+          ],
+          "mappedToIssueId": "i-public-issue-record"
+        }
+      ]
+    },
+    {
+      "id": "i-donor-funding",
+      "title": "Donor / funding information",
+      "stated": {
+        "text": "KPDC links a 202601 receipts-and-expenditures report for Ray.",
+        "sourceIds": [
+          "s-kpdc-statewide",
+          "s-kpdc-202601"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-finance-record",
+          "date": "2026-05-20",
+          "body": "Audit extraction recorded $7,720.72 receipts and $100.00 cash on hand.",
+          "sourceIds": [
+            "s-kpdc-statewide",
+            "s-kpdc-202601"
+          ]
+        }
+      ],
+      "socialSignals": []
+    }
+  ],
+  "whoTheyAre": "Sharilyn Ray appears in KPDC's 2026 statewide campaign-finance index under gubernatorial candidates. Party and final ballot status were not confirmed in the reviewed filing mirror.",
+  "recordSummary": "This profile preserves the campaign-finance account in the site roster while clearly limiting claims to the records found.",
+  "campaignFinance": {
+    "totalRaised": "$7,720.72",
+    "narrative": "KPDC 202601 extraction in the audit recorded $7,720.72 receipts, $7,620.72 expenditures, and $100.00 cash on hand.",
+    "donors": [],
+    "reportingPeriod": "KPDC 202601 / 2025 reporting period",
+    "source": "KPDC Sharilyn Ray 202601 report"
+  },
+  "socialResearchNote": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.",
+  "sources": [
+    {
+      "id": "s-kpdc-statewide",
+      "tier": "primary",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "title": "Kansas State Wide Office - 2026 Election Cycle",
+      "publisher": "Kansas Governmental Ethics Commission / KPDC",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "KPDC index lists Ray, Sharilyn under gubernatorial candidates",
+        "KPDC links a 202601 report for Ray"
+      ]
+    },
+    {
+      "id": "s-kpdc-at",
+      "tier": "primary",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01SRay_AT.pdf",
+      "title": "Sharilyn Ray Appointment of Treasurer",
+      "publisher": "Kansas Governmental Ethics Commission / KPDC",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Appointment-of-treasurer report identifies Governor as the office sought"
+      ]
+    },
+    {
+      "id": "s-kpdc-202601",
+      "tier": "primary",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW01SRay_202601.pdf",
+      "title": "Sharilyn Ray 2026 Receipts and Expenditures",
+      "publisher": "Kansas Governmental Ethics Commission / KPDC",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Report provides Ray's 2025 receipts, expenditures, and cash-on-hand figures for the 2026 cycle"
+      ]
+    }
+  ]
+};
+
+if (process.env.NODE_ENV !== "production") {
+  const result = validateCandidateV2(SHARILYN_RAY_V2);
+  if (!result.ok) {
+    // eslint-disable-next-line no-console
+    console.error(
+      "[sharilyn-ray.ts] validateCandidateV2 FAILED:\n" +
+        result.errors.join("\n"),
+    );
+  }
+}

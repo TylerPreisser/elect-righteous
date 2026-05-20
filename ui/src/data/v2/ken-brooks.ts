@@ -10,7 +10,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
   "slug": "ken-brooks",
   "name": "Ken Brooks",
   "party": "NP",
-  "position": "USD 489 Board President",
+  "position": "USD 489 Board Member",
   "electionSlug": "usd-489-current",
   "incumbent": true,
   "occupation": "Loss-control safety specialist at Insurance Planning, Inc. (Hays / Great Bend / Russell); LinkedIn credentials list CSP (Certified Safety Professional) and CFPS (Certified Fire Protection Specialist); approximately 18 years tenure as of 2025",

@@ -3,10 +3,13 @@ import "./globals.css";
 import SiteHeader from "@/components/layout/site-header";
 import SiteFooter from "@/components/layout/site-footer";
 import BuiltByBadge from "@/components/ui/built-by-badge";
+import { ELECTIONS } from "@/data/elections";
+import { V2_CANDIDATES } from "@/data/v2";
 
 const basePath = process.env.NODE_ENV === "production" ? "/elect-righteous" : "";
-const siteUrl = "https://tpreisser.github.io";
+const siteUrl = "https://tylerpreisser.github.io";
 const previewImage = `${basePath}/og-image-v3.png`;
+const siteDescription = `Comprehensive, source-cited research on every candidate and officeholder relevant to Hays, Kansas. ${V2_CANDIDATES.length} profiles, ${ELECTIONS.length} races, and public-source trails.`;
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -15,8 +18,7 @@ export const metadata: Metadata = {
     default: "Elect Righteous | Know Your Candidates. Vote Your Values.",
     template: "%s | Elect Righteous",
   },
-  description:
-    "Comprehensive, source-cited research on every candidate and officeholder relevant to Hays, Kansas. 56 profiles, 14 races, and public-source trails.",
+  description: siteDescription,
   keywords: [
     "Hays Kansas elections",
     "2026 Kansas candidates",
@@ -42,8 +44,7 @@ export const metadata: Metadata = {
   manifest: `${basePath}/site.webmanifest`,
   openGraph: {
     title: "Elect Righteous | Know Your Candidates. Vote Your Values.",
-    description:
-      "Comprehensive, source-cited research on every candidate and officeholder relevant to Hays, Kansas. 56 profiles, 14 races, and public-source trails.",
+    description: siteDescription,
     url: `${basePath}/`,
     type: "website",
     siteName: "Elect Righteous",

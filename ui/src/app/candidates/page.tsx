@@ -90,9 +90,9 @@ export default function CandidatesPage() {
                 className="text-base leading-relaxed"
                 style={{ color: "rgba(246,246,246,0.80)" }}
               >
-                56 officials and candidates researched — backgrounds, voting
-                records, church ties, campaign finance, and source-backed
-                reporting in plain English.
+                {V2_CANDIDATES.length} officials and candidates researched —
+                backgrounds, voting records, church ties, campaign finance, and
+                source-backed reporting in plain English.
               </p>
             </div>
           </Container>

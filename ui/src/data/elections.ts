@@ -25,22 +25,26 @@ export const ELECTIONS: Election[] = [
     jurisdiction: "State of Kansas",
     seats: 1,
     status: "Incumbent Running",
-    candidateCount: 9,
+    candidateCount: 13,
     candidateSlugs: [
       "roger-marshall",
+      "damon-anderson",
       "jason-hart",
+      "kevin-latz",
       "patrick-schmidt",
       "christy-cauble-davis",
       "sandy-spidel-neumann",
       "erik-murray",
       "anne-parelkar",
       "michael-soetaert",
+      "noah-taylor",
+      "adam-hamilton",
       "chase-laporte",
     ],
     description:
-      "Roger Marshall faces a crowded field of Democratic challengers plus a Republican primary challenger in one of Kansas's highest-profile races.",
+      "Roger Marshall faces a crowded field of Democratic challengers plus Republican-side filing activity in one of Kansas's highest-profile races.",
     plainEnglish:
-      "Kansas gets only two U.S. senators, and this seat is on the ballot in November 2026. Incumbent Roger Marshall is running again, while Democrats have built an unusually large field of challengers and Chase LaPorte has filed on the Republican side.",
+      "Kansas gets only two U.S. senators, and this seat is on the ballot in November 2026. Incumbent Roger Marshall is running again, while Democratic challengers now include Damon Anderson, Jason Hart, Kevin Latz, Patrick Schmidt, Christy Cauble Davis, Sandy Spidel Neumann, Erik Murray, Anne Parelkar, Michael Soetaert, Noah Taylor, and Adam Hamilton. Chase LaPorte remains flagged because federal filing evidence exists, but his profile notes conflicting House/Senate records that require final-list recheck.",
     whyItMatters:
       "U.S. senators vote on judges, war powers, federal spending, farm policy, healthcare, and the national laws that affect Kansas every day. This race shapes who speaks for the entire state in Washington.",
     jobDescription:
@@ -54,17 +58,18 @@ export const ELECTIONS: Election[] = [
     jurisdiction: "Kansas 1st Congressional District",
     seats: 1,
     status: "Incumbent Running",
-    candidateCount: 4,
+    candidateCount: 5,
     candidateSlugs: [
       "tracey-mann",
       "colin-mcroberts",
       "lauren-reinhold",
       "craig-musser",
+      "steven-jacob",
     ],
     description:
-      "Tracey Mann is seeking another term in the Big First, with Democratic and independent challengers already in the field.",
+      "Tracey Mann is seeking another term in the Big First, with Democratic, independent, and Libertarian challengers already in the field.",
     plainEnglish:
-      "If you live in Hays, this is your U.S. House race. Tracey Mann is the incumbent, and Colin McRoberts, Lauren Reinhold, and Craig Musser have all entered the contest to represent western and central Kansas.",
+      "If you live in Hays, this is your U.S. House race. Tracey Mann is the incumbent, and Colin McRoberts, Lauren Reinhold, Craig Musser, and Steven Robert Jacob have all appeared in the contest to represent western and central Kansas.",
     whyItMatters:
       "The KS-01 member of Congress becomes the main federal voice for agriculture, water, roads, trade, and rural infrastructure across a huge stretch of Kansas.",
     jobDescription:
@@ -78,7 +83,7 @@ export const ELECTIONS: Election[] = [
     jurisdiction: "State of Kansas",
     seats: 1,
     status: "Open Seat",
-    candidateCount: 11,
+    candidateCount: 15,
     candidateSlugs: [
       "scott-schwab",
       "vicki-schmidt",
@@ -87,15 +92,19 @@ export const ELECTIONS: Election[] = [
       "philip-sarnecki",
       "charlotte-ohara",
       "stacy-rogers",
+      "brandon-adams",
+      "doug-billings",
       "joy-eakins",
       "ethan-corson",
       "cindy-holscher",
+      "mark-lane",
       "marty-tuley",
+      "sharilyn-ray",
     ],
     description:
-      "With Laura Kelly term-limited, both parties are building large fields for one of the most important open-seat races in Kansas politics.",
+      "With Laura Kelly term-limited, both parties and multiple campaign-account holders are building a large field for one of the most important open-seat races in Kansas politics.",
     plainEnglish:
-      "Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. Republicans already have a crowded primary, Democrats have multiple contenders, and the winner will control the executive branch in Topeka.",
+      "Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.",
     whyItMatters:
       "The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.",
     jobDescription:
@@ -140,6 +149,25 @@ export const ELECTIONS: Election[] = [
       "The secretary of state runs elections in Kansas. They decide the rules for voter registration, manage candidate filings, oversee how ballots are counted, and handle business registrations for every company in the state. When there's a question about whether your vote counted or whether an election was fair, this is the office in charge.",
   },
   {
+    slug: "kansas-treasurer-2026",
+    name: "Kansas State Treasurer",
+    level: "State",
+    date: "2026-11-03",
+    jurisdiction: "State of Kansas",
+    seats: 1,
+    status: "Incumbent Running",
+    candidateCount: 2,
+    candidateSlugs: ["steven-johnson", "eric-lund"],
+    description:
+      "Steven Johnson is listed as a filed Republican candidate for state treasurer, and Eric Lund appears in the KPDC statewide campaign-finance index for the treasurer race.",
+    plainEnglish:
+      "The treasurer race was missing from the site. It now includes the confirmed statewide filing row for incumbent Steven Johnson and the KPDC account record for Eric Lund, with final ballot status still subject to official post-deadline verification.",
+    whyItMatters:
+      "The state treasurer oversees state cash management, debt, public deposits, unclaimed property, and college-savings programs that affect Kansas taxpayers and families.",
+    jobDescription:
+      "The Kansas State Treasurer manages the state's money functions: cash management, public deposits, debt-related work, unclaimed property, and several public savings programs. The office is less flashy than governor or attorney general, but it affects how public funds are handled and how Kansans recover property or use state-backed savings programs.",
+  },
+  {
     slug: "kansas-insurance-2026",
     name: "Kansas Insurance Commissioner",
     level: "State",
@@ -147,12 +175,12 @@ export const ELECTIONS: Election[] = [
     jurisdiction: "State of Kansas",
     seats: 1,
     status: "Open Seat",
-    candidateCount: 2,
-    candidateSlugs: ["daniel-hawkins", "dinah-sykes"],
+    candidateCount: 3,
+    candidateSlugs: ["daniel-hawkins", "dinah-sykes", "ric-koehn"],
     description:
-      "The open-seat insurance commissioner race currently pits Daniel Hawkins against Dinah Sykes.",
+      "The open-seat insurance commissioner race currently includes Daniel Hawkins and Dinah Sykes in filing rows, plus Ric Koehn in KPDC campaign-finance records.",
     plainEnglish:
-      "Kansas elects its insurance commissioner, and this office touches rates, claims, consumer complaints, and company oversight. Daniel Hawkins and Dinah Sykes are the two main candidates on the site right now.",
+      "Kansas elects its insurance commissioner, and this office touches rates, claims, consumer complaints, and company oversight. Daniel Hawkins and Dinah Sykes are confirmed in the statewide filing mirror; Ric Koehn is included from the KPDC account index until final ballot records are rechecked.",
     whyItMatters:
       "Insurance decisions affect what Kansans pay for health, auto, crop, and home coverage, and whether regulators push back when companies fail consumers.",
     jobDescription:
@@ -184,13 +212,13 @@ export const ELECTIONS: Election[] = [
     date: "2026-11-03",
     jurisdiction: "Kansas State Board of Education District 5",
     seats: 1,
-    status: "Incumbent Running",
-    candidateCount: 1,
-    candidateSlugs: ["cathy-hopkins"],
+    status: "N/A",
+    candidateCount: 2,
+    candidateSlugs: ["michelle-cunningham", "lorie-wood"],
     description:
-      "District 5 covers western Kansas, including Ellis County, and the seat is back on the ballot in 2026. Cathy Hopkins is the current District 5 member and State Board chair.",
+      "District 5 covers western Kansas, including Ellis County. The KPDC 2026 odd-district index currently lists Michelle Cunningham and Lorie Wood for District 5; current officeholder Cathy Hopkins remains profiled separately but is not treated as the only 2026 candidate.",
     plainEnglish:
-      "The State Board of Education helps decide statewide standards, curriculum fights, accreditation, and major school policy. District 5 includes Hays and much of western Kansas, and Cathy Hopkins is the current officeholder on the site while the 2026 filing field continues to develop.",
+      "The State Board of Education helps decide statewide standards, curriculum fights, accreditation, and major school policy. District 5 includes Hays and much of western Kansas. The site now separates current-officeholder context from the KPDC 2026 account records so the race is not missing Cunningham and Wood.",
     whyItMatters:
       "Board members influence what schools teach, how districts are judged, and what statewide education debates look like for years to come.",
     jobDescription:
@@ -228,21 +256,20 @@ export const ELECTIONS: Election[] = [
     level: "Local",
     date: "2026-11-03",
     jurisdiction: "Ellis County, Kansas",
-    seats: 2,
+    seats: 1,
     status: "Incumbent Running",
-    candidateCount: 2,
+    candidateCount: 1,
     candidateSlugs: [
-      "nathan-leiker",
       "michael-berges",
     ],
     description:
-      "Two Ellis County Commission seats are on the November 2026 ballot: District 1 (Michael Berges) and District 3 (Nathan Leiker), both first elected in 2022 and now completing their four-year terms.",
+      "The current Ellis County 2026 candidate filing PDF lists Commission District 1 with Michael Berges. Nathan Leiker is a current District 3 commissioner but is not listed in that 2026 filing PDF.",
     plainEnglish:
-      "Ellis County elects its commissioners to four-year terms. Commissioners from Districts 1 and 3 were both first elected in 2022, which means their terms expire after November 2026. Michael Berges (District 1, covering part of Hays and the northwest county) and Nathan Leiker (District 3, covering the eastern county) are the two incumbents whose seats are on this ballot.",
+      "Ellis County's current 2026 filing PDF shows Michael Berges for Commission District 1. Leiker stays on the site as a current county commissioner profile, but he is no longer shown as a 2026 ballot candidate unless the county filing list changes.",
     whyItMatters:
-      "County commissioners set the county budget, approve road projects, decide on jail funding and mental health services, and make the land-use decisions that shape Ellis County for years. These two seats represent the majority of Ellis County's geography and population.",
+      "County commissioners set the county budget, approve road projects, decide on jail funding and mental health services, and make land-use decisions that shape Ellis County for years.",
     jobDescription:
-      "Ellis County commissioners are the three-person board that runs county government. They set property tax mill levies, approve the county budget, vote on zoning and road projects, oversee the jail and mental health programs, and hire key county staff. District 1 covers part of Hays and the northwest corner of the county. District 3 is the largest district by land area, covering the entire eastern side of Ellis County. Commissioners serve four-year terms.",
+      "Ellis County commissioners are the three-person board that runs county government. They set property tax mill levies, approve the county budget, vote on zoning and road projects, oversee the jail and mental health programs, and hire key county staff. District 1 covers part of Hays and the northwest corner of the county. Commissioners serve four-year terms.",
   },
   {
     slug: "ellis-county-incumbents-off-cycle",
@@ -250,10 +277,11 @@ export const ELECTIONS: Election[] = [
     level: "Local",
     date: "2028-11-07",
     jurisdiction: "Ellis County, Kansas",
-    seats: 6,
+    seats: 7,
     status: "N/A",
-    candidateCount: 6,
+    candidateCount: 7,
     candidateSlugs: [
+      "nathan-leiker",
       "scott-braun",
       "aaron-cunningham",
       "bobbi-dreiling",
@@ -262,9 +290,9 @@ export const ELECTIONS: Election[] = [
       "vernon-ruder-jr",
     ],
     description:
-      "These six Ellis County officeholders were elected or re-elected in November 2024. Their current four-year terms run through early 2029. None of these seats appear on the 2026 ballot — the next opportunity to vote on them is November 2028.",
+      "These Ellis County officeholders are current county officials not shown on the current 2026 county filing PDF. Nathan Leiker is grouped here as a current District 3 commissioner until official county filing records show otherwise.",
     plainEnglish:
-      "Not every county office is on the ballot every two years. Sheriff Scott Braun, County Attorney Aaron Cunningham, County Clerk Bobbi Dreiling, Commissioner Neal Younger (District 2), Register of Deeds Rebecca Herzog, and Treasurer Vernon Ruder Jr. all won or retained their seats in November 2024. Their terms run through the start of 2029. This page profiles who they are and what they do, so voters understand the full county government even in years when these seats are not up for a vote.",
+      "Not every county office is on the ballot every two years. This page profiles the current county officials who matter to Ellis County voters even when they are not on the current 2026 filing list: Nathan Leiker, Sheriff Scott Braun, County Attorney Aaron Cunningham, County Clerk Bobbi Dreiling, Commissioner Neal Younger, Register of Deeds Rebecca Herzog, and Treasurer Vernon Ruder Jr.",
     whyItMatters:
       "The people running county law enforcement, elections, property records, and tax collection are in office right now and making decisions that affect you, even though you will not vote on them again until 2028. Knowing who holds these positions — and what they have done — keeps voters informed year-round, not just on Election Day.",
     jobDescription:

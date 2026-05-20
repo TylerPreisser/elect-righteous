@@ -4,14 +4,40 @@
 > self to `agents_done` on release. Main thread reconciles.
 
 phase: 2
-phase_status: all_candidates_v2_rendered_local_qa_green_pending_public_deploy
-wave: all-candidate-hydration
-last_updated: 2026-05-19T21:30:02Z
+phase_status: candidate_completeness_audit_complete_pending_validation_and_public_deploy
+wave: completeness-audit
+last_updated: 2026-05-20T00:00:00Z
 
 ## In flight
 # none
 
 ## Done
+- agent: codex
+  task: Candidate completeness audit and missing-profile expansion
+  completed: 2026-05-20T00:00:00Z
+  output: memory/orchestration/candidate-completeness-audit-2026-05-20.md
+  summary: |
+    Separate roster audit found the previous v2 set was not complete.
+    Added 14 individual candidate profile artifact sets and compiled v2
+    TypeScript profiles: Damon Anderson, Kevin Latz, Noah Taylor, Adam
+    Hamilton, Steven Robert Jacob, Steven Johnson, Eric Lund, Brandon Adams,
+    Doug Billings, Mark Lane, Sharilyn Ray, Ric Koehn, Michelle Cunningham,
+    and Lorie Wood.
+
+    Corrected election groupings:
+    - U.S. Senate now includes the newly found federal names.
+    - KS-01 House now includes Steven Robert Jacob.
+    - Kansas State Treasurer race added.
+    - Kansas Governor and Insurance include KPDC campaign-account records with
+      final-ballot caveats.
+    - SBOE District 5 now uses Michelle Cunningham and Lorie Wood for the 2026
+      race; Cathy Hopkins remains current-officeholder-only/not confirmed filed.
+    - Ellis County 2026 ballot now lists Michael Berges only; Nathan Leiker is
+      grouped with current/off-cycle county officials.
+
+    Remaining caveat: rerun after the Kansas filing deadline/final official
+    lists because KPDC accounts are not identical to certified ballot status.
+
 - agent: codex
   task: Phase 2 all-candidate deepening checkpoint 4
   completed: 2026-05-19T21:30:02Z

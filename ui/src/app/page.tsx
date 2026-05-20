@@ -21,7 +21,7 @@ const HOW_IT_WORKS: HowItWorksItem[] = [
     icon: <Globe size={32} strokeWidth={1.5} />,
     title: "Multi-Layer Source Collection",
     description:
-      "The working archive already spans 54 candidate research files, 25 long-form reports, more than 154,000 lines of consolidated candidate research, and 15,700+ captured source URLs. We pull from campaign sites, government filings, court records, local reporting, social media, meeting records, archived web pages, and finance databases.",
+      "The working archive already spans 70 candidate research folders, 31 long-form reports, more than 240,000 lines of consolidated candidate research, and 34,000+ captured source URLs. We pull from campaign sites, government filings, court records, local reporting, social media, meeting records, archived web pages, and finance databases.",
   },
   {
     icon: <ShieldCheck size={32} strokeWidth={1.5} />,
@@ -54,7 +54,7 @@ const CATEGORIES = [
     hash: "state",
     icon: <Building2 size={28} strokeWidth={1.5} />,
     color: "var(--color-teal-dark)",
-    description: "Governor, AG, Secretary of State, Insurance Commissioner, House 111, State Board of Education",
+    description: "Governor, AG, Secretary of State, Treasurer, Insurance Commissioner, House 111, State Board of Education",
   },
   {
     label: "Ballot Measures",

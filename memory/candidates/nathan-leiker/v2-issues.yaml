@@ -600,7 +600,8 @@ issues:
 candidate_metadata:
   office: "Ellis County Commissioner, District 3"
   party: "Republican"
-  electionSlug: "ellis-county-2026-ballot"
+  position: "Current Ellis County Commissioner, District 3; not listed in the current 2026 county filing PDF"
+  electionSlug: "ellis-county-incumbents-off-cycle"
   incumbent: true
   current_role: "Ellis County Commissioner; commission vice-chair in 2026"
   occupation: "Vice President, L5 Farms Inc.; farmer / rancher"
@@ -608,6 +609,7 @@ candidate_metadata:
     - "Thomas More Prep-Marian graduate, 2004, per prior dossier material"
     - "Agriculture profile tied to L5 Farms, Kansas Hereford, and Ellis County rural institutions"
     - "Won the 2022 Republican primary for District 3; no 2024 reelection should be asserted"
+    - "Current 2026 Ellis County candidate filing PDF lists Commission District 1 / Michael Berges only; Leiker remains a current-officeholder profile unless the county filing PDF changes."
   whereTheyWorship: |
     No confirmed current church affiliation surfaced in public sources. Prior
     research points strongly to Catholic background through TMP-Marian and

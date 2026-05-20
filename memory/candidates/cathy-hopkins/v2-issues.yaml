@@ -598,3 +598,13 @@ could_not_confirm:
   - "Hopkins has verified candidate-controlled Facebook, X, Instagram, LinkedIn, TikTok, YouTube, Reddit, or Bluesky accounts with public post metrics."
   - "Official primary-source minutes for the 2025 assessment/cut-score vote."
   - "Any current 2026 endorsement list for Hopkins."
+
+candidate_metadata:
+  slug: cathy-hopkins
+  name: Cathy Hopkins
+  party: Republican
+  position: "Current Kansas State Board of Education District 5 member/chair; not confirmed filed for 2026"
+  electionSlug: sboe-district-5-current
+  incumbent: true
+  occupation: "Kansas State Board of Education District 5 member/chair"
+  social_presence_note: "Hopkins remains a current-officeholder profile. The 2026 SBOE District 5 election page now uses the KPDC District 5 campaign-account records for Michelle Cunningham and Lorie Wood instead of treating Hopkins as the only 2026 candidate."

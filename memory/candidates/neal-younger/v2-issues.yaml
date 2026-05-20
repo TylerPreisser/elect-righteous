@@ -9,7 +9,8 @@ candidate:
   office: "Ellis County Commissioner, District 2"
   jurisdiction: "Ellis County, Kansas"
   incumbent: true
-  electionSlug: "ellis-county-current"
+  position: "Ellis County Commissioner, District 2; current officeholder not on the 2026 county filing PDF"
+  electionSlug: "ellis-county-incumbents-off-cycle"
   currentStatus: "current_officeholder"
   ballotStatus: "not_found_as_2026_ballot_candidate_in_this_pass"
   officialProfileUrl: "https://www.ellisco.net/120/County-Commission"
