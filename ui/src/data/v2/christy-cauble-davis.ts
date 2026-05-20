@@ -22,7 +22,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -32,7 +32,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -42,7 +42,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -63,7 +63,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -73,7 +73,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -83,7 +83,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -114,7 +114,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -124,7 +124,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -134,7 +134,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -155,7 +155,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-kcur-guide",
           "s-campaign-launch",
@@ -198,7 +198,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025) Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-kcur-guide"
         ]
@@ -230,7 +230,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -251,7 +251,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-kcur-guide",
           "s-campaign-launch",
@@ -324,16 +324,16 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Christy Cauble Davis is profiled here for U.S. Senate, Kansas as a Democratic. Candidate information: https://www.sos.ks.gov/elections/candidate-information.html. Important election dates: https://sos.ks.gov/elections/important-election-dates.html. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 5 source-backed actions across 3 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates. Election integrity / voting / courts: https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u. Public safety / law enforcement / criminal justice: KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025). Local governance / transparency / ethics: KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "ownWordsNarrative": "platforms_checked: Campaign website; Bluesky; Facebook; Instagram; X/Twitter; LinkedIn from local harvest; YouTube from local harvest; Truth Social/Gab/Gettr/Substack/Reddit/TikTok from local harvest; summary: The public Bluesky profile is the only platform with post text and engagement accessible during this pass. Facebook, Instagram, and X/Twitter are presence-only from logged-out capture unless a later browser-authenticated harvest captures post text. Bluesky API showed 46 posts on 2026-05-19, one more than the May 11 local harvest.; sourceIds: s-campaign-home; s-bluesky-profile; s-bluesky-fundraising-20260512",
+  "whoTheyAre": "Christy Cauble Davis is profiled here for U.S. Senate, Kansas as a Democratic. Candidate information: https://www.sos.ks.gov/elections/candidate-information.html. Important election dates: https://sos.ks.gov/elections/important-election-dates.html. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 5 source-backed items across 3 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates. Election integrity / voting / courts: https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u. Public safety / law enforcement / criminal justice: KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025). Local governance / transparency / ethics: KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates. Social-only material is listed separately as online observation, not official action.",
+  "ownWordsNarrative": "[object Object]",
   "whereTheyWorship": "Faith/religion online relevance: Hays Post reported Davis saying she attended church three times a week growing up, publicly identifying with Christianity, and describing a church experience she objected to. This is attributable public speech, but it should n... Hays Post reports Davis publicly identified with Christianity and described a church experience she objected to. Public sources reviewed did not identify a current church affiliation. Hays Post reported that Davis said she attended church three times a week growing up and publicly identified with Christianity. This is recorded only as attributable public speech and shou... This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "$137,068.03",
@@ -343,7 +343,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-07-01 to 2026-03-31",
     "source": "CHRISTY DAVIS FOR KANSAS 2026 - committee overview"
   },
-  "socialResearchNote": "11 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "11 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-fec-candidate",
@@ -417,21 +417,20 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Campaign says Davis is a fifth-generation Kansan",
-        "Campaign lists local control, infrastructure, affordable housing, broadband, strong schools, clean water, hospitals, Social Security, Medicare, Medicaid, public education, farmers, small businesses, immigration reform, voting rights, and transparency",
+        "Campaign lists local control, infrastructure, affordable housing, broadband, strong schools, clean water, hospitals, Social Security, Medicare, Medicaid, public education, farmers, small businesses, immigration reform,...",
         "Campaign footer says paid for by Christy Davis for Kansas, Jose Lara, Treasurer",
         "Campaign website links Instagram, Facebook, X/Twitter, and Bluesky",
-        "Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address heal",
-        "Campaign Website: [christydavisforkansas.com](https://www.christydavisforkansas.com/)",
-        "[Campaign Website](https://www.christydavisforkansas.com/)",
-        "Website: [christydavisforkansas.com](https://www.christydavisforkansas.com/)",
-        "\"It's time for Kansas to have a Senator who shows up.\" - campaign launch, 2025, https://www.christydavisforkansas.com/ (campaign slogan)",
-        "\"Rooted in Kansas. Ready to Rebuild.\" - campaign site, n.d., https://www.christydavisforkansas.com/ (campaign slogan)",
-        "\"Rooted in Kansas. Ready to Rebuild.\" - campaign site, n.d., https://www.christydavisforkansas.com/",
+        "Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water polic...",
+        "Campaign Website: christydavisforkansas.com",
+        "Website: christydavisforkansas.com",
+        "It's time for Kansas to have a Senator who shows up. - campaign launch, 2025, https://www.christydavisforkansas.com/ (campaign slogan)",
+        "Rooted in Kansas. Ready to Rebuild. - campaign site, n.d., https://www.christydavisforkansas.com/ (campaign slogan)",
+        "Rooted in Kansas. Ready to Rebuild. - campaign site, n.d., https://www.christydavisforkansas.com/",
         "> -- Christy Davis campaign website, accessed April 1, 2026, https://www.christydavisforkansas.com/",
-        "[Christy Davis for Kansas](https://www.christydavisforkansas.com/)",
-        "[Christy Davis: christydavisforkansas.com](https://www.christydavisforkansas.com/)",
-        "[Christy Cauble Davis - christydavisforkansas.com](https://www.christydavisforkansas.com/)",
-        "\"campaignWebsite\": \"https://www.christydavisforkansas.com/\",",
+        "Christy Davis for Kansas",
+        "Christy Davis: christydavisforkansas.com",
+        "Christy Cauble Davis - christydavisforkansas.com",
+        "\"campaignWebsite\": \"https://www.christydavisforkansas.com/\"",
         "Campaign homepage: https://www.christydavisforkansas.com/",
         "Campaign homepage — https://www.christydavisforkansas.com/ — primary/candidate-controlled — accessed 2026-05-19"
       ]
@@ -450,10 +449,10 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
         "Davis says Congress has power to fund programs and hold the Executive Branch to account",
         "https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u",
         "Campaign launch post — https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u — primary/candidate-controlled — accessed 2026-05-19",
-        "[christydavisforkansas.com](https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u)",
-        "\"It's time for Kansas to have a Senator who shows up.\" - campaign launch, 2025, https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u",
+        "christydavisforkansas.com",
+        "It's time for Kansas to have a Senator who shows up. - campaign launch, 2025, https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u",
         "> -- Christy Davis campaign launch, 2025, https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u",
-        "\"source\": \"Christy Davis campaign launch, 2025, https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u\","
+        "\"source\": \"Christy Davis campaign launch, 2025, https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u\""
       ]
     },
     {
@@ -467,8 +466,8 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
         "Display name is Christy Davis for Kansas",
         "Description says paid for by Christy Davis for Kansas, Jose Lara, Treasurer",
         "Public API returned 120 followers, 18 following, and 46 posts on 2026-05-19",
-        "Davis's accessible platform footprint is led by Bluesky, where the public API returned 45 posts, 120 followers, 18 following, and a July 27, 2025 account creation date as of the May 11, 2026 capture ([source](https://bsky.app/profile/cdavis4kansas.bsky.social)",
-        "Bluesky: [@cdavis4kansas.bsky.social](https://bsky.app/profile/cdavis4kansas.bsky.social) — 120 followers, 18 following, 45 posts — active; post text and engagement accessible through the public Bluesky API.",
+        "Davis's accessible platform footprint is led by Bluesky, where the public API returned 45 posts, 120 followers, 18 following, and a July 27, 2025 account creation date as of the May 11, 2026 capture (source",
+        "Bluesky: @cdavis4kansas.bsky.social — 120 followers, 18 following, 45 posts — active; post text and engagement accessible through the public Bluesky API.",
         "Bluesky: https://bsky.app/profile/cdavis4kansas.bsky.social",
         "Bluesky profile — https://bsky.app/profile/cdavis4kansas.bsky.social — social/candidate-controlled — accessed 2026-05-19"
       ]
@@ -482,8 +481,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Davis posted about voter ID, voter suppression, and protecting the right to vote on 2026-03-20",
-        "Across 45 Bluesky posts captured between August 17, 2025, and March 29, 2026, Davis's most frequent topic is federal accountability and opposition to named national political figures, a category that accounts for 16 posts, or 35.6 percent of the captured feed",
-        "\"url\": \"https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u\",",
+        "Across 45 Bluesky posts captured between August 17, 2025, and March 29, 2026, Davis's most frequent topic is federal accountability and opposition to named national political figures, a category that accounts for 16 pos...",
         "2026-03-20 post about voter ID and voter suppression: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u",
         "https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u",
         "Bluesky 2026-03-20 post — https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u — social/candidate-controlled — accessed 2026-05-19"
@@ -517,11 +515,11 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
         "KCUR reports campaign website language on immigration reform and due process",
         "KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
         "KCUR candidate guide — https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates — secondary — accessed 2026-05-19",
-        "[KCUR Candidate Guide (Dec 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
-        "[KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
+        "KCUR Candidate Guide (Dec 2025)",
+        "KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025)",
         "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates -- KCUR comprehensive candidate guide -- accessed 2026-03-30",
-        "[KCUR - 2026 Kansas Senate Candidates Guide](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
-        "[KCUR: Guide to candidates](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)"
+        "KCUR - 2026 Kansas Senate Candidates Guide",
+        "KCUR: Guide to candidates"
       ]
     },
     {
@@ -560,13 +558,13 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "publisher": "Emporiagazette",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Emporia Gazette - Campaign Announcement](https://www.emporiagazette.com/free/article_a62c2b8f-db73-4d78-b386-94bee4080a06.html)",
-        "[Emporia Gazette: Davis enters race](https://www.emporiagazette.com/free/article_a62c2b8f-db73-4d78-b386-94bee4080a06.html)",
-        "[Emporia Gazette - Christy Davis Announcement](https://www.emporiagazette.com/free/article_a62c2b8f-db73-4d78-b386-94bee4080a06.html)",
-        "\"Kansans are uniquely equipped to tackle national challenges.\" - Emporia Gazette, Aug. 19, 2025, https://www.emporiagazette.com/free/article_a62c2b8f-db73-4d78-b386-94bee4080a06.html (launch message)",
-        "\"Kansans are uniquely equipped to tackle national challenges.\" - Emporia Gazette, 2025-08-19, https://www.emporiagazette.com/free/article_a62c2b8f-db73-4d78-b386-94bee4080a06.html",
+        "Emporia Gazette - Campaign Announcement",
+        "Emporia Gazette: Davis enters race",
+        "Emporia Gazette - Christy Davis Announcement",
+        "Kansans are uniquely equipped to tackle national challenges. - Emporia Gazette, Aug. 19, 2025, https://www.emporiagazette.com/free/article_a62c2b8f-db73-4d78-b386-94bee4080a06.html (launch message)",
+        "Kansans are uniquely equipped to tackle national challenges. - Emporia Gazette, 2025-08-19, https://www.emporiagazette.com/free/article_a62c2b8f-db73-4d78-b386-94bee4080a06.html",
         "> -- Emporia Gazette, August 19, 2025, https://www.emporiagazette.com/free/article_a62c2b8f-db73-4d78-b386-94bee4080a06.html",
-        "\"source\": \"Emporia Gazette, August 19, 2025, https://www.emporiagazette.com/free/article_a62c2b8f-db73-4d78-b386-94bee4080a06.html\","
+        "\"source\": \"Emporia Gazette, August 19, 2025, https://www.emporiagazette.com/free/article_a62c2b8f-db73-4d78-b386-94bee4080a06.html\""
       ]
     },
     {
@@ -577,10 +575,10 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector - Campaign Profile (Aug 2025)](https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/)",
-        "[Christy Davis Profile (Aug 18, 2025)](https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/)",
-        "[Kansas Reflector: Democratic U.S. Senate candidate eager to broaden Kansas voice](https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/) (Aug 18, 2025)",
-        "[Kansas Reflector: Davis eager to broaden KS voice](https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/)"
+        "Kansas Reflector - Campaign Profile (Aug 2025)",
+        "Christy Davis Profile (Aug 18, 2025)",
+        "Kansas Reflector: Democratic U.S. Senate candidate eager to broaden Kansas voice (Aug 18, 2025)",
+        "Kansas Reflector: Davis eager to broaden KS voice"
       ]
     },
     {
@@ -591,7 +589,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "publisher": "Justfacts.Votesmart",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Vote Smart: Davis biography](https://justfacts.votesmart.org/candidate/biography/192415/christy-cauble-davis)"
+        "Vote Smart: Davis biography"
       ]
     },
     {
@@ -602,7 +600,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "For Kansas-specific engagement, Davis's feed emphasizes in-person stops, small-town businesses, veterans' events, local Democrats, and rural community identity. On November 30, she posted, \"Shop Small Saturday in Cottonwood Falls was a reminder of what makes K"
+        "For Kansas-specific engagement, Davis's feed emphasizes in-person stops, small-town businesses, veterans' events, local Democrats, and rural community identity. On November 30, she posted, \"Shop Small Saturday in Cotton..."
       ]
     },
     {
@@ -613,7 +611,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "The highest-engagement post by likes in the captured Bluesky set was a March 29 post from Wyandotte County, with 8 likes, 0 reposts, 1 reply, and 0 quotes as of the May 11, 2026 capture. It read, \"Kansans stood up today alongside millions across the country. I"
+        "The highest-engagement post by likes in the captured Bluesky set was a March 29 post from Wyandotte County, with 8 likes, 0 reposts, 1 reply, and 0 quotes as of the May 11, 2026 capture. It read, \"Kansans stood up today..."
       ]
     },
     {
@@ -624,7 +622,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "On national and foreign-policy issues, Davis's feed is narrower than her accountability and Kansas-event posting. The captured set contains one direct foreign-policy post, written after reported U.S. combat casualties in Iran: \"Today we mourn the lives lost in"
+        "On national and foreign-policy issues, Davis's feed is narrower than her accountability and Kansas-event posting. The captured set contains one direct foreign-policy post, written after reported U.S. combat casualties i..."
       ]
     },
     {
@@ -635,7 +633,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Davis's public alignment network is concentrated in Kansas Democratic events, Kansas political media, and a small set of issue-linked public figures. She posted from Washington Days, the Shawnee County Democrats' Bean Feed, a Harvey County Democrats meeting, t"
+        "Davis's public alignment network is concentrated in Kansas Democratic events, Kansas political media, and a small set of issue-linked public figures. She posted from Washington Days, the Shawnee County Democrats' Bean F..."
       ]
     },
     {
@@ -646,8 +644,8 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "publisher": "Ballotpedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Christy Davis - Ballotpedia](https://ballotpedia.org/Christy_Davis)",
-        "[Ballotpedia: Christy Davis](https://ballotpedia.org/Christy_Davis)"
+        "Christy Davis - Ballotpedia",
+        "Ballotpedia: Christy Davis"
       ]
     },
     {
@@ -659,8 +657,8 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Facebook: https://www.facebook.com/christydavisforkansas",
-        "Facebook: [Christy Davis for Kansas](https://www.facebook.com/christydavisforkansas) — 4,588 likes; 1,878 talking about this — public page metadata accessible, post body inaccessible in logged-out capture.",
-        "The public Facebook page returned profile metadata only in logged-out capture: \"Christy Davis for Kansas. 4,588 likes · 1,878 talking about this. Paid for by Christy Davis for Kansas, José Lara, Treasurer. christydavisforkansas.com\" ([source](https://www.faceb"
+        "Facebook: Christy Davis for Kansas — 4,588 likes; 1,878 talking about this — public page metadata accessible, post body inaccessible in logged-out capture.",
+        "The public Facebook page returned profile metadata only in logged-out capture: \"Christy Davis for Kansas. 4,588 likes · 1,878 talking about this. Paid for by Christy Davis for Kansas, José Lara, Treasurer. christydavisf..."
       ]
     },
     {
@@ -671,8 +669,8 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Facebook: [Christy Cauble Davis](https://www.facebook.com/christy.davis.710/)",
-        "[Christy Cauble Davis](https://www.facebook.com/christy.davis.710/)"
+        "Facebook: Christy Cauble Davis",
+        "Christy Cauble Davis"
       ]
     },
     {
@@ -683,10 +681,10 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "publisher": "Linkedin",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "LinkedIn: [Christy Davis - Davis Preservation](https://www.linkedin.com/in/christy-davis-19286b224/)",
-        "[Christy Davis - Davis Preservation](https://www.linkedin.com/in/christy-davis-19286b224/)",
-        "LinkedIn: [Christy Davis - Davis Preservation](https://www.linkedin.com/in/christy-davis-19286b224/) — profile found in prior candidate file; logged-out activity not accessible.",
-        "LinkedIn: profile URL located in candidate memory as [Christy Davis - Davis Preservation](https://www.linkedin.com/in/christy-davis-19286b224/), but logged-out activity is walled."
+        "LinkedIn: Christy Davis - Davis Preservation",
+        "Christy Davis - Davis Preservation",
+        "LinkedIn: Christy Davis - Davis Preservation — profile found in prior candidate file; logged-out activity not accessible.",
+        "LinkedIn: profile URL located in reviewed source notes as Christy Davis - Davis Preservation, but logged-out activity is walled."
       ]
     }
   ]

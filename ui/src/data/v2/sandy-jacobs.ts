@@ -19,7 +19,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented public evidence: Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she said her first goal beyond maintaining taxes would be retail development and that Grow Hays was focused on it because the general fund depends on sales tax. After winning re-election, she told Hays P... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she said her first goal beyond maintaining taxes would be retail development and that Grow Hays was focused on it because the general fund depends on sales tax. After winning re-election, she told Hays P... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-election-2025-issues"
         ]
@@ -40,7 +40,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -50,7 +50,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2025"
         ]
@@ -71,7 +71,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Sandy Jacobs - City of Hays Profile Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Public evidence: Sandy Jacobs - City of Hays Profile Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hays-jacobs-profile"
         ]
@@ -83,7 +83,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A, she said Hays was not overtaxing from her perspective and praised a conservative budget that remained revenue neutral. In April 2026 budget coverage, she questioned where money would come from under propo... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A, she said Hays was not overtaxing from her perspective and praised a conservative budget that remained revenue neutral. In April 2026 budget coverage, she questioned where money would come from under propo... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-budget-prep-2026",
           "s-hayspost-election-2025-issues"
@@ -134,7 +134,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2025",
           "s-hayspost-election-2025-issues"
@@ -164,7 +164,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -174,7 +174,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -184,7 +184,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -194,7 +194,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2025",
           "s-hayspost-election-2025-issues",
@@ -254,7 +254,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Heartland Community Foundation Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Heartland Community Foundation Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-heartland-foundation",
           "s-hayspost-mask-oct-2020"
@@ -284,7 +284,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2025",
           "s-hayspost-election-2025-issues"
@@ -327,7 +327,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A, she said Hays was not overtaxing from her perspective and praised a conservative budget that remained revenue neutral. In April 2026 budget coverage, she questioned where money would come from under propo... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A, she said Hays was not overtaxing from her perspective and praised a conservative budget that remained revenue neutral. In April 2026 budget coverage, she questioned where money would come from under propo... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-budget-prep-2026",
           "s-tigermedia-reorg-2026",
@@ -390,7 +390,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
         {
           "id": "soc-sandy-jacobs-0001",
           "platform": "YouTube",
-          "observation": "The City of Hays City Commission page lists Jacobs as a commissioner and links agendas, minutes, live meetings, recorded meetings, and audio. It states that Hays uses a commission-manager form of government and that the commission is a policy-making body. The agenda center showed city commission packets, minutes, and YouTube links through May 7, 2026. I used meeting coverage and agenda/archive presence as public civ...",
+          "observation": "The City of Hays City Commission page lists Jacobs as a commissioner and links agendas, minutes, live meetings, recorded meetings, and audio. It states that Hays uses a commission-manager form of government and that the commission is a policy-making body. The agenda center showed city commission packets, minutes, and YouTube links through May 7, 2026. The review used meeting coverage and agenda/archive presence as p...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hays-current-commission"
@@ -413,16 +413,16 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Sandy Jacobs is profiled here for Hays City Commissioner as a nonpartisan incumbent/current official. Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city... Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she said her first goal beyond maintaining... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 18 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Abortion / life: Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she sa... Education / curriculum / schools: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinishe... Taxes / spending / debt: Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A,... Taxes / spending / debt: Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "whereTheyWorship": "The absences are as important as the presences. I found no verified candidate-controlled campaign website beyond the Facebook page and city-page link indexed by GoodParty, and no current candidate-controlled X/Twitter, Instagram, TikTok, YouTube, Bluesky, Thr... Relevant excerpts/paraphrases: Official profile page is titled Sandy Jacobs and provides an email link. The page is sparse and does not include a biography, term, party, campaign platform, or church affiliation. Church: No public church affiliation found. Prior broad faith investigation marked Jacobs \"NO PUBLIC RECORD\"; keep that neutral. This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "whoTheyAre": "Sandy Jacobs is profiled here for Hays City Commissioner as a nonpartisan incumbent/current official. Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city... Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she said her first goal beyond maintaining... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 18 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: Abortion / life: Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she sa... Education / curriculum / schools: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinishe... Taxes / spending / debt: Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A,... Taxes / spending / debt: Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A... Social-only material is listed separately as online observation, not official action.",
+  "whereTheyWorship": "The absences are as important as the presences. The reviewed public record did not identify verified candidate-controlled campaign website beyond the Facebook page and city-page link indexed by GoodParty, and no current candidate-controlled X/Twitter, Instagr... Relevant excerpts/paraphrases: Official profile page is titled Sandy Jacobs and provides an email link. The page is sparse and does not include a biography, term, party, campaign platform, or church affiliation. Church: No public church affiliation found. Prior broad faith investigation marked Jacobs \"NO PUBLIC RECORD\"; keep that neutral. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "No clean online donor list, campaign-finance total, treasurer appointment, exemption affidavit, PAC support, independent expenditure record, or itemized contribution report for Sandy Jacobs was located in reviewed public sources.",
     "narrative": "No clean online donor list, campaign-finance total, treasurer appointment, exemption affidavit, PAC support, independent expenditure record, or itemized contribution report for Sandy Jacobs was located in reviewed public sources.",
@@ -430,7 +430,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "8 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "8 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-hays-current-commission",
@@ -443,10 +443,10 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
         "The City of Hays lists Sandy Jacobs among current city commission members",
         "The city describes the commission as the policy-making body that enacts ordinances",
         "Commissioners are elected at large every two years",
-        "[Hays City Commission Official Page](https://www.haysusa.com/269/City-Commission)",
+        "Hays City Commission Official Page",
         "https://www.haysusa.com/269/City-Commission",
-        "The [City of Hays City Commission page](https://www.haysusa.com/269/City-Commission) lists Jacobs as a commissioner and links agendas, minutes, live meetings, recorded meetings, and audio. It states that Hays uses a commission-manager form of government and th",
-        "[City of Hays City Commission](https://www.haysusa.com/269/City-Commission)",
+        "The City of Hays City Commission page lists Jacobs as a commissioner and links agendas, minutes, live meetings, recorded meetings, and audio. It states that Hays uses a commission-manager form of government and th",
+        "City of Hays City Commission",
         "https://www.haysusa.com/269/City-Commission -- City commission info -- accessed 2026-03-30"
       ]
     },
@@ -460,9 +460,9 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Official city profile page is titled Sandy Jacobs and provides a city email link",
         "Profile page does not provide a candidate platform, party, biography, or church affiliation",
-        "[Sandy Jacobs - City of Hays Profile](https://haysusa.com/270/Sandy-Jacobs)",
-        "City Page: [haysusa.com/270/Sandy-Jacobs](https://haysusa.com/270/Sandy-Jacobs)",
-        "[City of Hays: Sandy Jacobs](https://haysusa.com/270/Sandy-Jacobs)"
+        "Sandy Jacobs - City of Hays Profile",
+        "City Page: haysusa.com/270/Sandy-Jacobs",
+        "City of Hays: Sandy Jacobs"
       ]
     },
     {
@@ -582,18 +582,17 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
         "Jacobs said Hays asked for less water than allowed by the state",
         "Jacobs said the first budget goal is to remain revenue neutral",
         "Jacobs named retail development as a priority after maintaining taxes",
-        "Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the [Oct. 22, 2025 Hays Post Q&A](https://hayspost.com/posts/c0016433-275d-4af3-aabe-af7379f8c56f), she said R9 is among t",
-        "[Hays Post: Sandy Jacobs Q&A](https://hayspost.com/posts/c0016433-275d-4af3-aabe-af7379f8c56f)",
+        "Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among t",
+        "Hays Post: Sandy Jacobs Q&A",
         "\"We've asked for less water than is allowed by the state.\" Source: Hays Post, 2025-10-22, https://hayspost.com/posts/c0016433-275d-4af3-aabe-af7379f8c56f, topic: R9 water policy.",
-        "Housing, parks, and quality of life fill out the local frame. Jacobs credits the commission's prior four-year focus on housing, including economic-development policy changes and moderate-income housing tools. She also says low-income housing is difficult witho",
-        "\"I've served for eight years, and my passion continues to be for this city as a native.\" Source: Hays Post, 2025-10-22, https://hayspost.com/posts/c0016433-275d-4af3-aabe-af7379f8c56f, topic: public service and biography.",
-        "| 2025-10-22 | [Hays Post: Sandy Jacobs Q&A](https://hayspost.com/posts/c0016433-275d-4af3-aabe-af7379f8c56f) | Candidate Q&A | R9, housing, RHIDs, property taxes, retail, parks, ACCESS transit, fiscal responsibility, quality of life. |",
-        "\"My first goal, other than maintaining taxes, would be retail development.\" Source: [Hays Post Q&A, Oct. 22, 2025](https://hayspost.com/posts/c0016433-275d-4af3-aabe-af7379f8c56f).",
-        "\"We've asked for less water than is allowed by the state, and that is huge.\" Source: [Hays Post Q&A, Oct. 22, 2025](https://hayspost.com/posts/c0016433-275d-4af3-aabe-af7379f8c56f).",
-        "\"I've served for eight years, and my passion continues to be for this city as a native.\" Source: [Hays Post Q&A, Oct. 22, 2025](https://hayspost.com/posts/c0016433-275d-4af3-aabe-af7379f8c56f).",
+        "Housing, parks, and quality of life fill out the local frame. Jacobs credits the commission's prior four-year focus on housing, including economic-development policy changes and moderate-income housing tools. She also s...",
+        "\"I've served for eight years, and my passion continues to be for this city as a native.\" Source: Hays Post, 2025-10-22, https://hayspost.com/posts/c0016433-275d-4af3-aabe-af7379f8c56f, topic: public service and biograph...",
+        "\"My first goal, other than maintaining taxes, would be retail development.\" Source: Hays Post Q&A, Oct. 22, 2025.",
+        "\"We've asked for less water than is allowed by the state, and that is huge.\" Source: Hays Post Q&A, Oct. 22, 2025.",
+        "\"I've served for eight years, and my passion continues to be for this city as a native.\" Source: Hays Post Q&A, Oct. 22, 2025.",
         "> -- Hays Post, October 22, 2025, https://hayspost.com/posts/c0016433-275d-4af3-aabe-af7379f8c56f",
-        "\"source\": \"Hays Post, October 22, 2025, https://hayspost.com/posts/c0016433-275d-4af3-aabe-af7379f8c56f\",",
-        "\"We don't always agree, but we find a common solution that everybody can get on board with, and that's something I'm really proud of.\" Source: [Hays Post Q&A, Oct. 22, 2025](https://hayspost.com/posts/c0016433-275d-4af3-aabe-af7379f8c56f)."
+        "\"source\": \"Hays Post, October 22, 2025, https://hayspost.com/posts/c0016433-275d-4af3-aabe-af7379f8c56f\"",
+        "\"We don't always agree, but we find a common solution that everybody can get on board with, and that's something I'm really proud of.\" Source: Hays Post Q&A, Oct. 22, 2025."
       ]
     },
     {
@@ -606,7 +605,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Pre-canvass Hays Post results listed Jacobs with 1,542 votes",
         "Pre-canvass results listed voter turnout at 22.56 percent",
-        "[Hays Post: 2025 Election Results](https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28)",
+        "Hays Post: 2025 Election Results",
         "https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28 -- 2025 election results -- accessed 2026-03-30"
       ]
     },
@@ -620,7 +619,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Hays Post reported Jacobs and Shaun Musil would receive four-year terms",
         "Hays Post reported David Vilaysing would receive the two-year term",
-        "[Hays Post: 2 incumbents, 1 newcomer elected](https://hayspost.com/posts/1f1932b8-516a-420d-841e-df378c20a8f2)"
+        "Hays Post: 2 incumbents, 1 newcomer elected"
       ]
     },
     {
@@ -632,10 +631,9 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Jacobs said retail was high on her list and workforce needed attention",
-        "Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she said her first goal beyond maintaining t",
-        "[Hays Post: Water, retail, housing top issues](https://hayspost.com/posts/b7a4b7ea-3e19-4919-a7fa-1de6db7bed8c)",
-        "| 2025-11-06 | [Hays Post: water, retail, housing top issues](https://hayspost.com/posts/b7a4b7ea-3e19-4919-a7fa-1de6db7bed8c) | Election-night quotes | Re-election, R9, retail, workforce. |",
-        "\"Retail is really high on my list, and the workforce needs some attention.\" Source: [Hays Post, Nov. 6, 2025](https://hayspost.com/posts/b7a4b7ea-3e19-4919-a7fa-1de6db7bed8c)."
+        "Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she...",
+        "Hays Post: Water, retail, housing top issues",
+        "\"Retail is really high on my list, and the workforce needs some attention.\" Source: Hays Post, Nov. 6, 2025."
       ]
     },
     {
@@ -649,7 +647,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
         "Hays Post reported Jacobs was sworn in on January 8, 2026",
         "Jacobs highlighted R9, housing, economic growth, police facility commitment, parks, and airport",
         "Jacobs said leadership is about listening, bringing people together, and keeping the community at the center of decisions",
-        "[Hays Post: New governing body 2026](https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08)"
+        "Hays Post: New governing body 2026"
       ]
     },
     {
@@ -662,9 +660,8 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Prior harvest recorded Jacobs saying titles may change but values do not",
         "Tiger Media quoted Jacobs on servant leadership, listening, bringing people together, and community-centered decisions",
-        "Jacobs' style is collaborative and institution-minded. When she stepped down as mayor in January 2026 and continued as commissioner, she said, \"Titles may change, but values don't,\" and described servant leadership as listening, bringing people together, and k",
-        "| 2026-01-12 | [Tiger Media Network: commissioners sworn in](https://tigermedianet.com/?p=93385) | Reorganization quote | Servant leadership, listening, bringing people together, community-centered decisions. |",
-        "\"Titles may change, but values don't.\" Source: [Tiger Media Network, Jan. 12, 2026](https://tigermedianet.com/?p=93385)."
+        "Jacobs' style is collaborative and institution-minded. When she stepped down as mayor in January 2026 and continued as commissioner, she said, \"Titles may change, but values don't,\" and described servant leadership as l...",
+        "\"Titles may change, but values don't.\" Source: Tiger Media Network, Jan. 12, 2026."
       ]
     },
     {
@@ -677,8 +674,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Jacobs called the 24/7 Travel Plaza an exciting project",
         "Jacobs said she was ready to see what the project did to the interchange with alternate routes into town",
-        "| 2026-02-21 | [Hays Post: I-70 travel plaza](https://hayspost.com/posts/6988fcbc-170e-42d1-9dbd-cb28e017baba) | Meeting quote | Economic-development incentives, I-70 interchange growth. |",
-        "[Hays Post: Plans moving forward for I-70 travel plaza north of Hays](https://hayspost.com/posts/6988fcbc-170e-42d1-9dbd-cb28e017baba)"
+        "Hays Post: Plans moving forward for I-70 travel plaza north of Hays"
       ]
     },
     {
@@ -703,10 +699,9 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Prior harvest recorded Jacobs asking where money would come from and what people would be willing to give up under budget constraints",
-        "Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A, she said Hays was not overtaxing from her per",
-        "| 2026-04-06 | [Hays Post: travel plaza and 2027 draft budget](https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb) | Meeting quotes | Property-tax limits, budget tradeoffs, resident/business input. |",
-        "[Hays Post: Planned travel plaza and 2027 draft budget](https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb)",
-        "\"Where would that money come from? What are people going to be willing to give up to do things like this?\" Source: [Hays Post, Apr. 6, 2026](https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb)."
+        "Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A, she....",
+        "Hays Post: Planned travel plaza and 2027 draft budget",
+        "\"Where would that money come from? What are people going to be willing to give up to do things like this?\" Source: Hays Post, Apr. 6, 2026."
       ]
     },
     {
@@ -748,7 +743,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "The October 2020 mask ordinance extension passed 3-1",
         "Jacobs, Musil, and Berges voted yes; Ruder voted no; Mellick was absent",
-        "[Hays Post: Special mask meeting](https://hayspost.com/posts/1a241ad5-d176-4494-9e9a-aa4a286f3bf4)"
+        "Hays Post: Special mask meeting"
       ]
     },
     {
@@ -761,9 +756,8 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Jacobs was described as a retired banker and then-current mayor",
         "Jacobs discussed North Vine reconstruction, roundabouts, traffic flow, safety, business development, and population growth",
-        "[Hays Post: 5 candidates vying](https://hayspost.com/posts/64dd8115-641e-489a-970e-22ef124e2781)",
-        "| 2021-10-31 | [Hays Post: 5 city commission candidates vying](https://hayspost.com/posts/64dd8115-641e-489a-970e-22ef124e2781) | Candidate profile/forum | North Vine reconstruction, traffic roundabouts, business development, population growth. |",
-        "[Hays Post: 5 city commission candidates vying for 3 seats](https://hayspost.com/posts/64dd8115-641e-489a-970e-22ef124e2781)"
+        "Hays Post: 5 candidates vying",
+        "Hays Post: 5 city commission candidates vying for 3 seats"
       ]
     },
     {
@@ -777,10 +771,9 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
         "Profile is marked unclaimed",
         "Profile lists Jacobs as nonpartisan and links a Facebook page and City of Hays profile",
         "Occupation and top issues are not filled out",
-        "Sandy Jacobs' accessible public messaging is local, civic, and operational. The strongest public record is not a modern social feed; it is a trail of candidate letters, Hays Post Q&As, city-meeting coverage, official city pages, and civic appearances. Her veri",
-        "narrative: \"Sandy Jacobs' accessible public messaging is local, civic, and operational. The strongest public record is not a modern social feed; it is a trail of candidate letters, Hays Post Q&As, city-meeting coverage, official city pages, and civic appearanc",
-        "[GoodParty](https://goodparty.org/candidate/sandy-jacobs/hays-city-commission) lists the profile as unclaimed, identifies Jacobs as nonpartisan, gives the office as Hays City Commission, gives the election date as Nov. 4, 2025, and links Facebook plus the city",
-        "[GoodParty: Sandy Jacobs for Hays City Commission](https://goodparty.org/candidate/sandy-jacobs/hays-city-commission)"
+        "Sandy Jacobs' accessible public messaging is local, civic, and operational. The strongest public record is not a modern social feed; it is a trail of candidate letters, Hays Post Q&As, city-meeting coverage, official ci...",
+        "GoodParty lists the profile as unclaimed, identifies Jacobs as nonpartisan, gives the office as Hays City Commission, gives the election date as Nov. 4, 2025, and links Facebook plus the city",
+        "GoodParty: Sandy Jacobs for Hays City Commission"
       ]
     },
     {
@@ -793,9 +786,9 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Prior logged-out local harvest found page metadata and 257 visible likes",
         "No reliable post-level feed, comments, reactions, shares, follows, or issue content were accessible",
-        "Facebook: [Sandy Jacobs - Hays City Commission](https://www.facebook.com/people/Sandy-Jacobs-Hays-City-Commission/100063604999773/)",
-        "[Sandy Jacobs - Hays City Commission](https://www.facebook.com/people/Sandy-Jacobs-Hays-City-Commission/100063604999773/)",
-        "Public metadata confirms a page called [Sandy Jacobs - Hays City Commission](https://www.facebook.com/people/Sandy-Jacobs-Hays-City-Commission/100063604999773/) with 257 likes. GoodParty links the older page URL, which redirects to the same Facebook identity."
+        "Facebook: Sandy Jacobs - Hays City Commission",
+        "Sandy Jacobs - Hays City Commission",
+        "Public metadata confirms a page called Sandy Jacobs - Hays City Commission with 257 likes. GoodParty links the older page URL, which redirects to the same Facebook identity."
       ]
     },
     {
@@ -809,9 +802,8 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
         "Prior public preview showed Sandy Jacobs in Hays, Kansas with City of Hays experience",
         "Prior preview showed 246 followers and 244 connections",
         "Full profile and activity were not accessible",
-        "| LinkedIn | Found identity profile preview | Public search preview for https://www.linkedin.com/in/sandy-jacobs-64a43613 showed Sandy Jacobs, Hays, Kansas, 246 followers, 244 connections, City of Hays experience, and liked activity. LinkedIn blocked full fetc",
-        "The public LinkedIn preview for [Sandy Jacobs](https://www.linkedin.com/in/sandy-jacobs-64a43613) showed Hays, Kansas, 246 followers, 244 connections, City of Hays experience, and biographical language about being a retired bank executive leading a nonprofit f",
-        "[LinkedIn: Sandy Jacobs](https://www.linkedin.com/in/sandy-jacobs-64a43613)"
+        "The public LinkedIn preview for Sandy Jacobs showed Hays, Kansas, 246 followers, 244 connections, City of Hays experience, and biographical language about being a retired bank executive leading a nonprofit f",
+        "LinkedIn: Sandy Jacobs"
       ]
     },
     {
@@ -835,7 +827,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Heartland Community Foundation describes grantmaking and community support in Ellis, Rooks, and Trego counties",
         "Foundation context does not establish Jacobs' current views or church affiliation",
-        "[Heartland Community Foundation](https://heartlandcommunityfoundation.org/)"
+        "Heartland Community Foundation"
       ]
     },
     {
@@ -846,10 +838,9 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Hays Post: Jacobs filing announcement](https://hayspost.com/posts/b54fadff-9d52-40bc-b6b8-e51faec8edaf)",
-        "[Hays Post: Jacobs filing](https://hayspost.com/posts/b54fadff-9d52-40bc-b6b8-e51faec8edaf)",
-        "| 2021-06-01 | [Hays Post: Jacobs announces filing](https://hayspost.com/posts/b54fadff-9d52-40bc-b6b8-e51faec8edaf) | Candidate letter | Public service, lifetime Hays resident, sustainable planned growth, fiscal responsibility, quality of life, collaboration.",
-        "[Hays Post: Jacobs announces filing for Hays City Commission](https://hayspost.com/posts/b54fadff-9d52-40bc-b6b8-e51faec8edaf)"
+        "Hays Post: Jacobs filing announcement",
+        "Hays Post: Jacobs filing",
+        "Hays Post: Jacobs announces filing for Hays City Commission"
       ]
     },
     {
@@ -860,7 +851,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "publisher": "Hdnews",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[HDN: Jacobs elected Mayor, Ruder Vice Mayor](https://www.hdnews.net/reorganization-of-commission-names-jacobs-as-mayor-ruder-as-vice-mayor/)"
+        "HDN: Jacobs elected Mayor, Ruder Vice Mayor"
       ]
     },
     {
@@ -871,8 +862,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "| 2019-11-14 | [Hays Post: New city water rebates more inclusive](https://hayspost.com/posts/5e5871c7b0e3671763224d5c) | Meeting quote | Water conservation outreach, praise for public education and social-media water messaging. |",
-        "[Hays Post: New city water rebates more inclusive](https://hayspost.com/posts/5e5871c7b0e3671763224d5c)"
+        "Hays Post: New city water rebates more inclusive"
       ]
     },
     {
@@ -882,9 +872,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "title": "Facebook",
       "publisher": "Facebook",
       "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| Facebook | Found candidate page metadata | GoodParty lists https://www.facebook.com/Sandy-Jacobs-Hays-City-Commission-354164551685996/; Facebook redirects to https://www.facebook.com/people/Sandy-Jacobs-Hays-City-Commission/100063604999773/. Logged-out metad"
-      ]
+      "claimsAnchored": []
     },
     {
       "id": "src-sandy-jacobs-0125",
@@ -894,8 +882,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "publisher": "Haysusa",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "https://www.haysusa.com/270/Sandy-Jacobs",
-        "[haysusa.com](https://www.haysusa.com/270/Sandy-Jacobs)"
+        "https://www.haysusa.com/270/Sandy-Jacobs"
       ]
     }
   ]

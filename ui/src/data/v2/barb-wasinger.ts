@@ -23,7 +23,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented public evidence: Her social-conservative messaging is present but not the only thing she foregrounds on campaign pages. The older site says she worked to \"protect human life\" (barbforkansas.com). Kansas Reflector reported that she led the House push on transgender sports restrictions and argued that \"Biological men should not be competing against women\" (Kansas Reflector, Feb. 23, 2023). She is also listed as vice-chair of the Kansa... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Her social-conservative messaging is present but not the only thing she foregrounds on campaign pages. The older site says she worked to \"protect human life\" (barbforkansas.com). Kansas Reflector reported that she led the House push on transgender sports restrictions and argued that \"Biological men should not be competing against women\" (Kansas Reflector, Feb. 23, 2023). She is also listed as vice-chair of the Kansa... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-old"
         ]
@@ -65,7 +65,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented public evidence: Her social-conservative messaging is present but not the only thing she foregrounds on campaign pages. The older site says she worked to \"protect human life\" (barbforkansas.com). Kansas Reflector reported that she led the House push on transgender sports restrictions and argued that \"Biological men should not be competing against women\" (Kansas Reflector, Feb. 23, 2023). She is also listed as vice-chair of the Kansa... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Her social-conservative messaging is present but not the only thing she foregrounds on campaign pages. The older site says she worked to \"protect human life\" (barbforkansas.com). Kansas Reflector reported that she led the House push on transgender sports restrictions and argued that \"Biological men should not be competing against women\" (Kansas Reflector, Feb. 23, 2023). She is also listed as vice-chair of the Kansa... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-old"
         ]
@@ -117,7 +117,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: The older campaign site is more issue-list driven. Wasinger promised work on school reopening and safety, health care, foster care rules, senior tax relief, lower food taxes, FHSU funding, business deregulation, and child placement. In a personal note, she described her first term as \"getting things done for Ellis County,\" especially the Northwest Corridor funding, and said she had stood up for Kansans on tax, life,... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The older campaign site is more issue-list driven. Wasinger promised work on school reopening and safety, health care, foster care rules, senior tax relief, lower food taxes, FHSU funding, business deregulation, and child placement. In a personal note, she described her first term as \"getting things done for Ellis County,\" especially the Northwest Corridor funding, and said she had stood up for Kansans on tax, life,... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-old"
         ]
@@ -187,7 +187,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -197,7 +197,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Taxes and spending are the dominant recurring signal. In Hays Post coverage before the 2026 session, she said her priorities were controlling spending, balancing the state budget, and finding a more equitable property tax structure (Hays Post, Jan. 9, 2026). At a 2025 legislative coffee, she said Kansas had been overspending and needed to stop, while also arguing for incentives that reward local governments staying... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: Taxes and spending are the dominant recurring signal. In Hays Post coverage before the 2026 session, she said her priorities were controlling spending, balancing the state budget, and finding a more equitable property tax structure (Hays Post, Jan. 9, 2026). At a 2025 legislative coffee, she said Kansas had been overspending and needed to stop, while also arguing for incentives that reward local governments staying... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hays-tax-2026",
           "s-campaign-old"
@@ -276,7 +276,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: Taxes and spending are the dominant recurring signal. In Hays Post coverage before the 2026 session, she said her priorities were controlling spending, balancing the state budget, and finding a more equitable property tax structure (Hays Post, Jan. 9, 2026). At a 2025 legislative coffee, she said Kansas had been overspending and needed to stop, while also arguing for incentives that reward local governments staying... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: Taxes and spending are the dominant recurring signal. In Hays Post coverage before the 2026 session, she said her priorities were controlling spending, balancing the state budget, and finding a more equitable property tax structure (Hays Post, Jan. 9, 2026). At a 2025 legislative coffee, she said Kansas had been overspending and needed to stop, while also arguing for incentives that reward local governments staying... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hays-tax-2026",
           "s-campaign-old"
@@ -327,7 +327,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -337,7 +337,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -347,7 +347,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public evidence: The older campaign site is more issue-list driven. Wasinger promised work on school reopening and safety, health care, foster care rules, senior tax relief, lower food taxes, FHSU funding, business deregulation, and child placement. In a personal note, she described her first term as \"getting things done for Ellis County,\" especially the Northwest Corridor funding, and said she had stood up for Kansans on tax, life,... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The older campaign site is more issue-list driven. Wasinger promised work on school reopening and safety, health care, foster care rules, senior tax relief, lower food taxes, FHSU funding, business deregulation, and child placement. In a personal note, she described her first term as \"getting things done for Ellis County,\" especially the Northwest Corridor funding, and said she had stood up for Kansans on tax, life,... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-old"
         ]
@@ -399,7 +399,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: The older campaign site is more issue-list driven. Wasinger promised work on school reopening and safety, health care, foster care rules, senior tax relief, lower food taxes, FHSU funding, business deregulation, and child placement. In a personal note, she described her first term as \"getting things done for Ellis County,\" especially the Northwest Corridor funding, and said she had stood up for Kansans on tax, life,... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The older campaign site is more issue-list driven. Wasinger promised work on school reopening and safety, health care, foster care rules, senior tax relief, lower food taxes, FHSU funding, business deregulation, and child placement. In a personal note, she described her first term as \"getting things done for Ellis County,\" especially the Northwest Corridor funding, and said she had stood up for Kansans on tax, life,... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-old",
           "s-hays-hb2433-signed",
@@ -459,7 +459,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: > -- Hays Post, December 2025 (source) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: > -- Hays Post, December 2025 (source) Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hays-tax-2026"
         ]
@@ -488,7 +488,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public evidence: The older campaign site is more issue-list driven. Wasinger promised work on school reopening and safety, health care, foster care rules, senior tax relief, lower food taxes, FHSU funding, business deregulation, and child placement. In a personal note, she described her first term as \"getting things done for Ellis County,\" especially the Northwest Corridor funding, and said she had stood up for Kansans on tax, life,... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The older campaign site is more issue-list driven. Wasinger promised work on school reopening and safety, health care, foster care rules, senior tax relief, lower food taxes, FHSU funding, business deregulation, and child placement. In a personal note, she described her first term as \"getting things done for Ellis County,\" especially the Northwest Corridor funding, and said she had stood up for Kansans on tax, life,... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-old",
           "s-hays-hb2433-signed"
@@ -567,7 +567,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Taxes and spending are the dominant recurring signal. In Hays Post coverage before the 2026 session, she said her priorities were controlling spending, balancing the state budget, and finding a more equitable property tax structure (Hays Post, Jan. 9, 2026). At a 2025 legislative coffee, she said Kansas had been overspending and needed to stop, while also arguing for incentives that reward local governments staying... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: Taxes and spending are the dominant recurring signal. In Hays Post coverage before the 2026 session, she said her priorities were controlling spending, balancing the state budget, and finding a more equitable property tax structure (Hays Post, Jan. 9, 2026). At a 2025 legislative coffee, she said Kansas had been overspending and needed to stop, while also arguing for incentives that reward local governments staying... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hays-tax-2026",
           "s-campaign-old",
@@ -618,16 +618,16 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Barb Wasinger is profiled here for KS House District 111 as a Republican incumbent/current official. Barb Wasinger's public messaging is built around a practical incumbent identity: a Hays small-business owner and former local official who says she is focused on results for Ellis County. Her newer campaign site opens with a quote about \"talk less, listen mor... The older campaign site is more issue-list driven. Wasinger promised work on school reopening and safety, health care, foster care rules, senior tax relief, lower food taxes, FHSU funding, business deregulation, and child placement. In a personal note, she de... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 21 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: Abortion / life: Her social-conservative messaging is present but not the only thing she foregrounds on campaign pages. The older site says she worked to \"protect human life\" (barbforkansas.com). Kansas Reflector reported that she led the... LGBT / gender / parental rights: Her social-conservative messaging is present but not the only thing she foregrounds on campaign pages. The older site says she worked to \"protect human life\" (barbforkansas.com). Kansas Reflector reported t... Education / curriculum / schools: The older campaign site is more issue-list driven. Wasinger promised work on school reopening and safety, health care, foster care rules, senior tax relief, lower food taxes, FHSU funding, business deregul... Education / curriculum / schools: Her social-conservative messaging is present but not the only thing she foregrounds on campaign pages. The older site says she worked to \"protect human life\" (barbforkansas.com). Kansas Reflector reported... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "ownWordsNarrative": "candidateControlled: platform: Campaign website; status: active; url: https://barbwasinger.com/; notes: Links Facebook and Instagram; no native engagement metrics.; platform: Older campaign website; status: active; url: https://barbforkansas.com/; notes: Links Facebook, Twitter/X, LinkedIn, and Instagram; latest tweets did not render in accessible HTML.; platform: Facebook; status: identified, content blocked; url: https://www.facebook.com/electbarbwasinger/; notes: No reliable public post corpus or metrics captured.; platform: Instagram; status: linked, content blocked; url: https://www.instagram.com/; notes: Campaign link exists; no readable post corpus captured.; platform: X/Twitter; status: likely account identified locally, content blocked; url: https://x.com/BarbWasinger; notes: No readable timeline or engagement metrics captured.; publicReaction: id: social-sherman-bsky-sb244; platform: Bluesky; issueId: regulation-executive-authority-process; sourceIds: s-bluesky-sherman; notes: Journalist post corroborates public attention to the SB 244 floor-procedure action.; id: social-reddit-sb244; platform: Reddit; issueId: sex-gender-policy-and-life-issues; sourceIds: s-reddit-sb244; notes: Community criticism of Wasinger after SB 244; do not use as factual proof beyond public reaction.",
+  "whoTheyAre": "Barb Wasinger is profiled here for KS House District 111 as a Republican incumbent/current official. Barb Wasinger's public messaging is built around a practical incumbent identity: a Hays small-business owner and former local official who says she is focused on results for Ellis County. Her newer campaign site opens with a quote about \"talk less, listen mor... The older campaign site is more issue-list driven. Wasinger promised work on school reopening and safety, health care, foster care rules, senior tax relief, lower food taxes, FHSU funding, business deregulation, and child placement. In a personal note, she de... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 21 source-backed items across 10 of the 14 issue areas. Representative public-record entries include: Abortion / life: Her social-conservative messaging is present but not the only thing she foregrounds on campaign pages. The older site says she worked to \"protect human life\" (barbforkansas.com). Kansas Reflector reported that she led the... LGBT / gender / parental rights: Her social-conservative messaging is present but not the only thing she foregrounds on campaign pages. The older site says she worked to \"protect human life\" (barbforkansas.com). Kansas Reflector reported t... Education / curriculum / schools: The older campaign site is more issue-list driven. Wasinger promised work on school reopening and safety, health care, foster care rules, senior tax relief, lower food taxes, FHSU funding, business deregul... Education / curriculum / schools: Her social-conservative messaging is present but not the only thing she foregrounds on campaign pages. The older site says she worked to \"protect human life\" (barbforkansas.com). Kansas Reflector reported... Social-only material is listed separately as online observation, not official action.",
+  "ownWordsNarrative": "[object Object]",
   "whereTheyWorship": "Wasinger publicly identifies as a member of St. Joseph Catholic Church in Hays, and her campaign biography says she serves there as a lector and an notable Minister of Holy Communion. Church website: https://www.stj-church.com/.",
   "campaignFinance": {
     "totalRaised": "totalContributions: $11,134.20; totalExpenditures: $31,179.60; cashOnHandClose: $17,133.63; inKind: $6,000.00",
@@ -686,7 +686,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
     "reportingPeriod": "2025 year-end report, Jan. 1-Dec. 31, 2025",
     "source": "Campaign Finance Receipts and Expenditures Report - Barbara K Wasinger"
   },
-  "socialResearchNote": "25 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "25 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ksleg-profile",
@@ -699,16 +699,13 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
         "Barb Wasinger is the Republican House member for District 111, Ellis County",
         "House service is listed as 2019-present",
         "Wasinger chairs General Government Budget and serves as vice chair of Joint Committee on Administrative Rules and Regulations",
-        "| s-ksleg-profile | primary | https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/ | accessed 2026-05-19 | Current office, party, House service, committees, official contact | governance, budget, regulation |",
-        "| KS Legislature Profile (current) | https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/ |",
-        "| Kansas Legislature | Found | [official profile](https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/) | Official office page, not campaign speech, but useful for committee/platform context. |",
-        "[KS Legislature Profile](https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/) — accessed 2026-03-30",
+        "KS Legislature Profile — accessed 2026-03-30",
         "https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/",
-        "[KS Legislature - Current Session](https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/)",
-        "[Kansas Legislature: Rep. Barb Wasinger](https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/)",
-        "[Kansas Legislature profile](https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/)",
-        "[KS Legislature — Wasinger Profile](https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/) — accessed 2026-03-30",
-        "[KS Legislature: Rep. Barb Wasinger (2025-26)](https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/)"
+        "KS Legislature - Current Session",
+        "Kansas Legislature: Rep. Barb Wasinger",
+        "Kansas Legislature profile",
+        "KS Legislature — Wasinger Profile — accessed 2026-03-30",
+        "KS Legislature: Rep. Barb Wasinger (2025-26)"
       ]
     },
     {
@@ -719,8 +716,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "District 111 lists Wasinger, Barb with AT and 202601 report links",
-        "| s-kpdc-house-index | primary | https://www.kansas.gov/ethics/CFAScanned/House/2026ElecCycle/HLinks2026EC.htm | accessed 2026-05-19 | District 111 entry for Wasinger with AT and 202601 report links | campaign finance |"
+        "District 111 lists Wasinger, Barb with AT and 202601 report links"
       ]
     },
     {
@@ -733,8 +729,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Office sought is State Representative District 111",
         "Treasurer is Jeff Pinkney",
-        "Amended statement executed Jan. 4, 2024",
-        "| s-kpdc-at | primary | https://kansas.gov/ethics/CFAScanned/House/2026ElecCycle/Treasurers/H111BW_AT.pdf | accessed 2026-05-19 | Appointment of treasurer, office sought, treasurer, amended statement | campaign finance, election status |"
+        "Amended statement executed Jan. 4, 2024"
       ]
     },
     {
@@ -749,8 +744,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
         "2025 expenditures were $31,179.60",
         "Cash on hand at close was $17,133.63",
         "In-kind contributions were $6,000.00",
-        "Report includes a Kansas Secretary of State office filing fee expenditure",
-        "| s-kpdc-202601 | primary | https://kansas.gov/ethics/CFAScanned/House/2026ElecCycle/202601/H111BW_202601.pdf | accessed 2026-05-19 | 2025 receipts, expenditures, in-kind, filing-fee expenditure | campaign finance, affiliations |"
+        "Report includes a Kansas Secretary of State office filing fee expenditure"
       ]
     },
     {
@@ -762,11 +756,9 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Kansas House District 111: Barb Wasinger 7,739 votes, 73.25%; Joseph Burt Lantz IV 2,826 votes, 26.75%",
-        "| s-sos-2024-results | primary | https://sos.ks.gov/elections/24elec/2024-General-Election-Official-Vote-Totals.pdf | accessed 2026-05-19 | 2024 certified result for House District 111 | election history |",
-        "[Kansas SOS 2024 General Election Official Results](https://sos.ks.gov/elections/24elec/2024-General-Election-Official-Vote-Totals.pdf)",
-        "[Kansas SOS 2024 Results](https://sos.ks.gov/elections/24elec/2024-General-Election-Official-Vote-Totals.pdf)",
-        "\"url\": \"https://sos.ks.gov/elections/24elec/2024-General-Election-Official-Vote-Totals.pdf\"",
-        "[KS SOS: 2024 General Election Results](https://sos.ks.gov/elections/24elec/2024-General-Election-Official-Vote-Totals.pdf)"
+        "Kansas SOS 2024 General Election Official Results",
+        "Kansas SOS 2024 Results",
+        "KS SOS: 2024 General Election Results"
       ]
     },
     {
@@ -780,8 +772,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
         "HB 2433 clarifies county authority over water transfers and appropriation",
         "Rep. Barb Wasinger is listed as original and current sponsor",
         "Bill status is signed by governor",
-        "| s-hb2433 | primary | https://www.kslegislature.gov/li/b2025_26/measures/hb2433/ | accessed 2026-05-19 | Original/current sponsor, bill status signed by governor, testimony list | water, local infrastructure |",
-        "[KS Legislature: HB 2433](https://www.kslegislature.gov/li/b2025_26/measures/hb2433/)"
+        "KS Legislature: HB 2433"
       ]
     },
     {
@@ -795,18 +786,13 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
         "Campaign site states approach of listening, working together, and getting things done",
         "Campaign site lists results on taxes, education, fentanyl, online pornography, FHSU, Medicaid/foster care, overregulation, and Kansas values",
         "Campaign site links Facebook and Instagram",
-        "| s-campaign-new | primary | https://barbwasinger.com/ | accessed 2026-05-19 | Candidate-controlled current campaign messaging, biography, contact, Facebook/Instagram links | taxes, education, healthcare, regulation, values |",
-        "Barb Wasinger's public messaging is built around a practical incumbent identity: a Hays small-business owner and former local official who says she is focused on results for Ellis County. Her newer campaign site opens with a quote about \"talk less, listen more",
-        "She also posts and speaks like a regulatory conservative. Her campaign site says she fought \"Government Overreach and Overregulation\" ([barbwasinger.com](https://barbwasinger.com/)); her official legislative profile lists her as chair of General Government Bud",
-        "| Campaign Site (barbwasinger.com) | https://barbwasinger.com/ |",
-        "\"My approach in Topeka is simple: talk less, listen more, and work together to actually get things done.\" - campaign/legislative profile, source: https://barbwasinger.com/ (accessed 2026-04-01)",
-        "\"It's an honor to serve the good people of Ellis County.\" - public campaign language, source: https://barbwasinger.com/ (accessed 2026-04-01)",
-        "\"I'm committed to building on that momentum for you.\" - campaign language, source: https://barbwasinger.com/ (accessed 2026-04-01)",
-        "narrative: \"Barb Wasinger's public messaging is built around a practical incumbent identity: a Hays small-business owner and former local official who says she is focused on results for Ellis County. Her newer campaign site opens with a quote about \\\"talk less",
-        "\"ownWordsNarrative\": \"candidateControlled: platform: Campaign website; status: active; url: https://barbwasinger.com/; notes: Links Facebook and Instagram; no native engagement metrics.; platform: Older campaign website; status: active; url: https://barbforkan",
-        "| Campaign site, newer | Found | [barbwasinger.com](https://barbwasinger.com/) | Candidate-controlled campaign site with paid-for line, donation link, Facebook and Instagram links, updated messaging on taxes, education, fentanyl, pornography, FHSU, Medicaid/fo",
-        "Newer campaign site result list: \"Lowered Property, Sales, and Income Taxes,\" eliminated state taxes on Social Security benefits and groceries, acted on fentanyl and online pornography, funded K-12/special education, championed FHSU, improved Medicaid/foster c",
-        "Biography/identity: both campaign sites emphasize Hays, her husband Tom, four children, small business ownership, prior city/county service, and St. Joseph Catholic Church. Sources: [barbwasinger.com](https://barbwasinger.com/) and [barbforkansas.com/about](ht"
+        "Barb Wasinger's public messaging is built around a practical incumbent identity: a Hays small-business owner and former local official who says she is focused on results for Ellis County. Her newer campaign site opens w...",
+        "She also posts and speaks like a regulatory conservative. Her campaign site says she fought \"Government Overreach and Overregulation\" (barbwasinger.com); her official legislative profile lists her as chair of General Go...",
+        "My approach in Topeka is simple: talk less, listen more, and work together to actually get things done. - campaign/legislative profile, source: https://barbwasinger.com/ (accessed 2026-04-01)",
+        "It's an honor to serve the good people of Ellis County. - public campaign language, source: https://barbwasinger.com/ (accessed 2026-04-01)",
+        "I'm committed to building on that momentum for you. - campaign language, source: https://barbwasinger.com/ (accessed 2026-04-01)",
+        "Newer campaign site result list: \"Lowered Property, Sales, and Income Taxes,\" eliminated state taxes on Social Security benefits and groceries, acted on fentanyl and online pornography, funded K-12/special education, ch...",
+        "Biography/identity: both campaign sites emphasize Hays, her husband Tom, four children, small business ownership, prior city/county service, and St. Joseph Catholic Church. Sources: barbwasinger.com and [barbforkansas.c..."
       ]
     },
     {
@@ -820,17 +806,15 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
         "Older campaign site lists promises made and promises kept",
         "Older campaign site cites Northwest Corridor funding",
         "Older campaign site says Wasinger worked to protect human life and reduce regulations",
-        "Her social-conservative messaging is present but not the only thing she foregrounds on campaign pages. The older site says she worked to \"protect human life\" ([barbforkansas.com](https://barbforkansas.com/)). Kansas Reflector reported that she led the House pu",
-        "The older campaign site is more issue-list driven. Wasinger promised work on school reopening and safety, health care, foster care rules, senior tax relief, lower food taxes, FHSU funding, business deregulation, and child placement. In a personal note, she des",
-        "| s-campaign-old | primary | https://barbforkansas.com/ | accessed 2026-05-19 | Candidate-controlled older promises/kept list; Northwest Corridor statement; older social icons | taxes, healthcare, foster care, education, regulation, life |",
-        "| Campaign Site (barbforkansas.com) | https://barbforkansas.com/ |",
-        "[Barb Wasinger Official Site](https://barbforkansas.com/)",
-        "[Barb Wasinger campaign site](https://barbforkansas.com/)",
-        "[Barb for Kansas Campaign Site](https://barbforkansas.com/)",
-        "> -- barbforkansas.com ([source](https://barbforkansas.com/))",
-        "Older campaign promises: schools, health care, foster care, seniors, school safety, APRN/pharmacist practice, emergency limits on governors closing businesses/churches, foster care regulations, food sales tax, retirement taxes, FHSU funding, business regulatio",
-        "Older campaign note: she framed her first term around \"getting things done for Ellis County,\" especially the Northwest Corridor, and said she stood for tax, life, farmers, small businesses, citizens, and reduced regulations. Source: [barbforkansas.com](https:/",
-        "Barb Wasinger has a light but identifiable candidate-controlled public web presence. The strongest owned sources are two campaign websites: the older/current-data site [barbforkansas.com](https://barbforkansas.com/) and a newer site, [barbwasinger.com](https:/"
+        "Her social-conservative messaging is present but not the only thing she foregrounds on campaign pages. The older site says she worked to \"protect human life\" (barbforkansas.com). Kansas Reflector reported that she led t...",
+        "The older campaign site is more issue-list driven. Wasinger promised work on school reopening and safety, health care, foster care rules, senior tax relief, lower food taxes, FHSU funding, business deregulation, and chi...",
+        "Barb Wasinger Official Site",
+        "Barb Wasinger campaign site",
+        "Barb for Kansas Campaign Site",
+        "> -- barbforkansas.com (source)",
+        "Older campaign promises: schools, health care, foster care, seniors, school safety, APRN/pharmacist practice, emergency limits on governors closing businesses/churches, foster care regulations, food sales tax, retiremen...",
+        "Older campaign note: she framed her first term around \"getting things done for Ellis County,\" especially the Northwest Corridor, and said she stood for tax, life, farmers, small businesses, citizens, and reduced regulat...",
+        "Barb Wasinger has a light but identifiable candidate-controlled public web presence. The strongest owned sources are two campaign websites: the older/current-data site barbforkansas.com and a newer site, [barbwasinger.c..."
       ]
     },
     {
@@ -842,10 +826,9 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Campaign biography lists Hays residence, family, business ownership, prior city and county service, church/community service, and St. Catherine University degree",
-        "| s-campaign-about | primary | https://barbforkansas.com/about/ | accessed 2026-05-19 | Candidate bio, business, prior offices, church/community service, education | biography, faith/community |",
-        "[Barb Wasinger - About (campaign site)](https://barbforkansas.com/about/)",
-        "[barbforkansas.com/about](https://barbforkansas.com/about/)",
-        "[Barb for Kansas: About](https://barbforkansas.com/about/)"
+        "Barb Wasinger - About (campaign site)",
+        "barbforkansas.com/about",
+        "Barb for Kansas: About"
       ]
     },
     {
@@ -858,10 +841,8 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Kansas Truth Caucus lists Rep. Barb Wasinger as vice-chair",
         "Caucus describes itself around limited government, individual liberty, free enterprise, traditional values, tax reform, education, and defending the unborn",
-        "| s-truth-caucus | secondary | https://www.kansastruthcaucus.org/about | accessed 2026-05-19 | KTC self-description and board listing Wasinger as vice-chair | affiliations, spending/regulation/life |",
-        "| Kansas Truth Caucus | https://www.kansastruthcaucus.org/about |",
-        "Kansas Truth Caucus: she is listed as vice-chair of a caucus describing itself around limited government, individual liberty, free enterprise, traditional values, education, tax reform, and defending the unborn. Source: [Kansas Truth Caucus](https://www.kansas",
-        "[Kansas Truth Caucus](https://www.kansastruthcaucus.org/about)"
+        "Kansas Truth Caucus: she is listed as vice-chair of a caucus describing itself around limited government, individual liberty, free enterprise, traditional values, education, tax reform, and defending the unborn. Source:...",
+        "Kansas Truth Caucus"
       ]
     },
     {
@@ -876,13 +857,12 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
         "Wasinger said Kansas needs a more equitable way to impose property taxes",
         "Wasinger questioned whether increased education spending is producing reading and math results",
         "Wasinger said she supports electing Kansas Supreme Court justices",
-        "| s-hays-tax-2026 | secondary | https://hayspost.com/posts/2b738882-c918-4672-aacb-cccdbceb383a | Jan. 9, 2026; accessed 2026-05-19 | Wasinger quotes on property taxes, spending, education, judicial-selection amendment | taxes, education, judiciary |",
-        "Taxes and spending are the dominant recurring signal. In Hays Post coverage before the 2026 session, she said her priorities were controlling spending, balancing the state budget, and finding a more equitable property tax structure ([Hays Post, Jan. 9, 2026](h",
-        "> -- Hays Post, December 2025 ([source](https://hayspost.com/posts/2b738882-c918-4672-aacb-cccdbceb383a))",
-        "> -- Hays Post, 2026 session preview ([source](https://hayspost.com/posts/2b738882-c918-4672-aacb-cccdbceb383a))",
-        "2026 preview: she said her top priorities were controlling spending, balancing the state budget, and taxes; she wanted a more equitable way to impose property taxes. Source: [Hays Post, Jan. 9, 2026](https://hayspost.com/posts/2b738882-c918-4672-aacb-cccdbceb3",
-        "[Hays Post - 2026 Priorities](https://hayspost.com/posts/2b738882-c918-4672-aacb-cccdbceb383a)",
-        "[Hays Post 2026 priorities, Jan. 9, 2026](https://hayspost.com/posts/2b738882-c918-4672-aacb-cccdbceb383a)"
+        "Taxes and spending are the dominant recurring signal. In Hays Post coverage before the 2026 session, she said her priorities were controlling spending, balancing the state budget, and finding a more equitable property t...",
+        "> -- Hays Post, December 2025 (source)",
+        "> -- Hays Post, 2026 session preview (source)",
+        "2026 preview: she said her top priorities were controlling spending, balancing the state budget, and taxes; she wanted a more equitable way to impose property taxes. Source: [Hays Post, Jan. 9, 2026](https://hayspost.co...",
+        "Hays Post - 2026 Priorities",
+        "Hays Post 2026 priorities, Jan. 9, 2026"
       ]
     },
     {
@@ -896,12 +876,11 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
         "Gov. Kelly signed HB 2433 on Mar. 20, 2026",
         "Hays Post describes Wasinger as sponsor and champion of the bill",
         "Article ties the bill to Edwards County water-transfer regulations and the Hays/Russell R9 Ranch dispute",
-        "Water is her strongest district-specific achievement signal. She sponsored and championed HB 2433, signed in March 2026, to clarify state authority over water transfers and block county-level barriers aimed at the Hays/Russell R9 Ranch project ([Hays Post, Mar",
-        "| s-hays-hb2433-signed | secondary | https://hayspost.com/posts/ec8a0c28-4cb0-4994-90ba-3919fcadd4a0 | Mar. 20, 2026; accessed 2026-05-19 | Gov. Kelly signed HB 2433; Wasinger sponsored/championed it; local R9 context | water |",
-        "[Hays Post - Water Bill Signed](https://hayspost.com/posts/ec8a0c28-4cb0-4994-90ba-3919fcadd4a0)",
-        "2026 R9 water bill: she sponsored and championed HB 2433; Hays Post reported Gov. Kelly signed it March 20, 2026. Source: [Hays Post, Mar. 20, 2026](https://hayspost.com/posts/ec8a0c28-4cb0-4994-90ba-3919fcadd4a0).",
-        "[HaysPost: Gov. Kelly signs HB2433](https://hayspost.com/posts/ec8a0c28-4cb0-4994-90ba-3919fcadd4a0)",
-        "[Hays Post HB 2433 signed, Mar. 20, 2026](https://hayspost.com/posts/ec8a0c28-4cb0-4994-90ba-3919fcadd4a0)"
+        "Water is her strongest district-specific achievement signal. She sponsored and championed HB 2433, signed in March 2026, to clarify state authority over water transfers and block county-level barriers aimed at the Hays/...",
+        "Hays Post - Water Bill Signed",
+        "2026 R9 water bill: she sponsored and championed HB 2433; Hays Post reported Gov. Kelly signed it March 20, 2026. Source: Hays Post, Mar. 20, 2026.",
+        "HaysPost: Gov. Kelly signs HB2433",
+        "Hays Post HB 2433 signed, Mar. 20, 2026"
       ]
     },
     {
@@ -913,8 +892,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Article reports Wasinger made a motion of the previous question during the SB 244 veto override debate",
-        "Article reports the House passed the motion and then completed the override 87-37",
-        "| s-kspress-sb244-process | secondary | https://kspress.com/news/2026/04/13/kansas-legislature%E2%80%99s-gop-supermajority-embraces-rule-that-skirts-debate-muffles | Apr. 13, 2026; accessed 2026-05-19 | Reports Wasinger made motion of previous question after 1"
+        "Article reports the House passed the motion and then completed the override 87-37"
       ]
     },
     {
@@ -925,9 +903,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Bluesky",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Sherman Smith posted on Feb. 18, 2026 that Wasinger had initiated a procedural move to end debate and go to the vote",
-        "| s-bluesky-sherman | social | https://bsky.app/profile/journalist-sherman.bsky.social/post/3mf5m5og2w22o | Feb. 18, 2026; accessed 2026-05-19 | Sherman Smith contemporaneous post on Wasinger's procedural motion | process, online attention |",
-        "\"url\": \"https://bsky.app/profile/journalist-sherman.bsky.social/post/3mf5m5og2w22o\","
+        "Sherman Smith posted on Feb. 18, 2026 that Wasinger had initiated a procedural move to end debate and go to the vote"
       ]
     },
     {
@@ -939,8 +915,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Public Reddit thread criticized Wasinger after SB 244 and linked to local coverage",
-        "Used only as community-reaction lead, not as proof of candidate conduct",
-        "| s-reddit-sb244 | social | https://www.reddit.com/r/kansas/comments/1riwz14/sounds_like_barb_wasinger_was_too_much_of_a/ | 2026; accessed 2026-05-19 | Public Reddit criticism of Wasinger after SB 244 process; not candidate-controlled | community reaction lead"
+        "Used only as community-reaction lead, not as proof of candidate conduct"
       ]
     },
     {
@@ -951,8 +926,8 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Kslegislature",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[KS Legislature: Rep. Wasinger](https://www.kslegislature.gov/li_2024/b2023_24/members/rep_wasinger_barbara_1/)",
-        "[KS Legislature: Rep. Barb Wasinger (2023-24)](https://www.kslegislature.gov/li_2024/b2023_24/members/rep_wasinger_barbara_1/)"
+        "KS Legislature: Rep. Wasinger",
+        "KS Legislature: Rep. Barb Wasinger (2023-24)"
       ]
     },
     {
@@ -963,9 +938,9 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Ksn",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[KSN Election Guide: Barbara Wasinger](https://www.ksn.com/news/your-local-election-hq/election-guide-barbara-k-wasinger-r-kansas-house-district-111/)",
-        "[KSN: Election Guide](https://www.ksn.com/news/your-local-election-hq/election-guide-barbara-k-wasinger-r-kansas-house-district-111/)",
-        "[KSN Election Guide](https://www.ksn.com/news/your-local-election-hq/election-guide-barbara-k-wasinger-r-kansas-house-district-111/)"
+        "KSN Election Guide: Barbara Wasinger",
+        "KSN: Election Guide",
+        "KSN Election Guide"
       ]
     },
     {
@@ -978,10 +953,8 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Church URL: https://www.stj-church.com/",
         "https://www.stj-church.com/",
-        "Wasinger publicly identifies as a member of St. Joseph Catholic Church in Hays, and her campaign biography says she serves there as a lector and an Extraordinary Minister of Holy Communion. Church website: https://www.stj-church.com/",
-        "[stj-church.com](https://www.stj-church.com/)",
-        "\"whereTheyWorship\": \"Wasinger publicly identifies as a member of St. Joseph Catholic Church in Hays, and her campaign biography says she serves there as a lector and an notable Minister of Holy Communion. Church website: https://www.stj-church.com/.\",",
-        "\"url\": \"https://www.stj-church.com/\","
+        "Wasinger publicly identifies as a member of St. Joseph Catholic Church in Hays, and her campaign biography says she serves there as a lector and an Extraordinary Minister of Holy Communion. Church website: https://www.s...",
+        "\"whereTheyWorship\": \"Wasinger publicly identifies as a member of St. Joseph Catholic Church in Hays, and her campaign biography says she serves there as a lector and an notable Minister of Holy Communion. Church website..."
       ]
     },
     {
@@ -992,8 +965,8 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Justfacts.Votesmart",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Vote Smart: Biography](https://justfacts.votesmart.org/candidate/biography/145676/barb-wasinger)",
-        "[Vote Smart Biography](https://justfacts.votesmart.org/candidate/biography/145676/barb-wasinger)"
+        "Vote Smart: Biography",
+        "Vote Smart Biography"
       ]
     },
     {
@@ -1004,9 +977,8 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Justfacts.Votesmart",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "| Vote Smart | https://justfacts.votesmart.org/candidate/145676/barb-wasinger |",
-        "[justfacts.votesmart.org](https://justfacts.votesmart.org/candidate/145676/barb-wasinger)",
-        "[Vote Smart: Barb Wasinger](https://justfacts.votesmart.org/candidate/145676/barb-wasinger)"
+        "justfacts.votesmart.org",
+        "Vote Smart: Barb Wasinger"
       ]
     },
     {
@@ -1017,7 +989,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Justfacts.Votesmart",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Vote Smart: Key Votes](https://justfacts.votesmart.org/candidate/key-votes/145676/barb-wasinger)"
+        "Vote Smart: Key Votes"
       ]
     },
     {
@@ -1028,7 +1000,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[HaysPost: Wasinger vs. Hammond race](https://hayspost.com/posts/a0d2b56a-c6d8-4084-92bf-9e40ac0b82bd)"
+        "HaysPost: Wasinger vs. Hammond race"
       ]
     },
     {
@@ -1039,8 +1011,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "En.Wikipedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "| Wikipedia | https://en.wikipedia.org/wiki/Barb_Wasinger |",
-        "[Wikipedia: Barb Wasinger](https://en.wikipedia.org/wiki/Barb_Wasinger)"
+        "Wikipedia: Barb Wasinger"
       ]
     },
     {
@@ -1051,8 +1022,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Ballotpedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "| Ballotpedia | https://ballotpedia.org/Barbara_Wasinger |",
-        "[Ballotpedia: Barbara Wasinger](https://ballotpedia.org/Barbara_Wasinger)"
+        "Ballotpedia: Barbara Wasinger"
       ]
     },
     {
@@ -1062,10 +1032,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "title": "Legiscan",
       "publisher": "Legiscan",
       "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| LegiScan Sponsor Page | https://legiscan.com/KS/people/barbara-wasinger/id/21086 |",
-        "[legiscan.com](https://legiscan.com/KS/people/barbara-wasinger/id/21086)"
-      ]
+      "claimsAnchored": []
     },
     {
       "id": "src-barb-wasinger-0147",
@@ -1075,9 +1042,9 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[HaysPost: KS House District 111 profile](https://hayspost.com/posts/2e2efa2c-4a4a-4590-b7a5-0aeabf7be52b)",
-        "2024 Hays Post questionnaire: property tax reduction and school funding were top issues; she named cybersecurity and administrative rules/regulations as priorities; she opposed Medicaid expansion as likely to remove \"well bodied Kansans\" from the job market an",
-        "[Hays Post candidate questionnaire, Oct. 30, 2024](https://hayspost.com/posts/2e2efa2c-4a4a-4590-b7a5-0aeabf7be52b)"
+        "HaysPost: KS House District 111 profile",
+        "2024 Hays Post questionnaire: property tax reduction and school funding were top issues; she named cybersecurity and administrative rules/regulations as priorities; she opposed Medicaid expansion as likely to remove \"we...",
+        "Hays Post candidate questionnaire, Oct. 30, 2024"
       ]
     },
     {
@@ -1088,8 +1055,8 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "2023 transgender sports bill: Kansas Reflector reported she led the House push and said \"Biological men should not be competing against women.\" Source: [Kansas Reflector, Feb. 23, 2023](https://kansasreflector.com/2023/02/23/kansas-house-and-senate-both-pass-l",
-        "[Kansas Reflector transgender youth legislation, Feb. 23, 2023](https://kansasreflector.com/2023/02/23/kansas-house-and-senate-both-pass-legislation-targeting-transgender-youth/)"
+        "2023 transgender sports bill: Kansas Reflector reported she led the House push and said \"Biological men should not be competing against women.\" Source: [Kansas Reflector, Feb. 23, 2023](https://kansasreflector.com/2023/...",
+        "Kansas Reflector transgender youth legislation, Feb. 23, 2023"
       ]
     },
     {
@@ -1100,10 +1067,10 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "2024 Hays Post election-night story: she emphasized property tax relief, cybersecurity, water, private water ownership through LEMAs, seniors, and education funding. Source: [Hays Post, Nov. 7, 2024](https://hayspost.com/posts/0467451d-0b49-4f89-830e-710758488",
-        "[Hays Post - Fourth Term](https://hayspost.com/posts/0467451d-0b49-4f89-830e-7107584885fc)",
-        "[HaysPost: Rep. Wasinger looks forward to fourth term](https://hayspost.com/posts/0467451d-0b49-4f89-830e-7107584885fc)",
-        "[Hays Post fourth-term story, Nov. 7, 2024](https://hayspost.com/posts/0467451d-0b49-4f89-830e-7107584885fc)"
+        "2024 Hays Post election-night story: she emphasized property tax relief, cybersecurity, water, private water ownership through LEMAs, seniors, and education funding. Source: [Hays Post, Nov. 7, 2024](https://hayspost.co...",
+        "Hays Post - Fourth Term",
+        "HaysPost: Rep. Wasinger looks forward to fourth term",
+        "Hays Post fourth-term story, Nov. 7, 2024"
       ]
     },
     {
@@ -1114,8 +1081,8 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Hays Post spending/special education coffee, Mar. 10, 2025](https://hayspost.com/posts/f53b3db9-b85b-42ff-accd-ae5f0c823f59)",
-        "2025 legislative coffee: she said Kansas had been overspending and needed to stop, discussed CPI/valuation incentives for property tax restraint, and described unused agency programs and Medicaid fraud concerns. Source: [Hays Post, Mar. 10, 2025](https://haysp"
+        "Hays Post spending/special education coffee, Mar. 10, 2025",
+        "2025 legislative coffee: she said Kansas had been overspending and needed to stop, discussed CPI/valuation incentives for property tax restraint, and described unused agency programs and Medicaid fraud concerns. Source:..."
       ]
     },
     {
@@ -1126,8 +1093,8 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "2024 sugaring deregulation: she argued Board of Cosmetology rules were blocking a constituent from starting a flexible business. Source: [Kansas Reflector, Apr. 1, 2024](https://kansasreflector.com/2024/04/01/kansas-legislature-decides-sugaring-including-intim",
-        "[Kansas Reflector sugaring bill, Apr. 1, 2024](https://kansasreflector.com/2024/04/01/kansas-legislature-decides-sugaring-including-intimate-hair-removal-shouldnt-be-regulated/)"
+        "2024 sugaring deregulation: she argued Board of Cosmetology rules were blocking a constituent from starting a flexible business. Source: [Kansas Reflector, Apr. 1, 2024](https://kansasreflector.com/2024/04/01/kansas-leg...",
+        "Kansas Reflector sugaring bill, Apr. 1, 2024"
       ]
     },
     {
@@ -1138,8 +1105,8 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "2025 legislative coffee: she defended Hays' water conservation and criticized state interference in the R9 water project. Source: [Hays Post, Feb. 9, 2025](https://hayspost.com/posts/c009ea47-7cfc-4c71-bad9-7dae18a389c6).",
-        "[Hays Post water/conservation coffee, Feb. 9, 2025](https://hayspost.com/posts/c009ea47-7cfc-4c71-bad9-7dae18a389c6)"
+        "2025 legislative coffee: she defended Hays' water conservation and criticized state interference in the R9 water project. Source: Hays Post, Feb. 9, 2025.",
+        "Hays Post water/conservation coffee, Feb. 9, 2025"
       ]
     },
     {
@@ -1150,9 +1117,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Billtrack50",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "| BillTrack50 Scorecard | https://www.billtrack50.com/legislatordetail/24285 |",
-        "[billtrack50.com](https://www.billtrack50.com/legislatordetail/24285)",
-        "[BillTrack50: Barb Wasinger](https://www.billtrack50.com/legislatordetail/24285)"
+        "BillTrack50: Barb Wasinger"
       ]
     },
     {
@@ -1163,7 +1128,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Legistorm",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[LegiStorm: Barbara King Wasinger](https://www.legistorm.com/person/bio/313424/Barbara_King_Wasinger.html)"
+        "LegiStorm: Barbara King Wasinger"
       ]
     },
     {
@@ -1174,10 +1139,9 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Barb for Kansas Facebook](https://www.facebook.com/electbarbwasinger/) — accessed 2026-03-30",
-        "| Facebook | https://www.facebook.com/electbarbwasinger/ |",
-        "[Barb for Kansas Facebook](https://www.facebook.com/electbarbwasinger/)",
-        "[Facebook: Barb for Kansas](https://www.facebook.com/electbarbwasinger/)"
+        "Barb for Kansas Facebook — accessed 2026-03-30",
+        "Barb for Kansas Facebook",
+        "Facebook: Barb for Kansas"
       ]
     },
     {
@@ -1188,7 +1152,7 @@ export const BARB_WASINGER_V2: CandidateFullV2 = {
       "publisher": "Citizensuccess",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Citizensuccess indexed channels](https://www.citizensuccess.com/politicians/Barbara_K._Wasinger_KS_State_Representative_ocd-division%2Fcountry%3Aus%2Fstate%3Aks%2Fsldl%3A111)"
+        "Citizensuccess indexed channels"
       ]
     }
   ]

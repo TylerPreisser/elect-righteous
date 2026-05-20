@@ -22,7 +22,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -43,7 +43,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -53,7 +53,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -63,7 +63,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -73,7 +73,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -83,7 +83,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public evidence: Restoring Confidence in Our Elections, Growing Our Economy. - campaign slogan, source: https://patproctor4ks.com/ (accessed 2026-04-01) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Restoring Confidence in Our Elections, Growing Our Economy. - campaign slogan, source: https://patproctor4ks.com/ (accessed 2026-04-01) Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -104,7 +104,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -114,7 +114,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -124,7 +124,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -134,7 +134,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-joco-candidate",
           "s-campaign-home",
@@ -233,7 +233,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -264,7 +264,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -274,7 +274,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-joco-candidate",
           "s-campaign-home",
@@ -353,15 +353,15 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Pat Proctor is profiled here for Kansas Secretary of State as a Republican. URLs: https://www.kslegislature.gov/b2025_26/bills/HB2453/history/ and https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt. URLs: https://patproctor4ks.com/ and local memory/candidates/pat-proctor/in-their-own-words.md. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 11 source-backed actions across 3 of the 14 issue areas. Representative public-record entries include: Economy / jobs / labor: Restoring Confidence in Our Elections, Growing Our Economy. - campaign slogan, source: https://patproctor4ks.com/ (accessed 2026-04-01). Election integrity / voting / courts: Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor. Election integrity / voting / courts: Proctor campaign site: https://patproctor4ks.com/. Election integrity / voting / courts: HB 2453 roll call: https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whoTheyAre": "Pat Proctor is profiled here for Kansas Secretary of State as a Republican. URLs: https://www.kslegislature.gov/b2025_26/bills/HB2453/history/ and https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt. URLs: https://patproctor4ks.com/ and local memory/candidates/pat-proctor/in-their-own-words.md. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 11 source-backed items across 3 of the 14 issue areas. Representative public-record entries include: Economy / jobs / labor: Restoring Confidence in Our Elections, Growing Our Economy. - campaign slogan, source: https://patproctor4ks.com/ (accessed 2026-04-01). Election integrity / voting / courts: Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor. Election integrity / voting / courts: Proctor campaign site: https://patproctor4ks.com/. Election integrity / voting / courts: HB 2453 roll call: https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt. Social-only material is listed separately as online observation, not official action.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation for Proctor. His campaign and legislative biographies emphasize military service, elections, and business ownership rather than church membership or denomination.",
   "campaignFinance": {
     "totalRaised": "reportingPeriod: 2025-01-01 through 2025-12-31; totalContributionsAndReceipts: $312,046.74; totalExpenditures: $102,663.46; cashOnHandClose: $209,383.28; inKindContributions: $2,650.22; otherTransactions: $134,000.00; sourceIds: s-kpdc-202601",
@@ -371,7 +371,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Kansas State Wide Office - 2026 Election Cycle"
   },
-  "socialResearchNote": "9 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "9 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-joco-candidate",
@@ -383,10 +383,8 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Pat Proctor is listed as a Republican candidate for Secretary of State",
         "Election listed as August 4, 2026 Primary Election",
-        "Incumbent: No",
         "Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor",
-        "[jocoelection.org](https://www.jocoelection.org/candidates-elected-officials/pat-proctor)",
-        "\"campaignWebsite\": \"https://www.jocoelection.org/candidates-elected-officials/pat-proctor\","
+        "\"campaignWebsite\": \"https://www.jocoelection.org/candidates-elected-officials/pat-proctor\""
       ]
     },
     {
@@ -399,8 +397,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Proctor, Pat is listed under Secretary of State Candidates",
         "Index links appointment of treasurer and 202601 report",
-        "Kansas Ethics filing index: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
-        "[SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
+        "Kansas Ethics filing index: SWLinks2026EC",
         "KPDC statewide 2026 index: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
       ]
     },
@@ -419,10 +416,8 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
         "In-kind contributions were $2,650.22",
         "Other transactions were $134,000.00",
         "Schedule D itemizes candidate loans from Patrick Proctor",
-        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf\"",
-        "2026 filing PDF: [SW04PP_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf)",
+        "2026 filing PDF: SW04PP_202601.pdf",
         "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf",
-        "[SW04PP_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf)",
         "KPDC Proctor January 2026 report: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf"
       ]
     },
@@ -440,7 +435,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
         "Business information lists occupation Professor",
         "https://www.kslegislature.gov/li/b2025_26/members/rep_proctor_pat_1/",
         "Kansas Legislature Proctor profile: https://www.kslegislature.gov/li/b2025_26/members/rep_proctor_pat_1/",
-        "[Kansas Legislature](https://www.kslegislature.gov/li/b2025_26/members/rep_proctor_pat_1/)"
+        "Kansas Legislature"
       ]
     },
     {
@@ -455,17 +450,17 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
         "Campaign says Secretary of State has election and business-services duties",
         "Campaign says Proctor has worked on only U.S. citizens voting, Election Day ballot deadline, and paper audits",
         "Campaign biography lists Army service, Baan Thai ownership, House election, committee chairmanships, and Wichita State teaching",
-        "\"Restoring Confidence in Our Elections, Growing Our Economy.\" - campaign slogan, source: https://patproctor4ks.com/ (accessed 2026-04-01)",
+        "Restoring Confidence in Our Elections, Growing Our Economy. - campaign slogan, source: https://patproctor4ks.com/ (accessed 2026-04-01)",
         "Proctor campaign site: https://patproctor4ks.com/",
-        "Campaign website: [patproctor4ks.com](https://patproctor4ks.com/)",
-        "\"I’m here to Hold the Line.\" - campaign site, 2026-04-01, https://patproctor4ks.com/ - topic: campaign slogan.",
-        "\"The Secretary of State is at the front line of the fight to defend our democracy.\" - campaign site, 2026-04-01, https://patproctor4ks.com/ - topic: office framing.",
-        "\"defend our democracy\" - campaign site language, 2026-04-01, https://patproctor4ks.com/ - topic: election administration.",
-        "\"The Kansas Secretary of State has two primary duties...\" - campaign issue framing, source: https://patproctor4ks.com/ (accessed 2026-04-01)",
-        "\"As Secretary of State, I will be ever vigilant...\" - campaign issue framing, source: https://patproctor4ks.com/ (accessed 2026-04-01)",
-        "\"Serving 25 years in the U.S. Army, I've defended our freedoms and fought for the ideals of democracy.\" - campaign bio, source: https://patproctor4ks.com/ (accessed 2026-04-01)",
+        "Campaign website: patproctor4ks.com",
+        "I’m here to Hold the Line. - campaign site, 2026-04-01, https://patproctor4ks.com/ - topic: campaign slogan.",
+        "The Secretary of State is at the front line of the fight to defend our democracy. - campaign site, 2026-04-01, https://patproctor4ks.com/ - topic: office framing.",
+        "defend our democracy - campaign site language, 2026-04-01, https://patproctor4ks.com/ - topic: election administration.",
+        "The Kansas Secretary of State has two primary duties... - campaign issue framing, source: https://patproctor4ks.com/ (accessed 2026-04-01)",
+        "As Secretary of State, I will be ever vigilant... - campaign issue framing, source: https://patproctor4ks.com/ (accessed 2026-04-01)",
+        "Serving 25 years in the U.S. Army, I've defended our freedoms and fought for the ideals of democracy. - campaign bio, source: https://patproctor4ks.com/ (accessed 2026-04-01)",
         "> -- Proctor campaign website, April 1, 2026, https://patproctor4ks.com/",
-        "\"source\": \"Proctor campaign website, April 1, 2026, https://patproctor4ks.com/\",",
+        "\"source\": \"Proctor campaign website, April 1, 2026, https://patproctor4ks.com/\"",
         "URLs: https://patproctor4ks.com/ and local memory/candidates/pat-proctor/in-their-own-words.md"
       ]
     },
@@ -515,7 +510,6 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Rep. Proctor voted yea on HB 2453",
-        "\"url\": \"https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt\",",
         "HB 2453 roll call: https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt"
       ]
     },
@@ -558,7 +552,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
         "Article reports Proctor's later response at an April 19, 2025 town hall",
         "Article reports Proctor fundraising/email statements about States Newsroom/Kansas Reflector funding",
         "Kansas Reflector June 13, 2025 social/election-confidence article: https://kansasreflector.com/2025/06/13/kansas-republican-exploits-fear-of-imaginary-axis-of-ballot-harvesting-to-gain-political-advantage/",
-        "[Kansas Reflector - \"Axis of ballot harvesting\"](https://kansasreflector.com/2025/06/13/kansas-republican-exploits-fear-of-imaginary-axis-of-ballot-harvesting-to-gain-political-advantage/)"
+        "Kansas Reflector - \"Axis of ballot harvesting\""
       ]
     },
     {
@@ -569,7 +563,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "publisher": "News.Ballotpedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "On national and federal-policy questions, Proctor's feed engages selectively and through a state-elections lens. He frames opposition to federal mail-in-ballot deadlines, election-related litigation, and nonprofit-funded ballot measures as state sovereignty qu"
+        "On national and federal-policy questions, Proctor's feed engages selectively and through a state-elections lens. He frames opposition to federal mail-in-ballot deadlines, election-related litigation, and nonprofit-funde..."
       ]
     },
     {
@@ -582,8 +576,8 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Kansas Reflector April 4, 2025 campaign announcement: https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/",
         "https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/",
-        "[Kansas Reflector: Pat Proctor declares for SOS](https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/)",
-        "[Kansas Reflector - First Republican to declare](https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/)"
+        "Kansas Reflector: Pat Proctor declares for SOS",
+        "Kansas Reflector - First Republican to declare"
       ]
     },
     {
@@ -594,8 +588,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "publisher": "Sunflowerstatejournal",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Sunflower State Journal - Fundraising lead](https://sunflowerstatejournal.com/proctor-takes-commanding-fundraising-lead-in-primary-for-secretary-of-state/)",
-        "\"url\": \"https://sunflowerstatejournal.com/proctor-takes-commanding-fundraising-lead-in-primary-for-secretary-of-state/\","
+        "Sunflower State Journal - Fundraising lead"
       ]
     },
     {
@@ -606,7 +599,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "publisher": "X",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Across the harvested public record on X ([@RealPatProctor](https://x.com/RealPatProctor)), Facebook ([@PatProctorKS](https://www.facebook.com/PatProctorKS/)), YouTube ([Pat Proctor for Kansas](https://www.youtube.com/@patproctorforkansas655)), and Instagram (["
+        "Across the harvested public record on X (@RealPatProctor), Facebook (@PatProctorKS), YouTube (Pat Proctor for Kansas), and Instagram (["
       ]
     },
     {
@@ -617,7 +610,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "publisher": "Youtube",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "For the Leavenworth district itself, Proctor's local content is less voluminous than his statewide-elections content but is present. An October 5, 2025 [YouTube video](https://www.youtube.com/@patproctorforkansas655) addresses bringing jobs and opportunity bac"
+        "For the Leavenworth district itself, Proctor's local content is less voluminous than his statewide-elections content but is present. An October 5, 2025 YouTube video addresses bringing jobs and opportunity bac"
       ]
     },
     {
@@ -628,8 +621,8 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Proctor's public alignment network on his own feed centers on Kansas Republican officeholders, election-policy organizations, and his own legislative work product. His Facebook page features a campaign video titled [\"Kris Kobach Wanted This 20-Year-Old To Go T",
-        "Engagement on Proctor's content is not evenly distributed. His Facebook page hosts the highest-engagement videos when they touch enforcement of election law and ballot-integrity claims, including the [Kobach-framed enforcement video](https://www.facebook.com/P"
+        "Proctor's public alignment network on his own feed centers on Kansas Republican officeholders, election-policy organizations, and his own legislative work product. His Facebook page features a campaign video titled [\"Kr...",
+        "Engagement on Proctor's content is not evenly distributed. His Facebook page hosts the highest-engagement videos when they touch enforcement of election law and ballot-integrity claims, including the [Kobach-framed enfo..."
       ]
     },
     {
@@ -640,7 +633,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "publisher": "Wichita",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Wichita State University - Faculty Profile](https://www.wichita.edu/profiles/academics/fairmount_college_of_liberal_arts_and_sciences/school_of_criminal_justice/Proctor-Pat.php)"
+        "Wichita State University - Faculty Profile"
       ]
     },
     {
@@ -650,9 +643,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "title": "Ballotpedia",
       "publisher": "Ballotpedia",
       "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia](https://ballotpedia.org/Pat_Proctor)"
-      ]
+      "claimsAnchored": []
     },
     {
       "id": "src-pat-proctor-0077",
@@ -662,7 +653,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Proctor's platform footprint is moderately distributed. He maintains a campaign Facebook page at [@PatProctorKS](https://www.facebook.com/PatProctorKS/), an X account at [@RealPatProctor](https://x.com/RealPatProctor), a YouTube channel at [@patproctorforkansa"
+        "Proctor's platform footprint is moderately distributed. He maintains a campaign Facebook page at @PatProctorKS, an X account at @RealPatProctor, a YouTube channel at [@patproctorforkansa"
       ]
     }
   ]

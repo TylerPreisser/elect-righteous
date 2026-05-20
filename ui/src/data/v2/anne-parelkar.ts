@@ -21,7 +21,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -31,7 +31,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -41,7 +41,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -62,7 +62,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -72,7 +72,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -82,7 +82,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -113,7 +113,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -134,7 +134,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: Within Reason with Mike Matson (News Radio KMAN, March 2026) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Within Reason with Mike Matson (News Radio KMAN, March 2026) Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-anne-parelkar-0049"
         ]
@@ -194,7 +194,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -225,7 +225,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 (source). T... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 (source). T... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -277,7 +277,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Within Reason with Mike Matson (News Radio KMAN, March 2026) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Within Reason with Mike Matson (News Radio KMAN, March 2026) Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-anne-parelkar-0049",
           "src-anne-parelkar-0072",
@@ -316,7 +316,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -337,7 +337,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 (source). T... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 (source). T... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -389,26 +389,26 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Anne Parelkar is profiled here for U.S. Senate candidate as a Democratic. Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public... https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 7 source-backed actions across 4 of the 14 issue areas. Representative public-record entries include: Immigration / border: Within Reason with Mike Matson (News Radio KMAN, March 2026). Immigration / border: KMAN Radio - Anne Parelkar Interview (Mar 2026). Election integrity / voting / courts: Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); B... Public safety / law enforcement / criminal justice: Within Reason with Mike Matson (News Radio KMAN, March 2026). Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "ownWordsNarrative": "official_accounts: platform: Campaign website; url: https://www.anneforkansas.com/; evidence: Active campaign website with campaign-paid footer and links to Facebook, Instagram, Bluesky, TikTok, and YouTube.; sourceIds: s-campaign-home; platform: Bluesky; url: https://bsky.app/profile/anneforkansas.bsky.social; evidence: Public API on 2026-05-19 showed 109 followers, 35 follows, 131 posts, and account created 2025-03-26.; sourceIds: s-bsky-profile; platform: Facebook; url: https://www.facebook.com/AnneForKansas/; evidence: Linked from campaign footer; direct logged-out post metrics not captured.; sourceIds: s-campaign-home; platform: Instagram; url: https://www.instagram.com/anneforkansas; evidence: Linked from campaign footer; direct logged-out post metrics not captured.; sourceIds: s-campaign-home; platform: TikTok; url: https://www.tiktok.com/@anneforkansas; evidence: Linked from campaign footer; direct logged-out post metrics not captured.; sourceIds: s-campaign-home; platform: YouTube; url: https://www.youtube.com/@AnneForKansas; evidence: Linked from campaign footer; Bluesky posts link to campaign YouTube videos.; sourceIds: s-campaign-home; recent_bluesky_posts_after_local_harvest: date: 2026-05-18; issueMapping: online organizing; observation: Post linked campaign website and community server; 0 likes, 0 reposts, 0 replies, 0 quotes at 2026-05-19 API readback.; sourceIds: s-bsky-profile; date: 2026-05-15; issueMapping: foreign policy; observation: Nakba Day / Israel weapons funding / Palestinian self-determination post; 1 like, 0 reposts, 0 replies, 0 quotes at 2026-05-19 API readback.; sourceIds: s-bsky-2026-05-15; date: 2026-05-12; issueMapping: constituent access; observation: Virtual roundtable and Johnson County coffee meetup posts; both had 0 likes and 0 reposts at 2026-05-19 API readback.; sourceIds: s-bsky-2026-05-12-roundtable; s-bsky-2026-05-12-coffee; absences: No campaign X/Twitter, Truth Social, Gab, Gettr, Substack, or Reddit account was confirmed.; Facebook, Instagram, TikTok, YouTube, and LinkedIn direct post corpuses or engagement counts were not captured in logged-out review.; No candidate-controlled likes/follows/comments outside Bluesky profile data were captured.",
+  "whoTheyAre": "Anne Parelkar is profiled here for U.S. Senate candidate as a Democratic. Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public... https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 7 source-backed items across 4 of the 14 issue areas. Representative public-record entries include: Immigration / border: Within Reason with Mike Matson (News Radio KMAN, March 2026). Immigration / border: KMAN Radio - Anne Parelkar Interview (Mar 2026). Election integrity / voting / courts: Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); B... Public safety / law enforcement / criminal justice: Within Reason with Mike Matson (News Radio KMAN, March 2026). Social-only material is listed separately as online observation, not official action.",
+  "ownWordsNarrative": "[object Object]",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Parelkar has spoken publicly about being raised Presbyterian in Arkansas, but the source material does not identify a current Kansas congregation.",
   "campaignFinance": {
     "totalRaised": "sourceIds: s-fec-candidate; s-fec-committee; coverageStart: 2025-03-03; coverageEnd: 2026-03-31; totalReceipts: 19898; totalContributions: 14398; totalIndividualContributions: 14398; itemizedIndividualContributions: 9676; unitemizedIndividualContributions: 4722; partyCommitteeContributions: 0; otherCommitteeContributions: 0; totalLoansReceived: 5500; candidateLoans: 5500; totalDisbursements: 19707.85; operatingExpenditures: 19707.85; endingCashOnHand: 190.15; debtsOwedByCommittee: 5500",
     "narrative": "sourceIds: s-fec-candidate; s-fec-committee; coverageStart: 2025-03-03; coverageEnd: 2026-03-31; totalReceipts: 19898; totalContributions: 14398; totalIndividualContributions: 14398; itemizedIndividualContributions: 9676; unitemizedIndividualContributions: 4722; partyCommitteeContributions: 0; otherCommitteeContributions: 0; totalLoansReceived: 5500; candidateLoans: 5500; totalDisbursements: 19707.85; operatingExpenditures: 19707.85; endingCashOnHand: 190.15; debtsOwedByCommittee: 5500",
     "donors": [],
-    "undisclosed": "summary: NRSC alleged on March 11, 2026 that Parelkar and three other Kansas Democratic Senate candidates failed to timely file personal financial disclosure reports. Senate Ethics confirms candidate disclosure timing rules, but this pass did not confirm an official disposition or candidate response.; sourceIds: s-senate-ethics-disclosure; s-nrsc-complaint",
+    "undisclosed": "summary: NRSC alleged on March 11, 2026 that Parelkar and three other Kansas Democratic Senate candidates failed to timely file personal financial disclosure reports. Senate Ethics confirms candidate disclosure timing rules, but the reviewed public record did not confirm an official disposition or candidate response.; sourceIds: s-senate-ethics-disclosure; s-nrsc-complaint",
     "reportingPeriod": "Most recent public filing reviewed",
-    "source": "Candidate v2 issue file"
+    "source": "Reviewed public records"
   },
-  "socialResearchNote": "16 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "16 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-fec-candidate",
@@ -421,8 +421,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
         "Parelkar is listed as a Democratic candidate for U.S. Senate in Kansas, candidate ID S6KS00239",
         "FEC lists the candidate as a challenger",
         "Statement of Candidacy was filed July 26, 2025",
-        "Coverage through March 31, 2026 shows $19,898.00 receipts, $19,707.85 disbursements, and $190.15 ending cash on hand",
-        "| s-fec-candidate | primary | https://www.fec.gov/data/candidate/S6KS00239/?cycle=2026&election_full=false | accessed 2026-05-19 | Candidate ID, office, party, challenger status, statement filed 2025-07-26, Q1 2026 totals | status, campaign finance |"
+        "Coverage through March 31, 2026 shows $19,898.00 receipts, $19,707.85 disbursements, and $190.15 ending cash on hand"
       ]
     },
     {
@@ -438,8 +437,6 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
         "Registration date is July 24, 2025",
         "Treasurer is Shilpa Krishna-Nagarajan",
         "Authorizing candidate is Parelkar, Lois Anne Elizabeth Lea",
-        "[FEC Filing](https://www.fec.gov/data/committee/C00913293/?cycle=2026)",
-        "| s-fec-committee | primary | https://www.fec.gov/data/committee/C00913293/?cycle=2026 | accessed 2026-05-19 | Active principal committee, registration date, treasurer, authorizing candidate, Q1 2026 totals | status, campaign finance |",
         "Committee page: https://www.fec.gov/data/committee/C00913293/?cycle=2026",
         "https://www.fec.gov/data/committee/C00913293/?cycle=2026"
       ]
@@ -454,8 +451,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Amended statement of organization filed Sept. 30, 2025",
         "Committee is a principal campaign committee for Parelkar",
-        "Committee address is in Overland Park, Kansas",
-        "| s-fec-form1 | primary | https://docquery.fec.gov/pdf/572/202509309790404572/202509309790404572.pdf | filed 2025-09-30; accessed 2026-05-19 | Amended statement of organization for Anne for Kansas | campaign finance, committee structure |"
+        "Committee address is in Overland Park, Kansas"
       ]
     },
     {
@@ -469,18 +465,15 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
         "Homepage identifies Anne Parelkar as a Kansas attorney running for U.S. Senate",
         "Homepage says elected officials should answer to the people rather than party leaders or political donors",
         "Homepage links Facebook, Instagram, Bluesky, TikTok, and YouTube campaign accounts",
-        "Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts ([source](https://www.anneforkansas.com/)); Bluesky is the only accoun",
-        "| s-campaign-home | primary | https://www.anneforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, values, social links | biography, governance |",
-        "Campaign Website: [anneforkansas.com](https://www.anneforkansas.com/)",
-        "\"answer to the people. Not to party leaders. Not to political donors. Just to the people.\" - campaign site, n.d., https://www.anneforkansas.com/ (governance line)",
-        "\"answer to the people. Not to party leaders. Not to political donors. Just to the people.\" - campaign site, n.d., https://www.anneforkansas.com/",
-        "[Campaign Website](https://www.anneforkansas.com/)",
-        "[Anne Parelkar for Senate](https://www.anneforkansas.com/)",
-        "\"ownWordsNarrative\": \"official_accounts: platform: Campaign website; url: https://www.anneforkansas.com/; evidence: Active campaign website with campaign-paid footer and links to Facebook, Instagram, Bluesky, TikTok, and YouTube.; sourceIds: s-campaign-home; p",
+        "Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only...",
+        "Campaign Website: anneforkansas.com",
+        "answer to the people. Not to party leaders. Not to political donors. Just to the people. - campaign site, n.d., https://www.anneforkansas.com/ (governance line)",
+        "answer to the people. Not to party leaders. Not to political donors. Just to the people. - campaign site, n.d., https://www.anneforkansas.com/",
+        "Anne Parelkar for Senate",
         "Campaign website: https://www.anneforkansas.com/ — active. The footer links Facebook, Instagram, Bluesky, TikTok, and YouTube as official campaign accounts.",
-        "[Anne Parelkar - anneforkansas.com](https://www.anneforkansas.com/)",
+        "Anne Parelkar - anneforkansas.com",
         "> -- Anne for Kansas, accessed April 1, 2026, https://www.anneforkansas.com/",
-        "Campaign website: https://www.anneforkansas.com/ is active and links Facebook, Instagram, Bluesky, TikTok, and YouTube as campaign accounts. The site also uses NationBuilder for events, volunteer, contact, and donate flows."
+        "Campaign website: https://www.anneforkansas.com/ is active and links Facebook, Instagram, Bluesky, TikTok, and YouTube as campaign accounts. The site also uses NationBuilder for events, volunteer, contact, and donate fl..."
       ]
     },
     {
@@ -496,8 +489,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
         "Biography says she is licensed in Arkansas, Missouri, and Kansas",
         "Biography says she has lived in Overland Park since 2017",
         "Biography says she grew up in First Presbyterian Church of Pine Bluff",
-        "| s-campaign-about | primary | https://www.anneforkansas.com/about | accessed 2026-05-19 | Biography, education, residence, bar licensure claims, memberships, childhood church reference | biography, professional, faith |",
-        "[anneforkansas.com/about](https://www.anneforkansas.com/about)"
+        "anneforkansas.com/about"
       ]
     },
     {
@@ -508,8 +500,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Anne for Kansas campaign",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Issue index lists healthcare, farmers, immigration/workers, government reform, education, price manipulation, ownership, local communities, environment, and foreign policy",
-        "| s-campaign-issues | primary | https://www.anneforkansas.com/issues | accessed 2026-05-19 | Issue index / \"The People's Deal\" | platform overview |"
+        "Issue index lists healthcare, farmers, immigration/workers, government reform, education, price manipulation, ownership, local communities, environment, and foreign policy"
       ]
     },
     {
@@ -522,8 +513,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Campaign calls for Medicare for all children as an incremental step",
         "Campaign calls for ending surprise billing and requiring price transparency",
-        "Campaign supports reproductive care and protecting women's right to choose",
-        "| s-campaign-healthcare | primary | https://www.anneforkansas.com/healthcare | accessed 2026-05-19 | Child health coverage, universal-care path, surprise billing, price transparency, prevention, reproductive care | healthcare, abortion/reproductive care |"
+        "Campaign supports reproductive care and protecting women's right to choose"
       ]
     },
     {
@@ -537,8 +527,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
         "Campaign calls for humane, orderly border enforcement",
         "Campaign calls for modern processing and lawful pathways",
         "Campaign calls for independent investigation of ICE operations",
-        "Campaign calls for work-visa reform tied to local wages and domestic recruitment",
-        "| s-campaign-immigration | primary | https://www.anneforkansas.com/immigration | accessed 2026-05-19 | Border enforcement, processing, lawful pathways, ICE review, work visas | immigration, labor |"
+        "Campaign calls for work-visa reform tied to local wages and domestic recruitment"
       ]
     },
     {
@@ -550,8 +539,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Campaign calls for stronger antitrust enforcement in seed, fertilizer, meatpacking, and equipment markets",
-        "Campaign calls for fair producer prices, contract protections, local processing, credit, crop insurance, and disaster support",
-        "| s-campaign-farmers | primary | https://www.anneforkansas.com/farmers | accessed 2026-05-19 | Antitrust in farm markets, producer prices, contracts, local processing, credit/disaster support | agriculture |"
+        "Campaign calls for fair producer prices, contract protections, local processing, credit, crop insurance, and disaster support"
       ]
     },
     {
@@ -562,8 +550,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Anne for Kansas campaign",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Campaign calls for antitrust enforcement, lobbyist and stock-trading restrictions, congressional tariff authority, Citizens United reversal, public financing, and House expansion",
-        "| s-campaign-govreform | primary | https://www.anneforkansas.com/governmentreform | accessed 2026-05-19 | Antitrust, lobbying/stock trading, tariff authority, Citizens United, public financing, House expansion | governance, campaign finance |"
+        "Campaign calls for antitrust enforcement, lobbyist and stock-trading restrictions, congressional tariff authority, Citizens United reversal, public financing, and House expansion"
       ]
     },
     {
@@ -574,8 +561,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Anne for Kansas campaign",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Campaign calls for higher teacher pay, pension protection, stopping vouchers, smaller classes, less testing and paperwork, academic freedom, collective bargaining, and full IDEA funding",
-        "| s-campaign-education | primary | https://www.anneforkansas.com/education | accessed 2026-05-19 | Teacher pay, pensions, vouchers, class size, testing, academic freedom, IDEA | education |"
+        "Campaign calls for higher teacher pay, pension protection, stopping vouchers, smaller classes, less testing and paperwork, academic freedom, collective bargaining, and full IDEA funding"
       ]
     },
     {
@@ -586,8 +572,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Anne for Kansas campaign",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Campaign supports the PRO Act, wage-theft enforcement, labor standards, Job Corps/retraining, and transportation support",
-        "| s-campaign-workers | primary | https://www.anneforkansas.com/workers | accessed 2026-05-19 | PRO Act, wage theft, labor standards, Job Corps/retraining, transportation support | labor |"
+        "Campaign supports the PRO Act, wage-theft enforcement, labor standards, Job Corps/retraining, and transportation support"
       ]
     },
     {
@@ -598,8 +583,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Anne for Kansas campaign",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Campaign calls for one clear price, a ban on data-driven price discrimination, subscription protections, and Robinson-Patman protections",
-        "| s-campaign-price | primary | https://www.anneforkansas.com/endpricemanipulation | accessed 2026-05-19 | Price transparency, data-driven price discrimination, subscription protections, Robinson-Patman | consumer protection |"
+        "Campaign calls for one clear price, a ban on data-driven price discrimination, subscription protections, and Robinson-Patman protections"
       ]
     },
     {
@@ -610,8 +594,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Anne for Kansas campaign",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Campaign calls for a national right to repair, plain-language user agreements, digital-purchase protections, and a ban on planned obsolescence",
-        "| s-campaign-ownership | primary | https://www.anneforkansas.com/restoreownership | accessed 2026-05-19 | Right to repair, user agreements, product subscriptions, digital purchases, planned obsolescence | consumer ownership |"
+        "Campaign calls for a national right to repair, plain-language user agreements, digital-purchase protections, and a ban on planned obsolescence"
       ]
     },
     {
@@ -622,8 +605,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Anne for Kansas campaign",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Campaign calls for local business competition, simpler grant processes, revitalization, local-media grants, and local flexibility in federal programs",
-        "| s-campaign-local | primary | https://www.anneforkansas.com/localcommunities | accessed 2026-05-19 | Local business competition, grants, revitalization, local media, local flexibility | local communities |"
+        "Campaign calls for local business competition, simpler grant processes, revitalization, local-media grants, and local flexibility in federal programs"
       ]
     },
     {
@@ -634,8 +616,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Anne for Kansas campaign",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Campaign calls for cleanup of polluted sites and waterways, cleanup bonds, conservation payments, drought/flood/wildfire/grid resilience, and domestic power-component manufacturing",
-        "| s-campaign-environment | primary | https://www.anneforkansas.com/environment | accessed 2026-05-19 | Cleanup, polluter bonds, conservation payments, drought/flood/grid resilience | environment, agriculture |"
+        "Campaign calls for cleanup of polluted sites and waterways, cleanup bonds, conservation payments, drought/flood/wildfire/grid resilience, and domestic power-component manufacturing"
       ]
     },
     {
@@ -647,8 +628,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Campaign release says Parelkar launched a statewide listening tour while exploring a U.S. Senate run",
-        "Release says the tour would include town halls and one-on-one meetings",
-        "| s-campaign-listening-tour | primary | https://www.anneforkansas.com/newsroom/anne-parelkar-begins-listening-tour-across-kansas | June 2025; accessed 2026-05-19 | Listening-tour launch, direct voter meetings, campaign posture | constituent access |"
+        "Release says the tour would include town halls and one-on-one meetings"
       ]
     },
     {
@@ -662,9 +642,8 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
         "Profile had 109 followers, 35 follows, and 131 posts at API readback",
         "Profile was created March 26, 2025",
         "Profile bio identifies Parelkar as an attorney licensed in Kansas, Arkansas, and Missouri and as a 2026 U.S. Senate candidate",
-        "| s-bsky-profile | social | https://bsky.app/profile/anneforkansas.bsky.social | API accessed 2026-05-19 | Profile, bio, 109 followers, 35 follows, 131 posts, created 2025-03-26 | social presence |",
-        "Handle: [@anneforkansas.bsky.social](https://bsky.app/profile/anneforkansas.bsky.social)",
-        "Bluesky: [@anneforkansas.bsky.social](https://bsky.app/profile/anneforkansas.bsky.social) — 106 followers, 35 follows, 126 posts as of 2026-05-11 public API capture; active."
+        "Handle: @anneforkansas.bsky.social",
+        "Bluesky: @anneforkansas.bsky.social — 106 followers, 35 follows, 126 posts as of 2026-05-11 public API capture; active."
       ]
     },
     {
@@ -676,8 +655,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Parelkar posted on May 15, 2026 about Nakba Day, U.S. weapons to Israel, and Palestinian self-determination",
-        "Engagement at API readback was 1 like, 0 reposts, 0 replies, 0 quotes",
-        "| s-bsky-2026-05-15 | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3mlwbobpi222e | posted 2026-05-15; accessed 2026-05-19 | Nakba Day, Israel weapons funding, Palestinian self-determination | foreign policy |"
+        "Engagement at API readback was 1 like, 0 reposts, 0 replies, 0 quotes"
       ]
     },
     {
@@ -689,8 +667,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Parelkar invited Kansans to a virtual campaign roundtable",
-        "Engagement at API readback was 0 likes, 0 reposts, 0 replies, 0 quotes",
-        "| s-bsky-2026-05-12-roundtable | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3mlocrf726k26 | posted 2026-05-12; accessed 2026-05-19 | Virtual campaign roundtable | constituent access |"
+        "Engagement at API readback was 0 likes, 0 reposts, 0 replies, 0 quotes"
       ]
     },
     {
@@ -702,8 +679,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Parelkar promoted weekly Wednesday coffee meetups in Johnson County",
-        "Engagement at API readback was 0 likes, 0 reposts, 0 replies, 0 quotes",
-        "| s-bsky-2026-05-12-coffee | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3mlodg6je7s2q | posted 2026-05-12; accessed 2026-05-19 | Johnson County coffee meetup | constituent access |"
+        "Engagement at API readback was 0 likes, 0 reposts, 0 replies, 0 quotes"
       ]
     },
     {
@@ -714,8 +690,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Bluesky",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Parelkar posted a message of support to trans Kansans on March 31, 2026",
-        "| s-bsky-2026-03-31-trans | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3miep53rkns2n | posted 2026-03-31; accessed 2026-05-19 | Post to trans Kansans | LGBTQ policy |"
+        "Parelkar posted a message of support to trans Kansans on March 31, 2026"
       ]
     },
     {
@@ -726,8 +701,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Bluesky",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Parelkar posted on Transgender Day of Visibility about solidarity, understanding, and equality",
-        "| s-bsky-2026-03-31-tdov | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3miep2pwhl52b | posted 2026-03-31; accessed 2026-05-19 | Transgender Day of Visibility post | LGBTQ policy |"
+        "Parelkar posted on Transgender Day of Visibility about solidarity, understanding, and equality"
       ]
     },
     {
@@ -739,8 +713,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Parelkar posted on National Ag Day and linked to the campaign farmers page",
-        "For Kansas-specific policy, Parelkar's feed combines statewide stops with issue planks on agriculture, health care, public schools, local communities, and worker protections. On March 25, 2026, she posted, \"Happy #NationalAgDay, everyone. I hear politicians ta",
-        "| s-bsky-2026-03-25-ag | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c | posted 2026-03-25; accessed 2026-05-19 | Agriculture / corporate concentration post | agriculture |"
+        "For Kansas-specific policy, Parelkar's feed combines statewide stops with issue planks on agriculture, health care, public schools, local communities, and worker protections. On March 25, 2026, she posted, \"Happy #Natio..."
       ]
     },
     {
@@ -751,8 +724,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Bluesky",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Parelkar posted about subscription practices and linked to The People's Deal",
-        "| s-bsky-2026-03-21-consumer | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3mhjqh7yhtk2s | posted 2026-03-21; accessed 2026-05-19 | Subscription / corporate-practices post | consumer protection |"
+        "Parelkar posted about subscription practices and linked to The People's Deal"
       ]
     },
     {
@@ -763,8 +735,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Bluesky",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Parelkar posted that she joined Women for Kansas in Lawrence to give an immigration-law presentation",
-        "| s-bsky-2026-02-17-immigration | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3mf37k7cpxc25 | posted 2026-02-17; accessed 2026-05-19 | Women for Kansas immigration-law presentation | immigration, public engagement |"
+        "Parelkar posted that she joined Women for Kansas in Lawrence to give an immigration-law presentation"
       ]
     },
     {
@@ -775,8 +746,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Bluesky",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Parelkar posted an Easter/faith reference and said she discussed faith in an upcoming podcast clip",
-        "| s-bsky-2026-04-06-faith | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3mis3newg5s2h | posted 2026-04-06; accessed 2026-05-19 | Personal faith reference | faith signal |"
+        "Parelkar posted an Easter/faith reference and said she discussed faith in an upcoming podcast clip"
       ]
     },
     {
@@ -791,15 +761,15 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
         "Article reports 2026 is her first campaign for elected office",
         "Article ties her campaign to immigration-system concerns and a Roger Marshall town hall",
         "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-        "[Kansas Reflector - Announcement (Aug 2025)](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)",
-        "[Anne Parelkar Announcement (Aug 25, 2025)](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)",
-        "[Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/) (Aug 25, 2025)",
-        "[Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)",
-        "\"We have a very big problem with immigration in our country right now.\" - Kansas Reflector, Aug. 25, 2025, https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/ (immigration)",
-        "\"a single consolidated program\" - Kansas Reflector, Aug. 25, 2025, https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/ (children's healthcare)",
-        "\"We have a very big problem with immigration in our country right now.\" - Kansas Reflector, 2025-08-25, https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
+        "Kansas Reflector - Announcement (Aug 2025)",
+        "Anne Parelkar Announcement (Aug 25, 2025)",
+        "Kansas Reflector: Democratic immigration lawyer wants to fix broken system (Aug 25, 2025)",
+        "Kansas Reflector: Immigration lawyer runs",
+        "We have a very big problem with immigration in our country right now. - Kansas Reflector, Aug. 25, 2025, https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-s...",
+        "a single consolidated program - Kansas Reflector, Aug. 25, 2025, https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/ (children's healthcare)",
+        "We have a very big problem with immigration in our country right now. - Kansas Reflector, 2025-08-25, https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-sena...",
         "> -- Kansas Reflector, August 25, 2025, https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-        "\"source\": \"Kansas Reflector, August 25, 2025, https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/\","
+        "\"source\": \"Kansas Reflector, August 25, 2025, https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/\""
       ]
     },
     {
@@ -811,8 +781,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Kansas Democratic Party lists Anne Parelkar under U.S. Senate candidates with her campaign website",
-        "Page cautions readers to reference the Secretary of State for filed candidates",
-        "| s-kdp-candidates | secondary | https://kansasdems.org/candidates | accessed 2026-05-19 | KDP lists Parelkar under US Senate with campaign website, with caveat to reference SOS for filed candidates | party listing |"
+        "Page cautions readers to reference the Secretary of State for filed candidates"
       ]
     },
     {
@@ -824,8 +793,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Page says candidate list is from the Kansas Secretary of State",
-        "Page lists Parelkar among U.S. Senate candidates with FEC ID S6KS00239 and March 31, 2026 FEC totals",
-        "| s-greenpapers-ks2026 | secondary | https://www.thegreenpapers.com/G26/KS | accessed 2026-05-19 | Kansas 2026 candidate list said to be from Kansas SOS; lists Parelkar and Q1 FEC totals | ballot-status lead, race field |"
+        "Page lists Parelkar among U.S. Senate candidates with FEC ID S6KS00239 and March 31, 2026 FEC totals"
       ]
     },
     {
@@ -837,8 +805,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Directory lists Parelkar Immigration Law LLC in Overland Park",
-        "Directory lists AILA member since 2016, bar admissions in Arkansas, Missouri, and Kansas, and case types including family, general, and naturalization",
-        "| s-aila-profile | secondary | https://ailalawyer.com/english/AttorneyDetail.aspx?A=148708&P=74382 | accessed 2026-05-19 | AILA lawyer directory: Parelkar Immigration Law, bar admissions, case types, AILA member since 2016 | professional |"
+        "Directory lists AILA member since 2016, bar admissions in Arkansas, Missouri, and Kansas, and case types including family, general, and naturalization"
       ]
     },
     {
@@ -849,8 +816,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Immirail",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "| s-immirail-profile | secondary | https://immirail.com/profile-anne-lea-parelkar | accessed 2026-05-19 | Immigration-law directory: Parelkar Immigration Law, Overland Park, bar admissions | professional |",
-        "[ImmiRail: Anne Parelkar profile](https://immirail.com/profile-anne-lea-parelkar)"
+        "ImmiRail: Anne Parelkar profile"
       ]
     },
     {
@@ -861,9 +827,9 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "1350kman",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Within Reason with Mike Matson (News Radio KMAN, March 2026)](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)",
-        "[KMAN Radio - Anne Parelkar Interview (Mar 2026)](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)",
-        "[KMAN Radio: Within Reason interview](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)"
+        "Within Reason with Mike Matson (News Radio KMAN, March 2026)",
+        "KMAN Radio - Anne Parelkar Interview (Mar 2026)",
+        "KMAN Radio: Within Reason interview"
       ]
     },
     {
@@ -874,7 +840,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector podcast interview](https://kansasreflector.com/podcasts/anne-parelkar-latest-democrat-running-for-kansas-u-s-senate-seat/)"
+        "Kansas Reflector podcast interview"
       ]
     },
     {
@@ -885,7 +851,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Ballotpedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Anne Parelkar - Ballotpedia](https://ballotpedia.org/Anne_Parelkar)"
+        "Anne Parelkar - Ballotpedia"
       ]
     },
     {
@@ -896,7 +862,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked campaign agriculture plank, but no detaile"
+        "Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked c..."
       ]
     },
     {
@@ -907,7 +873,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "On national and foreign-policy questions, Parelkar posts less often than she posts about campaign events and public access, but the captured feed includes immigration enforcement, voting, Russia, Iran, Gaza, federal labor policy, and the government shutdown. O"
+        "On national and foreign-policy questions, Parelkar posts less often than she posts about campaign events and public access, but the captured feed includes immigration enforcement, voting, Russia, Iran, Gaza, federal lab..."
       ]
     },
     {
@@ -918,7 +884,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Parelkar's public alignment network centers on county Democratic organizations, Kansas civic events, and campaign-controlled media. She tagged the Miami County Democratic Party account in an April 6, 2026 post: \"See you tonight, Miami County! 💙 Join us at the"
+        "Parelkar's public alignment network centers on county Democratic organizations, Kansas civic events, and campaign-controlled media. She tagged the Miami County Democratic Party account in an April 6, 2026 post: \"See you..."
       ]
     },
     {
@@ -929,7 +895,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Audience response on Parelkar's measurable Bluesky feed is small and concentrated around party independence, health care, and campaign-media clips. Her highest-engagement Parelkar-authored Bluesky post in the captured set was a June 24, 2025 post with 6 likes,"
+        "Audience response on Parelkar's measurable Bluesky feed is small and concentrated around party independence, health care, and campaign-media clips. Her highest-engagement Parelkar-authored Bluesky post in the captured s..."
       ]
     },
     {
@@ -940,7 +906,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Across the [51 Parelkar-authored Bluesky posts cataloged in the harvest](social-harvest.md), her most frequent subject is in-person contact with Kansans: roundtables, coffee meetings, county Democratic gatherings, candidate forums, and listening-tour stops acc"
+        "Across the 51 Parelkar-authored Bluesky posts cataloged in the harvest, her most frequent subject is in-person contact with Kansans: roundtables, coffee meetings, county Democratic gatherings, candidate forums, and list..."
       ]
     },
     {
@@ -951,7 +917,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Parelkar tagged or mentioned [@miamicoksdems.org](https://bsky.app/profile/miamicoksdems.org) in a 2026-04-06 Miami County meeting post."
+        "Parelkar tagged or mentioned @miamicoksdems.org in a 2026-04-06 Miami County meeting post."
       ]
     },
     {
@@ -961,9 +927,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "title": "Avvo",
       "publisher": "Avvo",
       "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| s-avvo-profile | secondary | https://www.avvo.com/attorneys/64148-mo-anne-parelkar-4304170.html | accessed 2026-05-19 | Lawyer directory: Kansas/Missouri/Arkansas licensure and no misconduct found in Avvo listing | professional |"
-      ]
+      "claimsAnchored": []
     },
     {
       "id": "src-anne-parelkar-0224",
@@ -973,10 +937,9 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "publisher": "Linkedin",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Social Media: [LinkedIn](https://www.linkedin.com/in/anne-lea-parelkar-83095659/)",
-        "LinkedIn: [Anne Lea Parelkar](https://www.linkedin.com/in/anne-lea-parelkar-83095659/)",
-        "[LinkedIn](https://www.linkedin.com/in/anne-lea-parelkar-83095659/)",
-        "LinkedIn: [Anne Lea Parelkar](https://www.linkedin.com/in/anne-lea-parelkar-83095659/) — profile identified in existing candidate source file; no public activity harvested."
+        "Social Media: LinkedIn",
+        "LinkedIn: Anne Lea Parelkar",
+        "LinkedIn: Anne Lea Parelkar — profile identified in existing candidate source file; no public activity harvested."
       ]
     },
     {

@@ -19,7 +19,7 @@ export const MARVIN_MATCHETT_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const MARVIN_MATCHETT_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const MARVIN_MATCHETT_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -49,7 +49,7 @@ export const MARVIN_MATCHETT_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -59,7 +59,7 @@ export const MARVIN_MATCHETT_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public evidence: Kansas Legislature pages list Matchett testimony on taxation measures including HB 2712 and SCR 1621/SB 488.",
+        "text": "Documented public record: Kansas Legislature pages list Matchett testimony on taxation measures including HB 2712 and SCR 1621/SB 488.",
         "sourceIds": [
           "s-hb2712",
           "s-sb488-testimony"
@@ -82,7 +82,7 @@ export const MARVIN_MATCHETT_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -92,7 +92,7 @@ export const MARVIN_MATCHETT_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -102,7 +102,7 @@ export const MARVIN_MATCHETT_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -112,7 +112,7 @@ export const MARVIN_MATCHETT_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -122,7 +122,7 @@ export const MARVIN_MATCHETT_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: The state roster audit found Marvin Matchett on the official Kansas SOS 2026 Primary list for House District 110.",
+        "text": "Documented public record: The state roster audit found Marvin Matchett on the official Kansas SOS 2026 Primary list for House District 110.",
         "sourceIds": [
           "s-sos-2026-primary"
         ]
@@ -135,14 +135,6 @@ export const MARVIN_MATCHETT_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-sos-2026-primary"
           ]
-        },
-        {
-          "id": "em-marvin-matchett-00005",
-          "date": "Undated",
-          "body": "Legislative minutes list Matchett written testimony on HB 2503, a mail-ballot-election-act repeal bill, but the profile should cite the testimony itself before characterizing his position in detail.",
-          "sourceIds": [
-            "s-sos-2026-primary"
-          ]
         }
       ],
       "socialSignals": []
@@ -151,7 +143,7 @@ export const MARVIN_MATCHETT_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -161,7 +153,7 @@ export const MARVIN_MATCHETT_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public evidence: KAC records and legislative testimony place Matchett in western Kansas county-policy work affecting rural counties.",
+        "text": "Documented public record: KAC records and legislative testimony place Matchett in western Kansas county-policy work affecting rural counties.",
         "sourceIds": [
           "s-kac-board",
           "s-sb488-testimony"
@@ -184,7 +176,7 @@ export const MARVIN_MATCHETT_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: Norton County's official staff directory lists Marvin Matchett as a county commissioner.",
+        "text": "Documented public record: Norton County's official staff directory lists Marvin Matchett as a county commissioner.",
         "sourceIds": [
           "s-norton-commission"
         ]
@@ -205,7 +197,7 @@ export const MARVIN_MATCHETT_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],

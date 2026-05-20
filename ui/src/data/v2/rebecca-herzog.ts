@@ -19,7 +19,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -49,7 +49,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -59,10 +59,9 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Public-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which is limited to tax protesters and Kansas-certified general real property appraisers (Ellis County Register of Deeds). The 2025 Ellis County departmental budget book adds that the office records and preserv... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: Public-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which is limited to tax protesters and Kansas-certified general real property appraisers (Ellis County Register of Deeds). The 2025 Ellis County departmental budget book adds that the office records and preserv... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-ellis-register-page",
-          "src-rebecca-herzog-0008",
           "s-ellis-2025-budget-book"
         ]
       },
@@ -74,14 +73,6 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-ellis-register-page"
           ]
-        },
-        {
-          "id": "em-rebecca-herzog-02171",
-          "date": "Undated",
-          "body": "The 2025 budget book adds that the office serves the public by recording and preserving county records, and says some sensitive records require requester forms before copies are given. Source: Ellis County 2025 departmental budget book.",
-          "sourceIds": [
-            "src-rebecca-herzog-0008"
-          ]
         }
       ],
       "socialSignals": []
@@ -90,7 +81,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -100,7 +91,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -110,7 +101,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -120,7 +111,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -130,7 +121,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: The office's own wording is administrative and service-oriented rather than ideological. It says the goal is quality public service in a professional manner and describes the office as filing and recording documents that pertain to real estate. It also identifies the core statutory work: recording qualified public documents and maintaining accurate indexes showing correct ownership of land across Ellis County (Ellis... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The office's own wording is administrative and service-oriented rather than ideological. It says the goal is quality public service in a professional manner and describes the office as filing and recording documents that pertain to real estate. It also identifies the core statutory work: recording qualified public documents and maintaining accurate indexes showing correct ownership of land across Ellis County (Ellis... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-ellis-register-page",
           "s-tiger-2020-voter-guide",
@@ -206,7 +197,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Ellis County Register of Deeds Official Page Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Ellis County Register of Deeds Official Page Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-ellis-register-page",
           "src-rebecca-herzog-0062"
@@ -252,7 +243,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -262,10 +253,10 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Public-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which is limited to tax protesters and Kansas-certified general real property appraisers (Ellis County Register of Deeds). The 2025 Ellis County departmental budget book adds that the office records and preserv... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: Public-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which is limited to tax protesters and Kansas-certified general real property appraisers (Ellis County Register of Deeds). The 2025 Ellis County departmental budget book adds that the office records and preserv... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-ellis-register-page",
-          "src-rebecca-herzog-0008"
+          "s-tiger-2020-voter-guide"
         ]
       },
       "actions": [
@@ -302,19 +293,19 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-rebecca-herzog-02171",
-          "date": "Undated",
-          "body": "The 2025 budget book adds that the office serves the public by recording and preserving county records, and says some sensitive records require requester forms before copies are given. Source: Ellis County 2025 departmental budget book.",
-          "sourceIds": [
-            "src-rebecca-herzog-0008"
-          ]
-        },
-        {
           "id": "em-rebecca-herzog-00004",
           "date": "Undated",
           "body": "The office's own wording is administrative and service-oriented rather than ideological. It says the goal is quality public service in a professional manner and describes the office as filing and recording documents that pertain to real estate. It also identifies the core statutory work: recording qualified public documents and maintaining accurate indexes showing correct ownership of land across Ellis County (Ellis County Register of Deeds).",
           "sourceIds": [
             "s-ellis-register-page"
+          ]
+        },
+        {
+          "id": "em-rebecca-herzog-00006",
+          "date": "Undated",
+          "body": "The verified election record shows a long-running incumbent, not a new 2024 officeholder. The Tiger Media Network 2020 voter guide identified Herzog as the incumbent Republican candidate for Ellis County Register of Deeds running unopposed. Hays Post's January 12, 2021 swearing-in coverage said Register of Deeds Rebecca Herzog was sworn in for another term. In the 2024 general election results, Hays Post listed incumbent Rebecca Herzog, Republican, with 7,074 votes for register of deeds.",
+          "sourceIds": [
+            "s-tiger-2020-voter-guide"
           ]
         }
       ],
@@ -335,24 +326,24 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Rebecca Herzog is profiled here for Ellis County Register of Deeds as a Republican incumbent/current official. The central message comes from the Ellis County Register of Deeds page, which lists Herzog as registrar and frames the office around public service, professionalism, recording real-estate documents, maintaining accurate land-ownership indexes, and keeping reg... The office's own wording is administrative and service-oriented rather than ideological. It says the goal is quality public service in a professional manner and describes the office as filing and recording documents that pertain to real estate. It also identi... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "title: Registrar / Register of Deeds; address: 718 Main St., Hays, KS 67601; phone: 785-628-9450; sourceIds: s-ellis-register-page; s-ellis-staff-directory; s-ellis-staff-entry",
+  "whoTheyAre": "Rebecca Herzog is profiled here for Ellis County Register of Deeds as a Republican incumbent/current official. The central message comes from the Ellis County Register of Deeds page, which lists Herzog as registrar and frames the office around public service, professionalism, recording real-estate documents, maintaining accurate land-ownership indexes, and keeping reg... The office's own wording is administrative and service-oriented rather than ideological. It says the goal is quality public service in a professional manner and describes the office as filing and recording documents that pertain to real estate. It also identi... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 17 source-backed items across 4 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: Public-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which... Election integrity / voting / courts: The office's own wording is administrative and service-oriented rather than ideological. It says the goal is quality public service in a professional manner and describes the office as filing and recor... Election integrity / voting / courts: The verified election record shows a long-running incumbent, not a new 2024 officeholder. The Tiger Media Network 2020 voter guide identified Herzog as the incumbent Republican candidate for Ellis Coun... Election integrity / voting / courts: Ellis County Register of Deeds Official Page. Social-only material is listed separately as online observation, not official action.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation, denomination, or parish website for Herzog.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
-    "narrative": "No complete donor ledger, receipts-and-expenditures report, or affidavit of exemption was verified online in this pass.; KPDC guidance says local candidates file Appointment of Treasurer forms with county clerks or county election commissioners.; The public Kansas campaign-finance portal's visible categories are House, Senate, statewide races, and Board of Education, so a county Register of Deeds filing may require a county records request.; Do not describe the absence of an online donor table as proof that no campaign-finance filing exists.",
+    "narrative": "No complete donor ledger, receipts-and-expenditures report, or affidavit of exemption was verified online in the reviewed public record.; KPDC guidance says local candidates file Appointment of Treasurer forms with county clerks or county election commissioners.; The public Kansas campaign-finance portal's visible categories are House, Senate, statewide races, and Board of Education, so a county Register of Deeds filing may require a county records request.; Do not describe the absence of an online donor table as proof that no campaign-finance filing exists.",
     "donors": [],
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "2 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "2 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ellis-register-page",
@@ -367,18 +358,14 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
         "State-required functions include recording qualified public documents and maintaining accurate land-ownership indexes",
         "Most Register of Deeds records are described as open to the public, with a Sales Validation Questionnaire exception",
         "Official office address is 718 Main St., Hays, KS 67601, with phone 785-628-9450",
-        "narrative: \"Rebecca Herzog's public messaging is not a conventional campaign-social record. The accessible record through May 11, 2026 is almost entirely official-office language and directory/election documentation for the Ellis County Register of Deeds. I fo",
-        "Public-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which is limited to tax protesters and Kansas-certi",
-        "| Office mission, public service, professionalism | 2 | [Official county page](https://www.ellisco.net/100/Register-of-Deeds), [2025 budget book](https://www.ellisco.net/DocumentCenter/View/5647/2025-Budget-Book_Departmental-Budgets) |",
-        "| Recording real-estate documents, indexing land ownership, preserving county records | 3 | [Official county page](https://www.ellisco.net/100/Register-of-Deeds), [2025 budget book](https://www.ellisco.net/DocumentCenter/View/5647/2025-Budget-Book_Departmental",
-        "| Public access and legal exceptions to records access | 2 | [Official county page](https://www.ellisco.net/100/Register-of-Deeds), [2025 budget book](https://www.ellisco.net/DocumentCenter/View/5647/2025-Budget-Book_Departmental-Budgets) |",
-        "The office's own wording is administrative and service-oriented rather than ideological. It says the goal is quality public service in a professional manner and describes the office as filing and recording documents that pertain to real estate. It also identif",
-        "[Ellis County Register of Deeds Official Page](https://www.ellisco.net/100/Register-of-Deeds)",
-        "[Ellis County Register of Deeds](https://www.ellisco.net/100/Register-of-Deeds)",
-        "The central message comes from the [Ellis County Register of Deeds page](https://www.ellisco.net/100/Register-of-Deeds), which lists Herzog as registrar and frames the office around public service, professionalism, recording real-estate documents, maintaining",
-        "\"quality public service\" - Ellis County Register of Deeds official page - https://www.ellisco.net/100/Register-of-Deeds - topic: office mission",
-        "\"files and records documents\" - Ellis County Register of Deeds official page - https://www.ellisco.net/100/Register-of-Deeds - topic: office duties",
-        "\"Record all documents submitted by the public\" - Ellis County Register of Deeds official page - https://www.ellisco.net/100/Register-of-Deeds - topic: recording duty"
+        "Public-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which is l...",
+        "The office's own wording is administrative and service-oriented rather than ideological. It says the goal is quality public service in a professional manner and describes the office as filing and recording documents tha...",
+        "Ellis County Register of Deeds Official Page",
+        "Ellis County Register of Deeds",
+        "The central message comes from the Ellis County Register of Deeds page, which lists Herzog as registrar and frames the office around public service, professionalism, recording real-estate documents, maintaining",
+        "quality public service - Ellis County Register of Deeds official page - https://www.ellisco.net/100/Register-of-Deeds - topic: office mission",
+        "files and records documents - Ellis County Register of Deeds official page - https://www.ellisco.net/100/Register-of-Deeds - topic: office duties",
+        "Record all documents submitted by the public - Ellis County Register of Deeds official page - https://www.ellisco.net/100/Register-of-Deeds - topic: recording duty"
       ]
     },
     {
@@ -393,9 +380,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
         "Register of Deeds department phone is 785-628-9450",
         "Ellis County staff directory, Register of Deeds department - https://www.ellisco.net/Directory.aspx?did=7",
         "Ellis County staff directory: primary source listing Herzog as Registrar. URL: https://www.ellisco.net/Directory.aspx?did=7 and https://www.ellisco.net/directory.aspx?eid=21",
-        "| Official county staff directory | Yes | [Register of Deeds staff directory](https://www.ellisco.net/Directory.aspx?did=7) | County staff page lists \"Herzog, Rebecca\" as registrar with the office phone number. |",
-        "| Professional/directory metadata | 3 | [County staff directory](https://www.ellisco.net/Directory.aspx?did=7), [KRDA listing](https://ksrods.com/contact-information/ellis-county-el-nc-district/), [LKM profile](https://www.lkm.org/members/?id=41503078) |",
-        "[Ellis County Register of Deeds staff directory](https://www.ellisco.net/Directory.aspx?did=7)"
+        "Ellis County Register of Deeds staff directory"
       ]
     },
     {
@@ -441,8 +426,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
         "Minutes say revenue was expected to stay stable",
         "Minutes say Herzog may hire someone mid-year",
         "Minutes say she reviewed the tech fund and had helped other offices",
-        "Ellis County Commission minutes, July 21, 2025 - https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07212025-686",
-        "\"url\": \"https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07212025-686\","
+        "Ellis County Commission minutes, July 21, 2025 - https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07212025-686"
       ]
     },
     {
@@ -484,8 +468,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
         "Official county PDF/OCR lists REP Rebecca A. Herzog with 11,455 votes for County Register of Deeds",
         "Official county PDF/OCR lists write-in totals of 103 and total votes cast of 11,558 for the Register of Deeds race",
         "PDF is image-based in local extraction, so exact result text came from web/OCR indexing of the county PDF",
-        "Ellis County official 2024 general election results PDF - https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results",
-        "\"url\": \"https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results\","
+        "Ellis County official 2024 general election results PDF - https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results"
       ]
     },
     {
@@ -497,7 +480,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Visible public search categories are House, Senate, statewide races, and Board of Education",
-        "No online donor ledger for Herzog's county Register of Deeds race was verified in this pass",
+        "No online donor ledger for Herzog's county Register of Deeds race was verified in the reviewed public record",
         "Kansas campaign-finance data portal - https://www.kansas.gov/campaign-finance/"
       ]
     },
@@ -525,7 +508,6 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "LKM profile preview identifies Rebecca Herzog as Register of Deeds, Ellis County",
         "Preview lists last updated May 28, 2024",
-        "| League of Kansas Municipalities profile | Yes, limited | [Rebecca Herzog, Register of Deeds, Ellis County](https://www.lkm.org/members/?id=41503078) | Public preview identifies her as Ellis County register of deeds and was last updated May 28, 2024. Direct p",
         "League of Kansas Municipalities profile preview - https://www.lkm.org/members/?id=41503078"
       ]
     },
@@ -540,10 +522,8 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
         "Herzog was identified as the incumbent Republican candidate for Ellis County Register of Deeds in 2020",
         "Article said she was running unopposed",
         "Article's office-duty description appears imprecise and is not used for office-function claims",
-        "The verified election record shows a long-running incumbent, not a new 2024 officeholder. The [Tiger Media Network 2020 voter guide](https://tigermedianet.com/?p=56543) identified Herzog as the incumbent Republican candidate for Ellis County Register of Deeds",
-        "Tiger Media Network 2020 Ellis County Voter Guide - https://tigermedianet.com/?p=56543",
-        "| Incumbency/election status | 3 | [2020 voter guide](https://tigermedianet.com/?p=56543), [2021 swearing-in story](https://hayspost.com/posts/3278d618-1e26-4ad5-8ceb-e19b22b25a44), [2024 results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
-        "| 2020 voter guide | Yes | [Tiger Media Network 2020 Ellis County Voter Guide](https://tigermedianet.com/?p=56543) | Identified Herzog as the incumbent Republican candidate for register of deeds running unopposed. Its description of register duties appears imp"
+        "The verified election record shows a long-running incumbent, not a new 2024 officeholder. The Tiger Media Network 2020 voter guide identified Herzog as the incumbent Republican candidate for Ellis County Register of Dee...",
+        "Tiger Media Network 2020 Ellis County Voter Guide - https://tigermedianet.com/?p=56543"
       ]
     },
     {
@@ -556,8 +536,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Hays Post captioned Herzog as Register of Deeds sworn in for another term in January 2021",
         "Hays Post, Ellis County elected officials sworn in Monday - https://hayspost.com/posts/3278d618-1e26-4ad5-8ceb-e19b22b25a44",
-        "| Hays Post swearing-in coverage | Yes | [Ellis County elected officials sworn in Monday](https://hayspost.com/posts/3278d618-1e26-4ad5-8ceb-e19b22b25a44) | January 12, 2021 story/captions say Register of Deeds Rebecca Herzog was sworn in for another term, con",
-        "[Hays Post 2021 swearing-in coverage](https://hayspost.com/posts/3278d618-1e26-4ad5-8ceb-e19b22b25a44)"
+        "Hays Post 2021 swearing-in coverage"
       ]
     },
     {
@@ -571,37 +550,11 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
         "Hays Post's election-night page listed incumbent Rebecca Herzog, Republican, with 7,074 votes",
         "This conflicts with the official county result PDF/OCR and should not control the final result",
         "Hays Post 2024 election-night results - https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
-        "[2024 Election Results -- Hays Post](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
-        "[Hays Post: 2024 Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
-        "[Hays Post: 2024 General Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
-        "| Hays Post election results | Yes | [2024 Ellis County results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496) | Shows incumbent Rebecca Herzog, Republican, receiving 7,074 votes for Ellis County Register of Deeds in the November 2024 genera",
-        "Electoral: Hays Post reported Herzog received 7,074 votes as the incumbent Republican candidate for Ellis County Register of Deeds in the 2024 general election. Source: [Hays Post, Nov. 6, 2024](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496).",
-        "[Hays Post 2024 Ellis County general-election results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0008",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/DocumentCenter/View/5647/2025-Budget-Book_Departmental-Budgets",
-      "title": "Ellisco",
-      "publisher": "Ellisco",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| County budget books | Yes | [2025 departmental budget book](https://www.ellisco.net/DocumentCenter/View/5647/2025-Budget-Book_Departmental-Budgets) | Budget pages list the register of deeds department, 3.0 allocated positions, Rebecca Herzog as responsible p",
-        "The 2025 budget book adds that the office serves the public by recording and preserving county records, and says some sensitive records require requester forms before copies are given. Source: [Ellis County 2025 departmental budget book](https://www.ellisco.ne",
-        "[Ellis County 2025 departmental budget book](https://www.ellisco.net/DocumentCenter/View/5647/2025-Budget-Book_Departmental-Budgets)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0036",
-      "tier": "primary",
-      "url": "https://www.moran.senate.gov/public/index.cfm/newsletter?ID=F96989E1-3720-4D57-8473-4A49DB061BDE",
-      "title": "Moran.Senate",
-      "publisher": "Moran.Senate",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| Federal official/public visit mention | Yes, limited | [Sen. Jerry Moran newsletter, Jan. 2016](https://www.moran.senate.gov/public/index.cfm/newsletter?ID=F96989E1-3720-4D57-8473-4A49DB061BDE) | Mentions Ellis County Register of Deeds Registrar Rebecca Herz",
-        "[Sen. Jerry Moran newsletter mentioning Ellis County officials](https://www.moran.senate.gov/public/index.cfm/newsletter?ID=F96989E1-3720-4D57-8473-4A49DB061BDE)"
+        "2024 Election Results -- Hays Post",
+        "Hays Post: 2024 Election Results",
+        "Hays Post: 2024 General Election Results",
+        "Electoral: Hays Post reported Herzog received 7,074 votes as the incumbent Republican candidate for Ellis County Register of Deeds in the 2024 general election. Source: Hays Post, Nov. 6, 2024.",
+        "Hays Post 2024 Ellis County general-election results"
       ]
     },
     {
@@ -612,11 +565,10 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "publisher": "Ksrods",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Listed on [Kansas Register of Deeds Association](https://ksrods.com/contact-information/ellis-county-el-nc-district/)",
-        "[Kansas Register of Deeds Association](https://ksrods.com/contact-information/ellis-county-el-nc-district/)",
-        "Professional-directory material reinforces the same narrow office identity. The [Kansas Register of Deeds Association listing](https://ksrods.com/contact-information/ellis-county-el-nc-district/) names Rebecca Herzog for Ellis County and points users back to t",
-        "| Kansas Register of Deeds Association | Yes | [Ellis County KRDA listing](https://ksrods.com/contact-information/ellis-county-el-nc-district/) | Professional association listing names Rebecca Herzog for Ellis County and gives office contact information and th",
-        "[Kansas Register of Deeds Association, Ellis County](https://ksrods.com/contact-information/ellis-county-el-nc-district/)"
+        "Listed on Kansas Register of Deeds Association",
+        "Kansas Register of Deeds Association",
+        "Professional-directory material reinforces the same narrow office identity. The Kansas Register of Deeds Association listing names Rebecca Herzog for Ellis County and points users back to t",
+        "Kansas Register of Deeds Association, Ellis County"
       ]
     }
   ]

@@ -20,7 +20,7 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -40,7 +40,7 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -50,7 +50,7 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -60,7 +60,7 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -70,7 +70,7 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -80,7 +80,7 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -90,7 +90,7 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -100,7 +100,7 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -110,7 +110,7 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts.",
         "sourceIds": []
       },
       "actions": [],
@@ -120,7 +120,7 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -130,7 +130,7 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -140,7 +140,7 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Local governance / transparency / ethics. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Local governance / transparency / ethics.",
         "sourceIds": []
       },
       "actions": [],
@@ -150,7 +150,7 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -162,13 +162,13 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
   "ownWordsNarrative": "Hamilton's campaign uses the phrases 'People Over Politics,' 'Faith. Family. Kansas,' and says the campaign is focused on listening to Kansans, solving affordability and opportunity problems, building bridges, and restoring decency and humanity in government.",
   "whereTheyWorship": "Hamilton's campaign biography says he founded Church of the Resurrection; this is background only and is not used to infer policy positions.",
   "campaignFinance": {
-    "totalRaised": "Not itemized in the reviewed public records for this pass",
-    "narrative": "No donor-by-donor public finance interpretation is made from the available records in this pass.",
+    "totalRaised": "Not itemized in the reviewed public records in the reviewed public record",
+    "narrative": "No donor-by-donor public finance interpretation is made from the available records in the reviewed public record.",
     "donors": [],
     "reportingPeriod": "Most recent public record reviewed",
     "source": "Adam Hamilton for Kansas"
   },
-  "socialResearchNote": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.",
+  "socialResearchNote": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. the reviewed public record records only issue-relevant public observations found in the candidate-controlled or official source set.",
   "sources": [
     {
       "id": "s-campaign-home",
@@ -181,8 +181,7 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
         "Campaign identifies Hamilton as a U.S. Senate candidate",
         "Campaign biography describes Hamilton's Kansas roots, family, and Church of the Resurrection background",
         "Campaign states themes of listening, affordability, bridge-building, and decency",
-        "\"campaignWebsite\": \"https://hamiltonforkansas.com/\",",
-        "\"url\": \"https://hamiltonforkansas.com/\","
+        "\"campaignWebsite\": \"https://hamiltonforkansas.com/\""
       ]
     },
     {
@@ -194,8 +193,7 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "FEC candidate master data identifies Adam Hamilton as a Democratic candidate for Kansas Senate in 2026",
-        "FEC identifies Hamilton for Kansas as the principal committee",
-        "\"url\": \"https://www.fec.gov/data/candidate/S6KS00312/\","
+        "FEC identifies Hamilton for Kansas as the principal committee"
       ]
     }
   ]

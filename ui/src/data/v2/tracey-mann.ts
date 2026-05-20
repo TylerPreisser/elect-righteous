@@ -27,7 +27,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -37,7 +37,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -47,7 +47,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -57,7 +57,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: > -- National Prayer Breakfast coverage, 2024, https://mann.house.gov/about Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Public evidence: > -- National Prayer Breakfast coverage, 2024, https://mann.house.gov/about Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-tracey-mann-0005"
         ]
@@ -69,7 +69,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -90,7 +90,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -111,7 +111,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -121,7 +121,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -142,7 +142,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -152,7 +152,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts.",
         "sourceIds": []
       },
       "actions": [],
@@ -173,7 +173,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: OpenSecrets Profile: opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: OpenSecrets Profile: opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743 Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-tracey-mann-0090"
         ]
@@ -194,7 +194,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -245,7 +245,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Local governance / transparency / ethics. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Local governance / transparency / ethics.",
         "sourceIds": []
       },
       "actions": [],
@@ -296,25 +296,25 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Tracey Mann is profiled here for U.S. Representative, Kansas's 1st Congressional District as a Republican incumbent/current official. https://mann.house.gov/media/press-releases/rep-mann-defends-religious-freedom-small-business-owners. mann.house.gov press release URL: https://mann.house.gov/media/press-releases/mann-kaptur-colleagues-demand-us-treasury-prioritize-domestic-energy-producers (direct fetch 403; content via search snippet). The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 1 source-backed action across 1 of the 14 issue areas. Representative public-record entries include: Public safety / law enforcement / criminal justice: OpenSecrets Profile: opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whoTheyAre": "Tracey Mann is profiled here for U.S. Representative, Kansas's 1st Congressional District as a Republican incumbent/current official. https://mann.house.gov/media/press-releases/rep-mann-defends-religious-freedom-small-business-owners. mann.house.gov press release URL: https://mann.house.gov/media/press-releases/mann-kaptur-colleagues-demand-us-treasury-prioritize-domestic-energy-producers (direct fetch 403; content via search snippet). These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 1 source-backed item across 1 of the 14 issue areas. Representative public-record entries include: Public safety / law enforcement / criminal justice: OpenSecrets Profile: opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743. Social-only material is listed separately as online observation, not official action.",
   "whereTheyWorship": "Mann attends First Covenant Church in Salina, Kansas, affiliated with the Evangelical Covenant Church denomination — a theologically centrist Protestant tradition with roots in Swedish pietism. Before his congressional career, Mann served as Senior Program Director for the National Student Leadership Forum on Faith and Values, a Washington-based nonprofit that runs faith-oriented leadership programs for high school and college students. His public statements frequently invoke faith as a personal anchor, though he does not typically make church policy a campaign centerpiece.",
   "campaignFinance": {
     "totalRaised": "$1,220,354.74",
-    "narrative": "FEC data for the 2025-2026 cycle showed $1,220,354.74 raised,\n$415,221.50 spent, $2,558,830.08 cash on hand, and no debt as of the\nfetched reporting period. The deep scrape calculated that PAC committees\nplus transfers from authorized committees made up roughly 71 percent of\ntotal receipts in the partial cycle, compared with the v1 2023-2024 figure\nof 56.71 percent PAC share.",
+    "narrative": "FEC data for the 2025-2026 cycle showed $1,220,354.74 raised, $415,221.50 spent, $2,558,830.08 cash on hand, and no debt as of the fetched reporting period. The deep scrape calculated that PAC committees plus transfers from authorized committees made up roughly 71 percent of total receipts in the partial cycle, compared with the v1 2023-2024 figure of 56.71 percent PAC share.",
     "donors": [],
-    "undisclosed": "Itemized donor tables were not extracted in this pass; use the FEC committee page for donor-by-donor review.",
+    "undisclosed": "Itemized donor tables were not extracted in the reviewed public record; use the FEC committee page for donor-by-donor review.",
     "reportingPeriod": "2025-2026 cycle; reported through 2026-03-31 in the v2 scrape",
     "source": "Federal Election Commission candidate page H0KS01123 and committee page C00460659"
   },
-  "socialResearchNote": "Candidate-controlled social is handled issue-by-issue. The v2 scrape uses\nMann's own X post on 246 town halls as a social signal mapped to\nconstituent access. It does not use Reddit or oppositional commentary as\nevidence of Mann's beliefs; only verbatim candidate statements and public\nrecords are carried into issue cards.",
+  "socialResearchNote": "Candidate-controlled social is handled issue-by-issue. The v2 scrape uses Mann's own X post on 246 town halls as a social signal mapped to constituent access. It does not use Reddit or oppositional commentary as evidence of Mann's beliefs; only verbatim candidate statements and public records are carried into issue cards.",
   "sources": [
     {
       "id": "s-mann-obbba-2025",
@@ -339,7 +339,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Mann was the lone Kansas delegation no vote on the ROTOR Act",
         "The bill responded to the 2025 Washington, D.C. midair collision involving a flight from Wichita",
-        "[U.S. Rep. Tracey Mann lone Kansas vote against federal aviation safety bill tied to D.C. crash (Kansas Reflector)](https://kansasreflector.com/2026/02/25/u-s-rep-tracey-mann-lone-kansas-vote-against-federal-aviation-safety-bill-tied-to-d-c-crash/) — accessed"
+        "U.S. Rep. Tracey Mann lone Kansas vote against federal aviation safety bill tied to D.C. crash (Kansas Reflector) — accessed"
       ]
     },
     {
@@ -352,7 +352,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Mann's official office page identifies committee and caucus roles",
         "Search-accessible text identifies Mann as co-founder and co-chair of the House Congressional FFA Caucus",
-        "[Committees and Caucuses (mann.house.gov)](https://mann.house.gov/about/committees-and-caucuses) — accessed via search snippet 2026-05-20 (direct fetch 403)"
+        "Committees and Caucuses (mann.house.gov) — accessed via search snippet 2026-05-20 (direct fetch 403)"
       ]
     },
     {
@@ -364,8 +364,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Mann and Kaptur co-led a bipartisan, bicameral biofuels effort with Senators Marshall and Brown",
-        "The effort concerned Clean Fuel Production Credit eligibility for domestically produced feedstocks",
-        "\"url\": \"https://mann.house.gov/media/press-releases/reps-mann-kaptur-and-sens-marshall-brown-introduce-bicameral-legislation-put\","
+        "The effort concerned Clean Fuel Production Credit eligibility for domestically produced feedstocks"
       ]
     },
     {
@@ -389,7 +388,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "The transcript carries Mann quotes on Medicare, Social Security, DOGE, immigration, water, and Food for Peace",
         "The source is oppositional; verbatim quotes are usable but editorial framing is not",
-        "[Transcript of Rep. Tracey Mann's Town Hall in Colby, KS 2.19.25 (Indivisible MHK Substack)](https://indivisiblemhk.substack.com/p/transcript-of-rep-tracey-manns-town) — accessed 2026-05-20"
+        "Transcript of Rep. Tracey Mann's Town Hall in Colby, KS 2.19.25 (Indivisible MHK Substack) — accessed 2026-05-20"
       ]
     },
     {
@@ -402,7 +401,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Mann stated he had hosted 246 town halls across Kansas since 2021",
         "Mann stated he completed a 60-county listening tour in 2024",
-        "For the KS-01 district itself, Mann's local content centers on agriculture and on in-person constituent contact. In August 2024 he [posted a tally citing 246 town halls and a 60-county Mann Listening Tour](https://x.com/RepMann/status/1826719239861919945). His"
+        "For the KS-01 district itself, Mann's local content centers on agriculture and on in-person constituent contact. In August 2024 he posted a tally citing 246 town halls and a 60-county Mann Listening Tour. His"
       ]
     },
     {
@@ -415,7 +414,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "FEC candidate ID H0KS01123 belongs to Tracey Robert Mann",
         "2025-2026 cycle totals were directly fetched from FEC",
-        "[FEC - Tracey Mann Candidate Page](https://www.fec.gov/data/candidate/H0KS01123/)",
+        "FEC - Tracey Mann Candidate Page",
         "FEC candidate page: https://www.fec.gov/data/candidate/H0KS01123/",
         "FEC committee page: https://www.fec.gov/data/candidate/H0KS01123/",
         "https://www.fec.gov/data/candidate/H0KS01123/"
@@ -429,9 +428,9 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "publisher": "Mann.House",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Tracey Mann - About (House.gov)](https://mann.house.gov/about)",
-        "\"We gather in historic Statuary Hall this morning in the spirit of Jesus to pray for the president, for one another and for the country\" - National Prayer Breakfast, 2024, https://mann.house.gov/about (faith/public prayer)",
-        "\"We gather in historic Statuary Hall this morning in the spirit of Jesus\" - National Prayer Breakfast coverage, 2024, https://mann.house.gov/about (faith/public prayer)",
+        "Tracey Mann - About (House.gov)",
+        "We gather in historic Statuary Hall this morning in the spirit of Jesus to pray for the president, for one another and for the country - National Prayer Breakfast, 2024, https://mann.house.gov/about (faith/public prayer)",
+        "We gather in historic Statuary Hall this morning in the spirit of Jesus - National Prayer Breakfast coverage, 2024, https://mann.house.gov/about (faith/public prayer)",
         "> -- National Prayer Breakfast coverage, 2024, https://mann.house.gov/about"
       ]
     },
@@ -443,7 +442,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "publisher": "Mann.House",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Tracey Mann official site](https://mann.house.gov/)"
+        "Tracey Mann official site"
       ]
     },
     {
@@ -454,7 +453,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "publisher": "En.Wikipedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Tracey Mann - Wikipedia](https://en.wikipedia.org/wiki/Tracey_Mann)"
+        "Tracey Mann - Wikipedia"
       ]
     },
     {
@@ -465,9 +464,9 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "publisher": "Opensecrets",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "OpenSecrets Profile: [opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743](https://www.opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743)",
-        "[OpenSecrets - Tracey Mann](https://www.opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743)",
-        "[opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743](https://www.opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743)"
+        "OpenSecrets Profile: opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743",
+        "OpenSecrets - Tracey Mann",
+        "opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743"
       ]
     },
     {
@@ -478,12 +477,11 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "publisher": "Traceymann",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "\"The Conservative You Can Trust.\" - campaign site, n.d., https://www.traceymann.com/ (campaign slogan)",
-        "\"Tracey Mann served as the 50th Lt. Governor of the great state of Kansas.\" - campaign/about page, n.d., https://www.traceymann.com/ or https://mann.house.gov/about (biographical line)",
-        "\"Tracey Mann served as the 50th Lt. Governor of the great state of Kansas.\" - campaign bio, n.d., https://www.traceymann.com/ or https://mann.house.gov/about (biographical line)",
+        "The Conservative You Can Trust. - campaign site, n.d., https://www.traceymann.com/ (campaign slogan)",
+        "Tracey Mann served as the 50th Lt. Governor of the great state of Kansas. - campaign/about page, n.d., https://www.traceymann.com/ or https://mann.house.gov/about (biographical line)",
+        "Tracey Mann served as the 50th Lt. Governor of the great state of Kansas. - campaign bio, n.d., https://www.traceymann.com/ or https://mann.house.gov/about (biographical line)",
         "> -- campaign bio, https://www.traceymann.com/ or https://mann.house.gov/about",
-        "> -- campaign messaging, 2016, https://www.traceymann.com/",
-        "[traceymann.com](https://www.traceymann.com/)"
+        "> -- campaign messaging, 2016, https://www.traceymann.com/"
       ]
     },
     {
@@ -494,7 +492,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "publisher": "Hppr",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[U.S. Rep. Tracey Mann lone Kansas vote against federal aviation safety bill tied to D.C. crash (HPPR)](https://www.hppr.org/hppr-news/2026-02-25/u-s-rep-tracey-mann-lone-kansas-vote-against-federal-aviation-safety-bill-tied-to-d-c-crash) — accessed 2026-05-20"
+        "U.S. Rep. Tracey Mann lone Kansas vote against federal aviation safety bill tied to D.C. crash (HPPR) — accessed 2026-05-20"
       ]
     },
     {
@@ -505,7 +503,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "publisher": "Justfacts.Votesmart",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Tracey Mann (Vote Smart)](https://justfacts.votesmart.org/candidate/political-courage-test/125007/tracey-mann) — accessed 2026-05-20"
+        "Tracey Mann (Vote Smart) — accessed 2026-05-20"
       ]
     },
     {
@@ -516,10 +514,9 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "publisher": "Unitedkansas",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[United Kansas - Official Website](https://unitedkansas.com/)",
-        "Musser's visible alignment is with the United Kansas Party rather than with a Republican or Democratic campaign structure. His campaign home page links to the [United Kansas Party](https://unitedkansas.com/) and a campaign Facebook poll, and Hays Post reported",
-        "Website: [unitedkansas.com](https://unitedkansas.com/)",
-        "[unitedkansas.com](https://unitedkansas.com/)"
+        "United Kansas - Official Website",
+        "Musser's visible alignment is with the United Kansas Party rather than with a Republican or Democratic campaign structure. His campaign home page links to the United Kansas Party and a campaign Facebook poll, and Hays P...",
+        "Website: unitedkansas.com"
       ]
     },
     {
@@ -530,7 +527,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "publisher": "X",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "On national and foreign-policy questions, Mann's posting cadence is lower than on agriculture but consistent in direction. In November 2024 he [posted condemning antisemitic violence against Israeli soccer fans in Amsterdam](https://x.com/RepMann/status/185488"
+        "On national and foreign-policy questions, Mann's posting cadence is lower than on agriculture but consistent in direction. In November 2024 he [posted condemning antisemitic violence against Israeli soccer fans in Amste..."
       ]
     },
     {
@@ -541,7 +538,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Engagement on Mann's content is not evenly distributed across topics. His October 14, 2025 border-security Facebook post drew [2,900 reactions, 343 comments, and 79 shares](https://www.facebook.com/TraceyMannKS/posts/kansans-were-less-safe-under-president-bide"
+        "Engagement on Mann's content is not evenly distributed across topics. His October 14, 2025 border-security Facebook post drew [2,900 reactions, 343 comments, and 79 shares](https://www.facebook.com/TraceyMannKS/posts/ka..."
       ]
     },
     {
@@ -552,7 +549,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "publisher": "X",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Across the public record on X, Facebook, and YouTube, Mann's most frequent topic is agriculture policy. He posts about the Farm Bill, commodity producers, ag trade promotion, and the operational mechanics of U.S. food aid. On January 7, 2026, he posted: [\"Prod"
+        "Across the public record on X, Facebook, and YouTube, Mann's most frequent topic is agriculture policy. He posts about the Farm Bill, commodity producers, ag trade promotion, and the operational mechanics of U.S. food a..."
       ]
     },
     {
@@ -563,10 +560,9 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Facebook Video: Spoke at Douglas County Democrats meeting about exploratory campaign ([facebook.com/dgcodems](https://www.facebook.com/dgcodems/videos/2299093513898616/))",
-        "[Douglas County Democrats Facebook - Exploratory Campaign Video](https://www.facebook.com/dgcodems/videos/2299093513898616/)",
-        "[facebook.com/dgcodems](https://www.facebook.com/dgcodems/videos/2299093513898616/)",
-        "\"url\": \"https://www.facebook.com/dgcodems/videos/2299093513898616/\""
+        "Facebook Video: Spoke at Douglas County Democrats meeting about exploratory campaign (facebook.com/dgcodems)",
+        "Douglas County Democrats Facebook - Exploratory Campaign Video",
+        "facebook.com/dgcodems"
       ]
     },
     {
@@ -577,8 +573,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "publisher": "Ballotpedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Ballotpedia](https://ballotpedia.org/Tracey_Mann) — accessed 2026-03-30",
-        "[Ballotpedia](https://ballotpedia.org/Tracey_Mann)"
+        "Ballotpedia — accessed 2026-03-30"
       ]
     },
     {
@@ -589,7 +584,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "publisher": "Govtrack",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Rep. Tracey Mann profile (GovTrack)](https://www.govtrack.us/congress/members/tracey_mann/456823) — accessed 2026-05-20"
+        "Rep. Tracey Mann profile (GovTrack) — accessed 2026-05-20"
       ]
     },
     {
@@ -600,7 +595,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "publisher": "Legistorm",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Hays Town Hall Rep. Tracey Mann 07-2024 (LegiStorm)](https://www.legistorm.com/townhall/27963/hays-town-hall-rep-tracey-mann-07-2024.html) — accessed via search snippet 2026-05-20"
+        "Hays Town Hall Rep. Tracey Mann 07-2024 (LegiStorm) — accessed via search snippet 2026-05-20"
       ]
     }
   ]

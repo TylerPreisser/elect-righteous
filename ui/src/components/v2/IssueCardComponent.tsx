@@ -4,8 +4,8 @@
  * Sections:
  *   1. Heading (issue title)
  *   2. "What they say" (stated.text + source chips)
- *   3. "What they did" (ActionList of actions)
- *   4. "Relevant social activity" (SocialSignalChips — only if signals exist)
+ *   3. public-record actions, when present
+ *   4. social/online observations, when present
  *   5. "Where they diverge" (gap.summary + evidence references — only if gap present)
  *
  * No badge, no score, no consistency label, no flag-alert UI.
@@ -26,7 +26,7 @@ interface IssueCardComponentProps {
   sources: Source[];
   /** Whether the card starts expanded. Default: false. */
   defaultExpanded?: boolean;
-  /** Label for the action section, e.g. "Public Record" or "Official / Reported Actions". */
+  /** Label for the action section. */
   recordLabel?: string;
 }
 
@@ -82,6 +82,7 @@ export default function IssueCardComponent({
     .filter((s): s is Source => Boolean(s));
 
   const hasSocialSignals = issue.socialSignals.length > 0;
+  const hasActions = issue.actions.length > 0;
   const hasGap = issue.gap !== undefined;
 
   // Resolve gap evidence IDs to their source references for display
@@ -123,12 +124,12 @@ export default function IssueCardComponent({
           </h3>
 
           {/* Compact preview of action count when collapsed */}
-          {!expanded && issue.actions.length > 0 && (
+          {!expanded && hasActions && (
             <p
               className="mt-1 font-body text-sm"
               style={{ color: "var(--color-slate)" }}
             >
-              {issue.actions.length} documented or reported action
+              {issue.actions.length} source-backed public record item
               {issue.actions.length !== 1 ? "s" : ""} on file
             </p>
           )}
@@ -178,15 +179,16 @@ export default function IssueCardComponent({
             )}
           </section>
 
-          <section aria-label="Their record">
-            <SectionLabel>{recordLabel}</SectionLabel>
-            <ActionList actions={issue.actions} sources={sources} />
-          </section>
+          {(hasActions || !hasSocialSignals) && (
+            <section aria-label="Public record">
+              <SectionLabel>{recordLabel}</SectionLabel>
+              <ActionList actions={issue.actions} sources={sources} />
+            </section>
+          )}
 
-          {/* Section 3: Relevant social activity (only if signals exist) */}
           {hasSocialSignals && (
-            <section aria-label="Relevant social activity">
-              <SectionLabel>Relevant social activity</SectionLabel>
+            <section aria-label="Social / online observations">
+              <SectionLabel>Social / Online Observations</SectionLabel>
               <div className="grid gap-3">
                 {issue.socialSignals.map((signal) => (
                   <SocialSignalChip

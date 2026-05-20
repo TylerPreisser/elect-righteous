@@ -19,7 +19,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -49,7 +49,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Public evidence points strongly toward St. Nicholas of Myra Catholic Church in Hays, but I did not find a direct statement from Leiker himself confirming parish membership. The strongest source is the family-obituary trail tied to the Leiker name and St. Nicholas: https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/. I would treat this as a strong indicator rather than a hard confirmation. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Public evidence: Public evidence points strongly toward St. Nicholas of Myra Catholic Church in Hays, but The reviewed public record did not identify a direct statement from Leiker himself confirming parish membership. The strongest source is the family-obituary trail tied to the Leiker name and St. Nicholas: https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/. This is treated as a strong indicator rather than a hard c... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-nathan-leiker-0041",
           "src-nathan-leiker-0044"
@@ -62,7 +62,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public evidence: The clearest platform document is his Hays Post candidate Q&A. There, Leiker argued for keeping the county sales tax and making it permanent before sunset, but tying those dollars to infrastructure and large capital improvements. He said county voters worry about where their money is going, and he connected transparency to visible evidence of roads, bridges, and public work actually getting done. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The clearest platform document is his Hays Post candidate Q&A. There, Leiker argued for keeping the county sales tax and making it permanent before sunset, but tying those dollars to infrastructure and large capital improvements. He said county voters worry about where their money is going, and he connected transparency to visible evidence of roads, bridges, and public work actually getting done. Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-leiker-qa-2022",
           "src-nathan-leiker-0052",
@@ -169,7 +169,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public evidence: Leiker's development message is pro-growth but bounded by planning and infrastructure capacity. In the candidate Q&A, he said the county should recruit business by keeping taxes stable and showing it can maintain infrastructure. At an August 2024 joint city-county meeting, he called the Vineyard Road discussion a forward-looking project and said Hays was clearly developing north of I-70, according to Hays Post. But... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Leiker's development message is pro-growth but bounded by planning and infrastructure capacity. In the candidate Q&A, he said the county should recruit business by keeping taxes stable and showing it can maintain infrastructure. At an August 2024 joint city-county meeting, he called the Vineyard Road discussion a forward-looking project and said Hays was clearly developing north of I-70, according to Hays Post. But... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-nathan-leiker-0052",
           "s-ingrams-leiker-2021",
@@ -230,7 +230,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -240,7 +240,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -250,7 +250,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public evidence: His agriculture messaging predates county office and reinforces the same practical tone. In Ingram's 2021 profile, Leiker described L5 Farms as part of a fifth-generation farm in Ellis County and talked about direct producer-consumer relationships after COVID exposed the fragility of food-supply relationships. In a 2023 MyAnIML case study, he framed cattle-health technology in terms of labor limits, earlier treatmen... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: His agriculture messaging predates county office and reinforces the same practical tone. In Ingram's 2021 profile, Leiker described L5 Farms as part of a fifth-generation farm in Ellis County and talked about direct producer-consumer relationships after COVID exposed the fragility of food-supply relationships. In a 2023 MyAnIML case study, he framed cattle-health technology in terms of labor limits, earlier treatmen... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-ingrams-leiker-2021",
           "s-hayspost-salary-2026"
@@ -293,7 +293,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the county. He described himself as proud to be from Ellis County and ready to serve it. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the county. He described himself as proud to be from Ellis County and ready to serve it. Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-leiker-announcement-2022",
           "s-hayspost-leiker-qa-2022",
@@ -330,7 +330,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "em-nathan-leiker-00010",
           "date": "Undated",
-          "body": "The highest visible attention marker is electoral rather than social. Hays Post reported Leiker with 4,193 votes in the 2024 general election on election night, and the Ellis County official results PDF later listed 4,272 votes and 45 write-ins. I did not find reliable public follower, like, share, comment, or view counts for a Leiker-controlled campaign or profile account.",
+          "body": "The highest visible attention marker is electoral rather than social. Hays Post reported Leiker with 4,193 votes in the 2024 general election on election night, and the Ellis County official results PDF later listed 4,272 votes and 45 write-ins. The reviewed public record did not identify reliable public follower, like, share, comment, or view counts for a Leiker-controlled campaign or profile account.",
           "sourceIds": [
             "src-nathan-leiker-0007"
           ]
@@ -356,7 +356,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "soc-nathan-leiker-0001",
           "platform": "ellisco.net",
-          "observation": "The highest visible attention marker is electoral rather than social. Hays Post reported Leiker with 4,193 votes in the 2024 general election on election night, and the Ellis County official results PDF later listed 4,272 votes and 45 write-ins. I did not find reliable public follower, like, share, comment, or view counts for a Leiker-controlled campaign or profile account.",
+          "observation": "The highest visible attention marker is electoral rather than social. Hays Post reported Leiker with 4,193 votes in the 2024 general election on election night, and the Ellis County official results PDF later listed 4,272 votes and 45 write-ins. The reviewed public record did not identify reliable public follower, like, share, comment, or view counts for a Leiker-controlled campaign or profile account.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-nathan-leiker-0007"
@@ -399,7 +399,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: His agriculture messaging predates county office and reinforces the same practical tone. In Ingram's 2021 profile, Leiker described L5 Farms as part of a fifth-generation farm in Ellis County and talked about direct producer-consumer relationships after COVID exposed the fragility of food-supply relationships. In a 2023 MyAnIML case study, he framed cattle-health technology in terms of labor limits, earlier treatmen... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: His agriculture messaging predates county office and reinforces the same practical tone. In Ingram's 2021 profile, Leiker described L5 Farms as part of a fifth-generation farm in Ellis County and talked about direct producer-consumer relationships after COVID exposed the fragility of food-supply relationships. In a 2023 MyAnIML case study, he framed cattle-health technology in terms of labor limits, earlier treatmen... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-ingrams-leiker-2021",
           "s-hayspost-salary-2026",
@@ -447,7 +447,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate-stated evidence: Infrastructure is the dominant through-line. After the 2022 canvass, he said he wanted increased focus on roads, bridges, and the infrastructure needed to grow the county, according to Hays Post. In 2024, when Ellis County discussed rural road maintenance, he said the county had promoted subdivision growth without growing public works capacity to handle the added residents, as reported by Hays Post. In 2025, he sugg... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: Infrastructure is the dominant through-line. After the 2022 canvass, he said he wanted increased focus on roads, bridges, and the infrastructure needed to grow the county, according to Hays Post. In 2024, when Ellis County discussed rural road maintenance, he said the county had promoted subdivision growth without growing public works capacity to handle the added residents, as reported by Hays Post. In 2025, he sugg... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-2022-canvass",
           "s-ellis-commission-page",
@@ -543,7 +543,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Infrastructure is the dominant through-line. After the 2022 canvass, he said he wanted increased focus on roads, bridges, and the infrastructure needed to grow the county, according to Hays Post. In 2024, when Ellis County discussed rural road maintenance, he said the county had promoted subdivision growth without growing public works capacity to handle the added residents, as reported by Hays Post. In 2025, he sugg... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: Infrastructure is the dominant through-line. After the 2022 canvass, he said he wanted increased focus on roads, bridges, and the infrastructure needed to grow the county, according to Hays Post. In 2024, when Ellis County discussed rural road maintenance, he said the county had promoted subdivision growth without growing public works capacity to handle the added residents, as reported by Hays Post. In 2025, he sugg... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-2022-canvass",
           "s-ellis-commission-page",
@@ -607,7 +607,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "soc-nathan-leiker-0001",
           "platform": "ellisco.net",
-          "observation": "The highest visible attention marker is electoral rather than social. Hays Post reported Leiker with 4,193 votes in the 2024 general election on election night, and the Ellis County official results PDF later listed 4,272 votes and 45 write-ins. I did not find reliable public follower, like, share, comment, or view counts for a Leiker-controlled campaign or profile account.",
+          "observation": "The highest visible attention marker is electoral rather than social. Hays Post reported Leiker with 4,193 votes in the 2024 general election on election night, and the Ellis County official results PDF later listed 4,272 votes and 45 write-ins. The reviewed public record did not identify reliable public follower, like, share, comment, or view counts for a Leiker-controlled campaign or profile account.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-nathan-leiker-0007"
@@ -650,7 +650,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public evidence: His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the county. He described himself as proud to be from Ellis County and ready to serve it. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the county. He described himself as proud to be from Ellis County and ready to serve it. Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-leiker-announcement-2022",
           "src-nathan-leiker-0007",
@@ -697,18 +697,18 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       ]
     }
   ],
-  "whoTheyAre": "Nathan Leiker is profiled here for Current Ellis County Commissioner, District 3; not listed in the current 2026 county filing PDF as a Republican incumbent/current official. His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the cou... The clearest platform document is his Hays Post candidate Q&A. There, Leiker argued for keeping the county sales tax and making it permanent before sunset, but tying those dollars to infrastructure and large capital improvements. He said county voters worry a... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 35 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: The clearest platform document is his Hays Post candidate Q&A. There, Leiker argued for keeping the county sales tax and making it permanent before sunset, but tying those dollars to infrastructure and large capita... Taxes / spending / debt: Leiker's development message is pro-growth but bounded by planning and infrastructure capacity. In the candidate Q&A, he said the county should recruit business by keeping taxes stable and showing it can maintain i... Taxes / spending / debt: https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07082025-683 — July 8, 2025 minutes (\"County government is a service industry\" quote; 2026 mill levy discussion). Taxes / spending / debt: https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_08052025-689 — August 5, 2025 minutes (Big Creek RHID hearing-set 2025-13, full 2026 budget proposals). Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "whereTheyWorship": "No confirmed current church affiliation surfaced in public sources. Prior\nresearch points strongly to Catholic background through TMP-Marian and\nfamily ties, but current parish membership is not verified and should not\nbe stated as fact.",
+  "whoTheyAre": "Nathan Leiker is profiled here for Current Ellis County Commissioner, District 3; not listed in the current 2026 county filing PDF as a Republican incumbent/current official. His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the cou... The clearest platform document is his Hays Post candidate Q&A. There, Leiker argued for keeping the county sales tax and making it permanent before sunset, but tying those dollars to infrastructure and large capital improvements. He said county voters worry a... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 35 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: The clearest platform document is his Hays Post candidate Q&A. There, Leiker argued for keeping the county sales tax and making it permanent before sunset, but tying those dollars to infrastructure and large capita... Taxes / spending / debt: Leiker's development message is pro-growth but bounded by planning and infrastructure capacity. In the candidate Q&A, he said the county should recruit business by keeping taxes stable and showing it can maintain i... Taxes / spending / debt: https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07082025-683 — July 8, 2025 minutes (\"County government is a service industry\" quote; 2026 mill levy discussion). Taxes / spending / debt: https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_08052025-689 — August 5, 2025 minutes (Big Creek RHID hearing-set 2025-13, full 2026 budget proposals). Social-only material is listed separately as online observation, not official action.",
+  "whereTheyWorship": "No confirmed current church affiliation surfaced in public sources. Prior research points strongly to Catholic background through TMP-Marian and family ties, but current parish membership is not verified and should not be stated as fact.",
   "campaignFinance": {
     "totalRaised": "Not itemized in public web records",
-    "narrative": "County commission races do not appear in FEC data, and Kansas state\ncampaign-finance portals do not expose county-office itemized records in\nthe same way state/federal races do. Ellis County Clerk filings would need\nto be requested locally if the actual appointment-of-treasurer or\nbelow-threshold affidavit is needed. Do not imply hidden donors from this\nabsence.",
+    "narrative": "County commission races do not appear in FEC data, and Kansas state campaign-finance portals do not expose county-office itemized records in the same way state/federal races do. Ellis County Clerk filings would need to be requested locally if the actual appointment-of-treasurer or below-threshold affidavit is needed. That absence does not establish hidden donors.",
     "donors": [],
     "undisclosed": "No donor-by-donor public web ledger was found in the reviewed local records.",
     "reportingPeriod": "Most recent local cycle reviewed",
-    "source": "Candidate memory v2 issue file and local filing-system notes"
+    "source": "Reviewed public records"
   },
-  "socialResearchNote": "No verified candidate-controlled campaign website, Facebook page, X,\nInstagram, Threads, TikTok, YouTube, or Substack surfaced in the reviewed\npublic record. The county commission page and county minutes are therefore\nthe most reliable current public record of Leiker's governing voice.",
+  "socialResearchNote": "No verified candidate-controlled campaign website, Facebook page, X, Instagram, Threads, TikTok, YouTube, or Substack surfaced in the reviewed public record. The county commission page and county minutes are therefore the most reliable current public record of Leiker's governing voice.",
   "sources": [
     {
       "id": "s-ellis-commission-page",
@@ -720,14 +720,12 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Nathan Leiker serves as Ellis County Commissioner for District 3",
         "Ellis County publishes commission agendas, minutes, and meeting livestream links",
-        "[Ellis County Commission Official Page](https://www.ellisco.net/120/County-Commission)",
-        "Nathan Leiker's public messaging is grounded in county operations and agriculture, not in a large campaign-social presence. The official [Ellis County Commission page](https://www.ellisco.net/120/County-Commission) lists him as the Third District commissioner,",
+        "Ellis County Commission Official Page",
+        "Nathan Leiker's public messaging is grounded in county operations and agriculture, not in a large campaign-social presence. The official Ellis County Commission page lists him as the Third District commissioner",
         "https://www.ellisco.net/120/County-Commission — County Commission canonical page",
-        "[Ellis County Commission](https://www.ellisco.net/120/County-Commission)",
-        "[Ellis County Commission page](https://www.ellisco.net/120/County-Commission) — primary",
-        "| Official county commission page | Yes | [Ellis County Commission](https://www.ellisco.net/120/County-Commission) | County-controlled page lists Leiker as Third District commissioner and gives the commission meeting schedule, agenda/minutes link, livestream l",
-        "\"campaignWebsite\": \"https://www.ellisco.net/120/County-Commission\",",
-        "narrative: \"Nathan Leiker's public messaging is grounded in county operations and agriculture, not in a large campaign-social presence. The official [Ellis County Commission page](https://www.ellisco.net/120/County-Commission) lists him as the Third District c"
+        "Ellis County Commission",
+        "Ellis County Commission page — primary",
+        "\"campaignWebsite\": \"https://www.ellisco.net/120/County-Commission\""
       ]
     },
     {
@@ -743,8 +741,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         "Leiker said the commission needed to do more homework before deciding whether to close the bridge",
         "Initial subdivision road infrastructure discussion",
         "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_05202025-674 (initial)",
-        "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_05202025-674 — May 20, 2025 commission minutes (subdivision road infrastructure; 12th St bridge \"more homework\")",
-        "\"url\": \"https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_05202025-674\","
+        "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_05202025-674 — May 20, 2025 commission minutes (subdivision road infrastructure; 12th St bridge \"more homework\")"
       ]
     },
     {
@@ -758,7 +755,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         "Big Creek Estates RHID Resolution 2025-08 approved 3-0 to start the process",
         "Leiker said he had no problem starting the RHID process but would do additional homework",
         "Discharge of fireworks resolution passed 3-0 with Leiker seconding",
-        "[Ellis County Minutes — June 3, 2025](https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_06032025-676) — primary (image PDF; vote record exists but not fetched as text in this environment)",
+        "Ellis County Minutes — June 3, 2025 — primary (image PDF; vote record exists but not fetched as text in this environment)",
         "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_06032025-676 — June 3, 2025 minutes (Big Creek RHID 2025-08 START, Appraiser reappointment, fireworks)",
         "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_06032025-676 (Big Creek RHID)"
       ]
@@ -776,7 +773,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         "2.5 percent COLA and Resolution 2025-11 passed 2-1 with Berges dissenting",
         "Leiker said retaining good employees costs less than replacing them",
         "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_06172025-678 — June 10, 2025 minutes (Secured Loads 2025-10, Victoria road failed motion, COLA 2-1 Leiker majority over Berges)",
-        "Minutes URL: https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_06172025-678 (the file is named -678 but its content is the June 10 minutes; the Agenda Center cross-listing is the source of the ID/date mismatch and is noted here for downstream verification"
+        "Minutes URL: https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_06172025-678 (the file is named -678 but its content is the June 10 minutes; the Agenda Center cross-listing is the source of the ID/date mismatch and...."
       ]
     },
     {
@@ -795,7 +792,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07012025-681 (Fairview Patch 2-1 vote)",
         "Minutes URL: https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07012025-681",
         "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07012025-681 — July 1, 2025 minutes (Fairview Patch 2-1 lone NO, Verizon contract, PW restructure, road grader)",
-        "[Ellis County Commission Minutes — July 1, 2025](https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07012025-681) — primary"
+        "Ellis County Commission Minutes — July 1, 2025 — primary"
       ]
     },
     {
@@ -902,7 +899,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Leiker was absent from the January 20, 2026 meeting",
         "Solar farm review agreements were postponed to February 3, 2026",
-        "Procedural note: Leiker was absent from the next commission meeting (Jan 20, 2026) where the AcreStrong + Foulston + ibV agreements were originally to be approved. The agreements were then postponed to Feb 3, when Leiker returned and made the motion himself. T",
+        "Procedural note: Leiker was absent from the next commission meeting (Jan 20, 2026) where the AcreStrong + Foulston + ibV agreements were originally to be approved. The agreements were then postponed to Feb 3, when Leike...",
         "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_01202026-724 — January 20, 2026 minutes (Leiker ABSENT; solar agreements postponed)"
       ]
     },
@@ -952,18 +949,13 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         "Leiker opposed expanding the county commission from three members to five",
         "Leiker said government should have very little authority over what people do on private property apart from illegal actions",
         "Leiker said transparency could become less transparent and be abused",
-        "The clearest platform document is his [Hays Post candidate Q&A](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17). There, Leiker argued for keeping the county sales tax and making it permanent before sunset, but tying those dollars to infrastruc",
-        "2022 commissioner profile on taxes: \"I believe that the county should leave the sales tax alone.\" Source: [Hays Post](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17) on July 19, 2022.",
-        "2022 commissioner profile on business growth: \"The county should be proactive in recruiting new business for economic development.\" Source: [Hays Post](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17) on July 19, 2022.",
-        "| Candidate Q&A / platform | Yes, candidate-authored answers | [Hays Post, Jul. 19, 2022](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17) | Best source for direct campaign-position language: sales tax, infrastructure, economic development, bro",
-        "| Budget, taxes, revenue, fiscal restraint | 7 | [Candidate Q&A](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17), [2025 budget](https://hayspost.com/posts/d81583db-0414-44c6-8dac-7d4ad565ed13), [2026 budget draft](https://hayspost.com/posts/7c",
-        "| Transparency, accessibility, public participation | 3 | [Candidate Q&A](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17), [2025 budget](https://hayspost.com/posts/d81583db-0414-44c6-8dac-7d4ad565ed13), [official commission page](https://www.e",
-        "On sales tax, he said the county should leave the sales tax alone and make it permanent before sunset, while using the funds for capital improvements and residents' quality of life. Source: [Hays Post candidate Q&A, Jul. 19, 2022](https://hayspost.com/posts/59",
-        "On economic development, he said the county should be proactive and that stable taxes, available capital, and infrastructure investment would help business follow. Source: [Hays Post candidate Q&A](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac1",
-        "On citizen governance, he described himself as someone who built his life around Ellis County and had done the \"dirty, grimy, hard jobs\" many taxpayers do. Source: [Hays Post candidate Q&A](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17).",
-        "| Roads, bridges, infrastructure, public works | 8 | [Candidate Q&A](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17), [2022 canvass remarks](https://hayspost.com/posts/6e260438-27db-4402-bf8e-e8df621996d4), [rural road maintenance](https://hay",
-        "| Economic development, city-county cooperation, broadband | 3 | [Candidate Q&A](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17), [city-county road collaboration](https://hayspost.com/posts/2584b551-eb90-4e5b-abbf-fd3ef6cab0bc), [Tallgrass sol",
-        "2022 commissioner profile on infrastructure: \"We are too far behind to use those funds in any other manner.\" Source: [Hays Post](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17) on July 19, 2022."
+        "The clearest platform document is his Hays Post candidate Q&A. There, Leiker argued for keeping the county sales tax and making it permanent before sunset, but tying those dollars to infrastruc",
+        "2022 commissioner profile on taxes: \"I believe that the county should leave the sales tax alone.\" Source: Hays Post on July 19, 2022.",
+        "2022 commissioner profile on business growth: \"The county should be proactive in recruiting new business for economic development.\" Source: Hays Post on July 19, 2022.",
+        "On sales tax, he said the county should leave the sales tax alone and make it permanent before sunset, while using the funds for capital improvements and residents' quality of life. Source: [Hays Post candidate Q&A, Jul...",
+        "On economic development, he said the county should be proactive and that stable taxes, available capital, and infrastructure investment would help business follow. Source: [Hays Post candidate Q&A](https://hayspost.com/...",
+        "On citizen governance, he described himself as someone who built his life around Ellis County and had done the \"dirty, grimy, hard jobs\" many taxpayers do. Source: Hays Post candidate Q&A.",
+        "2022 commissioner profile on infrastructure: \"We are too far behind to use those funds in any other manner.\" Source: Hays Post on July 19, 2022."
       ]
     },
     {
@@ -977,12 +969,10 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         "Leiker presented himself as a local farm and ranch operator",
         "Leiker cited zoning, Extension, oil-field, and rural-fire experience",
         "Leiker said he was proud to be from Ellis County",
-        "His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his [campaign announcement](https://hayspost.com/posts/aedbf614-0ea1-4a7c-8932-156b271a4709), he credited his family an",
-        "| Campaign announcement | Yes, attributed | [Hays Post, Apr. 12, 2022](https://hayspost.com/posts/aedbf614-0ea1-4a7c-8932-156b271a4709) | Leiker's launch message emphasized zoning board service, Extension board work, oil-industry and rural-fire experience, fam",
-        "On why he ran, Leiker cited zoning board, Cottonwood Extension, oil-industry, rural-fire, and family-farm experience, saying he was proud to be from Ellis County and looked forward to serving it. Source: [Hays Post, Apr. 12, 2022](https://hayspost.com/posts/ae",
+        "His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family an",
+        "On why he ran, Leiker cited zoning board, Cottonwood Extension, oil-industry, rural-fire, and family-farm experience, saying he was proud to be from Ellis County and looked forward to serving it. Source: [Hays Post, Apr...",
         "https://hayspost.com/posts/aedbf614-0ea1-4a7c-8932-156b271a4709 (2022 declaration)",
-        "| Growth, subdivisions, zoning, property rights | 6 | [Campaign announcement](https://hayspost.com/posts/aedbf614-0ea1-4a7c-8932-156b271a4709), [Candidate Q&A](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17), [Fairview Patch preliminary plat](",
-        "[Leiker declares candidacy, Hays Post, Apr. 12, 2022](https://hayspost.com/posts/aedbf614-0ea1-4a7c-8932-156b271a4709)"
+        "Leiker declares candidacy, Hays Post, Apr. 12, 2022"
       ]
     },
     {
@@ -996,13 +986,13 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         "Leiker won the 2022 Republican primary for Ellis County Commission District 3",
         "Leiker said he wanted focus on roads, bridges, and infrastructure needed to grow the county",
         "Leiker said the county should work with Hays on water and higher-paying jobs",
-        "\"work with the city of Hays to get more water to Hays and higher-paying jobs.\" - Hays Post candidate coverage - https://hayspost.com/posts/6e260438-27db-4402-bf8e-e8df621996d4 - topic: local development",
-        "[Berges, Leiker Presumptive New Commissioners -- Hays Post](https://hayspost.com/posts/6e260438-27db-4402-bf8e-e8df621996d4)",
-        "Infrastructure is the dominant through-line. After the 2022 canvass, he said he wanted increased focus on roads, bridges, and the infrastructure needed to grow the county, according to [Hays Post](https://hayspost.com/posts/6e260438-27db-4402-bf8e-e8df621996d4",
-        "[Hays Post: Berges, Leiker presumptive commissioners](https://hayspost.com/posts/6e260438-27db-4402-bf8e-e8df621996d4)",
+        "work with the city of Hays to get more water to Hays and higher-paying jobs. - Hays Post candidate coverage - https://hayspost.com/posts/6e260438-27db-4402-bf8e-e8df621996d4 - topic: local development",
+        "Berges, Leiker Presumptive New Commissioners -- Hays Post",
+        "Infrastructure is the dominant through-line. After the 2022 canvass, he said he wanted increased focus on roads, bridges, and the infrastructure needed to grow the county, according to [Hays Post](https://hayspost.com/p...",
+        "Hays Post: Berges, Leiker presumptive commissioners",
         "> -- Hays Post, 2022, https://hayspost.com/posts/6e260438-27db-4402-bf8e-e8df621996d4",
         "https://hayspost.com/posts/6e260438-27db-4402-bf8e-e8df621996d4 (2022 canvass)",
-        "[Berges, Leiker presumptive new commissioners, Hays Post, Aug. 15, 2022](https://hayspost.com/posts/6e260438-27db-4402-bf8e-e8df621996d4)"
+        "Berges, Leiker presumptive new commissioners, Hays Post, Aug. 15, 2022"
       ]
     },
     {
@@ -1014,9 +1004,9 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Leiker said the Fairview Patch location worked against the comprehensive plan",
-        "[Hays Post — Fairview Patch preliminary plat (May 6, 2025)](https://hayspost.com/posts/4f685bbb-15b3-4649-acc2-fae5a0efb0bd) — secondary",
+        "Hays Post — Fairview Patch preliminary plat (May 6, 2025) — secondary",
         "https://hayspost.com/posts/4f685bbb-15b3-4649-acc2-fae5a0efb0bd (Fairview Patch preliminary plat)",
-        "[Fairview Patch preliminary plat, Hays Post, May 6, 2025](https://hayspost.com/posts/4f685bbb-15b3-4649-acc2-fae5a0efb0bd)"
+        "Fairview Patch preliminary plat, Hays Post, May 6, 2025"
       ]
     },
     {
@@ -1029,9 +1019,9 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Leiker said Fairview Patch was getting far from localized subdivision patterns",
         "Leiker cast the lone no vote on the final plat",
-        "[Hays Post — Fairview Patch final plat (Jul 1, 2025)](https://hayspost.com/posts/fa81e374-6f44-4875-8984-b7869e10c11d) — secondary",
+        "Hays Post — Fairview Patch final plat (Jul 1, 2025) — secondary",
         "https://hayspost.com/posts/fa81e374-6f44-4875-8984-b7869e10c11d (Fairview Patch final plat)",
-        "[Fairview Patch final plat, Hays Post, Jul. 1, 2025](https://hayspost.com/posts/fa81e374-6f44-4875-8984-b7869e10c11d)"
+        "Fairview Patch final plat, Hays Post, Jul. 1, 2025"
       ]
     },
     {
@@ -1044,7 +1034,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Leiker said he had no problem seeing the RHID start but was not sure he would support it after the public hearing",
         "Leiker said he would be doing more homework on the RHID",
-        "[Hays Post — RHID for Big Creek Estates](https://hayspost.com/posts/f77c1ad9-bc7d-4028-9135-866e1584176c) — secondary",
+        "Hays Post — RHID for Big Creek Estates — secondary",
         "https://hayspost.com/posts/f77c1ad9-bc7d-4028-9135-866e1584176c (Big Creek RHID)"
       ]
     },
@@ -1057,10 +1047,10 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Leiker said the proposed mill increase could provide a soft landing if state or federal grants were pulled",
-        "[Hays Post — 2026 budget draft / mill levy discussion (Aug 14, 2025)](https://hayspost.com/posts/7c57b3c8-1314-4bd7-8501-f559ff7c176d) — secondary",
+        "Hays Post — 2026 budget draft / mill levy discussion (Aug 14, 2025) — secondary",
         "https://hayspost.com/posts/7c57b3c8-1314-4bd7-8501-f559ff7c176d (2026 budget draft)",
-        "On the 2026 budget draft, he said a mill increase gave the county flexibility for a soft landing if state or federal grants were pulled. Source: [Hays Post, Aug. 14, 2025](https://hayspost.com/posts/7c57b3c8-1314-4bd7-8501-f559ff7c176d).",
-        "[2026 budget draft, Hays Post, Aug. 14, 2025](https://hayspost.com/posts/7c57b3c8-1314-4bd7-8501-f559ff7c176d)"
+        "On the 2026 budget draft, he said a mill increase gave the county flexibility for a soft landing if state or federal grants were pulled. Source: Hays Post, Aug. 14, 2025.",
+        "2026 budget draft, Hays Post, Aug. 14, 2025"
       ]
     },
     {
@@ -1074,16 +1064,16 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         "Leiker quoted on nearly 13 hours of budget review",
         "Leiker quoted on commissioners not being experts in solar review",
         "Leiker identified as vice-chair after 2026 reorganization",
-        "\"We spent almost 13 hours going through each department\" - Hays Post budget coverage - https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6 - topic: budget review",
-        "\"is less expensive than building a new jail.\" - Hays Post budget coverage - https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6 - topic: mental health funding",
-        "[2026 Salary Adjustments -- Hays Post](https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6)",
+        "We spent almost 13 hours going through each department - Hays Post budget coverage - https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6 - topic: budget review",
+        "is less expensive than building a new jail. - Hays Post budget coverage - https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6 - topic: mental health funding",
+        "2026 Salary Adjustments -- Hays Post",
         "> -- Hays Post, 2026, https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6",
-        "[Hays Post — 2026 salary adjustments (Jan 13, 2026)](https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6) — secondary",
-        "[Hays Post — 2026 salary/solar/reorganization (Jan 13, 2026)](https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6) — secondary",
+        "Hays Post — 2026 salary adjustments (Jan 13, 2026) — secondary",
+        "Hays Post — 2026 salary/solar/reorganization (Jan 13, 2026) — secondary",
         "https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6 (Jan 2026 reorganization/solar consultant)",
-        "\"source\": \"Hays Post, 2026, https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6\",",
-        "On solar project review, he said commissioners were not experts and wanted expert help to guide the best decision for constituents. Source: [Hays Post, Jan. 13, 2026](https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6).",
-        "[2026 salary adjustment / solar consulting / reorganization, Hays Post, Jan. 13, 2026](https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6)"
+        "\"source\": \"Hays Post, 2026, https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6\"",
+        "On solar project review, he said commissioners were not experts and wanted expert help to guide the best decision for constituents. Source: Hays Post, Jan. 13, 2026.",
+        "2026 salary adjustment / solar consulting / reorganization, Hays Post, Jan. 13, 2026"
       ]
     },
     {
@@ -1096,9 +1086,9 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "County considered Tallgrass solar review reimbursement and consultant agreements",
         "Leiker framed the agreements as protecting the county",
-        "[Hays Post — bond projects / Tallgrass review agreements (Feb 3, 2026)](https://hayspost.com/posts/7ad9fcb9-1308-464e-8cf4-d3de9e986b40) — secondary",
+        "Hays Post — bond projects / Tallgrass review agreements (Feb 3, 2026) — secondary",
         "https://hayspost.com/posts/7ad9fcb9-1308-464e-8cf4-d3de9e986b40 (Feb 2026 Tallgrass review agreements)",
-        "[Bond projects / Tallgrass review agreements, Hays Post, Feb. 3, 2026](https://hayspost.com/posts/7ad9fcb9-1308-464e-8cf4-d3de9e986b40)"
+        "Bond projects / Tallgrass review agreements, Hays Post, Feb. 3, 2026"
       ]
     },
     {
@@ -1110,9 +1100,9 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Leiker suggested pausing further zoning certificate approvals to reevaluate the regulatory framework",
-        "[Hays Post — plat approval process update (Mar 3, 2026)](https://hayspost.com/posts/d4ad7eb6-4af1-419c-b0ec-e8786acdca3d) — secondary",
+        "Hays Post — plat approval process update (Mar 3, 2026) — secondary",
         "https://hayspost.com/posts/d4ad7eb6-4af1-419c-b0ec-e8786acdca3d (Mar 2026 plat approval process)",
-        "[Plat approval process, Hays Post, Mar. 3, 2026](https://hayspost.com/posts/d4ad7eb6-4af1-419c-b0ec-e8786acdca3d)"
+        "Plat approval process, Hays Post, Mar. 3, 2026"
       ]
     },
     {
@@ -1125,11 +1115,9 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Leiker described L5 Farms as part of a fifth-generation Ellis County farm",
         "Leiker discussed direct producer-consumer relationships after COVID supply-chain disruption",
-        "His agriculture messaging predates county office and reinforces the same practical tone. In [Ingram's 2021 profile](https://ingrams.com/article/50-kansans-you-should-know-2021/), Leiker described L5 Farms as part of a fifth-generation farm in Ellis County and",
-        "| Agriculture/business profile | Yes | [Ingram's 50 Kansans You Should Know 2021](https://ingrams.com/article/50-kansans-you-should-know-2021/) | Profile-controlled/attributed agriculture remarks on L5 Farms, producer-consumer relationships, food supply fragil",
-        "On agriculture, he told Ingram's that producer-consumer partnerships were an opportunity after COVID exposed food-supply fragility, and that agriculture's values of hard work and perseverance do not change. Source: [Ingram's, March 2021](https://ingrams.com/ar",
-        "| Agriculture, cattle, farm technology, food supply | 3 | [Ingram's 2021 profile](https://ingrams.com/article/50-kansans-you-should-know-2021/), [MyAnIML case study](https://myaniml.com/Kansas_Rancher_Installs_MyAnIML_to_Save.pdf), [campaign announcement](http",
-        "[Ingram's 50 Kansans You Should Know 2021](https://ingrams.com/article/50-kansans-you-should-know-2021/)"
+        "His agriculture messaging predates county office and reinforces the same practical tone. In Ingram's 2021 profile, Leiker described L5 Farms as part of a fifth-generation farm in Ellis County and",
+        "On agriculture, he told Ingram's that producer-consumer partnerships were an opportunity after COVID exposed food-supply fragility, and that agriculture's values of hard work and perseverance do not change. Source: [Ing...",
+        "Ingram's 50 Kansans You Should Know 2021"
       ]
     },
     {
@@ -1141,9 +1129,8 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Leiker discussed cattle-health technology in terms of labor limits, earlier treatment, and low-stress handling",
-        "| Agriculture technology case study | Yes | [MyAnIML case study, Jul. 19, 2023](https://myaniml.com/Kansas_Rancher_Installs_MyAnIML_to_Save.pdf) | Public product case study attributes detailed remarks to Leiker about cattle health technology, labor limits, ear",
-        "On cattle technology, he said MyAnIML could spread cattle-health expertise across the farm and that low-stress, less-invasive management drew him to the tool. Source: [MyAnIML case study, Jul. 19, 2023](https://myaniml.com/Kansas_Rancher_Installs_MyAnIML_to_Sa",
-        "[MyAnIML Kansas rancher case study, Jul. 19, 2023](https://myaniml.com/Kansas_Rancher_Installs_MyAnIML_to_Save.pdf)"
+        "On cattle technology, he said MyAnIML could spread cattle-health expertise across the farm and that low-stress, less-invasive management drew him to the tool. Source: [MyAnIML case study, Jul. 19, 2023](https://myaniml....",
+        "MyAnIML Kansas rancher case study, Jul. 19, 2023"
       ]
     },
     {
@@ -1154,10 +1141,10 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "publisher": "Ellisco",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "The highest visible attention marker is electoral rather than social. Hays Post reported Leiker with 4,193 votes in the 2024 general election on election night, and the [Ellis County official results PDF](https://www.ellisco.net/DocumentCenter/View/5620/2024-O",
+        "The highest visible attention marker is electoral rather than social. Hays Post reported Leiker with 4,193 votes in the 2024 general election on election night, and the [Ellis County official results PDF](https://www.el...",
         "https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results",
-        "[Ellis County 2024 official results PDF](https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results)",
-        "Primary source for confirmation needed: the actual Ellis County 2022 canvass-of-general-election certificate plus 2024 official results (the document at https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results is a scanned image PDF that did not"
+        "Ellis County 2024 official results PDF",
+        "Primary source for confirmation needed: the actual Ellis County 2022 canvass-of-general-election certificate plus 2024 official results (the document at https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Res..."
       ]
     },
     {
@@ -1170,7 +1157,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "https://www.ellisco.net/745/Board-Meeting-Live-Stream — meeting livestream page (YouTube)",
         "https://www.ellisco.net/745/Board-Meeting-Live-Stream",
-        "[Ellis County Board Meeting Live Stream](https://www.ellisco.net/745/Board-Meeting-Live-Stream)"
+        "Ellis County Board Meeting Live Stream"
       ]
     },
     {
@@ -1181,9 +1168,8 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "publisher": "Ellisco",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "| Official agendas, minutes, media | Yes | [Agenda Center](https://www.ellisco.net/agendacenter), [Board Meeting Live Stream](https://www.ellisco.net/745/Board-Meeting-Live-Stream) | The agenda center has commission agendas, minutes, and YouTube links. The liv",
-        "The [Agenda Center](https://www.ellisco.net/agendacenter) includes YouTube media links for many meetings, but no Leiker-specific public engagement metric was harvested.",
-        "[Ellis County Agenda Center](https://www.ellisco.net/agendacenter)"
+        "The Agenda Center includes YouTube media links for many meetings, but no Leiker-specific public engagement metric was harvested.",
+        "Ellis County Agenda Center"
       ]
     },
     {
@@ -1194,8 +1180,8 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "publisher": "Salinadiocese",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Public evidence points strongly toward St. Nicholas of Myra Catholic Church in Hays, but I did not find a direct statement from Leiker himself confirming parish membership. The strongest source is the family-obituary trail tied to the Leiker name and St. Nicho",
-        "[St. Nicholas of Myra Parish](https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/)"
+        "Public evidence points strongly toward St. Nicholas of Myra Catholic Church in Hays, but The reviewed public record did not identify a direct statement from Leiker himself confirming parish membership. The strongest sou...",
+        "St. Nicholas of Myra Parish"
       ]
     },
     {
@@ -1206,7 +1192,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "publisher": "Haysmemorial",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Marilyn (Klaus) Leiker Obituary](https://www.haysmemorial.com/obituary/Marilyn-KlausLeiker/)"
+        "Marilyn (Klaus) Leiker Obituary"
       ]
     },
     {
@@ -1217,10 +1203,10 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Leiker's development message is pro-growth but bounded by planning and infrastructure capacity. In the candidate Q&A, he said the county should recruit business by keeping taxes stable and showing it can maintain infrastructure. At an August 2024 joint city-co",
+        "Leiker's development message is pro-growth but bounded by planning and infrastructure capacity. In the candidate Q&A, he said the county should recruit business by keeping taxes stable and showing it can maintain infras...",
         "https://hayspost.com/posts/2584b551-eb90-4e5b-abbf-fd3ef6cab0bc (2024 joint city-county roads)",
-        "On city-county road collaboration north of I-70, he called the Vineyard Road project forward-looking and said the future of Hays was developing in that direction. Source: [Hays Post, Aug. 16, 2024](https://hayspost.com/posts/2584b551-eb90-4e5b-abbf-fd3ef6cab0b",
-        "[Hays/Ellis County road collaboration, Hays Post, Aug. 16, 2024](https://hayspost.com/posts/2584b551-eb90-4e5b-abbf-fd3ef6cab0bc)"
+        "On city-county road collaboration north of I-70, he called the Vineyard Road project forward-looking and said the future of Hays was developing in that direction. Source: [Hays Post, Aug. 16, 2024](https://hayspost.com/...",
+        "Hays/Ellis County road collaboration, Hays Post, Aug. 16, 2024"
       ]
     },
     {
@@ -1231,10 +1217,10 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "On budgets and taxes, he speaks as a fiscal conservative who still accepts spending when tied to services, infrastructure, and risk management. In [October 2024 budget coverage](https://hayspost.com/posts/d81583db-0414-44c6-8dac-7d4ad565ed13), he said commissi",
+        "On budgets and taxes, he speaks as a fiscal conservative who still accepts spending when tied to services, infrastructure, and risk management. In October 2024 budget coverage, he said commissi",
         "https://hayspost.com/posts/d81583db-0414-44c6-8dac-7d4ad565ed13 (2025 budget)",
-        "On the 2025 budget, he said the commission tries to limit tax-dollar impact, but also warned against deferring bridge and road needs until failures or accidents happen. Source: [Hays Post, Oct. 1, 2024](https://hayspost.com/posts/d81583db-0414-44c6-8dac-7d4ad5",
-        "[2025 budget with mill levy reduction, Hays Post, Oct. 1, 2024](https://hayspost.com/posts/d81583db-0414-44c6-8dac-7d4ad565ed13)"
+        "On the 2025 budget, he said the commission tries to limit tax-dollar impact, but also warned against deferring bridge and road needs until failures or accidents happen. Source: [Hays Post, Oct. 1, 2024](https://hayspost...",
+        "2025 budget with mill levy reduction, Hays Post, Oct. 1, 2024"
       ]
     },
     {
@@ -1245,10 +1231,10 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[2024 Election Results -- Hays Post](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
-        "[Hays Post: 2024 election results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
-        "The clearest public electoral attention marker is Leiker's 2024 general-election result. Hays Post reported 4,193 votes for Nathan D. Leiker in the District 3 race on election night; Ellis County's official results PDF later listed 4,272 votes and 45 write-ins",
-        "[2024 general election results, Hays Post, Nov. 6, 2024](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)"
+        "2024 Election Results -- Hays Post",
+        "Hays Post: 2024 election results",
+        "The clearest public electoral attention marker is Leiker's 2024 general-election result. Hays Post reported 4,193 votes for Nathan D. Leiker in the District 3 race on election night; Ellis County's official results PDF...",
+        "2024 general election results, Hays Post, Nov. 6, 2024"
       ]
     },
     {
@@ -1259,8 +1245,8 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Facebook -- Commissioner Ellis County 1st District](https://www.facebook.com/EllisCountyDistrict1/) -- Active public page for his commissioner seat",
-        "[Facebook -- Commissioner Ellis County 1st District](https://www.facebook.com/EllisCountyDistrict1/)",
+        "Facebook -- Commissioner Ellis County 1st District -- Active public page for his commissioner seat",
+        "Facebook -- Commissioner Ellis County 1st District",
         "https://www.facebook.com/EllisCountyDistrict1/ (Berges D1 — comparator, NOT Leiker)"
       ]
     },
@@ -1272,12 +1258,10 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "publisher": "Linkedin",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "| LinkedIn | Reported in prior local notes, not publicly fetchable here | https://www.linkedin.com/in/nathan-leiker-1236bb276 | The URL was checked, but direct fetch failed in this environment and search did not produce an accessible public preview. No LinkedI",
         "https://www.linkedin.com/in/nathan-leiker-1236bb276",
-        "[LinkedIn](https://www.linkedin.com/in/nathan-leiker-1236bb276) -- VP at L5 Farms Inc.",
-        "[LinkedIn Profile](https://www.linkedin.com/in/nathan-leiker-1236bb276)",
-        "LinkedIn: [Nathan Leiker](https://www.linkedin.com/in/nathan-leiker-1236bb276)",
-        "[Leiker LinkedIn profile](https://www.linkedin.com/in/nathan-leiker-1236bb276) — social (identity confirmation only)"
+        "LinkedIn -- VP at L5 Farms Inc.",
+        "LinkedIn: Nathan Leiker",
+        "Leiker LinkedIn profile — social (identity confirmation only)"
       ]
     }
   ]

@@ -19,7 +19,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: https://www.change.org/decision-makers/cathy-hopkins-kansas-state-board-of-education-district-5 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: https://www.change.org/decision-makers/cathy-hopkins-kansas-state-board-of-education-district-5 Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-cathy-hopkins-0006",
           "s-ksde-district-5",
@@ -86,7 +86,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -96,7 +96,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -106,7 +106,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -116,7 +116,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -126,7 +126,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -136,7 +136,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -146,7 +146,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts.",
         "sourceIds": []
       },
       "actions": [],
@@ -156,7 +156,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -166,7 +166,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -176,7 +176,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: https://www.change.org/decision-makers/cathy-hopkins-kansas-state-board-of-education-district-5 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: https://www.change.org/decision-makers/cathy-hopkins-kansas-state-board-of-education-district-5 Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-cathy-hopkins-0006",
           "s-ksde-district-5"
@@ -214,16 +214,16 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Cathy Hopkins is profiled here for Current Kansas State Board of Education District 5 member/chair; not confirmed filed for 2026 as a Republican incumbent/current official. Agent: Worker 7 (deep-scraper equivalent). This dump does not treat dated 2022 questionnaire answers as a 2026 platform, does not infer beliefs from faith references, and does not call Hopkins a filed 2026 candidate without an official filing source. Secondary: local/state news, policy-media coverage, candidate-guide summaries. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 7 source-backed actions across 2 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: https://www.change.org/decision-makers/cathy-hopkins-kansas-state-board-of-education-district-5. Education / curriculum / schools: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5 -- KSDE District 5 details and counties -- accessed 2026-03-30. Education / curriculum / schools: KSDE District 5 page. Education / curriculum / schools: Hays Post: KS Board of Education conservative wing. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "ownWordsNarrative": "candidateControlled: found: KSDE official board profile and contact page; 2022 iVoterGuide questionnaire archive; notConfirmed: Current 2026 Hopkins campaign website; Candidate-controlled Facebook page; Candidate-controlled X/Twitter account; Candidate-controlled Instagram account; Candidate-controlled LinkedIn profile; Native post engagement metrics, likes, comments, shares, follows, or reposts; observedSignals: id: online-questionnaire-2022; platform: iVoterGuide; type: candidate_questionnaire_archive; mappedToIssueId: local-control-core-academics-state-mandates; summary: 2022 questionnaire responses are the only substantial candidate-authored issue corpus surfaced in this pass.; sourceIds: s-ivoterguide-hopkins",
+  "whoTheyAre": "Cathy Hopkins is profiled here for Current Kansas State Board of Education District 5 member/chair; not confirmed filed for 2026 as a Republican incumbent/current official. Agent: Worker 7 (deep-scraper equivalent). This dump does not treat dated 2022 questionnaire answers as a 2026 platform, does not infer beliefs from faith references, and does not call Hopkins a filed 2026 candidate without an official filing source. Secondary: local/state news, policy-media coverage, candidate-guide summaries. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 7 source-backed items across 2 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: https://www.change.org/decision-makers/cathy-hopkins-kansas-state-board-of-education-district-5. Education / curriculum / schools: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5 -- KSDE District 5 details and counties -- accessed 2026-03-30. Education / curriculum / schools: KSDE District 5 page. Education / curriculum / schools: Hays Post: KS Board of Education conservative wing. Social-only material is listed separately as online observation, not official action.",
+  "ownWordsNarrative": "[object Object]",
   "whereTheyWorship": "iVoterGuide includes Hopkins's 2022 faith self-description and says she identified the Bible as a major influence. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
@@ -260,7 +260,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
         "Committee assignments include Coordinating Council, Professional Standards Board Liaison, Teacher Vacancy and Supply Committee, and Governor's Education Council",
         "District 5 includes Hays USD 489 and other western/central Kansas districts",
         "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5 -- KSDE District 5 details and counties -- accessed 2026-03-30",
-        "[KSDE District 5 page](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)"
+        "KSDE District 5 page"
       ]
     },
     {
@@ -401,7 +401,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Reports Hopkins discussed streamlining state-board mandates and focusing on reading and writing",
-        "[Hays Post: KS Board of Education conservative wing](https://hayspost.com/posts/eee8fa4b-005e-4c47-8558-a0c9729e7bd0)"
+        "Hays Post: KS Board of Education conservative wing"
       ]
     },
     {
@@ -501,7 +501,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "publisher": "Ballotpedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Ballotpedia: Cathy Hopkins](https://ballotpedia.org/Cathy_Hopkins)"
+        "Ballotpedia: Cathy Hopkins"
       ]
     }
   ]

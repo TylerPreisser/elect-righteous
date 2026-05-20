@@ -19,7 +19,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -49,7 +49,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -59,7 +59,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public evidence: Phillips County minutes record Dibble discussing budget adjustments to increase government efficiency.",
+        "text": "Documented public record: Phillips County minutes record Dibble discussing budget adjustments to increase government efficiency.",
         "sourceIds": [
           "s-phillips-minutes-2025-01-13"
         ]
@@ -80,7 +80,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public evidence: Phillips County minutes record Dibble mentioning a housing development project on the south side of Phillipsburg.",
+        "text": "Documented public record: Phillips County minutes record Dibble mentioning a housing development project on the south side of Phillipsburg.",
         "sourceIds": [
           "s-phillips-minutes-2025-01-13"
         ]
@@ -101,7 +101,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -111,7 +111,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -121,7 +121,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -131,7 +131,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: The state roster audit found Max L. Dibble on the official Kansas SOS 2026 Primary list for House District 110.",
+        "text": "Documented public record: The state roster audit found Max L. Dibble on the official Kansas SOS 2026 Primary list for House District 110.",
         "sourceIds": [
           "s-sos-2026-primary"
         ]
@@ -152,7 +152,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -162,7 +162,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public evidence: Kansas Legislature minutes record Dibble testifying about pipelines in county rights-of-way and the related local tax base.",
+        "text": "Documented public record: Kansas Legislature minutes record Dibble testifying about pipelines in county rights-of-way and the related local tax base.",
         "sourceIds": [
           "s-ksleg-2022-utilities"
         ]
@@ -183,7 +183,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: The City of Phillipsburg lists Max Dibble as Phillips County Commissioner District 2 representative on the Economic Development Advisory Board.",
+        "text": "Documented public record: The City of Phillipsburg lists Max Dibble as Phillips County Commissioner District 2 representative on the Economic Development Advisory Board.",
         "sourceIds": [
           "s-phillipsburg-edab"
         ]
@@ -204,7 +204,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],

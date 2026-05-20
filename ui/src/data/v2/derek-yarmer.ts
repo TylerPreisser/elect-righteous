@@ -20,7 +20,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented public evidence: His public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involves before going into it. In Hays High bathroom and vandalism coverage, he said cameras outside bathrooms were not adequate for safety or security purposes. In asbestos-abatement coverage, he seconded a... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: His public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involves before going into it. In Hays High bathroom and vandalism coverage, he said cameras outside bathrooms were not adequate for safety or security purposes. In asbestos-abatement coverage, he seconded a... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-felten-2026",
           "s-hayspost-parent-rights-2025"
@@ -60,7 +60,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-tigermedia-furniture-playground-2025",
           "s-ellis-2023-official-results",
@@ -120,7 +120,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -130,7 +130,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public evidence: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-tigermedia-furniture-playground-2025",
           "s-hayspost-yarmer-bond-statement-2025",
@@ -180,7 +180,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -190,7 +190,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -200,7 +200,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -210,7 +210,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: On education policy, Yarmer's public comments emphasize core academics, leaner operations, and skepticism of expansive school roles. During a 2025 discussion of special education funding and district spending, he said the district could \"work a little leaner,\" questioned whether requested items were needs, and said, \"I don't think money is the problem of the education system. I think we need to be better at doing wh... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Public evidence: On education policy, Yarmer's public comments emphasize core academics, leaner operations, and skepticism of expansive school roles. During a 2025 discussion of special education funding and district spending, he said the district could \"work a little leaner,\" questioned whether requested items were needs, and said, \"I don't think money is the problem of the education system. I think we need to be better at doing wh... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-sped-sel-2025",
           "s-pawnee-yarmer-ed-director"
@@ -243,7 +243,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-tigermedia-furniture-playground-2025",
           "s-hayspost-admin-contracts-2024",
@@ -282,7 +282,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: His public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involves before going into it. In Hays High bathroom and vandalism coverage, he said cameras outside bathrooms were not adequate for safety or security purposes. In asbestos-abatement coverage, he seconded a... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: His public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involves before going into it. In Hays High bathroom and vandalism coverage, he said cameras outside bathrooms were not adequate for safety or security purposes. In asbestos-abatement coverage, he seconded a... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-felten-2026",
           "src-derek-yarmer-0046",
@@ -321,7 +321,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -331,7 +331,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-tigermedia-furniture-playground-2025",
           "s-hayspost-admin-contracts-2024",
@@ -408,25 +408,25 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Derek Yarmer is a current USD 489 board member and emergency physician. His public\npersona is built around local board oversight: bond and capital-outlay scrutiny,\nearlier board materials, contract review, and practical facilities/safety questions.",
-  "recordSummary": "Official USD 489 minutes show repeated no or table votes on bond-related change\norders, furniture/playground purchases, HVAC agreements, Felten GMP approval, and\nadministrator contract extensions, paired with yes votes on other purchases and\nsafety/facility work. This is best read as a process-and-oversight record, not as\nan across-the-board anti-spending posture.",
-  "whereTheyWorship": "No reliable public source identified a church home, denomination, or faith community for Derek Yarmer. I did not find a reliable public source that identifies Derek Yarmer's church home or denomination. Because the public record is thin here, I am not assigning a church without evidence. I did not find a reliable public source that identifies Yarmer's church home or denomination. I am not assigning a church without evidence. This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "whoTheyAre": "Derek Yarmer is a current USD 489 board member and emergency physician. His public persona is built around local board oversight: bond and capital-outlay scrutiny, earlier board materials, contract review, and practical facilities/safety questions.",
+  "recordSummary": "Official USD 489 minutes show repeated no or table votes on bond-related change orders, furniture/playground purchases, HVAC agreements, Felten GMP approval, and administrator contract extensions, paired with yes votes on other purchases and safety/facility work. This is best read as a process-and-oversight record, not as an across-the-board anti-spending posture.",
+  "whereTheyWorship": "No reliable public source identified a church home, denomination, or faith community for Derek Yarmer. The reviewed public record did not identify a reliable public source that identifies Derek Yarmer's church home or denomination. Because the public record is thin here, No church affiliation is assigned without evidence. The reviewed public record did not identify a reliable public source that identifies Yarmer's church home or denomination. No church affiliation is assigned without evidence. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
     "narrative": "No official itemized donor ledger found online in reviewed sources.",
     "donors": [],
-    "undisclosed": "Treat the funding profile as candidate-attested self-financing plus absence of a\nfound online ledger, not as an independently audited proof that no outside money\nexisted.",
+    "undisclosed": "Treat the funding profile as candidate-attested self-financing plus absence of a found online ledger, not as an independently audited proof that no outside money existed.",
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Hays USD 489 BOE candidate: Derek Yarmer"
   },
-  "socialResearchNote": "No verified public candidate-controlled campaign website or social account was found\nin the existing social harvest or this v2 pass. The USD 489 HighBond member page is\nan official board-member page, not a campaign website.",
+  "socialResearchNote": "No verified public candidate-controlled campaign website or social account was found in the existing social harvest or this v2 pass. The USD 489 HighBond member page is an official board-member page, not a campaign website.",
   "sources": [
     {
       "id": "s-usd489-highbond-members",
@@ -439,8 +439,8 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
         "Derek Yarmer is listed as Dr. and Board Member.",
         "Yarmer is associated with regular, special, retreat, and work-session board meetings.",
         "USD 489 HighBond member page: https://usd489.community.highbond.com/portal/members.aspx?id=18",
-        "[usd489.community.highbond.com](https://usd489.community.highbond.com/portal/members.aspx?id=18)",
-        "\"campaignWebsite\": \"https://usd489.community.highbond.com/portal/members.aspx?id=18\","
+        "usd489.community.highbond.com",
+        "\"campaignWebsite\": \"https://usd489.community.highbond.com/portal/members.aspx?id=18\""
       ]
     },
     {
@@ -480,7 +480,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
         "Hays Post published Yarmer's 2021 applicant letter as submitted.",
         "Yarmer framed education as a parental responsibility.",
         "Yarmer cited emergency medicine, pandemic response, and construction experience.",
-        "His earliest accessible school-board statement, a 2021 application letter for a vacant USD 489 seat, presented education as a parental responsibility and community duty. He wrote that educating children is \"one of the most important responsibilities we have as",
+        "His earliest accessible school-board statement, a 2021 application letter for a vacant USD 489 seat, presented education as a parental responsibility and community duty. He wrote that educating children is \"one of the m...",
         "2021 vacancy application in Hays Post: https://hayspost.com/posts/f743144f-86f5-409f-af1d-729253115b28"
       ]
     },
@@ -496,12 +496,10 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
         "Yarmer asked for board meetings to be broadcast and agendas to be released earlier.",
         "Yarmer described the board role as oversight of goals, spending, and what students are taught.",
         "Yarmer said his campaign was 100 percent personally financed.",
-        "Derek Yarmer's public record is built around local school-board oversight rather than a broad campaign-media operation. In his 2023 Hays Post questionnaire, he described himself as an ER doctor, a parent of children in USD 489, and a non-incumbent candidate wh",
-        "[Hays USD 489 BOE Candidate: Derek Yarmer](https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649)",
-        "\"I believe extra-curricular activities are important ... but the main responsibility of the school is to teach the core subjects.\" - Hays Post candidate profile, 2023; https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649",
-        "2023 candidate questionnaire: https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649",
-        "narrative: \"*A summary of what Derek Yarmer has publicly said, written, and been quoted saying in campaign questionnaires, a published written statement, USD 489 board coverage, school/public pages, and professional profiles through 2026-05-11. No verified cam",
-        "| Local news / Q&A | [Hays Post 2023 Q&A](https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649), [Hays Post 2021 vacancy letter](https://hayspost.com/posts/f743144f-86f5-409f-af1d-729253115b28) | Candidate-authored or candidate-attributed statements"
+        "Derek Yarmer's public record is built around local school-board oversight rather than a broad campaign-media operation. In his 2023 Hays Post questionnaire, he described himself as an ER doctor, a parent of children in....",
+        "Hays USD 489 BOE Candidate: Derek Yarmer",
+        "I believe extra-curricular activities are important ... but the main responsibility of the school is to teach the core subjects. - Hays Post candidate profile, 2023; https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9...",
+        "2023 candidate questionnaire: https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649"
       ]
     },
     {
@@ -516,9 +514,8 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
         "Yarmer criticized capital-outlay spending on items he said should have been bond-covered.",
         "Yarmer criticized spending priorities including concession stand, scoreboards, tennis courts, and marquee.",
         "Yarmer wrote that the board shared blame for insufficient oversight.",
-        "The clearest throughline in Yarmer's board messaging is fiscal scrutiny. In his 2023 questionnaire, he said the board has \"the absolute responsibility\" to keep the $143.5 million bond project on budget and deliver the school structures promised to the communit",
-        "[Opinion: Hays USD 489 board member critical of use of bond, capital funds](https://hayspost.com/posts/52e53c90-5182-42f0-919e-2c7dc145305b)",
-        "| Local news / published statement | [Hays Post opinion statement](https://hayspost.com/posts/52e53c90-5182-42f0-919e-2c7dc145305b) | Hays Post says Yarmer responded by email and published the written statement in full. |",
+        "The clearest throughline in Yarmer's board messaging is fiscal scrutiny. In his 2023 questionnaire, he said the board has \"the absolute responsibility\" to keep the $143.5 million bond project on budget and deliver the s...",
+        "Opinion: Hays USD 489 board member critical of use of bond, capital funds",
         "2025 written bond/capital-outlay statement: https://hayspost.com/posts/52e53c90-5182-42f0-919e-2c7dc145305b"
       ]
     },
@@ -532,8 +529,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "District-level administrator contract extension passed 5-1-1.",
         "Derek Yarmer abstained on the administrator contract extension vote.",
-        "Jan. 22, 2024 agenda/minutes page: https://usd489.community.highbond.com/document/4617/File.html?handle=7A80C62703E94B0E80A35ACBCCEDEF73",
-        "\"url\": \"https://usd489.community.highbond.com/document/4617/File.html?handle=7A80C62703E94B0E80A35ACBCCEDEF73\","
+        "Jan. 22, 2024 agenda/minutes page: https://usd489.community.highbond.com/document/4617/File.html?handle=7A80C62703E94B0E80A35ACBCCEDEF73"
       ]
     },
     {
@@ -647,9 +643,9 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Hays Post attributed Yarmer's abstention to lacking information on the contract vote.",
-        "[Hays USD 489 district administrators' contracts extended another year](https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf)",
-        "Yarmer's oversight posture also shows up in personnel and contract discussions. At his first 2024 board meeting, he abstained from extending administrator contracts after a short executive session, saying, \"You're asking me to vote on something I know nothing",
-        "\"I want to be an advocate for the students' interests, as well as be fiscally responsible.\" - Hays Post candidate profile, 2023; https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf",
+        "Hays USD 489 district administrators' contracts extended another year",
+        "Yarmer's oversight posture also shows up in personnel and contract discussions. At his first 2024 board meeting, he abstained from extending administrator contracts after a short executive session, saying, \"You're askin...",
+        "I want to be an advocate for the students' interests, as well as be fiscally responsible. - Hays Post candidate profile, 2023; https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf",
         "Admin contracts, Jan. 2024: https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf"
       ]
     },
@@ -662,9 +658,8 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Coverage attributed to Yarmer comments about leaner spending, needs versus wants, money not being the core education problem, and core academic focus.",
-        "On education policy, Yarmer's public comments emphasize core academics, leaner operations, and skepticism of expansive school roles. During a 2025 discussion of special education funding and district spending, he said the district could \"work a little leaner,\"",
-        "Special education / SEL / district spending, Feb. 2025: https://hayspost.com/posts/753ae9c5-9a0b-4bc2-b319-57e7fc4efdeb",
-        "| 2025-02-20 | [Hays Post](https://hayspost.com/posts/753ae9c5-9a0b-4bc2-b319-57e7fc4efdeb) | Special education funding and district spending | Said the district could \"work a little leaner,\" questioned whether requested items were needs, said money was not th"
+        "On education policy, Yarmer's public comments emphasize core academics, leaner operations, and skepticism of expansive school roles. During a 2025 discussion of special education funding and district spending, he said t...",
+        "Special education / SEL / district spending, Feb. 2025: https://hayspost.com/posts/753ae9c5-9a0b-4bc2-b319-57e7fc4efdeb"
       ]
     },
     {
@@ -676,9 +671,8 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Tiger Media attributed to Yarmer an objection to receiving numbers and voting the same night.",
-        "His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board",
-        "Furniture/playground same-night vote, Oct. 2025: https://tigermedianet.com/?p=90779",
-        "| 2025-10-14 | [Tiger Media Network](https://tigermedianet.com/?p=90779) | Furniture and playground expenses | Objected to receiving numbers and voting the same night, saying larger purchases should come to the board earlier. |"
+        "His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should...",
+        "Furniture/playground same-night vote, Oct. 2025: https://tigermedianet.com/?p=90779"
       ]
     },
     {
@@ -690,8 +684,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Tiger Media attributed to Yarmer the emergency-process quote during asbestos-abatement discussion.",
-        "Asbestos abatement, Dec. 2025: https://tigermedianet.com/?p=93176",
-        "| 2025-12-16 | [Tiger Media Network](https://tigermedianet.com/?p=93176) | Asbestos abatement | Seconded a tabling motion and said, \"If everything is an emergency, nothing is an emergency.\" |"
+        "Asbestos abatement, Dec. 2025: https://tigermedianet.com/?p=93176"
       ]
     },
     {
@@ -703,7 +696,6 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Tiger Media attributed to Yarmer a process objection about purchases over $100,000 being discussed before a vote.",
-        "| 2026-02-24 | [Tiger Media Network](https://tigermedianet.com/?p=94701) | Felten Elementary project | Said purchases over $100,000 should be discussed at the prior board meeting before a vote, and distinguished estimates from final proposals. |",
         "Felten GMP, Feb. 2026: https://tigermedianet.com/?p=94701"
       ]
     },
@@ -716,9 +708,8 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Coverage attributed to Yarmer questions about whether Felten plumbing was scoped before bidding.",
-        "His public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involves before going into it. In Hays High bath",
-        "Felten scope questions, Feb. 2026: https://hayspost.com/posts/f5e69fbd-0165-4db1-b896-07613f7a31ed",
-        "| 2026-02-25 | [Hays Post](https://hayspost.com/posts/f5e69fbd-0165-4db1-b896-07613f7a31ed) | Felten Elementary construction contract | Asked whether plumbing had been scoped before bidding and said it is good to know project conditions before proceeding. Vote"
+        "His public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involve...",
+        "Felten scope questions, Feb. 2026: https://hayspost.com/posts/f5e69fbd-0165-4db1-b896-07613f7a31ed"
       ]
     },
     {
@@ -730,7 +721,6 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Tiger Media attributed to Yarmer concerns about superintendent contract language and a motion to vote on administrator contracts individually.",
-        "| 2026-03-10 | [Tiger Media Network](https://tigermedianet.com/?p=95549) | Administrator/director contracts | Flagged contract language that appeared to place the superintendent under his own supervision; moved to vote on contracts individually. |",
         "Admin/director contracts, Mar. 2026: https://tigermedianet.com/?p=95549"
       ]
     },
@@ -743,8 +733,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Coverage attributed to Yarmer a concern that cameras outside bathrooms were not adequate for safety/security.",
-        "Bathrooms/vandalism, Apr. 2026: https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede",
-        "| 2026-04-22 | [Hays Post](https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede) | Hays High bathrooms and vandalism | Said cameras outside bathrooms were not adequate for safety or security purposes. |"
+        "Bathrooms/vandalism, Apr. 2026: https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede"
       ]
     },
     {
@@ -757,9 +746,9 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Coverage attributed to Yarmer a direct parental-rights statement in an emergency-policy discussion.",
         "Emergency policy / parental rights: https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471",
-        "[Hays USD 489 board members question parental rights in emergency policy revision](https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471)",
+        "Hays USD 489 board members question parental rights in emergency policy revision",
         "> -- Hays Post, 2025, https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471",
-        "\"source\": \"Hays Post, 2025, https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471\","
+        "\"source\": \"Hays Post, 2025, https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471\""
       ]
     },
     {
@@ -770,10 +759,10 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Hays USD 489 School Board Candidate: Derek Yarmer](https://hayspost.com/posts/ae86883e-49b6-4bb5-af6c-acddd174da30)",
-        "\"I am originally from Albert, Kan.\" - Hays Post candidate profile, 2023; https://hayspost.com/posts/ae86883e-49b6-4bb5-af6c-acddd174da30",
+        "Hays USD 489 School Board Candidate: Derek Yarmer",
+        "I am originally from Albert, Kan. - Hays Post candidate profile, 2023; https://hayspost.com/posts/ae86883e-49b6-4bb5-af6c-acddd174da30",
         "> -- Hays Post, 2023, https://hayspost.com/posts/ae86883e-49b6-4bb5-af6c-acddd174da30",
-        "\"source\": \"Hays Post, 2023, https://hayspost.com/posts/ae86883e-49b6-4bb5-af6c-acddd174da30\","
+        "\"source\": \"Hays Post, 2023, https://hayspost.com/posts/ae86883e-49b6-4bb5-af6c-acddd174da30\""
       ]
     }
   ]

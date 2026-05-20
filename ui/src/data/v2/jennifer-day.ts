@@ -21,7 +21,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -42,7 +42,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -63,7 +63,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -94,7 +94,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -115,7 +115,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public evidence: The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business registration. (source) On Apr. 6, 2026, she personalized that issue by posting that her current LLC was formed in 2024 and that filing her report and paying the fee was easier than finding lighting for a resid... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business registration. (source) On Apr. 6, 2026, she personalized that issue by posting that her current LLC was formed in 2024 and that filing her report and paying the fee was easier than finding lighting for a resid... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -157,7 +157,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public evidence: The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business registration. (source) On Apr. 6, 2026, she personalized that issue by posting that her current LLC was formed in 2024 and that filing her report and paying the fee was easier than finding lighting for a resid... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business registration. (source) On Apr. 6, 2026, she personalized that issue by posting that her current LLC was formed in 2024 and that filing her report and paying the fee was easier than finding lighting for a resid... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -227,7 +227,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -258,7 +258,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -279,7 +279,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -300,7 +300,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campaign site says, \"OUR RIGHT TO VOTE IS FUNDAMENTAL,\" and says she is \"running to safeguard our elections.\" (source) The same site says, \"The Secretary of State is charged with overseeing and protecting the electoral proc... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campaign site says, \"OUR RIGHT TO VOTE IS FUNDAMENTAL,\" and says she is \"running to safeguard our elections.\" (source) The same site says, \"The Secretary of State is charged with overseeing and protecting the electoral proc... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -370,7 +370,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -380,7 +380,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -421,7 +421,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campaign site says, \"OUR RIGHT TO VOTE IS FUNDAMENTAL,\" and says she is \"running to safeguard our elections.\" (source) The same site says, \"The Secretary of State is charged with overseeing and protecting the electoral proc... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campaign site says, \"OUR RIGHT TO VOTE IS FUNDAMENTAL,\" and says she is \"running to safeguard our elections.\" (source) The same site says, \"The Secretary of State is charged with overseeing and protecting the electoral proc... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -491,15 +491,15 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Jennifer Day is profiled here for Kansas Secretary of State as a Democratic. Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campaign site says, \"OUR RIGHT TO VOTE IS FUNDAMENTAL,\" and say... The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business registration. (source) On Apr. 6, 2026, she perso... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 7 source-backed actions across 4 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business regi... Economy / jobs / labor: The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business regis... Economy / jobs / labor: With 16 years of business experience... - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01). Election integrity / voting / courts: Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campa... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whoTheyAre": "Jennifer Day is profiled here for Kansas Secretary of State as a Democratic. Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campaign site says, \"OUR RIGHT TO VOTE IS FUNDAMENTAL,\" and say... The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business registration. (source) On Apr. 6, 2026, she perso... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 7 source-backed items across 4 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business regi... Economy / jobs / labor: The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business regis... Economy / jobs / labor: With 16 years of business experience... - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01). Election integrity / voting / courts: Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campa... Social-only material is listed separately as online observation, not official action.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Her public message is framed in civic and administrative terms, and the accessible campaign and legislative material does not tie her to a named congregation.",
   "campaignFinance": {
     "totalRaised": "totalRaised: $84,304.87; totalSpent: $69,564.35; cashOnHand: $14,740.52; inKind: $0.00; otherTransactions: $43,019.00; reportingPeriod: 2025 year-end; January 1, 2025 through December 31, 2025; sourceIds: s-kpdc-202601",
@@ -531,9 +531,9 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       }
     ],
     "reportingPeriod": "Most recent public filing reviewed",
-    "source": "Candidate v2 issue file"
+    "source": "Reviewed public records"
   },
-  "socialResearchNote": "26 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "26 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-joco-candidate",
@@ -544,11 +544,8 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Jennifer Day is listed for the August 4, 2026 primary",
-        "Incumbent: No",
-        "Party: Democratic",
         "Office Jurisdiction and Office Position: Secretary of State",
-        "Term: 4 year; Term End: 2031",
-        "| s-joco-candidate | primary | https://www.jocoelection.org/candidates-elected-officials/jennifer-day-0 | accessed 2026-05-19 | Johnson County candidate page: non-incumbent, Democratic, Secretary of State, four-year term ending 2031 | official status |"
+        "Term: 4 year; Term End: 2031"
       ]
     },
     {
@@ -562,10 +559,8 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
         "Day, Jennifer is listed under Secretary of State candidates",
         "The page links her Appointment of Treasurer and 202601 receipts-and-expenditures report",
         "The page says it was last updated January 22, 2026",
-        "Kansas Ethics filing index: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
-        "2026 filing PDF: [state filing PDF referenced in SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
-        "[SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
-        "| s-kpdc-statewide-2026 | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm | accessed 2026-05-19; page last updated 2026-01-22 | KPDC statewide index lists Day under Secretary of State candidates and links AT/202601 for"
+        "Kansas Ethics filing index: SWLinks2026EC",
+        "2026 filing PDF: state filing PDF referenced in SWLinks2026EC"
       ]
     },
     {
@@ -579,8 +574,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
         "Candidate Name: Jennifer R Day",
         "Office Sought: Secretary of State",
         "Treasurer Name: Stacey Knoell",
-        "Treasurer Date Appointed: October 15, 2025",
-        "| s-kpdc-treasurer | primary | https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW04JD_AT.pdf | executed 2025-10-17; accessed 2026-05-19 | Candidate name, office sought Secretary of State, treasurer Stacey Knoell, treasurer appointed 2025-1"
+        "Treasurer Date Appointed: October 15, 2025"
       ]
     },
     {
@@ -597,9 +591,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
         "Cash on hand at close of period was $14,740.52",
         "In-kind contributions were $0.00",
         "Other transactions were $43,019.00",
-        "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04JD_202601.pdf",
-        "[State of Kansas](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04JD_202601.pdf)",
-        "| s-kpdc-202601 | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04JD_202601.pdf | filed 2026-01-10; accessed 2026-05-19 | 2025 year-end receipts, expenditures, cash-on-hand, other transactions, itemized schedules | finance |"
+        "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04JD_202601.pdf"
       ]
     },
     {
@@ -613,18 +605,17 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
         "Campaign centers the Secretary of State race on election administration, voting access, election security, public trust, and business services",
         "Campaign site lists endorsements from Laura Kelly, Brandon Woodard, Nikki McDonald, Dan Osman, Jerry Stogsdill, Mike Kelly, and Dawn Rattan",
         "Campaign site links Bluesky, X/Twitter, Instagram, Facebook, ActBlue, and a press kit",
-        "The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business registration. ([source](https://www.electjenday.co",
-        "Her public alignment network is Democratic and election-administration oriented. The campaign site lists Gov. Laura Kelly, House Democratic Leader Brandon Woodard, Reps. Nikki McDonald, Dan Osman, Jerry Stogsdill, Johnson County Commission Chair Mike Kelly, an",
-        "\"With 16 years of business experience...\" - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01)",
-        "Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campaign site says, \"OUR RIGHT TO VOTE IS FUNDAMENTAL,\" and says",
-        "| s-campaign-home | primary | https://www.electjenday.com/ | accessed 2026-05-19 | Candidate-controlled homepage, issue planks, endorsements, social links, campaign contact | platform, biography |",
-        "Campaign website: [electjenday.com](https://www.electjenday.com/)",
-        "\"OUR RIGHT TO VOTE IS FUNDAMENTAL.\" - campaign site, 2026-04-01, https://www.electjenday.com/ - topic: voting rights.",
-        "\"election integrity is increasingly under threat\" - campaign site, 2026-04-01, https://www.electjenday.com/ - topic: election security.",
-        "\"protect the right to vote\" - campaign framing, 2026-04-01, https://www.electjenday.com/ - topic: mission.",
-        "\"I'm running to safeguard our elections.\" - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01)",
-        "\"The Secretary of State is charged with overseeing and protecting the electoral process across Kansas.\" - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01)",
-        "\"Voting should not be a partisan issue.\" - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01)",
+        "The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business registrat...",
+        "Her public alignment network is Democratic and election-administration oriented. The campaign site lists Gov. Laura Kelly, House Democratic Leader Brandon Woodard, Reps. Nikki McDonald, Dan Osman, Jerry Stogsdill, Johns...",
+        "With 16 years of business experience... - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01)",
+        "Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campaign site says, \"OU...",
+        "Campaign website: electjenday.com",
+        "OUR RIGHT TO VOTE IS FUNDAMENTAL. - campaign site, 2026-04-01, https://www.electjenday.com/ - topic: voting rights.",
+        "election integrity is increasingly under threat - campaign site, 2026-04-01, https://www.electjenday.com/ - topic: election security.",
+        "protect the right to vote - campaign framing, 2026-04-01, https://www.electjenday.com/ - topic: mission.",
+        "I'm running to safeguard our elections. - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01)",
+        "The Secretary of State is charged with overseeing and protecting the electoral process across Kansas. - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01)",
+        "Voting should not be a partisan issue. - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01)",
         "Campaign site: https://www.electjenday.com/ is active and links Bluesky, X/Twitter, Instagram, Facebook, ActBlue, a press kit, and a footer LinkedIn icon that resolved only to LinkedIn home in the local capture."
       ]
     },
@@ -638,8 +629,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Day represented House District 48 as a Democrat",
         "House service is listed as 2020-2021",
-        "The page lists sponsored bills HB 2140 and HB 2300 and sponsored resolutions HR 6008, HR 6013, HR 6014, and HR 6016",
-        "| s-ksleg-member | primary | https://www.kslegislature.gov/li_2022/b2021_22/members/rep_day_jennifer_1/ | accessed 2026-05-19 | Former House District 48 service, party, sponsored bills/resolutions, 2021 vote record link | officeholder record |"
+        "The page lists sponsored bills HB 2140 and HB 2300 and sponsored resolutions HR 6008, HR 6013, HR 6014, and HR 6016"
       ]
     },
     {
@@ -651,8 +641,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Official 2021 vote record for Day",
-        "Includes votes on concealed carry, firearm safety education, criminal justice, budgets, veterans, victims, and other measures",
-        "| s-ksleg-vote-2021 | primary | https://www.kslegislature.gov/li_2022/b2021_22/members/documents/rep_day_jennifer_1_vote_record_2021.pdf | accessed 2026-05-19 | Official 2021 House roll-call history for Day | action evidence |"
+        "Includes votes on concealed carry, firearm safety education, criminal justice, budgets, veterans, victims, and other measures"
       ]
     },
     {
@@ -666,10 +655,8 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
         "Day submitted opponent written-only testimony on HB 2452",
         "Day identified herself as a Kansas citizen and election worker in her county for the past eight years",
         "Her testimony raised concerns about longer ballots, undervotes, voter disengagement, confusion, and voting-process delays",
-        "| s-day-hb2452-testimony | primary | https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_electns_1/documents/testimony/20260120_21.pdf | testimony dated 2026-01-20; accessed 2026-05-19 | Day's written-only opponent testimony on HB 2452; identifies her",
         "https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_electns_1/documents/testimony/20260120_21.pdf",
-        "[Kansas Legislature](https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_electns_1/documents/testimony/20260120_21.pdf)",
-        "\"url\": \"https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_electns_1/documents/testimony/20260120_21.pdf\","
+        "Kansas Legislature"
       ]
     },
     {
@@ -682,9 +669,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Local harvest identified this as the highest visible Bluesky post-level engagement in the captured feed, with 4 likes and 2 reposts",
         "Post named military families overseas, seniors, rural voters, and working parents as mail-ballot users",
-        "| s-bsky-mail-ballots | social | https://bsky.app/profile/electjenday.bsky.social/post/3mes2wul5yr2e | posted 2026-02-14; local capture 2026-05-11 | Mail-ballot post naming military families, seniors, rural voters, and working parents; highest visible Bluesky",
-        "Bluesky post, 2026-02-14, naming military families overseas, seniors, rural voters, and working parents as Kansans who use mail-in ballots. This had the highest visible Bluesky post-level engagement in the captured feed: 4 likes and 2 reposts. ([source](https:",
-        "\"url\": \"https://bsky.app/profile/electjenday.bsky.social/post/3mes2wul5yr2e\","
+        "Bluesky post, 2026-02-14, naming military families overseas, seniors, rural voters, and working parents as Kansans who use mail-in ballots. This had the highest visible Bluesky post-level engagement in the captured feed..."
       ]
     },
     {
@@ -696,8 +681,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "accessed": "2026-05-11",
       "claimsAnchored": [
         "Post connected the business-services issue to Day's current LLC filing/report experience",
-        "Bluesky post, 2026-04-06, saying her current LLC report and fee were easier than finding lighting for a residential rehab project. ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mithgio4yc2p))",
-        "| s-bsky-llc | social | https://bsky.app/profile/electjenday.bsky.social/post/3mithgio4yc2p | posted 2026-04-06; local capture 2026-05-11 | LLC filing / business-services post | business services |"
+        "Bluesky post, 2026-04-06, saying her current LLC report and fee were easier than finding lighting for a residential rehab project. (source)"
       ]
     },
     {
@@ -709,9 +693,8 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "accessed": "2026-05-11",
       "claimsAnchored": [
         "Post announced a 2026 Gun Sense Candidate distinction from Moms Demand Action",
-        "Several issue areas were not prominent in the accessible campaign-controlled material. The reviewed set did not show sustained discussion of abortion, LGBTQ policy, religious liberty, immigration, school choice, marijuana policy, Medicaid expansion, rural hosp",
-        "| s-bsky-gun-sense | social | https://bsky.app/profile/electjenday.bsky.social/post/3mk3pnx2lz224 | posted 2026-04-22; local capture 2026-05-11 | Moms Demand Action Gun Sense Candidate distinction | guns/public safety |",
-        "Bluesky post, 2026-04-22, announcing a 2026 Gun Sense Candidate distinction from Moms Demand Action. ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mk3pnx2lz224))"
+        "Several issue areas were not prominent in the accessible campaign-controlled material. The reviewed set did not show sustained discussion of abortion, LGBTQ policy, religious liberty, immigration, school choice, marijua...",
+        "Bluesky post, 2026-04-22, announcing a 2026 Gun Sense Candidate distinction from Moms Demand Action. (source)"
       ]
     },
     {
@@ -721,9 +704,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "title": "Archive",
       "publisher": "Archive",
       "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| s-cjonline-archive | secondary | https://archive.ph/2025.12.15-205057/https%3A/www.cjonline.com/story/news/politics/state/2025/12/13/jennifer-day-files-candidacy-for-kansas-secretary-of-state/87734035007/ | archived 2025-12-15; search result accessed 2026-05"
-      ]
+      "claimsAnchored": []
     },
     {
       "id": "src-jennifer-day-0060",
@@ -733,8 +714,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "| s-bsky-hb2452 | social | https://bsky.app/profile/electjenday.bsky.social/post/3mckv72p62c2b | posted 2026-01-16; local capture 2026-05-11 | Post opposing moving city/school elections to even-numbered years | election administration |",
-        "Bluesky post, 2026-01-16, opposing moving city and school elections to even-numbered years and saying cities and school districts did not support the bill. ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mckv72p62c2b))"
+        "Bluesky post, 2026-01-16, opposing moving city and school elections to even-numbered years and saying cities and school districts did not support the bill. (source)"
       ]
     },
     {
@@ -745,8 +725,8 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "The social feed most available for post-level review is Bluesky, where the campaign account had 32 followers, 37 following, and 70 posts on May 11, 2026. The accessible feed returned 55 recent entries from Nov. 18, 2025 through May 8, 2026. Of those, 16 center",
-        "Bluesky post, 2026-01-22: \"Voting should be simple, secure and accessible.\" ([source](https://bsky.app/profile/electjenday.bsky.social/post/3md24hfrm6u2m))"
+        "The social feed most available for post-level review is Bluesky, where the campaign account had 32 followers, 37 following, and 70 posts on May 11, 2026. The accessible feed returned 55 recent entries from Nov. 18, 2025...",
+        "Bluesky post, 2026-01-22: \"Voting should be simple, secure and accessible.\" (source)"
       ]
     },
     {
@@ -757,8 +737,8 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Day's campaign contrasts its voting-access frame with proposed restrictions on mail and early voting. On Feb. 9, 2026, she wrote that a Kansas Senate bill \"could end mail-in ballots\" and called it \"a clear attack on Kansas voters.\" ([source](https://bsky.app/p",
-        "Bluesky post, 2026-02-09, criticizing a Kansas Senate bill that \"could end mail-in ballots.\" ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mehahjlh252d))"
+        "Day's campaign contrasts its voting-access frame with proposed restrictions on mail and early voting. On Feb. 9, 2026, she wrote that a Kansas Senate bill \"could end mail-in ballots\" and called it \"a clear attack on Kan...",
+        "Bluesky post, 2026-02-09, criticizing a Kansas Senate bill that \"could end mail-in ballots.\" (source)"
       ]
     },
     {
@@ -769,9 +749,8 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "publisher": "Twitter",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "X appears to mirror or parallel the Bluesky campaign identity. Public page state identified @ElectJenDay as \"Jennifer Day for Secretary of State,\" with 41 followers, 97 following, 70 statuses, and 62 media items. Its description says she is \"Running for Secret",
-        "| X / Twitter | https://twitter.com/electjenday | FOUND | Public metadata accessible in page state: @ElectJenDay, 41 followers, 97 following, 70 statuses, 62 media items; account created 2025-09-25. Logged-out direct timeline review was limited. |",
-        "X/Twitter public profile metadata, captured 2026-05-11: 41 followers, 97 following, 70 statuses, 62 media, created 2025-09-25. ([source](https://twitter.com/electjenday))"
+        "X appears to mirror or parallel the Bluesky campaign identity. Public page state identified @ElectJenDay as \"Jennifer Day for Secretary of State,\" with 41 followers, 97 following, 70 statuses, and 62 media items. Its de...",
+        "X/Twitter public profile metadata, captured 2026-05-11: 41 followers, 97 following, 70 statuses, 62 media, created 2025-09-25. (source)"
       ]
     },
     {
@@ -782,8 +761,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "publisher": "Youtube",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "| YouTube | https://www.youtube.com/@ElectJenDay | FOUND | Public channel title: Jennifer Day. One visible launch video, \"Jennifer Day - Launch Video,\" linked from Bluesky. |",
-        "YouTube presence is minimal but real. The public YouTube oEmbed endpoint identified \"Jennifer Day - Launch Video\" by author Jennifer Day and channel URL https://www.youtube.com/@ElectJenDay; the channel page resolves to channel ID UChWCfiNXT08xvAjRGiL8Hug. ([s"
+        "YouTube presence is minimal but real. The public YouTube oEmbed endpoint identified \"Jennifer Day - Launch Video\" by author Jennifer Day and channel URL https://www.youtube.com/@ElectJenDay; the channel page resolves to..."
       ]
     },
     {
@@ -794,7 +772,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "publisher": "Kansasdems",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Kansas Democratic Party Washington Days 2026 agenda listing \"Guest Speaker - Jennifer Day for Secretary of State\" at the March 2026 event. ([source](https://kansasdems.org/washingtondays))"
+        "Kansas Democratic Party Washington Days 2026 agenda listing \"Guest Speaker - Jennifer Day for Secretary of State\" at the March 2026 event. (source)"
       ]
     },
     {
@@ -805,7 +783,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "publisher": "Youtube",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "YouTube launch video metadata, captured 2026-05-11: title \"Jennifer Day - Launch Video,\" author Jennifer Day, channel @ElectJenDay. ([source](https://www.youtube.com/watch?v=QsWfGPmD574))"
+        "YouTube launch video metadata, captured 2026-05-11: title \"Jennifer Day - Launch Video,\" author Jennifer Day, channel @ElectJenDay. (source)"
       ]
     }
   ]

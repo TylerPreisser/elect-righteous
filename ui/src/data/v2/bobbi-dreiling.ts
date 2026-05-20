@@ -20,7 +20,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -40,7 +40,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate-stated evidence: Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. In Hays Post, she said she would work with students to let them know how easy it is to vote in Ellis County, but she also said she did not think there was anything she could do to increase turnout. (source) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. In Hays Post, she said she would work with students to let them know how easy it is to vote in Ellis County, but she also said she did not think there was anything she could do to increase turnout. (source) Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-2024-profile",
           "s-ellis-agenda-02032026",
@@ -98,7 +98,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: BobJane 'Bobbi' Dreiling Obituary Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Public evidence: BobJane 'Bobbi' Dreiling Obituary Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-bobbi-dreiling-0042"
         ]
@@ -110,7 +110,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: The most repeated claim in her reelection messaging is that the office is accurate and secure. Dreiling told Hays Post she had run eight elections with \"perfect counts, audits and recounts.\" At an October 2024 forum covered by Tiger Media Network, she said Ellis County elections had been free, fair, and secure, and that her tax and value-setting work had been done with 100 percent accuracy. (Hays Post, Tiger Media N... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: The most repeated claim in her reelection messaging is that the office is accurate and secure. Dreiling told Hays Post she had run eight elections with \"perfect counts, audits and recounts.\" At an October 2024 forum covered by Tiger Media Network, she said Ellis County elections had been free, fair, and secure, and that her tax and value-setting work had been done with 100 percent accuracy. (Hays Post, Tiger Media N... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-2024-profile",
           "s-kansasreflector-fhsu-2023",
@@ -198,7 +198,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -229,7 +229,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -239,7 +239,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -249,7 +249,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -259,7 +259,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Candidate-stated evidence: Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. In Hays Post, she said she would work with students to let them know how easy it is to vote in Ellis County, but she also said she did not think there was anything she could do to increase turnout. (source) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. In Hays Post, she said she would work with students to let them know how easy it is to vote in Ellis County, but she also said she did not think there was anything she could do to increase turnout. (source) Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-2024-profile",
           "src-bobbi-dreiling-0006",
@@ -364,7 +364,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: ACLU Kansas Press Release Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: ACLU Kansas Press Release Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-aclu-fhsu-petition-2024"
         ]
@@ -385,7 +385,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -395,7 +395,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: The most repeated claim in her reelection messaging is that the office is accurate and secure. Dreiling told Hays Post she had run eight elections with \"perfect counts, audits and recounts.\" At an October 2024 forum covered by Tiger Media Network, she said Ellis County elections had been free, fair, and secure, and that her tax and value-setting work had been done with 100 percent accuracy. (Hays Post, Tiger Media N... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: The most repeated claim in her reelection messaging is that the office is accurate and secure. Dreiling told Hays Post she had run eight elections with \"perfect counts, audits and recounts.\" At an October 2024 forum covered by Tiger Media Network, she said Ellis County elections had been free, fair, and secure, and that her tax and value-setting work had been done with 100 percent accuracy. (Hays Post, Tiger Media N... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-2024-profile",
           "s-kansasreflector-fhsu-2023",
@@ -500,24 +500,24 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Bobbi Dreiling is profiled here for Ellis County Clerk / Election Officer as a Republican incumbent/current official. Her recurring self-description is experience. In her 2020 Hays Post candidate profile, Dreiling said she was running because she knew the office, believed the clerk job required experience, enjoyed serving the public, and had worked underneath the prior clerk... Her election-security argument is procedural and concrete. She points to paper ballots, post-election audits, matching poll-pad data with ballots and result media, training poll workers, checking election equipment before and after elections, counting ballots... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 21 source-backed actions across 5 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. I... Education / curriculum / schools: The latest Dreiling-authored public outreach item found was the 2026 Ellis County \"I Voted\" sticker contest. In a commission packet letter to school superintendents, she wrote that a student-designed stick... Education / curriculum / schools: The most recent public outreach item found was civic-engagement oriented: a 2026 student-designed \"I Voted\" sticker contest. In the February 3, 2026 commission packet, Dreiling wrote that she hoped the con... Education / curriculum / schools: Ellis County April 7, 2026 commission packet. Key signal: Dreiling's contest-results cover sheet: 60 entries and three selected student designs. (source). Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whoTheyAre": "Bobbi Dreiling is profiled here for Ellis County Clerk / Election Officer as a Republican incumbent/current official. Her recurring self-description is experience. In her 2020 Hays Post candidate profile, Dreiling said she was running because she knew the office, believed the clerk job required experience, enjoyed serving the public, and had worked underneath the prior clerk... Her election-security argument is procedural and concrete. She points to paper ballots, post-election audits, matching poll-pad data with ballots and result media, training poll workers, checking election equipment before and after elections, counting ballots... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 21 source-backed items across 5 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. I... Education / curriculum / schools: The latest Dreiling-authored public outreach item found was the 2026 Ellis County \"I Voted\" sticker contest. In a commission packet letter to school superintendents, she wrote that a student-designed stick... Education / curriculum / schools: The most recent public outreach item found was civic-engagement oriented: a 2026 student-designed \"I Voted\" sticker contest. In the February 3, 2026 commission packet, Dreiling wrote that she hoped the con... Education / curriculum / schools: Ellis County April 7, 2026 commission packet. Key signal: Dreiling's contest-results cover sheet: 60 entries and three selected student designs. (source). Social-only material is listed separately as online observation, not official action.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Family and obituary material in the source record points to a Catholic background, but the file does not support naming a current parish.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
-    "narrative": "No complete candidate donor ledger or receipts-and-expenditures report was verified online in this pass.; KPDC guidance says local candidates file Appointment of Treasurer forms with county clerks or county election commissioners.; Existing local memory mentions county Republican committee expenditures of $999 for a text broadcast and $50 for room rental, but the underlying source/PDF was not recovered; do not treat those amounts as confirmed until sourced.",
+    "narrative": "No complete candidate donor ledger or receipts-and-expenditures report was verified online in the reviewed public record.; KPDC guidance says local candidates file Appointment of Treasurer forms with county clerks or county election commissioners.; Existing local memory mentions county Republican committee expenditures of $999 for a text broadcast and $50 for room rental, but the underlying source/PDF was not recovered; do not treat those amounts as confirmed until sourced.",
     "donors": [],
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "15 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "15 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ellis-clerk-page",
@@ -560,11 +560,9 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Bobbi Dreiling is listed as County Clerk / Election Officer",
-        "| Staff directory | https://www.ellisco.net/directory.aspx?EID=19 | FOUND | County staff directory identifies Bobbi Dreiling as county clerk / election officer. |",
-        "Ellis County staff directory. Key signal: Bobbi Dreiling listed as county clerk / election officer. ([source](https://www.ellisco.net/directory.aspx?EID=19))",
+        "Ellis County staff directory. Key signal: Bobbi Dreiling listed as county clerk / election officer. (source)",
         "https://www.ellisco.net/directory.aspx?EID=19 - primary",
-        "s-ellis-staff-directory - https://www.ellisco.net/directory.aspx?EID=19",
-        "[ellisco.net](https://www.ellisco.net/directory.aspx?EID=19)"
+        "s-ellis-staff-directory - https://www.ellisco.net/directory.aspx?EID=19"
       ]
     },
     {
@@ -593,8 +591,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
         "Bobbi Dreiling is listed as Ellis County Clerk",
         "The listing says she has been in office since 2021",
         "s-kcceoa-northwest - https://www.kcceoa.org/county-clerks/northwest",
-        "| Kansas County Clerks and Election Officials Association | https://www.kcceoa.org/county-clerks/northwest | FOUND | Northwest district listing identifies Bobbi Dreiling, Ellis County clerk, in office since 2021. |",
-        "Kansas County Clerks and Election Officials Association northwest district listing. Key signal: Bobbi Dreiling, Ellis County clerk, in office since 2021. ([source](https://www.kcceoa.org/county-clerks/northwest))"
+        "Kansas County Clerks and Election Officials Association northwest district listing. Key signal: Bobbi Dreiling, Ellis County clerk, in office since 2021. (source)"
       ]
     },
     {
@@ -608,10 +605,10 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
         "Dreiling presented an informational item for a grades 6-12 I Voted sticker contest",
         "Dreiling wrote that the contest could inspire future voters and support civics lessons",
         "Contest rules required nonpartisan artwork and prohibited AI-generated designs",
-        "The latest Dreiling-authored public outreach item found was the 2026 Ellis County \"I Voted\" sticker contest. In a commission packet letter to school superintendents, she wrote that a student-designed sticker contest could encourage grades 6-12 students to part",
-        "The most recent public outreach item found was civic-engagement oriented: a 2026 student-designed \"I Voted\" sticker contest. In the February 3, 2026 commission packet, Dreiling wrote that she hoped the contest would inspire future voters and help teachers inco",
-        "Ellis County February 3, 2026 commission packet. Key signal: Dreiling's \"I Voted\" sticker contest outreach letter to schools and civics framing. ([source](https://www.ellisco.net/AgendaCenter/ViewFile/Agenda/_02032026-726))",
-        "\"By encouraging students to participate, I hope to inspire future voters and spark their interest in democracy.\" - Ellis County February 2026 commission packet. ([source](https://www.ellisco.net/AgendaCenter/ViewFile/Agenda/_02032026-726))",
+        "The latest Dreiling-authored public outreach item found was the 2026 Ellis County \"I Voted\" sticker contest. In a commission packet letter to school superintendents, she wrote that a student-designed sticker contest cou...",
+        "The most recent public outreach item found was civic-engagement oriented: a 2026 student-designed \"I Voted\" sticker contest. In the February 3, 2026 commission packet, Dreiling wrote that she hoped the contest would ins...",
+        "Ellis County February 3, 2026 commission packet. Key signal: Dreiling's \"I Voted\" sticker contest outreach letter to schools and civics framing. (source)",
+        "By encouraging students to participate, I hope to inspire future voters and spark their interest in democracy. - Ellis County February 2026 commission packet. (source)",
         "s-ellis-agenda-02032026 - https://www.ellisco.net/AgendaCenter/ViewFile/Agenda/_02032026-726",
         "https://www.ellisco.net/AgendaCenter/ViewFile/Agenda/_02032026-726 - primary",
         "https://www.ellisco.net/AgendaCenter/ViewFile/Agenda/_02032026-726"
@@ -627,7 +624,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Dreiling reported 39 entries from USD 432, 20 from USD 388, and one from USD 489 for the I Voted sticker contest",
         "Dreiling selected three winning designs",
-        "Ellis County April 7, 2026 commission packet. Key signal: Dreiling's contest-results cover sheet: 60 entries and three selected student designs. ([source](https://www.ellisco.net/AgendaCenter/ViewFile/Agenda/_04072026-741))",
+        "Ellis County April 7, 2026 commission packet. Key signal: Dreiling's contest-results cover sheet: 60 entries and three selected student designs. (source)",
         "s-ellis-agenda-04072026 - https://www.ellisco.net/AgendaCenter/ViewFile/Agenda/_04072026-741"
       ]
     },
@@ -665,7 +662,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Public state campaign-finance portal did not surface a usable Bobbi Dreiling county-clerk donor table in this pass",
+        "Public state campaign-finance portal did not surface a usable Bobbi Dreiling county-clerk donor table in the reviewed public record",
         "s-kansas-campaign-finance-portal - https://www.kansas.gov/campaign-finance/",
         "https://www.kansas.gov/campaign-finance/ - primary public campaign-finance data portal"
       ]
@@ -683,18 +680,18 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
         "Dreiling explained her FHSU polling-location decision using turnout, cost, ADA, and logistics",
         "Dreiling described removing Ellis and Victoria drop boxes and keeping a camera-monitored central drop box",
         "Dreiling described election-security cameras, post-election audits, poll-worker training, and ballot-count matching",
-        "Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. In Hays Post, she said she would work with students to l",
-        "The most repeated claim in her reelection messaging is that the office is accurate and secure. Dreiling told Hays Post she had run eight elections with \"perfect counts, audits and recounts.\" At an October 2024 forum covered by Tiger Media Network, she said Ell",
-        "Cost control is another repeated signal. Dreiling credits her office with consolidating nine townships to four, using smaller envelopes for mail-in ballots, reducing postage and supply costs, using a lease program for election poll pads, and making budget-base",
-        "[Dreiling Touts Election Security -- Hays Post](https://hayspost.com/posts/64efa3e4-3296-4e5c-897f-8417a78e7fc3)",
-        "[Hays Post: Dreiling touts election security](https://hayspost.com/posts/64efa3e4-3296-4e5c-897f-8417a78e7fc3)",
-        "Hays Post 2024 reelection profile. Key signal: eight elections, perfect counts/audits/recounts claim, township consolidation, budget savings, Saturday early voting, FHSU polling rationale, ballot drop-box security, cameras, and no-proven-fraud posture. ([sourc",
-        "\"It's a cost saving to the taxpayers in ballot preparations and just running a better township.\" - Hays Post 2024 profile, on township consolidation. ([source](https://hayspost.com/posts/64efa3e4-3296-4e5c-897f-8417a78e7fc3))",
-        "\"I will always work with the students to let them know how easy it is to vote in Ellis County.\" - Hays Post 2024 profile. ([source](https://hayspost.com/posts/64efa3e4-3296-4e5c-897f-8417a78e7fc3))",
+        "Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. In Hays Post, s...",
+        "The most repeated claim in her reelection messaging is that the office is accurate and secure. Dreiling told Hays Post she had run eight elections with \"perfect counts, audits and recounts.\" At an October 2024 forum cov...",
+        "Cost control is another repeated signal. Dreiling credits her office with consolidating nine townships to four, using smaller envelopes for mail-in ballots, reducing postage and supply costs, using a lease program for e...",
+        "Dreiling Touts Election Security -- Hays Post",
+        "Hays Post: Dreiling touts election security",
+        "Hays Post 2024 reelection profile. Key signal: eight elections, perfect counts/audits/recounts claim, township consolidation, budget savings, Saturday early voting, FHSU polling rationale, ballot drop-box security, came...",
+        "It's a cost saving to the taxpayers in ballot preparations and just running a better township. - Hays Post 2024 profile, on township consolidation. (source)",
+        "I will always work with the students to let them know how easy it is to vote in Ellis County. - Hays Post 2024 profile. (source)",
         "Hays Post 2024 profile: https://hayspost.com/posts/64efa3e4-3296-4e5c-897f-8417a78e7fc3",
         "s-hayspost-2024-profile - https://hayspost.com/posts/64efa3e4-3296-4e5c-897f-8417a78e7fc3",
         "https://hayspost.com/posts/64efa3e4-3296-4e5c-897f-8417a78e7fc3 - secondary/direct quote",
-        "\"I have run eight elections with perfect counts, audits and recounts.\" - Hays Post 2024 reelection profile. ([source](https://hayspost.com/posts/64efa3e4-3296-4e5c-897f-8417a78e7fc3))"
+        "I have run eight elections with perfect counts, audits and recounts. - Hays Post 2024 reelection profile. (source)"
       ]
     },
     {
@@ -708,10 +705,10 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
         "Dreiling said Ellis County elections had been free, fair, and secure",
         "Dreiling discussed 100 percent paper ballots and ExpressVote ADA paper-ballot output",
         "Dreiling said she had no proof of election fraud and invited people to inspect the election process",
-        "Dreiling's public remarks on election fraud are direct. At the 2024 forum, she said she had no reason to believe there was election fraud because she had no proof. She then invited people to come talk with her so she could show them Ellis County's election pro",
-        "Tiger Media Network October 2024 forum coverage. Key signal: public debate remarks on free/fair/secure elections, taxes/levies, paper ballots, and election fraud. ([source](https://tigermedianet.com/?p=82423))",
-        "\"I don't have any reason to believe that there's election fraud because I don't have any proof.\" - Tiger Media Network forum coverage. ([source](https://tigermedianet.com/?p=82423))",
-        "\"There is no voter fraud (in Ellis County), nor will there ever be.\" - Tiger Media Network forum coverage. ([source](https://tigermedianet.com/?p=82423))",
+        "Dreiling's public remarks on election fraud are direct. At the 2024 forum, she said she had no reason to believe there was election fraud because she had no proof. She then invited people to come talk with her so she co...",
+        "Tiger Media Network October 2024 forum coverage. Key signal: public debate remarks on free/fair/secure elections, taxes/levies, paper ballots, and election fraud. (source)",
+        "I don't have any reason to believe that there's election fraud because I don't have any proof. - Tiger Media Network forum coverage. (source)",
+        "There is no voter fraud (in Ellis County), nor will there ever be. - Tiger Media Network forum coverage. (source)",
         "Tiger Media forum coverage: https://tigermedianet.com/?p=82423",
         "s-tiger-forum-2024 - https://tigermedianet.com/?p=82423",
         "https://tigermedianet.com/?p=82423 - secondary/direct forum quotes"
@@ -729,10 +726,10 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
         "Dreiling said she would continue her current office approach and continue to look at voter turnout",
         "Dreiling said there were no polling-location issues on Election Day",
         "Hays Post post-election: https://hayspost.com/posts/d677444a-0c16-457b-a0e9-54004981ff78",
-        "[Dreiling Responds After Win -- Hays Post](https://hayspost.com/posts/d677444a-0c16-457b-a0e9-54004981ff78)",
+        "Dreiling Responds After Win -- Hays Post",
         "https://hayspost.com/posts/d677444a-0c16-457b-a0e9-54004981ff78 - secondary/direct post-election quote",
-        "After her 2024 reelection, Dreiling interpreted the result as voter trust in her first four years as clerk and said she would continue the approach that had worked. She thanked voters, staff, and poll workers, calling the election flawless and saying she had n",
-        "Hays Post November 2024 post-election response. Key signal: reelection result, flawless-office framing, continuing current approach, staff/poll-worker thanks, and no polling-location issues reported. ([source](https://hayspost.com/posts/d677444a-0c16-457b-a0e9",
+        "After her 2024 reelection, Dreiling interpreted the result as voter trust in her first four years as clerk and said she would continue the approach that had worked. She thanked voters, staff, and poll workers, calling t...",
+        "Hays Post November 2024 post-election response. Key signal: reelection result, flawless-office framing, continuing current approach, staff/poll-worker thanks, and no polling-location issues reported. ([source](https://h...",
         "Hays Post URL: https://hayspost.com/posts/d677444a-0c16-457b-a0e9-54004981ff78",
         "s-hayspost-win-2024 - https://hayspost.com/posts/d677444a-0c16-457b-a0e9-54004981ff78",
         "https://hayspost.com/posts/d677444a-0c16-457b-a0e9-54004981ff78 - secondary current/officer quote after the obituary date"
@@ -767,9 +764,9 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
         "Kansas Reflector: https://kansasreflector.com/2023/11/06/students-county-clerk-embroiled-in-monthslong-clash-over-fort-hays-polling-location/",
         "https://kansasreflector.com/2023/11/06/students-county-clerk-embroiled-in-monthslong-clash-over-fort-hays-polling-location/ - secondary",
         "s-kansasreflector-fhsu-2023 - https://kansasreflector.com/2023/11/06/students-county-clerk-embroiled-in-monthslong-clash-over-fort-hays-polling-location/",
-        "The FHSU polling-location dispute is the most visible conflict around her office. Dreiling's own rationale focuses on turnout numbers, cost, ADA compliance, parking/navigation, and service to the full precinct rather than students alone. She told Kansas Reflec",
-        "The most contested public topic is FHSU polling access. Dreiling's stated rationale is turnout, cost, ADA logistics, and whole-precinct service rather than student-only service. She told Kansas Reflector she was not dealing only with students and had a whole c",
-        "Kansas Reflector November 2023 FHSU polling-location article. Key signal: Dreiling's rationale on community-wide service, turnout, location selection, and communication frustrations. ([source](https://kansasreflector.com/2023/11/06/students-county-clerk-embroi"
+        "The FHSU polling-location dispute is the most visible conflict around her office. Dreiling's own rationale focuses on turnout numbers, cost, ADA compliance, parking/navigation, and service to the full precinct rather th...",
+        "The most contested public topic is FHSU polling access. Dreiling's stated rationale is turnout, cost, ADA logistics, and whole-precinct service rather than student-only service. She told Kansas Reflector she was not dea...",
+        "Kansas Reflector November 2023 FHSU polling-location article. Key signal: Dreiling's rationale on community-wide service, turnout, location selection, and communication frustrations. ([source](https://kansasreflector.co..."
       ]
     },
     {
@@ -782,10 +779,10 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "ACLU of Kansas said local leaders planned to deliver a petition to Dreiling seeking an FHSU campus polling location",
         "The press release framed the request as a voting-access issue",
-        "[ACLU Kansas Press Release](https://www.aclukansas.org/press-releases/hundreds-ellis-county-sign-petition-polling-location-fhsu/)",
+        "ACLU Kansas Press Release",
         "ACLU of Kansas: https://www.aclukansas.org/press-releases/hundreds-ellis-county-sign-petition-polling-location-fhsu/",
         "s-aclu-fhsu-petition-2024 - https://www.aclukansas.org/press-releases/hundreds-ellis-county-sign-petition-polling-location-fhsu/",
-        "[ACLU Kansas: FHSU petition](https://www.aclukansas.org/press-releases/hundreds-ellis-county-sign-petition-polling-location-fhsu/)",
+        "ACLU Kansas: FHSU petition",
         "https://www.aclukansas.org/press-releases/hundreds-ellis-county-sign-petition-polling-location-fhsu/ - secondary advocacy source"
       ]
     },
@@ -800,8 +797,8 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
         "A candidate Facebook page exists or existed, but native logged-out access did not support post inventory or engagement claims",
         "https://www.facebook.com/people/Bobbi-Dreiling-for-Ellis-County-Clerk/100067810926476/",
         "s-facebook-campaign-page - https://www.facebook.com/people/Bobbi-Dreiling-for-Ellis-County-Clerk/100067810926476/",
-        "Facebook (Campaign): [Bobbi Dreiling for Ellis County Clerk](https://www.facebook.com/people/Bobbi-Dreiling-for-Ellis-County-Clerk/100067810926476/)",
-        "[Bobbi Dreiling for Ellis County Clerk](https://www.facebook.com/people/Bobbi-Dreiling-for-Ellis-County-Clerk/100067810926476/)"
+        "Facebook (Campaign): Bobbi Dreiling for Ellis County Clerk",
+        "Bobbi Dreiling for Ellis County Clerk"
       ]
     },
     {
@@ -812,16 +809,14 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "publisher": "Ellisco",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Dreiling's public voice is administrative rather than ideological. The official Ellis County clerk and election pages present her as the county clerk and election official responsible for elections, voter registration, tax-roll work, commission minutes, licens",
-        "[Ellis County Clerk Official Page](https://www.ellisco.net/93/Clerk)",
-        "Dreiling's strongest public presence is official and administrative, not campaign-style social media. The county clerk page says the clerk serves as secretary to the Board of Commissioners and conducts all Ellis County elections, while the election page direct",
-        "Official Ellis County clerk page. Key signal: current county role, duties, and contact; no campaign messaging. ([source](https://www.ellisco.net/93/Clerk))",
-        "\"The County Clerk's Office is located in the Administrative Center, 718 Main in Hays, Kansas.\" - Ellis County Clerk official page - https://www.ellisco.net/93/Clerk - topic: office location",
-        "\"The County Clerk serves as secretary to the Board of Commissioners.\" - Ellis County Clerk official page - https://www.ellisco.net/93/Clerk - topic: office duties",
-        "\"The County Clerk's Office ... voter registration\" - Ellis County Clerk official page - https://www.ellisco.net/93/Clerk - topic: services",
-        "| Official county clerk page | https://www.ellisco.net/93/Clerk | FOUND | Official current county page names Bobbi L. Dreiling as county clerk, lists clerk duties and county contact information. |",
-        "\"source\": \"Ellis County Clerk official page - https://www.ellisco.net/93/Clerk - topic: office location\",",
-        "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible referenc"
+        "Dreiling's public voice is administrative rather than ideological. The official Ellis County clerk and election pages present her as the county clerk and election official responsible for elections, voter registration,...",
+        "Ellis County Clerk Official Page",
+        "Dreiling's strongest public presence is official and administrative, not campaign-style social media. The county clerk page says the clerk serves as secretary to the Board of Commissioners and conducts all Ellis County...",
+        "Official Ellis County clerk page. Key signal: current county role, duties, and contact; no campaign messaging. (source)",
+        "The County Clerk's Office is located in the Administrative Center, 718 Main in Hays, Kansas. - Ellis County Clerk official page - https://www.ellisco.net/93/Clerk - topic: office location",
+        "The County Clerk serves as secretary to the Board of Commissioners. - Ellis County Clerk official page - https://www.ellisco.net/93/Clerk - topic: office duties",
+        "The County Clerk's Office ... voter registration - Ellis County Clerk official page - https://www.ellisco.net/93/Clerk - topic: services",
+        "\"source\": \"Ellis County Clerk official page - https://www.ellisco.net/93/Clerk - topic: office location\""
       ]
     },
     {
@@ -832,10 +827,8 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "publisher": "Ellisco",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Ellis County Election Page](https://www.ellisco.net/425/Election)",
-        "| Ellis County Clerk (Election Office) | 785-628-9410 | [ellisco.net/425/Election](https://www.ellisco.net/425/Election) |",
-        "| Official county election page | https://www.ellisco.net/425/Election | FOUND | Official election page names Bobbi L. Dreiling as county clerk/election official and gives voter registration, advance voting, VoterView, and contact details. |",
-        "Official Ellis County election page. Key signal: voter registration, advance voting, VoterView, mail ballot links, and Dreiling as county clerk/election official. ([source](https://www.ellisco.net/425/Election))"
+        "Ellis County Election Page",
+        "Official Ellis County election page. Key signal: voter registration, advance voting, VoterView, mail ballot links, and Dreiling as county clerk/election official. (source)"
       ]
     },
     {
@@ -846,7 +839,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[BobJane 'Bobbi' Dreiling Obituary](https://hayspost.com/posts/08825e68-f663-4a03-96f4-0b2c6f0b4ec7)"
+        "BobJane 'Bobbi' Dreiling Obituary"
       ]
     },
     {
@@ -857,18 +850,18 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Her recurring self-description is experience. In her 2020 Hays Post candidate profile, Dreiling said she was running because she knew the office, believed the clerk job required experience, enjoyed serving the public, and had worked underneath the prior clerk",
-        "Her election-security argument is procedural and concrete. She points to paper ballots, post-election audits, matching poll-pad data with ballots and result media, training poll workers, checking election equipment before and after elections, counting ballots",
-        "[Hays Post: Dreiling candidate profile](https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531)",
-        "2020 campaign profile, on why she ran: \"Because I know the office.\" Source: [Hays Post](https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531) on October 28, 2020.",
-        "2020 campaign profile, on turnout: \"We can promote it by doing public announcements.\" Source: [Hays Post](https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531) on October 28, 2020.",
-        "2020 campaign profile, on security: \"I am member of Election Infrastructure Information Sharing.\" Source: [Hays Post](https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531) on October 28, 2020.",
-        "Her election-security message is specific and procedural. She has described paper ballots, post-election audits, poll-pad and USB/result matching, ballot counts matching before ballots leave the clerk's office, cameras at the drop box and ballot-counting/equip",
-        "Her campaign and public remarks center on experience, office accuracy, election security, cost control, and service. In her 2020 Hays Post candidate profile, she said she was running because she knew the office, enjoyed serving the public, and believed the cle",
-        "Hays Post 2020 candidate profile. Key signal: experience, service, election security, voter outreach, audit/accuracy, and corrected-ballot-error comments. ([source](https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531))",
-        "\"Because I know the office. You definitely need experience in the office.\" - Hays Post 2020 candidate profile. ([source](https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531))",
+        "Her recurring self-description is experience. In her 2020 Hays Post candidate profile, Dreiling said she was running because she knew the office, believed the clerk job required experience, enjoyed serving the public, a...",
+        "Her election-security argument is procedural and concrete. She points to paper ballots, post-election audits, matching poll-pad data with ballots and result media, training poll workers, checking election equipment befo...",
+        "Hays Post: Dreiling candidate profile",
+        "2020 campaign profile, on why she ran: \"Because I know the office.\" Source: Hays Post on October 28, 2020.",
+        "2020 campaign profile, on turnout: \"We can promote it by doing public announcements.\" Source: Hays Post on October 28, 2020.",
+        "2020 campaign profile, on security: \"I am member of Election Infrastructure Information Sharing.\" Source: Hays Post on October 28, 2020.",
+        "Her election-security message is specific and procedural. She has described paper ballots, post-election audits, poll-pad and USB/result matching, ballot counts matching before ballots leave the clerk's office, cameras...",
+        "Her campaign and public remarks center on experience, office accuracy, election security, cost control, and service. In her 2020 Hays Post candidate profile, she said she was running because she knew the office, enjoyed...",
+        "Hays Post 2020 candidate profile. Key signal: experience, service, election security, voter outreach, audit/accuracy, and corrected-ballot-error comments. (source)",
+        "Because I know the office. You definitely need experience in the office. - Hays Post 2020 candidate profile. (source)",
         "s-hayspost-2020-profile - https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531",
-        "2020 profile, on public service: \"I enjoy serving the public.\" Source: [Hays Post](https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531) on October 28, 2020."
+        "2020 profile, on public service: \"I enjoy serving the public.\" Source: Hays Post on October 28, 2020."
       ]
     },
     {
@@ -879,8 +872,8 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "publisher": "Aclukansas",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Her social footprint is notably limited. Public sources reference an official \"Bobbi Dreiling for Ellis County Clerk\" Facebook page, including a 2020 correction about felony voting eligibility and 2024 criticism from her opponent, but native Facebook was not a",
-        "ACLU 2023 report footnote. Key signal: identifies the \"Bobbi Dreiling for Ellis County Clerk\" Facebook page and a Sept. 29, 2020 post link; native Facebook capture was not accessible. ([source](https://www.aclukansas.org/sites/default/files/field_documents/all"
+        "Her social footprint is notably limited. Public sources reference an official \"Bobbi Dreiling for Ellis County Clerk\" Facebook page, including a 2020 correction about felony voting eligibility and 2024 criticism from he...",
+        "ACLU 2023 report footnote. Key signal: identifies the \"Bobbi Dreiling for Ellis County Clerk\" Facebook page and a Sept. 29, 2020 post link; native Facebook capture was not accessible. ([source](https://www.aclukansas.or..."
       ]
     },
     {
@@ -891,11 +884,10 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "A letter to the editor from a Democratic candidate was published criticizing Dreiling's election administration (details in [Hays Post](https://hayspost.com/posts/7c1c8817-1e3a-4c50-951e-895526935cf1))",
-        "Hays Post letter by Laura Allen, August 2024. Key signal: third-party criticism referencing Dreiling's official candidate Facebook page; not treated as Dreiling's own messaging except as account-presence evidence. ([source](https://hayspost.com/posts/7c1c8817-",
+        "A letter to the editor from a Democratic candidate was published criticizing Dreiling's election administration (details in Hays Post)",
+        "Hays Post letter by Laura Allen, August 2024. Key signal: third-party criticism referencing Dreiling's official candidate Facebook page; not treated as Dreiling's own messaging except as account-presence evidence. ([sou...",
         "s-hayspost-allen-letter-2024 - https://hayspost.com/posts/7c1c8817-1e3a-4c50-951e-895526935cf1",
-        "[Hays Post: Allen criticism letter](https://hayspost.com/posts/7c1c8817-1e3a-4c50-951e-895526935cf1)",
-        "[Hays Post](https://hayspost.com/posts/7c1c8817-1e3a-4c50-951e-895526935cf1)"
+        "Hays Post: Allen criticism letter"
       ]
     },
     {
@@ -906,7 +898,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Dreiling Answers Polling Questions (Letter) -- Hays Post](https://hayspost.com/posts/1fa3b93b-40fb-493c-ab10-6969085c9236)"
+        "Dreiling Answers Polling Questions (Letter) -- Hays Post"
       ]
     },
     {
@@ -917,7 +909,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "publisher": "Ike-Lab",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "IKE Lab 2024 general county results. Key signal: independent public results page listing Dreiling's 2024 reelection vote total as 10,211; Hays Post reported unofficial night-of 9,971. ([source](https://www.ike-lab.com/complete_elex_2024_gen_cotwp_Ellis.html))"
+        "IKE Lab 2024 general county results. Key signal: independent public results page listing Dreiling's 2024 reelection vote total as 10,211; Hays Post reported unofficial night-of 9,971. (source)"
       ]
     },
     {
@@ -928,20 +920,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Facebook Page](https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/)",
-        "Facebook: [Bobbi Dreiling for Ellis County Clerk](https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/)"
-      ]
-    },
-    {
-      "id": "src-bobbi-dreiling-0127",
-      "tier": "secondary",
-      "url": "https://www.lkm.org/members/?id=72664620",
-      "title": "Lkm",
-      "publisher": "Lkm",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| League of Kansas Municipalities profile | https://www.lkm.org/members/?id=72664620 | FOUND | Professional public profile, last updated 2026-01-05, lists Bobbi Dreiling as Ellis County county clerk. No personal message stream visible. |",
-        "League of Kansas Municipalities profile. Key signal: professional listing, Ellis County county clerk, last updated 2026-01-05. ([source](https://www.lkm.org/members/?id=72664620))"
+        "Facebook: Bobbi Dreiling for Ellis County Clerk"
       ]
     },
     {
@@ -952,8 +931,8 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Kansas Reflector April 2024 petition article. Key signal: 480-signature petition context; mostly third-party advocacy, with no new Dreiling quote in accessible snippet. ([source](https://kansasreflector.com/2024/04/17/hundreds-of-signatures-in-favor-of-fort-ha",
-        "The highest visible public attention was issue-driven rather than social engagement: the FHSU polling-location dispute generated Kansas Reflector coverage, ACLU of Kansas campaign/press materials, Hays Post letters, a 480-signature petition delivered in April"
+        "Kansas Reflector April 2024 petition article. Key signal: 480-signature petition context; mostly third-party advocacy, with no new Dreiling quote in accessible snippet. ([source](https://kansasreflector.com/2024/04/17/h...",
+        "The highest visible public attention was issue-driven rather than social engagement: the FHSU polling-location dispute generated Kansas Reflector coverage, ACLU of Kansas campaign/press materials, Hays Post letters, a 4..."
       ]
     },
     {
@@ -964,8 +943,8 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "publisher": "Downingandlahey",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Public obituary source: [Downing & Lahey obituary](https://downingandlahey.com/obits/bobjane-bobbi-dreiling/)",
-        "[Downing & Lahey obituary](https://downingandlahey.com/obits/bobjane-bobbi-dreiling/)"
+        "Public obituary source: Downing & Lahey obituary",
+        "Downing & Lahey obituary"
       ]
     }
   ]

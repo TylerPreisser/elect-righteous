@@ -135,11 +135,11 @@ Phase 3: Profile Rebuild
 ## Validation Gate Results
 | Gate | Last Run | Pass/Fail | Notes |
 |------|----------|-----------|-------|
-| YAML parse | 2026-05-20T22:04:11Z | Pass | 81 candidate v2-issues.yaml files parse clean after missing-candidate roster delta. |
-| Phase 2 inventory | 2026-05-20T22:05:00Z | Pass | 81 candidate-like slugs; 59 active 2026; 81 rendered v2; no missing UI entries. |
-| V2 runtime validation | 2026-05-20T22:05:00Z | Pass | validateCandidateV2 accepted 81 v2 candidates after roster-delta additions. |
-| TypeScript | 2026-05-20T22:05:00Z | Pass | npx tsc --noEmit --incremental false passed after roster-delta additions. |
-| Static build | 2026-05-20T22:05:44Z | Pass | npm run build generated 266 static pages after roster-delta additions. |
+| YAML parse | 2026-05-20T22:18:00Z | Pass | 81 candidate v2-issues.yaml files parse clean after public wording cleanup. |
+| Phase 2 inventory | 2026-05-20T22:18:00Z | Pass | 81 candidate-like slugs; 59 active 2026; 81 rendered v2; no missing UI entries. |
+| V2 runtime validation | 2026-05-20T22:23:00Z | Pass | validateCandidateV2 accepted 81 v2 candidates after public wording cleanup and full v2 regeneration. |
+| TypeScript | 2026-05-20T22:23:00Z | Pass | npx tsc --noEmit --incremental false passed after public wording cleanup. |
+| Static build | 2026-05-20T22:24:00Z | Pass | npm run build generated 266 static pages after public wording cleanup. |
 | Candidate count parity | 2026-05-20T22:05:00Z | Pass | 16 race entries; every candidateCount matches candidateSlugs.length. |
 | Forbidden public labels | 2026-05-20T19:08:52Z | Pass | No tpreisser.github.io, Preisser Tech, What You Should Know, or In Their Own Words strings remain under ui/src, ui/public, or active compile scripts. |
 | Evidence matrix structure | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have raw and final evidence matrices with required fields. |
@@ -154,7 +154,7 @@ Phase 3: Profile Rebuild
 | Automated legal cleanup | 2026-05-20T19:23:52Z | Pass | Rendered issue cards no longer surface internal-only issue text as public stance evidence; cross-candidate lawsuit URL scan reports 0 suspect references; validateCandidateV2, TypeScript, and npm run build pass. |
 | Correction form routing | 2026-05-20T22:04:11Z | Partial | Code routes FormSubmit AJAX, HTML fallback, and mailto fallback to tyler@preissersolutions.com. Second controlled live AJAX test returned Cloudflare/FormSubmit 521; prior controlled tests returned 522. Delivery is still not proven. |
 | Rendered source health | 2026-05-20T20:24:00Z | Partial | Public trail includes 1,708 rendered source entries / 1,502 unique URLs; 1,374 live, 113 blocked/forbidden, 6 timeouts, 9 network errors, 0 HTTP errors on a 15s timeout pass. Candidate-specific social/source records remain public; fake/dead/cross-candidate URLs are filtered or dropped. See source-health-2026-05-20.md/json and source-url-overrides.json. |
-| Public profile wording | 2026-05-20T20:01:38Z | Pass | Removed internal matrix maintenance language and stiff Documented-record labels from rendered issue summaries; validateCandidateV2, TypeScript, and npm run build pass. |
+| Public profile wording | 2026-05-20T22:25:47Z | Pass | Rebuilt all 81 v2 profiles with concise no-evidence issue text, Social / Online Observations labels, no Official / Reported Actions label, no first-person/internal process phrasing in rendered candidate data, and clean built-output scan for targeted leakage phrases. validateCandidateV2, TypeScript, and npm run build pass. |
 | Candidate relevance guard | 2026-05-20T20:30:53Z | Pass | Renderer now rejects finance-only, public-absence, generic race/local context, family-network, and other-candidate-led evidence from issue/social cards unless the evidence names or directly belongs to the current candidate. |
 | Customer local feedback pass | 2026-05-20T20:50:39Z | Pass-with-caveats | Added current-official/appointed-administrator profile labeling, corrected Hays City and USD 489 group copy, added filing-deadline context to election detail pages, corrected Ken Brooks Hays High/Facebook-page notes, and documented that current official roster data still needs post-deadline recheck. |
 | GitHub Pages preview deploy | 2026-05-20T22:10:00Z | Pass | Pushed main through commit 259f245; GitHub Actions run 26192822073 completed build and deploy successfully. Public preview verified for David C. Graham, KS House District 110, and SBOE District 5 pages. |
@@ -171,6 +171,7 @@ Phase 3: Profile Rebuild
 8. Preview deploy completed for roster-delta commit 259f245; production still blocked by DNS/FormSubmit caveats — deploy agents — P1 — blocked by Cloudflare/DNS and form provider delivery
 
 ## Session Log (last 20 entries)
+- 2026-05-20T22:25:47Z professional-narrative-editor/frontend-implementer Cleaned public issue-card and profile wording after customer feedback: no-evidence issue cards now use only the concise reviewed-public-record sentence, social evidence is labeled Social / Online Observations, empty action copy is concise, Official / Reported Actions is removed, internal/process/first-person research phrases are sanitized in generated v2 data, all 81 profiles regenerated, and validation/TypeScript/static build passed.
 - 2026-05-20T22:11:15Z github-pages-deploy-agent Verified GitHub Actions run 26192822073 succeeded for commit 259f245 and confirmed public preview pages render David C. Graham, KS House District 110, and SBOE District 5/Kelly Ancar updates; production electrighteous.com still fails DNS resolution.
 - 2026-05-20T22:05:44Z roster-auditor/candidate-profile-assembler/build-validation-gatekeeper Completed missing-candidate delta audit after customer feedback: added David C. Graham, Scott E. Morgan, Kelly Ancar, House District 110 candidates Mark Schaukowitch, Max Dibble, Marvin Matchett, and Cody Ward, plus named governor-ticket running mates Michael W. Smith, Renee Duxler, KC Ohaebosim, and Joe Newland; corrected Eric Lund and Ric Koehn from KPDC-only/account status to SOS General Libertarian filing; preserved caveated social/source artifacts for every new profile; added HD110 race; verified 81 rendered v2 candidates, 16 race counts, 14 issues each, TypeScript, and static build; FormSubmit live test still blocked by Cloudflare 521.
 - 2026-05-20T20:54:41Z github-pages-deploy-agent/cloudflare-deploy-agent Pushed customer-feedback remediation through commit 3d5b3fb, verified GitHub Actions Pages build/deploy success, confirmed public preview HTML contains Ken Brooks correction and updated local/off-cycle filing labels, and documented production DNS failure for electrighteous.com.

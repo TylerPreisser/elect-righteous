@@ -503,7 +503,7 @@ function SocialPresenceScrub({
   );
 
   return (
-    <ProfileSection title="Relevant Social / Online Signals" kicker="Relevant social activity">
+    <ProfileSection title="Relevant Social / Online Signals" kicker="Public observations">
       <div>
         <div className="grid gap-3 border-b pb-5" style={{ borderColor: "#e2e8f0" }}>
           <p
@@ -1142,7 +1142,7 @@ export default function CandidateDetailClient({
                 className="font-body text-sm leading-relaxed"
                 style={{ color: "var(--color-slate)", fontStyle: "italic" }}
               >
-                Based on public statements, documented or reported actions, and campaign materials.
+                Based on public statements, public-record actions, and campaign materials.
                 When a candidate has not taken a clear public position, we say so.
               </p>
               <dl className="mt-6 grid gap-4 lg:grid-cols-2">

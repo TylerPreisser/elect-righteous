@@ -21,7 +21,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -31,7 +31,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -41,7 +41,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Reviewed evidence: about.me: Existing local harvest records https://about.me/aaron.cunningham as a candidate/profile-controlled page with Hays/Kansas education metadata, Christian/Calvinist self-description, and an X/Twitter handle (Sinfonian24601). Current web search did not return a crawlable matching page in the search index. Treat as a prior captured social/profile lead unless re-captured directly before quoting exact language. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Public evidence: about.me: Existing local harvest records https://about.me/aaron.cunningham as a candidate/profile-controlled page with Hays/Kansas education metadata, Christian/Calvinist self-description, and an X/Twitter handle (Sinfonian24601). Current web search did not return a crawlable matching page in the search index. Treat as a prior captured social/profile lead unless re-captured directly before quoting exact language. Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-aboutme-local-harvest"
         ]
@@ -94,7 +94,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: The personal social/profile record is limited but not empty. His about.me page is candidate/profile-controlled and explicitly Christian in self-description, with tags or interests including Christianity, Calvinism, music, and scouting. It lists Hays High and Kansas State University and links X/Twitter handle Sinfonian24601. Because the page appears older and is not campaign-specific, I treated it as personal identit... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Public evidence: The personal social/profile record is limited but not empty. His about.me page is candidate/profile-controlled and explicitly Christian in self-description, with tags or interests including Christianity, Calvinism, music, and scouting. It lists Hays High and Kansas State University and links X/Twitter handle Sinfonian24601. Because the page appears older and is not campaign-specific, It is treated as personal identi... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-aboutme-local-harvest"
         ]
@@ -114,7 +114,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
         {
           "id": "soc-aaron-cunningham-0003",
           "platform": "X / Twitter",
-          "observation": "The personal social/profile record is limited but not empty. His about.me page is candidate/profile-controlled and explicitly Christian in self-description, with tags or interests including Christianity, Calvinism, music, and scouting. It lists Hays High and Kansas State University and links X/Twitter handle Sinfonian24601. Because the page appears older and is not campaign-specific, I treated it as personal identit...",
+          "observation": "The personal social/profile record is limited but not empty. His about.me page is candidate/profile-controlled and explicitly Christian in self-description, with tags or interests including Christianity, Calvinism, music, and scouting. It lists Hays High and Kansas State University and links X/Twitter handle Sinfonian24601. Because the page appears older and is not campaign-specific, It is treated as personal identi...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-aboutme-local-harvest"
@@ -137,7 +137,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -147,10 +147,8 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Reviewed evidence: Kansas Attorney Registration Directory: active license and business contact information. (source) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-aaron-cunningham-0004"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -159,7 +157,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -169,7 +167,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -179,7 +177,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public evidence: His visible public safety activity also includes community and media settings. HaysMed listed him as part of a June 2025 human-trafficking awareness panel with medical, law-enforcement, and KBI participants. (HaysMed) KWCH reported in February 2026 that he confirmed a second-degree murder conviction in a Hays infant methamphetamine-overdose case. (KWCH) CBS/48 Hours used him as an attributed professional voice in it... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: His visible public safety activity also includes community and media settings. HaysMed listed him as part of a June 2025 human-trafficking awareness panel with medical, law-enforcement, and KBI participants. (HaysMed) KWCH reported in February 2026 that he confirmed a second-degree murder conviction in a Hays infant methamphetamine-overdose case. (KWCH) CBS/48 Hours used him as an attributed professional voice in it... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-haysmed-human-trafficking-panel"
         ]
@@ -221,7 +219,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: Cunningham's accessible public message is not built around a campaign website or a campaign social feed. The official Ellis County Attorney page is the clearest current source: it lists Aaron J. Cunningham as county attorney from 2025 to present and frames the office around enforcing Kansas law, public safety, truth-seeking, fair and impartial justice, and efficient use of taxpayer resources. Its stated priorities s... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Cunningham's accessible public message is not built around a campaign website or a campaign social feed. The official Ellis County Attorney page is the clearest current source: it lists Aaron J. Cunningham as county attorney from 2025 to present and frames the office around enforcing Kansas law, public safety, truth-seeking, fair and impartial justice, and efficient use of taxpayer resources. Its stated priorities s... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-ellis-attorney-page",
           "s-hayspost-2024-candidate-list",
@@ -302,7 +300,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Candidate-stated evidence: His older public biography fits the same prosecutor-service frame. In a 2019 Hays High Guidon story, he told students he was drawn to law through writing, advocacy, and a strong sense of justice. He said practicing a servant's heart was useful and described the job's goal as correcting poor behavior and helping victims. (The Guidon) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: His older public biography fits the same prosecutor-service frame. In a 2019 Hays High Guidon story, he told students he was drawn to law through writing, advocacy, and a strong sense of justice. He said practicing a servant's heart was useful and described the job's goal as correcting poor behavior and helping victims. (The Guidon) Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-guidon-2019-career-speaker",
           "s-ellis-attorney-page",
@@ -383,7 +381,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Reviewed evidence: Rural legal capacity is a recurring professional theme. Kansas Courts lists Cunningham, attorney, Hays, on the Kansas Rural Justice Initiative Committee roster, and the final report search result identifies him as a newer-attorney panelist during a Dodge City listening session. In the Hays Post profile, he connected the shortage of rural attorneys and qualified defense counsel to slower cases, longer jail waits, and... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Public evidence: Rural legal capacity is a recurring professional theme. Kansas Courts lists Cunningham, attorney, Hays, on the Kansas Rural Justice Initiative Committee roster, and the final report search result identifies him as a newer-attorney panelist during a Dodge City listening session. In the Hays Post profile, he connected the shortage of rural attorneys and qualified defense counsel to slower cases, longer jail waits, and... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-aaron-cunningham-0006"
         ]
@@ -395,7 +393,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: His older public biography fits the same prosecutor-service frame. In a 2019 Hays High Guidon story, he told students he was drawn to law through writing, advocacy, and a strong sense of justice. He said practicing a servant's heart was useful and described the job's goal as correcting poor behavior and helping victims. (The Guidon) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: His older public biography fits the same prosecutor-service frame. In a 2019 Hays High Guidon story, he told students he was drawn to law through writing, advocacy, and a strong sense of justice. He said practicing a servant's heart was useful and described the job's goal as correcting poor behavior and helping victims. (The Guidon) Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-guidon-2019-career-speaker",
           "s-ellis-attorney-page",
@@ -476,15 +474,15 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Aaron Cunningham is profiled here for Ellis County Attorney as a Republican incumbent/current official. Cunningham's accessible public message is not built around a campaign website or a campaign social feed. The official Ellis County Attorney page is the clearest current source: it lists Aaron J. Cunningham as county attorney from 2025 to present and frames th... The 2024 campaign footprint is sparse. Hays Post listed \"Aaron J Cunningham\" as the Republican candidate for Ellis County Attorney, and IKE Lab's 2024 results show him receiving 11,379 votes against 146 write-ins. (Hays Post, IKE Lab) No candidate-controlled... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 10 source-backed actions across 4 of the 14 issue areas. Representative public-record entries include: Health care / insurance / Medicaid: His visible public safety activity also includes community and media settings. HaysMed listed him as part of a June 2025 human-trafficking awareness panel with medical, law-enforcement, and KBI participa... Election integrity / voting / courts: Cunningham's accessible public message is not built around a campaign website or a campaign social feed. The official Ellis County Attorney page is the clearest current source: it lists Aaron J. Cunnin... Election integrity / voting / courts: The 2024 campaign footprint is sparse. Hays Post listed \"Aaron J Cunningham\" as the Republican candidate for Ellis County Attorney, and IKE Lab's 2024 results show him receiving 11,379 votes against 14... Election integrity / voting / courts: His visible public safety activity also includes community and media settings. HaysMed listed him as part of a June 2025 human-trafficking awareness panel with medical, law-enforcement, and KBI partici... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whoTheyAre": "Aaron Cunningham is profiled here for Ellis County Attorney as a Republican incumbent/current official. Cunningham's accessible public message is not built around a campaign website or a campaign social feed. The official Ellis County Attorney page is the clearest current source: it lists Aaron J. Cunningham as county attorney from 2025 to present and frames th... The 2024 campaign footprint is sparse. Hays Post listed \"Aaron J Cunningham\" as the Republican candidate for Ellis County Attorney, and IKE Lab's 2024 results show him receiving 11,379 votes against 146 write-ins. (Hays Post, IKE Lab) No candidate-controlled... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 10 source-backed items across 4 of the 14 issue areas. Representative public-record entries include: Health care / insurance / Medicaid: His visible public safety activity also includes community and media settings. HaysMed listed him as part of a June 2025 human-trafficking awareness panel with medical, law-enforcement, and KBI participa... Election integrity / voting / courts: Cunningham's accessible public message is not built around a campaign website or a campaign social feed. The official Ellis County Attorney page is the clearest current source: it lists Aaron J. Cunnin... Election integrity / voting / courts: The 2024 campaign footprint is sparse. Hays Post listed \"Aaron J Cunningham\" as the Republican candidate for Ellis County Attorney, and IKE Lab's 2024 results show him receiving 11,379 votes against 14... Election integrity / voting / courts: His visible public safety activity also includes community and media settings. HaysMed listed him as part of a June 2025 human-trafficking awareness panel with medical, law-enforcement, and KBI partici... Social-only material is listed separately as online observation, not official action.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Cunningham does describe himself publicly in explicitly Christian terms on his about.me page, including references to God's sovereignty and Christ's salvation, but the source material does not tie him to a current church.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
@@ -493,7 +491,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance Data"
   },
-  "socialResearchNote": "21 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "21 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ellis-attorney-page",
@@ -504,16 +502,14 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Aaron J. Cunningham is listed as Ellis County Attorney (2025-present)",
-        "The County Attorney's Office handles misdemeanor and felony criminal prosecution, alcohol/drug care and treatment cases, child-in-need-of-care cases, traffic violations, juvenile offender cases, and mental-illness matters",
+        "The County Attorney's Office handles misdemeanor and felony criminal prosecution, alcohol/drug care and treatment cases, child-in-need-of-care cases, traffic violations, juvenile offender cases, and mental-illness matte...",
         "Office priorities include deaths, child victims including CINC cases, sex crimes, violent person crimes, property crimes, drug distribution crimes, effective prosecution, and office efficiency for taxpayers",
-        "Cunningham's accessible public message is not built around a campaign website or a campaign social feed. The official Ellis County Attorney page is the clearest current source: it lists Aaron J. Cunningham as county attorney from 2025 to present and frames the",
-        "[Ellis County Attorney Official Page](https://www.ellisco.net/92/Attorney)",
-        "The official Ellis County Attorney page states that the office primarily handles misdemeanor and felony criminal prosecution, alcohol/drug care and treatment cases, child-in-need-of-care matters, traffic violations, juvenile offender cases, and mental illness",
-        "His official office page frames the county attorney's work around enforcement of Kansas law, public safety, truth-seeking, fair and impartial justice, prosecution efficiency, taxpayer cost control, and a priority order that begins with deaths, child victims, c",
-        "[Ellis County Attorney's Office](https://www.ellisco.net/92/Attorney) — accessed 2026-03-30",
-        "| Official county attorney page | https://www.ellisco.net/92/Attorney | FOUND | Current Ellis County page lists Aaron J. Cunningham as Ellis County Attorney, 2025-present, and publishes office functions, mission, priorities, staff, and contact links. This is t",
-        "Ellis County Attorney official page: functions, mission, priorities, staff, current role. ([source](https://www.ellisco.net/92/Attorney))",
-        "narrative: \"_A summary of what Aaron Cunningham has publicly said, posted, and had attributed to him across official county pages, public professional profiles, public social/profile previews, local news, public legal/civic pages, and third-party media coverag"
+        "Cunningham's accessible public message is not built around a campaign website or a campaign social feed. The official Ellis County Attorney page is the clearest current source: it lists Aaron J. Cunningham as county att...",
+        "Ellis County Attorney Official Page",
+        "The official Ellis County Attorney page states that the office primarily handles misdemeanor and felony criminal prosecution, alcohol/drug care and treatment cases, child-in-need-of-care matters, traffic violations, juv...",
+        "His official office page frames the county attorney's work around enforcement of Kansas law, public safety, truth-seeking, fair and impartial justice, prosecution efficiency, taxpayer cost control, and a priority order....",
+        "Ellis County Attorney's Office — accessed 2026-03-30",
+        "Ellis County Attorney official page: functions, mission, priorities, staff, current role. (source)"
       ]
     },
     {
@@ -525,8 +521,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Staff directory lists Aaron Cunningham with the title Ellis County Attorney",
-        "| Staff directory | https://www.ellisco.net/directory.aspx?eid=101 | FOUND | County staff page lists Cunningham as Ellis County Attorney with office phone. |",
-        "Ellis County staff directory: official contact/title page. ([source](https://www.ellisco.net/directory.aspx?eid=101))"
+        "Ellis County staff directory: official contact/title page. (source)"
       ]
     },
     {
@@ -550,8 +545,8 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Readable 2024 Ellis County result copy lists Aaron J. Cunningham (R) with 11,379 votes and write-ins with 146 in the County Attorney race",
-        "IKE Lab 2024 general-election results: 11,379 votes for Cunningham, 146 write-ins. ([source](https://www.ike-lab.com/complete_elex_2024_gen_cotwp_Ellis.html))",
-        "Electoral: 11,379 votes for Aaron J. Cunningham (R) in the 2024 Ellis County Attorney race, with 146 write-ins. ([IKE Lab](https://www.ike-lab.com/complete_elex_2024_gen_cotwp_Ellis.html))"
+        "IKE Lab 2024 general-election results: 11,379 votes for Cunningham, 146 write-ins. (source)",
+        "Electoral: 11,379 votes for Aaron J. Cunningham (R) in the 2024 Ellis County Attorney race, with 146 write-ins. (IKE Lab)"
       ]
     },
     {
@@ -617,9 +612,9 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Hays Post listed Aaron J Cunningham as the Republican candidate for Ellis County Attorney after the 2024 filing deadline",
-        "The 2024 campaign footprint is sparse. Hays Post listed \"Aaron J Cunningham\" as the Republican candidate for Ellis County Attorney, and IKE Lab's 2024 results show him receiving 11,379 votes against 146 write-ins. ([Hays Post](https://hayspost.com/posts/71fc45",
-        "Hays Post's June 4, 2024 candidate filing coverage listed \"Aaron J Cunningham\" as the Republican candidate for Ellis County Attorney. ([Hays Post](https://hayspost.com/posts/71fc45b0-c8c1-41af-87da-6b86c8a8170b)) IKE Lab's 2024 general-election results show Aa",
-        "Hays Post June 2024 candidate filing coverage: Republican candidate listing. ([source](https://hayspost.com/posts/71fc45b0-c8c1-41af-87da-6b86c8a8170b))"
+        "The 2024 campaign footprint is sparse. Hays Post listed \"Aaron J Cunningham\" as the Republican candidate for Ellis County Attorney, and IKE Lab's 2024 results show him receiving 11,379 votes against 146 write-ins. ([Hay...",
+        "Hays Post's June 4, 2024 candidate filing coverage listed \"Aaron J Cunningham\" as the Republican candidate for Ellis County Attorney. (Hays Post) IKE Lab's 2024 general-election results show Aa",
+        "Hays Post June 2024 candidate filing coverage: Republican candidate listing. (source)"
       ]
     },
     {
@@ -640,18 +635,18 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
         "Cunningham praised the Victim/Witness Coordinator and discussed victim communication, restitution, impact statements, and court expectations",
         "Cunningham discussed rural attorney shortages, qualified defense-counsel shortages, and delays for incarcerated defendants",
         "Cunningham said he sees value in Recovery Court, treatment, mental-health care, and a holistic approach",
-        "[HaysPost: New Ellis County Attorney](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1)",
-        "He pairs that enforcement posture with victim-services and treatment language. Cunningham praised the county's victim/witness coordinator as a major help with victim communication, restitution, impact statements, and court expectations. He also said Recovery C",
-        "His most direct issue messaging came after he took office. In a February 2025 Hays Post profile, Cunningham described the job as a return to his hometown and said he inherited likely hundreds of backlogged cases. He emphasized that Kansas law, not his personal",
-        "[Resuming Pot Cases -- Hays Post](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1)",
-        "2025 county attorney profile, on law enforcement philosophy: \"I tend to be of the philosophy that whether or not something is a crime is up to the Legislature.\" Source: [Hays Post](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1) on February 17",
-        "That same interview also shows his limits-and-triage message. Cunningham said the office receives about 1,500 reports a year from seven law-enforcement agencies and does not have enough attorneys to prosecute everything. He described prioritizing deaths, crime",
-        "2025 county attorney profile, on returning home: \"I wanted to return to my hometown and serve my community.\" Source: [Hays Post](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1) on February 17, 2025.",
-        "2025 county attorney profile, on office priorities: \"I do genuinely want to help people.\" Source: [Hays Post](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1) on February 17, 2025.",
-        "That same interview gives the main public tension in his message: strict law enforcement, but limited resources and some space for treatment. He said the Legislature decides what is criminal and that he must enforce the law as written; he also said a person st",
-        "Hays Post February 2025 profile: marijuana prosecution, case priorities, attorney shortage, victim/witness coordination, treatment/mental-health comments. ([source](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1))",
-        "His clearest policy interview is the February 17, 2025 Hays Post profile after he took office. He said he returned to Hays to serve his hometown, described hundreds of likely backlogged cases, said the office usually had four attorneys handling about 1,500 law",
-        "\"I tend to be of the philosophy\" - Hays Post, 2025-02-17 - https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1 - topic: prosecutorial philosophy"
+        "HaysPost: New Ellis County Attorney",
+        "He pairs that enforcement posture with victim-services and treatment language. Cunningham praised the county's victim/witness coordinator as a major help with victim communication, restitution, impact statements, and co...",
+        "His most direct issue messaging came after he took office. In a February 2025 Hays Post profile, Cunningham described the job as a return to his hometown and said he inherited likely hundreds of backlogged cases. He emp...",
+        "Resuming Pot Cases -- Hays Post",
+        "2025 county attorney profile, on law enforcement philosophy: \"I tend to be of the philosophy that whether or not something is a crime is up to the Legislature.\" Source: Hays Post on February 17",
+        "That same interview also shows his limits-and-triage message. Cunningham said the office receives about 1,500 reports a year from seven law-enforcement agencies and does not have enough attorneys to prosecute everything...",
+        "2025 county attorney profile, on returning home: \"I wanted to return to my hometown and serve my community.\" Source: Hays Post on February 17, 2025.",
+        "2025 county attorney profile, on office priorities: \"I do genuinely want to help people.\" Source: Hays Post on February 17, 2025.",
+        "That same interview gives the main public tension in his message: strict law enforcement, but limited resources and some space for treatment. He said the Legislature decides what is criminal and that he must enforce the...",
+        "Hays Post February 2025 profile: marijuana prosecution, case priorities, attorney shortage, victim/witness coordination, treatment/mental-health comments. (source)",
+        "His clearest policy interview is the February 17, 2025 Hays Post profile after he took office. He said he returned to Hays to serve his hometown, described hundreds of likely backlogged cases, said the office usually ha...",
+        "I tend to be of the philosophy - Hays Post, 2025-02-17 - https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1 - topic: prosecutorial philosophy"
       ]
     },
     {
@@ -665,11 +660,11 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
         "Cunningham opposed probation in a criminal-threat/aggravated-assault case",
         "Cunningham argued against allowing the defendant to justify his actions based on allegations against another person",
         "Cunningham said probation would signal that people could take matters into their own hands rather than use established investigative and court systems",
-        "Public case coverage reinforces his emphasis on formal systems over private retaliation. In a March 2026 sentencing story, Hays Post reported that Cunningham opposed probation for a defendant convicted after threats and an armed confrontation, arguing that let",
-        "[Criminal Threat Sentencing -- Hays Post](https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58)",
-        "Public case coverage shows him emphasizing systems, victims, and consequences. In March 2026 sentencing coverage, Hays Post reported that Cunningham argued against probation in a criminal-threat/aggravated-assault case and warned that vigilante action would si",
-        "Hays Post March 2026 sentencing story: anti-vigilante/probation argument in criminal-threat case. ([source](https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58))",
-        "\"Two wrongs don't make a right.\" ([Hays Post](https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58))"
+        "Public case coverage reinforces his emphasis on formal systems over private retaliation. In a March 2026 sentencing story, Hays Post reported that Cunningham opposed probation for a defendant convicted after threats and...",
+        "Criminal Threat Sentencing -- Hays Post",
+        "Public case coverage shows him emphasizing systems, victims, and consequences. In March 2026 sentencing coverage, Hays Post reported that Cunningham argued against probation in a criminal-threat/aggravated-assault case....",
+        "Hays Post March 2026 sentencing story: anti-vigilante/probation argument in criminal-threat case. (source)",
+        "\"Two wrongs don't make a right.\" (Hays Post)"
       ]
     },
     {
@@ -683,14 +678,14 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
         "Cunningham was described as a 2012 Hays High graduate",
         "Cunningham earned a bachelor's degree from Kansas State University and attended Washburn law school",
         "Cunningham linked law to writing, advocacy, justice, servant-hearted practice, and helping victims",
-        "[Guidon Online: Aaron Cunningham speaks to students](https://hayshighguidon.com/news/2019/10/26/assistant-ellis-county-attorney-aaron-cunningham-speaks-to-students-about-career-in-law/)",
-        "[Guidon (Hays High) -- Cunningham Speaks to Students](https://hayshighguidon.com/news/2019/10/26/assistant-ellis-county-attorney-aaron-cunningham-speaks-to-students-about-career-in-law/)",
-        "His older public biography fits the same prosecutor-service frame. In a 2019 Hays High Guidon story, he told students he was drawn to law through writing, advocacy, and a strong sense of justice. He said practicing a servant's heart was useful and described th",
-        "\"I always had a strong sense of justice\" - Hays High Guidon, 2019-10-26 - https://hayshighguidon.com/news/2019/10/26/assistant-ellis-county-attorney-aaron-cunningham-speaks-to-students-about-career-in-law/ - topic: career path",
+        "Guidon Online: Aaron Cunningham speaks to students",
+        "Guidon (Hays High) -- Cunningham Speaks to Students",
+        "His older public biography fits the same prosecutor-service frame. In a 2019 Hays High Guidon story, he told students he was drawn to law through writing, advocacy, and a strong sense of justice. He said practicing a se...",
+        "I always had a strong sense of justice - Hays High Guidon, 2019-10-26 - https://hayshighguidon.com/news/2019/10/26/assistant-ellis-county-attorney-aaron-cunningham-speaks-to-students-about-career-in-law/ - topic: career...",
         "> -- Hays High Guidon, October 26, 2019, https://hayshighguidon.com/news/2019/10/26/assistant-ellis-county-attorney-aaron-cunningham-speaks-to-students-about-career-in-law/",
-        "Earlier public biography from the Hays High Guidon in 2019 matches the later local-service theme. Cunningham told students he was drawn to law by advocacy and a strong sense of justice, described servant-hearted practice as a useful skill, and said the goal of",
-        "The Guidon 2019 career-speaker story: justice, advocacy, servant-hearted work, victims. ([source](https://hayshighguidon.com/news/2019/10/26/assistant-ellis-county-attorney-aaron-cunningham-speaks-to-students-about-career-in-law/))",
-        "\"The goal of this job is to correct poor behavior and help the victims.\" ([The Guidon](https://hayshighguidon.com/news/2019/10/26/assistant-ellis-county-attorney-aaron-cunningham-speaks-to-students-about-career-in-law/))"
+        "Earlier public biography from the Hays High Guidon in 2019 matches the later local-service theme. Cunningham told students he was drawn to law by advocacy and a strong sense of justice, described servant-hearted practic...",
+        "The Guidon 2019 career-speaker story: justice, advocacy, servant-hearted work, victims. (source)",
+        "\"The goal of this job is to correct poor behavior and help the victims.\" (The Guidon)"
       ]
     },
     {
@@ -702,9 +697,8 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "HaysMed listed Ellis County Attorney Aaron Cunningham as a June 27, 2025 human-trafficking awareness panel participant",
-        "His visible public safety activity also includes community and media settings. HaysMed listed him as part of a June 2025 human-trafficking awareness panel with medical, law-enforcement, and KBI participants. ([HaysMed](https://www.haysmed.com/haysmed-panel-she",
-        "HaysMed human-trafficking panel page: public safety/community education appearance. ([source](https://www.haysmed.com/haysmed-panel-sheds-light-on-human-trafficking-at-chamber-luncheon/))",
-        "He also appears in public safety and victim-focused community contexts. HaysMed listed him as a panelist in a June 27, 2025 human-trafficking awareness luncheon with HaysMed, police, and a retired KBI agent. ([HaysMed](https://www.haysmed.com/haysmed-panel-she"
+        "His visible public safety activity also includes community and media settings. HaysMed listed him as part of a June 2025 human-trafficking awareness panel with medical, law-enforcement, and KBI participants. ([HaysMed](...",
+        "HaysMed human-trafficking panel page: public safety/community education appearance. (source)"
       ]
     },
     {
@@ -717,17 +711,15 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Existing local harvest reported a candidate/profile-controlled page with Hays/Kansas education metadata, Christian/Calvinist self-description, and X handle Sinfonian24601",
         "Current targeted search did not return a crawlable matching page, so exact copy should be recaptured before quotation",
-        "about.me: Existing local harvest records https://about.me/aaron.cunningham as a candidate/profile-controlled page with Hays/Kansas education metadata, Christian/Calvinist self-description, and an X/Twitter handle (Sinfonian24601). Current web search did not re",
-        "The personal social/profile record is limited but not empty. His about.me page is candidate/profile-controlled and explicitly Christian in self-description, with tags or interests including Christianity, Calvinism, music, and scouting. It lists Hays High and K",
-        "\"a fallen individual in need of Christ's salvation\" - about.me, accessed in dossier - https://about.me/aaron.cunningham - topic: faith identity",
-        "[Aaron Cunningham - about.me](https://about.me/aaron.cunningham)",
-        "[about.me](https://about.me/aaron.cunningham) -- lists Manhattan, Hays, K-State, Napoli's, Wendy's, Hays High",
-        "[about.me profile](https://about.me/aaron.cunningham)",
-        "The public record shows explicit Christian self-description, including references to the sovereignty of God and redeeming grace, but I could not verify a specific Hays church or denomination from the sources reviewed in this pass. The closest verifiable eviden",
-        "The about.me page is the most personal candidate-controlled profile found. It presents him in explicitly Christian and Calvinist terms, lists Hays and Manhattan, Kansas, Hays High and Kansas State University, and links X/Twitter handle Sinfonian24601. The prof",
-        "[About.me: Aaron Cunningham](https://about.me/aaron.cunningham)",
-        "| about.me | https://about.me/aaron.cunningham | FOUND | Candidate/profile-controlled page. Public metadata identifies Aaron Cunningham, Hays High, Kansas State University, Hays/Manhattan locations, interests in Christianity, Calvinism, music, and scouting, an",
-        "about.me profile: candidate/profile-controlled personal public profile and linked X handle. ([source](https://about.me/aaron.cunningham))"
+        "about.me: Existing local harvest records https://about.me/aaron.cunningham as a candidate/profile-controlled page with Hays/Kansas education metadata, Christian/Calvinist self-description, and an X/Twitter handle (Sinfo...",
+        "The personal social/profile record is limited but not empty. His about.me page is candidate/profile-controlled and explicitly Christian in self-description, with tags or interests including Christianity, Calvinism, musi...",
+        "a fallen individual in need of Christ's salvation - about.me, accessed in dossier - https://about.me/aaron.cunningham - topic: faith identity",
+        "Aaron Cunningham - about.me",
+        "about.me -- lists Manhattan, Hays, K-State, Napoli's, Wendy's, Hays High",
+        "The public record shows explicit Christian self-description, including references to the sovereignty of God and redeeming grace, but The review could not verify a specific Hays church or denomination from the sources re...",
+        "The about.me page is the most personal candidate-controlled profile found. It presents him in explicitly Christian and Calvinist terms, lists Hays and Manhattan, Kansas, Hays High and Kansas State University, and links....",
+        "About.me: Aaron Cunningham",
+        "about.me profile: candidate/profile-controlled personal public profile and linked X handle. (source)"
       ]
     },
     {
@@ -740,23 +732,10 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Existing local harvest reported a matching LinkedIn preview with Kansas State University, Washburn University School of Law, and Hays work history",
         "No public activity feed was visible",
-        "LinkedIn surfaced a matching public profile preview with Kansas State University, Washburn University School of Law, a Hays work trail, 246 followers, and 245 connections, but direct fetch was blocked and no public activity feed was visible. The linked X profi",
-        "| LinkedIn | https://www.linkedin.com/in/aaron-cunningham-653b3094 | FOUND, LIMITED | Public preview matches education and Hays work trail: Kansas State University, Washburn University School of Law, 246 followers and 245 connections in the public search previ",
-        "LinkedIn is present but limited. The public preview identifies him with Kansas State University and Washburn University School of Law and shows 246 followers and 245 connections. It did not expose a public post timeline in logged-out capture, and direct fetch",
-        "LinkedIn public preview: education/work metadata; direct fetch blocked. ([source](https://www.linkedin.com/in/aaron-cunningham-653b3094))",
-        "Profile metadata: LinkedIn public preview showed 246 followers and 245 connections. ([LinkedIn](https://www.linkedin.com/in/aaron-cunningham-653b3094))"
-      ]
-    },
-    {
-      "id": "src-aaron-cunningham-0004",
-      "tier": "primary",
-      "url": "https://directory-kard.kscourts.gov/Home/Details?regNum=28250",
-      "title": "Directory-Kard.Kscourts",
-      "publisher": "Directory-Kard.Kscourts",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| Kansas attorney registration | https://directory-kard.kscourts.gov/Home/Details?regNum=28250 | FOUND | Lists Cunningham, Aaron Joseph; active Kansas attorney; Ellis County Attorney's Office business address and phone. |",
-        "Kansas Attorney Registration Directory: active license and business contact information. ([source](https://directory-kard.kscourts.gov/Home/Details?regNum=28250))"
+        "LinkedIn surfaced a matching public profile preview with Kansas State University, Washburn University School of Law, a Hays work trail, 246 followers, and 245 connections, but direct fetch was blocked and no public acti...",
+        "LinkedIn is present but limited. The public preview identifies him with Kansas State University and Washburn University School of Law and shows 246 followers and 245 connections. It did not expose a public post timeline...",
+        "LinkedIn public preview: education/work metadata; direct fetch blocked. (source)",
+        "Profile metadata: LinkedIn public preview showed 246 followers and 245 connections. (LinkedIn)"
       ]
     },
     {
@@ -767,10 +746,9 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "publisher": "Kscourts",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Rural legal capacity is a recurring professional theme. Kansas Courts lists Cunningham, attorney, Hays, on the Kansas Rural Justice Initiative Committee roster, and the final report search result identifies him as a newer-attorney panelist during a Dodge City",
-        "Public legal/civic presence also appears in the Kansas Rural Justice Initiative. Kansas Courts lists Aaron Cunningham, attorney, Hays, on the committee roster, and the final report search result identifies him as a newer-attorney panelist in Dodge City during",
-        "Kansas Courts Rural Justice Initiative page and final report: committee roster and rural legal-access work. ([page](https://kscourts.gov/About-the-Courts/Court-Administration/Committees/Kansas-Rural-Justice-Initiative-Committee), [PDF](https://www.kscourts.gov",
-        "\"url\": \"https://kscourts.gov/About-the-Courts/Court-Administration/Committees/Kansas-Rural-Justice-Initiative-Committee\","
+        "Rural legal capacity is a recurring professional theme. Kansas Courts lists Cunningham, attorney, Hays, on the Kansas Rural Justice Initiative Committee roster, and the final report search result identifies him as a new...",
+        "Public legal/civic presence also appears in the Kansas Rural Justice Initiative. Kansas Courts lists Aaron Cunningham, attorney, Hays, on the committee roster, and the final report search result identifies him as a newe...",
+        "Kansas Courts Rural Justice Initiative page and final report: committee roster and rural legal-access work. (page, [PDF](https://www.kscourts.gov"
       ]
     },
     {
@@ -781,8 +759,8 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "publisher": "Avvo",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Avvo attorney profile](https://www.avvo.com/attorneys/67601-ks-aaron-cunningham-5075775.html)",
-        "[Avvo: Aaron Cunningham](https://www.avvo.com/attorneys/67601-ks-aaron-cunningham-5075775.html)"
+        "Avvo attorney profile",
+        "Avvo: Aaron Cunningham"
       ]
     },
     {
@@ -793,21 +771,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "publisher": "Linkedin",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[LinkedIn](https://www.linkedin.com/in/aaron-cunningham-653b3094/) -- lists K-State education",
-        "[LinkedIn](https://www.linkedin.com/in/aaron-cunningham-653b3094/)"
-      ]
-    },
-    {
-      "id": "src-aaron-cunningham-0115",
-      "tier": "secondary",
-      "url": "https://kcdaa.org/Sys/PublicProfile/52134000",
-      "title": "Kcdaa",
-      "publisher": "Kcdaa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| KCDAA profile | https://kcdaa.org/Sys/PublicProfile/52134000 | FOUND, STALE TITLE | Public profile lists Aaron Cunningham at the Ellis County Attorney's Office, but still uses \"Assistant County Attorney,\" so it was treated as professional-directory metadata",
-        "[kcdaa.org](https://kcdaa.org/Sys/PublicProfile/52134000)",
-        "KCDAA public profile: professional listing, stale assistant-title metadata. ([source](https://kcdaa.org/Sys/PublicProfile/52134000))"
+        "LinkedIn -- lists K-State education"
       ]
     }
   ]

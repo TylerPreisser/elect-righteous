@@ -19,7 +19,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,12 +39,12 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate-stated evidence: On professional development calendars, she used her classroom experience to support full in-service days over early release. USD 489's reposted article says she found it hard to transition between teaching and professional development during early-release days and believed full in-service days were better for staff and ultimately students, while acknowledging child-care issues for families. (USD 489) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: On professional development calendars, she used her classroom experience to support full in-service days over early release. USD 489's reposted article says she found it hard to transition between teaching and professional development during early-release days and believed full in-service days were better for staff and ultimately students, while acknowledging child-care issues for families. (USD 489) Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-usd489-calendar-pd",
           "s-usd489-members",
-          "s-usd489-board-page",
-          "s-tiger-handbook-2025"
+          "s-tiger-handbook-2025",
+          "s-tiger-cellphones-2024"
         ]
       },
       "actions": [
@@ -71,14 +71,6 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-usd489-members"
           ]
-        },
-        {
-          "id": "em-jayme-goetz-00032",
-          "date": "Undated",
-          "body": "USD 489 Board of Education page",
-          "sourceIds": [
-            "s-usd489-board-page"
-          ]
         }
       ],
       "socialSignals": [
@@ -98,7 +90,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -108,7 +100,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -139,7 +131,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -160,7 +152,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -170,7 +162,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -180,7 +172,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -190,7 +182,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts.",
         "sourceIds": []
       },
       "actions": [],
@@ -211,7 +203,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Hays USD 489 BOE votes to change Hays Middle School mascot to Indians Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Hays USD 489 BOE votes to change Hays Middle School mascot to Indians Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-mascot-vote"
         ]
@@ -232,7 +224,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -242,10 +234,9 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: Role records are straightforward as of this capture. The USD 489 Diligent/HighBond member page lists Jayme Goetz as Board Member, and public meeting pages list her among members for 2025-2026 meetings. A June 2025 Hays Post story reported she was then vice president and willing to serve another term if elected, but the current official portal listing reviewed here identifies her as Board Member. (USD 489 member page... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Role records are straightforward as of this capture. The USD 489 Diligent/HighBond member page lists Jayme Goetz as Board Member, and public meeting pages list her among members for 2025-2026 meetings. A June 2025 Hays Post story reported she was then vice president and willing to serve another term if elected, but the current official portal listing reviewed here identifies her as Board Member. (USD 489 member page... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-usd489-members",
-          "s-usd489-board-page",
           "s-tiger-handbook-2025"
         ]
       },
@@ -257,14 +248,6 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-usd489-members"
           ]
-        },
-        {
-          "id": "em-jayme-goetz-00032",
-          "date": "Undated",
-          "body": "USD 489 Board of Education page",
-          "sourceIds": [
-            "s-usd489-board-page"
-          ]
         }
       ],
       "socialSignals": []
@@ -273,25 +256,25 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Jayme Goetz is profiled here for Hays USD 489 Board of Education as a nonpartisan incumbent/current official. Goetz's public message is local, educator-centered, and mostly candidate-attributed through Hays Post and Tiger Media Network rather than through campaign social media. She presents herself as a lifelong Hays resident, USD 489 graduate, former Hays High teach... On cell phones, Goetz called student phone use a real problem but not only a school problem. Tiger Media reported that, as a Hays High teacher, she used classroom phone holders and still saw students work around them. She also noted that cell phones can be us... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 7 source-backed actions across 3 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: On professional development calendars, she used her classroom experience to support full in-service days over early release. USD 489's reposted article says she found it hard to transition between teaching... Education / curriculum / schools: On calendars and professional development, Goetz's teacher experience is central. USD 489's reposted article says she found it difficult to transition between teaching and professional development on early... Education / curriculum / schools: Role records are straightforward as of this capture. The USD 489 Diligent/HighBond member page lists Jayme Goetz as Board Member, and public meeting pages list her among members for 2025-2026 meetings. A J... Education / curriculum / schools: USD 489 Board of Education page. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "ownWordsNarrative": "status: no_verified_candidate_controlled_campaign_social_feed; checked: Campaign website; Facebook; X/Twitter; Instagram; Threads; Bluesky; TikTok; Truth Social; Gab; Gettr; Substack; Medium; Reddit; Newsletter platforms; LinkedIn public preview; USD 489 official portal; Hays Post; Tiger Media Network; relevance: Use the absence of verified campaign-controlled channels as a footprint signal only. Do not infer private views or platform activity that was not publicly visible.; sourceIds: s-linkedin-preview; s-local-social-harvest",
-  "whereTheyWorship": "I did not find a reliable public source that identifies Jayme Goetz's church home or denomination. Because the public record is thin here, I am not assigning a church without evidence. I did not find a reliable public source that identifies Goetz's church home or denomination. I am not assigning a church without evidence. This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "whoTheyAre": "Jayme Goetz is profiled here for Hays USD 489 Board of Education as a nonpartisan incumbent/current official. Goetz's public message is local, educator-centered, and mostly candidate-attributed through Hays Post and Tiger Media Network rather than through campaign social media. She presents herself as a lifelong Hays resident, USD 489 graduate, former Hays High teach... On cell phones, Goetz called student phone use a real problem but not only a school problem. Tiger Media reported that, as a Hays High teacher, she used classroom phone holders and still saw students work around them. She also noted that cell phones can be us... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 5 source-backed items across 3 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: On professional development calendars, she used her classroom experience to support full in-service days over early release. USD 489's reposted article says she found it hard to transition between teaching... Education / curriculum / schools: On calendars and professional development, Goetz's teacher experience is central. USD 489's reposted article says she found it difficult to transition between teaching and professional development on early... Education / curriculum / schools: Role records are straightforward as of this capture. The USD 489 Diligent/HighBond member page lists Jayme Goetz as Board Member, and public meeting pages list her among members for 2025-2026 meetings. A J... Public safety / law enforcement / criminal justice: Hays USD 489 BOE votes to change Hays Middle School mascot to Indians. Social-only material is listed separately as online observation, not official action.",
+  "ownWordsNarrative": "[object Object]",
+  "whereTheyWorship": "The reviewed public record did not identify a reliable public source that identifies Jayme Goetz's church home or denomination. Because the public record is thin here, No church affiliation is assigned without evidence. The reviewed public record did not identify a reliable public source that identifies Goetz's church home or denomination. No church affiliation is assigned without evidence. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
-    "totalRaised": "Goetz told Hays Post in 2023 that she was self-funded. No online donor list, campaign-finance report, treasurer appointment, or affidavit of exemption was found in this pass. Kansas SOS election standards point most local school-board campaign reporting to the county election officer if reportable.",
-    "narrative": "Goetz told Hays Post in 2023 that she was self-funded. No online donor list, campaign-finance report, treasurer appointment, or affidavit of exemption was found in this pass. Kansas SOS election standards point most local school-board campaign reporting to the county election officer if reportable.",
+    "totalRaised": "Goetz told Hays Post in 2023 that she was self-funded. No online donor list, campaign-finance report, treasurer appointment, or affidavit of exemption was found in the reviewed public record. Kansas SOS election standards point most local school-board campaign reporting to the county election officer if reportable.",
+    "narrative": "Goetz told Hays Post in 2023 that she was self-funded. No online donor list, campaign-finance report, treasurer appointment, or affidavit of exemption was found in the reviewed public record. Kansas SOS election standards point most local school-board campaign reporting to the county election officer if reportable.",
     "donors": [],
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Hays USD 489 BOE candidate: Jayme Goetz"
   },
-  "socialResearchNote": "5 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "5 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-usd489-members",
@@ -304,13 +287,12 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
         "Jayme Goetz is listed as Board Member",
         "Jayme Goetz is listed among members for board retreat, regular meeting, special board meeting, and work session records",
         "The public Term field for Jayme Goetz is blank",
-        "Role records are straightforward as of this capture. The USD 489 Diligent/HighBond member page lists Jayme Goetz as Board Member, and public meeting pages list her among members for 2025-2026 meetings. A June 2025 Hays Post story reported she was then vice pre",
-        "| USD 489 Diligent/HighBond portal | https://usd489.community.highbond.com/portal/members.aspx?id=18 | FOUND | Public member page lists Jayme Goetz as Board Member and associates her with Board Retreat, Regular Meeting, Special Board Meeting, and Work Study Se",
-        "Goetz is a USD 489 Board Member. The USD 489 Diligent/HighBond member page lists her as \"Board Member\" and places her in regular, special, work-study, and retreat meeting categories. A March 2026 meeting page lists Jayme Goetz among board meeting members. ([US",
-        "USD 489 Diligent member page: Goetz listed as Board Member with board/committee meeting categories. ([source](https://usd489.community.highbond.com/portal/members.aspx?id=18))",
+        "Role records are straightforward as of this capture. The USD 489 Diligent/HighBond member page lists Jayme Goetz as Board Member, and public meeting pages list her among members for 2025-2026 meetings. A June 2025 Hays....",
+        "Goetz is a USD 489 Board Member. The USD 489 Diligent/HighBond member page lists her as \"Board Member\" and places her in regular, special, work-study, and retreat meeting categories. A March 2026 meeting page lists Jaym...",
+        "USD 489 Diligent member page: Goetz listed as Board Member with board/committee meeting categories. (source)",
         "https://usd489.community.highbond.com/portal/members.aspx?id=18",
-        "[usd489.community.highbond.com](https://usd489.community.highbond.com/portal/members.aspx?id=18)",
-        "\"campaignWebsite\": \"https://usd489.community.highbond.com/portal/members.aspx?id=18\","
+        "usd489.community.highbond.com",
+        "\"campaignWebsite\": \"https://usd489.community.highbond.com/portal/members.aspx?id=18\""
       ]
     },
     {
@@ -326,21 +308,6 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-usd489-board-page",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Board of Education",
-      "publisher": "Hays USD 489",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Official district board entry point",
-        "Lists district contact context for the board",
-        "[USD 489 Board of Education page](https://www.usd489.com/page/board-of-education)",
-        "| USD 489 official website | https://www.usd489.com/page/board-of-education | FOUND, LIMITED | Official district board entry point is public; text capture exposes district contact/navigation rather than a detailed Goetz bio. |",
-        "USD 489 board page: official board entry point and district contact context. ([source](https://www.usd489.com/page/board-of-education))"
-      ]
-    },
-    {
       "id": "s-fhsu-faculty",
       "tier": "primary",
       "url": "https://www.fhsu.edu/macs/faculty-and-staff/",
@@ -351,9 +318,8 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
         "Jayme Goetz is listed as Instructor",
         "Goetz is listed with M.S., Fort Hays State University",
         "Goetz is listed as active in Algebra",
-        "[FHSU Mathematics Faculty & Staff](https://www.fhsu.edu/macs/faculty-and-staff/)",
-        "| FHSU faculty page | https://www.fhsu.edu/macs/faculty-and-staff/ | FOUND | Confirms Goetz as FHSU Mathematics instructor, M.S. from FHSU, Rarick Hall office, phone, email, and active area Algebra. Professional profile, not campaign messaging. |",
-        "FHSU mathematics faculty page: Goetz listed as instructor, M.S., FHSU, active in Algebra. ([source](https://www.fhsu.edu/macs/faculty-and-staff/))"
+        "FHSU Mathematics Faculty & Staff",
+        "FHSU mathematics faculty page: Goetz listed as instructor, M.S., FHSU, active in Algebra. (source)"
       ]
     },
     {
@@ -368,10 +334,10 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
         "Goetz was described as a former district teacher",
         "Goetz said early-release days made the transition from teaching to professional development difficult",
         "Goetz acknowledged child-care difficulty but said full in-service days are better for staff and ultimately students",
-        "On professional development calendars, she used her classroom experience to support full in-service days over early release. USD 489's reposted article says she found it hard to transition between teaching and professional development during early-release days",
-        "On calendars and professional development, Goetz's teacher experience is central. USD 489's reposted article says she found it difficult to transition between teaching and professional development on early-release days, understood family child-care challenges,",
-        "USD 489/Hays Post February 2024 calendar article: Goetz supported full Monday professional-development days over early releases. ([source](https://www.usd489.com/article/1447496))",
-        "\"The quality of instruction was not good, and the quality of the professional development was not good.\" ([USD 489, Feb. 2024](https://www.usd489.com/article/1447496))"
+        "On professional development calendars, she used her classroom experience to support full in-service days over early release. USD 489's reposted article says she found it hard to transition between teaching and professio...",
+        "On calendars and professional development, Goetz's teacher experience is central. USD 489's reposted article says she found it difficult to transition between teaching and professional development on early-release days,...",
+        "USD 489/Hays Post February 2024 calendar article: Goetz supported full Monday professional-development days over early releases. (source)",
+        "\"The quality of instruction was not good, and the quality of the professional development was not good.\" (USD 489, Feb. 2024)"
       ]
     },
     {
@@ -387,18 +353,17 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
         "Goetz emphasized transparency and clear communication",
         "Goetz said board decisions affect someone in the community",
         "Goetz supported improved bond facilities while emphasizing accountability",
-        "Goetz's public message is local, educator-centered, and mostly candidate-attributed through Hays Post and Tiger Media Network rather than through campaign social media. She presents herself as a lifelong Hays resident, USD 489 graduate, former Hays High teache",
-        "She links education quality to her own path through USD 489 and FHSU. Goetz said she and her husband were products of USD 489 and benefited from a system that emphasized relationships, rigor, and relevance. She said teaching at different levels of education sh",
-        "[HaysPost: USD 489 school board candidate Jayme Goetz](https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9)",
-        "[Hays USD 489 School Board Candidate: Jayme Goetz](https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9)",
-        "Facilities and the bond are a major part of her message, but she frames them through students, staff, and accountability. She said the bond would give staff and students improved facilities that foster growth and safety. She also said the buildings are for wha",
-        "\"Being a lifelong Hays resident\" - Hays Post candidate profile, 2023; https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9",
+        "Goetz's public message is local, educator-centered, and mostly candidate-attributed through Hays Post and Tiger Media Network rather than through campaign social media. She presents herself as a lifelong Hays resident,....",
+        "She links education quality to her own path through USD 489 and FHSU. Goetz said she and her husband were products of USD 489 and benefited from a system that emphasized relationships, rigor, and relevance. She said tea...",
+        "HaysPost: USD 489 school board candidate Jayme Goetz",
+        "Hays USD 489 School Board Candidate: Jayme Goetz",
+        "Facilities and the bond are a major part of her message, but she frames them through students, staff, and accountability. She said the bond would give staff and students improved facilities that foster growth and safety...",
+        "Being a lifelong Hays resident - Hays Post candidate profile, 2023; https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9",
         "> -- Hays Post candidate profile, 2023, https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9",
-        "\"source\": \"Hays Post candidate profile, 2023, https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9\",",
-        "Her board message is collaborative but not passive. As a candidate, she said she wanted to strengthen and unify the board, improve relations with stakeholders, and ensure a positive work environment for educators. At the same time, she said board members have",
-        "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previ",
-        "Her core candidate identity is local, parent, and teacher-centered. She described herself as a lifelong Hays resident, USD 489 graduate, former Hays High teacher, FHSU math instructor, wife, mother of two, and supporter of education. Her professional identity",
-        "Her education message emphasizes quality instruction and staff support. She says her own USD 489 experience gave her relationships, rigor, and relevance, and that teaching at multiple levels showed her how quality instruction benefits students and the communit"
+        "\"source\": \"Hays Post candidate profile, 2023, https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9\"",
+        "Her board message is collaborative but not passive. As a candidate, she said she wanted to strengthen and unify the board, improve relations with stakeholders, and ensure a positive work environment for educators. At th...",
+        "Her core candidate identity is local, parent, and teacher-centered. She described herself as a lifelong Hays resident, USD 489 graduate, former Hays High teacher, FHSU math instructor, wife, mother of two, and supporter...",
+        "Her education message emphasizes quality instruction and staff support. She says her own USD 489 experience gave her relationships, rigor, and relevance, and that teaching at multiple levels showed her how quality instr..."
       ]
     },
     {
@@ -415,15 +380,15 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
         "Goetz said the board oversees policy and day-to-day operations are left to hired professionals",
         "Goetz said bond decisions should be accountable, fiscally responsible, and for student betterment",
         "Goetz said she was self-funded",
-        "Her main self-selected improvement area is transparency. In her October 2023 Hays Post Q&A, when asked what one thing she would change about USD 489, she answered \"the transparency of the district.\" In the same campaign cycle, she said she believed in clear co",
-        "[Hays USD 489 BOE Candidate: Jayme Goetz](https://hayspost.com/posts/74087102-4ca2-4d13-89e0-5ddd64e94d6f)",
-        "\"I have greatly enjoyed getting involved in all different levels of education.\" - Hays Post candidate profile, 2023; https://hayspost.com/posts/74087102-4ca2-4d13-89e0-5ddd64e94d6f",
-        "On board role, she says day-to-day operations belong to hired professionals while policy and accountability remain board work. In the October 2023 Q&A, she said the board oversees policy and that day-to-day operations are left to professionals hired for those",
-        "Transparency and communication are the clearest self-selected improvement areas. In the Oct. 2023 Hays Post Q&A, she said the one thing she would change about USD 489 was \"the transparency of the district\" and said the current board had taken strides but she w",
-        "Her board-role message accepts administrative day-to-day control while reserving board oversight on policy and accountability. In the Oct. 2023 Q&A, she said the board oversees policy and day-to-day operations are left to hired professionals. In 2025 handbook",
-        "Hays Post October 2023 Q&A: transparency, board/administration views, board role, bond accountability, self-funding. ([source](https://hayspost.com/posts/74087102-4ca2-4d13-89e0-5ddd64e94d6f))",
-        "\"The transparency of the district.\" ([Hays Post, Oct. 28, 2023](https://hayspost.com/posts/74087102-4ca2-4d13-89e0-5ddd64e94d6f))",
-        "\"The board's role is to oversee policy in the district.\" ([Hays Post, Oct. 28, 2023](https://hayspost.com/posts/74087102-4ca2-4d13-89e0-5ddd64e94d6f))"
+        "Her main self-selected improvement area is transparency. In her October 2023 Hays Post Q&A, when asked what one thing she would change about USD 489, she answered \"the transparency of the district.\" In the same campaign...",
+        "Hays USD 489 BOE Candidate: Jayme Goetz",
+        "I have greatly enjoyed getting involved in all different levels of education. - Hays Post candidate profile, 2023; https://hayspost.com/posts/74087102-4ca2-4d13-89e0-5ddd64e94d6f",
+        "On board role, she says day-to-day operations belong to hired professionals while policy and accountability remain board work. In the October 2023 Q&A, she said the board oversees policy and that day-to-day operations a...",
+        "Transparency and communication are the clearest self-selected improvement areas. In the Oct. 2023 Hays Post Q&A, she said the one thing she would change about USD 489 was \"the transparency of the district\" and said the....",
+        "Her board-role message accepts administrative day-to-day control while reserving board oversight on policy and accountability. In the Oct. 2023 Q&A, she said the board oversees policy and day-to-day operations are left....",
+        "Hays Post October 2023 Q&A: transparency, board/administration views, board role, bond accountability, self-funding. (source)",
+        "\"The transparency of the district.\" (Hays Post, Oct. 28, 2023)",
+        "\"The board's role is to oversee policy in the district.\" (Hays Post, Oct. 28, 2023)"
       ]
     },
     {
@@ -439,10 +404,10 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
         "Goetz said students should have a say in what their school looks like",
         "Goetz said she disliked the term dysfunctional for the board",
         "Goetz said she would recuse from HVAC contract votes because her husband works for Glassman Corp.",
-        "On private bathrooms at the new Hays High, Goetz's visible position is supportive. During the October 2023 candidate forum, Hays Post reported that she favored the new bathroom design because students were avoiding bathrooms due to privacy and bullying issues.",
-        "On private bathrooms, Goetz's visible position is supportive. At the Oct. 2023 forum, she said students avoiding bathrooms because of privacy and bullying should have a say in what school looks like. In April 2024 board coverage, she questioned why bathrooms w",
-        "Hays Post October 2023 candidate forum: private bathrooms, board relations, Glassman/HVAC conflict recusal. ([source](https://hayspost.com/posts/19aa6807-369c-4e64-9c1c-8af9d88c84df))",
-        "\"These students are preparing to enter the real world.\" ([Hays Post, Oct. 18, 2023](https://hayspost.com/posts/19aa6807-369c-4e64-9c1c-8af9d88c84df))"
+        "On private bathrooms at the new Hays High, Goetz's visible position is supportive. During the October 2023 candidate forum, Hays Post reported that she favored the new bathroom design because students were avoiding bath...",
+        "On private bathrooms, Goetz's visible position is supportive. At the Oct. 2023 forum, she said students avoiding bathrooms because of privacy and bullying should have a say in what school looks like. In April 2024 board...",
+        "Hays Post October 2023 candidate forum: private bathrooms, board relations, Glassman/HVAC conflict recusal. (source)",
+        "\"These students are preparing to enter the real world.\" (Hays Post, Oct. 18, 2023)"
       ]
     },
     {
@@ -469,9 +434,9 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
         "Goetz beat incumbent Craig Pallister for the final seat",
         "Goetz said she looked forward to working with the board to make the district the best it can be",
         "The canvass board unanimously certified the election",
-        "[Final Hays USD 489 seat decided by 3 votes during canvass](https://hayspost.com/posts/c83d9d32-2242-4092-8fa5-f0a1321bb826)",
-        "\"I am really looking forward to working with the school board to make this district the best it can be.\" ([Hays Post, Nov. 14, 2023](https://hayspost.com/posts/c83d9d32-2242-4092-8fa5-f0a1321bb826))",
-        "Hays Post November 2023 canvass story: Goetz won final seat by three votes and gave brief post-election quote. ([source](https://hayspost.com/posts/c83d9d32-2242-4092-8fa5-f0a1321bb826))"
+        "Final Hays USD 489 seat decided by 3 votes during canvass",
+        "\"I am really looking forward to working with the school board to make this district the best it can be.\" (Hays Post, Nov. 14, 2023)",
+        "Hays Post November 2023 canvass story: Goetz won final seat by three votes and gave brief post-election quote. (source)"
       ]
     },
     {
@@ -487,9 +452,9 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
         "Goetz brought the mascot issue back after emails and questions",
         "Goetz referenced the Kansas Board of Education recommendation to phase out Indian mascots",
         "Goetz asked whether the board was willing to incur future costs if the recommendation became a mandate",
-        "On mascot issues, Goetz brought the Hays Middle School mascot discussion back to the board after receiving emails and having questions about keeping the middle school mascot as Falcons. Tiger Media reported that she pointed to the Kansas Board of Education rec",
-        "Tiger Media Network April 2024 bathroom and mascot article: Goetz on private bathrooms and why she put mascot discussion on agenda. ([source](https://tigermedianet.com/?p=78383))",
-        "On the Hays Middle School mascot, Goetz brought the discussion back to the board after receiving emails and questions. Tiger Media reported that she raised the Kansas Board of Education recommendation to phase out Indian mascots and asked whether the board was"
+        "On mascot issues, Goetz brought the Hays Middle School mascot discussion back to the board after receiving emails and having questions about keeping the middle school mascot as Falcons. Tiger Media reported that she poi...",
+        "Tiger Media Network April 2024 bathroom and mascot article: Goetz on private bathrooms and why she put mascot discussion on agenda. (source)",
+        "On the Hays Middle School mascot, Goetz brought the discussion back to the board after receiving emails and questions. Tiger Media reported that she raised the Kansas Board of Education recommendation to phase out India..."
       ]
     },
     {
@@ -502,7 +467,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "District-posted article preserves the mascot-discussion context",
         "Article attributes Goetz's agenda interest to constituent emails and questions",
-        "USD 489 April 2024 middle-school mascot article: district repost of mascot discussion, Goetz constituent-contact explanation. ([source](https://www.usd489.com/article/1542245))"
+        "USD 489 April 2024 middle-school mascot article: district repost of mascot discussion, Goetz constituent-contact explanation. (source)"
       ]
     },
     {
@@ -514,7 +479,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Hays Post reported Goetz supported changing the Hays Middle School mascot to Indians after reviewing survey responses",
-        "[Hays USD 489 BOE votes to change Hays Middle School mascot to Indians](https://hayspost.com/posts/5b2cf14f-06bc-4086-9693-c33581fe6a7c)"
+        "Hays USD 489 BOE votes to change Hays Middle School mascot to Indians"
       ]
     },
     {
@@ -529,10 +494,10 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
         "Goetz said students found ways around phone holders",
         "Goetz called cell phones a problem and a home problem too",
         "Goetz noted cell phones can be used positively in lessons",
-        "On cell phones, Goetz called student phone use a real problem but not only a school problem. Tiger Media reported that, as a Hays High teacher, she used classroom phone holders and still saw students work around them. She also noted that cell phones can be use",
-        "On cell phones, she treated devices as both a problem and a potential classroom tool. Tiger Media reported that she used phone holders as a Hays High teacher but students found ways around them; she called cell phones a problem, including a home problem, while",
-        "Tiger Media Network August 2024 cell phone article: Goetz on phone holders, student workarounds, home issue, and positive instructional uses. ([source](https://tigermedianet.com/?p=79974))",
-        "\"I do think it's a problem, but it's a home problem as well.\" ([Tiger Media Network, Aug. 20, 2024](https://tigermedianet.com/?p=79974))"
+        "On cell phones, Goetz called student phone use a real problem but not only a school problem. Tiger Media reported that, as a Hays High teacher, she used classroom phone holders and still saw students work around them. S...",
+        "On cell phones, she treated devices as both a problem and a potential classroom tool. Tiger Media reported that she used phone holders as a Hays High teacher but students found ways around them; she called cell phones a...",
+        "Tiger Media Network August 2024 cell phone article: Goetz on phone holders, student workarounds, home issue, and positive instructional uses. (source)",
+        "\"I do think it's a problem, but it's a home problem as well.\" (Tiger Media Network, Aug. 20, 2024)"
       ]
     },
     {
@@ -545,9 +510,9 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Goetz questioned how a 2.5 percent raise figure was calculated",
         "Article reported the flat-dollar increase affected newer and seasoned teachers differently",
-        "\"Each decision that comes through the board impacts someone in our community.\" - Hays Post candidate profile, 2023; https://hayspost.com/posts/de2764c1-3767-4d5a-8353-888aa39a31cf",
-        "On fiscal and construction process, she has mixed signals: she supports facility implementation and practical spending but asks for clarity on numbers and timing. Hays Post reported she questioned how a 2.5 percent raise was calculated because flat dollar incr",
-        "Hays Post June 2025 raises article: Goetz questioned how the 2.5 percent raise figure was calculated. ([source](https://hayspost.com/posts/de2764c1-3767-4d5a-8353-888aa39a31cf))"
+        "Each decision that comes through the board impacts someone in our community. - Hays Post candidate profile, 2023; https://hayspost.com/posts/de2764c1-3767-4d5a-8353-888aa39a31cf",
+        "On fiscal and construction process, she has mixed signals: she supports facility implementation and practical spending but asks for clarity on numbers and timing. Hays Post reported she questioned how a 2.5 percent rais...",
+        "Hays Post June 2025 raises article: Goetz questioned how the 2.5 percent raise figure was calculated. (source)"
       ]
     },
     {
@@ -562,9 +527,9 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
         "Goetz said definitions help make consequences equal for all students",
         "Goetz wanted a teacher committee to review and provide handbook recommendations",
         "Motion to approve the handbook failed 4-3",
-        "On discipline and handbooks, she has been one of the more visible voices for clearer written consequences. Tiger Media reported that she opposed the Hays High handbook when it removed operational definitions, saying those definitions help ensure consequences a",
-        "Tiger Media Network July 2025 high-school handbook article: Goetz pushed for operational definitions and teacher committee input. ([source](https://tigermedianet.com/?p=87800))",
-        "\"I'm just really frustrated by it.\" ([Tiger Media Network, July 16, 2025](https://tigermedianet.com/?p=87800))"
+        "On discipline and handbooks, she has been one of the more visible voices for clearer written consequences. Tiger Media reported that she opposed the Hays High handbook when it removed operational definitions, saying tho...",
+        "Tiger Media Network July 2025 high-school handbook article: Goetz pushed for operational definitions and teacher committee input. (source)",
+        "\"I'm just really frustrated by it.\" (Tiger Media Network, July 16, 2025)"
       ]
     },
     {
@@ -579,8 +544,8 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
         "Goetz had at least six complaints about consistency in high-school discipline",
         "Goetz said discipline language was policy",
         "Board approved the handbook after discussion",
-        "[Hays USD 489 board squabbles over discipline policy](https://hayspost.com/posts/bc933c79-2f23-4279-8171-bc6dcf391cf0)",
-        "Hays Post July 2025 high-school handbook article: Goetz requested handbook revisions over discipline consistency. ([source](https://hayspost.com/posts/bc933c79-2f23-4279-8171-bc6dcf391cf0))"
+        "Hays USD 489 board squabbles over discipline policy",
+        "Hays Post July 2025 high-school handbook article: Goetz requested handbook revisions over discipline consistency. (source)"
       ]
     },
     {
@@ -594,7 +559,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
         "The board approved exceeding the revenue-neutral rate 4-2",
         "Goetz and Allen Park voted against exceeding the revenue-neutral rate",
         "The budget itself was approved 5-1 with Park voting no",
-        "Hays Post September 2025 budget article: Goetz voted against exceeding revenue-neutral rate; budget approved 5-1. ([source](https://hayspost.com/posts/78d0c0ef-e656-4526-892f-35f245aa0336))"
+        "Hays Post September 2025 budget article: Goetz voted against exceeding revenue-neutral rate; budget approved 5-1. (source)"
       ]
     },
     {
@@ -606,8 +571,8 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Goetz said the board was not refusing approval but trying to make sure it had the right information",
-        "Tiger Media Network February 2026 Felten project article: Goetz said she wanted the right information before approval. ([source](https://tigermedianet.com/?p=94701))",
-        "\"We're not saying we're not going to approve it, we're saying we're just trying to make sure that we have the right information.\" ([Tiger Media Network, Feb. 24, 2026](https://tigermedianet.com/?p=94701))"
+        "Tiger Media Network February 2026 Felten project article: Goetz said she wanted the right information before approval. (source)",
+        "\"We're not saying we're not going to approve it, we're saying we're just trying to make sure that we have the right information.\" (Tiger Media Network, Feb. 24, 2026)"
       ]
     },
     {
@@ -619,7 +584,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Goetz said she felt bullied for wanting to step back and review the contract more closely",
-        "Hays Post February 2026 Felten article: Goetz said she felt bullied for wanting to step back and review the contract more closely. ([source](https://hayspost.com/posts/f5e69fbd-0165-4db1-b896-07613f7a31ed))"
+        "Hays Post February 2026 Felten article: Goetz said she felt bullied for wanting to step back and review the contract more closely. (source)"
       ]
     },
     {
@@ -658,10 +623,8 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Existing public harvest found professional/profile metadata for Jayme Goetz in Hays with Fort Hays State University",
         "Public preview did not expose a reliable campaign-post inventory",
-        "The accessible social footprint is thin. A LinkedIn public preview identifies Jayme Goetz in Hays with Fort Hays State University and 167 followers/connections, but it does not expose a reliable school-board campaign post inventory. No verified campaign websit",
-        "| LinkedIn | https://www.linkedin.com/in/jayme-goetz | FOUND, LIMITED | Public preview identifies Jayme Goetz in Hays with Fort Hays State University, 167 followers/connections, and limited About/Experience/Education snippets. Not treated as campaign messaging",
-        "\"url\": \"https://www.linkedin.com/in/jayme-goetz\",",
-        "LinkedIn public preview: Hays, Kansas; Fort Hays State University; limited profile metadata; 167 followers/connections. ([source](https://www.linkedin.com/in/jayme-goetz))"
+        "The accessible social footprint is thin. A LinkedIn public preview identifies Jayme Goetz in Hays with Fort Hays State University and 167 followers/connections, but it does not expose a reliable school-board campaign po...",
+        "LinkedIn public preview: Hays, Kansas; Fort Hays State University; limited profile metadata; 167 followers/connections. (source)"
       ]
     },
     {
@@ -672,8 +635,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "publisher": "Usd489.Community.Highbond",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "| USD 489 meeting portal | https://usd489.community.highbond.com/Portal/MeetingTypeList.aspx | FOUND | Public meeting portal lists regular, work-study, retreat, and special board meetings. Individual meeting pages list Goetz among members for 2025-2026 meeting",
-        "USD 489 meeting portal and meeting pages: public meeting categories, regular meeting lists, and Goetz listed among members for 2025-2026 meetings. ([source](https://usd489.community.highbond.com/Portal/MeetingTypeList.aspx), [source](https://usd489.community.h"
+        "USD 489 meeting portal and meeting pages: public meeting categories, regular meeting lists, and Goetz listed among members for 2025-2026 meetings. (source, [source](https://usd489.community.h"
       ]
     },
     {
@@ -684,7 +646,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "publisher": "Usd489",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "USD 489/Hays Post February 2024 administrator contract article: Goetz supported district administrators. ([source](https://www.usd489.com/article/1425433))"
+        "USD 489/Hays Post February 2024 administrator contract article: Goetz supported district administrators. (source)"
       ]
     },
     {
@@ -695,8 +657,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "publisher": "Ballotpedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Jayme Goetz -- Ballotpedia](https://ballotpedia.org/Jayme_Goetz_(Hays_Unified_School_District_489,_At-large,_Kansas,_candidate_2023))",
-        "| Ballotpedia | https://ballotpedia.org/Jayme_Goetz_(Hays_Unified_School_District_489,_At-large,_Kansas,_candidate_2023) | FOUND, LIMITED | Public candidate shell exists in source memory; no substantive platform text was located in the visible capture. |"
+        "Jayme Goetz -- Ballotpedia)"
       ]
     },
     {
@@ -707,7 +668,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Hays Post October 2025 furniture article: Goetz explained why Lincoln cabinets would not fit at Hays Middle School. ([source](https://hayspost.com/posts/42a7f866-c127-423f-80ac-8b3e620f80f4))"
+        "Hays Post October 2025 furniture article: Goetz explained why Lincoln cabinets would not fit at Hays Middle School. (source)"
       ]
     },
     {
@@ -718,7 +679,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "The highest visible public attention metric was electoral rather than social: Hays Post reported Goetz won the final USD 489 seat by three votes after the November 2023 canvass, after an initial 1,486-1,486 tie with Craig Pallister. ([Hays Post tie story](http"
+        "The highest visible public attention metric was electoral rather than social: Hays Post reported Goetz won the final USD 489 seat by three votes after the November 2023 canvass, after an initial 1,486-1,486 tie with Cra..."
       ]
     },
     {
@@ -729,7 +690,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Hays Post December 2025 asbestos article: Goetz noted construction labor shortages and liability concerns around asbestos removal. ([source](https://hayspost.com/posts/965dbfb4-fc96-4377-b6f3-7f5050176e21))"
+        "Hays Post December 2025 asbestos article: Goetz noted construction labor shortages and liability concerns around asbestos removal. (source)"
       ]
     },
     {
@@ -740,7 +701,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Hays Post June 2025 board elections/equipment article: Goetz said she would serve another term as vice president if elected; article reported she was then vice president. ([source](https://hayspost.com/posts/17bd928c-22c6-4be8-980e-34e878be6c58))"
+        "Hays Post June 2025 board elections/equipment article: Goetz said she would serve another term as vice president if elected; article reported she was then vice president. (source)"
       ]
     },
     {
@@ -751,7 +712,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "publisher": "Hayshighguidon",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Hays High Guidon NHS article: Goetz gave a speech at the 2024 Hays High National Honor Society induction. ([source](https://hayshighguidon.com/top-stories/2024/11/22/national-honors-society-induction-introduces-new-members/))"
+        "Hays High Guidon NHS article: Goetz gave a speech at the 2024 Hays High National Honor Society induction. (source)"
       ]
     },
     {
@@ -762,7 +723,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "publisher": "Hayshighguidon",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Hays High Guidon Red Cross Club article: Goetz identified as Red Cross Club sponsor in 2020. ([source](https://hayshighguidon.com/uncategorized/2020/03/10/red-cross-club-hosts-annual-spring-blood-drive/))"
+        "Hays High Guidon Red Cross Club article: Goetz identified as Red Cross Club sponsor in 2020. (source)"
       ]
     }
   ]

@@ -381,7 +381,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
 
           <DossierSection
             title={profileStatus.recordLabel}
-            kicker="Statements checked against actions"
+            kicker="Actions and source trail"
             icon={<ListChecks size={20} />}
           >
             <div className="grid gap-4 md:grid-cols-3">
@@ -402,7 +402,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
                   Source rule
                 </p>
                 <p className="mt-1 font-body text-sm leading-relaxed" style={{ color: "var(--color-charcoal)" }}>
-                  Official records are preferred. News-reported votes and public statements are labeled as reported or secondary-backed actions; social-only material stays observational.
+                  Official records are prioritized. News reports and candidate statements are labeled by source type; social/online observations are shown separately and are not treated as official actions.
                 </p>
               </div>
             </div>
@@ -445,7 +445,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
           {(candidate.socialResearchNote || candidate.ownWordsNarrative || socialSignals.length > 0) && (
             <DossierSection
               title="Relevant Social / Online Signals"
-              kicker="Relevant social activity"
+              kicker="Public observations"
               icon={<MessageSquare size={20} />}
             >
               {candidate.socialResearchNote && (
@@ -473,7 +473,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
                 </ul>
               ) : (
                 <p className="mt-3 font-body text-sm italic" style={{ color: "var(--color-slate)" }}>
-                  No issue-relevant follows, likes, comments, reposts, or candidate-controlled posts were rendered as evidence on this pass.
+                  No issue-relevant follows, likes, comments, reposts, or candidate-controlled posts are listed as source-backed observations.
                 </p>
               )}
             </DossierSection>

@@ -19,7 +19,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: The core phrase in Park's campaign record is \"kids and families first.\" He used that framing in 2019 when he told KLC Journal he wanted to be part of a school-board team with that priority, and he returned to it in 2023 when he said he would use it as a reference point for decisions. His related test for school decisions was whether they are best for kids. Source Source Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The core phrase in Park's campaign record is \"kids and families first.\" He used that framing in 2019 when he told KLC Journal he wanted to be part of a school-board team with that priority, and he returned to it in 2023 when he said he would use it as a reference point for decisions. His related test for school decisions was whether they are best for kids. Source Source Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "klc-2019-survey",
           "src-allen-park-0023",
@@ -96,7 +96,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -106,7 +106,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public evidence: Park also presents fiscal responsibility as a board duty tied to student outcomes. In 2023, he said he would keep asking budget questions and connect spending decisions to academic achievement. He also said he would look for local purchasing, appropriate cuts, grant writing, community partnerships, and efficient use of district facilities. In 2019, his published goals included fiscal soundness, safe facilities, loca... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Park also presents fiscal responsibility as a board duty tied to student outcomes. In 2023, he said he would keep asking budget questions and connect spending decisions to academic achievement. He also said he would look for local purchasing, appropriate cuts, grant writing, community partnerships, and efficient use of district facilities. In 2019, his published goals included fiscal soundness, safe facilities, loca... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "hayspost-2023-profile"
         ]
@@ -127,7 +127,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -137,7 +137,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -147,7 +147,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -157,7 +157,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -167,7 +167,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: His campaign-finance answer was limited and local. In 2023, he said he had not received money from outside the school district, that the few donations he received came from family, friends, and community members who care about kids and education in Hays, and that additional expenses were paid personally. Source Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: His campaign-finance answer was limited and local. In 2023, he said he had not received money from outside the school district, that the few donations he received came from family, friends, and community members who care about kids and education in Hays, and that additional expenses were paid personally. Source Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "hayspost-2023-qa",
           "klc-2019-survey",
@@ -216,7 +216,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Hays USD 489 board votes not to add another manager for bond work Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Hays USD 489 board votes not to add another manager for bond work Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "hayspost-project-manager-2025",
           "hayspost-asbestos-2025"
@@ -246,7 +246,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Reviewed evidence: His facilities comments often combine support for school investment with questions about process and cost. In USD 489's 2022 bond article, Park asked how much a special election would cost, raised concerns about replacing a two-section elementary school with a four-section school, asked about school choice under realignment, and asked about using local contractors. In 2025 property-sale coverage, he asked why the di... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Public evidence: His facilities comments often combine support for school investment with questions about process and cost. In USD 489's 2022 bond article, Park asked how much a special election would cost, raised concerns about replacing a two-section elementary school with a four-section school, asked about school choice under realignment, and asked about using local contractors. In 2025 property-sale coverage, he asked why the di... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "usd489-bond-article-2022"
         ]
@@ -258,7 +258,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: The core phrase in Park's campaign record is \"kids and families first.\" He used that framing in 2019 when he told KLC Journal he wanted to be part of a school-board team with that priority, and he returned to it in 2023 when he said he would use it as a reference point for decisions. His related test for school decisions was whether they are best for kids. Source Source Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The core phrase in Park's campaign record is \"kids and families first.\" He used that framing in 2019 when he told KLC Journal he wanted to be part of a school-board team with that priority, and he returned to it in 2023 when he said he would use it as a reference point for decisions. His related test for school decisions was whether they are best for kids. Source Source Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "klc-2019-survey",
           "src-allen-park-0023",
@@ -322,16 +322,16 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Allen Park is profiled here for USD 489 Board of Education member as a nonpartisan incumbent/current official. His campaign-finance answer was limited and local. In 2023, he said he had not received money from outside the school district, that the few donations he received came from family, friends, and community members who care about kids and education in Hays, and... Ellis County Election Results page: https://www.ellisco.net/435/Election-Results. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 18 source-backed actions across 5 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: The core phrase in Park's campaign record is \"kids and families first.\" He used that framing in 2019 when he told KLC Journal he wanted to be part of a school-board team with that priority, and he returned... Education / curriculum / schools: Park's most consistent theme is trust through communication. In 2019, he said USD 489 needed to reconnect with the Hays community by rebuilding trust, encouraging involvement, increasing communication, and... Education / curriculum / schools: Facilities and bond oversight are another major throughline. Before joining the board, Park said he had supported prior bond issues and wanted community, teacher, and staff input in planning. After the $14... Education / curriculum / schools: Park also presents fiscal responsibility as a board duty tied to student outcomes. In 2023, he said he would keep asking budget questions and connect spending decisions to academic achievement. He also sai... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "whereTheyWorship": "Christian Post: Caleb Schwab attended church with family hours before death. I did not find a reliable public source that identifies Allen Park's church home or denomination. Because the public record is thin here, I am not assigning a church without evidence. I did not find a reliable public source that identifies Park's church home or denomination. I am not assigning a church without evidence. This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "whoTheyAre": "Allen Park is profiled here for USD 489 Board of Education member as a nonpartisan incumbent/current official. His campaign-finance answer was limited and local. In 2023, he said he had not received money from outside the school district, that the few donations he received came from family, friends, and community members who care about kids and education in Hays, and... Ellis County Election Results page: https://www.ellisco.net/435/Election-Results. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 18 source-backed items across 5 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: The core phrase in Park's campaign record is \"kids and families first.\" He used that framing in 2019 when he told KLC Journal he wanted to be part of a school-board team with that priority, and he returned... Education / curriculum / schools: Park's most consistent theme is trust through communication. In 2019, he said USD 489 needed to reconnect with the Hays community by rebuilding trust, encouraging involvement, increasing communication, and... Education / curriculum / schools: Facilities and bond oversight are another major throughline. Before joining the board, Park said he had supported prior bond issues and wanted community, teacher, and staff input in planning. After the $14... Education / curriculum / schools: Park also presents fiscal responsibility as a board duty tied to student outcomes. In 2023, he said he would keep asking budget questions and connect spending decisions to academic achievement. He also sai... Social-only material is listed separately as online observation, not official action.",
+  "whereTheyWorship": "Christian Post: Caleb Schwab attended church with family hours before death. The reviewed public record did not identify a reliable public source that identifies Allen Park's church home or denomination. Because the public record is thin here, No church affiliation is assigned without evidence. The reviewed public record did not identify a reliable public source that identifies Park's church home or denomination. No church affiliation is assigned without evidence. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "No donor-by-donor report or PAC ledger was found for Park. The only located candidate-specific funding statement is from his 2023 Hays Post Q&A.",
     "narrative": "No donor-by-donor report or PAC ledger was found for Park. The only located candidate-specific funding statement is from his 2023 Hays Post Q&A.",
@@ -339,7 +339,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Hays USD 489 school board candidate: Allen Park"
   },
-  "socialResearchNote": "The social harvest contains 122 observed items, but none were rendered as public source-backed issue signals in this pass. Social evidence remains a signal layer only, not proof of belief.",
+  "socialResearchNote": "The social review found 122 public observations, but none were tied closely enough to a specific issue to show as an issue signal. Social evidence remains a signal layer only, not proof of belief.",
   "sources": [
     {
       "id": "usd489-diligent-members",
@@ -353,9 +353,8 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
         "Current board roster includes Park.",
         "Term field is blank.",
         "Hays School District USD 489 Diligent Community member portal: https://usd489.community.highbond.com/portal/members.aspx?id=18",
-        "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infras",
-        "[usd489.community.highbond.com](https://usd489.community.highbond.com/portal/members.aspx?id=18)",
-        "\"campaignWebsite\": \"https://usd489.community.highbond.com/portal/members.aspx?id=18\","
+        "usd489.community.highbond.com",
+        "\"campaignWebsite\": \"https://usd489.community.highbond.com/portal/members.aspx?id=18\""
       ]
     },
     {
@@ -367,10 +366,8 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Park asked about special-election cost, elementary configuration, school choice, and local contractors.",
-        "His facilities comments often combine support for school investment with questions about process and cost. In USD 489's 2022 bond article, Park asked how much a special election would cost, raised concerns about replacing a two-section elementary school with a",
-        "USD 489 official article, \"School Board Sends 143.5M Bond to Voters\": https://www.usd489.com/article/651221",
-        "| USD 489 official article archive | [2022 bond article](https://www.usd489.com/article/651221), [2024 calendar article](https://www.usd489.com/article/1447496), [2021 vacancy article](https://www.usd489.com/article/549482) | Official district reposts/archives",
-        "| 2022-02-08 | [USD 489 bond article](https://www.usd489.com/article/651221) | $143.5 million bond | Asked how much a special election would cost; raised concerns about closing a two-section elementary school and opening a four-section school; asked about scho"
+        "His facilities comments often combine support for school investment with questions about process and cost. In USD 489's 2022 bond article, Park asked how much a special election would cost, raised concerns about replaci...",
+        "USD 489 official article, \"School Board Sends 143.5M Bond to Voters\": https://www.usd489.com/article/651221"
       ]
     },
     {
@@ -395,10 +392,9 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Park's 2019 school-board survey statements on kids/families first, trust, involvement, communication, and open culture.",
-        "The core phrase in Park's campaign record is \"kids and families first.\" He used that framing in 2019 when he told KLC Journal he wanted to be part of a school-board team with that priority, and he returned to it in 2023 when he said he would use it as a refere",
-        "Park's most consistent theme is trust through communication. In 2019, he said USD 489 needed to reconnect with the Hays community by rebuilding trust, encouraging involvement, increasing communication, and genuinely listening. In his 2023 Q&A, he again identif",
-        "KLC Journal 2019 candidate survey: https://klcjournal.com/local2019hays/",
-        "| Local candidate questionnaires | [KLC Journal 2019 survey](https://klcjournal.com/local2019hays/), [Hays Post July 2023 profile](https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7), [Hays Post Oct. 2023 Q&A](https://hayspost.com/posts/7acb9e0e-4"
+        "The core phrase in Park's campaign record is \"kids and families first.\" He used that framing in 2019 when he told KLC Journal he wanted to be part of a school-board team with that priority, and he returned to it in 2023...",
+        "Park's most consistent theme is trust through communication. In 2019, he said USD 489 needed to reconnect with the Hays community by rebuilding trust, encouraging involvement, increasing communication, and genuinely lis...",
+        "KLC Journal 2019 candidate survey: https://klcjournal.com/local2019hays/"
       ]
     },
     {
@@ -410,12 +406,9 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Park's biography, occupation, education, family, and 2023 campaign priorities.",
-        "Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators,",
-        "Park also presents fiscal responsibility as a board duty tied to student outcomes. In 2023, he said he would keep asking budget questions and connect spending decisions to academic achievement. He also said he would look for local purchasing, appropriate cuts,",
-        "\"I have worked in education for over 35 years.\" - Hays Post candidate profile, 2023; https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7",
-        "Hays Post 2023 candidate profile: https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7",
-        "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controll",
-        "[hayspost.com](https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7)"
+        "Park also presents fiscal responsibility as a board duty tied to student outcomes. In 2023, he said he would keep asking budget questions and connect spending decisions to academic achievement. He also said he would loo...",
+        "I have worked in education for over 35 years. - Hays Post candidate profile, 2023; https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7",
+        "Hays Post 2023 candidate profile: https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7"
       ]
     },
     {
@@ -427,14 +420,14 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Park's communication/transparency, board-role, bond-oversight, and campaign-finance statements.",
-        "His campaign-finance answer was limited and local. In 2023, he said he had not received money from outside the school district, that the few donations he received came from family, friends, and community members who care about kids and education in Hays, and t",
-        "[HaysPost: USD 489 school board candidate Allen Park](https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922)",
-        "[Hays USD 489 School Board Candidate: Allen Park](https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922)",
-        "\"With the recently passed bond, the facilities are being replaced and repaired.\" - Hays Post candidate profile, 2023; https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922",
-        "On board role and administration, Park's stated position is policy governance rather than day-to-day management. In the 2023 Q&A, he said the board writes policy, should make sure policy follows state law, and should clearly communicate expectations, but daily",
+        "His campaign-finance answer was limited and local. In 2023, he said he had not received money from outside the school district, that the few donations he received came from family, friends, and community members who car...",
+        "HaysPost: USD 489 school board candidate Allen Park",
+        "Hays USD 489 School Board Candidate: Allen Park",
+        "With the recently passed bond, the facilities are being replaced and repaired. - Hays Post candidate profile, 2023; https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922",
+        "On board role and administration, Park's stated position is policy governance rather than day-to-day management. In the 2023 Q&A, he said the board writes policy, should make sure policy follows state law, and should cl...",
         "Hays Post 2023 Q&A: https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922",
         "> -- Hays Post, October 25, 2023, https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922",
-        "\"source\": \"Hays Post, October 25, 2023, https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922\","
+        "\"source\": \"Hays Post, October 25, 2023, https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922\""
       ]
     },
     {
@@ -458,8 +451,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Park challenged board-minute detail; counsel disagreed that Kansas law required it.",
-        "Great Bend Post / Hays Post meeting-minutes coverage: https://greatbendpost.com/posts/11e68e53-1cdc-4676-afb0-aef5b6ee450e",
-        "| 2023-02-21 | [Great Bend Post / Hays Post](https://greatbendpost.com/posts/11e68e53-1cdc-4676-afb0-aef5b6ee450e) | Board minutes | Alleged board minutes were not including all required information and argued that his reasons for no votes should appear in min"
+        "Great Bend Post / Hays Post meeting-minutes coverage: https://greatbendpost.com/posts/11e68e53-1cdc-4676-afb0-aef5b6ee450e"
       ]
     },
     {
@@ -471,7 +463,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Park voted against personnel transactions involving superintendent's wife and asked for policy review.",
-        "[Hays USD 489 BOE debates nepotism again](https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8)",
+        "Hays USD 489 BOE debates nepotism again",
         "Hays Post nepotism coverage: https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8"
       ]
     },
@@ -484,8 +476,8 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Park voted no on administrator contract extensions and said process was too fast.",
-        "[Hays USD 489 district administrators' contracts extended another year](https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf)",
-        "\"source\": \"Hays Post candidate profile, 2021, https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf\",",
+        "Hays USD 489 district administrators' contracts extended another year",
+        "\"source\": \"Hays Post candidate profile, 2021, https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf\"",
         "Hays Post administrator-contract coverage: https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf"
       ]
     },
@@ -498,9 +490,9 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Park supported exploring additional project manager; motion failed 3-4.",
-        "[Hays USD 489 board votes not to add another manager for bond work](https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126)",
+        "Hays USD 489 board votes not to add another manager for bond work",
         "Hays Post bond project manager coverage: https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126",
-        "\"source\": \"Hays Post, 2025, https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126\","
+        "\"source\": \"Hays Post, 2025, https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126\""
       ]
     },
     {
@@ -512,8 +504,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Park voted no on asbestos-removal contract and high-school change order; stated process/safety distinction.",
-        "[Board member calls out fellow member after repeated no votes](https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17)",
-        "| 2025-09-23 | [Hays Post](https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17) | Asbestos removal and change-order process | Said his no vote was about process, not opposition to safety; said he was \"No. 1 on safety.\" Also voted against an $88,347",
+        "Board member calls out fellow member after repeated no votes",
         "Hays Post asbestos/change-order coverage: https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17"
       ]
     },
@@ -526,7 +517,6 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Park asked for appraisal and questioned water-rights value before property sale.",
-        "| 2025-11-11 | [Tiger Media Network](https://tigermedianet.com/?p=92038) | Property sale north of Hays Middle School | Asked why the board was rushing the sale, wanted an appraisal completed, and asked what water rights were worth. |",
         "Tiger Media Network property-sale coverage: https://tigermedianet.com/?p=92038"
       ]
     },
@@ -538,7 +528,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "publisher": "Archive.Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Facilities and bond oversight are another major throughline. Before joining the board, Park said he had supported prior bond issues and wanted community, teacher, and staff input in planning. After the $143.5 million bond passed, he framed the work as unfinish"
+        "Facilities and bond oversight are another major throughline. Before joining the board, Park said he had supported prior bond issues and wanted community, teacher, and staff input in planning. After the $143.5 million bo..."
       ]
     },
     {
@@ -549,7 +539,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "publisher": "Archive.Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Park announces retirement after 30 years with USD 489 (Archive)](https://archive.hayspost.com/2015/05/19/park-announces-retirement-after-30-years-with-usd-489/)"
+        "Park announces retirement after 30 years with USD 489 (Archive)"
       ]
     },
     {

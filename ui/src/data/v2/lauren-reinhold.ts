@@ -23,7 +23,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -33,7 +33,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -54,7 +54,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-oberlin"
         ]
@@ -86,7 +86,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -96,7 +96,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -106,7 +106,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-oberlin"
         ]
@@ -148,7 +148,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -158,7 +158,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-oberlin"
         ]
@@ -190,7 +190,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-oberlin"
         ]
@@ -222,7 +222,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-oberlin"
         ]
@@ -264,7 +264,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Salina Post - \"Reinhold, 1st Congressional District candidate to speak in Salina\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Salina Post - \"Reinhold, 1st Congressional District candidate to speak in Salina\" Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-lauren-reinhold-0055"
         ]
@@ -285,7 +285,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-oberlin"
         ]
@@ -327,7 +327,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-oberlin"
         ]
@@ -379,25 +379,25 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Lauren Reinhold is profiled here for U.S. House candidate, KS-01 as a Democratic. | s-campaign-home | primary | https://www.laurenforkansas.com/ | accessed 2026-05-19 | Campaign homepage, social links, district travel, issue index, paid-for footer | biography, campaign themes |. | s-campaign-priorities | primary | https://www.laurenforkansas.com/priorities | accessed 2026-05-19 | Priorities: rural healthcare, agriculture, worker rights, government integrity, immigration, Social Security | issue platform |. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 8 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview... Economy / jobs / labor: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said... Immigration / border: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said,... Health care / insurance / Medicaid: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald intervi... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whoTheyAre": "Lauren Reinhold is profiled here for U.S. House candidate, KS-01 as a Democratic. | s-campaign-home | primary | https://www.laurenforkansas.com/ | accessed 2026-05-19 | Campaign homepage, social links, district travel, issue index, paid-for footer | biography, campaign themes |. | s-campaign-priorities | primary | https://www.laurenforkansas.com/priorities | accessed 2026-05-19 | Priorities: rural healthcare, agriculture, worker rights, government integrity, immigration, Social Security | issue platform |. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 8 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview... Economy / jobs / labor: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said... Immigration / border: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said,... Health care / insurance / Medicaid: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald intervi... Social-only material is listed separately as online observation, not official action.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Some records describe Reinhold as Christian, but no congregation or church website was documented in the accessible material.",
   "campaignFinance": {
-    "totalRaised": "Not itemized in rendered profile",
-    "narrative": "| s-fec-candidate | primary | https://www.fec.gov/data/candidate/H6KS01203/?cycle=2026 | accessed 2026-05-19 | FEC candidate ID, House KS-01, party, challenger status, Statement of Candidacy filed 2026-01-05, Q1 2026 financial summary | status, campaign finan... | s-fec-committee | primary | https://www.fec.gov/data/committee/C00932855/?cycle=2026 | accessed 2026-05-19 | Active quarterly House principal committee, committee ID, treasurer Tim Metz, registration date, address, authorizing candidate, Q1 totals | status,... | s-fec-form-2 | primary | https://docquery.fec.gov/pdf/673/202601059793904673/202601059793904673.pdf | filed 2026-01-05; accessed 2026-05-19 | Statement of Candidacy naming House KS-01, Democratic Party, 2026 election, and principal committee | official fili... | s-fec-form-1 | primary | https://docquery.fec.gov/pdf/794/202601089793921794/202601089793921794.pdf | filed 2026-01-08; accessed 2026-05-19 | Statement of Organization, committee address, website, treasurer, assistant treasurer, principal committee designat... Finance figures are shown only when the reporting period/source was preserved in the evidence matrix; otherwise this remains a research caveat.",
+    "totalRaised": "Not itemized in reviewed public records",
+    "narrative": "| s-fec-candidate | primary | https://www.fec.gov/data/candidate/H6KS01203/?cycle=2026 | accessed 2026-05-19 | FEC candidate ID, House KS-01, party, challenger status, Statement of Candidacy filed 2026-01-05, Q1 2026 financial summary | status, campaign finan... | s-fec-committee | primary | https://www.fec.gov/data/committee/C00932855/?cycle=2026 | accessed 2026-05-19 | Active quarterly House principal committee, committee ID, treasurer Tim Metz, registration date, address, authorizing candidate, Q1 totals | status,... | s-fec-form-2 | primary | https://docquery.fec.gov/pdf/673/202601059793904673/202601059793904673.pdf | filed 2026-01-05; accessed 2026-05-19 | Statement of Candidacy naming House KS-01, Democratic Party, 2026 election, and principal committee | official fili... | s-fec-form-1 | primary | https://docquery.fec.gov/pdf/794/202601089793921794/202601089793921794.pdf | filed 2026-01-08; accessed 2026-05-19 | Statement of Organization, committee address, website, treasurer, assistant treasurer, principal committee designat... Finance figures are shown only when the reporting period/source is available; otherwise this remains a research caveat.",
     "donors": [],
-    "undisclosed": "No donor-by-donor list is rendered unless the donor name, amount, and reporting source were all separated cleanly.",
-    "reportingPeriod": "Current public filings/evidence matrix reviewed 2026-05-20",
+    "undisclosed": "No donor-by-donor list is shown unless the donor name, amount, and reporting source were all identified clearly.",
+    "reportingPeriod": "Reviewed public filings as of 2026-05-20",
     "source": "Docquery.Fec (https://docquery.fec.gov/pdf/673/202601059793904673/202601059793904673.pdf)"
   },
-  "socialResearchNote": "13 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "13 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-fec-candidate",
@@ -410,8 +410,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
         "Reinhold is listed as a Democratic candidate for U.S. House Kansas District 1, candidate ID H6KS01203.",
         "FEC lists the candidate as a challenger.",
         "Statement of Candidacy was filed January 5, 2026.",
-        "Coverage through March 31, 2026 shows $23,710.00 receipts, $14,951.92 disbursements, and $8,758.08 ending cash on hand.",
-        "| s-fec-candidate | primary | https://www.fec.gov/data/candidate/H6KS01203/?cycle=2026 | accessed 2026-05-19 | FEC candidate ID, House KS-01, party, challenger status, Statement of Candidacy filed 2026-01-05, Q1 2026 financial summary | status, campaign financ"
+        "Coverage through March 31, 2026 shows $23,710.00 receipts, $14,951.92 disbursements, and $8,758.08 ending cash on hand."
       ]
     },
     {
@@ -426,8 +425,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
         "Committee ID is C00932855.",
         "Registration date is January 5, 2026.",
         "Treasurer is Tim Metz.",
-        "Committee had $23,710.00 total receipts and $8,758.08 ending cash on hand through March 31, 2026.",
-        "| s-fec-committee | primary | https://www.fec.gov/data/committee/C00932855/?cycle=2026 | accessed 2026-05-19 | Active quarterly House principal committee, committee ID, treasurer Tim Metz, registration date, address, authorizing candidate, Q1 totals | status,"
+        "Committee had $23,710.00 total receipts and $8,758.08 ending cash on hand through March 31, 2026."
       ]
     },
     {
@@ -439,9 +437,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Form 2 names Lauren Reinhold as a Democratic House candidate in Kansas District 01 for the 2026 election.",
-        "Form 2 designates Lauren Reinhold for Kansas as principal campaign committee.",
-        "| s-fec-form-2 | primary | https://docquery.fec.gov/pdf/673/202601059793904673/202601059793904673.pdf | filed 2026-01-05; accessed 2026-05-19 | Statement of Candidacy naming House KS-01, Democratic Party, 2026 election, and principal committee | official filin",
-        "\"url\": \"https://docquery.fec.gov/pdf/673/202601059793904673/202601059793904673.pdf\","
+        "Form 2 designates Lauren Reinhold for Kansas as principal campaign committee."
       ]
     },
     {
@@ -453,8 +449,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Form 1 lists Lauren Reinhold for Kansas as principal campaign committee.",
-        "Form 1 lists committee address, website, treasurer Tim Metz, and candidate Lauren Reinhold.",
-        "| s-fec-form-1 | primary | https://docquery.fec.gov/pdf/794/202601089793921794/202601089793921794.pdf | filed 2026-01-08; accessed 2026-05-19 | Statement of Organization, committee address, website, treasurer, assistant treasurer, principal committee designati"
+        "Form 1 lists committee address, website, treasurer Tim Metz, and candidate Lauren Reinhold."
       ]
     },
     {
@@ -469,18 +464,17 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
         "Homepage frames the campaign around rural economic recovery, working families, and corporate donors.",
         "Homepage lists rural healthcare, agriculture, worker rights, government integrity, immigration, and Social Security priorities.",
         "Homepage says Reinhold traveled to Hays, Dodge City, Salina, Hutchinson, and rural towns before announcing.",
-        "| s-campaign-home | primary | https://www.laurenforkansas.com/ | accessed 2026-05-19 | Campaign homepage, social links, district travel, issue index, paid-for footer | biography, campaign themes |",
-        "\"I was a proud public servant.\" - campaign announcement, https://www.laurenforkansas.com/ (DOGE origin story)",
-        "\"If anyone in Washington wants to push policies that hurt our farmers, our hospitals, our workers, or our towns, they'll have to go through me first.\" - campaign site, https://www.laurenforkansas.com/ (district defense)",
-        "\"Politics shouldn't be something done to people.\" - campaign material, https://www.laurenforkansas.com/ (representative government)",
-        "\"I was a proud public servant.\" - campaign launch framing, https://www.laurenforkansas.com/",
-        "\"Politics shouldn't be something done to people.\" - campaign material, https://www.laurenforkansas.com/",
+        "I was a proud public servant. - campaign announcement, https://www.laurenforkansas.com/ (DOGE origin story)",
+        "If anyone in Washington wants to push policies that hurt our farmers, our hospitals, our workers, or our towns, they'll have to go through me first. - campaign site, https://www.laurenforkansas.com/ (district defense)",
+        "Politics shouldn't be something done to people. - campaign material, https://www.laurenforkansas.com/ (representative government)",
+        "I was a proud public servant. - campaign launch framing, https://www.laurenforkansas.com/",
+        "Politics shouldn't be something done to people. - campaign material, https://www.laurenforkansas.com/",
         "> -- Campaign announcement cited in research materials, accessed April 1, 2026, https://www.laurenforkansas.com/",
-        "\"source\": \"Campaign announcement cited in research materials, accessed April 1, 2026, https://www.laurenforkansas.com/\",",
-        "Official campaign website source for platform links: [laurenforkansas.com](https://www.laurenforkansas.com/) links X, LinkedIn, TikTok, Facebook, Instagram, and Bluesky.",
-        "[laurenforkansas.com](https://www.laurenforkansas.com/)",
-        "\"campaignWebsite\": \"https://www.laurenforkansas.com/\",",
-        "Campaign website: https://www.laurenforkansas.com/ is active and links X, LinkedIn, TikTok, Facebook, Instagram, Bluesky, ActBlue donation, merchandise, events, news, and voter-info pages. Footer identifies the committee as \"Lauren Reinhold for Kansas\" with a"
+        "\"source\": \"Campaign announcement cited in research materials, accessed April 1, 2026, https://www.laurenforkansas.com/\"",
+        "Official campaign website source for platform links: laurenforkansas.com links X, LinkedIn, TikTok, Facebook, Instagram, and Bluesky.",
+        "laurenforkansas.com",
+        "\"campaignWebsite\": \"https://www.laurenforkansas.com/\"",
+        "Campaign website: https://www.laurenforkansas.com/ is active and links X, LinkedIn, TikTok, Facebook, Instagram, Bluesky, ActBlue donation, merchandise, events, news, and voter-info pages. Footer identifies the committe..."
       ]
     },
     {
@@ -495,8 +489,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
         "Campaign biography says she was an Attorney Advisor at the Social Security Administration.",
         "Campaign biography says she served as a federal union officer.",
         "Campaign biography says she served as an investigator and election officer for the National Labor Relations Board.",
-        "Campaign biography says she represented low-income Kansans and practiced immigration law.",
-        "| s-campaign-about | primary | https://www.laurenforkansas.com/about | accessed 2026-05-19 | Candidate-controlled biography, federal service, SSA role, NLRB work, union role, legal background, family raised in Lawrence | biography, labor, federal services |"
+        "Campaign biography says she represented low-income Kansans and practiced immigration law."
       ]
     },
     {
@@ -508,8 +501,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Priorities page lists rural healthcare, agriculture, worker rights, government integrity, worker-first immigration reform, and Social Security.",
-        "Immigration plank supports border security, fair path to citizenship, fixing backlogged courts, stabilizing agricultural workforce, humane enforcement, and family dignity.",
-        "| s-campaign-priorities | primary | https://www.laurenforkansas.com/priorities | accessed 2026-05-19 | Priorities: rural healthcare, agriculture, worker rights, government integrity, immigration, Social Security | issue platform |"
+        "Immigration plank supports border security, fair path to citizenship, fixing backlogged courts, stabilizing agricultural workforce, humane enforcement, and family dignity."
       ]
     },
     {
@@ -522,8 +514,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Road to Prosperity page lays out the American Middle-Class Prosperity Tax Plan.",
         "Page proposes Social Security tax changes for high-earning households and a $200 monthly benefit increase.",
-        "Page proposes rural economic policies on small farms, broadband, clean energy, rural healthcare global budgeting, and federal rural grants.",
-        "| s-campaign-prosperity | primary | https://www.laurenforkansas.com/prosperity | accessed 2026-05-19 | Middle-class tax plan, Social Security plan, rural economic plan, broadband, rural healthcare, grants | economy, Social Security, agriculture, healthcare |"
+        "Page proposes rural economic policies on small farms, broadband, clean energy, rural healthcare global budgeting, and federal rural grants."
       ]
     },
     {
@@ -534,8 +525,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "publisher": "Lauren Reinhold for Kansas campaign",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Voter-info page describes KS-01 district geography and mentions agriculture, energy, manufacturing, transportation, rural hospitals, farms, infrastructure, roads, broadband, and water systems.",
-        "| s-campaign-voter-info | primary | https://www.laurenforkansas.com/voter-info | accessed 2026-05-19 | District description, rural hospitals, family farms, infrastructure, water systems, campaign travel map area | district context |"
+        "Voter-info page describes KS-01 district geography and mentions agriculture, energy, manufacturing, transportation, rural hospitals, farms, infrastructure, roads, broadband, and water systems."
       ]
     },
     {
@@ -548,8 +538,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Campaign republication includes interview statements on Medicaid cuts and rural hospitals.",
         "Campaign republication includes interview statements on a modernized, stable farm bill, tariffs, schools, and federal cuts.",
-        "For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts,",
-        "| s-campaign-oberlin | primary | https://www.laurenforkansas.com/post/the-big-first-district-has-new-democrat-candidate | posted 2026-01-23; accessed 2026-05-19 | Campaign republication of Oberlin Herald interview on rural hospitals, farm bill, tariffs, school"
+        "For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"T..."
       ]
     },
     {
@@ -560,8 +549,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "publisher": "Lauren Reinhold for Kansas campaign / Topeka Capital-Journal republication",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Campaign republication includes Reinhold statements on congressional tariff power, farm bill delay, immigration, and public service.",
-        "| s-campaign-cjonline | primary | https://www.laurenforkansas.com/post/our-campaign-was-featured-in-the-topeka-capitol-journal-march-12-2026 | posted 2026-03-15; accessed 2026-05-19 | Campaign republication of Topeka Capital-Journal coverage on tariffs, congre"
+        "Campaign republication includes Reinhold statements on congressional tariff power, farm bill delay, immigration, and public service."
       ]
     },
     {
@@ -572,8 +560,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "publisher": "Lauren Reinhold for Kansas campaign / Government Executive republication",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Campaign republication includes Reinhold quote on restoring trust in federal services.",
-        "| s-campaign-govexec | primary | https://www.laurenforkansas.com/post/lauren-s-congressional-campaign-is-featured-in-gov-exec | posted 2026-04-28; accessed 2026-05-19 | Campaign republication of Government Executive quote on trust in federal services | federal"
+        "Campaign republication includes Reinhold quote on restoring trust in federal services."
       ]
     },
     {
@@ -584,8 +571,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "publisher": "Lauren Reinhold for Kansas campaign",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Campaign post connects former federal employees to public services, government responsiveness, worker rights, and government serving people rather than corporations.",
-        "| s-campaign-former-feds | primary | https://www.laurenforkansas.com/post/lauren-is-proud-to-join-other-former-feds-running-for-public-office | posted 2026-03-15; accessed 2026-05-19 | Campaign post connecting former federal workers to public service, transpar"
+        "Campaign post connects former federal employees to public services, government responsiveness, worker rights, and government serving people rather than corporations."
       ]
     },
     {
@@ -598,9 +584,8 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Current public API check recorded 247 followers, 153 follows, and 16 posts.",
         "Profile says Kansas First District and running for Congress 2026.",
-        "Reinhold's platform footprint is broad but uneven in logged-out accessibility. Her campaign website links to X, LinkedIn, TikTok, Facebook, Instagram, and Bluesky. The measurable public posting base is Bluesky, where the account listed 244 followers, 153 follo",
-        "Bluesky: [@laurenforkansas.bsky.social](https://bsky.app/profile/laurenforkansas.bsky.social) — 244 followers, 153 follows, 16 posts; profile text: \"Kansas’ First District \\nRunning for Congress 2026\\n🇺🇸✊💙\\nhttps://secure.actblue.com/donate/lauren-reinhold-",
-        "| s-bsky-profile | social | https://bsky.app/profile/laurenforkansas.bsky.social | public API checked 2026-05-19 | Bluesky profile: 247 followers, 153 follows, 16 posts; latest visible original post May 6, 2026 | social presence |"
+        "Reinhold's platform footprint is broad but uneven in logged-out accessibility. Her campaign website links to X, LinkedIn, TikTok, Facebook, Instagram, and Bluesky. The measurable public posting base is Bluesky, where th...",
+        "Bluesky: @laurenforkansas.bsky.social — 244 followers, 153 follows, 16 posts; profile text: \"Kansas’ First District \\nRunning for Congress 2026\\n🇺🇸✊💙\\nhttps://secure.actblue.com/donate/lauren-reinhold-"
       ]
     },
     {
@@ -612,8 +597,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Reinhold shared a PBS NewsHour appearance about former federal workers and DOGE.",
-        "Current public API check recorded 7 likes, 2 reposts, 1 reply, and 0 quotes.",
-        "| s-bsky-pbs | social | https://bsky.app/profile/laurenforkansas.bsky.social/post/3ml5n7qmjhk2s | posted 2026-05-06; harvested 2026-05-11; checked 2026-05-19 | PBS NewsHour share about former federal workers; 7 likes, 2 reposts, 1 reply, 0 quotes at current AP"
+        "Current public API check recorded 7 likes, 2 reposts, 1 reply, and 0 quotes."
       ]
     },
     {
@@ -626,8 +610,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Reinhold posted support for the DNC lawsuit against a Trump mail-in voting executive order.",
         "Current public API check recorded 3 likes, 3 reposts, 2 replies, and 0 quotes.",
-        "On national issues, Reinhold's captured feed addresses voting rules, presidential power, tariffs, federal service, and foreign policy. On April 2, she posted, \"Donald Trump signed an EO restricting mail-in voting, an ESSENTIAL option for voters who are parents",
-        "| s-bsky-voting | social | https://bsky.app/profile/laurenforkansas.bsky.social/post/3mik6e53p322h | posted 2026-04-02; harvested 2026-05-11; checked 2026-05-19 | Mail-in voting / DNC lawsuit post; 3 likes, 3 reposts, 2 replies, 0 quotes at current API check |"
+        "On national issues, Reinhold's captured feed addresses voting rules, presidential power, tariffs, federal service, and foreign policy. On April 2, she posted, \"Donald Trump signed an EO restricting mail-in voting, an ES..."
       ]
     },
     {
@@ -639,8 +622,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Reinhold linked the American Middle-Class Prosperity Tax Plan.",
-        "Current public API check recorded 4 likes, 2 reposts, 0 replies, and 0 quotes.",
-        "| s-bsky-prosperity | social | https://bsky.app/profile/laurenforkansas.bsky.social/post/3mgdqf2wnxc2p | posted 2026-03-05; harvested 2026-05-11; checked 2026-05-19 | Post linking American Middle-Class Prosperity Tax Plan; 4 likes, 2 reposts, 0 replies, 0 quot"
+        "Current public API check recorded 4 likes, 2 reposts, 0 replies, and 0 quotes."
       ]
     },
     {
@@ -651,8 +633,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "publisher": "Bluesky",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Local harvest recorded Reinhold reposting a Kansas Reflector post about transgender Kansans.",
-        "| s-bsky-kansas-reflector-repost | social | https://bsky.app/profile/kansasreflector.com/post/3mfwvwu4gh223 | reposted 2026-02-28; harvested 2026-05-11 | Repost of Kansas Reflector post about transgender Kansans | LGBTQ social signal |"
+        "Local harvest recorded Reinhold reposting a Kansas Reflector post about transgender Kansans."
       ]
     },
     {
@@ -663,9 +644,9 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "publisher": "Laurenforkansas",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Campaign Website: [laurenforkansas.com](https://www.laurenforkansas.com)",
-        "[Lauren for Kansas - Campaign Website](https://www.laurenforkansas.com)",
-        "[Lauren Reinhold for Congress - Campaign Website](https://www.laurenforkansas.com)"
+        "Campaign Website: laurenforkansas.com",
+        "Lauren for Kansas - Campaign Website",
+        "Lauren Reinhold for Congress - Campaign Website"
       ]
     },
     {
@@ -676,8 +657,8 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "publisher": "Salinapost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Salina Post - \"Reinhold, 1st Congressional District candidate to speak in Salina\"](https://salinapost.com/posts/25bbb2eb-ae15-4419-8096-972bb919a48a)",
-        "[Salina Post - Speaking in Salina](https://salinapost.com/posts/25bbb2eb-ae15-4419-8096-972bb919a48a)"
+        "Salina Post - \"Reinhold, 1st Congressional District candidate to speak in Salina\"",
+        "Salina Post - Speaking in Salina"
       ]
     },
     {
@@ -688,7 +669,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector - Lauren Reinhold Archives](https://kansasreflector.com/tag/lauren-reinhold/)"
+        "Kansas Reflector - Lauren Reinhold Archives"
       ]
     },
     {
@@ -699,8 +680,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Reinhold's public alignment signals come mostly through media links, reposts, and event promotion rather than through a large endorsement network. Her Bluesky feed reposted George Conway on February 28, 2026, then she wrote, \"If you told me 10 years ago that I",
-        "| s-bsky-george-conway | social | https://bsky.app/profile/laurenforkansas.bsky.social/post/3mfx2heclcc2q | posted 2026-02-28; harvested 2026-05-11 | Candidate quote-post agreeing with George Conway and referencing foreign policy | foreign policy / national po"
+        "Reinhold's public alignment signals come mostly through media links, reposts, and event promotion rather than through a large endorsement network. Her Bluesky feed reposted George Conway on February 28, 2026, then she w..."
       ]
     },
     {
@@ -711,7 +691,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "publisher": "Instagram",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Instagram: [@laurenforkansas](https://www.instagram.com/laurenforkansas/) — 273 followers, 325 following, 67 posts; bio text: \"First Congressional District Fighting for KANSAS, not corporations. Rural Hospitals • Labor Rights ✨Your favorite candidate’s favorit"
+        "Instagram: @laurenforkansas — 273 followers, 325 following, 67 posts; bio text: \"First Congressional District Fighting for KANSAS, not corporations. Rural Hospitals • Labor Rights ✨Your favorite candidate’s favorit"
       ]
     },
     {
@@ -722,7 +702,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Facebook: [Lauren for Kansas](https://www.facebook.com/laurenforkansas) — linked from official campaign site — logged-out page request redirected to Facebook login/browser wall at capture."
+        "Facebook: Lauren for Kansas — linked from official campaign site — logged-out page request redirected to Facebook login/browser wall at capture."
       ]
     },
     {
@@ -733,10 +713,10 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "publisher": "Linkedin",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "LinkedIn: [laurenreinhold](https://www.linkedin.com/in/laurenreinhold/) — profile linked from official campaign site; LinkedIn returned authwall at capture.",
-        "LinkedIn: [linkedin.com/in/laurenreinhold](https://www.linkedin.com/in/laurenreinhold/)",
-        "[LinkedIn - Lauren Reinhold](https://www.linkedin.com/in/laurenreinhold/)",
-        "[linkedin.com/in/laurenreinhold](https://www.linkedin.com/in/laurenreinhold/)"
+        "LinkedIn: laurenreinhold — profile linked from official campaign site; LinkedIn returned authwall at capture.",
+        "LinkedIn: linkedin.com/in/laurenreinhold",
+        "LinkedIn - Lauren Reinhold",
+        "linkedin.com/in/laurenreinhold"
       ]
     },
     {

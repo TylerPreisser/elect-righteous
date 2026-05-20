@@ -21,7 +21,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented public evidence: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-healthcare"
         ]
@@ -53,7 +53,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -63,7 +63,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -84,7 +84,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Documented public evidence: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-healthcare"
         ]
@@ -116,7 +116,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -126,7 +126,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -147,7 +147,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented public evidence: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-healthcare"
         ]
@@ -179,7 +179,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-healthcare"
         ]
@@ -211,7 +211,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public evidence: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-healthcare"
         ]
@@ -243,7 +243,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-healthcare",
           "s-ks-leg-vote-record-2025"
@@ -276,7 +276,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Primary source: https://ethics.kansas.gov/wp-content/uploads/2024/11/11-20-2024-Draft-Agenda.pdf Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Primary source: https://ethics.kansas.gov/wp-content/uploads/2024/11/11-20-2024-Draft-Agenda.pdf Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-kgec-agenda-20241120",
           "src-patrick-schmidt-0048",
@@ -333,7 +333,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public evidence: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-healthcare"
         ]
@@ -365,7 +365,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-healthcare"
         ]
@@ -427,16 +427,16 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Patrick Schmidt is profiled here for U.S. Senate, Kansas as a Democratic. Across the captured public record, Schmidt's dominant theme is service and working-family economics, with biography, family roots, military service, and household costs appearing in five of the eight campaign-controlled public items captured. His campaign hom... For Kansas-specific issues, the most concrete local policy thread in the captured record is property tax relief, followed by healthcare costs, labor, and trade. In a Kansas Reflector interview, Schmidt said, \"I would love to see real property tax relief for K... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 13 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Abortion / life: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, g... Religious liberty / church / civic morality: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital... Guns / Second Amendment: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility... Immigration / border: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility na... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "ownWordsNarrative": "summary: Schmidt's online footprint is concentrated on his official campaign website plus Facebook, X/Twitter, Instagram, and YouTube. Logged-out harvests did not expose reliable current post-level timelines or engagement, so social platforms should be treated as presence-only unless a later authenticated harvest captures post text. The strongest issue-mapped online evidence is the campaign website's health-care and labor pages.; platform_notes: platform: Campaign website; status: Active; issue pages found for affordable health care and unions/middle class; sourceIds: s-campaign-home; s-campaign-healthcare; s-campaign-labor; platform: X/Twitter; status: Campaign-linked account located; logged-out timeline not reliably accessible; sourceIds: s-social-harvest; platform: Facebook; status: Campaign-linked page located; local harvest captured metadata but not reliable post bodies; sourceIds: s-social-harvest; platform: Instagram; status: Campaign-linked account located; local harvest captured metadata only; sourceIds: s-social-harvest; platform: YouTube; status: Campaign-linked channel/video located through campaign embed; metrics not visible in local harvest; sourceIds: s-social-harvest",
+  "whoTheyAre": "Patrick Schmidt is profiled here for U.S. Senate, Kansas as a Democratic. Across the captured public record, Schmidt's dominant theme is service and working-family economics, with biography, family roots, military service, and household costs appearing in five of the eight campaign-controlled public items captured. His campaign hom... For Kansas-specific issues, the most concrete local policy thread in the captured record is property tax relief, followed by healthcare costs, labor, and trade. In a Kansas Reflector interview, Schmidt said, \"I would love to see real property tax relief for K... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 13 source-backed items across 9 of the 14 issue areas. Representative public-record entries include: Abortion / life: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, g... Religious liberty / church / civic morality: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital... Guns / Second Amendment: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility... Immigration / border: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility na... Social-only material is listed separately as online observation, not official action.",
+  "ownWordsNarrative": "[object Object]",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Schmidt's public profile emphasizes service, family history, and Kansas roots rather than a named congregation or denomination.",
   "campaignFinance": {
     "totalRaised": "$177,173.50",
@@ -446,7 +446,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
     "reportingPeriod": "2026-01-01 to 2026-03-31",
     "source": "2026 all candidates bulk data"
   },
-  "socialResearchNote": "13 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "13 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-fec-candidate",
@@ -460,7 +460,6 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
         "FEC candidate ID is S6KS00288",
         "Type of candidacy is Challenger",
         "Current Statement of Candidacy was filed 2026-02-04",
-        "[FEC Filing](https://www.fec.gov/data/candidate/S6KS00288/?cycle=2026&election_full=true)",
         "FEC candidate page: https://www.fec.gov/data/candidate/S6KS00288/?cycle=2026&election_full=true",
         "https://www.fec.gov/data/candidate/S6KS00288/?cycle=2026&election_full=true"
       ]
@@ -527,8 +526,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Sponsored resolutions list includes SCR 1609, SCR 1614, and SR 1706",
         "SCR 1614 urges Congress to increase penalties for federal immigration-law violations and urges ICE to prosecute employers who hire undocumented immigrants",
-        "SR 1706 condemns pardons and commutations for individuals involved in the January 6, 2021 attack at the U.S. Capitol",
-        "\"url\": \"https://www.kslegislature.gov/b2025_26/legislators/sen_schmidt_patrick_1/bills/?bfilter=resolution&page=1\","
+        "SR 1706 condemns pardons and commutations for individuals involved in the January 6, 2021 attack at the U.S. Capitol"
       ]
     },
     {
@@ -638,14 +636,14 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
         "Campaign says he is a former Naval Intelligence Officer, husband, and sixth-generation Kansan",
         "Campaign footer says paid for by Patrick Schmidt for Kansas, Gov. John Carlin, Treasurer",
         "Campaign website links Facebook, X/Twitter, Instagram, and ActBlue",
-        "Across the captured public record, Schmidt's dominant theme is service and working-family economics, with biography, family roots, military service, and household costs appearing in [five of the eight campaign-controlled public items captured](social-harvest.m",
-        "Campaign Website: [patrickforkansas.com](https://patrickforkansas.com/)",
-        "[Patrick Schmidt for US Senate](https://patrickforkansas.com/)",
-        "Website: [patrickforkansas.com](https://patrickforkansas.com/)",
-        "[Patrick Schmidt: patrickforkansas.com](https://patrickforkansas.com/)",
-        "\"Patrick Schmidt is a former U.S. Naval Intelligence Officer running to represent Kansas in the US Senate\" - campaign site, n.d., https://patrickforkansas.com/ (campaign identity line)",
-        "The captured public alignment signal is campaign-institutional rather than repost-driven. The official site links to Facebook, X, and Instagram, and its footer lists \"Paid for by Patrick Schmidt for Kansas, Gov. John Carlin, Treasurer.\" ([source](https://patri",
-        "\"campaignWebsite\": \"https://patrickforkansas.com/\",",
+        "Across the captured public record, Schmidt's dominant theme is service and working-family economics, with biography, family roots, military service, and household costs appearing in [five of the eight campaign-controlle...",
+        "Campaign Website: patrickforkansas.com",
+        "Patrick Schmidt for US Senate",
+        "Website: patrickforkansas.com",
+        "Patrick Schmidt: patrickforkansas.com",
+        "Patrick Schmidt is a former U.S. Naval Intelligence Officer running to represent Kansas in the US Senate - campaign site, n.d., https://patrickforkansas.com/ (campaign identity line)",
+        "The captured public alignment signal is campaign-institutional rather than repost-driven. The official site links to Facebook, X, and Instagram, and its footer lists \"Paid for by Patrick Schmidt for Kansas, Gov. John Ca...",
+        "\"campaignWebsite\": \"https://patrickforkansas.com/\"",
         "Home: https://patrickforkansas.com/"
       ]
     },
@@ -660,12 +658,12 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
         "Campaign says both parents were public school teachers and worked second jobs",
         "Campaign says Schmidt served as a Naval Intelligence Officer on the USS Ronald Reagan",
         "Campaign says he recently transitioned to the Naval Reserve and returned to Kansas with wife Megan",
-        "Key Quote: Not available in search results -- check [patrickforkansas.com](https://patrickforkansas.com/about/) for campaign messaging",
-        "[Campaign Website - Meet Patrick](https://patrickforkansas.com/about/)",
-        "\"Patrick will be guided by the family values he learned from his mother, his father, and the generations of Kansans who came before him\" - campaign about page, n.d., https://patrickforkansas.com/about/ (family-values line)",
-        "\"source\": \"campaign about page, n.d., https://patrickforkansas.com/about/ (family-values line)\",",
-        "[patrickforkansas.com/about](https://patrickforkansas.com/about/)",
-        "[patrickforkansas.com](https://patrickforkansas.com/about/)",
+        "Key Quote: Not available in search results -- check patrickforkansas.com for campaign messaging",
+        "Campaign Website - Meet Patrick",
+        "Patrick will be guided by the family values he learned from his mother, his father, and the generations of Kansans who came before him - campaign about page, n.d., https://patrickforkansas.com/about/ (family-values line)",
+        "\"source\": \"campaign about page, n.d., https://patrickforkansas.com/about/ (family-values line)\"",
+        "patrickforkansas.com/about",
+        "patrickforkansas.com",
         "Meet Patrick: https://patrickforkansas.com/about/"
       ]
     },
@@ -681,7 +679,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
         "Campaign says Schmidt would work to expand Medicaid in Kansas and extend care to 150,000 people statewide",
         "Campaign says he would stand up to the pharmaceutical lobby and lower prescription drug costs",
         "Campaign says he would work to bring more federally qualified health centers to Kansas",
-        "Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement det",
+        "Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name...",
         "Affordable Health Care: https://patrickforkansas.com/issue/affordable-health-care/"
       ]
     },
@@ -710,11 +708,11 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Profile repeats campaign biography about Navy service, teacher parents, family roots, and service in the Kansas Senate",
         "Profile links campaign website, fundraising page, Facebook page, and Instagram",
-        "Kansas Senate Democrats page: [kssenatedems.org/patrick-schmidt](https://www.kssenatedems.org/patrick-schmidt)",
-        "Kansas Senate Democrats profile: Lists campaign website, fundraising page, Facebook page, and Instagram for Patrick Schmidt. The profile text emphasizes Navy service, public-school-teacher parents, family roots, and service in the Kansas Senate. URL: [Kansas S",
-        "[Kansas Senate Democrats](https://www.kssenatedems.org/patrick-schmidt)",
-        "\"defending U.S. interests from China and Russia\" - Kansas Senate Democrats profile, n.d., https://www.kssenatedems.org/patrick-schmidt (Navy service framing)",
-        "[kssenatedems.org/patrick-schmidt](https://www.kssenatedems.org/patrick-schmidt)"
+        "Kansas Senate Democrats page: kssenatedems.org/patrick-schmidt",
+        "Kansas Senate Democrats profile: Lists campaign website, fundraising page, Facebook page, and Instagram for Patrick Schmidt. The profile text emphasizes Navy service, public-school-teacher parents, family roots, and ser...",
+        "Kansas Senate Democrats",
+        "defending U.S. interests from China and Russia - Kansas Senate Democrats profile, n.d., https://www.kssenatedems.org/patrick-schmidt (Navy service framing)",
+        "kssenatedems.org/patrick-schmidt"
       ]
     },
     {
@@ -750,8 +748,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "publisher": "Kansas Secretary of State",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "In the 2024 Kansas Senate 19 general election, Patrick Schmidt received 16,784 votes, 64.55%",
-        "Tyler Wible received 9,216 votes, 35.45%"
+        "In the 2024 Kansas Senate 19 general election, Patrick Schmidt received 16,784 votes, 64.55%"
       ]
     },
     {
@@ -788,8 +785,8 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
         "WIBW reports Schmidt confirmed he filed as a U.S. Senate candidate",
         "WIBW reports he was elected to the Kansas Senate in November 2024",
         "WIBW reports he challenged Jake LaTurner for U.S. House in 2022",
-        "[WIBW - State Senator Files for U.S. Senate (Feb 2026)](https://www.wibw.com/2026/02/05/kansas-state-senator-files-us-senate/)",
-        "[WIBW - Patrick Schmidt Files (Feb 5, 2026)](https://www.wibw.com/2026/02/05/kansas-state-senator-files-us-senate/)"
+        "WIBW - State Senator Files for U.S. Senate (Feb 2026)",
+        "WIBW - Patrick Schmidt Files (Feb 5, 2026)"
       ]
     },
     {
@@ -800,10 +797,10 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "publisher": "Kslegislature",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Patrick Schmidt - Kansas Legislature](https://www.kslegislature.gov/li/b2025_26/members/sen_schmidt_patrick_1/)",
-        "[Patrick Schmidt Legislature Page](https://www.kslegislature.gov/li/b2025_26/members/sen_schmidt_patrick_1/)",
-        "KS Legislature page: [kslegislature.gov](https://www.kslegislature.gov/li/b2025_26/members/sen_schmidt_patrick_1/)",
-        "[KS Legislature: Schmidt](https://www.kslegislature.gov/li/b2025_26/members/sen_schmidt_patrick_1/)"
+        "Patrick Schmidt - Kansas Legislature",
+        "Patrick Schmidt Legislature Page",
+        "KS Legislature page: kslegislature.gov",
+        "KS Legislature: Schmidt"
       ]
     },
     {
@@ -814,7 +811,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "publisher": "Kslegislature",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Kansas Legislature profile: Lists Schmidt as senator for District 19, with spouse Megan Walden, Senate 2025-present, and committee assignments including Government Efficiency, Judiciary, Transportation, Veterans Affairs, Kansas Security, Information Technology"
+        "Kansas Legislature profile: Lists Schmidt as senator for District 19, with spouse Megan Walden, Senate 2025-present, and committee assignments including Government Efficiency, Judiciary, Transportation, Veterans Affairs..."
       ]
     },
     {
@@ -825,8 +822,8 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "publisher": "Ballotpedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Patrick Schmidt - Ballotpedia](https://ballotpedia.org/Patrick_Schmidt)",
-        "[Ballotpedia: Patrick Schmidt](https://ballotpedia.org/Patrick_Schmidt)"
+        "Patrick Schmidt - Ballotpedia",
+        "Ballotpedia: Patrick Schmidt"
       ]
     },
     {
@@ -837,8 +834,8 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "publisher": "En.Wikipedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Patrick Schmidt - Wikipedia](https://en.wikipedia.org/wiki/Patrick_Schmidt_(politician))",
-        "[Wikipedia: Patrick Schmidt](https://en.wikipedia.org/wiki/Patrick_Schmidt_(politician))"
+        "Patrick Schmidt - Wikipedia)",
+        "Wikipedia: Patrick Schmidt)"
       ]
     },
     {
@@ -849,7 +846,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "publisher": "Legiscan",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[LegiScan: Schmidt sponsored bills](https://legiscan.com/KS/people/patrick-schmidt/id/26167)"
+        "LegiScan: Schmidt sponsored bills"
       ]
     },
     {
@@ -860,7 +857,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "publisher": "Patrickforkansas",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "On national and foreign-policy questions, Schmidt's public record centers on military service, January 6, the Middle East, tariffs, and institutional accountability. His 2021 launch release said, \"During my service on the USS RONALD REAGAN, I saw firsthand the"
+        "On national and foreign-policy questions, Schmidt's public record centers on military service, January 6, the Middle East, tariffs, and institutional accountability. His 2021 launch release said, \"During my service on t..."
       ]
     },
     {
@@ -871,8 +868,8 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "publisher": "Instagram",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Instagram: [@patrickforks](https://www.instagram.com/patrickforks/) — 93 followers / 5 following / 4 posts; bio text: \"Kansan, Navy Veteran, and candidate for KS-02. Running to invest in Kansas families and rebuild our economy.\"",
-        "Handle: [@patrickforks](https://www.instagram.com/patrickforks/)"
+        "Instagram: @patrickforks — 93 followers / 5 following / 4 posts; bio text: \"Kansan, Navy Veteran, and candidate for KS-02. Running to invest in Kansas families and rebuild our economy.\"",
+        "Handle: @patrickforks"
       ]
     },
     {
@@ -883,9 +880,9 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Schmidt's platform footprint is concentrated on an official campaign website, Facebook, X, Instagram, and a YouTube channel. The Facebook page lists him as \"Kansan, Navy Veteran, Kansas State Senator, and Candidate for US Senate\" and showed 2,158 likes as of M",
-        "Post-level audience response could not be ranked from the public logged-out capture. X, Facebook, Instagram, and YouTube did not expose exact reactions, reposts, replies, comments, shares, views, or likes for individual Schmidt posts as of May 11, 2026. The on",
-        "Facebook: [Senator Patrick Schmidt / patrickforkansas](https://www.facebook.com/patrickforkansas) — 2,158 likes and 2,173 talking about this in logged-out metadata captured 2026-05-11; post-level feed was not exposed in the logged-out HTML."
+        "Schmidt's platform footprint is concentrated on an official campaign website, Facebook, X, Instagram, and a YouTube channel. The Facebook page lists him as \"Kansan, Navy Veteran, Kansas State Senator, and Candidate for...",
+        "Post-level audience response could not be ranked from the public logged-out capture. X, Facebook, Instagram, and YouTube did not expose exact reactions, reposts, replies, comments, shares, views, or likes for individual...",
+        "Facebook: Senator Patrick Schmidt / patrickforkansas — 2,158 likes and 2,173 talking about this in logged-out metadata captured 2026-05-11; post-level feed was not exposed in the logged-out HTML."
       ]
     },
     {
@@ -896,8 +893,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Facebook (Official): [musilcomish](https://www.facebook.com/musilcomish/)",
-        "[musilcomish](https://www.facebook.com/musilcomish/)"
+        "Facebook (Official): musilcomish"
       ]
     },
     {
@@ -908,7 +904,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "publisher": "Twitter",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "No reposts or tags were reliably exposed in logged-out capture. The campaign website links to [@PatrickforKS](https://www.twitter.com/PatrickforKS), and the indexed profile snippet lists the account as \"Kansan, Navy Veteran, and Kansas 19th State Senate Distri"
+        "No reposts or tags were reliably exposed in logged-out capture. The campaign website links to @PatrickforKS, and the indexed profile snippet lists the account as \"Kansan, Navy Veteran, and Kansas 19th State Senate Distri"
       ]
     },
     {
@@ -919,8 +915,8 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "publisher": "Youtube",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "YouTube: [Patrick Schmidt for U.S. Senate](https://www.youtube.com/@patrickforkansas) — channel located through campaign-site embedded video; subscriber count and video count not visible in logged-out capture.",
-        "Channel: [Patrick Schmidt for U.S. Senate](https://www.youtube.com/@patrickforkansas)"
+        "YouTube: Patrick Schmidt for U.S. Senate — channel located through campaign-site embedded video; subscriber count and video count not visible in logged-out capture.",
+        "Channel: Patrick Schmidt for U.S. Senate"
       ]
     },
     {
@@ -931,7 +927,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "publisher": "Ballotready",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "BallotReady verified pages: Lists website, Facebook, Twitter/X, Instagram, LinkedIn, and Kansas State Senate website as verified webpages. URL: [BallotReady profile](https://www.ballotready.org/people/patrick-schmidt)"
+        "BallotReady verified pages: Lists website, Facebook, Twitter/X, Instagram, LinkedIn, and Kansas State Senate website as verified webpages. URL: BallotReady profile"
       ]
     }
   ]

@@ -35,8 +35,8 @@ export function getProfileStatus(candidate: CandidateLike): ProfileStatus {
       collectionHeading: "Current Officials and Administrators",
       collectionDescription:
         "These profiles cover people currently running local institutions. They are not all candidates, and appointed administrators are labeled separately from elected officials.",
-      recordLabel: "Official / Reported Actions",
-      actionLabel: "reported or official action",
+      recordLabel: "Public Record",
+      actionLabel: "public record item",
       note:
         "This is an accountability profile for an appointed administrator, not a candidate profile. It should be read as public-record context about the officeholder's role and actions.",
     };
@@ -50,8 +50,8 @@ export function getProfileStatus(candidate: CandidateLike): ProfileStatus {
       collectionHeading: "Current Officials",
       collectionDescription:
         "These profiles cover current officeholders or civic leaders whose public records matter to Hays-area voters.",
-      recordLabel: "Official / Reported Actions",
-      actionLabel: "reported or official action",
+      recordLabel: "Public Record",
+      actionLabel: "public record item",
       note:
         "This profile is retained for current-officeholder context. It should not be read as confirmation that this person is filed for the listed 2026 race unless the roster page says so.",
     };
@@ -66,7 +66,7 @@ export function getProfileStatus(candidate: CandidateLike): ProfileStatus {
       collectionDescription:
         "These profiles have conflicting public filing signals and require final official-list review before being treated as ordinary candidate profiles.",
       recordLabel: "Public Record",
-      actionLabel: "public-record entry",
+      actionLabel: "public record item",
       note:
         "This profile has conflicting filing evidence. Treat the office label as provisional until the final official candidate list is reconciled.",
     };
@@ -84,8 +84,8 @@ export function getProfileStatus(candidate: CandidateLike): ProfileStatus {
       collectionHeading: "Current Officials",
       collectionDescription:
         "These are current local-office profiles, not 2026 candidate listings. They are included because their decisions affect Hays voters now.",
-      recordLabel: "Official / Reported Actions",
-      actionLabel: "reported or official action",
+      recordLabel: "Public Record",
+      actionLabel: "public record item",
       note:
         `This is a current-official accountability profile, not a 2026 ballot-candidate profile.${futureText}`,
     };
@@ -100,7 +100,7 @@ export function getProfileStatus(candidate: CandidateLike): ProfileStatus {
       collectionDescription:
         "This person appears on the current official Ellis County 2026 candidate filing list for this race.",
       recordLabel: "Public Record",
-      actionLabel: "documented action",
+      actionLabel: "public record item",
     };
   }
 
@@ -111,7 +111,6 @@ export function getProfileStatus(candidate: CandidateLike): ProfileStatus {
     collectionHeading: "The Candidates",
     collectionDescription: "Click any name to read the full sourced profile.",
     recordLabel: "Public Record",
-    actionLabel: "documented action",
+    actionLabel: "public record item",
   };
 }
-

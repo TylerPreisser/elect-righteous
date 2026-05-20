@@ -20,7 +20,7 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -40,7 +40,7 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -50,7 +50,7 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -60,7 +60,7 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -70,7 +70,7 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -80,7 +80,7 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -90,7 +90,7 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -100,7 +100,7 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -110,7 +110,7 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts.",
         "sourceIds": []
       },
       "actions": [],
@@ -120,7 +120,7 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -130,7 +130,7 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -140,7 +140,7 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Local governance / transparency / ethics. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Local governance / transparency / ethics.",
         "sourceIds": []
       },
       "actions": [],
@@ -150,7 +150,7 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -158,8 +158,8 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Steven Johnson is the incumbent Kansas State Treasurer and is listed in current statewide filing material as a Republican candidate for State Treasurer.",
-  "recordSummary": "The record captured in this pass confirms filed status through a statewide filing mirror and a campaign-finance account through KPDC. A deeper office-record pass should connect his treasurer work to specific official actions before expanding beyond filing and finance.",
-  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.",
+  "recordSummary": "The record captured in the reviewed public record confirms filed status through a statewide filing mirror and a campaign-finance account through KPDC. A deeper office-record pass should connect his treasurer work to specific official actions before expanding beyond filing and finance.",
+  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed public record. No policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "$192,668.21",
     "narrative": "KPDC 202601 reporting extracted in the audit showed $192,668.21 in receipts, $5,418.17 in expenditures, and $222,037.92 cash on hand.",
@@ -167,7 +167,7 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
     "reportingPeriod": "KPDC 202601 / 2025 reporting period",
     "source": "KPDC Steven Johnson 202601 report"
   },
-  "socialResearchNote": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.",
+  "socialResearchNote": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. the reviewed public record records only issue-relevant public observations found in the candidate-controlled or official source set.",
   "sources": [
     {
       "id": "s-state-filing",
@@ -178,8 +178,7 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Steven Johnson appears as a Republican candidate for Kansas State Treasurer",
-        "The filing entry lists Assaria and links stevenjohnsonks.com",
-        "\"url\": \"https://candidatefiling.us/Info/Default?det=Y&e=545606222&j=2795522868&pj=26405586&s=802933811&st=KS\","
+        "The filing entry lists Assaria and links stevenjohnsonks.com"
       ]
     },
     {

@@ -13,14 +13,14 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
   "position": "U.S. House candidate, Kansas 1st Congressional District",
   "electionSlug": "ks-01-house-2026",
   "incumbent": false,
-  "occupation": "Environment, health, and safety / manufacturing professional; current employer from local profile not independently re-confirmed in this pass",
+  "occupation": "Environment, health, and safety / manufacturing professional; current employer from local profile not independently re-confirmed in the reviewed public record",
   "campaignWebsite": "https://musserforuscongress.com/",
   "issues": [
     {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -40,7 +40,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -50,7 +50,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -60,7 +60,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -81,7 +81,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -91,7 +91,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -101,7 +101,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -111,7 +111,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public evidence: Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24 candidate-controlled website statements, with representation, biography, and campaign-theme statements accounting for 7 of 24 statements, or 29 percent, and healthcare accounting for 5 of 24 statements, or 21 percen... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24 candidate-controlled website statements, with representation, biography, and campaign-theme statements accounting for 7 of 24 statements, or 29 percent, and healthcare accounting for 5 of 24 statements, or 21 percen... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -143,7 +143,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24 candidate-controlled website statements, with representation, biography, and campaign-theme statements accounting for 7 of 24 statements, or 29 percent, and healthcare accounting for 5 of 24 statements, or 21 percen... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24 candidate-controlled website statements, with representation, biography, and campaign-theme statements accounting for 7 of 24 statements, or 29 percent, and healthcare accounting for 5 of 24 statements, or 21 percen... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-hayspost-announcement",
@@ -202,7 +202,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Hays Post - \"Kansas First Congressional District has a new candidate\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Hays Post - \"Kansas First Congressional District has a new candidate\" Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-announcement",
           "s-greatbendpost-announcement",
@@ -241,7 +241,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -251,7 +251,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24 candidate-controlled website statements, with representation, biography, and campaign-theme statements accounting for 7 of 24 statements, or 29 percent, and healthcare accounting for 5 of 24 statements, or 21 percen... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24 candidate-controlled website statements, with representation, biography, and campaign-theme statements accounting for 7 of 24 statements, or 29 percent, and healthcare accounting for 5 of 24 statements, or 21 percen... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-hayspost-announcement",
@@ -341,25 +341,25 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Craig Musser is profiled here for U.S. House candidate, Kansas 1st Congressional District as an Independent. Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24 candidate-controlled website statements, with represent... Kansas Secretary of State, \"Candidate Information,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/candidate-information.html. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 12 source-backed actions across 4 of the 14 issue areas. Representative public-record entries include: Health care / insurance / Medicaid: Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24... Election integrity / voting / courts: Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined... Election integrity / voting / courts: Hays Post, \"Kansas First Congressional District has a new candidate,\" published 2026-03-24, accessed 2026-05-19: https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7. Election integrity / voting / courts: Great Bend Post, \"Kansas First Congressional District has a new candidate,\" published 2026-03-24, accessed 2026-05-19: https://greatbendpost.com/posts/d2d97c94-1d35-4fc6-a09d-3453408c580e. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whoTheyAre": "Craig Musser is profiled here for U.S. House candidate, Kansas 1st Congressional District as an Independent. Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24 candidate-controlled website statements, with represent... Kansas Secretary of State, \"Candidate Information,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/candidate-information.html. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 12 source-backed items across 4 of the 14 issue areas. Representative public-record entries include: Health care / insurance / Medicaid: Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24... Election integrity / voting / courts: Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined... Election integrity / voting / courts: Hays Post, \"Kansas First Congressional District has a new candidate,\" published 2026-03-24, accessed 2026-05-19: https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7. Election integrity / voting / courts: Great Bend Post, \"Kansas First Congressional District has a new candidate,\" published 2026-03-24, accessed 2026-05-19: https://greatbendpost.com/posts/d2d97c94-1d35-4fc6-a09d-3453408c580e. Social-only material is listed separately as online observation, not official action.",
   "whereTheyWorship": "Website biography says Musser grew up in Pennsylvania, attended public school, and attended Church of the Brethren. Biography page says Musser attended Church of the Brethren while growing up. Biography page says Musser attended Church of the Brethren while growing up. No current church affiliation was found. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
-    "totalRaised": "Not itemized in rendered profile",
-    "narrative": "Musser's visible alignment is with the United Kansas Party rather than with a Republican or Democratic campaign structure. His campaign home page links to the United Kansas Party and a campaign Facebook poll, and Hays Post reported on March 24, 2026, that he... For KS-01 district issues, Musser's local material centers on agriculture, healthcare, education, and a manufacturing-and-safety biography. Agriculture accounts for 2 of 24 candidate-controlled website statements, or 8 percent. His issues page says, \"Stabiliz... Musser's platform footprint is concentrated on an official campaign website and a small Facebook page. No candidate-controlled X, Instagram, YouTube, Truth Social, Gab, Gettr, Substack, Reddit, or TikTok account was found in the public searches captured for t... Federal Election Commission, FEC Form 2 image 202602149834322966, filed 2026-02-14, accessed 2026-05-19: https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf. Finance figures are shown only when the reporting period/source was preserved in the evidence matrix; otherwise this remains a research caveat.",
+    "totalRaised": "Not itemized in reviewed public records",
+    "narrative": "Musser's visible alignment is with the United Kansas Party rather than with a Republican or Democratic campaign structure. His campaign home page links to the United Kansas Party and a campaign Facebook poll, and Hays Post reported on March 24, 2026, that he... For KS-01 district issues, Musser's local material centers on agriculture, healthcare, education, and a manufacturing-and-safety biography. Agriculture accounts for 2 of 24 candidate-controlled website statements, or 8 percent. His issues page says, \"Stabiliz... Musser's platform footprint is concentrated on an official campaign website and a small Facebook page. No candidate-controlled X, Instagram, YouTube, Truth Social, Gab, Gettr, Substack, Reddit, or TikTok account was found in the public searches captured for t... Federal Election Commission, FEC Form 2 image 202602149834322966, filed 2026-02-14, accessed 2026-05-19: https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf. Finance figures are shown only when the reporting period/source is available; otherwise this remains a research caveat.",
     "donors": [],
-    "undisclosed": "No donor-by-donor list is rendered unless the donor name, amount, and reporting source were all separated cleanly.",
-    "reportingPeriod": "Current public filings/evidence matrix reviewed 2026-05-20",
+    "undisclosed": "No donor-by-donor list is shown unless the donor name, amount, and reporting source were all identified clearly.",
+    "reportingPeriod": "Reviewed public filings as of 2026-05-20",
     "source": "Fec (https://www.fec.gov/data/candidate/H6KS01211/)"
   },
-  "socialResearchNote": "7 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "7 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-fec-candidate",
@@ -375,8 +375,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
         "FEC overview does not show a 2025-2026 financial summary",
         "Federal Election Commission, \"MUSSER, CRAIG A - Candidate overview H6KS01211,\" accessed 2026-05-19: https://www.fec.gov/data/candidate/H6KS01211/",
         "Federal Election Commission, Candidate H6KS01211: https://www.fec.gov/data/candidate/H6KS01211/",
-        "[FEC Filing](https://www.fec.gov/data/candidate/H6KS01211/)",
-        "Musser's platform footprint is concentrated on an official campaign website and a small Facebook page. No candidate-controlled X, Instagram, YouTube, Truth Social, Gab, Gettr, Substack, Reddit, or TikTok account was found in the public searches captured for th",
+        "Musser's platform footprint is concentrated on an official campaign website and a small Facebook page. No candidate-controlled X, Instagram, YouTube, Truth Social, Gab, Gettr, Substack, Reddit, or TikTok account was fou...",
         "FEC candidate page: https://www.fec.gov/data/candidate/H6KS01211/",
         "https://www.fec.gov/data/candidate/H6KS01211/"
       ]
@@ -396,9 +395,8 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
         "Candidate address city/state is Ellinwood, Kansas",
         "Federal Election Commission, FEC Form 2 image 202602149834322966, filed 2026-02-14, accessed 2026-05-19: https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf",
         "Federal Election Commission, Form 2 image 202602149834322966: https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf",
-        "[FEC Form 2 Filing (PDF)](https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf)",
-        "FEC Form 2 image 202602149834322966: https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf",
-        "\"url\": \"https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf\","
+        "FEC Form 2 Filing (PDF)",
+        "FEC Form 2 image 202602149834322966: https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf"
       ]
     },
     {
@@ -413,18 +411,18 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
         "Home page says Uniting Kansans For Our Common Good",
         "Home page says Republican Sensibility with Libertarian Ideals",
         "Home page links to donation and poll",
-        "Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined [24 candidate-controlled website statements](social-harvest",
+        "Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined [24 candidate-cont...",
         "Craig Musser campaign home page: https://musserforuscongress.com/",
-        "\"Kansans deserve a representative who serves them -- not donors, party bosses or Washington insiders.\" - campaign announcement, https://musserforuscongress.com/ and Hays Post, 2026 (campaign pitch)",
-        "\"Effective governance is not about ideology -- it's about listening and delivering outcomes.\" - campaign announcement, https://musserforuscongress.com/ and Great Bend Post, 2026 (governance)",
-        "\"Kansans deserve a representative who serves them -- not donors, party bosses or Washington insiders.\" - campaign announcement, https://musserforuscongress.com/ and Hays Post",
-        "\"Effective governance is not about ideology -- it's about listening and delivering outcomes.\" - campaign announcement, https://musserforuscongress.com/ and Great Bend Post",
+        "Kansans deserve a representative who serves them -- not donors, party bosses or Washington insiders. - campaign announcement, https://musserforuscongress.com/ and Hays Post, 2026 (campaign pitch)",
+        "Effective governance is not about ideology -- it's about listening and delivering outcomes. - campaign announcement, https://musserforuscongress.com/ and Great Bend Post, 2026 (governance)",
+        "Kansans deserve a representative who serves them -- not donors, party bosses or Washington insiders. - campaign announcement, https://musserforuscongress.com/ and Hays Post",
+        "Effective governance is not about ideology -- it's about listening and delivering outcomes. - campaign announcement, https://musserforuscongress.com/ and Great Bend Post",
         "Craig Musser for United States Congress, home page, accessed 2026-05-19: https://musserforuscongress.com/",
         "> -- Musser for U.S. Congress, accessed April 1, 2026, https://musserforuscongress.com/",
-        "[musserforuscongress.com](https://musserforuscongress.com/)",
-        "\"campaignWebsite\": \"https://musserforuscongress.com/\",",
-        "\"source\": \"Musser for U.S. Congress, accessed April 1, 2026, https://musserforuscongress.com/\",",
-        "Campaign website: [musserforuscongress.com](https://musserforuscongress.com/) — active, candidate-controlled website with home, biography, contact, issues, donation, and Facebook poll links.",
+        "musserforuscongress.com",
+        "\"campaignWebsite\": \"https://musserforuscongress.com/\"",
+        "\"source\": \"Musser for U.S. Congress, accessed April 1, 2026, https://musserforuscongress.com/\"",
+        "Campaign website: musserforuscongress.com — active, candidate-controlled website with home, biography, contact, issues, donation, and Facebook poll links.",
         "Active site found at https://musserforuscongress.com/ with pages for home, biography, contact, issues, donation, and a Facebook-linked poll.",
         "Website found at https://musserforuscongress.com/."
       ]
@@ -468,9 +466,9 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
         "Issues page supports student-loan reform",
         "Issues page supports infrastructure investment and IRS service reform",
         "Issues page discusses market stabilization and farmer/rancher concerns",
-        "For KS-01 district issues, Musser's local material centers on agriculture, healthcare, education, and a manufacturing-and-safety biography. Agriculture accounts for [2 of 24 candidate-controlled website statements](social-harvest.md), or 8 percent. His issues",
-        "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The ca",
-        "On national policy, Musser's public website addresses domestic federal programs rather than foreign affairs. The issues page states, \"It’s mandatory that we maintain social security to ensure everyone who has paid in gets the income and benefits their money ha",
+        "For KS-01 district issues, Musser's local material centers on agriculture, healthcare, education, and a manufacturing-and-safety biography. Agriculture accounts for 2 of 24 candidate-controlled website statements, or 8....",
+        "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level eco...",
+        "On national policy, Musser's public website addresses domestic federal programs rather than foreign affairs. The issues page states, \"It’s mandatory that we maintain social security to ensure everyone who has paid in ge...",
         "Craig Musser campaign issues page: https://musserforuscongress.com/untitled",
         "Craig Musser for United States Congress, \"Issues,\" accessed 2026-05-19: https://musserforuscongress.com/untitled"
       ]
@@ -487,13 +485,13 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
         "Hays Post described Musser as a United Kansas Party candidate",
         "Article quoted campaign language about serving Kansans rather than donors, party bosses, or Washington insiders",
         "Hays Post, \"Kansas First Congressional District has a new candidate,\" published 2026-03-24, accessed 2026-05-19: https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7",
-        "[Hays Post - \"Kansas First Congressional District has a new candidate\"](https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7)",
-        "\"The long odds are exactly why this fight is so important.\" - campaign coverage, 2026, https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7 (campaign meaning)",
-        "\"The long odds are exactly why this fight is so important.\" - campaign coverage, 2026, https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7",
+        "Hays Post - \"Kansas First Congressional District has a new candidate\"",
+        "The long odds are exactly why this fight is so important. - campaign coverage, 2026, https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7 (campaign meaning)",
+        "The long odds are exactly why this fight is so important. - campaign coverage, 2026, https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7",
         "Hays Post announcement: https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7",
         "https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7",
         "> -- Hays Post, 2026, https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7",
-        "\"source\": \"Hays Post, 2026, https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7\","
+        "\"source\": \"Hays Post, 2026, https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7\""
       ]
     },
     {
@@ -506,7 +504,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Great Bend Post carried the Musser campaign announcement",
         "Great Bend Post, \"Kansas First Congressional District has a new candidate,\" published 2026-03-24, accessed 2026-05-19: https://greatbendpost.com/posts/d2d97c94-1d35-4fc6-a09d-3453408c580e",
-        "[Great Bend Post - \"Kansas First Congressional District has a new candidate\"](https://greatbendpost.com/posts/d2d97c94-1d35-4fc6-a09d-3453408c580e)",
+        "Great Bend Post - \"Kansas First Congressional District has a new candidate\"",
         "Great Bend Post announcement: https://greatbendpost.com/posts/d2d97c94-1d35-4fc6-a09d-3453408c580e"
       ]
     },
@@ -519,7 +517,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Ballotpedia lists Craig Musser in the 2026 Kansas 1st Congressional District context",
-        "[Craig Musser - Ballotpedia](https://ballotpedia.org/Craig_Musser)",
+        "Craig Musser - Ballotpedia",
         "Ballotpedia, \"Craig Musser,\" accessed 2026-05-19: https://ballotpedia.org/Craig_Musser",
         "Ballotpedia profile: https://ballotpedia.org/Craig_Musser",
         "Ballotpedia page: https://ballotpedia.org/Craig_Musser"
@@ -537,12 +535,11 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
         "Existing local capture recorded 2 page likes",
         "Metadata included Serving Kansans Not an Agenda",
         "Post-level reactions, comments, and shares were not visible in logged-out capture",
-        "Audience response is mostly unavailable because the accessible social record contains one Facebook page/post metadata item and no public post body with visible reactions, comments, shares, or views. The campaign Facebook page metadata listed \"Craig Musser for",
+        "Audience response is mostly unavailable because the accessible social record contains one Facebook page/post metadata item and no public post body with visible reactions, comments, shares, or views. The campaign Faceboo...",
         "Facebook, \"Craig Musser for Congress,\" accessed through existing local capture and checked 2026-05-19: https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/",
         "Facebook, \"Craig Musser for Congress,\" existing local logged-out capture 2026-05-11 and checked 2026-05-19: https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/",
         "Facebook campaign page: https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/",
-        "Facebook: [Craig Musser for Congress](https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/) — 2 likes in public page metadata — active page detected; one linked public post/poll URL found on the campaign website.",
-        "\"url\": \"https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/\",",
+        "Facebook: Craig Musser for Congress — 2 likes in public page metadata — active page detected; one linked public post/poll URL found on the campaign website.",
         "Page URL: https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/"
       ]
     },
@@ -554,10 +551,10 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "publisher": "Unitedkansas",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[United Kansas - Official Website](https://unitedkansas.com/)",
-        "Musser's visible alignment is with the United Kansas Party rather than with a Republican or Democratic campaign structure. His campaign home page links to the [United Kansas Party](https://unitedkansas.com/) and a campaign Facebook poll, and Hays Post reported",
+        "United Kansas - Official Website",
+        "Musser's visible alignment is with the United Kansas Party rather than with a Republican or Democratic campaign structure. His campaign home page links to the United Kansas Party and a campaign Facebook poll, and Hays P...",
         "United Kansas public site: https://unitedkansas.com/",
-        "Website: [unitedkansas.com](https://unitedkansas.com/)",
+        "Website: unitedkansas.com",
         "United Kansas Party, public site, accessed 2026-05-19: https://unitedkansas.com/"
       ]
     },
@@ -569,7 +566,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "publisher": "Zoominfo",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[ZoomInfo - Craig Musser](https://www.zoominfo.com/p/Craig-Musser/9122088966)"
+        "ZoomInfo - Craig Musser"
       ]
     }
   ]

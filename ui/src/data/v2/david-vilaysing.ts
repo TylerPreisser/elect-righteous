@@ -21,7 +21,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -31,7 +31,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -41,7 +41,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -62,7 +62,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: HaysPost: Officer on de-escalation training Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Public evidence: HaysPost: Officer on de-escalation training Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-deescalation"
         ]
@@ -74,7 +74,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public evidence: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-budget-prep",
           "s-tigermedia-budget-2025"
@@ -137,7 +137,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public evidence: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-budget-prep",
           "s-tigermedia-forum",
@@ -189,7 +189,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -199,7 +199,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -209,7 +209,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public evidence: That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they have no business sitting in those seats. He proposed workforce collaboration among the city, local businesses, Hays High, and Fort Hays State University, and his early swearing-in comments praised department leaders... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they have no business sitting in those seats. He proposed workforce collaboration among the city, local businesses, Hays High, and Fort Hays State University, and his early swearing-in comments praised department leaders... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-tigermedia-forum"
         ]
@@ -230,7 +230,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: HaysPost Candidate Q&A: David Vilaysing Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: HaysPost Candidate Q&A: David Vilaysing Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-qa",
           "s-ileeta-dxi"
@@ -281,7 +281,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Candidate-stated evidence: Vilaysing's law-enforcement and training background is a major part of how he presents himself. His DXI Training Solutions site describes responsible conflict management for first responders, businesses, and individuals. In a February 2026 Hays Post story, he said de-escalation training is meant to make law enforcement, civilians, and everyone safer. He also emphasized self-control and emotional intelligence, arguin... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: Vilaysing's law-enforcement and training background is a major part of how he presents himself. His DXI Training Solutions site describes responsible conflict management for first responders, businesses, and individuals. In a February 2026 Hays Post story, he said de-escalation training is meant to make law enforcement, civilians, and everyone safer. He also emphasized self-control and emotional intelligence, arguin... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-dxi-home",
           "s-hayspost-budget-prep",
@@ -342,7 +342,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public evidence: Hays Post: Water, retail, housing top issues Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Hays Post: Water, retail, housing top issues Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-election-night",
           "s-tigermedia-budget-2025"
@@ -385,7 +385,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-budget-prep",
           "s-hays-city-commission",
@@ -436,15 +436,15 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "David Vilaysing is profiled here for Hays City Commissioner as a nonpartisan incumbent/current official. The most consistent city-policy themes are water, housing, and cost discipline. Vilaysing calls the R9 water project important but not enough by itself, saying Hays needs both a secure near-term source and a permanent long-term answer. On housing, he talks ab... Hays Catholic Schools Advancement Director Announcement. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 13 source-backed actions across 7 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking offi... Economy / jobs / labor: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking offic... Economy / jobs / labor: That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they have no bus... Health care / insurance / Medicaid: That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whoTheyAre": "David Vilaysing is profiled here for Hays City Commissioner as a nonpartisan incumbent/current official. The most consistent city-policy themes are water, housing, and cost discipline. Vilaysing calls the R9 water project important but not enough by itself, saying Hays needs both a secure near-term source and a permanent long-term answer. On housing, he talks ab... Hays Catholic Schools Advancement Director Announcement. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 13 source-backed items across 7 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking offi... Economy / jobs / labor: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking offic... Economy / jobs / labor: That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they have no bus... Health care / insurance / Medicaid: That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they... Social-only material is listed separately as online observation, not official action.",
   "whereTheyWorship": "No current church affiliation or explicit public faith statement was verified in reviewed sources.",
   "campaignFinance": {
     "totalRaised": "Same as donorFunding: no online donor/funding detail was verified.",
@@ -453,7 +453,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "14 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "14 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-hays-city-commission",
@@ -465,12 +465,11 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "City of Hays lists David Vilaysing as a city commissioner",
         "The page describes the commission as the city's policy-making body",
-        "[City of Hays City Commission](https://www.haysusa.com/269/City-Commission)",
-        "[Hays City Commission Official Page](https://www.haysusa.com/269/City-Commission)",
+        "City of Hays City Commission",
+        "Hays City Commission Official Page",
         "https://www.haysusa.com/269/City-Commission",
-        "| City of Hays | Found | https://www.haysusa.com/269/City-Commission | Official page lists David Vilaysing as commissioner and provides city meeting/agenda context. |",
         "https://www.haysusa.com/269/City-Commission -- City commission info -- accessed 2026-03-30",
-        "\"campaignWebsite\": \"https://www.haysusa.com/269/City-Commission\","
+        "\"campaignWebsite\": \"https://www.haysusa.com/269/City-Commission\""
       ]
     },
     {
@@ -557,7 +556,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
         "Vilaysing asked whether the Exit 157 TIF had a matrix like other incentives",
         "Vilaysing asked for transparency to customers about special tax districts",
         "Vilaysing requested review of the city economic development policy",
-        "[City of Hays Apr. 23, 2026 agenda packet](https://www.haysusa.com/AgendaCenter/ViewFile/Agenda/_04232026-1609)"
+        "City of Hays Apr. 23, 2026 agenda packet"
       ]
     },
     {
@@ -582,7 +581,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "publisher": "Kansas Public Disclosure Commission",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Kansas campaign-finance data portal did not surface a clean city-commission donor record for Vilaysing in this pass"
+        "Kansas campaign-finance data portal did not surface a clean city-commission donor record for Vilaysing in the reviewed public record"
       ]
     },
     {
@@ -597,15 +596,14 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
         "Vilaysing opposed a mill levy increase and favored revenue-neutral budgeting",
         "Vilaysing said city leaders should talk to frontline employees",
         "Vilaysing described his law-enforcement and military-police experience",
-        "[HaysPost Candidate Q&A: David Vilaysing](https://hayspost.com/posts/5e243ec1-847a-40f8-a7dd-665ffe2f85de)",
-        "[Hays Post: David Vilaysing Q&A](https://hayspost.com/posts/5e243ec1-847a-40f8-a7dd-665ffe2f85de)",
+        "HaysPost Candidate Q&A: David Vilaysing",
+        "Hays Post: David Vilaysing Q&A",
         "\"I have a good set of core values.\" Source: Hays Post, 2025-10-25, https://hayspost.com/posts/5e243ec1-847a-40f8-a7dd-665ffe2f85de, topic: worldview and governance.",
-        "narrative: \"David Vilaysing's public messaging is built around service, practical city management, and conflict control. In his [Hays Post candidate Q&A](https://hayspost.com/posts/5e243ec1-847a-40f8-a7dd-665ffe2f85de), he framed the move from policing and fir",
-        "David Vilaysing's public messaging is built around service, practical city management, and conflict control. In his [Hays Post candidate Q&A](https://hayspost.com/posts/5e243ec1-847a-40f8-a7dd-665ffe2f85de), he framed the move from policing and first-responder",
-        "Candidate Q&A, Oct. 25, 2025: On taxes, he said he did not think a mill levy increase was needed and wanted creative budgeting to remain revenue neutral. Source: [Hays Post](https://hayspost.com/posts/5e243ec1-847a-40f8-a7dd-665ffe2f85de).",
-        "Candidate Q&A, Oct. 25, 2025: On operations, he said the city should \"go back to the people actually doing the jobs\" and ask frontline employees what is needed and not needed. Source: [Hays Post](https://hayspost.com/posts/5e243ec1-847a-40f8-a7dd-665ffe2f85de)",
-        "Candidate Q&A, Oct. 25, 2025: He said he had 22 years of combined Hays Police Department and military police experience and missed \"giving back to my community.\" Source: [Hays Post](https://hayspost.com/posts/5e243ec1-847a-40f8-a7dd-665ffe2f85de).",
-        "Candidate Q&A, Oct. 25, 2025: He described water and housing as the most pressing city issues and said Hays needs a secure water source, transparency on R9 progress, and housing options for low- to medium-income residents. Source: [Hays Post](https://hayspost.",
+        "David Vilaysing's public messaging is built around service, practical city management, and conflict control. In his Hays Post candidate Q&A, he framed the move from policing and first-responder",
+        "Candidate Q&A, Oct. 25, 2025: On taxes, he said he did not think a mill levy increase was needed and wanted creative budgeting to remain revenue neutral. Source: Hays Post.",
+        "Candidate Q&A, Oct. 25, 2025: On operations, he said the city should \"go back to the people actually doing the jobs\" and ask frontline employees what is needed and not needed. Source: Hays Post",
+        "Candidate Q&A, Oct. 25, 2025: He said he had 22 years of combined Hays Police Department and military police experience and missed \"giving back to my community.\" Source: Hays Post.",
+        "Candidate Q&A, Oct. 25, 2025: He described water and housing as the most pressing city issues and said Hays needs a secure water source, transparency on R9 progress, and housing options for low- to medium-income residen...",
         "https://hayspost.com/posts/5e243ec1-847a-40f8-a7dd-665ffe2f85de",
         "\"I knew at my core I missed giving back to my community.\" Source: Hays Post, 2025-10-25, https://hayspost.com/posts/5e243ec1-847a-40f8-a7dd-665ffe2f85de, topic: motivation for running.",
         "> -- Hays Post, October 25, 2025, https://hayspost.com/posts/5e243ec1-847a-40f8-a7dd-665ffe2f85de"
@@ -623,9 +621,9 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
         "Vilaysing wanted more out of existing city resources",
         "Vilaysing suggested RHID stipulations for low- and medium-income housing",
         "Vilaysing said commissioners should do the job without payment",
-        "Candidate forum, Oct. 8, 2025: The lone audience applause reportedly came when he said city commissioners should do the job without payment. Source: [Hays Post](https://hayspost.com/posts/1afb725b-f6c4-4d09-93de-94b9008ba5ae).",
-        "[Hays Post city commission forum, Oct. 8, 2025](https://hayspost.com/posts/1afb725b-f6c4-4d09-93de-94b9008ba5ae)",
-        "Candidate forum, Oct. 8, 2025: On R9, he said he would meet all involved parties and develop a plan to push forward within four years, not just ten. Source: [Hays Post](https://hayspost.com/posts/1afb725b-f6c4-4d09-93de-94b9008ba5ae)."
+        "Candidate forum, Oct. 8, 2025: The lone audience applause reportedly came when he said city commissioners should do the job without payment. Source: Hays Post.",
+        "Hays Post city commission forum, Oct. 8, 2025",
+        "Candidate forum, Oct. 8, 2025: On R9, he said he would meet all involved parties and develop a plan to push forward within four years, not just ten. Source: Hays Post."
       ]
     },
     {
@@ -638,10 +636,10 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Vilaysing said commissioners should lead by example and manage conflict when political violence is discussed",
         "Vilaysing proposed a Hays Workforce Development Council",
-        "That conflict-management language also shows up in politics. At the October 2025 candidate forum, [Tiger Media Network](https://tigermedianet.com/?p=90544) quoted him saying commissioners have to lead by example when conflict arises, or they have no business s",
-        "Candidate forum, Oct. 8, 2025: He proposed a Hays workforce development council connecting the city commission, local businesses, high school administrators, and FHSU administrators. Source: [Tiger Media Network](https://tigermedianet.com/?p=90544).",
-        "Candidate forum, Oct. 8, 2025: He said local leaders must model conflict management: \"If we can't lead by example ... we have no business being up here in those seats.\" Source: [Tiger Media Network](https://tigermedianet.com/?p=90544).",
-        "[Tiger Media Network city commission forum, Oct. 8, 2025](https://tigermedianet.com/?p=90544)"
+        "That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they have no busines...",
+        "Candidate forum, Oct. 8, 2025: He proposed a Hays workforce development council connecting the city commission, local businesses, high school administrators, and FHSU administrators. Source: Tiger Media Network.",
+        "Candidate forum, Oct. 8, 2025: He said local leaders must model conflict management: \"If we can't lead by example ... we have no business being up here in those seats.\" Source: Tiger Media Network.",
+        "Tiger Media Network city commission forum, Oct. 8, 2025"
       ]
     },
     {
@@ -653,9 +651,9 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Vilaysing told commissioners residents were heavily taxed and burdened during the revenue-neutral-rate hearing",
-        "The most consistent city-policy themes are water, housing, and cost discipline. Vilaysing calls the R9 water project important but not enough by itself, saying Hays needs both a secure near-term source and a permanent long-term answer. On housing, he talks abo",
-        "Public comment, Sept. 12, 2025: At a revenue-neutral budget hearing, he said residents were \"heavily taxed\" and \"burdened\" and asked the city to provide relief if possible. Source: [Tiger Media Network](https://tigermedianet.com/?p=89367).",
-        "[Tiger Media Network revenue-neutral budget, Sept. 12, 2025](https://tigermedianet.com/?p=89367)"
+        "The most consistent city-policy themes are water, housing, and cost discipline. Vilaysing calls the R9 water project important but not enough by itself, saying Hays needs both a secure near-term source and a permanent l...",
+        "Public comment, Sept. 12, 2025: At a revenue-neutral budget hearing, he said residents were \"heavily taxed\" and \"burdened\" and asked the city to provide relief if possible. Source: Tiger Media Network.",
+        "Tiger Media Network revenue-neutral budget, Sept. 12, 2025"
       ]
     },
     {
@@ -668,9 +666,9 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Election-night coverage reported unofficial Vilaysing vote count of 1,340",
         "Vilaysing said he was eager to get to work and named water and affordable housing as top issues",
-        "[Hays Post: Water, retail, housing top issues](https://hayspost.com/posts/b7a4b7ea-3e19-4919-a7fa-1de6db7bed8c)",
-        "Election-night quote, Nov. 6, 2025: He said he was \"a little surprised\" and \"very eager to get to work,\" and called water supply and affordable housing top issues. Source: [Hays Post](https://hayspost.com/posts/b7a4b7ea-3e19-4919-a7fa-1de6db7bed8c).",
-        "[Hays Post election follow-up, Nov. 6, 2025](https://hayspost.com/posts/b7a4b7ea-3e19-4919-a7fa-1de6db7bed8c)"
+        "Hays Post: Water, retail, housing top issues",
+        "Election-night quote, Nov. 6, 2025: He said he was \"a little surprised\" and \"very eager to get to work,\" and called water supply and affordable housing top issues. Source: Hays Post.",
+        "Hays Post election follow-up, Nov. 6, 2025"
       ]
     },
     {
@@ -683,9 +681,9 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Hays Post reported Vilaysing was sworn in and would serve a two-year term",
         "Vilaysing said department tours showed resourcefulness, resource preservation, and innovation",
-        "[Hays Post: New governing body 2026](https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08)",
-        "Swearing-in coverage, Jan. 10, 2026: He said city department leaders were finding ways to be resourceful, preserve resources, and embrace innovation. Source: [Hays Post](https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08).",
-        "[Hays Post swearing-in/reorganization, Jan. 10, 2026](https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08)"
+        "Hays Post: New governing body 2026",
+        "Swearing-in coverage, Jan. 10, 2026: He said city department leaders were finding ways to be resourceful, preserve resources, and embrace innovation. Source: Hays Post.",
+        "Hays Post swearing-in/reorganization, Jan. 10, 2026"
       ]
     },
     {
@@ -698,8 +696,8 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Vilaysing asked city staff to research pet licensing changes",
         "He connected the issue to owner tags, microchips, and city staff/police/dispatch time",
-        "Pet licensing, Feb. 14, 2026: He asked city staff to research changes to pet licensing because many pets already have owner tags or microchips, and said it could save city staff, police, and dispatch time. Source: [Hays Post](https://hayspost.com/posts/603fb2e",
-        "[Hays Post pet licensing, Feb. 14, 2026](https://hayspost.com/posts/603fb2e8-f14d-4075-a541-c9522b43ef76)"
+        "Pet licensing, Feb. 14, 2026: He asked city staff to research changes to pet licensing because many pets already have owner tags or microchips, and said it could save city staff, police, and dispatch time. Source: [Hays...",
+        "Hays Post pet licensing, Feb. 14, 2026"
       ]
     },
     {
@@ -711,9 +709,9 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Vilaysing challenged department heads to ask frontline staff what the city does not need to do",
-        "His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budg",
-        "2027 budget work session, Apr. 6, 2026: He challenged department heads to ask frontline staff for budget input because they can identify what the city does not need to do. Source: [Hays Post](https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb).",
-        "[Hays Post 2027 budget work session, Apr. 6, 2026](https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb)"
+        "His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, h...",
+        "2027 budget work session, Apr. 6, 2026: He challenged department heads to ask frontline staff for budget input because they can identify what the city does not need to do. Source: Hays Post.",
+        "Hays Post 2027 budget work session, Apr. 6, 2026"
       ]
     },
     {
@@ -737,10 +735,10 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Vilaysing said de-escalation training is meant to make law enforcement, civilians, and everyone safer",
         "Vilaysing said officer self-control is the most important factor in de-escalation",
-        "[HaysPost: Officer on de-escalation training](https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930)",
-        "[Hays Post: De-escalation training](https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930)",
-        "De-escalation training, Feb. 4, 2026: He said the purpose was to give first responders better tools and \"make everyone safer,\" and stressed officer self-control as the most important factor in de-escalation. Source: [Hays Post](https://hayspost.com/posts/a0f7d",
-        "[Hays Post de-escalation training, Feb. 4, 2026](https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930)"
+        "HaysPost: Officer on de-escalation training",
+        "Hays Post: De-escalation training",
+        "De-escalation training, Feb. 4, 2026: He said the purpose was to give first responders better tools and \"make everyone safer,\" and stressed officer self-control as the most important factor in de-escalation. Source: [Ha...",
+        "Hays Post de-escalation training, Feb. 4, 2026"
       ]
     },
     {
@@ -754,8 +752,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
         "The 2020 city service-award article says Vilaysing began with HPD in 2005 and was promoted to police sergeant in 2020",
         "\"David began his employment with the Hays Police Department in 2005 as a Police Officer.\" Source: Hays Post, 2020-11-15, https://hayspost.com/posts/40e17885-6833-42a5-9562-0abd9f173b21, topic: career history.",
         "> -- Hays Post, November 15, 2020, https://hayspost.com/posts/40e17885-6833-42a5-9562-0abd9f173b21",
-        "[hayspost.com](https://hayspost.com/posts/40e17885-6833-42a5-9562-0abd9f173b21)",
-        "\"source\": \"Hays Post, November 15, 2020, https://hayspost.com/posts/40e17885-6833-42a5-9562-0abd9f173b21\","
+        "\"source\": \"Hays Post, November 15, 2020, https://hayspost.com/posts/40e17885-6833-42a5-9562-0abd9f173b21\""
       ]
     },
     {
@@ -767,7 +764,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "As a Hays Police Department sergeant and bicycle officer, Vilaysing gave public bicycle-safety guidance",
-        "[Hays Post bicycle safety quote, June 15, 2023](https://hayspost.com/posts/b0e6ef58-d106-4a7d-b110-9d8fb7ab3af2)"
+        "Hays Post bicycle safety quote, June 15, 2023"
       ]
     },
     {
@@ -792,7 +789,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "This article is about Reese Barrick, not David Vilaysing",
         "The article says Vilaysing captured the third open Hays City Commission seat",
-        "[Hays Post: No Kings protest (Barrick, not Vilaysing)](https://hayspost.com/posts/39c5ed3b-dd7b-4248-a71f-a7ca06694a9e)"
+        "Hays Post: No Kings protest (Barrick, not Vilaysing)"
       ]
     },
     {
@@ -806,9 +803,8 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
         "DXI says it provides responsible conflict management skills and tools",
         "DXI lists training for law enforcement, businesses, individuals, and health/wellness",
         "DXI links Facebook, Instagram, TikTok, and YouTube accounts",
-        "Vilaysing's law-enforcement and training background is a major part of how he presents himself. His [DXI Training Solutions](https://dxitrainingsolutions.com/) site describes responsible conflict management for first responders, businesses, and individuals. In",
-        "| DXI Training Solutions website | Found | https://dxitrainingsolutions.com/ | Candidate-controlled business site. Links mission, services, contact info, and social icons. |",
-        "[DXI Training Solutions](https://dxitrainingsolutions.com/)"
+        "Vilaysing's law-enforcement and training background is a major part of how he presents himself. His DXI Training Solutions site describes responsible conflict management for first responders, businesses, and individuals...",
+        "DXI Training Solutions"
       ]
     },
     {
@@ -834,12 +830,11 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "ILEETA says DXI was founded by Sgt. David Vilaysing",
         "ILEETA describes DXI training in de-escalation, tactical communication, and emotional control",
-        "ILEETA Member: [DXI Training Solutions LLC](https://www.ileeta.org/dxi-training-solutions-llc/)",
-        "[ILEETA: DXI Training Solutions](https://www.ileeta.org/dxi-training-solutions-llc/)",
-        "| ILEETA vendor page | Found | https://www.ileeta.org/dxi-training-solutions-llc/ | Public business profile says DXI was founded by Sgt. David Vilaysing and describes training themes. |",
-        "[DXI Training Solutions LLC](https://www.ileeta.org/dxi-training-solutions-llc/)",
-        "ILEETA Member: [DXI Training Solutions](https://www.ileeta.org/dxi-training-solutions-llc/)",
-        "[ILEETA DXI Training Solutions profile](https://www.ileeta.org/dxi-training-solutions-llc/)"
+        "ILEETA Member: DXI Training Solutions LLC",
+        "ILEETA: DXI Training Solutions",
+        "DXI Training Solutions LLC",
+        "ILEETA Member: DXI Training Solutions",
+        "ILEETA DXI Training Solutions profile"
       ]
     },
     {
@@ -864,10 +859,10 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "The Guidon quoted an Oct. 12, 2025 public Facebook post by David Vilaysing about young-adult library books",
         "The Guidon reported that Vilaysing's accompanying video encouraged residents to attend the Oct. 15 library board meeting",
-        "The original Facebook post URL was not independently verified in this pass",
-        "One public social-media controversy stands out. The November 2025 issue of [The Guidon](https://hayshighguidon.com/wp-content/uploads/2025/11/Guidon_11-25_CombinedReduced.pdf) quoted a public Oct. 12 Facebook post in which Vilaysing said parents had raised con",
-        "Public Facebook post quoted by The Guidon, Oct. 12, 2025: He wrote that parents had raised concerns over young-adult books, that he inspected the area, and that he found books with graphic material he believed promoted inappropriate behavior in children. The a",
-        "[The Guidon November 2025 PDF](https://hayshighguidon.com/wp-content/uploads/2025/11/Guidon_11-25_CombinedReduced.pdf)"
+        "The original Facebook post URL was not independently verified in the reviewed public record",
+        "One public social-media controversy stands out. The November 2025 issue of The Guidon quoted a public Oct. 12 Facebook post in which Vilaysing said parents had raised con",
+        "Public Facebook post quoted by The Guidon, Oct. 12, 2025: He wrote that parents had raised concerns over young-adult books, that he inspected the area, and that he found books with graphic material he believed promoted....",
+        "The Guidon November 2025 PDF"
       ]
     },
     {
@@ -878,8 +873,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "publisher": "Goodparty",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "| GoodParty | Found but unclaimed | https://goodparty.org/candidate/david-vilaysing/hays-city-commission// | Profile says \"This profile is unclaimed,\" so treated as directory metadata, not candidate-controlled copy. |",
-        "[GoodParty David Vilaysing profile, unclaimed](https://goodparty.org/candidate/david-vilaysing/hays-city-commission//)"
+        "GoodParty David Vilaysing profile, unclaimed"
       ]
     }
   ]

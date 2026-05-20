@@ -20,7 +20,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -40,7 +40,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -50,7 +50,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -60,7 +60,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -111,7 +111,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -132,7 +132,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -142,7 +142,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -152,7 +152,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: HaysMed Center for Health Improvement page: lists Alaina Cunningham under group fitness instructors. Source: https://www.haysmed.com/services/chi-what-we-offer/ Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Public evidence: HaysMed Center for Health Improvement page: lists Alaina Cunningham under group fitness instructors. Source: https://www.haysmed.com/services/chi-what-we-offer/ Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-haysmed-chi"
         ]
@@ -175,7 +175,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: Cunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the commission elected Mason Ruder mayor and Cunningham vice mayor when the governing body reorganized on January 8, 2026. (City of Hays, Hays Post) Tiger Media Network reported that she and Ruder were not on the 2025 city ballot, confirming she remaine... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Cunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the commission elected Mason Ruder mayor and Cunningham vice mayor when the governing body reorganized on January 8, 2026. (City of Hays, Hays Post) Tiger Media Network reported that she and Ruder were not on the 2025 city ballot, confirming she remaine... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hays-current-commission",
           "s-ellis-2026-filings",
@@ -272,7 +272,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Alaina works at HaysMed and serves on the HaysMed Foundation Board and Downtown Hays Development Corporation Board Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Alaina works at HaysMed and serves on the HaysMed Foundation Board and Downtown Hays Development Corporation Board Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-alaina-cunningham-0067"
         ]
@@ -293,7 +293,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate-stated evidence: Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. (Hays Post) In 2025 R9 coverage, her language sharpened: \"This is about sustainability and survival,\" she said, adding that without it, Hays does not survive. (Hays Post) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. (Hays Post) In 2025 R9 coverage, her language sharpened: \"This is about sustainability and survival,\" she said, adding that without it, Hays does not survive. (Hays Post) Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2023"
         ]
@@ -363,7 +363,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. (Hays Post) In 2025 R9 coverage, her language sharpened: \"This is about sustainability and survival,\" she said, adding that without it, Hays does not survive. (Hays Post) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. (Hays Post) In 2025 R9 coverage, her language sharpened: \"This is about sustainability and survival,\" she said, adding that without it, Hays does not survive. (Hays Post) Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2023",
           "s-hays-current-commission",
@@ -449,7 +449,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public evidence: Hays Post candidate Q&A, October 25, 2023: Cunningham named securing a sustainable water source as one of the top issues, praised conservation, and described R9 as the framework for a long-term pipeline supply. Source: https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055",
+        "text": "Documented public record: Hays Post candidate Q&A, October 25, 2023: Cunningham named securing a sustainable water source as one of the top issues, praised conservation, and described R9 as the framework for a long-term pipeline supply. Source: https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055",
         "sourceIds": [
           "s-hayspost-qa-2023"
         ]
@@ -467,9 +467,9 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Alaina Cunningham is profiled here for Hays Vice Mayor / City Commissioner as a nonpartisan incumbent/current official. Quality of life is usually framed through practical amenities rather than broad ideology. She has discussed parks, community center needs, retiree housing, youth retention, and resident-facing services. Hays Post quoted her on The Grove/community center issue... Primary source: https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 14 source-backed actions across 5 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: Cunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the commission elected Mason Ruder... Election integrity / voting / courts: Primary source: https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings. Election integrity / voting / courts: Hays Post candidate Q&A, October 25, 2023: Cunningham named securing a sustainable water source as one of the top issues, praised conservation, and described R9 as the framework for a long-term pipelin... Election integrity / voting / courts: Hays Post candidate Q&A, October 25, 2023: Cunningham tied growth to housing shortage, diversified housing, developer incentives, workforce, youth retention, retiree needs, and a possible new community... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.",
+  "whoTheyAre": "Alaina Cunningham is profiled here for Hays Vice Mayor / City Commissioner as a nonpartisan incumbent/current official. Quality of life is usually framed through practical amenities rather than broad ideology. She has discussed parks, community center needs, retiree housing, youth retention, and resident-facing services. Hays Post quoted her on The Grove/community center issue... Primary source: https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 14 source-backed items across 5 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: Cunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the commission elected Mason Ruder... Election integrity / voting / courts: Primary source: https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings. Election integrity / voting / courts: Hays Post candidate Q&A, October 25, 2023: Cunningham named securing a sustainable water source as one of the top issues, praised conservation, and described R9 as the framework for a long-term pipelin... Election integrity / voting / courts: Hays Post candidate Q&A, October 25, 2023: Cunningham tied growth to housing shortage, diversified housing, developer incentives, workforce, youth retention, retiree needs, and a possible new community... Social-only material is listed separately as online observation, not official action.",
+  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed public record. No policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "No clean online donor list, campaign-finance total, committee report, or itemized contribution record for Alaina Cunningham was located in reviewed public sources.",
     "narrative": "No clean online donor list, campaign-finance total, committee report, or itemized contribution record for Alaina Cunningham was located in reviewed public sources.",
@@ -477,7 +477,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "17 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "17 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-hays-current-commission",
@@ -490,13 +490,11 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
         "The City of Hays lists Alaina Cunningham as vice mayor",
         "The City of Hays describes the commission as the city's policy-making body",
         "Hays commissioners are elected at large every two years",
-        "Cunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the commission elected Mason Ruder mayor and Cunningham vice mayor when the governing body reo",
-        "[Hays City Commission Official Page](https://www.haysusa.com/269/City-Commission)",
+        "Cunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the commission elected Mason Ruder mayor and Cunningh...",
+        "Hays City Commission Official Page",
         "City of Hays current commission page: https://www.haysusa.com/269/City-Commission",
-        "| Official city page | https://www.haysusa.com/269/City-Commission | FOUND | Current city page lists Cunningham as Hays vice mayor. The page also links agendas, minutes, live meetings, archived meetings, and audio/video. |",
-        "The City of Hays official commission page, crawled the week of capture, lists Mason Ruder as mayor and Alaina Cunningham as vice mayor. The same page describes the commission as a policy-making body in a commission-manager government and says commissioners are",
-        "City of Hays commission page: current role/status, vice mayor listing, commission structure, agenda/minutes and video links. ([source](https://www.haysusa.com/269/City-Commission))",
-        "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from Dece"
+        "The City of Hays official commission page, crawled the week of capture, lists Mason Ruder as mayor and Alaina Cunningham as vice mayor. The same page describes the commission as a policy-making body in a commission-mana...",
+        "City of Hays commission page: current role/status, vice mayor listing, commission structure, agenda/minutes and video links. (source)"
       ]
     },
     {
@@ -524,17 +522,17 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
         "Cunningham identified water, economic growth, housing, youth retention, retirees, budget discipline, infrastructure, and quality of life as priorities",
         "Cunningham said she felt a duty to serve the public and Do Good",
         "Cunningham said Hays needs developer incentives and diversified housing",
-        "Hays Post candidate Q&A, October 25, 2023: Cunningham named securing a sustainable water source as one of the top issues, praised conservation, and described R9 as the framework for a long-term pipeline supply. Source: https://hayspost.com/posts/5552ce0e-bfbc-",
-        "Hays Post candidate Q&A, October 25, 2023: Cunningham tied growth to housing shortage, diversified housing, developer incentives, workforce, youth retention, retiree needs, and a possible new community center. Source: https://hayspost.com/posts/5552ce0e-bfbc-4",
+        "Hays Post candidate Q&A, October 25, 2023: Cunningham named securing a sustainable water source as one of the top issues, praised conservation, and described R9 as the framework for a long-term pipeline supply. Source:....",
+        "Hays Post candidate Q&A, October 25, 2023: Cunningham tied growth to housing shortage, diversified housing, developer incentives, workforce, youth retention, retiree needs, and a possible new community center. Source: h...",
         "\"I feel it is my duty to serve the public and 'Do Good.'\" Source: Hays Post, 2023-10-25, https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055, topic: candidate biography and motivation.",
         "Hays Post candidate Q&A: https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055",
-        "Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. ([Hays Post](https://hayspost.com/posts/555",
+        "Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. ([...",
         "\"We are all aware how valuable water is to our area.\" Source: Hays Post, 2023-10-25, https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055, topic: water and city priorities.",
-        "Housing, growth, and incentives recur more often than any other accessible theme. Cunningham talks about retaining young adults, supporting all ages, meeting retiree housing needs, and using incentives to make development feasible. In her candidate Q&A, she ar",
-        "Her 2023 candidate Q&A is the densest first-person source. She framed her run around public service, saying she wanted to make positive change and that she tries to apply the motto \"Do Good\" in all areas of life. Her stated priorities were sustainable water, e",
-        "Hays Post candidate Q&A: first-person platform on water, housing, economic growth, retirees, budget, infrastructure, and \"Do Good.\" ([source](https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055))",
-        "On water, Cunningham's own statements put R9 and long-term water supply in survival terms. In her 2023 Q&A, she said securing a sustainable water source was one of the top issues facing Hays and praised conservation and the R9 framework. ([Hays Post, Oct. 25,",
-        "\"We are all aware how valuable water is to our area.\" ([Hays Post, Oct. 25, 2023](https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055))",
+        "Housing, growth, and incentives recur more often than any other accessible theme. Cunningham talks about retaining young adults, supporting all ages, meeting retiree housing needs, and using incentives to make developme...",
+        "Her 2023 candidate Q&A is the densest first-person source. She framed her run around public service, saying she wanted to make positive change and that she tries to apply the motto \"Do Good\" in all areas of life. Her st...",
+        "Hays Post candidate Q&A: first-person platform on water, housing, economic growth, retirees, budget, infrastructure, and \"Do Good.\" (source)",
+        "On water, Cunningham's own statements put R9 and long-term water supply in survival terms. In her 2023 Q&A, she said securing a sustainable water source was one of the top issues facing Hays and praised conservation and...",
+        "\"We are all aware how valuable water is to our area.\" (Hays Post, Oct. 25, 2023)",
         "> -- Hays Post, October 25, 2023, https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055"
       ]
     },
@@ -549,14 +547,14 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
         "Cunningham won a four-year Hays City Commission term in 2023",
         "Hays Post reported Cunningham received 27 percent of the vote",
         "Cunningham said she was honored to be chosen by voters",
-        "[HaysPost: Hays city commission incumbents re-elected](https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31)",
-        "The highest visible public attention metric is electoral, not social. Hays Post reported that Cunningham received 27 percent of the vote in November 2023 and won a four-year term. After the result, she said she was honored to be chosen and wanted to keep bette",
-        "[Hays Post: Incumbents re-elected](https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31)",
+        "HaysPost: Hays city commission incumbents re-elected",
+        "The highest visible public attention metric is electoral, not social. Hays Post reported that Cunningham received 27 percent of the vote in November 2023 and won a four-year term. After the result, she said she was hono...",
+        "Hays Post: Incumbents re-elected",
         "Hays Post 2023 election coverage: https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31",
-        "After the November 2023 election, Hays Post reported that Cunningham received 27 percent of the vote and won a four-year term. She said she was \"Truly honored to be chosen by the voters\" and wanted to keep \"bettering our community\" and \"doing good for Hays as",
-        "Hays Post election-night article: Cunningham elected to a four-year term with 27 percent of the vote and post-election quote. ([source](https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31))",
-        "The highest visible public attention metric was electoral rather than social: Hays Post reported Cunningham received 27 percent of the vote in the November 2023 Hays City Commission race and won a four-year term. ([source](https://hayspost.com/posts/5c04aec5-5",
-        "\"Truly honored to be chosen by the voters.\" ([Hays Post, Nov. 8, 2023](https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31))"
+        "After the November 2023 election, Hays Post reported that Cunningham received 27 percent of the vote and won a four-year term. She said she was \"Truly honored to be chosen by the voters\" and wanted to keep \"bettering ou...",
+        "Hays Post election-night article: Cunningham elected to a four-year term with 27 percent of the vote and post-election quote. (source)",
+        "The highest visible public attention metric was electoral rather than social: Hays Post reported Cunningham received 27 percent of the vote in the November 2023 Hays City Commission race and won a four-year term. ([sour...",
+        "\"Truly honored to be chosen by the voters.\" (Hays Post, Nov. 8, 2023)"
       ]
     },
     {
@@ -569,9 +567,9 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Housing and business development dominated the 2023 candidate forum",
         "Cunningham identified youth retention as a priority",
-        "Hays Post candidate forum, October 18, 2023: Housing and business development dominated the forum; Cunningham identified retaining young people as a top priority. Source: https://hayspost.com/posts/686c41a0-31e3-415a-8fdf-3df810e7f5be",
+        "Hays Post candidate forum, October 18, 2023: Housing and business development dominated the forum; Cunningham identified retaining young people as a top priority. Source: https://hayspost.com/posts/686c41a0-31e3-415a-8f...",
         "Hays Post candidate forum: https://hayspost.com/posts/686c41a0-31e3-415a-8fdf-3df810e7f5be",
-        "Hays Post candidate forum: housing and business development dominated the forum; Cunningham identified youth retention as a top priority. ([source](https://hayspost.com/posts/686c41a0-31e3-415a-8fdf-3df810e7f5be))"
+        "Hays Post candidate forum: housing and business development dominated the forum; Cunningham identified youth retention as a top priority. (source)"
       ]
     },
     {
@@ -585,9 +583,9 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
         "Cunningham said R9 is about sustainability and survival",
         "Cunningham said without the project Hays does not survive",
         "Hays Post R9 pipeline update: https://hayspost.com/posts/72cef8d3-79bf-4085-b070-bccbdc589f9d",
-        "Hays Post R9 water project story: quote framing water as sustainability and survival. ([source](https://hayspost.com/posts/72cef8d3-79bf-4085-b070-bccbdc589f9d))",
+        "Hays Post R9 water project story: quote framing water as sustainability and survival. (source)",
         "Hays Post, August 29, 2025: Cunningham said, \"This is about sustainability and survival,\" and \"without it, we don't survive.\" Source: https://hayspost.com/posts/72cef8d3-79bf-4085-b070-bccbdc589f9d",
-        "\"This is about sustainability and survival.\" ([Hays Post, Aug. 29, 2025](https://hayspost.com/posts/72cef8d3-79bf-4085-b070-bccbdc589f9d))"
+        "\"This is about sustainability and survival.\" (Hays Post, Aug. 29, 2025)"
       ]
     },
     {
@@ -600,12 +598,12 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "The Hays city 2026 budget was $54.3 million and revenue-neutral at 24.382 mills",
         "Cunningham said staff brought the constrained budget commissioners asked for",
-        "Budget and tax comments show a tradeoff-oriented style. She supported the city's 2026 revenue-neutral budget and told staff, \"You brought us a constrained budget which is what we asked for.\" ([Hays Post](https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593",
-        "Hays Post 2026 budget: Cunningham told staff, \"You brought us a constrained budget which is what we asked for.\" The article describes the city budget as $54.3 million and revenue-neutral at 24.382 mills. Source: https://hayspost.com/posts/7d615ae1-9b48-4ebd-92",
-        "[Hays Post: 2026 budget](https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593c85db69)",
-        "On budget and tax tradeoffs, she is visible as a constrained-budget voice. During 2026 budget approval, she told staff, \"You brought us a constrained budget which is what we asked for.\" ([Hays Post, Sep. 12, 2025](https://hayspost.com/posts/7d615ae1-9b48-4ebd-",
-        "Hays Post 2026 budget story: constrained-budget quote and 2026 revenue-neutral budget context. ([source](https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593c85db69))",
-        "\"You (staff) brought us a constrained budget which is what we asked for.\" ([Hays Post, Sep. 12, 2025](https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593c85db69))"
+        "Budget and tax comments show a tradeoff-oriented style. She supported the city's 2026 revenue-neutral budget and told staff, \"You brought us a constrained budget which is what we asked for.\" ([Hays Post](https://hayspos...",
+        "Hays Post 2026 budget: Cunningham told staff, \"You brought us a constrained budget which is what we asked for.\" The article describes the city budget as $54.3 million and revenue-neutral at 24.382 mills. Source: https:/...",
+        "Hays Post: 2026 budget",
+        "On budget and tax tradeoffs, she is visible as a constrained-budget voice. During 2026 budget approval, she told staff, \"You brought us a constrained budget which is what we asked for.\" ([Hays Post, Sep. 12, 2025](https...",
+        "Hays Post 2026 budget story: constrained-budget quote and 2026 revenue-neutral budget context. (source)",
+        "\"You (staff) brought us a constrained budget which is what we asked for.\" (Hays Post, Sep. 12, 2025)"
       ]
     },
     {
@@ -619,8 +617,8 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
         "Cunningham warned that eliminating funding sources can shift the burden",
         "Hays Post property-tax-relief discussion: Cunningham warned, \"When we eliminate sources of funding, we're just shifting the burden.\" Source: https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9",
         "Hays Post property-tax-relief discussion: https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9",
-        "Hays Post December 2025 property-tax-relief discussion: quote about shifting burden when funding sources are eliminated. ([source](https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9))",
-        "\"When we eliminate sources of funding, we're just shifting the burden.\" ([Hays Post, Dec. 20, 2025](https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9))"
+        "Hays Post December 2025 property-tax-relief discussion: quote about shifting burden when funding sources are eliminated. (source)",
+        "\"When we eliminate sources of funding, we're just shifting the burden.\" (Hays Post, Dec. 20, 2025)"
       ]
     },
     {
@@ -632,9 +630,9 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Cunningham said residents should understand early that tax caps could affect city services and amenities",
-        "Hays Post April 2026 budget-prep coverage: Cunningham said residents should know early that property-tax caps can affect city services and amenities. Source: https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb",
-        "Hays Post April 2026 budget-prep story: quote on property-tax caps, city impacts, amenities, and early public awareness. ([source](https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb))",
-        "\"While it's great to cap your property taxes, it's going to affect the city in other ways.\" ([Hays Post, Apr. 6, 2026](https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb))"
+        "Hays Post April 2026 budget-prep coverage: Cunningham said residents should know early that property-tax caps can affect city services and amenities. Source: https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389be...",
+        "Hays Post April 2026 budget-prep story: quote on property-tax caps, city impacts, amenities, and early public awareness. (source)",
+        "\"While it's great to cap your property taxes, it's going to affect the city in other ways.\" (Hays Post, Apr. 6, 2026)"
       ]
     },
     {
@@ -648,8 +646,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
         "HaysMed lists Alaina Cunningham among group fitness instructors",
         "HaysMed Center for Health Improvement page: lists Alaina Cunningham under group fitness instructors. Source: https://www.haysmed.com/services/chi-what-we-offer/",
         "HaysMed Center for Health Improvement: https://www.haysmed.com/services/chi-what-we-offer/",
-        "HaysMed public page: lists Alaina Cunningham among Center for Health Improvement group fitness instructors. ([source](https://www.haysmed.com/services/chi-what-we-offer/))",
-        "[haysmed.com](https://www.haysmed.com/services/chi-what-we-offer/)"
+        "HaysMed public page: lists Alaina Cunningham among Center for Health Improvement group fitness instructors. (source)"
       ]
     },
     {
@@ -673,7 +670,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "publisher": "Kansas Public Disclosure Commission",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Kansas campaign-finance data portal did not surface a clean online Alaina Cunningham donor record in this pass",
+        "Kansas campaign-finance data portal did not surface a clean online Alaina Cunningham donor record in the reviewed public record",
         "Kansas campaign-finance data portal: https://www.kansas.gov/campaign-finance/"
       ]
     },
@@ -685,8 +682,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "publisher": "Haysmed",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Alaina works at [HaysMed](https://www.haysmed.com/provider/alaina-cunningham/) and serves on the HaysMed Foundation Board and Downtown Hays Development Corporation Board",
-        "[HaysMed](https://www.haysmed.com/provider/alaina-cunningham/)"
+        "Alaina works at HaysMed and serves on the HaysMed Foundation Board and Downtown Hays Development Corporation Board"
       ]
     },
     {
@@ -697,7 +693,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "publisher": "Haysmed",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[HaysMed: Alaina Cunningham](https://www.haysmed.com/the-center/alaina-cunningham/)"
+        "HaysMed: Alaina Cunningham"
       ]
     },
     {
@@ -708,8 +704,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Facebook: [Alaina Cunningham](https://www.facebook.com/alaina.cunningham.9/)",
-        "| Personal Facebook | https://www.facebook.com/alaina.cunningham.9/ | FOUND, LIMITED | Existing project source list and public people-search/indexed results point to a personal Facebook profile. Logged-out direct fetch was not accessible and no public campaign"
+        "Facebook: Alaina Cunningham"
       ]
     },
     {
@@ -720,8 +715,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "publisher": "Linkedin",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "LinkedIn: [Alaina Cunningham](https://www.linkedin.com/in/alaina-cunningham-4436ba1/)",
-        "[Alaina Cunningham](https://www.linkedin.com/in/alaina-cunningham-4436ba1/)"
+        "LinkedIn: Alaina Cunningham"
       ]
     }
   ]

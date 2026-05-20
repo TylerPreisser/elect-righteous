@@ -1,0 +1,40 @@
+{
+  "agent_id": "public-wording-cleanup",
+  "agent_role": "professional-narrative-editor + frontend-implementer",
+  "started_at": "2026-05-20T22:12:00Z",
+  "completed_at": "2026-05-20T22:25:47Z",
+  "status": "complete",
+  "inputs_read": [
+    "scripts/compile-v2-yaml.mjs",
+    "ui/src/components/v2/IssueCardComponent.tsx",
+    "ui/src/components/v2/ActionList.tsx",
+    "ui/src/components/v2/CandidateV2Profile.tsx",
+    "ui/src/lib/profile-status.ts",
+    "ui/src/app/candidates/[slug]/client.tsx",
+    "ui/src/app/candidates/allen-park-v2/page.tsx",
+    "ui/src/data/v2/*.ts",
+    "memory/orchestration/STATE.md"
+  ],
+  "outputs_written": [
+    "scripts/compile-v2-yaml.mjs",
+    "ui/src/components/v2/IssueCardComponent.tsx",
+    "ui/src/components/v2/ActionList.tsx",
+    "ui/src/components/v2/CandidateV2Profile.tsx",
+    "ui/src/lib/profile-status.ts",
+    "ui/src/app/candidates/[slug]/client.tsx",
+    "ui/src/app/candidates/allen-park-v2/page.tsx",
+    "ui/src/data/v2/*.ts",
+    "memory/orchestration/STATE.md",
+    "memory/orchestration/agent-runs/2026-05-20/public-wording-cleanup/run-state.json",
+    "memory/orchestration/agent-runs/2026-05-20/public-wording-cleanup/notes.md",
+    "memory/orchestration/agent-runs/2026-05-20/public-wording-cleanup/handoff.md"
+  ],
+  "validation": {
+    "yaml_parse": "pass",
+    "phase2_inventory": "pass",
+    "validateCandidateV2": "pass: 81 candidates",
+    "tsc": "pass",
+    "npm_run_build": "pass: 266 static pages",
+    "targeted_leakage_scan": "pass; only remaining do-not-imply phrase is the legitimate source disclaimer 'Retweets do not imply endorsement.'"
+  }
+}

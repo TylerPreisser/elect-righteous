@@ -24,7 +24,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -34,7 +34,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented public evidence: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low fourth-grade proficiency and promising higher pay for \"good teachers,\" parental say, and accountability. (source) The biography page says he fought DEI in higher education, transgender participation in women's spor... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low fourth-grade proficiency and promising higher pay for \"good teachers,\" parental say, and accountability. (source) The biography page says he fought DEI in higher education, transgender participation in women's spor... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-issues"
         ]
@@ -55,7 +55,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low fourth-grade proficiency and promising higher pay for \"good teachers,\" parental say, and accountability. (source) The biography page says he fought DEI in higher education, transgender participation in women's spor... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low fourth-grade proficiency and promising higher pay for \"good teachers,\" parental say, and accountability. (source) The biography page says he fought DEI in higher education, transgender participation in women's spor... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-issues",
           "s-ksleg-profile"
@@ -126,7 +126,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Church website: newspring.org Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Public evidence: Church website: newspring.org Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-ty-masterson-0035",
           "src-ty-masterson-0036"
@@ -150,7 +150,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public evidence: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-issues",
           "s-campaign-home",
@@ -246,7 +246,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public evidence: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-issues",
           "s-campaign-home",
@@ -334,7 +334,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented public evidence: Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. (source) The campaign biography condenses that record into the claim that he delivered... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. (source) The campaign biography condenses that record into the claim that he delivered... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-ksleg-profile"
         ]
@@ -392,7 +392,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: The reviewed campaign and social material also shows a deliberate Trump-alignment strategy. Washington Examiner reported on November 11, 2025, that Trump 2024 orbit consultants and outside groups were organizing behind Masterson through Take Back Kansas and Take Back Kansas Action. (source) In the X sample, Masterson wrote, \"I stand with ICE and with President Trump!\" (source) and said President Trump's affordabilit... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The reviewed campaign and social material also shows a deliberate Trump-alignment strategy. Washington Examiner reported on November 11, 2025, that Trump 2024 orbit consultants and outside groups were organizing behind Masterson through Take Back Kansas and Take Back Kansas Action. (source) In the X sample, Masterson wrote, \"I stand with ICE and with President Trump!\" (source) and said President Trump's affordabilit... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-washington-examiner-masterson-2025"
         ]
@@ -424,7 +424,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -434,7 +434,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-issues",
           "s-campaign-home",
@@ -529,7 +529,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Reviewed evidence: His public safety message is direct and enforcement-oriented. The campaign site says Kansas ranks behind \"liberal crime havens\" for violent crime and that he would stand with law enforcement, back tough-on-crime policies, and fund police. (source) On X, he thanked Kansas law enforcement officers and used #BackTheBlue (source). In endorsement posts, he praised senators for law-enforcement training, drug-trafficking p... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Public evidence: His public safety message is direct and enforcement-oriented. The campaign site says Kansas ranks behind \"liberal crime havens\" for violent crime and that he would stand with law enforcement, back tough-on-crime policies, and fund police. (source) On X, he thanked Kansas law enforcement officers and used #BackTheBlue (source). In endorsement posts, he praised senators for law-enforcement training, drug-trafficking p... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-issues"
         ]
@@ -572,7 +572,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -582,7 +582,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-issues",
           "s-campaign-home",
@@ -688,15 +688,15 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Ty Masterson is profiled here for Governor candidate as a Republican. Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax... His campaign message pairs that tax frame with a broader \"Take Back Kansas\" argument. On the campaign homepage, Masterson says Kansas promised safe communities, low cost of living, and a shot at the American Dream, but that \"liberal Democrats\" and Laura Kelly... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 28 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low f... Education / curriculum / schools: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low... Education / curriculum / schools: Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation l... Taxes / spending / debt: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaig... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whoTheyAre": "Ty Masterson is profiled here for Governor candidate as a Republican. Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax... His campaign message pairs that tax frame with a broader \"Take Back Kansas\" argument. On the campaign homepage, Masterson says Kansas promised safe communities, low cost of living, and a shot at the American Dream, but that \"liberal Democrats\" and Laura Kelly... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 28 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low f... Education / curriculum / schools: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low... Education / curriculum / schools: Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation l... Taxes / spending / debt: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaig... Social-only material is listed separately as online observation, not official action.",
   "whereTheyWorship": "Public sources identify Masterson with NewSpring Church in Wichita, and the church website is https://www.newspring.org/. His campaign biography and faith language make religion a visible part of his public identity rather than a private background detail.",
   "campaignFinance": {
     "totalRaised": "$695,998.16 in total contributions and other receipts",
@@ -706,7 +706,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2025-12-31",
     "source": "Receipts and Expenditures Report - Ty Masterson 202601"
   },
-  "socialResearchNote": "26 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "26 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ksleg-profile",
@@ -719,11 +719,10 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
         "Masterson is Senate President, Republican, District 16, Butler County",
         "Masterson served in the House from 2005 to 2008 and Senate from 2009 to present",
         "Official profile links to his vote record",
-        "Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen vo",
-        "The official Kansas Legislature profile identifies Masterson as Senate president, Republican, District 16, with House service from 2005-2008 and Senate service from 2009-present. It also lists sponsored 2025-2026 measures on property tax limits, school-device",
-        "2026 Kansas Legislature sponsored measures. The Legislature profile lists sponsored or co-sponsored items including SCR1603 and SCR1616 on property tax valuation limits, SB302 on student devices/social media communications, SCR1608 on citizen voting, SCR1610 o",
-        "| Kansas Legislature profile | https://www.kslegislature.gov/legislators/sen_masterson_ty_1/ | FOUND | Official Senate profile lists Masterson as Senate president, District 16, with terms, committees, contact information, and 2025-2026 sponsored measures. |",
-        "Kansas Legislature profile, current 2025-2026 session page. Confirms Senate president role, District 16, legislative service, committees, and sponsored bills/resolutions. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/))"
+        "Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-...",
+        "The official Kansas Legislature profile identifies Masterson as Senate president, Republican, District 16, with House service from 2005-2008 and Senate service from 2009-present. It also lists sponsored 2025-2026 measur...",
+        "2026 Kansas Legislature sponsored measures. The Legislature profile lists sponsored or co-sponsored items including SCR1603 and SCR1616 on property tax valuation limits, SB302 on student devices/social media communicati...",
+        "Kansas Legislature profile, current 2025-2026 session page. Confirms Senate president role, District 16, legislative service, committees, and sponsored bills/resolutions. (source)"
       ]
     },
     {
@@ -734,8 +733,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Kansas Legislature",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Masterson's official 2025 voting record includes votes on SB 4, SB 5, SB 63, SCR 1611, and HCR 5011",
-        "\"url\": \"https://www.kslegislature.gov/b2025_26/vote-record/sen_masterson_ty_1/2025/\","
+        "Masterson's official 2025 voting record includes votes on SB 4, SB 5, SB 63, SCR 1611, and HCR 5011"
       ]
     },
     {
@@ -747,10 +745,9 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Masterson is listed under 2026 gubernatorial candidates with AT and 202601 filings",
-        "Kansas Ethics filing index: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
-        "Filing URL: [kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
-        "[Kansas Ethics Commission -- 2026 Campaign Finance](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
-        "[SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)"
+        "Kansas Ethics filing index: SWLinks2026EC",
+        "Filing URL: kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+        "Kansas Ethics Commission -- 2026 Campaign Finance"
       ]
     },
     {
@@ -763,8 +760,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Masterson's appointment form lists office sought as Governor",
         "The form was executed on July 22, 2025",
-        "Tom Devlin is listed as treasurer",
-        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01TM_AT.pdf\","
+        "Tom Devlin is listed as treasurer"
       ]
     },
     {
@@ -778,10 +774,9 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
         "Masterson reported $695,998.16 in total contributions and receipts for 2025",
         "Masterson reported $8,476.06 in expenditures and $687,522.10 cash on hand at close",
         "Masterson reported $24,120.24 in in-kind contributions",
-        "Kansas Ethics filing: [SW01TM_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01TM_202601.pdf)",
+        "Kansas Ethics filing: SW01TM_202601.pdf",
         "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01TM_202601.pdf",
-        "2026 filing PDF: [SW01TM_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01TM_202601.pdf)",
-        "[SW01TM_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01TM_202601.pdf)"
+        "2026 filing PDF: SW01TM_202601.pdf"
       ]
     },
     {
@@ -795,16 +790,14 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
         "Campaign frames race around safe communities, cost of living, schools, taxes, and out-migration",
         "Campaign says Masterson is running for governor to take back Kansas",
         "Campaign links Facebook, Instagram, and X accounts",
-        "His campaign message pairs that tax frame with a broader \"Take Back Kansas\" argument. On the campaign homepage, Masterson says Kansas promised safe communities, low cost of living, and a shot at the American Dream, but that \"liberal Democrats\" and Laura Kelly'",
-        "\"safe communities, a low cost of living, and a shot at achieving the American Dream\" - campaign homepage, 2026-04-01, [mastersonforgovernor.com](https://www.mastersonforgovernor.com/) - topic: worldview.",
-        "| Campaign Website | [mastersonforgovernor.com](https://www.mastersonforgovernor.com/) |",
-        "\"Let's TAKE BACK KANSAS\" - campaign homepage, 2026-04-01, [mastersonforgovernor.com](https://www.mastersonforgovernor.com/) - topic: campaign theme.",
-        "\"Kansas isn't for sale, and we're taking it back.\" - campaign site, 2026-04-01, https://www.mastersonforgovernor.com/ - topic: campaign framing.",
-        "\"common sense conservative leadership\" - campaign site language, 2026-04-01, https://www.mastersonforgovernor.com/ - topic: governing philosophy.",
-        "The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-\"woke\" policy, and conservative social policy. The homepage says Kansa",
-        "Campaign homepage, captured 2026-05-11. Masterson says Kansas is home, accuses Democratic governors and Laura Kelly/Joe Biden alignment of breaking Kansas's promise, cites violent crime, school proficiency, tax burden, and out-migration, and asks voters to \"Ta",
-        "| Campaign site | https://www.mastersonforgovernor.com/ | FOUND | Official campaign site. Source HTML showed publication date Apr 30, 2026; public text was accessible on 2026-05-11. |",
-        "[mastersonforgovernor.com](https://www.mastersonforgovernor.com/)",
+        "His campaign message pairs that tax frame with a broader \"Take Back Kansas\" argument. On the campaign homepage, Masterson says Kansas promised safe communities, low cost of living, and a shot at the American Dream, but....",
+        "safe communities, a low cost of living, and a shot at achieving the American Dream - campaign homepage, 2026-04-01, mastersonforgovernor.com - topic: worldview.",
+        "Let's TAKE BACK KANSAS - campaign homepage, 2026-04-01, mastersonforgovernor.com - topic: campaign theme.",
+        "Kansas isn't for sale, and we're taking it back. - campaign site, 2026-04-01, https://www.mastersonforgovernor.com/ - topic: campaign framing.",
+        "common sense conservative leadership - campaign site language, 2026-04-01, https://www.mastersonforgovernor.com/ - topic: governing philosophy.",
+        "The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-\"woke\" policy, and conservati...",
+        "Campaign homepage, captured 2026-05-11. Masterson says Kansas is home, accuses Democratic governors and Laura Kelly/Joe Biden alignment of breaking Kansas's promise, cites violent crime, school proficiency, tax burden,....",
+        "mastersonforgovernor.com",
         "Candidate-controlled campaign site is https://www.mastersonforgovernor.com/; current UI has an unrelated mann.house.gov campaignWebsite value."
       ]
     },
@@ -820,12 +813,11 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
         "Campaign says Masterson led a $2 billion tax cut",
         "Campaign says Masterson would fund police and back tough-on-crime policies",
         "Campaign says Masterson would raise pay for good teachers and give parents a say",
-        "Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low fourth-grade proficiency and promising higher pay for \"",
-        "Across the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has th",
-        "His public safety message is direct and enforcement-oriented. The campaign site says Kansas ranks behind \"liberal crime havens\" for violent crime and that he would stand with law enforcement, back tough-on-crime policies, and fund police. ([source](https://www",
-        "narrative: \"_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instag",
-        "The campaign issue page organizes the message into five named fights: \"End the Kansas tax squeeze,\" \"Bring back Kansas jobs,\" \"Stand with the law. Not the lawbreakers,\" \"Teach reading. Teach math. Not woke nonsense,\" and \"Defend our Kansas values.\" ([source](h",
-        "Campaign issue page, captured 2026-05-11. The campaign lists taxes, jobs, law enforcement/public safety, reading/math instead of \"woke nonsense,\" and \"Kansas values\" as the core issue frame. ([source](https://www.mastersonforgovernor.com/about))"
+        "Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low fourth-grade p...",
+        "Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign sit...",
+        "His public safety message is direct and enforcement-oriented. The campaign site says Kansas ranks behind \"liberal crime havens\" for violent crime and that he would stand with law enforcement, back tough-on-crime policie...",
+        "The campaign issue page organizes the message into five named fights: \"End the Kansas tax squeeze,\" \"Bring back Kansas jobs,\" \"Stand with the law. Not the lawbreakers,\" \"Teach reading. Teach math. Not woke nonsense,\" an...",
+        "Campaign issue page, captured 2026-05-11. The campaign lists taxes, jobs, law enforcement/public safety, reading/math instead of \"woke nonsense,\" and \"Kansas values\" as the core issue frame. (source)"
       ]
     },
     {
@@ -840,12 +832,12 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
         "Campaign biography says Masterson leads GoCreate at Wichita State",
         "Campaign biography says Masterson became Senate President in 2021",
         "Campaign biography claims action on DEI, women's sports, gender-transition care for minors, taxes, and election integrity",
-        "Faith is not background-only in the visible record. The campaign biography says Masterson and his family attend NewSpring Church. ([source](https://www.mastersonforgovernor.com/services)) In the October 2025 Combat Antisemitism Movement interview, he said, \"My",
-        "[Ty Masterson for Governor](https://www.mastersonforgovernor.com/services)",
-        "The campaign biography page presents Masterson as a \"husband, father, pa, results-oriented conservative, and fighter for working Kansans.\" It says his family attends NewSpring Church and claims he championed a $2 billion tax cut, fought DEI in higher education",
-        "Campaign biography page, captured 2026-05-11. The biography ties Masterson's public identity to faith, family, Butler County roots, Senate leadership, GoCreate, NewSpring Church, and anti-DEI / anti-transgender policy claims. ([source](https://www.mastersonfor",
+        "Faith is not background-only in the visible record. The campaign biography says Masterson and his family attend NewSpring Church. (source) In the October 2025 Combat Antisemitism Movement interview, he said, \"My",
+        "Ty Masterson for Governor",
+        "The campaign biography page presents Masterson as a \"husband, father, pa, results-oriented conservative, and fighter for working Kansans.\" It says his family attends NewSpring Church and claims he championed a $2 billio...",
+        "Campaign biography page, captured 2026-05-11. The biography ties Masterson's public identity to faith, family, Butler County roots, Senate leadership, GoCreate, NewSpring Church, and anti-DEI / anti-transgender policy c...",
         "> -- Ty Masterson for Governor, 2026-04-01, https://www.mastersonforgovernor.com/services",
-        "\"source\": \"Ty Masterson for Governor, 2026-04-01, https://www.mastersonforgovernor.com/services\","
+        "\"source\": \"Ty Masterson for Governor, 2026-04-01, https://www.mastersonforgovernor.com/services\""
       ]
     },
     {
@@ -885,7 +877,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
         "Masterson participated in the January 30, 2026 Kansas GOP gubernatorial debate",
         "Masterson spoke about tax reform, property taxes, STAR bonds, school choice, and experience",
         "The debate field showed consensus on judicial selection, marijuana, abortion, ICE/federal law enforcement, and energy",
-        "[Salina Post - Debate statements and answers](https://salinapost.com/posts/68a90d33-8d9a-49ec-abbb-9190b4f87f7e)"
+        "Salina Post - Debate statements and answers"
       ]
     },
     {
@@ -911,12 +903,12 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Masterson did not make a personal loan to his campaign in 2025",
         "Masterson said Take Back Kansas had $700,000 in an account that did not identify donors",
-        "> -- [Kansas Reflector, January 19, 2026](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "[Kansas Reflector: Millionaire candidates (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "[Kansas Reflector - Millionaire candidates fundraising (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "[Kansas Reflector: Millionaire candidates](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "[Kansas Reflector: Millionaire candidates burnish fundraising (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "2026-01-19 campaign finance coverage. Kansas Reflector reported Masterson ended 2025 with about $687,000 in his campaign account, did not make a personal loan, and said Take Back Kansas had $700,000. ([source](https://kansasreflector.com/2026/01/19/millionaire"
+        "> -- Kansas Reflector, January 19, 2026",
+        "Kansas Reflector: Millionaire candidates (Jan 19, 2026)",
+        "Kansas Reflector - Millionaire candidates fundraising (Jan 19, 2026)",
+        "Kansas Reflector: Millionaire candidates",
+        "Kansas Reflector: Millionaire candidates burnish fundraising (Jan 19, 2026)",
+        "2026-01-19 campaign finance coverage. Kansas Reflector reported Masterson ended 2025 with about $687,000 in his campaign account, did not make a personal loan, and said Take Back Kansas had $700,000. ([source](https://k..."
       ]
     },
     {
@@ -928,9 +920,9 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Reporting linked Trump-aligned consultants and outside groups to Masterson's campaign infrastructure",
-        "The reviewed campaign and social material also shows a deliberate Trump-alignment strategy. Washington Examiner reported on November 11, 2025, that Trump 2024 orbit consultants and outside groups were organizing behind Masterson through Take Back Kansas and Ta",
-        "[Washington Examiner: Trumpworld Gets Behind Masterson](https://www.washingtonexaminer.com/news/campaigns/state/3883028/trumpworld-gets-behind-ty-masterson-kansas-governor-race/)",
-        "2025-11-11 Trump-aligned campaign infrastructure coverage. Washington Examiner reported Trump 2024 orbit consultants and outside groups were lining up behind Masterson, including Take Back Kansas and Take Back Kansas Action. ([source](https://www.washingtonexa"
+        "The reviewed campaign and social material also shows a deliberate Trump-alignment strategy. Washington Examiner reported on November 11, 2025, that Trump 2024 orbit consultants and outside groups were organizing behind....",
+        "Washington Examiner: Trumpworld Gets Behind Masterson",
+        "2025-11-11 Trump-aligned campaign infrastructure coverage. Washington Examiner reported Trump 2024 orbit consultants and outside groups were lining up behind Masterson, including Take Back Kansas and Take Back Kansas Ac..."
       ]
     },
     {
@@ -944,7 +936,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
         "Reporting said Kansas Young Republican leaders were photographed at a Masterson campaign event before Politico's reporting",
         "Reporting said Masterson denied campaign association with the individuals",
         "https://kansasreflector.com/2025/10/14/kansas-young-republicans-shut-down-after-politico-report-on-racist-violent-encrypted-chat/",
-        "[Kansas Reflector: Kansas Young Republicans shut down (Oct 14, 2025)](https://kansasreflector.com/2025/10/14/kansas-young-republicans-shut-down-after-politico-report-on-racist-violent-encrypted-chat/)"
+        "Kansas Reflector: Kansas Young Republicans shut down (Oct 14, 2025)"
       ]
     },
     {
@@ -966,12 +958,11 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Newspring",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Church website: [newspring.org](https://www.newspring.org/)",
-        "[NewSpring Church Wichita](https://www.newspring.org/)",
-        "Public sources identify Masterson with NewSpring Church in Wichita, and the church website is https://www.newspring.org/. His campaign biography and faith language make religion a visible part of his public identity rather than a private background detail.",
-        "Existing UI church URL points to ihm-church.com, but Ty Masterson's campaign bio identifies NewSpring Church. Candidate memory should use https://www.newspring.org/ if church metadata is carried forward.",
-        "\"whereTheyWorship\": \"Public sources identify Masterson with NewSpring Church in Wichita, and the church website is https://www.newspring.org/. His campaign biography and faith language make religion a visible part of his public identity rather than a private b",
-        "[newspring.org](https://www.newspring.org/)"
+        "Church website: newspring.org",
+        "NewSpring Church Wichita",
+        "Public sources identify Masterson with NewSpring Church in Wichita, and the church website is https://www.newspring.org/. His campaign biography and faith language make religion a visible part of his public identity rat...",
+        "Existing UI church URL points to ihm-church.com, but Ty Masterson's campaign bio identifies NewSpring Church. reviewed source notes should use https://www.newspring.org/ if church metadata is carried forward.",
+        "\"whereTheyWorship\": \"Public sources identify Masterson with NewSpring Church in Wichita, and the church website is https://www.newspring.org/. His campaign biography and faith language make religion a visible part of hi..."
       ]
     },
     {
@@ -982,12 +973,11 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Senatortymasterson",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "\"They attend NewSpring Church.\" - campaign biography, 2026-04-01, [senatortymasterson.com](https://senatortymasterson.com/meet-ty/) - topic: faith/church.",
-        "\"They attend NewSpring Church.\" - Ty Masterson biography, 2026-04-01, https://senatortymasterson.com/meet-ty/ - topic: faith/church.",
-        "Campaign bio: [Meet Ty](https://senatortymasterson.com/meet-ty/)",
-        "Public bio: [Senator Ty Masterson](https://senatortymasterson.com/meet-ty/)",
-        "[Meet Ty](https://senatortymasterson.com/meet-ty/)",
-        "[Kansas Legislature Profile](https://www.kslegislature.gov/li/b2025_26/members/sen_masterson_ty_1/)"
+        "They attend NewSpring Church. - campaign biography, 2026-04-01, senatortymasterson.com - topic: faith/church.",
+        "They attend NewSpring Church. - Ty Masterson biography, 2026-04-01, https://senatortymasterson.com/meet-ty/ - topic: faith/church.",
+        "Campaign bio: Meet Ty",
+        "Public bio: Senator Ty Masterson",
+        "Kansas Legislature Profile"
       ]
     },
     {
@@ -998,7 +988,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Csgmidwest",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[CSG Midwest Profile: Ty Masterson](https://csgmidwest.org/wp-content/uploads/2022/07/sen-masterson.pdf)"
+        "CSG Midwest Profile: Ty Masterson"
       ]
     },
     {
@@ -1009,8 +999,8 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Combatantisemitism",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Combat Antisemitism: Masterson reflects on Israel visit](https://combatantisemitism.org/interview/its-important-to-understand-the-truth-and-spread-it-kansas-senate-president-ty-masterson-reflects-on-state-lawmakers-delegation-visit-to-israel/)",
-        "2025-10-30 Israel / antisemitism interview. Combat Antisemitism Movement published a Q&A with Masterson after a state-lawmakers delegation visit to Israel, including comments on state authority, IHRA antisemitism definition, Christian faith, Israel, and moral"
+        "Combat Antisemitism: Masterson reflects on Israel visit",
+        "2025-10-30 Israel / antisemitism interview. Combat Antisemitism Movement published a Q&A with Masterson after a state-lawmakers delegation visit to Israel, including comments on state authority, IHRA antisemitism defini..."
       ]
     },
     {
@@ -1021,8 +1011,8 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Masterson Launches Campaign](https://kansasreflector.com/2025/07/20/kansas-senate-president-ty-masterson-launches-republican-campaign-for-governor/)",
-        "2025-07-20 campaign launch coverage. Kansas Reflector reported Masterson entered the crowded Republican governor field and described his Senate leadership role. ([source](https://kansasreflector.com/2025/07/20/kansas-senate-president-ty-masterson-launches-repu"
+        "Kansas Reflector: Masterson Launches Campaign",
+        "2025-07-20 campaign launch coverage. Kansas Reflector reported Masterson entered the crowded Republican governor field and described his Senate leadership role. ([source](https://kansasreflector.com/2025/07/20/kansas-se..."
       ]
     },
     {
@@ -1033,7 +1023,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Justfacts.Votesmart",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Vote Smart: Biography](https://justfacts.votesmart.org/candidate/biography/57517/ty-masterson)"
+        "Vote Smart: Biography"
       ]
     },
     {
@@ -1044,7 +1034,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: SB 244 Criticism](https://kansasreflector.com/2026/02/18/senate-president-ty-masterson-and-kansas-republicans-just-voted-to-send-men-into-ladies-bathrooms/)"
+        "Kansas Reflector: SB 244 Criticism"
       ]
     },
     {
@@ -1055,7 +1045,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Sunflowerstatejournal",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Sunflower State Journal: Masterson Assembles National Team](https://sunflowerstatejournal.com/masterson-assembles-national-campaign-team-with-trump-ties/)"
+        "Sunflower State Journal: Masterson Assembles National Team"
       ]
     },
     {
@@ -1066,9 +1056,9 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Kwch",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[KWCH: Masterson Confirms Redistricting Plan](https://www.kwch.com/2025/09/24/gubernatorial-candidate-ty-masterson-confirms-plan-fall-redistricting-session/)",
-        "The strongest structural-power signal is redistricting. KWCH reported in September 2025 that Masterson confirmed plans for a fall special session to consider redrawing Kansas's congressional map. ([source](https://www.kwch.com/2025/09/24/gubernatorial-candidat",
-        "2025-09-24 redistricting coverage. KWCH reported Masterson confirmed plans for a fall special session on congressional redistricting. ([source](https://www.kwch.com/2025/09/24/gubernatorial-candidate-ty-masterson-confirms-plan-fall-redistricting-session/))"
+        "KWCH: Masterson Confirms Redistricting Plan",
+        "The strongest structural-power signal is redistricting. KWCH reported in September 2025 that Masterson confirmed plans for a fall special session to consider redrawing Kansas's congressional map. ([source](https://www.k...",
+        "2025-09-24 redistricting coverage. KWCH reported Masterson confirmed plans for a fall special session on congressional redistricting. (source)"
       ]
     },
     {
@@ -1079,7 +1069,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "X",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "2025-12-05 indexed X status: Scott Hill endorsement. Search-indexed X status showed Masterson praising Hill on education funding, property taxes, and Salina law-enforcement training; visible X snippet listed 702 views, 5 replies, 3 reposts, and 13 likes. ([sou"
+        "2025-12-05 indexed X status: Scott Hill endorsement. Search-indexed X status showed Masterson praising Hill on education funding, property taxes, and Salina law-enforcement training; visible X snippet listed 702 views,..."
       ]
     },
     {
@@ -1090,19 +1080,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "2025-10 Kansas Reflector public-employee speech coverage. Kansas Reflector quoted Masterson's X post urging the education commissioner to remove Katie Allen from the Kansas Department of Education after a social-media comment about Charlie Kirk's death. ([sour"
-      ]
-    },
-    {
-      "id": "src-ty-masterson-0180",
-      "tier": "social",
-      "url": "https://twitter.com/TyMastersonKS",
-      "title": "Twitter",
-      "publisher": "Twitter",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| X / Twitter | https://twitter.com/TyMastersonKS and https://x.com/TyMastersonKS | FOUND | Campaign site links this account. Indexed mirror metadata: official account for Kansas Senate President Ty Masterson, joined January 2021, about 527 tweets, 3K follower",
-        "[X](https://twitter.com/TyMastersonKS)"
+        "2025-10 Kansas Reflector public-employee speech coverage. Kansas Reflector quoted Masterson's X post urging the education commissioner to remove Katie Allen from the Kansas Department of Education after a social-media c..."
       ]
     },
     {
@@ -1113,7 +1091,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[kansasreflector.com/tag/senate-president-ty-masterson/](https://kansasreflector.com/tag/senate-president-ty-masterson/)"
+        "kansasreflector.com/tag/senate-president-ty-masterson/"
       ]
     },
     {
@@ -1124,7 +1102,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "En.Wikipedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Ty Masterson - Wikipedia](https://en.wikipedia.org/wiki/Ty_Masterson)"
+        "Ty Masterson - Wikipedia"
       ]
     },
     {
@@ -1135,7 +1113,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Ballotpedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Ty Masterson - Ballotpedia](https://ballotpedia.org/Ty_Masterson)"
+        "Ty Masterson - Ballotpedia"
       ]
     },
     {
@@ -1146,7 +1124,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Kmuw",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[KMUW: Masterson Announces Bid](https://www.kmuw.org/2025-07-20/state-sen-ty-masterson-of-andover-announces-2026-gubernatorial-bid)"
+        "KMUW: Masterson Announces Bid"
       ]
     },
     {
@@ -1157,7 +1135,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Kwch",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[KWCH: Masterson Announces Run](https://www.kwch.com/2025/07/20/ty-masterson-announces-run-kansas-governor-lets-take-back-kansas/)"
+        "KWCH: Masterson Announces Run"
       ]
     },
     {
@@ -1168,8 +1146,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Alec",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[ALEC Profile](https://alec.org/person/senator-ty-masterson-2/)",
-        "[ALEC: Ty Masterson Profile](https://alec.org/person/senator-ty-masterson-2/)"
+        "ALEC: Ty Masterson Profile"
       ]
     },
     {
@@ -1180,7 +1157,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Ginnykrumme.Substack",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Ginny Krumme Substack: Ty Masterson, Chapter 1](https://ginnykrumme.substack.com/p/ty-masterson-chapter-1)"
+        "Ginny Krumme Substack: Ty Masterson, Chapter 1"
       ]
     },
     {
@@ -1191,7 +1168,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Alec",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[ALEC: Hugh Hewitt Show Appearance](https://alec.org/article/2024-agendas-ty-masterson-hugh-hewitt/)"
+        "ALEC: Hugh Hewitt Show Appearance"
       ]
     },
     {
@@ -1202,7 +1179,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Pro.Stateaffairs",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[StateAffairs Pro: Masterson Assumes ALEC Chair](https://pro.stateaffairs.com/ks/flash/ty-masterson-alec-chair)"
+        "StateAffairs Pro: Masterson Assumes ALEC Chair"
       ]
     },
     {
@@ -1213,7 +1190,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Sunflowerstatejournal",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Sunflower State Journal: ALEC Chair](https://sunflowerstatejournal.com/masterson-become-new-national-chair-of-alec/)"
+        "Sunflower State Journal: ALEC Chair"
       ]
     },
     {
@@ -1224,7 +1201,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Wichita",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[WSU Profile: Ty Masterson](https://www.wichita.edu/profiles/research/Masterson-Ty.php)"
+        "WSU Profile: Ty Masterson"
       ]
     },
     {
@@ -1235,7 +1212,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Kctv5",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "2025-07-20 launch coverage quoting campaign site. KWCH/KCTV quoted Masterson's campaign language on Kansas as home and blamed \"liberal Democrats in Topeka\" for decline in safety, affordability, and opportunity. ([source](https://www.kctv5.com/2025/07/20/ty-mas"
+        "2025-07-20 launch coverage quoting campaign site. KWCH/KCTV quoted Masterson's campaign language on Kansas as home and blamed \"liberal Democrats in Topeka\" for decline in safety, affordability, and opportunity. ([source..."
       ]
     },
     {
@@ -1246,18 +1223,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "publisher": "Kwch",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "2025-10-14 redistricting quote. KWCH quoted Masterson defending redistricting as a \"standard political tool\" and saying the goal was to strengthen Kansas Republican representation in Congress to back President Trump's agenda. ([source](https://www.kwch.com/202"
-      ]
-    },
-    {
-      "id": "src-ty-masterson-0270",
-      "tier": "social",
-      "url": "https://www.facebook.com/presidenttymasterson/",
-      "title": "Facebook",
-      "publisher": "Facebook",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| Facebook (Senate) | [Kansas Senate President Ty Masterson](https://www.facebook.com/presidenttymasterson/) |"
+        "2025-10-14 redistricting quote. KWCH quoted Masterson defending redistricting as a \"standard political tool\" and saying the goal was to strengthen Kansas Republican representation in Congress to back President Trump's a..."
       ]
     }
   ]

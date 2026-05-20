@@ -3,9 +3,7 @@
  *
  * Route: /candidates/allen-park-v2
  *
- * This is the Phase 1 proof-of-concept for the v2 content model.
- * It imports the hand-written v2 candidate object directly (Pattern A)
- * and renders it through the four v2 components.
+ * Legacy direct route for the sourced Allen Park profile.
  *
  * Page sections:
  *   1. Candidate header (name, party, position, election, occupation)
@@ -21,9 +19,9 @@ import IssueCardComponent from "@/components/v2/IssueCardComponent";
 import ClaimAnchoredSourcePanel from "@/components/v2/ClaimAnchoredSourcePanel";
 
 export const metadata: Metadata = {
-  title: "Allen Park — USD 489 School Board Member (v2 profile)",
+  title: "Allen Park — USD 489 School Board Member",
   description:
-    "Allen Park is a USD 489 school board member and retired district principal. This page uses the Elect Righteous v2 content model. Every claim is source-cited; no grading, no badges.",
+    "Allen Park is a USD 489 school board member and retired district principal. Every claim is source-cited; no grading, no badges.",
 };
 
 const PARTY_LABEL: Record<string, string> = {
@@ -63,9 +61,9 @@ export default function AllenParkV2Page() {
             <span
               className="ml-2 rounded px-2 py-0.5 text-xs font-heading font-bold uppercase tracking-widest"
               style={{ backgroundColor: "rgba(28,195,175,0.25)", color: "var(--color-teal)" }}
-              title="This page uses the v2 content model (Phase 1 proof-of-concept)"
+              title="Sourced profile"
             >
-              v2 preview
+              sourced profile
             </span>
           </nav>
 
@@ -273,7 +271,7 @@ export default function AllenParkV2Page() {
               >
                 About page
               </Link>
-              . This is a v2 preview page; the final layout may change before full launch.
+              .
             </p>
           </footer>
         </div>

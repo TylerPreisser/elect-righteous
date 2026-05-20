@@ -19,7 +19,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate-stated evidence: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he supported Commerce Parkway access as a useful route to the new school, I-70, north Hays, and future development. In 2025 and 2026 housing and water discussions, he asked practical questions about traffic signals, rural w... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he supported Commerce Parkway access as a useful route to the new school, I-70, north Hays, and future development. In 2025 and 2026 housing and water discussions, he asked practical questions about traffic signals, rural w... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-candidate-2020"
         ]
@@ -99,7 +99,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account. It also found no verified current campaign website, no long-form post-2020 platform page, no public church-affiliation statement by Younger, and no reliable campaign finance table. The official... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Public evidence: Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account. It also found no verified current campaign website, no long-form post-2020 platform page, no public church-affiliation statement by Younger, and no reliable campaign finance table. The official... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-ellis-election-results-page"
         ]
@@ -122,7 +122,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and said the county should keep people involved in meetings. By 2025, during debate over the 2026 budget, he defended high spending as tied to core county services including ambulance, road and bridge, noxious w... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and said the county should keep people involved in meetings. By 2025, during debate over the 2026 budget, he defended high spending as tied to core county services including ambulance, road and bridge, noxious w... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-candidate-2020",
           "s-hayspost-budget-tentative-2025",
@@ -220,7 +220,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he supported Commerce Parkway access as a useful route to the new school, I-70, north Hays, and future development. In 2025 and 2026 housing and water discussions, he asked practical questions about traffic signals, rural w... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he supported Commerce Parkway access as a useful route to the new school, I-70, north Hays, and future development. In 2025 and 2026 housing and water discussions, he asked practical questions about traffic signals, rural w... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-candidate-2020"
         ]
@@ -241,7 +241,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -251,7 +251,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -261,7 +261,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and said the county should keep people involved in meetings. By 2025, during debate over the 2026 budget, he defended high spending as tied to core county services including ambulance, road and bridge, noxious w... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and said the county should keep people involved in meetings. By 2025, during debate over the 2026 budget, he defended high spending as tied to core county services including ambulance, road and bridge, noxious w... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-candidate-2020",
           "s-hayspost-budget-tentative-2025",
@@ -342,7 +342,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: Neal Younger's public messaging footprint is unusually small for an incumbent elected official. No verified campaign website or candidate-controlled social account was found, and the strongest first-person source remains his July 30, 2020 Hays Post candidate questionnaire. In that questionnaire, he presented himself as a tradesman and practical county-government candidate: an electrician and plumber with constructio... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Neal Younger's public messaging footprint is unusually small for an incumbent elected official. No verified campaign website or candidate-controlled social account was found, and the strongest first-person source remains his July 30, 2020 Hays Post candidate questionnaire. In that questionnaire, he presented himself as a tradesman and practical county-government candidate: an electrician and plumber with constructio... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-candidate-2020",
           "s-ellis-commission-page",
@@ -426,7 +426,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: His clearest later budget message came in the mental-health funding debate. Hays Post reported in July 2025 that Younger supported the requested High Plains Mental Health increase because it was less expensive than building a new jail. That framing tied county spending to cost avoidance and public safety rather than to a standalone service expansion. The county's March 17, 2026 minutes also recorded that, as commiss... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: His clearest later budget message came in the mental-health funding debate. Hays Post reported in July 2025 that Younger supported the requested High Plains Mental Health increase because it was less expensive than building a new jail. That framing tied county spending to cost avoidance and public safety rather than to a standalone service expansion. The county's March 17, 2026 minutes also recorded that, as commiss... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-budget-tentative-2025",
           "s-ellis-commission-page",
@@ -485,7 +485,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate-stated evidence: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he supported Commerce Parkway access as a useful route to the new school, I-70, north Hays, and future development. In 2025 and 2026 housing and water discussions, he asked practical questions about traffic signals, rural w... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he supported Commerce Parkway access as a useful route to the new school, I-70, north Hays, and future development. In 2025 and 2026 housing and water discussions, he asked practical questions about traffic signals, rural w... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-candidate-2020",
           "s-minutes-04082026"
@@ -546,7 +546,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and said the county should keep people involved in meetings. By 2025, during debate over the 2026 budget, he defended high spending as tied to core county services including ambulance, road and bridge, noxious w... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate statement: The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and said the county should keep people involved in meetings. By 2025, during debate over the 2026 budget, he defended high spending as tied to core county services including ambulance, road and bridge, noxious w... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-candidate-2020",
           "s-hayspost-budget-tentative-2025"
@@ -649,7 +649,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public evidence: March 17, 2026 official minutes: Chair Neal Younger called the regular meeting to order; county commissioner report says he attended a weather spotting meeting and a High Plains Mental Health fundraiser. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: March 17, 2026 official minutes: Chair Neal Younger called the regular meeting to order; county commissioner report says he attended a weather spotting meeting and a High Plains Mental Health fundraiser. Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-minutes-03172026"
         ]
@@ -667,18 +667,18 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Neal Younger is profiled here for Ellis County Commissioner, District 2; current officeholder not on the 2026 county filing PDF as a Republican incumbent/current official. Neal Younger's public messaging footprint is unusually small for an incumbent elected official. No verified campaign website or candidate-controlled social account was found, and the strongest first-person source remains his July 30, 2020 Hays Post candidate... Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account. It also found no verified current... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 30 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he suppor... Education / curriculum / schools: Communication and public involvement are also recurring. Younger said in 2020 that city commissioners should attend county meetings and county commissioners should attend city meetings. He said he would ta... Taxes / spending / debt: The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and sa... Taxes / spending / debt: His clearest later budget message came in the mental-health funding debate. Hays Post reported in July 2025 that Younger supported the requested High Plains Mental Health increase because it was less expensive than... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "whereTheyWorship": "Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account. It also found no verified current... No public church or denomination record was located for Neal Younger in the source set reviewed for this pass. I am not claiming one here. I did not verify a public church affiliation for Neal Younger in this pass. This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "whoTheyAre": "Neal Younger is profiled here for Ellis County Commissioner, District 2; current officeholder not on the 2026 county filing PDF as a Republican incumbent/current official. Neal Younger's public messaging footprint is unusually small for an incumbent elected official. No verified campaign website or candidate-controlled social account was found, and the strongest first-person source remains his July 30, 2020 Hays Post candidate... Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account. It also found no verified current... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 30 source-backed items across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he suppor... Education / curriculum / schools: Communication and public involvement are also recurring. Younger said in 2020 that city commissioners should attend county meetings and county commissioners should attend city meetings. He said he would ta... Taxes / spending / debt: The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and sa... Taxes / spending / debt: His clearest later budget message came in the mental-health funding debate. Hays Post reported in July 2025 that Younger supported the requested High Plains Mental Health increase because it was less expensive than... Social-only material is listed separately as online observation, not official action.",
+  "whereTheyWorship": "Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account. It also found no verified current... No public church or denomination record was located for Neal Younger in the source set reviewed in the reviewed public record. No affiliation is claimed one here. The review did not verify a public church affiliation for Neal Younger in the reviewed public record. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
     "narrative": "not_located",
     "donors": [],
-    "undisclosed": "No reliable itemized campaign-finance report or donor table surfaced for Younger's county races in public web/KPDC searches or existing candidate material. Do not infer no donors or no fundraising from this absence.",
+    "undisclosed": "No reliable itemized campaign-finance report or donor table surfaced for Younger's county races in public web/KPDC searches or existing candidate material. The public record does not establish no donors or no fundraising from this absence.",
     "reportingPeriod": "Most recent public filing reviewed",
-    "source": "Candidate v2 issue file"
+    "source": "Reviewed public records"
   },
-  "socialResearchNote": "22 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "22 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ellis-commission-page",
@@ -691,15 +691,15 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "Ellis County lists Neal Younger as Second District commissioner",
         "County page provides commission meeting schedule, agenda/minutes access, YouTube meeting access, mission, values, and contact workflow",
         "The page is an official office source, not a candidate campaign website",
-        "The official county record confirms his current role but provides mostly procedural rather than ideological material. Ellis County's commission page lists him as Second District commissioner and links the public agenda, minutes, and YouTube meeting records. Of",
-        "[Ellis County Commission Official Page](https://www.ellisco.net/120/County-Commission)",
+        "The official county record confirms his current role but provides mostly procedural rather than ideological material. Ellis County's commission page lists him as Second District commissioner and links the public agenda,...",
+        "Ellis County Commission Official Page",
         "https://www.ellisco.net/120/County-Commission",
-        "[Ellis County Commission Page](https://www.ellisco.net/120/County-Commission)",
-        "[Ellis County Commission](https://www.ellisco.net/120/County-Commission)",
-        "Official county profile: [Ellis County Commission](https://www.ellisco.net/120/County-Commission) lists Neal Younger as Second District commissioner with county contact information and links to county agendas, minutes, and YouTube meeting broadcasts.",
-        "[Ellis County Commission official page](https://www.ellisco.net/120/County-Commission): lists Younger as Second District commissioner and provides the commission meeting schedule, mission statement, values, agenda/minutes link, and YouTube meeting access.",
+        "Ellis County Commission Page",
+        "Ellis County Commission",
+        "Official county profile: Ellis County Commission lists Neal Younger as Second District commissioner with county contact information and links to county agendas, minutes, and YouTube meeting broadcasts.",
+        "Ellis County Commission official page: lists Younger as Second District commissioner and provides the commission meeting schedule, mission statement, values, agenda/minutes link, and YouTube meeting access.",
         "officialProfileUrl: \"https://www.ellisco.net/120/County-Commission\"",
-        "\"campaignWebsite\": \"https://www.ellisco.net/120/County-Commission\","
+        "\"campaignWebsite\": \"https://www.ellisco.net/120/County-Commission\""
       ]
     },
     {
@@ -712,9 +712,8 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Ellis County publishes official election-result PDFs",
         "The page links 2024 General Election Official Results and 2024 Primary Official Results",
-        "Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account. It also found no verified current c",
-        "\"url\": \"https://www.ellisco.net/435/Election-Results\",",
-        "[Ellis County election results page](https://www.ellisco.net/435/Election-Results) links official county election results."
+        "Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit acc...",
+        "Ellis County election results page links official county election results."
       ]
     },
     {
@@ -728,7 +727,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "Official PDF visual readback page 3 shows County Commission 2nd District Neal Younger (R) with 3,653 votes",
         "Official PDF visual readback page 3 shows write-ins with 59 and total votes cast 3,712",
         "PDF is image-only for text extraction in this environment",
-        "[2024 official results PDF](https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results) lists County Commission 2nd District: Republican Neal Younger, 3,653 votes, and 59 write-in votes."
+        "2024 official results PDF lists County Commission 2nd District: Republican Neal Younger, 3,653 votes, and 59 write-in votes."
       ]
     },
     {
@@ -755,8 +754,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "Resolution 2026-03 waiving GAAP standards was adopted and signed by Younger as chair",
         "Resolution 2026-04 set 2026 elected-official salaries, listing District 2 commissioner at $21,584",
         "Younger was appointed to Northwest Kansas Juvenile Board and Community Corrections in 2026",
-        "\"url\": \"https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_01132026-721\",",
-        "[January 13, 2026 official minutes](https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_01132026-721): commission appointed Neal Younger chair of the Board of County Commissioners for the next year and appointed him to the Northwest Kansas Juvenile Board an"
+        "January 13, 2026 official minutes: commission appointed Neal Younger chair of the Board of County Commissioners for the next year and appointed him to the Northwest Kansas Juvenile Board an"
       ]
     },
     {
@@ -846,7 +844,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "IT Director job-description update passed 3-0",
         "County commissioner report says Younger attended a weather spotting meeting and a High Plains Mental Health fundraiser",
         "Executive sessions discussed proposed Tallgrass solar documents and potential litigation with no action taken",
-        "[March 17, 2026 official minutes](https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_03172026-738): Chair Neal Younger called the regular meeting to order; county commissioner report says he attended a weather spotting meeting and a High Plains Mental Heal"
+        "March 17, 2026 official minutes: Chair Neal Younger called the regular meeting to order; county commissioner report says he attended a weather spotting meeting and a High Plains Mental Heal"
       ]
     },
     {
@@ -860,7 +858,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "Chair Younger called the special road-tour session to order",
         "Road tour covered right-of-way, solar-project road-use agreement issues, engineer inspections, escrow for road damage, culverts, bridges, minimal-maintenance roads, subdivision roads, and transfer-station expansion",
         "No formal action was taken",
-        "[March 31, 2026 official road-tour minutes](https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_03312026-739): Chair Younger called a special road-tour session to order; the tour covered right-of-way, road improvements, solar project road-use issues, culver"
+        "March 31, 2026 official road-tour minutes: Chair Younger called a special road-tour session to order; the tour covered right-of-way, road improvements, solar project road-use issues, culver"
       ]
     },
     {
@@ -873,7 +871,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Chair Younger called the county retreat to order",
         "Retreat covered department needs, county financial future, capital plan, solar-farm implications, transient guest tax, fairgrounds/Historical Society funding, and sheriff staffing",
-        "[April 8, 2026 county retreat minutes](https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_04082026-743): Chair Younger called the retreat to order; discussion covered department needs, county financial future, capital planning, solar-farm implications, tra"
+        "April 8, 2026 county retreat minutes: Chair Younger called the retreat to order; discussion covered department needs, county financial future, capital planning, solar-farm implications, tra"
       ]
     },
     {
@@ -887,7 +885,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "Chair Younger called the meeting to order",
         "Younger seconded Stonewood North Addition CID Petition public-hearing notice Resolution 2026-08",
         "Resolution 2026-08 passed 2-0 and set a public hearing for Stonewood Estates road-improvement assessment financing",
-        "[April 14, 2026 minutes](https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_04142026-744): Chair Younger called the meeting to order and seconded the consent agenda motion."
+        "April 14, 2026 minutes: Chair Younger called the meeting to order and seconded the consent agenda motion."
       ]
     },
     {
@@ -898,21 +896,20 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "publisher": "Hays Post",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Younger gave candidate-attributed answers on public health, economic development, county departments, city-county communication, budget stabilization, public service, voter concerns, roads, personal experience, staffing, employee pay, and county attorney staffing",
+        "Younger gave candidate-attributed answers on public health, economic development, county departments, city-county communication, budget stabilization, public service, voter concerns, roads, personal experience, staffing...",
         "Younger described himself as an electrician and plumber with construction experience",
         "Younger identified Ellis County spending as a top voter concern in 2020",
-        "Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he supported Commerce Parkway access as a useful route to the ne",
-        "Communication and public involvement are also recurring. Younger said in 2020 that city commissioners should attend county meetings and county commissioners should attend city meetings. He said he would talk with taxpayers and attend surrounding city, town, an",
-        "narrative: \"*A summary of what Neal Younger has publicly said or been attributed as saying in candidate questionnaires, official county records, public meeting coverage, and local news. Drawn from public sources through May 11, 2026. We report patterns; we do",
-        "The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and said the county should keep people involved in m",
-        "\"Ellis County spending too much money\" - Hays Post candidate profile - https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd - topic: campaign concern",
-        "2020 commissioner profile on budgeting: \"Ellis County spending too much money.\" Source: [Hays Post](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd) on July 30, 2020.",
-        "2020 commissioner profile on public health: \"I would talk with the head of the EMS.\" Source: [Hays Post](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd) on July 30, 2020.",
-        "Neal Younger's public messaging footprint is unusually small for an incumbent elected official. No verified campaign website or candidate-controlled social account was found, and the strongest first-person source remains his July 30, 2020 Hays Post candidate q",
-        "\"common sense solutions\" - Hays Post candidate profile - https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd - topic: governing style",
-        "[Candidate Profile -- Hays Post](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd)",
-        "[HaysPost Candidate Profile: Neal Younger](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd)",
-        "[Hays Post: Candidate Profile](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd)"
+        "Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he supported Commerce P...",
+        "Communication and public involvement are also recurring. Younger said in 2020 that city commissioners should attend county meetings and county commissioners should attend city meetings. He said he would talk with taxpay...",
+        "The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and said th...",
+        "Ellis County spending too much money - Hays Post candidate profile - https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd - topic: campaign concern",
+        "2020 commissioner profile on budgeting: \"Ellis County spending too much money.\" Source: Hays Post on July 30, 2020.",
+        "2020 commissioner profile on public health: \"I would talk with the head of the EMS.\" Source: Hays Post on July 30, 2020.",
+        "Neal Younger's public messaging footprint is unusually small for an incumbent elected official. No verified campaign website or candidate-controlled social account was found, and the strongest first-person source remain...",
+        "common sense solutions - Hays Post candidate profile - https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd - topic: governing style",
+        "Candidate Profile -- Hays Post",
+        "HaysPost Candidate Profile: Neal Younger",
+        "Hays Post: Candidate Profile"
       ]
     },
     {
@@ -939,9 +936,9 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "Hays Post election-night article listed results as preliminary, pending canvass",
         "Article listed Neal Younger with 3,556 votes",
         "This conflicts with official canvassed PDF and should not be used as final vote total",
-        "[2024 Election Results -- Hays Post](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
-        "[Hays Post: 2024 Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
-        "[Hays Post: 2024 General Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)"
+        "2024 Election Results -- Hays Post",
+        "Hays Post: 2024 Election Results",
+        "Hays Post: 2024 General Election Results"
       ]
     },
     {
@@ -955,8 +952,8 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "Hays Post reported High Plains Mental Health Center funding increase request for the Crisis Intervention Center",
         "Hays Post reported Younger said the requested increase was less expensive than building a new jail",
         "Hays Post reported the commission moved to preserve the legal option to exceed revenue neutral",
-        "His clearest later budget message came in the mental-health funding debate. Hays Post reported in July 2025 that Younger supported the requested High Plains Mental Health increase because it was less expensive than building a new jail. That framing tied county",
-        "[Hays Post, July 16, 2025](https://hayspost.com/posts/fbac2993-56a7-4ebb-b494-5a194944d2c2): in budget discussion, Younger said the High Plains Mental Health increase was less expensive than building a new jail."
+        "His clearest later budget message came in the mental-health funding debate. Hays Post reported in July 2025 that Younger supported the requested High Plains Mental Health increase because it was less expensive than buil...",
+        "Hays Post, July 16, 2025: in budget discussion, Younger said the High Plains Mental Health increase was less expensive than building a new jail."
       ]
     },
     {
@@ -970,8 +967,8 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "Hays Post reported 2026 budget approval with a 1.96 mill increase",
         "Hays Post reported general fund expenditures at $34.7 million",
         "Hays Post reported Younger tied county spending to services including ambulance, road and bridge, noxious weeds, and mental health",
-        "[Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)",
-        "[Hays Post, Sept. 9, 2025](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec): during 2026 budget approval coverage, Younger defended high county spending as tied to services including ambulance, roads, noxious weeds, and mental health."
+        "Hays Post: 2026 budget/mill levy",
+        "Hays Post, Sept. 9, 2025: during 2026 budget approval coverage, Younger defended high county spending as tied to services including ambulance, roads, noxious weeds, and mental health."
       ]
     },
     {
@@ -985,7 +982,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "Hays Post reported the commission approved a 2.5% COLA for employees, elected officials, and contract positions",
         "Hays Post quoted Younger saying the county did not want to be a training center",
         "Hays Post reported the Victoria road assistance request failed 2-1 with Berges and Younger dissenting",
-        "[Hays Post, June 11, 2025](https://hayspost.com/posts/f411c2a9-c20a-4cf3-963d-d834ddb0f613): in cost-of-living adjustment coverage, Younger said, \"We don't want to be a training center.\" He also said a Victoria approach-road request should be considered in fut"
+        "Hays Post, June 11, 2025: in cost-of-living adjustment coverage, Younger said, \"We don't want to be a training center.\" He also said a Victoria approach-road request should be considered in fut"
       ]
     },
     {
@@ -999,7 +996,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "Hays Post reported Younger supported reducing scholarship funding until the next budget",
         "Hays Post reported Younger proposed reducing Grow Hays by $5,000 and reallocating that amount to Ellis County Historical Society",
         "Hays Post reported the budget draft, outside-agency funding, mill levy increase proposal, and capital-project bonding discussion",
-        "[Hays Post, Aug. 7, 2025](https://hayspost.com/posts/214198c7-e910-476d-b7b7-6c39644d6eb9): reported Younger supported reducing scholarship funding for reassessment and proposed shifting $5,000 from Grow Hays to the Ellis County Historical Society."
+        "Hays Post, Aug. 7, 2025: reported Younger supported reducing scholarship funding for reassessment and proposed shifting $5,000 from Grow Hays to the Ellis County Historical Society."
       ]
     },
     {
@@ -1013,7 +1010,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "Hays Post reported commission returned Big Creek Third Addition preliminary plat for further review",
         "Coverage described water, stormwater, lot-size, zoning, and roadway concerns",
         "Hays Post reported Younger suggested residents explore rural water district formation or seeking Hays water",
-        "[Hays Post, Jan. 6, 2026](https://hayspost.com/posts/ee851b27-fd93-4943-b1ba-e924696a0982): reported Younger suggested Big Creek Estates residents explore forming a rural water district or seeking Hays water."
+        "Hays Post, Jan. 6, 2026: reported Younger suggested Big Creek Estates residents explore forming a rural water district or seeking Hays water."
       ]
     },
     {
@@ -1028,7 +1025,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "Hays Post reported water would come from individual private wells",
         "Hays Post reported Younger asked what would happen if a planned well had to be moved",
         "Hays Post reported future CID parameters around two-thirds support and 75% parcel development",
-        "[Hays Post, Feb. 11, 2026](https://hayspost.com/posts/6ba197c2-04b6-4e73-8650-431120cea10f): reported Younger asked what would happen if a Big Creek housing well had to be moved because water was not found at the planned location."
+        "Hays Post, Feb. 11, 2026: reported Younger asked what would happen if a Big Creek housing well had to be moved because water was not found at the planned location."
       ]
     },
     {
@@ -1041,7 +1038,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Hays Post reported joint city/county collaboration on road projects north of I-70",
         "Hays Post reported Younger supported Commerce Parkway access as useful for school access, interstate access, north Hays traffic, and future development",
-        "[Hays Post, Aug. 16, 2024](https://hayspost.com/posts/2584b551-eb90-4e5b-abbf-fd3ef6cab0bc): quoted Younger supporting Commerce Parkway access as a route to the new school, I-70, and future development."
+        "Hays Post, Aug. 16, 2024: quoted Younger supporting Commerce Parkway access as a route to the new school, I-70, and future development."
       ]
     },
     {
@@ -1054,7 +1051,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Text mirror lists County Commission District 2: Neal Younger (R) 3,653 and other/write-in 59",
         "Used only as accessible text corroboration for official image-only PDF",
-        "[2024 general results mirror](https://www.ike-lab.com/complete_elex_2024_gen_cotwp_Ellis.html) lists County Commission District 2: Neal Younger (R), 3,653 votes, and 59 write-ins."
+        "2024 general results mirror lists County Commission District 2: Neal Younger (R), 3,653 votes, and 59 write-ins."
       ]
     },
     {
@@ -1067,8 +1064,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "League profile/search result lists Neal Younger as Commissioner, Ellis County",
         "Search result showed last updated January 5, 2026",
-        "League profile: [League of Kansas Municipalities member profile](https://www.lkm.org/members/?id=41501857) lists Neal Younger as commissioner for Ellis County, last updated January 5, 2026.",
-        "[lkm.org](https://www.lkm.org/members/?id=41501857)"
+        "League profile: League of Kansas Municipalities member profile lists Neal Younger as commissioner for Ellis County, last updated January 5, 2026."
       ]
     },
     {
@@ -1079,7 +1075,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "publisher": "Ellisco",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "County meeting video: [Board Meeting Live Stream](https://www.ellisco.net/745/Board-Meeting-Live-Stream) says commission meetings are broadcast live on YouTube and links to the county YouTube channel."
+        "County meeting video: Board Meeting Live Stream says commission meetings are broadcast live on YouTube and links to the county YouTube channel."
       ]
     },
     {
@@ -1090,12 +1086,12 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "\"is less expensive than building a new jail.\" - Hays Post budget coverage - https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6 - topic: mental health funding",
-        "[2026 Salary Adjustments -- Hays Post](https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6)",
-        "[Hays Post: Commission Salary Adjustments 2026](https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6)",
+        "is less expensive than building a new jail. - Hays Post budget coverage - https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6 - topic: mental health funding",
+        "2026 Salary Adjustments -- Hays Post",
+        "Hays Post: Commission Salary Adjustments 2026",
         "> -- Hays Post, 2026, https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6",
-        "\"source\": \"Hays Post, 2026, https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6\",",
-        "[Hays Post, Jan. 13, 2026](https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6): reported Younger was appointed commission chairman for 2026, had the highest commissioner salary because he was longest-serving commissioner, and was appointed to the"
+        "\"source\": \"Hays Post, 2026, https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6\"",
+        "Hays Post, Jan. 13, 2026: reported Younger was appointed commission chairman for 2026, had the highest commissioner salary because he was longest-serving commissioner, and was appointed to the"
       ]
     },
     {
@@ -1106,7 +1102,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Hays Post, Feb. 17, 2025](https://hayspost.com/posts/6d241a34-335a-4d56-8c0e-25fd345db003): reported Younger requested review of turn signals at Highway 40 and Canterbury Drive ahead of increased traffic from the new high school."
+        "Hays Post, Feb. 17, 2025: reported Younger requested review of turn signals at Highway 40 and Canterbury Drive ahead of increased traffic from the new high school."
       ]
     },
     {
@@ -1117,7 +1113,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Hays Post, Sept. 30, 2024](https://hayspost.com/posts/fd6be90b-bcb4-49d7-bf9a-20194a876c3c): at a voter-education event, Younger said listening to constituents and fellow leaders matters for staying connected."
+        "Hays Post, Sept. 30, 2024: at a voter-education event, Younger said listening to constituents and fellow leaders matters for staying connected."
       ]
     },
     {
@@ -1128,7 +1124,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "publisher": "Greatbendpost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Hays Post, Apr. 3, 2025](https://greatbendpost.com/posts/abf8f598-5bf6-4fe2-b37b-60984c3b87c9): after former County Attorney Robert Anderson apologized for a budget overrun, Younger said it took a real person to apologize."
+        "Hays Post, Apr. 3, 2025: after former County Attorney Robert Anderson apologized for a budget overrun, Younger said it took a real person to apologize."
       ]
     },
     {
@@ -1139,7 +1135,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Hays Post, Oct. 9, 2024](https://hayspost.com/posts/350cf193-dff2-47d7-a993-b3ceec507caa): after Kerry McCue returned on an interim basis to lead the health department, Younger called it an honor for the county."
+        "Hays Post, Oct. 9, 2024: after Kerry McCue returned on an interim basis to lead the health department, Younger called it an honor for the county."
       ]
     },
     {
@@ -1150,7 +1146,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Hays Post, Oct. 13, 2025](https://hayspost.com/posts/769b9cc3-43f2-4772-9389-e5a962d9a36a): reported Younger asked for clarification on how long AMP Rentals would have access to a county-owned water well while awaiting a rural water meter."
+        "Hays Post, Oct. 13, 2025: reported Younger asked for clarification on how long AMP Rentals would have access to a county-owned water well while awaiting a rural water meter."
       ]
     },
     {
@@ -1161,7 +1157,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "publisher": "Ike-Lab",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[2024 primary results mirror](https://www.ike-lab.com/complete_elex_2024_pri_cotwp_Ellis.html) lists County Commission District 2 Republican primary: Neal Younger, 381 votes."
+        "2024 primary results mirror lists County Commission District 2 Republican primary: Neal Younger, 381 votes."
       ]
     }
   ]

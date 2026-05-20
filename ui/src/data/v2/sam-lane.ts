@@ -20,7 +20,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -40,7 +40,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -61,7 +61,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -71,7 +71,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -81,7 +81,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -122,7 +122,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -132,7 +132,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -163,7 +163,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -173,7 +173,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a secretary of state who \"plays fair\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair,... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a secretary of state who \"plays fair\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair,... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -251,7 +251,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -261,7 +261,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -292,7 +292,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a secretary of state who \"plays fair\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair,... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a secretary of state who \"plays fair\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair,... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -370,17 +370,17 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Sam Lane is profiled here for Kansas Secretary of State as a Democratic. Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a... Campaign home footer independently states: \"Paid for by Samuel Lane for Kansas, Erika Ashley treasurer.\" Source: https://www.samuellane.org/. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 6 source-backed actions across 2 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong... Election integrity / voting / courts: Campaign home footer independently states: \"Paid for by Samuel Lane for Kansas, Erika Ashley treasurer.\" Source: https://www.samuellane.org/. Election integrity / voting / courts: Candidate-controlled website: https://www.samuellane.org/. Local governance / transparency / ethics: Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and life... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "ownWordsNarrative": "summary: Public social research found one candidate-controlled Bluesky account and no candidate-owned public X/Twitter, Facebook, Instagram, TikTok, LinkedIn, Truth Social, Gab, Gettr, Substack, Reddit, or YouTube account. Social evidence is most relevant to election administration, voter access, privacy, and civil liberties; it is sparse or absent for taxes, agriculture, Medicaid, school finance, and broad economic policy.; sourceIds: s-bsky-profile-api; s-social-harvest-local",
-  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.",
+  "whoTheyAre": "Sam Lane is profiled here for Kansas Secretary of State as a Democratic. Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a... Campaign home footer independently states: \"Paid for by Samuel Lane for Kansas, Erika Ashley treasurer.\" Source: https://www.samuellane.org/. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 6 source-backed items across 2 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong... Election integrity / voting / courts: Campaign home footer independently states: \"Paid for by Samuel Lane for Kansas, Erika Ashley treasurer.\" Source: https://www.samuellane.org/. Election integrity / voting / courts: Candidate-controlled website: https://www.samuellane.org/. Local governance / transparency / ethics: Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and life... Social-only material is listed separately as online observation, not official action.",
+  "ownWordsNarrative": "[object Object]",
+  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed public record. No policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "KPDC 2025 reporting shows $590.91 in total contributions and receipts, $0.00 in expenditures, and $590.91 cash on hand. The only itemized receipt was $580.27 from Samuel Lane; $10.64 was unitemized. No PAC, institutional, or large donor line item was found in that report.",
     "narrative": "KPDC 2025 reporting shows $590.91 in total contributions and receipts, $0.00 in expenditures, and $590.91 cash on hand. The only itemized receipt was $580.27 from Samuel Lane; $10.64 was unitemized. No PAC, institutional, or large donor line item was found in that report.",
@@ -393,7 +393,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2025-12-31",
     "source": "Campaign Finance Receipts and Expenditures Report - Samuel Lane"
   },
-  "socialResearchNote": "16 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "16 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-campaign-home",
@@ -408,17 +408,16 @@ export const SAM_LANE_V2: CandidateFullV2 = {
         "Campaign says Lane has met with several county election commissioners/county clerks",
         "Campaign says he would visit all 105 county election offices if elected",
         "Footer says paid for by Samuel Lane for Kansas, Erika Ashley treasurer",
-        "narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because K",
-        "Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a",
+        "Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" runn...",
         "Campaign home footer independently states: \"Paid for by Samuel Lane for Kansas, Erika Ashley treasurer.\" Source: https://www.samuellane.org/",
         "Candidate-controlled website: https://www.samuellane.org/",
         "Campaign home: https://www.samuellane.org/",
-        "Campaign website: [samuellane.org](https://www.samuellane.org/)",
-        "\"I’m here to Hold the Line.\" - campaign site, 2026-04-01, https://www.samuellane.org/ - topic: campaign slogan.",
-        "\"We need honest people more than ever now.\" - campaign site, 2026-04-01, https://www.samuellane.org/ - topic: public trust.",
-        "\"I'm a lifelong Kansan and lifelong independent, but I'm throwing my hat in with the Democrats...\" - campaign launch language, source: https://www.samuellane.org/ (accessed 2026-04-01)",
-        "\"We need honest people more than ever now.\" - campaign language, source: https://www.samuellane.org/ (accessed 2026-04-01)",
-        "\"I can't fix this whole country by myself. But with your vote, I'll at least be able to safeguard Kansas.\" - campaign language, source: https://www.samuellane.org/ (accessed 2026-04-01)",
+        "Campaign website: samuellane.org",
+        "I’m here to Hold the Line. - campaign site, 2026-04-01, https://www.samuellane.org/ - topic: campaign slogan.",
+        "We need honest people more than ever now. - campaign site, 2026-04-01, https://www.samuellane.org/ - topic: public trust.",
+        "I'm a lifelong Kansan and lifelong independent, but I'm throwing my hat in with the Democrats... - campaign launch language, source: https://www.samuellane.org/ (accessed 2026-04-01)",
+        "We need honest people more than ever now. - campaign language, source: https://www.samuellane.org/ (accessed 2026-04-01)",
+        "I can't fix this whole country by myself. But with your vote, I'll at least be able to safeguard Kansas. - campaign language, source: https://www.samuellane.org/ (accessed 2026-04-01)",
         "Campaign home says Lane is running because the Kansas Secretary of State oversees elections, and that fair elections are necessary for a democratic republic. Source: https://www.samuellane.org/"
       ]
     },
@@ -433,15 +432,14 @@ export const SAM_LANE_V2: CandidateFullV2 = {
         "Page describes Secretary of State duties including business registration, legal publications, and election oversight",
         "Page says the office should keep Kansas elections fair and accurate",
         "Page says Kansas cannot allow voter suppression or voter fraud",
-        "\"what does the secretary of state do\" - campaign explainer page, 2026-04-01, https://www.samuellane.org/what-does-the-secretary-of-state-do - topic: civic education.",
-        "Secretary-of-state explainer says the office handles administrative duties including business registration and legal publications, but emphasizes election oversight. Source: https://www.samuellane.org/what-does-the-secretary-of-state-do",
+        "what does the secretary of state do - campaign explainer page, 2026-04-01, https://www.samuellane.org/what-does-the-secretary-of-state-do - topic: civic education.",
+        "Secretary-of-state explainer says the office handles administrative duties including business registration and legal publications, but emphasizes election oversight. Source: https://www.samuellane.org/what-does-the-secr...",
         "Campaign SOS explainer: https://www.samuellane.org/what-does-the-secretary-of-state-do",
-        "\"In Kansas, the office of the Secretary of State has several duties.\" - campaign educational page, source: https://www.samuellane.org/what-does-the-secretary-of-state-do (accessed 2026-04-01)",
+        "In Kansas, the office of the Secretary of State has several duties. - campaign educational page, source: https://www.samuellane.org/what-does-the-secretary-of-state-do (accessed 2026-04-01)",
         "> -- Samuel Lane campaign website, accessed April 1, 2026, https://www.samuellane.org/what-does-the-secretary-of-state-do",
         "Campaign secretary-of-state explainer: https://www.samuellane.org/what-does-the-secretary-of-state-do",
-        "\"source\": \"Samuel Lane campaign website, accessed April 1, 2026, https://www.samuellane.org/what-does-the-secretary-of-state-do\",",
-        "Secretary-of-state explainer: Lane describes the office as mostly administrative, including business registration and legal records, but emphasizes its role overseeing elections; he says Kansas cannot allow voter suppression or voter fraud ([secretary-of-state",
-        "[samuellane.org](https://www.samuellane.org/what-does-the-secretary-of-state-do)"
+        "\"source\": \"Samuel Lane campaign website, accessed April 1, 2026, https://www.samuellane.org/what-does-the-secretary-of-state-do\"",
+        "Secretary-of-state explainer: Lane describes the office as mostly administrative, including business registration and legal records, but emphasizes its role overseeing elections; he says Kansas cannot allow voter suppre..."
       ]
     },
     {
@@ -456,8 +454,8 @@ export const SAM_LANE_V2: CandidateFullV2 = {
         "Local capture records work history in construction inspection/material testing, retail, shipping, and food service",
         "Local capture records experience around Haskell Indian Nations University student groups and travel in India/Sri Lanka",
         "Campaign about: https://www.samuellane.org/about-me",
-        "Biography page: Lane describes a working-class background, a University of Kansas psychology degree, construction inspection/material testing work, retail/shipping/food-service jobs, and time connected to Haskell Indian Nations University student groups and tr",
-        "\"campaignWebsite\": \"https://www.samuellane.org/about-me\","
+        "Biography page: Lane describes a working-class background, a University of Kansas psychology degree, construction inspection/material testing work, retail/shipping/food-service jobs, and time connected to Haskell Indian...",
+        "\"campaignWebsite\": \"https://www.samuellane.org/about-me\""
       ]
     },
     {
@@ -474,8 +472,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
         "Profile counts on May 19, 2026: 35 followers, 14 follows, 195 posts",
         "Bluesky API profile: https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=voiceinavacuum.bsky.social",
         "Bluesky profile bio connects due process, checks and balances, the people's voice, and fair and accurate elections. Source: https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=voiceinavacuum.bsky.social",
-        "Bluesky profile API: https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=voiceinavacuum.bsky.social",
-        "\"url\": \"https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=voiceinavacuum.bsky.social\","
+        "Bluesky profile API: https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=voiceinavacuum.bsky.social"
       ]
     },
     {
@@ -487,9 +484,9 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "accessed": "2026-05-11",
       "claimsAnchored": [
         "Local harvest records Lane posting that Kansas is a paper-ballot state and urging voters to check machine-printed ballots",
-        "Lane's Bluesky feed reinforces that narrow campaign theory. He talks about voting mechanics, county election offices, mail ballots, paper ballots, voter registration bills, multilingual ballots, and judicial-retention information far more often than he talks a",
+        "Lane's Bluesky feed reinforces that narrow campaign theory. He talks about voting mechanics, county election offices, mail ballots, paper ballots, voter registration bills, multilingual ballots, and judicial-retention i...",
         "2025-10-19: Lane posted that Kansas is a paper-ballot state and told voters to check machine-printed ballots before submitting them. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3m3lgre7oik23",
-        "On October 19, 2025, he posted that Kansas is a paper-ballot state and told voters to check machine-printed ballots. Source: local social harvest and Bluesky post https://bsky.app/profile/voiceinavacuum.bsky.social/post/3m3lgre7oik23"
+        "On October 19, 2025, he posted that Kansas is a paper-ballot state and told voters to check machine-printed ballots. Source: local social harvest and Bluesky post https://bsky.app/profile/voiceinavacuum.bsky.social/post..."
       ]
     },
     {
@@ -501,7 +498,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "accessed": "2026-05-11",
       "claimsAnchored": [
         "Local harvest records Lane warning that voter-suppression schemes can look harmless while discussing HB 2438",
-        "The clearest issue signal is opposition to rules he sees as voter suppression. In January 2026, he repeatedly discussed KS HB2438, first warning that voter-suppression schemes can look harmless ([source](https://bsky.app/profile/voiceinavacuum.bsky.social/post",
+        "The clearest issue signal is opposition to rules he sees as voter suppression. In January 2026, he repeatedly discussed KS HB2438, first warning that voter-suppression schemes can look harmless ([source](https://bsky.ap...",
         "2026-01-16: Lane posted about HB 2438 and said voter-suppression schemes can look harmless. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mclbirfacs2w"
       ]
     },
@@ -516,9 +513,9 @@ export const SAM_LANE_V2: CandidateFullV2 = {
         "Lane posted that he drove six hours each way to Oberlin while working a full-time nonpolitical job",
         "Lane connected the trip to meeting people face-to-face to keep polling locations open",
         "Live May 19 API read showed 0 likes, 0 reposts, 0 replies, 0 quotes",
-        "His public persona is unusually personal for a statewide candidate. He leans into being a working person and an outsider, not a polished party recruit. On April 12, 2026, he said he had a full-time job outside politics but still drove six hours each way to Obe",
-        "2026-04-12: Lane posted that he drove to Oberlin while holding a full-time nonpolitical job and would drive anywhere in Kansas to keep polling locations open. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mjbey3c4as2m",
-        "On April 12, 2026, Lane posted that he drove to Oberlin while working a full-time nonpolitical job and, if elected, would drive across Kansas to keep polling locations open. Source: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mjbey3c4as2m"
+        "His public persona is unusually personal for a statewide candidate. He leans into being a working person and an outsider, not a polished party recruit. On April 12, 2026, he said he had a full-time job outside politics....",
+        "2026-04-12: Lane posted that he drove to Oberlin while holding a full-time nonpolitical job and would drive anywhere in Kansas to keep polling locations open. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/pos...",
+        "On April 12, 2026, Lane posted that he drove to Oberlin while working a full-time nonpolitical job and, if elected, would drive across Kansas to keep polling locations open. Source: https://bsky.app/profile/voiceinavacu..."
       ]
     },
     {
@@ -543,10 +540,10 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Lane also speaks in a strongly anti-authoritarian register. His Bluesky profile says due process and checks and balances are in the Constitution, but the people's voice only matters if elections are fair and accurate ([source](https://bsky.app/profile/voiceina",
+        "Lane also speaks in a strongly anti-authoritarian register. His Bluesky profile says due process and checks and balances are in the Constitution, but the people's voice only matters if elections are fair and accurate ([...",
         "Bluesky profile: https://bsky.app/profile/voiceinavacuum.bsky.social",
-        "Candidate-controlled Bluesky: https://bsky.app/profile/voiceinavacuum.bsky.social. The public API profile displayed as \"Sam Lane for KS Sec. of State,\" linked samuellane.org, and showed 35 followers, 14 follows, 195 posts, created December 15, 2024, when check",
-        "Bluesky: [@voiceinavacuum.bsky.social](https://bsky.app/profile/voiceinavacuum.bsky.social) - candidate-controlled account self-identifying as \"Sam Lane for KS Sec. of State\"; bio links [samuellane.org](https://www.samuellane.org/). Public API capture on 2026-"
+        "Candidate-controlled Bluesky: https://bsky.app/profile/voiceinavacuum.bsky.social. The public API profile displayed as \"Sam Lane for KS Sec. of State,\" linked samuellane.org, and showed 35 followers, 14 follows, 195 pos...",
+        "Bluesky: @voiceinavacuum.bsky.social - candidate-controlled account self-identifying as \"Sam Lane for KS Sec. of State\"; bio links samuellane.org. Public API capture on 2026-"
       ]
     },
     {
@@ -557,7 +554,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Highest engagement item in the feed overall was a reposted official congressional account post from [@ocasio-cortez.house.gov](https://bsky.app/profile/ocasio-cortez.house.gov/post/3lgcck2yf7c2r) about immigration rights, with 51,900 likes and 28,631 reposts a"
+        "Highest engagement item in the feed overall was a reposted official congressional account post from @ocasio-cortez.house.gov about immigration rights, with 51,900 likes and 28,631 reposts a"
       ]
     }
   ]

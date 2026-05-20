@@ -292,7 +292,7 @@ function tierRank(tier) {
 function mergeClaims(target, claims) {
   const seen = new Set(target.claimsAnchored);
   for (const claim of claims) {
-    const text = textValue(claim);
+    const text = cleanSourceClaimText(claim);
     if (!text || seen.has(text)) continue;
     seen.add(text);
     target.claimsAnchored.push(text);
@@ -348,7 +348,7 @@ function normalizeSources(slug, yamlSources, auditSources = []) {
     const claims = asArray(
       firstValue(source.claimsAnchored, source.claims_anchored, source.claims, source.claims_supported),
     )
-      .map((claim) => textValue(claim))
+      .map((claim) => cleanSourceClaimText(claim))
       .filter(Boolean);
 
     if (sourceByUrl.has(key)) {
@@ -576,10 +576,65 @@ function isMetaEvidenceText(value) {
     /^campaign website to\b/i.test(text) ||
     /^narrative:/i.test(text) ||
     /^issue mapping:/i.test(text) ||
+    /^methodology:/i.test(text) ||
+    /^disclaimer:/i.test(text) ||
+    /^research caveat/i.test(text) ||
     /^source trail$/i.test(text) ||
     /^where they stand on big issues:?$/i.test(text) ||
-    /\|\s*(primary|secondary|social)\s*\|\s*https?:\/\//i.test(text)
+    /\|\s*(primary|secondary|social)\s*\|\s*https?:\/\//i.test(text) ||
+    /\b(this pass|current matrix pass|current evidence matrix|disk evidence|on disk|rendered profile|rendered record|rendered issue cards|candidate-completeness audit|missing-candidate audit|this artifact|generated during|generated from|codex|agent-work|run-state|handoff|profile should|internal-only|the page therefore|no candidate-controlled issue platform)\b/i.test(text)
   );
+}
+
+function cleanPublicNarrative(value) {
+  const text = compactWhitespace(value);
+  if (!text) return undefined;
+  return text
+    .replace(/\bI found no\b/g, "The reviewed public record did not identify")
+    .replace(/\bI did not find\b/g, "The reviewed public record did not identify")
+    .replace(/\bI did not verify\b/g, "The review did not verify")
+    .replace(/\bI could not directly confirm\b/g, "The review could not directly confirm")
+    .replace(/\bI could not verify\b/g, "The review could not verify")
+    .replace(/\bI am not assigning\b/g, "No affiliation is assigned")
+    .replace(/\bI am not naming\b/g, "No church is named")
+    .replace(/\bI am not claiming\b/g, "No affiliation is claimed")
+    .replace(/\bI would treat this as\b/g, "This is treated as")
+    .replace(/\bI treated it as\b/g, "It is treated as")
+    .replace(/\bI treated\b/g, "The review treated")
+    .replace(/\bI used\b/g, "The review used")
+    .replace(/\bI reviewed\b/g, "The review covered")
+    .replace(/\b(for|from|during) this pass\b/gi, "in the reviewed public record")
+    .replace(/\bin this pass\b/gi, "in the reviewed public record")
+    .replace(/\bthis pass\b/gi, "the reviewed public record")
+    .replace(/\bDo not infer\b/g, "The public record does not establish")
+    .replace(/\bdo not infer\b/g, "the public record does not establish")
+    .replace(/\bDo not imply hidden donors from this absence\b/g, "That absence does not establish hidden donors")
+    .replace(/\bdo not imply hidden donors from this absence\b/g, "that absence does not establish hidden donors")
+    .replace(/\bverify original PDF before publication\b/gi, "verify the original PDF before relying on that specific donor example")
+    .replace(/\bcandidate memory\b/gi, "reviewed source notes")
+    .replace(/\bNo affiliation is assigned a church\b/g, "No church affiliation is assigned")
+    .replace(/\bcurrent evidence matrix\b/gi, "reviewed public records")
+    .replace(/\bevidence matrix\b/gi, "reviewed public records")
+    .replace(/\bdisk evidence\b/gi, "reviewed public evidence")
+    .replace(/\bon disk\b/gi, "as research context")
+    .replace(/\brendered profile\b/gi, "profile")
+    .replace(/\brendered record\b/gi, "public record summary")
+    .replace(/\brendered issue cards\b/gi, "issue cards")
+    .replace(/\brendered as\b/gi, "listed as")
+    .replace(/\brendered across\b/gi, "listed across")
+    .replace(/\bsafely separated\b/gi, "identified clearly")
+    .replace(/\bsource-backed issue signals\b/gi, "source-backed social/online observations")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function cleanSourceClaimText(value) {
+  const text = cleanPublicNarrative(value);
+  if (!text || isMetaEvidenceText(text)) return undefined;
+  if (/\b(candidate-completeness audit|missing-candidate audit|this artifact|codex|agent|prompt|tyler|internal-only|profile should|run-state|handoff|source audit|candidate memory v2|local filing-system notes)\b/i.test(text)) {
+    return undefined;
+  }
+  return excerpt(text, 220);
 }
 
 function candidateAliases(context) {
@@ -754,26 +809,23 @@ function fixedIssueStatedText(issue, evidenceItems, socialSignals, candidateCont
   const lead = stated ?? documented ?? fallback;
 
   if (!lead) {
-    const socialText = socialSignals.length > 0
-      ? " Public social/online observations exist on disk, but they are not treated as confirmed issue positions."
-      : "";
-    return `The reviewed public record did not identify a source-backed candidate statement or documented action for ${title}. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.${socialText}`;
+    return `The reviewed public record did not identify a source-backed candidate statement or documented action for ${title}.`;
   }
 
   const parts = [];
   if (lead) {
     const label = lead.classification === "candidate-stated"
-      ? "Candidate-stated evidence"
+      ? "Candidate statement"
       : lead.classification === "documented-record"
-        ? "Documented public evidence"
-        : "Reviewed evidence";
-    parts.push(`${label}: ${excerpt(lead.text, 420)}`);
+        ? "Documented public record"
+        : "Public evidence";
+    parts.push(`${label}: ${excerpt(cleanPublicNarrative(lead.text), 420)}`);
   } else {
-    parts.push(`No candidate-controlled statement was found for ${title}; the rendered material is limited to observed public signals.`);
+    parts.push(`No candidate-controlled statement was found for ${title}; the available material is limited to observed public signals.`);
   }
 
   if (socialSignals.length > 0) {
-    parts.push("Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.");
+    parts.push("Social/online observations are public signals, not confirmed policy positions.");
   }
   return parts.join(" ");
 }
@@ -825,7 +877,7 @@ function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById, ca
       const seenActionBodies = new Set();
       const actions = [];
       for (const { item, sourceIds } of actionCandidates) {
-        const body = excerpt(item.text, 520);
+        const body = excerpt(cleanPublicNarrative(item.text), 520);
         const key = body.toLowerCase();
         if (seenActionBodies.has(key)) continue;
         seenActionBodies.add(key);
@@ -842,7 +894,7 @@ function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById, ca
       const seenSocial = new Set();
       for (const signal of rawSocialSignals) {
         if (isMetaEvidenceText(signal.observation)) continue;
-        const observation = excerpt(signal.observation, 420);
+        const observation = excerpt(cleanPublicNarrative(signal.observation), 420);
         const sourceIds = [
           ...asArray(rowSourceIds.get(textValue(signal.evidenceRowId))),
           ...asArray(sourceIdsByUrl.get(resolvePublicUrl(signal.sourceUrl))),
@@ -955,13 +1007,13 @@ function financeText(value) {
 function normalizeDonors(value) {
   return asArray(value)
     .map((donor) => {
-      if (typeof donor === "string") return { name: donor, amount: "listed" };
+      if (typeof donor === "string") return { name: cleanPublicNarrative(donor), amount: "listed" };
       const object = asObject(donor);
-      const name = textValue(object.name, object.donor, object.source, object.entity, object.description);
+      const name = cleanPublicNarrative(textValue(object.name, object.donor, object.source, object.entity, object.description));
       if (!name) return undefined;
       return {
         name,
-        amount: textValue(object.amount, object.total, object.value, object.note, "listed"),
+        amount: cleanPublicNarrative(textValue(object.amount, object.total, object.value, object.note, "listed")) ?? "listed",
       };
     })
     .filter(Boolean)
@@ -982,7 +1034,7 @@ function normalizeCampaignFinance(yaml, idMap, sources) {
   const source = sourceIds
     .map((id) => sources.find((candidateSource) => candidateSource.id === id))
     .find(Boolean);
-  const totalRaised = financeText(
+  const totalRaised = cleanPublicNarrative(financeText(
     firstValue(
       finance.totalRaised,
       finance.total_raised,
@@ -991,8 +1043,8 @@ function normalizeCampaignFinance(yaml, idMap, sources) {
       finance.known,
       finance.summary,
     ),
-  );
-  const narrative = textValue(
+  ));
+  const narrative = cleanPublicNarrative(textValue(
     finance.narrative,
     finance.summary,
     finance.donor_summary,
@@ -1001,7 +1053,7 @@ function normalizeCampaignFinance(yaml, idMap, sources) {
     finance.notes,
     finance.status,
     totalRaised,
-  );
+  ));
 
   return {
     totalRaised: totalRaised ?? "Not itemized in the reviewed public records",
@@ -1015,25 +1067,26 @@ function normalizeCampaignFinance(yaml, idMap, sources) {
         finance.candidateLoans,
       ),
     ),
-    undisclosed: omitEmpty(textValue(
+    undisclosed: omitEmpty(cleanPublicNarrative(textValue(
       finance.undisclosed,
       finance.disclosure_issue,
       finance.donor_blocker,
       finance.donorNotes,
       finance.caveat,
       finance.note,
-    )),
-    reportingPeriod: textValue(finance.reportingPeriod, finance.reporting_period, finance.filed, "Most recent public filing reviewed"),
-    source: source?.title ?? source?.url ?? textValue(finance.source, "Candidate v2 issue file"),
+    ))),
+    reportingPeriod: cleanPublicNarrative(textValue(finance.reportingPeriod, finance.reporting_period, finance.filed, "Most recent public filing reviewed")) ?? "Most recent public filing reviewed",
+    source: cleanPublicNarrative(source?.title ?? source?.url ?? textValue(finance.source, "Reviewed public records")) ?? "Reviewed public records",
   };
 }
 
 function normalizeNarrative(value) {
-  return omitEmpty(textValue(value));
+  return omitEmpty(cleanPublicNarrative(value));
 }
 
 function cleanClaimText(value) {
-  return compactWhitespace(value)
+  const text = cleanPublicNarrative(value) ?? "";
+  return text
     .replace(/^["']?claim["']?\s*:\s*/i, "")
     .replace(/^["']?summary["']?\s*:\s*/i, "")
     .trim();
@@ -1150,9 +1203,9 @@ function derivedWhoTheyAre(candidate, evidenceRows) {
   const partyPhrase = partyLabel === "Independent" ? "an Independent" : `a ${partyLabel}`;
   const intro = `${candidate.name} is profiled here for ${candidate.position || candidate.electionSlug} as ${partyPhrase}${candidate.incumbent ? " incumbent/current official" : ""}.`;
   if (claims.length === 0) {
-    return `${intro} The available public biography record is thin in the current evidence matrix, so this profile avoids filling gaps with assumptions and keeps the source trail open for follow-up.`;
+    return `${intro} The available public biography record is thin, so the profile avoids filling gaps with assumptions.`;
   }
-  return `${intro} ${sentenceList(claims)} The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.`;
+  return `${intro} ${sentenceList(claims)} These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.`;
 }
 
 function derivedRecordSummary(candidate, issues, evidenceRows) {
@@ -1170,11 +1223,11 @@ function derivedRecordSummary(candidate, issues, evidenceRows) {
     .map((body) => excerpt(body, 240));
 
   if (actionCount === 0 && recordClaims.length === 0) {
-    return `No separate source-backed vote, meeting action, filing, or public-record action has been split out for ${candidate.name} in the current rendered issue cards. The disk evidence matrix remains available for follow-up, and the profile should not infer a record where the public record is thin.`;
+    return `No separate source-backed vote, meeting action, filing, or public-record action was identified for ${candidate.name} in the reviewed public record.`;
   }
 
   const examples = renderedExamples.length ? renderedExamples : recordClaims;
-  return `The rendered record now contains ${actionCount} source-backed action${actionCount === 1 ? "" : "s"} across ${issueCountWithActions} of the 14 issue areas. ${examples.length ? `Representative public-record entries include: ${sentenceList(examples)}` : ""} Social-only material is excluded from this record summary and remains labeled as observation when rendered.`;
+  return `The public record summary contains ${actionCount} source-backed item${actionCount === 1 ? "" : "s"} across ${issueCountWithActions} of the 14 issue areas. ${examples.length ? `Representative public-record entries include: ${sentenceList(examples)}` : ""} Social-only material is listed separately as online observation, not official action.`;
 }
 
 function derivedWhereTheyWorship(candidate, evidenceRows) {
@@ -1192,7 +1245,7 @@ function derivedWhereTheyWorship(candidate, evidenceRows) {
     candidateContext: candidate,
   });
   if (worshipClaims.length === 0) {
-    return "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.";
+    return "No public worship affiliation was confirmed in the reviewed public record. No policy position is inferred from the absence or presence of faith-related public records.";
   }
   return `${sentenceList(worshipClaims)} This faith/worship note is descriptive only and is not used to infer any policy position.`;
 }
@@ -1203,12 +1256,12 @@ function derivedCampaignFinance(candidate, evidenceRows) {
     .filter((row) => isCandidateRelevantEvidenceRow(row, candidate, { allowGenericOfficial: true }));
   if (financeRows.length === 0) {
     return {
-      totalRaised: "No public finance total separated in this pass",
-      narrative: `No FEC/KPDC finance total was separated for ${candidate.name} in the current evidence matrix. Treat this as a research gap, not as evidence that no money was raised or spent.`,
+      totalRaised: "No public finance total identified",
+      narrative: `No FEC/KPDC finance total was identified for ${candidate.name} in the reviewed public records. Treat this as a research gap, not as evidence that no money was raised or spent.`,
       donors: [],
-      undisclosed: "No donor-by-donor public ledger was safely separated into the rendered profile in this pass.",
-      reportingPeriod: "Current evidence matrix reviewed 2026-05-20",
-      source: "Candidate evidence matrix",
+      undisclosed: "No donor-by-donor public ledger is listed unless donor name, amount, and reporting source are all available.",
+      reportingPeriod: "Reviewed public records as of 2026-05-20",
+      source: "Reviewed public records",
     };
   }
 
@@ -1222,16 +1275,16 @@ function derivedCampaignFinance(candidate, evidenceRows) {
   const moneyMatch = claims.join(" ").match(/\$[0-9][0-9,]*(?:\.[0-9]{2})?/);
   const source = publicRows[0]?.sourceUrl
     ? `${publisherFromUrl(publicRows[0].sourceUrl) ?? "Public finance source"} (${publicRows[0].sourceUrl})`
-    : "Candidate evidence matrix and source audit";
+    : "Reviewed public records";
 
   return {
-    totalRaised: moneyMatch?.[0] ?? "Not itemized in rendered profile",
+    totalRaised: moneyMatch?.[0] ?? "Not itemized in reviewed public records",
     narrative: claims.length
-      ? `${sentenceList(claims)} Finance figures are shown only when the reporting period/source was preserved in the evidence matrix; otherwise this remains a research caveat.`
-      : `The evidence matrix includes ${financeRows.length} campaign-finance row${financeRows.length === 1 ? "" : "s"}, but no clean public total was safely separated for ${candidate.name} in this pass.`,
+      ? `${sentenceList(claims)} Finance figures are shown only when the reporting period/source is available; otherwise this remains a research caveat.`
+      : `The reviewed public records include ${financeRows.length} campaign-finance row${financeRows.length === 1 ? "" : "s"}, but no clean public total was identified for ${candidate.name}.`,
     donors: [],
-    undisclosed: "No donor-by-donor list is rendered unless the donor name, amount, and reporting source were all separated cleanly.",
-    reportingPeriod: "Current public filings/evidence matrix reviewed 2026-05-20",
+    undisclosed: "No donor-by-donor list is shown unless the donor name, amount, and reporting source were all identified clearly.",
+    reportingPeriod: "Reviewed public filings as of 2026-05-20",
     source,
   };
 }
@@ -1240,12 +1293,12 @@ function derivedSocialResearchNote(issues, socialMatrix) {
   const renderedSignals = issues.reduce((count, issue) => count + issue.socialSignals.length, 0);
   const socialRows = asArray(socialMatrix?.signals ?? socialMatrix?.socialSignals ?? socialMatrix?.items ?? socialMatrix);
   if (renderedSignals === 0 && socialRows.length === 0) {
-    return "No issue-relevant public social signals were separated in this pass. Do not infer private beliefs from a lack of visible social evidence.";
+    return "No issue-relevant public social signals were identified in the reviewed public record. Do not infer private beliefs from a lack of visible social evidence.";
   }
   if (renderedSignals === 0) {
-    return `The social harvest contains ${socialRows.length} observed item${socialRows.length === 1 ? "" : "s"}, but none were rendered as public source-backed issue signals in this pass. Social evidence remains a signal layer only, not proof of belief.`;
+    return `The social review found ${socialRows.length} public observation${socialRows.length === 1 ? "" : "s"}, but none were tied closely enough to a specific issue to show as an issue signal. Social evidence remains a signal layer only, not proof of belief.`;
   }
-  return `${renderedSignals} public source-backed social/online signal${renderedSignals === 1 ? "" : "s"} are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.`;
+  return `${renderedSignals} public source-backed social/online observation${renderedSignals === 1 ? "" : "s"} are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.`;
 }
 
 function renderedSourceIds(candidate) {
@@ -1346,15 +1399,19 @@ function cleanCampaignWebsite(slug, value) {
   return value;
 }
 
+function cleanMetaField(value) {
+  return omitEmpty(cleanPublicNarrative(value));
+}
+
 function campaignFinanceFromNote(note) {
   if (!note) return undefined;
   return {
     totalRaised: "Not itemized in public web records",
-    narrative: String(note).trim(),
+    narrative: cleanPublicNarrative(note),
     donors: [],
     undisclosed: "No donor-by-donor public web ledger was found in the reviewed local records.",
     reportingPeriod: "Most recent local cycle reviewed",
-    source: "Candidate memory v2 issue file and local filing-system notes",
+    source: "Reviewed public records",
   };
 }
 
@@ -1394,10 +1451,10 @@ function normalizeCandidate(slug, yaml, v1) {
     slug,
     name: meta.name ?? v1.name ?? titleCaseSlug(slug),
     party: normalizeParty(meta.party, v1.party),
-    position: textValue(meta.position, meta.office, meta.race, meta.election, v1.position) ?? "",
+    position: cleanMetaField(textValue(meta.position, meta.office, meta.race, meta.election, v1.position)) ?? "",
     electionSlug: meta.electionSlug ?? meta.election_slug ?? v1.electionSlug ?? "",
     incumbent: typeof meta.incumbent === "boolean" ? meta.incumbent : typeof v1.incumbent === "boolean" ? v1.incumbent : false,
-    occupation: textValue(meta.occupation, meta.currentOffice, meta.current_role, v1.occupation) ?? "",
+    occupation: cleanMetaField(textValue(meta.occupation, meta.currentOffice, meta.current_role, v1.occupation)) ?? "",
   };
   const issues = normalizeIssues(yaml, idMap, fallbackSourceIds, sourceById, rowSourceIds, sourceIdsByUrl, candidateCore);
   const safeWhereTheyWorship = whereTheyWorship && !otherCandidateMentioned(candidateCore, whereTheyWorship)
@@ -1407,13 +1464,13 @@ function normalizeCandidate(slug, yaml, v1) {
   const candidate = {
     ...candidateCore,
 
-    born: omitEmpty(meta.born ?? v1.born),
-    hometown: omitEmpty(meta.hometown ?? v1.hometown),
+    born: cleanMetaField(meta.born ?? v1.born),
+    hometown: cleanMetaField(meta.hometown ?? v1.hometown),
     religion: cleanReligion(meta.religion ?? v1.religion),
-    education: omitEmpty(meta.education ?? v1.education),
-    family: omitEmpty(meta.family ?? v1.family),
-    district: omitEmpty(meta.district ?? v1.district),
-    margin2024: omitEmpty(meta.margin2024 ?? v1.margin2024),
+    education: cleanMetaField(meta.education ?? v1.education),
+    family: cleanMetaField(meta.family ?? v1.family),
+    district: cleanMetaField(meta.district ?? v1.district),
+    margin2024: cleanMetaField(meta.margin2024 ?? v1.margin2024),
     campaignWebsite: cleanCampaignWebsite(slug, campaignWebsite),
 
     issues,

@@ -21,7 +21,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -31,7 +31,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented public evidence: Kansas Reflector: Gender Marker $1 Fine Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Kansas Reflector: Gender Marker $1 Fine Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-kris-kobach-0036"
         ]
@@ -71,7 +71,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -92,7 +92,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Documented public evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0007",
@@ -140,7 +140,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -150,7 +150,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -160,7 +160,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented public evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0007",
@@ -199,7 +199,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: The still-live campaign video archive reinforces Kobach's older AG campaign frame. The campaign site embeds videos about Congress testimony, attacks on Chris Mann, family safety, sheriff/law-enforcement support, qualifications, and a Fox clip about Anthony Fauci and border COVID testing (source). These videos are older than the current capture window, but they remain part of the campaign site's public presentation a... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The still-live campaign video archive reinforces Kobach's older AG campaign frame. The campaign site embeds videos about Congress testimony, attacks on Chris Mann, family safety, sheriff/law-enforcement support, qualifications, and a Fox clip about Anthony Fauci and border COVID testing (source). These videos are older than the current capture window, but they remain part of the campaign site's public presentation a... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-kris-kobach-0208",
           "src-kris-kobach-0062"
@@ -242,7 +242,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0069",
@@ -321,7 +321,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0062"
@@ -374,7 +374,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0062",
@@ -429,7 +429,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -470,7 +470,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0062",
@@ -535,7 +535,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -554,17 +554,17 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Accessible official and candidate-controlled sources support treating Kobach as the incumbent Republican running for Kansas attorney general re-election in 2026. The live SOS filed-candidates list was blocked in this environment; KPDC lists him under Attorney General Candidates and his campaign says he filed January 8, 2026.",
-  "recordSummary": "The rendered record now contains 17 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Kansas Reflector: Gender Marker $1 Fine. LGBT / gender / parental rights: Kansas Reflector: Judge Rebukes Kobach with $1 Fine. Religious liberty / church / civic morality: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Titl... Religious liberty / church / civic morality: The official AG site is more active as a governing communications hub. Its homepage leads with naloxone distribution boxes and a Census lawsuit about excluding undocumented immigrants from appor... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The public record summary contains 17 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Kansas Reflector: Gender Marker $1 Fine. LGBT / gender / parental rights: Kansas Reflector: Judge Rebukes Kobach with $1 Fine. Religious liberty / church / civic morality: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Titl... Religious liberty / church / civic morality: The official AG site is more active as a governing communications hub. Its homepage leads with naloxone distribution boxes and a Census lawsuit about excluding undocumented immigrants from appor... Social-only material is listed separately as online observation, not official action.",
   "whereTheyWorship": "Public reporting ties Kobach to Morning Star Church in Lawrence. The church website is https://msclawrence.com/, and local reporting has referred to it as his church.",
   "campaignFinance": {
     "totalRaised": "$2",
-    "narrative": "Across the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resis... Sunflower State Journal: Fundraising for opposing campaign approaches $2 million. > -- Kansas Reflector, January 19, 2026. Kansas Reflector: Millionaire candidates (Jan 19, 2026). Finance figures are shown only when the reporting period/source was preserved in the evidence matrix; otherwise this remains a research caveat.",
+    "narrative": "Across the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resis... Sunflower State Journal: Fundraising for opposing campaign approaches $2 million. > -- Kansas Reflector, January 19, 2026. Kansas Reflector: Millionaire candidates (Jan 19, 2026). Finance figures are shown only when the reporting period/source is available; otherwise this remains a research caveat.",
     "donors": [],
-    "undisclosed": "No donor-by-donor list is rendered unless the donor name, amount, and reporting source were all separated cleanly.",
-    "reportingPeriod": "Current public filings/evidence matrix reviewed 2026-05-20",
+    "undisclosed": "No donor-by-donor list is shown unless the donor name, amount, and reporting source were all identified clearly.",
+    "reportingPeriod": "Reviewed public filings as of 2026-05-20",
     "source": "Fec (https://www.fec.gov/data/legal/matter-under-review/7636/)"
   },
-  "socialResearchNote": "21 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "21 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-kpdc-statewide-2026",
@@ -576,9 +576,9 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Kobach, Kris is listed under Attorney General Candidates",
         "KPDC links Kobach's appointment of treasurer and January 2026 finance report",
-        "Filing URL: [kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
-        "[Kansas Ethics Commission -- 2026 Campaign Finance](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
-        "[kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
+        "Filing URL: kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+        "Kansas Ethics Commission -- 2026 Campaign Finance",
+        "kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
         "KPDC statewide 2026 filings page: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
       ]
     },
@@ -606,8 +606,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Campaign says 51 Kansas sheriffs endorsed Kobach's attorney-general re-election",
         "Campaign release lists Ellis County Sheriff Scott Braun among endorsers",
-        "Release frames Kobach's record around law enforcement, KBI, fentanyl, organized retail crime, and crime-rate claims",
-        "\"url\": \"https://kriskobach.com/51-kansas-sheriffs-endorse-kobach-for-attorney-general/\","
+        "Release frames Kobach's record around law enforcement, KBI, fentanyl, organized retail crime, and crime-rate claims"
       ]
     },
     {
@@ -621,10 +620,9 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
         "Kobach was elected Kansas's 45th Attorney General in November 2022",
         "Kobach served as Kansas Secretary of State from 2011 to 2019",
         "Official bio identifies Title IX, Obamacare/DACA, election-integrity commission, and RAGA chairmanship",
-        "The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules ([source](https://www.ag.ks.g",
-        "| Official AG bio | https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach | FOUND | Official bio highlights Trump election-integrity commission role, Title IX litigation, Obamacare eligibility litigation, and 2024 RAGA chair election. |",
-        "[AG official biography](https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach), captured 2026-05-11. Key visible signals: Trump election-integrity commission, Title IX litigation, Obamacare eligibility litigation, RAGA chairmanship, family, and office",
-        "[Kansas AG Official Bio](https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach)",
+        "The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligib...",
+        "AG official biography, captured 2026-05-11. Key visible signals: Trump election-integrity commission, Title IX litigation, Obamacare eligibility litigation, RAGA chairmanship, family, and office",
+        "Kansas AG Official Bio",
         "Official AG biography: https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach"
       ]
     },
@@ -638,8 +636,8 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Campaign biography lists education, Justice Department service, DACA litigation, OSHA vaccine-mandate litigation, DHS/ICE litigation, and Air Force religious-exemption litigation",
         "Campaign biography says Kobach's first four-year term as attorney general began in 2023",
-        "\"Today marks an historic turning point in Kansas.\" - campaign/ballot-measure statement, source: https://kriskobach.com/meet-kris/ (accessed 2026-04-01)",
-        "[Kris Kobach for AG - Meet Kris](https://kriskobach.com/meet-kris/)"
+        "Today marks an historic turning point in Kansas. - campaign/ballot-measure statement, source: https://kriskobach.com/meet-kris/ (accessed 2026-04-01)",
+        "Kris Kobach for AG - Meet Kris"
       ]
     },
     {
@@ -679,8 +677,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "FEC lists respondents including We Build the Wall, Kobach, and Kobach for Senate",
         "FEC summary says the Commission found reason to believe a below-market email-list rental created a corporate contribution and in-kind reporting issue",
-        "Disposition was pre-probable-cause conciliation",
-        "\"url\": \"https://www.fec.gov/data/legal/matter-under-review/7636/\","
+        "Disposition was pre-probable-cause conciliation"
       ]
     },
     {
@@ -694,8 +691,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
         "Kobach created the Special Litigation Unit",
         "The unit handles constitutional issues and policy-priority litigation",
         "Highlighted cases include Title IX, DACA/Obamacare, and ATF/Second Amendment",
-        "| Official AG special litigation page | https://www.ag.ks.gov/divisions/special-litigation-unit | FOUND | Frames special litigation around constitutional rights, suing federal government, defending Kansas laws, Title IX, DACA/Obamacare, and ATF/Second Amendmen",
-        "[AG special litigation page](https://www.ag.ks.gov/divisions/special-litigation-unit), captured 2026-05-11. Key visible signals: suing federal government over regulations, defending Kansas laws, Title IX, DACA/Obamacare, and ATF/Second Amendment litigation."
+        "AG special litigation page, captured 2026-05-11. Key visible signals: suing federal government over regulations, defending Kansas laws, Title IX, DACA/Obamacare, and ATF/Second Amendment litigation."
       ]
     },
     {
@@ -816,7 +812,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Official news-release index says Kobach led fourteen states urging the Supreme Court to vindicate a high-school student's rights after flyers for a pro-life student group were forbidden",
-        "[Kansas AG News Releases](https://www.ag.ks.gov/media-center/news-releases)"
+        "Kansas AG News Releases"
       ]
     },
     {
@@ -872,11 +868,9 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Ag.Ks",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "The official AG site is more active as a governing communications hub. Its homepage leads with naloxone distribution boxes and a Census lawsuit about excluding undocumented immigrants from apportionment counts ([source](https://www.ag.ks.gov/)). The official b",
-        "| Official AG site | https://www.ag.ks.gov/ | FOUND | Official state site for the Kansas Attorney General. Homepage leads with naloxone access and a lawsuit about excluding undocumented immigrants from Census apportionment. |",
-        "[AG official homepage](https://www.ag.ks.gov/), captured 2026-05-11. Key visible signals: naloxone access, Census lawsuit, AG facts, consumer protection, open government, AG opinions, and official social links.",
-        "Kansas AG Official Site: https://www.ag.ks.gov/",
-        "[ag.ks.gov](https://www.ag.ks.gov/)"
+        "The official AG site is more active as a governing communications hub. Its homepage leads with naloxone distribution boxes and a Census lawsuit about excluding undocumented immigrants from apportionment counts (source)....",
+        "AG official homepage, captured 2026-05-11. Key visible signals: naloxone access, Census lawsuit, AG facts, consumer protection, open government, AG opinions, and official social links.",
+        "Kansas AG Official Site: https://www.ag.ks.gov/"
       ]
     },
     {
@@ -887,9 +881,8 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Sos.Ks",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "\"url\": \"https://sos.ks.gov/elections/22elec/2022-General-Official-Vote-Totals.pdf\",",
-        "Confidence Level: MEDIUM -- Ellis County was not among Mann's five winning counties, meaning Kobach carried it. Ellis County is historically Republican. The Kansas Secretary of State's official 2022 General Election vote totals PDF (https://sos.ks.gov/election",
-        "[Kansas Secretary of State: 2022 General Election Official Vote Totals (PDF)](https://sos.ks.gov/elections/22elec/2022-General-Official-Vote-Totals.pdf)"
+        "Confidence Level: MEDIUM -- Ellis County was not among Mann's five winning counties, meaning Kobach carried it. Ellis County is historically Republican. The Kansas Secretary of State's official 2022 General Election vot...",
+        "Kansas Secretary of State: 2022 General Election Official Vote Totals (PDF)"
       ]
     },
     {
@@ -900,7 +893,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Portal.Kansas",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas.gov social-media directory](https://portal.kansas.gov/social-media/), captured 2026-05-11. Key visible signals: state directory lists Attorney General Kris Kobach and links official Facebook, Twitter/X, YouTube, and RSS channels."
+        "Kansas.gov social-media directory, captured 2026-05-11. Key visible signals: state directory lists Attorney General Kris Kobach and links official Facebook, Twitter/X, YouTube, and RSS channels."
       ]
     },
     {
@@ -911,8 +904,8 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Gender Marker $1 Fine](https://kansasreflector.com/2026/01/20/kansas-judge-rebukes-ag-kris-kobach-in-gender-marker-case-issues-symbolic-1-fine/)",
-        "[Kansas Reflector: Judge Rebukes Kobach with $1 Fine](https://kansasreflector.com/2026/01/20/kansas-judge-rebukes-ag-kris-kobach-in-gender-marker-case-issues-symbolic-1-fine/)"
+        "Kansas Reflector: Gender Marker $1 Fine",
+        "Kansas Reflector: Judge Rebukes Kobach with $1 Fine"
       ]
     },
     {
@@ -923,7 +916,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Whatreligionisinfo",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kobach Religion - WhatReligionIsInfo](https://whatreligionisinfo.com/kobach-religion/)"
+        "Kobach Religion - WhatReligionIsInfo"
       ]
     },
     {
@@ -934,9 +927,9 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Msclawrence",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Morning Star Church Lawrence](https://msclawrence.com/)",
+        "Morning Star Church Lawrence",
         "Public reporting ties Kobach to Morning Star Church in Lawrence. The church website is https://msclawrence.com/, and local reporting has referred to it as his church.",
-        "\"whereTheyWorship\": \"Public reporting ties Kobach to Morning Star Church in Lawrence. The church website is https://msclawrence.com/, and local reporting has referred to it as his church.\","
+        "\"whereTheyWorship\": \"Public reporting ties Kobach to Morning Star Church in Lawrence. The church website is https://msclawrence.com/, and local reporting has referred to it as his church.\""
       ]
     },
     {
@@ -947,7 +940,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Sunflowerstatejournal",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Sunflower State Journal: Kobach denounces vandalism at his church](https://sunflowerstatejournal.com/kobach-denounces-vandalism-at-his-church/)"
+        "Sunflower State Journal: Kobach denounces vandalism at his church"
       ]
     },
     {
@@ -958,7 +951,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kcur",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[KCUR: Kansas Trial Investigates Religious Discrimination in Kobach's Office](https://www.kcur.org/government/2017-08-22/kansas-trial-investigates-religious-discrimination-claim-in-kobachs-office)"
+        "KCUR: Kansas Trial Investigates Religious Discrimination in Kobach's Office"
       ]
     },
     {
@@ -969,11 +962,9 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kriskobach",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Across the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resist",
-        "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, off",
-        "| Campaign site | https://www.kriskobach.com/ | FOUND | Still branded \"Kris Kobach for Attorney General.\" Homepage shows 2026 re-election filing/cash-on-hand release, RAGA chair announcement, campaign videos, WinRed links, email signup, volunteer, and store. |",
-        "Kobach's public footprint is unusually split between campaign branding and the official attorney general apparatus. The campaign site is still live under the AG campaign brand, with a January 8, 2026 release saying he filed for re-election and reported $502,62",
-        "[Kris Kobach campaign homepage](https://www.kriskobach.com/), captured 2026-05-11. Key visible signals: AG re-election filing, $502,626 cash-on-hand claim, RAGA chair announcement, endorsement quote from Sen. Roger Marshall, campaign videos, volunteer/email/Wi"
+        "Across the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigrati...",
+        "Kobach's public footprint is unusually split between campaign branding and the official attorney general apparatus. The campaign site is still live under the AG campaign brand, with a January 8, 2026 release saying he f...",
+        "Kris Kobach campaign homepage, captured 2026-05-11. Key visible signals: AG re-election filing, $502,626 cash-on-hand claim, RAGA chair announcement, endorsement quote from Sen. Roger Marshall, campaign videos, voluntee..."
       ]
     },
     {
@@ -984,7 +975,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Pfizer Lawsuit](https://kansasreflector.com/2024/06/17/kansas-ag-kobach-accuses-pfizer-of-misleading-vaccine-marketing-in-lawsuit/)"
+        "Kansas Reflector: Pfizer Lawsuit"
       ]
     },
     {
@@ -995,7 +986,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Aclu",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[ACLU: Fish v. Schwab (formerly Fish v. Kobach)](https://www.aclu.org/cases/fish-v-schwab-formerly-fish-v-kobach)"
+        "ACLU: Fish v. Schwab (formerly Fish v. Kobach)"
       ]
     },
     {
@@ -1006,9 +997,9 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Propublica",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[ProPublica: How the Case for Voter Fraud Was Tested -- and Utterly Failed](https://www.propublica.org/article/kris-kobach-voter-fraud-kansas-trial)",
-        "[ProPublica: How the Case for Voter Fraud Was Tested and Failed](https://www.propublica.org/article/kris-kobach-voter-fraud-kansas-trial)",
-        "[ProPublica: How the Case for Voter Fraud Was Tested](https://www.propublica.org/article/kris-kobach-voter-fraud-kansas-trial)",
+        "ProPublica: How the Case for Voter Fraud Was Tested -- and Utterly Failed",
+        "ProPublica: How the Case for Voter Fraud Was Tested and Failed",
+        "ProPublica: How the Case for Voter Fraud Was Tested",
         "ProPublica - Voter Fraud Trial: https://www.propublica.org/article/kris-kobach-voter-fraud-kansas-trial"
       ]
     },
@@ -1020,8 +1011,8 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Npr",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[NPR - Kobach wins primary](https://www.npr.org/2018/08/14/638703832/trump-ally-kris-kobach-wins-primary-for-kansas-governor-as-gop-incumbent-concede)",
-        "[NPR: Kobach Wins GOP Primary](https://www.npr.org/2018/08/14/638703832/trump-ally-kris-kobach-wins-primary-for-kansas-governor-as-gop-incumbent-concede)"
+        "NPR - Kobach wins primary",
+        "NPR: Kobach Wins GOP Primary"
       ]
     },
     {
@@ -1032,7 +1023,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Aclu",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[ACLU: Court's Ruling Holding Kobach in Contempt](https://www.aclu.org/news/voting-rights/courts-ruling-holding-kobach-contempt-well-deserved)"
+        "ACLU: Court's Ruling Holding Kobach in Contempt"
       ]
     },
     {
@@ -1043,7 +1034,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kshb",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[KSHB: Kobach Ordered to Pay $26K for Contempt](https://www.kshb.com/news/state/kansas/judge-orders-kobach-to-pay-more-than-26000-for-contempt)"
+        "KSHB: Kobach Ordered to Pay $26K for Contempt"
       ]
     },
     {
@@ -1054,7 +1045,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Rollingstone",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Rolling Stone: Kobach and Trump's Spectacular Voter Fraud Failure](https://www.rollingstone.com/politics/politics-features/kris-kobach-donald-trump-voter-fraud-myths-vote-suppression-990300/)"
+        "Rolling Stone: Kobach and Trump's Spectacular Voter Fraud Failure"
       ]
     },
     {
@@ -1065,7 +1056,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Kobach, Kansas AG and Legislature to Blame for Voting Law Legal Costs](https://kansasreflector.com/2022/03/24/kobach-kansas-ag-and-legislature-to-blame-for-voting-law-legal-costs-representatives-say/)"
+        "Kansas Reflector: Kobach, Kansas AG and Legislature to Blame for Voting Law Legal Costs"
       ]
     },
     {
@@ -1076,7 +1067,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kcur",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[KCUR: ACLU Says Kobach Owes $52K](https://www.kcur.org/politics-elections-and-government/2018-05-08/aclu-says-kobach-owes-52k-in-legal-costs-for-contempt-in-kansas-voting-case)"
+        "KCUR: ACLU Says Kobach Owes $52K"
       ]
     },
     {
@@ -1087,7 +1078,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Kelly v. Kobach](https://kansasreflector.com/2026/03/27/kansas-governor-attorney-general-both-declare-victory-in-supreme-court-decision-on-executive-power/)"
+        "Kansas Reflector: Kelly v. Kobach"
       ]
     },
     {
@@ -1098,8 +1089,8 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kcur",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[KCUR: Kobach Squeaks to Political Comeback](https://www.kcur.org/news/2022-11-09/kansas-attorney-general-election-results-2022-kris-kobach-chris-mann)",
-        "[KCUR: \"Kris Kobach squeaks to a political comeback\" (Nov 9, 2022)](https://www.kcur.org/news/2022-11-09/kansas-attorney-general-election-results-2022-kris-kobach-chris-mann)"
+        "KCUR: Kobach Squeaks to Political Comeback",
+        "KCUR: \"Kris Kobach squeaks to a political comeback\" (Nov 9, 2022)"
       ]
     },
     {
@@ -1110,8 +1101,8 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Mann Concedes](https://kansasreflector.com/2022/11/11/mann-surrenders-quest-to-overtake-kobach-in-kansas-race-for-attorney-general/)",
-        "[Kansas Reflector: \"Mann surrenders quest to overtake Kobach\" (Nov 11, 2022)](https://kansasreflector.com/2022/11/11/mann-surrenders-quest-to-overtake-kobach-in-kansas-race-for-attorney-general/)"
+        "Kansas Reflector: Mann Concedes",
+        "Kansas Reflector: \"Mann surrenders quest to overtake Kobach\" (Nov 11, 2022)"
       ]
     },
     {
@@ -1122,7 +1113,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Cnn",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[CNN: Kobach Fined for Campaign Finance Violations](https://www.cnn.com/2022/12/30/politics/kansas-attorney-general-campaign-finance-violations/index.html)"
+        "CNN: Kobach Fined for Campaign Finance Violations"
       ]
     },
     {
@@ -1133,7 +1124,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Aclu",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[ACLU: Kobach Exposed at Trial](https://www.aclu.org/news/voting-rights/kobach-exposed-trial)"
+        "ACLU: Kobach Exposed at Trial"
       ]
     },
     {
@@ -1144,8 +1135,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Brennancenter",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Brennan Center - Anti-Voting History: https://www.brennancenter.org/our-work/analysis-opinion/uncovering-kris-kobachs-anti-voting-history",
-        "[brennancenter.org](https://www.brennancenter.org/our-work/analysis-opinion/uncovering-kris-kobachs-anti-voting-history)"
+        "Brennan Center - Anti-Voting History: https://www.brennancenter.org/our-work/analysis-opinion/uncovering-kris-kobachs-anti-voting-history"
       ]
     },
     {
@@ -1156,14 +1146,13 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kriskobach",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "\"Currently, Kobach is engaged in three federal lawsuits against the Biden administration.\" - campaign bio, source: https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf (published 2022)",
-        "\"He lives near Lecompton with his wife, Heather, and their five children.\" - campaign bio, source: https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf (published 2022)",
+        "Currently, Kobach is engaged in three federal lawsuits against the Biden administration. - campaign bio, source: https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Gen...",
+        "He lives near Lecompton with his wife, Heather, and their five children. - campaign bio, source: https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf...",
         "> -- Kris Kobach campaign document, 2022, https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf",
         "> -- Kris Kobach campaign biography, 2022, https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf",
-        "\"source\": \"Kris Kobach campaign document, 2022, https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf\",",
-        "\"source\": \"Kris Kobach campaign biography, 2022, https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf\",",
-        "https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf",
-        "[kriskobach.com](https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf)"
+        "\"source\": \"Kris Kobach campaign document, 2022, https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf\"",
+        "\"source\": \"Kris Kobach campaign biography, 2022, https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf\"",
+        "https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf"
       ]
     },
     {
@@ -1185,7 +1174,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Kobach Fentanyl Initiative](https://kansasreflector.com/2023/07/20/ag-kobach-to-announce-ongoing-initiative-combating-fentanyl-in-kansas-here-are-the-basics/)"
+        "Kansas Reflector: Kobach Fentanyl Initiative"
       ]
     },
     {
@@ -1196,7 +1185,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Tonyskansascity",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Tony's Kansas City: Did Kobach Cut Crime?](https://www.tonyskansascity.com/2025/07/did-kansas-ag-kobach-cut-crime.html)"
+        "Tony's Kansas City: Did Kobach Cut Crime?"
       ]
     },
     {
@@ -1207,7 +1196,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Kobach FEC Fine](https://kansasreflector.com/2022/12/31/kobachs-u-s-senate-campaign-we-build-the-wall-hit-by-30000-fine-for-campaign-law-violations/)"
+        "Kansas Reflector: Kobach FEC Fine"
       ]
     },
     {
@@ -1218,8 +1207,8 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kriskobach",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "The still-live campaign video archive reinforces Kobach's older AG campaign frame. The campaign site embeds videos about Congress testimony, attacks on Chris Mann, family safety, sheriff/law-enforcement support, qualifications, and a Fox clip about Anthony Fau",
-        "Facebook, Instagram, and YouTube are confirmed as platform presence but did not expose reliable current post inventories. The campaign videos page embeds six videos, including \"Kris Kobach Testifies Before Congress,\" \"TV Ad: Can't Trust Chris Mann,\" \"TV Ad: Ou"
+        "The still-live campaign video archive reinforces Kobach's older AG campaign frame. The campaign site embeds videos about Congress testimony, attacks on Chris Mann, family safety, sheriff/law-enforcement support, qualifi...",
+        "Facebook, Instagram, and YouTube are confirmed as platform presence but did not expose reliable current post inventories. The campaign videos page embeds six videos, including \"Kris Kobach Testifies Before Congress,\" \"T..."
       ]
     },
     {
@@ -1230,7 +1219,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Mann.House",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Important correction for later compilers: the existing UI v2 object contains stale/mismatched fields, including campaignWebsite: https://mann.house.gov/about, and local site-profile.md says Kobach is a Republican candidate for governor in 2026. Current accessi"
+        "Important correction for later compilers: the existing UI v2 object contains stale/mismatched fields, including campaignWebsite: https://mann.house.gov/about, and local site-profile.md says Kobach is a Republican candid..."
       ]
     },
     {
@@ -1241,8 +1230,8 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kriskobach",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "summary: \"Existing compiled UI context contains stale/mismatched fields: campaignWebsite points to Tracey Mann's House page, and local site-profile prose says Kobach is running for governor. Later compiler should correct to Kansas AG re-election and campaign s",
-        "[Kansas AG: Reelection Announcement](https://kriskobach.com/)",
+        "summary: \"Existing compiled UI context contains stale/mismatched fields: campaignWebsite points to Tracey Mann's House page, and local site-profile prose says Kobach is running for governor. Later compiler should correc...",
+        "Kansas AG: Reelection Announcement",
         "Kobach for AG: https://kriskobach.com/"
       ]
     },
@@ -1254,7 +1243,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Hart's public alignment signal is built more through events and organizations than through reposts. The captured Bluesky feed contains no reposts from other accounts and no shared posts from Democratic primary opponents. He posted appearances with the [Harvey"
+        "Hart's public alignment signal is built more through events and organizations than through reposts. The captured Bluesky feed contains no reposts from other accounts and no shared posts from Democratic primary opponents..."
       ]
     },
     {
@@ -1265,7 +1254,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers \"across the political spectrum\" ([source](https://bsky.app/profile/kansan"
+        "For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers \"across the political spectrum\"..."
       ]
     },
     {
@@ -1276,7 +1265,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Twstalker",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "1 month ago -- Post warning Kansas legislators that Kansas may be sued over in-state tuition for undocumented immigrants. Engagement on Kobach item: 29 replies, 83 reposts, 308 likes, 35K views, 7 quotes. Topic: immigration / in-state tuition / federal law. (["
+        "1 month ago -- Post warning Kansas legislators that Kansas may be sued over in-state tuition for undocumented immigrants. Engagement on Kobach item: 29 replies, 83 reposts, 308 likes, 35K views, 7 quotes. Topic: immigra..."
       ]
     },
     {
@@ -1287,8 +1276,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kriskobach",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kris Kobach campaign biography](https://www.kriskobach.com/meet-kris/), captured 2026-05-11. Key visible signals: credentials, DACA litigation, Biden vaccine-mandate litigation, DHS/ICE litigation, Air Force religious-exemption litigation, family, and AG serv",
-        "| Campaign site | https://www.kriskobach.com/meet-kris/ | FOUND | Biography emphasizes elite legal credentials, litigation against federal administrations, DACA, vaccine mandates, Air Force religious exemptions, and current AG service. |"
+        "Kris Kobach campaign biography, captured 2026-05-11. Key visible signals: credentials, DACA litigation, Biden vaccine-mandate litigation, DHS/ICE litigation, Air Force religious-exemption litigation, family, and AG serv"
       ]
     },
     {
@@ -1299,7 +1287,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Hart's national and foreign-policy posts are present but less frequent than healthcare, agriculture, campaign events, and biography. On April 23, he posted, \"When troops are in active operations, accountability matters at every level\" ([source](https://bsky.ap"
+        "Hart's national and foreign-policy posts are present but less frequent than healthcare, agriculture, campaign events, and biography. On April 23, he posted, \"When troops are in active operations, accountability matters..."
       ]
     },
     {
@@ -1310,7 +1298,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Thefederalist",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[The Federalist coverage of Pfizer lawsuit](https://thefederalist.com/2024/06/18/kansas-ag-sues-pfizer-for-falsely-representing-and-suppressing-the-truth-about-its-covid-jab/), published 2024-06-18. Key visible signal: credible indexed coverage of Kobach's pub"
+        "The Federalist coverage of Pfizer lawsuit, published 2024-06-18. Key visible signal: credible indexed coverage of Kobach's pub"
       ]
     },
     {
@@ -1321,7 +1309,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Visible audience response is small on Bluesky and larger on YouTube Shorts. The most-engaged Bluesky item was the March 16 filing post, with 7 likes, 1 repost, 0 replies, and 0 quotes as of the May 11, 2026 capture ([source](https://bsky.app/profile/kansanshav"
+        "Visible audience response is small on Bluesky and larger on YouTube Shorts. The most-engaged Bluesky item was the March 16 filing post, with 7 likes, 1 repost, 0 replies, and 0 quotes as of the May 11, 2026 capture ([so..."
       ]
     },
     {
@@ -1332,8 +1320,8 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Proctor's public alignment network on his own feed centers on Kansas Republican officeholders, election-policy organizations, and his own legislative work product. His Facebook page features a campaign video titled [\"Kris Kobach Wanted This 20-Year-Old To Go T",
-        "Engagement on Proctor's content is not evenly distributed. His Facebook page hosts the highest-engagement videos when they touch enforcement of election law and ballot-integrity claims, including the [Kobach-framed enforcement video](https://www.facebook.com/P"
+        "Proctor's public alignment network on his own feed centers on Kansas Republican officeholders, election-policy organizations, and his own legislative work product. His Facebook page features a campaign video titled [\"Kr...",
+        "Engagement on Proctor's content is not evenly distributed. His Facebook page hosts the highest-engagement videos when they touch enforcement of election law and ballot-integrity claims, including the [Kobach-framed enfo..."
       ]
     },
     {
@@ -1344,7 +1332,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Ballotready",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[BallotReady profile](https://www.ballotready.org/people/kris-kobach), captured 2026-05-11. Key visible signals: verified campaign website, Facebook, Twitter/X, Instagram; official AG website, contact page, Facebook, and Twitter/X."
+        "BallotReady profile, captured 2026-05-11. Key visible signals: verified campaign website, Facebook, Twitter/X, Instagram; official AG website, contact page, Facebook, and Twitter/X."
       ]
     },
     {
@@ -1355,7 +1343,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Ag.Ks",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[AG Kobach statement](https://www.ag.ks.gov/Home/Components/News/News/158/1292)"
+        "AG Kobach statement"
       ]
     },
     {
@@ -1366,7 +1354,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Cnn",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[CNN - Kobach wins Kansas GOP primary](https://www.cnn.com/2018/08/14/politics/kris-kobach-wins-kansas-republican-governor-primary)"
+        "CNN - Kobach wins Kansas GOP primary"
       ]
     },
     {
@@ -1377,7 +1365,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Heavy",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Heather Kobach: 5 Fast Facts](https://heavy.com/news/2018/08/heather-kobach-kris-kobach-wife-kansas/)"
+        "Heather Kobach: 5 Fast Facts"
       ]
     },
     {
@@ -1388,7 +1376,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "En.Wikipedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kris Kobach - Wikipedia](https://en.wikipedia.org/wiki/Kris_Kobach)",
+        "Kris Kobach - Wikipedia",
         "Wikipedia: https://en.wikipedia.org/wiki/Kris_Kobach"
       ]
     },
@@ -1400,7 +1388,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Fedsoc",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Federalist Society - Kris Kobach Bio](https://fedsoc.org/bio/kris-kobach-1)"
+        "Federalist Society - Kris Kobach Bio"
       ]
     },
     {
@@ -1411,7 +1399,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Ballotpedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kris Kobach - Ballotpedia](https://ballotpedia.org/Kris_Kobach)",
+        "Kris Kobach - Ballotpedia",
         "Ballotpedia: https://ballotpedia.org/Kris_Kobach"
       ]
     },
@@ -1423,7 +1411,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "En.Wikipedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Fish v. Kobach - Wikipedia](https://en.wikipedia.org/wiki/Fish_v._Kobach)"
+        "Fish v. Kobach - Wikipedia"
       ]
     },
     {
@@ -1434,7 +1422,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Aclukansas",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[ACLU Kansas: Kansas Drops Kobach Appeal of Contempt](https://aclukansas.org/news/kansas-drops-kris-kobachs-appeal-contempt-ruling-aclu-accepts-20000-legal-fees/)"
+        "ACLU Kansas: Kansas Drops Kobach Appeal of Contempt"
       ]
     },
     {
@@ -1445,7 +1433,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Truthout",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Truthout: Kansas Kills Kobach's National Voter Purge System](https://truthout.org/articles/kansas-kills-kris-kobachs-national-voter-purge-system/)"
+        "Truthout: Kansas Kills Kobach's National Voter Purge System"
       ]
     },
     {
@@ -1456,7 +1444,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Democraticgovernors",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[DGA: Derek Schmidt Continues Kobach's Legacy of Costing Taxpayers Millions](https://democraticgovernors.org/updates/icymi-derek-schmidt-continues-kris-kobachs-legacy-of-costing-taxpayers-millions/)"
+        "DGA: Derek Schmidt Continues Kobach's Legacy of Costing Taxpayers Millions"
       ]
     },
     {
@@ -1467,7 +1455,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Kobach AG Record Coverage](https://kansasreflector.com/tag/kris-kobach/)",
+        "Kansas Reflector: Kobach AG Record Coverage",
         "Kansas Reflector (Kobach tag): https://kansasreflector.com/tag/kris-kobach/"
       ]
     },
@@ -1479,7 +1467,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Abovethelaw",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Above the Law: Kobach Fires Law Firm That Donated to Democrats](https://abovethelaw.com/2023/05/kris-kobach-fires-law-firm-that-donated-to-democrats-clumsily-backpedals-after-realizing-legal-ramifications-of-retaliation/)"
+        "Above the Law: Kobach Fires Law Firm That Donated to Democrats"
       ]
     },
     {
@@ -1490,7 +1478,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kcur",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[KCUR: Kelly Beats Kobach](https://www.kcur.org/politics-elections-and-government/2018-11-07/kelly-beats-kobach-promises-shell-ditch-partisan-ways-as-governor)"
+        "KCUR: Kelly Beats Kobach"
       ]
     },
     {
@@ -1501,8 +1489,8 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Propublica",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[ProPublica: Kris Kobach's Lucrative Trail of Courtroom Defeats](https://www.propublica.org/article/kris-kobachs-lucrative-trail-of-courtroom-defeats)",
-        "[ProPublica: Trail of Courtroom Defeats](https://www.propublica.org/article/kris-kobachs-lucrative-trail-of-courtroom-defeats)"
+        "ProPublica: Kris Kobach's Lucrative Trail of Courtroom Defeats",
+        "ProPublica: Trail of Courtroom Defeats"
       ]
     },
     {
@@ -1513,7 +1501,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Splcenter",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[SPLC: When Mr. Kobach Comes to Town](https://www.splcenter.org/resources/reports/when-mr-kobach-comes-town-nativist-laws-and-communities-they-damage/)",
+        "SPLC: When Mr. Kobach Comes to Town",
         "SPLC Report: https://www.splcenter.org/resources/reports/when-mr-kobach-comes-town-nativist-laws-and-communities-they-damage/"
       ]
     },
@@ -1525,7 +1513,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Yahoo",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Yahoo News: Epstein Files and Kobach](https://www.yahoo.com/news/articles/jeffrey-epstein-files-kris-kobach-100825234.html)"
+        "Yahoo News: Epstein Files and Kobach"
       ]
     },
     {
@@ -1536,7 +1524,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Glaad",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[GLAAD: Kris Kobach](https://glaad.org/gap/kris-kobach/)"
+        "GLAAD: Kris Kobach"
       ]
     },
     {
@@ -1547,7 +1535,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Aclukansas",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[ACLU Kansas: AG Kobach Power Grab](https://www.aclukansas.org/press-releases/aclu-of-kansas-responds-to-ag-kobachs-power-grab-and-effort-to-change-law-after-losses/)"
+        "ACLU Kansas: AG Kobach Power Grab"
       ]
     },
     {
@@ -1558,7 +1546,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Americasvoice",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[America's Voice: Who is Kris Kobach](https://americasvoice.org/blog/kris-kobach/)"
+        "America's Voice: Who is Kris Kobach"
       ]
     },
     {
@@ -1569,8 +1557,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Aclukansas",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "ACLU Kansas - AG Kobach Tracking: https://www.aclukansas.org/publications/kansas-attorney-general-kris-kobach/",
-        "[aclukansas.org](https://www.aclukansas.org/publications/kansas-attorney-general-kris-kobach/)"
+        "ACLU Kansas - AG Kobach Tracking: https://www.aclukansas.org/publications/kansas-attorney-general-kris-kobach/"
       ]
     },
     {
@@ -1581,8 +1568,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kcur",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "KCUR (Kobach tag): https://www.kcur.org/tags/kris-kobach",
-        "[KCUR](https://www.kcur.org/tags/kris-kobach)"
+        "KCUR (Kobach tag): https://www.kcur.org/tags/kris-kobach"
       ]
     },
     {
@@ -1594,7 +1580,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Lawrence Times (Kobach coverage): https://lawrencekstimes.com/",
-        "[lawrencekstimes.com](https://lawrencekstimes.com/)"
+        "lawrencekstimes.com"
       ]
     },
     {
@@ -1604,9 +1590,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "title": "Opensecrets",
       "publisher": "Opensecrets",
       "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[OpenSecrets](https://www.opensecrets.org/officeholders/kris-kobach/summary)"
-      ]
+      "claimsAnchored": []
     },
     {
       "id": "src-kris-kobach-0315",
@@ -1616,7 +1600,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kcur",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[KCUR: \"Well-known, polarizing Kris Kobach faces newcomer Chris Mann\" (Oct 4, 2022)](https://www.kcur.org/news/2022-10-04/well-known-polarizing-kris-kobach-faces-newcomer-chris-mann-for-kansas-attorney-general)"
+        "KCUR: \"Well-known, polarizing Kris Kobach faces newcomer Chris Mann\" (Oct 4, 2022)"
       ]
     },
     {
@@ -1627,7 +1611,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: \"Kansas AG candidates Kris Kobach, Chris Mann make pitch to voters in TV debate\" (Oct 26, 2022)](https://kansasreflector.com/2022/10/26/kansas-ag-candidates-kris-kobach-chris-mann-make-pitch-to-voters-in-tv-debate/)"
+        "Kansas Reflector: \"Kansas AG candidates Kris Kobach, Chris Mann make pitch to voters in TV debate\" (Oct 26, 2022)"
       ]
     },
     {
@@ -1638,7 +1622,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Flatlandkc",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Flatland KC: \"Kobach, Mann Spar Over Proper Role of Kansas Attorney General\"](https://flatlandkc.org/news-issues/kobach-mann-spar-over-proper-role-of-kansas-attorney-general/)"
+        "Flatland KC: \"Kobach, Mann Spar Over Proper Role of Kansas Attorney General\""
       ]
     },
     {
@@ -1649,7 +1633,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: \"Kris Kobach is not a good attorney -- Kansas attorney group announces support for Chris Mann\"](https://kansasreflector.com/briefs/kris-kobach-is-not-a-good-attorney-kansas-attorney-group-announces-support-for-chris-mann/)"
+        "Kansas Reflector: \"Kris Kobach is not a good attorney -- Kansas attorney group announces support for Chris Mann\""
       ]
     },
     {

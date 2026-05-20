@@ -21,7 +21,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -31,7 +31,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -41,7 +41,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -62,7 +62,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -72,7 +72,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public evidence: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by text message, app, home kiosk link, and office kiosk for joining the treasurer office queue. Sources: Hays Post, July 31, 2020, Ellis County Treasury. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by text message, app, home kiosk link, and office kiosk for joining the treasurer office queue. Sources: Hays Post, July 31, 2020, Ellis County Treasury. Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-profile-2020",
           "s-ellis-treasury"
@@ -105,7 +105,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -115,7 +115,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -125,7 +125,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -135,7 +135,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -145,7 +145,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by text message, app, home kiosk link, and office kiosk for joining the treasurer office queue. Sources: Hays Post, July 31, 2020, Ellis County Treasury. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by text message, app, home kiosk link, and office kiosk for joining the treasurer office queue. Sources: Hays Post, July 31, 2020, Ellis County Treasury. Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-profile-2020"
         ]
@@ -177,7 +177,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: ZoomInfo profile -- limited info Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: ZoomInfo profile -- limited info Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-vernon-ruder-jr-0087",
           "s-ellis-treasury"
@@ -207,7 +207,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -217,7 +217,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by text message, app, home kiosk link, and office kiosk for joining the treasurer office queue. Sources: Hays Post, July 31, 2020, Ellis County Treasury. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by text message, app, home kiosk link, and office kiosk for joining the treasurer office queue. Sources: Hays Post, July 31, 2020, Ellis County Treasury. Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-hayspost-profile-2020",
           "s-ellis-treasury"
@@ -239,26 +239,26 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Vernon Ruder Jr. is profiled here for Ellis County Treasurer as a Republican incumbent/current official. He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by t... The Ellis County Treasurer's Office ... is responsible for the tax billing, collection, and distribution - Ellis County Treasury official page - https://www.ellisco.net/566/Treasury - topic: office mission. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 5 source-backed actions across 4 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County T... Election integrity / voting / courts: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current E... Public safety / law enforcement / criminal justice: ZoomInfo profile -- limited info. Public safety / law enforcement / criminal justice: Ellis County Treasury Official Page. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "ownWordsNarrative": "candidateControlled: found: Ellis County Treasury official profile/contact page; Ellis County staff directory; Kansas County Treasurers Association directory; 2020 candidate-authored Hays Post letter; presenceClues: Ruder's 2020 Hays Post letter referenced a Facebook page and campaign Gmail address, but no usable public Facebook post corpus was verified.; notConfirmed: Current campaign website; Current campaign Facebook page with public posts; Personal Facebook civic/political post archive; LinkedIn profile/activity; X/Twitter account; Instagram account; Threads, Bluesky, TikTok, YouTube, Substack, Reddit, or podcast feed; Public follows, likes, comments, shares, reposts, or follower counts; observedSignals: id: online-low-campaign-footprint; platform: Searchable public web; type: absence_signal; mappedToIssueId: treasurer-office-duties; summary: The accessible public record is office-directory and local-news heavy, with no verified active campaign-social operation.; sourceIds: s-ellis-treasury; s-kcta-ellis; s-hayspost-profile-2020; caveat: Social absence is not evidence of support, belief, or private activity. No social follows/likes/comments were verified or interpreted.",
+  "whoTheyAre": "Vernon Ruder Jr. is profiled here for Ellis County Treasurer as a Republican incumbent/current official. He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by t... The Ellis County Treasurer's Office ... is responsible for the tax billing, collection, and distribution - Ellis County Treasury official page - https://www.ellisco.net/566/Treasury - topic: office mission. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 5 source-backed items across 4 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County T... Election integrity / voting / courts: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current E... Public safety / law enforcement / criminal justice: ZoomInfo profile -- limited info. Public safety / law enforcement / criminal justice: Ellis County Treasury Official Page. Social-only material is listed separately as online observation, not official action.",
+  "ownWordsNarrative": "[object Object]",
   "whereTheyWorship": "Public sources do not identify a current church affiliation for Vernon Ruder Jr. The public record does point to a Catholic family and school background in Hays, but no current parish participation is clearly documented under his own name.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
-    "narrative": "No current Ruder campaign website, donation page, campaign-finance report, or donor list was located online in this pass.",
+    "narrative": "No current Ruder campaign website, donation page, campaign-finance report, or donor list was located online in the reviewed public record.",
     "donors": [],
-    "undisclosed": "Do not infer donor influence or campaign funding patterns until county-file campaign-finance records are obtained.",
+    "undisclosed": "The public record does not establish donor influence or campaign funding patterns until county-file campaign-finance records are obtained.",
     "reportingPeriod": "2020 and 2024 county treasurer cycles searched at high level; no online donor ledger captured",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "3 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "3 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ellis-treasury",
@@ -269,18 +269,15 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "The treasurer office handles tax billing, collection, and distribution for state, county, city, and other taxing entities",
-        "The office acts as agent for Kansas Department of Revenue motor-vehicle titling and registration transactions",
         "The page describes QLess queue access by SMS, app, home kiosk link, and office kiosk",
         "The page lists Vernon Ruder Jr. as treasurer",
-        "\"The Ellis County Treasurer's Office ... is responsible for the tax billing, collection, and distribution\" - Ellis County Treasury official page - https://www.ellisco.net/566/Treasury - topic: office mission",
-        "| Official county treasurer page | Found | The [Ellis County Treasury page](https://www.ellisco.net/566/Treasury) lists Vernon Ruder, Jr. as treasurer and describes tax billing, collection, distribution, county monies, motor-vehicle titling/registration, QLess",
-        "Current official office page: Ellis County describes the treasurer office as responsible for tax billing, collection, and distribution, county monies, and motor-vehicle titling/registration for Ellis County residents. Source: [Ellis County Treasury](https://ww",
-        "[Ellis County Treasury Official Page](https://www.ellisco.net/566/Treasury)",
-        "\"The Treasurer's Office also acts as an agent for the Kansas Department of Revenue\" - Ellis County Treasury official page - https://www.ellisco.net/566/Treasury - topic: motor vehicle duties",
+        "The Ellis County Treasurer's Office ... is responsible for the tax billing, collection, and distribution - Ellis County Treasury official page - https://www.ellisco.net/566/Treasury - topic: office mission",
+        "Current official office page: Ellis County describes the treasurer office as responsible for tax billing, collection, and distribution, county monies, and motor-vehicle titling/registration for Ellis County residents. S...",
+        "Ellis County Treasury Official Page",
         "> -- Ellis County Treasury official page, accessed 2026-04-02, https://www.ellisco.net/566/Treasury",
-        "[Ellis County Treasury](https://www.ellisco.net/566/Treasury)",
-        "\"source\": \"Ellis County Treasury official page, accessed 2026-04-02, https://www.ellisco.net/566/Treasury\",",
-        "\"campaignWebsite\": \"https://www.ellisco.net/566/Treasury\","
+        "Ellis County Treasury",
+        "\"source\": \"Ellis County Treasury official page, accessed 2026-04-02, https://www.ellisco.net/566/Treasury\"",
+        "\"campaignWebsite\": \"https://www.ellisco.net/566/Treasury\""
       ]
     },
     {
@@ -294,9 +291,8 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
         "Vernon Ruder Jr. is listed with title Treasurer",
         "Office contact details and hours are listed",
         "Ellis County staff directory - https://www.ellisco.net/directory.aspx?EID=129",
-        "[Ellis County staff directory - Vernon Ruder, Jr.](https://www.ellisco.net/directory.aspx?EID=129)",
-        "https://www.ellisco.net/directory.aspx?EID=129",
-        "[ellisco.net](https://www.ellisco.net/directory.aspx?EID=129)"
+        "Ellis County staff directory - Vernon Ruder, Jr.",
+        "https://www.ellisco.net/directory.aspx?EID=129"
       ]
     },
     {
@@ -310,8 +306,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
         "KCTA lists Vernon Ruder Jr. for Ellis County",
         "KCTA lists took office as 2021",
         "KCTA lists services including online tax payments, escrow/partial payments, ACH/wire payments, notary services, and a 24-hour drop box",
-        "Kansas County Treasurers Association, Ellis County - https://kansastreasurers.org/index.php/directory/ellis-county/",
-        "| Kansas County Treasurers Association profile | Found | The [KCTA Ellis County page](https://kansastreasurers.org/index.php/directory/ellis-county/) lists Vernon Ruder Jr., says he took office in 2021, and lists services including online tax payments, escrow"
+        "Kansas County Treasurers Association, Ellis County - https://kansastreasurers.org/index.php/directory/ellis-county/"
       ]
     },
     {
@@ -325,7 +320,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
         "The 2025 budget was adopted September 10, 2024",
         "Dept. 24 - Treasurer lists responsible party Vernon Ruder Jr., County Treasurer",
         "2025 proposed treasurer department lines include interest on investments and salary lines",
-        "[Ellis County 2025 Budget Book](https://www.ellisco.net/DocumentCenter/View/5645/2025-Budget-Book)"
+        "Ellis County 2025 Budget Book"
       ]
     },
     {
@@ -340,13 +335,11 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
         "Ruder proposed kiosk and wait-time app access",
         "Ruder said he would present monthly financial reports showing where money was invested",
         "Hays Post reported 2020 campaign conflict over Mason Ruder's county employment and city commission role",
-        "He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by te",
-        "[HaysPost Candidate Profile: Vernon Ruder Jr.](https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4)",
-        "[Candidate Profile Ellis County Treasurer: Vernon Ruder Jr.](https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4)",
-        "[HaysPost: Vernon Ruder Jr. candidate profile](https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4)",
-        "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and off",
-        "| Local news candidate profile | Found | Hays Post published a July 31, 2020 [candidate profile](https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4) with extensive attributed quotes on spending, efficiency, transparency, professionalism, and worki",
-        "[Hays Post - Candidate profile, July 31, 2020](https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4)"
+        "He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasu...",
+        "HaysPost Candidate Profile: Vernon Ruder Jr.",
+        "Candidate Profile Ellis County Treasurer: Vernon Ruder Jr.",
+        "HaysPost: Vernon Ruder Jr. candidate profile",
+        "Hays Post - Candidate profile, July 31, 2020"
       ]
     },
     {
@@ -362,17 +355,17 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
         "Ruder said motor-vehicle operations should be funded with motor-vehicle money",
         "Ruder estimated the added fee would probably generate more than $50,000",
         "Hays Post reported Ruder said he reduced the treasury budget from $452,000 in 2022 to $367,000 in 2023",
-        "\"I feel like we should be funding our motor vehicle department with motor vehicle money\" - Hays Post, 2023-11-20 - https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494 - topic: fee policy",
-        "On the motor vehicle fee: \"I elected, after 12 years, to implement a $2.50 fee for walk-in customers.\" Source: [Hays Post](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494) on May 15, 2023.",
-        "On county funding: \"The State of Kansas allows the treasurers in each county to help fund their motor vehicle operations with this facility fee for the county.\" Source: [Hays Post](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494) on May 15, 202",
-        "On taxpayer burden: \"I wanted to take the burden off of people who pay property taxes.\" Source: [Hays Post](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494) on May 15, 2023.",
+        "I feel like we should be funding our motor vehicle department with motor vehicle money - Hays Post, 2023-11-20 - https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494 - topic: fee policy",
+        "On the motor vehicle fee: \"I elected, after 12 years, to implement a $2.50 fee for walk-in customers.\" Source: Hays Post on May 15, 2023.",
+        "On county funding: \"The State of Kansas allows the treasurers in each county to help fund their motor vehicle operations with this facility fee for the county.\" Source: Hays Post on May 15, 202",
+        "On taxpayer burden: \"I wanted to take the burden off of people who pay property taxes.\" Source: Hays Post on May 15, 2023.",
         "Hays Post motor-vehicle fee article - https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494",
-        "[Motor Vehicle Fees -- Hays Post](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494)",
-        "\"The state no longer purchases our computers or printers\" - Hays Post, 2023-11-20 - https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494 - topic: office funding",
-        "[Hays Post - Motor vehicle fees and treasurer budget, Nov. 20, 2023](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494)",
-        "On technology costs: \"The state no longer purchases our computers or printers.\" Source: [Hays Post](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494) on May 15, 2023.",
+        "Motor Vehicle Fees -- Hays Post",
+        "The state no longer purchases our computers or printers - Hays Post, 2023-11-20 - https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494 - topic: office funding",
+        "Hays Post - Motor vehicle fees and treasurer budget, Nov. 20, 2023",
+        "On technology costs: \"The state no longer purchases our computers or printers.\" Source: Hays Post on May 15, 2023.",
         "> -- Hays Post, 2023-11-20, https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494",
-        "\"source\": \"Hays Post, 2023-11-20, https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494\","
+        "\"source\": \"Hays Post, 2023-11-20, https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494\""
       ]
     },
     {
@@ -397,10 +390,10 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Preliminary 2024 all-precinct results listed incumbent Vernon Ruder Jr. with 11,278 votes",
         "The article did not list an opponent for Ellis County Treasurer",
-        "[2024 Election Results -- Hays Post](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
-        "[Hays Post: 2024 Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
-        "[Hays Post: 2024 General Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
-        "[Hays Post - 2024 general election results, Nov. 6, 2024](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
+        "2024 Election Results -- Hays Post",
+        "Hays Post: 2024 Election Results",
+        "Hays Post: 2024 General Election Results",
+        "Hays Post - 2024 general election results, Nov. 6, 2024",
         "Hays Post 2024 all-precinct results - https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496"
       ]
     },
@@ -416,19 +409,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
         "Ruder recommended students get involved in community and local politics early",
         "The article identifies Vernon Ruder as Mason Ruder's father and Ruth Ruder as Mason's mother",
         "Hays Post Hays Middle School voter event - https://hayspost.com/posts/fd6be90b-bcb4-49d7-bf9a-20194a876c3c",
-        "[Hays Post - Hays Middle School voter event, Sept. 30, 2024](https://hayspost.com/posts/fd6be90b-bcb4-49d7-bf9a-20194a876c3c)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0030",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Trea",
-        "\"source\": \"Hays Post, 2023 candidate profile, https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a\","
+        "Hays Post - Hays Middle School voter event, Sept. 30, 2024"
       ]
     },
     {
@@ -439,8 +420,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "publisher": "Zoominfo",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[ZoomInfo profile](https://www.zoominfo.com/p/Vernon-Ruder/2569532965) -- limited info",
-        "[ZoomInfo profile](https://www.zoominfo.com/p/Vernon-Ruder/2569532965)"
+        "ZoomInfo profile -- limited info"
       ]
     }
   ]

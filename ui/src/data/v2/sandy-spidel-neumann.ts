@@ -22,7 +22,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -32,7 +32,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -42,7 +42,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -52,7 +52,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -62,7 +62,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -72,7 +72,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -103,7 +103,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -113,7 +113,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -134,7 +134,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -175,7 +175,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts.",
         "sourceIds": []
       },
       "actions": [],
@@ -196,7 +196,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Sandy Spidel Neumann - Ballotpedia Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public record: Sandy Spidel Neumann - Ballotpedia Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-sandy-spidel-neumann-0042",
           "s-kcur-guide"
@@ -226,7 +226,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -236,7 +236,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Reviewed evidence: Johnson County Post photo Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Public evidence: Johnson County Post photo Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-sandy-spidel-neumann-0077"
         ]
@@ -269,7 +269,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -287,18 +287,18 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       ]
     }
   ],
-  "whoTheyAre": "Sandy Spidel Neumann is profiled here for U.S. Senate candidate as a Democratic. | s-joco-candidates | primary | https://www.jocoelection.org/candidates-elected-officials/candidates | accessed 2026-05-19 | Official county election-office candidate list, U.S. Senate row for Sandy Spidel Neumann | ballot-status lead |. | s-campaign-home | primary | https://sandyforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, biography, campaign address, campaign social links | biography, issue overview |. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 2 source-backed actions across 1 of the 14 issue areas. Representative public-record entries include: Public safety / law enforcement / criminal justice: Sandy Spidel Neumann - Ballotpedia. Public safety / law enforcement / criminal justice: KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025). Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.",
+  "whoTheyAre": "Sandy Spidel Neumann is profiled here for U.S. Senate candidate as a Democratic. | s-joco-candidates | primary | https://www.jocoelection.org/candidates-elected-officials/candidates | accessed 2026-05-19 | Official county election-office candidate list, U.S. Senate row for Sandy Spidel Neumann | ballot-status lead |. | s-campaign-home | primary | https://sandyforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, biography, campaign address, campaign social links | biography, issue overview |. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
+  "recordSummary": "The public record summary contains 2 source-backed items across 1 of the 14 issue areas. Representative public-record entries include: Public safety / law enforcement / criminal justice: Sandy Spidel Neumann - Ballotpedia. Public safety / law enforcement / criminal justice: KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025). Social-only material is listed separately as online observation, not official action.",
+  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed public record. No policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
-    "totalRaised": "Not itemized in rendered profile",
-    "narrative": "| s-fec-candidate | primary | https://www.fec.gov/data/candidate/S6KS00262/?cycle=2026&election_full=false | accessed 2026-05-19 | Candidate ID, office, party, challenger status, statement filed 2025-10-15, Q1 2026 totals | status, campaign finance |. | s-fec-committee | primary | https://www.fec.gov/data/committee/C00923474/?cycle=2026 | accessed 2026-05-19 | Active principal committee, committee ID, registration date, treasurer, authorizing candidate, committee address, financial totals | status, campaig... | s-fec-form2 | primary | https://docquery.fec.gov/pdf/730/202510159791595730/202510159791595730.pdf | filed 2025-10-15; accessed 2026-05-19 | FEC Form 2 Statement of Candidacy, candidate name, office, party, principal campaign committee | status |. | s-fec-form1 | primary | https://docquery.fec.gov/pdf/895/202510159791594895/202510159791594895.pdf | filed 2025-10-15; accessed 2026-05-19 | FEC Form 1 Statement of Organization for Sandy for Kansas | committee structure |. Finance figures are shown only when the reporting period/source was preserved in the evidence matrix; otherwise this remains a research caveat.",
+    "totalRaised": "Not itemized in reviewed public records",
+    "narrative": "| s-fec-candidate | primary | https://www.fec.gov/data/candidate/S6KS00262/?cycle=2026&election_full=false | accessed 2026-05-19 | Candidate ID, office, party, challenger status, statement filed 2025-10-15, Q1 2026 totals | status, campaign finance |. | s-fec-committee | primary | https://www.fec.gov/data/committee/C00923474/?cycle=2026 | accessed 2026-05-19 | Active principal committee, committee ID, registration date, treasurer, authorizing candidate, committee address, financial totals | status, campaig... | s-fec-form2 | primary | https://docquery.fec.gov/pdf/730/202510159791595730/202510159791595730.pdf | filed 2025-10-15; accessed 2026-05-19 | FEC Form 2 Statement of Candidacy, candidate name, office, party, principal campaign committee | status |. | s-fec-form1 | primary | https://docquery.fec.gov/pdf/895/202510159791594895/202510159791594895.pdf | filed 2025-10-15; accessed 2026-05-19 | FEC Form 1 Statement of Organization for Sandy for Kansas | committee structure |. Finance figures are shown only when the reporting period/source is available; otherwise this remains a research caveat.",
     "donors": [],
-    "undisclosed": "No donor-by-donor list is rendered unless the donor name, amount, and reporting source were all separated cleanly.",
-    "reportingPeriod": "Current public filings/evidence matrix reviewed 2026-05-20",
+    "undisclosed": "No donor-by-donor list is shown unless the donor name, amount, and reporting source were all identified clearly.",
+    "reportingPeriod": "Reviewed public filings as of 2026-05-20",
     "source": "Fec (https://www.fec.gov/data/candidate/S6KS00262/)"
   },
-  "socialResearchNote": "10 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "10 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-fec-candidate",
@@ -311,9 +311,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
         "Spidel Neumann is listed as a Democratic candidate for U.S. Senate in Kansas, candidate ID S6KS00262",
         "FEC lists the candidate as a challenger",
         "Current Statement of Candidacy version FEC-1921666 was filed Oct. 15, 2025",
-        "Coverage through March 31, 2026 shows $187,436.34 receipts, $149,326.67 disbursements, and $38,109.67 ending cash on hand",
-        "| s-fec-candidate | primary | https://www.fec.gov/data/candidate/S6KS00262/?cycle=2026&election_full=false | accessed 2026-05-19 | Candidate ID, office, party, challenger status, statement filed 2025-10-15, Q1 2026 totals | status, campaign finance |",
-        "\"url\": \"https://www.fec.gov/data/candidate/S6KS00262/?cycle=2026&election_full=false\","
+        "Coverage through March 31, 2026 shows $187,436.34 receipts, $149,326.67 disbursements, and $38,109.67 ending cash on hand"
       ]
     },
     {
@@ -328,8 +326,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
         "Committee ID is C00923474",
         "Registration date is Oct. 15, 2025",
         "Treasurer is Lauren Decot Lee",
-        "Authorizing candidate is Spidel Neumann, Sandy",
-        "| s-fec-committee | primary | https://www.fec.gov/data/committee/C00923474/?cycle=2026 | accessed 2026-05-19 | Active principal committee, committee ID, registration date, treasurer, authorizing candidate, committee address, financial totals | status, campaign"
+        "Authorizing candidate is Spidel Neumann, Sandy"
       ]
     },
     {
@@ -342,8 +339,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Statement of Candidacy was filed Oct. 15, 2025",
         "Candidate is listed for 2026 U.S. Senate in Kansas as Democratic Party",
-        "Sandy for Kansas is designated as principal campaign committee",
-        "| s-fec-form2 | primary | https://docquery.fec.gov/pdf/730/202510159791595730/202510159791595730.pdf | filed 2025-10-15; accessed 2026-05-19 | FEC Form 2 Statement of Candidacy, candidate name, office, party, principal campaign committee | status |"
+        "Sandy for Kansas is designated as principal campaign committee"
       ]
     },
     {
@@ -355,8 +351,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Candidate page lists Sandy Spidel Neumann under U.S. Senate",
-        "Row lists incumbent No, city Overland Park, website sandyforkansas.com, Democratic",
-        "| s-joco-candidates | primary | https://www.jocoelection.org/candidates-elected-officials/candidates | accessed 2026-05-19 | Official county election-office candidate list, U.S. Senate row for Sandy Spidel Neumann | ballot-status lead |"
+        "Row lists incumbent No, city Overland Park, website sandyforkansas.com, Democratic"
       ]
     },
     {
@@ -372,18 +367,16 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
         "Biography lists University of Chicago economics degree and Northwestern Kellogg MBA",
         "Biography names lowering costs, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, school safety, and opportunity",
         "Campaign mailing address is PO Box 2159, Mission, KS 66201",
-        "| s-campaign-home | primary | https://sandyforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, biography, campaign address, campaign social links | biography, issue overview |",
-        "Campaign Website: [sandyforkansas.com](https://sandyforkansas.com/)",
-        "[Sandy Spidel Neumann for Kansas](https://sandyforkansas.com/)",
-        "Website: [sandyforkansas.com](https://sandyforkansas.com/)",
-        "[Sandy Spidel Neumann: sandyforkansas.com](https://sandyforkansas.com/)",
-        "\"Let's Get to Work, Kansas.\" - campaign site, n.d., https://sandyforkansas.com/ (campaign slogan)",
-        "\"everyone deserves a fair shot\" - campaign site, n.d., https://sandyforkansas.com/ (campaign value line)",
-        "\"Let's Get to Work, Kansas.\" - campaign site, n.d., https://sandyforkansas.com/",
-        "\"everyone deserves a fair shot\" - campaign site, n.d., https://sandyforkansas.com/",
+        "Campaign Website: sandyforkansas.com",
+        "Sandy Spidel Neumann for Kansas",
+        "Website: sandyforkansas.com",
+        "Sandy Spidel Neumann: sandyforkansas.com",
+        "Let's Get to Work, Kansas. - campaign site, n.d., https://sandyforkansas.com/ (campaign slogan)",
+        "everyone deserves a fair shot - campaign site, n.d., https://sandyforkansas.com/ (campaign value line)",
+        "Let's Get to Work, Kansas. - campaign site, n.d., https://sandyforkansas.com/",
+        "everyone deserves a fair shot - campaign site, n.d., https://sandyforkansas.com/",
         "> -- Sandy for Kansas campaign website, accessed April 1, 2026, https://sandyforkansas.com/",
-        "[Campaign Website](https://sandyforkansas.com/)",
-        "\"source\": \"Sandy for Kansas campaign website, accessed April 1, 2026, https://sandyforkansas.com/\",",
+        "\"source\": \"Sandy for Kansas campaign website, accessed April 1, 2026, https://sandyforkansas.com/\"",
         "Campaign website: https://sandyforkansas.com/ is active and links Facebook, X/Twitter, Instagram, and a video/social icon. It includes biography, donation, contact, privacy, accessibility, and press-inquiry links."
       ]
     },
@@ -396,24 +389,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "API readback showed 1,260 followers, 2,810 follows, 228 posts, and account creation date Nov. 10, 2024",
-        "Profile bio identifies her as running for U.S. Senate to deliver for Kansas families",
-        "| s-bsky-profile | social | https://bsky.app/profile/speumann.bsky.social | API accessed 2026-05-19 | Public profile metadata: followers, follows, posts, created date, description | social presence |",
-        "| Bluesky | Yes | https://bsky.app/profile/speumann.bsky.social | Public API accessible; profile bio: \"Daughter of Kansas. Businesswoman. Problem solver. Fighter for fairness. Running for U.S. Senate to deliver for Kansas families. 🌻\" |"
-      ]
-    },
-    {
-      "id": "s-bsky-launch",
-      "tier": "social",
-      "url": "https://bsky.app/profile/speumann.bsky.social/post/3m3cpfacsi22a",
-      "title": "Launch post",
-      "publisher": "Bluesky",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Oct. 16, 2025 post says she is running for U.S. Senate to fight for Kansas families",
-        "API readback engagement was 5 likes, 3 reposts, 4 replies, and 1 quote",
-        "Audience response on Bluesky was in single digits on the campaign-period posts captured. The highest-engagement visible campaign-period original post was her Oct. 16, 2025 launch post, with [5 likes, 3 reposts, 4 replies, and 1 quote as of May 11, 2026](./soci",
-        "| s-bsky-launch | social | https://bsky.app/profile/speumann.bsky.social/post/3m3cpfacsi22a | posted 2025-10-16; API accessed 2026-05-19 | Campaign launch post; engagement 5 likes, 3 reposts, 4 replies, 1 quote | campaign message |",
-        "| 2025-10-16 | Post | Campaign launch | 5 likes, 3 reposts, 4 replies, 1 quote | \"I’m Sandy Spidel Neumann. I was born and raised in Kansas by working-class parents who taught me grit, fairness, and hard work. When Senator Marshall walked out on Kansans, I kne"
+        "Profile bio identifies her as running for U.S. Senate to deliver for Kansas families"
       ]
     },
     {
@@ -426,9 +402,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Oct. 28, 2025 post says she was attending the VoteVets Economic Town Hall with Sen. Elissa Slotkin and Rep. Sharice Davids",
         "API readback engagement was 2 likes, 1 repost, 0 replies, and 0 quotes",
-        "| s-bsky-votevets | social | https://bsky.app/profile/speumann.bsky.social/post/3m4b4gysu5c27 | posted 2025-10-28; API accessed 2026-05-19 | VoteVets economic town hall post; engagement 2 likes, 1 repost, 0 replies, 0 quotes | veterans, economy |",
-        "Her public alignment signals in the harvested feed run through Democratic accounts and VoteVets events. She wrote, \"I'm attending the VoteVets Economic Town Hall with Senator Elissa Slotkin and featuring Representative Sharice Davids - sign up now to join me.",
-        "| 2025-10-28 | Post | VoteVets event | 2 likes, 1 repost, 0 replies, 0 quotes | \"I'm attending the VoteVets Economic Town Hall with Senator Elissa Slotkin and featuring Representative Sharice Davids - sign up now to join me. #sandyforkansas #votevets www.mobil"
+        "Her public alignment signals in the harvested feed run through Democratic accounts and VoteVets events. She wrote, \"I'm attending the VoteVets Economic Town Hall with Senator Elissa Slotkin and featuring Representative...."
       ]
     },
     {
@@ -441,9 +415,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Jan. 24, 2026 post calls for the Senate to vote against ICE funding until operating procedures and training adhere to constitutional, federal, and state law",
         "API readback engagement was 1 like, 0 reposts, 0 replies, and 0 quotes",
-        "On national and foreign-policy issues, her feed includes ICE, Ukraine, the Equal Rights Amendment, vaccines, cabinet nominations, and healthcare subsidies. On Jan. 24, 2026, she posted, \"Another senseless killing by ICE in Mpls this morning. The Senate must vo",
-        "| s-bsky-ice | social | https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q | posted 2026-01-24; API accessed 2026-05-19 | ICE accountability post; engagement 1 like, 0 reposts, 0 replies, 0 quotes | immigration |",
-        "| 2026-01-24 | Post | ICE / federal enforcement | 1 like, 0 reposts, 0 replies, 0 quotes | \"Another senseless killing by ICE in Mpls this morning. The Senate must vote against funding for ICE until the Admin removes ICE from MN and implements operating procedu"
+        "On national and foreign-policy issues, her feed includes ICE, Ukraine, the Equal Rights Amendment, vaccines, cabinet nominations, and healthcare subsidies. On Jan. 24, 2026, she posted, \"Another senseless killing by ICE..."
       ]
     },
     {
@@ -456,7 +428,6 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Profile reports her business/accountability pitch and Ameriprise background",
         "Profile reports statements on ACA, tariffs, immigration/ICE, elections, courts, accountability, NATO, and Iran",
-        "| s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/ | 2026-04-27; accessed 2026-05-19 | Interview/profile on business background, AC",
         "Kansas Reflector candidate article and podcast, 2026-04-27: https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/"
       ]
     },
@@ -472,14 +443,13 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
         "Guide says she retired after more than 20 years as a financial services executive at Ameriprise",
         "Guide reports FEC records show more than 120 donations to Democratic candidates and organizations",
         "Guide summarizes healthcare/veterans platform",
-        "[KCUR Candidate Guide (Dec 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
-        "[KCUR Candidate Guide](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
-        "[KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
+        "KCUR Candidate Guide (Dec 2025)",
+        "KCUR Candidate Guide",
+        "KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025)",
         "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates -- KCUR comprehensive candidate guide -- accessed 2026-03-30",
-        "| s-kcur-guide | secondary | https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates | 2025-12-30; accessed 2026-05-19 | Candidate guide: no public office, Ame",
         "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
-        "[KCUR - 2026 Kansas Senate Candidates Guide](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
-        "[KCUR: Guide to candidates](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)"
+        "KCUR - 2026 Kansas Senate Candidates Guide",
+        "KCUR: Guide to candidates"
       ]
     },
     {
@@ -490,15 +460,14 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "publisher": "Fec",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[FEC Filing](https://www.fec.gov/data/candidate/S6KS00262/)",
-        "FEC Page: [FEC - Sandy Spidel Neumann (S6KS00262)](https://www.fec.gov/data/candidate/S6KS00262/)",
-        "Sandy Spidel Neumann (D) - [FEC ID: S6KS00262](https://www.fec.gov/data/candidate/S6KS00262/)",
-        "FEC Page: [FEC Candidate S6KS00262](https://www.fec.gov/data/candidate/S6KS00262/)",
-        "[FEC: Sandy Spidel Neumann Candidate Page](https://www.fec.gov/data/candidate/S6KS00262/)",
-        "[FEC: Candidate overview](https://www.fec.gov/data/candidate/S6KS00262/)",
+        "FEC Page: FEC - Sandy Spidel Neumann (S6KS00262)",
+        "Sandy Spidel Neumann (D) - FEC ID: S6KS00262",
+        "FEC Page: FEC Candidate S6KS00262",
+        "FEC: Sandy Spidel Neumann Candidate Page",
+        "FEC: Candidate overview",
         "FEC candidate page: https://www.fec.gov/data/candidate/S6KS00262/",
         "https://www.fec.gov/data/candidate/S6KS00262/",
-        "[FEC - Sandy Spidel Neumann (S6KS00262)](https://www.fec.gov/data/candidate/S6KS00262/)"
+        "FEC - Sandy Spidel Neumann (S6KS00262)"
       ]
     },
     {
@@ -509,8 +478,8 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "publisher": "Ballotpedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Sandy Spidel Neumann - Ballotpedia](https://ballotpedia.org/Sandy_Spidel_Neumann)",
-        "[Ballotpedia: Sandy Spidel Neumann](https://ballotpedia.org/Sandy_Spidel_Neumann)",
+        "Sandy Spidel Neumann - Ballotpedia",
+        "Ballotpedia: Sandy Spidel Neumann",
         "Ballotpedia profile: https://ballotpedia.org/Sandy_Spidel_Neumann"
       ]
     },
@@ -522,20 +491,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "publisher": "Johnsoncountypost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Johnson County Post photo](https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/)"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0089",
-      "tier": "social",
-      "url": "https://www.instagram.com/speumann/",
-      "title": "Instagram",
-      "publisher": "Instagram",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| Instagram | Yes | https://www.instagram.com/speumann/ | Logged-out metadata: \"949 Followers, 3,751 Following, 233 Posts - See Instagram photos and videos from Sandy Spidel Neumann (@speumann)\"; profile text includes \"Daughter of Kansas. Student of economics.",
-        "Instagram: [@speumann](https://www.instagram.com/speumann/)",
-        "[@speumann](https://www.instagram.com/speumann/)"
+        "Johnson County Post photo"
       ]
     },
     {
@@ -546,8 +502,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Across the [14 campaign-period original or quote Bluesky posts](./social-harvest.md#summary-counts) captured after her Oct. 16, 2025 launch, Sandy Spidel Neumann's repeated campaign subjects are Kansas costs, healthcare, farms, hospitals, families, and contras",
-        "| 2025-10-16 | Post | Costs / opportunity | 0 likes, 0 reposts, 0 replies, 0 quotes | \"Every Kansan deserves a fair shot: to afford groceries, gas, housing, and a future for their kids. That’s what I’m fighting for: lower costs, good jobs, and opportunity you"
+        "Across the 14 campaign-period original or quote Bluesky posts captured after her Oct. 16, 2025 launch, Sandy Spidel Neumann's repeated campaign subjects are Kansas costs, healthcare, farms, hospitals, families, and cont..."
       ]
     },
     {
@@ -558,8 +513,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Facebook (Official): [musilcomish](https://www.facebook.com/musilcomish/)",
-        "[musilcomish](https://www.facebook.com/musilcomish/)"
+        "Facebook (Official): musilcomish"
       ]
     }
   ]

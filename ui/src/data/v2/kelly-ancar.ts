@@ -19,7 +19,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate-stated evidence: In the 2025 USD 489 Q&A, Ancar said school-board members should manage resources wisely, focus on student outcomes, and help students graduate competitively.",
+        "text": "Candidate statement: In the 2025 USD 489 Q&A, Ancar said school-board members should manage resources wisely, focus on student outcomes, and help students graduate competitively.",
         "sourceIds": [
           "s-hayspost-usd-2025"
         ]
@@ -68,7 +68,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -78,7 +78,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: In her 2023 Hays city questionnaire, Ancar said the city should reduce its mill levy and stay revenue neutral to give taxpayers relief.",
+        "text": "Candidate statement: In her 2023 Hays city questionnaire, Ancar said the city should reduce its mill levy and stay revenue neutral to give taxpayers relief.",
         "sourceIds": [
           "s-hayspost-city-2023"
         ]
@@ -99,7 +99,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: Ancar identified housing supply and business recruitment as connected economic-development priorities for Hays.",
+        "text": "Candidate statement: Ancar identified housing supply and business recruitment as connected economic-development priorities for Hays.",
         "sourceIds": [
           "s-hayspost-city-2023"
         ]
@@ -120,7 +120,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -130,7 +130,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -140,7 +140,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: Ancar's public biographies identify her as a registered nurse and home-care business owner.",
+        "text": "Public evidence: Ancar's public biographies identify her as a registered nurse and home-care business owner.",
         "sourceIds": [
           "s-hayspost-city-2023",
           "s-amazing-grace-about"
@@ -153,7 +153,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: The state roster audit found Ancar in the official Kansas SOS 2026 Primary list for State Board of Education District 5.",
+        "text": "Documented public record: The state roster audit found Ancar in the official Kansas SOS 2026 Primary list for State Board of Education District 5.",
         "sourceIds": [
           "s-sos-2026-primary"
         ]
@@ -174,7 +174,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -184,7 +184,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -194,7 +194,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Ancar called for more transparency in bond-project planning, including readable plans and better opportunities for board members and the community to review proposed work.",
+        "text": "Candidate statement: Ancar called for more transparency in bond-project planning, including readable plans and better opportunities for board members and the community to review proposed work.",
         "sourceIds": [
           "s-hayspost-usd-2025"
         ]
@@ -215,7 +215,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
