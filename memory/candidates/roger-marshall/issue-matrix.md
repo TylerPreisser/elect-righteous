@@ -1,0 +1,2076 @@
+# Fixed 14-Issue Matrix — roger-marshall — 2026-05-20
+
+This matrix is built from `evidence-matrix.json`, `social-evidence-matrix.json`, and `source-audit.json`. It is a candidate-rebuild input, not final public prose.
+
+## 1. Abortion / life
+
+Abortion / life: 37 selected evidence items from 121 mapped rows. Public URL-backed rows: 3.
+
+### Evidence
+- **candidate-stated** [em-roger-marshall-04592] "abortion is wrong at any stage" - campaign life page, n.d., https://kansansformarshall.com/life (abortion)
+  - Source: https://kansansformarshall.com/life
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-00086] Issue mapping:** Biography; life/abortion; healthcare.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:66
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00125] Issue mapping:** Life / abortion.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:142
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-01674] Described abortion as "one of the civil rights issues of our time"
+  - Source: memory/candidates/roger-marshall/raw-dump.md:2497
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-01818] Describes abortion as "one of the civil rights issues of our time"
+  - Source: memory/candidates/roger-marshall/raw-dump.md:2722
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-03487] Abortion / Life Issues
+  - Source: reports/roger-marshall-complete-dossier.md:142
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-roger-marshall-03496] Opposes taxpayer funding of abortion providers
+  - Source: reports/roger-marshall-complete-dossier.md:151
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-roger-marshall-03498] Has said he **opposes abortion including in cases of rape and incest**
+  - Source: reports/roger-marshall-complete-dossier.md:153
+  - Confidence/use: likely / background-only
+- **documented-record** [em-roger-marshall-03951] [National Pro-Life Scorecard](https://sbaprolife.org/senator/roger-marshall)
+  - Source: https://sbaprolife.org/senator/roger-marshall
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-04740] [SBA Pro-Life - Roger Marshall](https://sbaprolife.org/senator/roger-marshall) — accessed 2026-03-30
+  - Source: https://sbaprolife.org/senator/roger-marshall
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-00124] Candidate-controlled stated position:** The campaign life page says Marshall's position is that "abortion is wrong at any stage" and ties the statement to his OB-GYN background and lifetime membership in the American Association of Pro-Life OB/GYNs.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:137
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-00126] Action evidence:** On 2025-01-17, Marshall and Sen. James Lankford introduced the Born-Alive Abortion Survivors Protection Act, according to Marshall's Senate office. The release says the bill would add care expectations, hospital-transfer requirements, mandatory reporting, private rights of action, and criminal penalties for health-care professionals who violate the law.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:144
+  - Confidence/use: likely / background-only
+- **documented-record** [em-roger-marshall-00129] Action evidence:** On 2025-01-25, Marshall and Sen. Kevin Cramer reintroduced the Unborn Child Support Act, according to Marshall's Senate office.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:151
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-00531] Changed from pro-life to pro-choice after "Kansans voted for bodily autonomy" in the 2022 abortion referendum
+  - Source: memory/candidates/roger-marshall/raw-dump.md:504
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-00545] Key Quote:** His website says he changed his mind on abortion after "Kansans voted for bodily autonomy." (KCUR)
+  - Source: memory/candidates/roger-marshall/raw-dump.md:524
+  - Confidence/use: likely / background-only
+- **documented-record** [em-roger-marshall-01800] "How do we defend innocent life? I think this is one of the civil rights issues of our time. We have a Supreme Court that has found this right to abortion that is nowhere found in that constitution. It's our fastest-growing industry in the state of Kansas."
+  - Source: memory/candidates/roger-marshall/raw-dump.md:2692
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-roger-marshall-03489] National Pro-Life Scorecard (SBA Pro-Life America):** Perfect score
+  - Source: reports/roger-marshall-complete-dossier.md:144
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-roger-marshall-03597] | Anti-abortion organizations | Multiple PACs | Strong pro-life funding base |
+  - Source: reports/roger-marshall-complete-dossier.md:286
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-roger-marshall-03871] | SBA Pro-Life America | A+ / Perfect Score |
+  - Source: reports/roger-marshall-complete-dossier.md:672
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-roger-marshall-03921] Very few vulnerabilities from the right; Heritage Action 89-94%, pro-life 100%, NRA-aligned, Trump-endorsed
+  - Source: reports/roger-marshall-complete-dossier.md:744
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-roger-marshall-03928] 100% pro-life voting record backed by personal experience delivering 5,000+ babies
+  - Source: reports/roger-marshall-complete-dossier.md:752
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-roger-marshall-05143] Marshall's Senate record is built around conservative positions on health care, abortion, immigration, spending, and COVID policy. He sits on major committees including Agriculture, Finance, HELP, and Budget, and he has used that platform to stay visible in both farm-state policy fights and national conservative media disputes.
+  - Source: memory/candidates/roger-marshall/site-profile.md:9
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-roger-marshall-02275] Weaknesses**: The SB 360 debacle is a gift to his opponent. Being overruled 104-17 by your own caucus is humiliating. The "Pro-Trump" branding may help in a primary but could limit crossover appeal in a general election -- especially after the 2022 abortion referendum showed Kansas voters will cross party lines. The term-limit motivation for running (he's being forced out as Speaker) makes this look like a fallback rather than a calling.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:3559
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-03197] Wisconsin (2025):** One Supreme Court seat. $144.5 million spent. Elon Musk spent $25 million+ on one candidate. Illinois Governor JB Pritzker and George Soros funded the other side. It became a national proxy war over abortion, Trump, and redistricting -- not about Kansas-style local concerns. The losing candidate's supporters included $4.3 million from Wisconsin Manufacturers and Commerce, $4 million from Fair Courts America (tied to conservative megadonor Richard Uihlein), and $3.2 million f…
+  - Source: memory/candidates/roger-marshall/raw-dump.md:5066
+  - Confidence/use: likely / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-03740] Wrote op-ed: "Biden's COVID vaccine mandate treats our heroes like felons"
+  - Source: reports/roger-marshall-complete-dossier.md:482
+  - Confidence/use: likely / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **faith-community-record** [em-roger-marshall-00089] Finding:** The same biography says Marshall and Laina taught Sunday school for over 25 years, and that he served as elder, deacon, and board chairman of his church. It also lists GOP Doctors Caucus, Pro-Life Caucus, Western Caucus, Friends of Australia Caucus, Congressional Rare Disease Caucus, and Senate Hunger Caucus.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:74
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-01732] His faith is expressed more through **action** (humanitarian service, pro-life positions, protecting faith-based organizations) than through verbal testimony
+  - Source: memory/candidates/roger-marshall/raw-dump.md:2586
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-03454] His pro-life stance is directly connected to his faith and his experience delivering 5,000+ babies
+  - Source: reports/roger-marshall-complete-dossier.md:92
+  - Confidence/use: likely / background-only
+- **faith-community-record** [em-roger-marshall-03458] Marshall's faith appears deeply personal and longstanding -- not performative. 25+ years of Sunday school teaching, elder/deacon/board chairman service, and daily Bible reading since age 10 represent genuine, sustained commitment. His pro-life positions are rooted in both his faith and his medical career delivering thousands of babies.
+  - Source: reports/roger-marshall-complete-dossier.md:98
+  - Confidence/use: likely / background-only
+- **public-controversy** [em-roger-marshall-00542] Former Republican who called himself "conservative" and "pro-life" as recently as 2019 -- position shifts invite scrutiny
+  - Source: memory/candidates/roger-marshall/raw-dump.md:520
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-roger-marshall-02696] Alleged Pfizer knew of connections to myocarditis, pericarditis, failed pregnancies, and deaths
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4231
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-00123] 4.1 Life / abortion
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:135
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-00386] Protecting reproductive freedom
+  - Source: memory/candidates/roger-marshall/raw-dump.md:251
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-00547] Ideological inconsistency (conservative pro-life Republican in 2019, now running as a Democrat)
+  - Source: memory/candidates/roger-marshall/raw-dump.md:530
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-01060] Signed abortion restriction legislation
+  - Source: memory/candidates/roger-marshall/raw-dump.md:1571
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-01616] Delivered remarks at "Hiring our Heroes Corporate Fellowship Program" graduation ceremony at Fort Leavenworth on July 26, 2018
+  - Source: memory/candidates/roger-marshall/raw-dump.md:2411
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-01673] Abortion:**
+  - Source: memory/candidates/roger-marshall/raw-dump.md:2496
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest post** [soc-roger-marshall-0169] Wisconsin (2025):** One Supreme Court seat. $144.5 million spent. Elon Musk spent $25 million+ on one candidate. Illinois Governor JB Pritzker and George Soros funded the other side. It became a national proxy war over abortion, Trump, and redistricting -- not about Kansas-style local concerns. The losing candidate's supporters included $4.3 million from Wisconsin Manufacturers and Commerce, $4 million from Fair Courts America (tied to conservative megadonor Richard Uihlein), and $3.2 million f…
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-roger-marshall-0170] Two reasons: First, the 2022 abortion vote proved that Kansas voters will cross party lines on the right issue. If DOGE cuts hit Kansas hard -- closing rural VA clinics, cutting farm subsidies, eliminating Social Security Administration offices in small towns -- there could be an opening. Second, Marshall's close alignment with Trump and Musk is a bet that could pay off or backfire depending on how Kansans feel about federal government cuts by November.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest post** [soc-roger-marshall-0171] Wrote op-ed: "Biden's COVID vaccine mandate treats our heroes like felons"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-roger-marshall-0345] "In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-roger-marshall-0346] Kansas House Speaker with 30 years in the insurance industry, running on a **"Pro-Life. Pro-Gun. Pro-Trump."** platform -- but now facing intense scrutiny for using his Speaker's power to **block a bipartisan prescription drug cost bill** that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest post** [soc-roger-marshall-0347] Weaknesses**: The SB 360 debacle is a gift to his opponent. Being overruled 104-17 by your own caucus is humiliating. The "Pro-Trump" branding may help in a primary but could limit crossover appeal in a general election -- especially after the 2022 abortion referendum showed Kansas voters will cross party lines. The term-limit motivation for running (he's being forced out as Speaker) makes this look like a fallback rather than a calling.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-roger-marshall-0348] Marshall's Senate record is built around conservative positions on health care, abortion, immigration, spending, and COVID policy. He sits on major committees including Agriculture, Finance, HELP, and Budget, and he has used that platform to stay visible in both farm-state policy fights and national conservative media disputes.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-roger-marshall-0349] "theirRecord": "Because she has not held office, Spidel Neumann's public record is mostly professional. Her campaign says Roger Marshall's conduct in office, including the atmosphere around a western Kansas town hall, helped push her into the race. Her message has focused on health care costs, reproductive rights, Social Security, Medicare, the VA, and support for farmers. Her early financial filing is also part of the public record. It showed a serious launch by Democratic-primary standards, i…
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 2. LGBT / gender / parental rights
+
+LGBT / gender / parental rights: 24 selected evidence items from 25 mapped rows. Public URL-backed rows: 4.
+
+### Evidence
+- **candidate-stated** [em-roger-marshall-02554] [Kansas Reflector: Gender Marker $1 Fine](https://kansasreflector.com/2026/01/20/kansas-judge-rebukes-ag-kris-kobach-in-gender-marker-case-issues-symbolic-1-fine/)
+  - Source: https://kansasreflector.com/2026/01/20/kansas-judge-rebukes-ag-kris-kobach-in-gender-marker-case-issues-symbolic-1-fine/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-00193] Context:** The same article reported that several attendees said they were Kansas residents concerned about federal funding cuts, layoffs, agriculture, tariffs, transgender policy, and veterans issues. Present those as attendee claims reported by Kansas News Service, not as adjudicated facts about every attendee.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:311
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-roger-marshall-01674] Described abortion as "one of the civil rights issues of our time"
+  - Source: memory/candidates/roger-marshall/raw-dump.md:2497
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-01818] Describes abortion as "one of the civil rights issues of our time"
+  - Source: memory/candidates/roger-marshall/raw-dump.md:2722
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-01853] "How do we defend innocent life? I think this is one of the civil rights issues of our time."
+  - Source: memory/candidates/roger-marshall/raw-dump.md:2789
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-02690] On Transgender Issues
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4224
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-04216] LGBTQ+ rights champion: Supports the Equality Act and the Respect for Marriage Act
+  - Source: memory/candidates/roger-marshall/raw-dump.md:6696
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-01800] "How do we defend innocent life? I think this is one of the civil rights issues of our time. We have a Supreme Court that has found this right to abortion that is nowhere found in that constitution. It's our fastest-growing industry in the state of Kansas."
+  - Source: memory/candidates/roger-marshall/raw-dump.md:2692
+  - Confidence/use: likely / background-only
+- **documented-record** [em-roger-marshall-02693] After losing the driver's license gender marker case in court, went to the legislature to pass SB 244 to achieve the same goal legislatively -- the ACLU characterized this as a "power grab" and "poor sportsmanship over his recent losses"
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4227
+  - Confidence/use: likely / background-only
+- **documented-record** [em-roger-marshall-02748] 12. After courts reject his legal arguments, he goes to the legislature to pass laws achieving the same goals -- documented in the driver's license gender marker case and bathroom bills
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4303
+  - Confidence/use: likely / background-only
+- **documented-record** [em-roger-marshall-02816] As AG, his record is more mixed. He has secured genuine consumer protection settlements, built a functional fentanyl enforcement program, and won significant federal injunctions against Biden administration policies. But he has also continued the pattern of overreach -- losing the gender marker case in court, then going to the legislature; directing smoke shop raids now facing Fourth Amendment challenges; and engaging in an unprecedented power struggle with the Governor.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4401
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-roger-marshall-02531] 4. **Title IX Transgender Regulations (May 2024)**: Sued Biden administration over rewrite of Title IX rules to include protections for LGBTQ+ students. Joined by Alaska, Utah, Wyoming. **Won preliminary injunction** (July 2024) blocking implementation nationwide -- declared it a "sweeping victory affecting all 50 states."
+  - Source: memory/candidates/roger-marshall/raw-dump.md:3955
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-roger-marshall-00003] Across the [28-item captured sample](social-harvest.md), Marshall’s largest category is healthcare and mental health, with 7 items, or 25 percent of the harvest; agriculture, food, and rural producers follow with 6 items, or 21 percent. The healthcare posts combine his physician title with criticism of federal health programs and proposals for replacement policy. On November 10, 2025, he posted, "Up to 40% of Obamacare enrollees never file a claim" ([source](https://x.com/RogerMarshallMD/status…
+  - Source: https://x.com/RogerMarshallMD/status/1987679877470810388
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-05452] 2026-05-08** — Mental health: "Kansans take pride in serving others first, but sometimes care isn’t available when they finally need it for themselves."
+  - Source: memory/candidates/roger-marshall/social-harvest.md:148
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-05147] Marriage & Family / LGBTQ+ Policy**: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.
+  - Source: memory/candidates/roger-marshall/site-profile.md:17
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-05151] School Choice / Parental Rights in Education**: Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources.
+  - Source: memory/candidates/roger-marshall/site-profile.md:25
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **faith-community-record** [em-roger-marshall-01059] Signed the Adoption Protection Act as governor (allows religious adoption agencies to refuse placements to same-sex couples)
+  - Source: memory/candidates/roger-marshall/raw-dump.md:1570
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-01612] May 2018: Signed **Senate Bill 284** granting legal protections to faith-based adoption agencies that cite religious beliefs for not placing children in LGBTQ+ homes
+  - Source: memory/candidates/roger-marshall/raw-dump.md:2406
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-02552] [Kansas Reflector: Transgender Law](https://kansasreflector.com/2026/03/06/kansas-ag-offers-to-delay-enforcement-of-anti-trans-law-until-march-26-while-judge-weighs-challenge/)
+  - Source: https://kansasreflector.com/2026/03/06/kansas-ag-offers-to-delay-enforcement-of-anti-trans-law-until-march-26-while-judge-weighs-challenge/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-02698] [LGBTQ Nation: Romney Surrogate Compares LGBT People to Drug Users](https://www.lgbtqnation.com/2012/08/top-romney-surrogate-compares-lgbt-people-to-drug-users-polygamists/)
+  - Source: https://www.lgbtqnation.com/2012/08/top-romney-surrogate-compares-lgbt-people-to-drug-users-polygamists/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-00532] Supported the Respect for Marriage Act (2022) -- protections for same-sex marriage
+  - Source: memory/candidates/roger-marshall/raw-dump.md:505
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-02691] Led a letter to the U.S. Department of Education criticizing proposed rules allowing transgender athletes in girls'/women's sports
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4225
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-02692] Pushed for legislation requiring government buildings to restrict bathroom access by birth sex, with penalties up to $125,000/day
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4226
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-03322] Why this matters:** The Board of Education has been a battleground over science standards (evolution vs. intelligent design), sex education, school library books, and transgender student policies. In recent years, conservative and moderate factions have fought for control. The 2026 elections could shift the balance of power on the board.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:5342
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak X / Twitter follow** [soc-roger-marshall-0025] Across the [28-item captured sample](social-harvest.md), Marshall’s largest category is healthcare and mental health, with 7 items, or 25 percent of the harvest; agriculture, food, and rural producers follow with 6 items, or 21 percent. The healthcare posts combine his physician title with criticism of federal health programs and proposals for replacement policy. On November 10, 2025, he posted, "Up to 40% of Obamacare enrollees never file a claim" ([source](https://x.com/RogerMarshallMD/status…
+  - Source: https://x.com/RogerMarshallMD/status/1987679877470810388
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0026] 2026-05-08** — Mental health: "Kansans take pride in serving others first, but sometimes care isn’t available when they finally need it for themselves."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest absence** [soc-roger-marshall-0350] Marriage & Family / LGBTQ+ Policy**: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **ambiguous Public web / internal harvest absence** [soc-roger-marshall-0351] School Choice / Parental Rights in Education**: Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources.
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 3. Education / curriculum / schools
+
+Education / curriculum / schools: 38 selected evidence items from 285 mapped rows. Public URL-backed rows: 19.
+
+### Evidence
+- **candidate-stated** [em-roger-marshall-00084] Finding:** Marshall's Senate biography says he is a physician, father, grandfather, and U.S. senator for Kansas; graduated from Butler County Community College, Kansas State University, and the University of Kansas School of Medicine; practiced medicine in Great Bend for more than 25 years; served seven years in the Army Reserve; and delivered more than 5,000 babies as an OB-GYN.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:61
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00134] Issue mapping:** Agriculture / school nutrition / dairy.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:164
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00136] Issue mapping:** Agriculture / school nutrition.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:170
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-02077] Said she wants to restore funding for Medicaid, special education and affordable housing programs (KCUR, Dec 30, 2025)
+  - Source: memory/candidates/roger-marshall/raw-dump.md:3155
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-roger-marshall-03672] Platform:** Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: reports/roger-marshall-complete-dossier.md:389
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-roger-marshall-05847] Marshall's Senate biography says he and Laina taught Sunday school for
+  - Source: memory/candidates/roger-marshall/v2-issues.yaml:659
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-01238] [Ballotpedia: Hays USD 489 Elections](https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections)
+  - Source: https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-03388] [Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-04822] [KSHB - Kansas politicians join Hawley](https://www.kshb.com/news/local-news/senator-elect-roger-marshall-joins-hawley-in-plans-to-object-electoral-college-vote) — accessed 2026-03-30
+  - Source: https://www.kshb.com/news/local-news/senator-elect-roger-marshall-joins-hawley-in-plans-to-object-electoral-college-vote
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-05278] [KSHB - Kansas politicians join Hawley](https://www.kshb.com/news/local-news/senator-elect-roger-marshall-joins-hawley-in-plans-to-object-electoral-college-vote)
+  - Source: https://www.kshb.com/news/local-news/senator-elect-roger-marshall-joins-hawley-in-plans-to-object-electoral-college-vote
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-00133] Action evidence:** Congress.gov lists S.222, the Whole Milk for Healthy Kids Act of 2025, as introduced by Marshall on 2025-01-23 and becoming Public Law 119-69 on 2026-01-14.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:160
+  - Confidence/use: likely / background-only
+- **documented-record** [em-roger-marshall-00135] Action evidence:** White House statement says President Trump signed S.222, the Whole Milk for Healthy Kids Act of 2025, into law on 2026-01-14.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:166
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-00885] Five children who attended USD 489 schools
+  - Source: memory/candidates/roger-marshall/raw-dump.md:1185
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-00931] Grew up in Hays, attended USD 489 schools
+  - Source: memory/candidates/roger-marshall/raw-dump.md:1303
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00087] Finding:** Current Senate biography lists Senate committee service as Agriculture, Nutrition, and Forestry; Finance; Health, Education, Labor, and Pensions; and Budget. It lists chairmanships of Agriculture Subcommittee on Conservation, Forestry, Natural Resources, and Biotechnology and HELP Subcommittee on Primary Health and Retirement Security.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:68
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00118] American Dental Association PAC, American College of Radiology Association PAC, and other health-sector PACs at $5,000-level examples.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:123
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-01603] Signed school finance legislation meeting constitutional requirements
+  - Source: memory/candidates/roger-marshall/raw-dump.md:2395
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-02133] Born/Raised**: Kansas City, Kansas. Attended Sumner Academy (magnet high school).
+  - Source: memory/candidates/roger-marshall/raw-dump.md:3283
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-02531] 4. **Title IX Transgender Regulations (May 2024)**: Sued Biden administration over rewrite of Title IX rules to include protections for LGBTQ+ students. Joined by Alaska, Utah, Wyoming. **Won preliminary injunction** (July 2024) blocking implementation nationwide -- declared it a "sweeping victory affecting all 50 states."
+  - Source: memory/candidates/roger-marshall/raw-dump.md:3955
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-03898] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: reports/roger-marshall-complete-dossier.md:714
+  - Confidence/use: likely / background-only
+- **social-online-signal** [em-roger-marshall-00869] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00892] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00949] [HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-04500] [Hays Post: Students urge polling site](https://hayspost.com/posts/17997478-c7b3-4601-a433-c8f9623b09da)
+  - Source: https://hayspost.com/posts/17997478-c7b3-4601-a433-c8f9623b09da
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00003] Across the [28-item captured sample](social-harvest.md), Marshall’s largest category is healthcare and mental health, with 7 items, or 25 percent of the harvest; agriculture, food, and rural producers follow with 6 items, or 21 percent. The healthcare posts combine his physician title with criticism of federal health programs and proposals for replacement policy. On November 10, 2025, he posted, "Up to 40% of Obamacare enrollees never file a claim" ([source](https://x.com/RogerMarshallMD/status…
+  - Source: https://x.com/RogerMarshallMD/status/1987679877470810388
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-00004] Marshall’s public alignment network is concentrated around President Trump, Senate Republicans, Kansas agriculture groups, and selected bipartisan health or food-policy partners. In the [captured sample](social-harvest.md), @POTUS or @realDonaldTrump appears in 6 items, more than any other named account or public figure. On January 13, 2026, after Trump posted support for the Credit Card Competition Act, Marshall wrote, "Thank you, President Trump, for your support!" ([source](https://www.bizpa…
+  - Source: https://www.bizpacreview.com/2026/01/13/elizabeth-warren-brags-about-how-president-trump-called-her-1615749/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-00007] For Kansas-specific engagement, Marshall’s official feed and Senate site include rural healthcare, small business tax policy, agriculture, cattle, school milk, fertilizer, and in-person stops across the state. On April 28, 2026, his office quoted him saying, "Kansas farmers are getting hit by a fertilizer market that’s working against them" ([source](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/)). On May 5, 202…
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-05424] Capture source: [WIBW article embedding the post](https://www.wibw.com/2026/01/14/president-trump-signs-senator-marshalls-bill-allowing-schools-serve-whole-milk/)
+  - Source: https://www.wibw.com/2026/01/14/president-trump-signs-senator-marshalls-bill-allowing-schools-serve-whole-milk/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-roger-marshall-00744] [Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)
+  - Source: https://www.hfehays.org/o/hfe/article/923439
+  - Confidence/use: likely / use
+- **faith-community-record** [em-roger-marshall-00089] Finding:** The same biography says Marshall and Laina taught Sunday school for over 25 years, and that he served as elder, deacon, and board chairman of his church. It also lists GOP Doctors Caucus, Pro-Life Caucus, Western Caucus, Friends of Australia Caucus, Congressional Rare Disease Caucus, and Senate Hunger Caucus.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:74
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-00728] INFERRED** = Circumstantial evidence only (German-Catholic surname, attended Catholic school, etc.)
+  - Source: memory/candidates/roger-marshall/raw-dump.md:821
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-00738] His Hays Catholic Schools advancement director profile explicitly states he is "a member of Immaculate Heart of Mary Parish in Hays"
+  - Source: memory/candidates/roger-marshall/raw-dump.md:841
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-01237] [Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)
+  - Source: https://www.usd489.com/page/board-of-education
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-01301] [Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)
+  - Source: https://www.haysusa.com/335/Public-Library-Board
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-01365] | Hays USD 489 | 785-623-2400 | [usd489.com](https://www.usd489.com) |
+  - Source: https://www.usd489.com
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-03101] [KU School of Business Faculty Page](https://business.ku.edu/people/colin-mcroberts)
+  - Source: https://business.ku.edu/people/colin-mcroberts
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-03389] [Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)
+  - Source: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-03390] [Kansas Reflector: Board races could shift power to conservative bloc](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)
+  - Source: https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous hayspost.com post** [soc-roger-marshall-0001] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-roger-marshall-0002] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-roger-marshall-0003] [HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-roger-marshall-0004] [Hays Post: Students urge polling site](https://hayspost.com/posts/17997478-c7b3-4601-a433-c8f9623b09da)
+  - Source: https://hayspost.com/posts/17997478-c7b3-4601-a433-c8f9623b09da
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak X / Twitter follow** [soc-roger-marshall-0025] Across the [28-item captured sample](social-harvest.md), Marshall’s largest category is healthcare and mental health, with 7 items, or 25 percent of the harvest; agriculture, food, and rural producers follow with 6 items, or 21 percent. The healthcare posts combine his physician title with criticism of federal health programs and proposals for replacement policy. On November 10, 2025, he posted, "Up to 40% of Obamacare enrollees never file a claim" ([source](https://x.com/RogerMarshallMD/status…
+  - Source: https://x.com/RogerMarshallMD/status/1987679877470810388
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong bizpacreview.com post** [soc-roger-marshall-0027] Marshall’s public alignment network is concentrated around President Trump, Senate Republicans, Kansas agriculture groups, and selected bipartisan health or food-policy partners. In the [captured sample](social-harvest.md), @POTUS or @realDonaldTrump appears in 6 items, more than any other named account or public figure. On January 13, 2026, after Trump posted support for the Credit Card Competition Act, Marshall wrote, "Thank you, President Trump, for your support!" ([source](https://www.bizpa…
+  - Source: https://www.bizpacreview.com/2026/01/13/elizabeth-warren-brags-about-how-president-trump-called-her-1615749/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong marshall.senate.gov post** [soc-roger-marshall-0028] For Kansas-specific engagement, Marshall’s official feed and Senate site include rural healthcare, small business tax policy, agriculture, cattle, school milk, fertilizer, and in-person stops across the state. On April 28, 2026, his office quoted him saying, "Kansas farmers are getting hit by a fertilizer market that’s working against them" ([source](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/)). On May 5, 202…
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Facebook absence** [soc-roger-marshall-0029] Across the captured period the feed contains no visible original posts about the Ogallala Aquifer, water rights, foster care, adoption, Medicaid expansion, local county election administration, or prescription opioid response. The captured record does include posts or official items about rural hospitals, mental health, farmers, ranchers, small businesses, western Kansas, southeast Kansas, Fort Riley military families, fertilizer costs, school milk, border enforcement, and federal healthcare sp…
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0030] 2026-01-14** — "Whole milk is back!"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong wibw.com post** [soc-roger-marshall-0031] Capture source: [WIBW article embedding the post](https://www.wibw.com/2026/01/14/president-trump-signs-senator-marshalls-bill-allowing-schools-serve-whole-milk/)
+  - Source: https://www.wibw.com/2026/01/14/president-trump-signs-senator-marshalls-bill-allowing-schools-serve-whole-milk/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 4. Religious liberty / church / civic morality
+
+Religious liberty / church / civic morality: 15 selected evidence items from 271 mapped rows. Public URL-backed rows: 16.
+
+### Evidence
+- **candidate-stated** [em-roger-marshall-02764] 7. **Title IX injunction**: Won a nationwide preliminary injunction on Biden's Title IX rewrite -- a major legal victory regardless of one's policy position
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4326
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-02531] 4. **Title IX Transgender Regulations (May 2024)**: Sued Biden administration over rewrite of Title IX rules to include protections for LGBTQ+ students. Joined by Alaska, Utah, Wyoming. **Won preliminary injunction** (July 2024) blocking implementation nationwide -- declared it a "sweeping victory affecting all 50 states."
+  - Source: memory/candidates/roger-marshall/raw-dump.md:3955
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-roger-marshall-00869] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00748] | **Church** | Not found in public record |
+  - Source: memory/candidates/roger-marshall/raw-dump.md:861
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00751] No faith or church references found in her candidate profiles, HaysPost Q&As, or social media
+  - Source: memory/candidates/roger-marshall/raw-dump.md:866
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00761] No faith, church, or religious references found in any candidate profiles, HaysPost interviews, or public statements
+  - Source: memory/candidates/roger-marshall/raw-dump.md:891
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00769] No church or faith references found in any public profiles or news coverage
+  - Source: memory/candidates/roger-marshall/raw-dump.md:914
+  - Confidence/use: likely / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00770] Assessment:** Another complete absence. Heartland Community Foundation is a secular community foundation, not faith-based. No public faith identity found. Recommend direct inquiry.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:916
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00777] The "core values" language could suggest faith influence but no explicit religious references found
+  - Source: memory/candidates/roger-marshall/raw-dump.md:937
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00850] | **Church** | Likely St. Nicholas of Myra Catholic Church, Hays (family connection) |
+  - Source: memory/candidates/roger-marshall/raw-dump.md:1104
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **faith-community-record** [em-roger-marshall-00744] [Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)
+  - Source: https://www.hfehays.org/o/hfe/article/923439
+  - Confidence/use: likely / use
+- **faith-community-record** [em-roger-marshall-00745] [Immaculate Heart of Mary Parish](https://www.ihm-church.com/)
+  - Source: https://www.ihm-church.com/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-roger-marshall-00891] [Our Lady Help of Christians Parish - Diocese of Salina](https://salinadiocese.org/parish/our-lady-help-of-christians-parish-antonino/)
+  - Source: https://salinadiocese.org/parish/our-lady-help-of-christians-parish-antonino/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-roger-marshall-00967] [Americans United: National Prayer Breakfast](https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/)
+  - Source: https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-03441] Deacon** -- Service role in the congregation
+  - Source: reports/roger-marshall-complete-dossier.md:76
+  - Confidence/use: likely / background-only
+
+### Social / Online Signals
+- **ambiguous hayspost.com post** [soc-roger-marshall-0001] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest post** [soc-roger-marshall-0172] Among all 32 officials investigated, Senator Roger Marshall has the deepest documented church leadership record: Elder, Deacon, Board Chairman, and 25+ years of Sunday school teaching at First Christian Church in Great Bend. This is the benchmark for what genuine, sustained church leadership looks like in an elected official.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest absence** [soc-roger-marshall-0176] No church or faith references found in any public profiles or news coverage
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **ambiguous Public web / internal harvest absence** [soc-roger-marshall-0177] No faith or church references found in candidate profiles or news coverage
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **ambiguous Public web / internal harvest absence** [soc-roger-marshall-0361] | **Church** | Not found in public record |
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **ambiguous Public web / internal harvest absence** [soc-roger-marshall-0362] No faith or church references found in her candidate profiles, HaysPost Q&As, or social media
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **ambiguous Public web / internal harvest absence** [soc-roger-marshall-0363] No faith, church, or religious references found in any candidate profiles, HaysPost interviews, or public statements
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **ambiguous Public web / internal harvest absence** [soc-roger-marshall-0364] Assessment:** Another complete absence. Heartland Community Foundation is a secular community foundation, not faith-based. No public faith identity found. Recommend direct inquiry.
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **ambiguous Public web / internal harvest absence** [soc-roger-marshall-0365] The "core values" language could suggest faith influence but no explicit religious references found
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **ambiguous Public web / internal harvest post** [soc-roger-marshall-0366] | **Church** | Likely St. Nicholas of Myra Catholic Church, Hays (family connection) |
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 5. Taxes / spending / debt
+
+Taxes / spending / debt: 37 selected evidence items from 214 mapped rows. Public URL-backed rows: 13.
+
+### Evidence
+- **candidate-stated** [em-roger-marshall-00528] Campaign Website:** [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (hosted on Canva -- indicates minimal campaign budget/infrastructure)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-05478] Topic distribution in the captured sample: healthcare and mental health — 7 of 28 (25%); agriculture, food, and rural producers — 6 of 28 (21%); budget, tax, and economic messages naming Trump — 6 of 28 (21%); border, immigration, and DHS — 4 of 28 (14%); foreign policy and national security — 3 of 28 (11%); public safety and technology-platform oversight — 2 of 28 (7%).
+  - Source: memory/candidates/roger-marshall/social-harvest.md:198
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **candidate-stated** [em-roger-marshall-00088] Issue mapping:** Agriculture; healthcare; budget.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:72
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00171] Issue mapping:** Federal spending / budget process.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:253
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00181] Issue mapping:** Foreign aid / federal spending.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:280
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00182] Stated position:** On 2026-05-18, Marshall told Fox Business he was a "hard sell" on an additional Pentagon supplemental and said the national debt was America's biggest challenge in that context.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:282
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00183] Issue mapping:** Defense spending / budget.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:286
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00349] Property tax reform (top issue in Statehouse; broke with party to support constitutional amendment capping property value increases for tax purposes)
+  - Source: memory/candidates/roger-marshall/raw-dump.md:189
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-03348] [Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)
+  - Source: https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-03349] [PBS Wisconsin: $100M+ spending on 2025 race](https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/)
+  - Source: https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-04050] [Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)
+  - Source: https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-04610] https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-introduces-comprehensive-bill-to-reform-americas-dysfunctional-budget-process/
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-introduces-comprehensive-bill-to-reform-americas-dysfunctional-budget-process/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-04936] [marshall.senate.gov - Budget Reform](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-introduces-comprehensive-bill-to-reform-americas-dysfunctional-budget-process/) — accessed 2026-03-30
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-introduces-comprehensive-bill-to-reform-americas-dysfunctional-budget-process/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-04943] — [marshall.senate.gov press release, June 17, 2025](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-introduces-comprehensive-bill-to-reform-americas-dysfunctional-budget-process/)
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-introduces-comprehensive-bill-to-reform-americas-dysfunctional-budget-process/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-05295] [marshall.senate.gov - Budget Reform](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-introduces-comprehensive-bill-to-reform-americas-dysfunctional-budget-process/)
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-introduces-comprehensive-bill-to-reform-americas-dysfunctional-budget-process/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-00145] Action evidence:** On 2026-05-08, Marshall's office described a Military Family Mental Health Roundtable in Junction City and listed appropriations/support for FRSAN, 988, and CCBHCs. It also identified farmer/rancher and military-family mental health as priorities.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:192
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00092] Finding:** The campaign homepage says Marshall serves on Agriculture, Energy & Natural Resources, HELP, and Small Business. This conflicts with the current Senate biography's Agriculture, Finance, HELP, and Budget list. Use the Senate biography for current office data because it is official office content and appears updated for the current Congress.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:82
+  - Confidence/use: contradicted / use-with-caveat
+  - Caveat: Use only with caveat because the raw matrix flagged conflicting or contradictory source language.
+- **donor-organization-signal** [em-roger-marshall-05460] 2026-04-20** — Wichita small-business roundtable covered capital access, tax relief, workforce development, aerospace, environmental services, hospitality, and construction.
+  - Source: memory/candidates/roger-marshall/social-harvest.md:172
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **donor-organization-signal** [em-roger-marshall-00087] Finding:** Current Senate biography lists Senate committee service as Agriculture, Nutrition, and Forestry; Finance; Health, Education, Labor, and Pensions; and Budget. It lists chairmanships of Agriculture Subcommittee on Conservation, Forestry, Natural Resources, and Biotechnology and HELP Subcommittee on Primary Health and Retirement Security.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:68
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00098] Total receipts: $3,331,963.38
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:97
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00104] Total disbursements: $255,723.24
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:103
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00105] Ending cash on hand: $4,781,258.78
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:104
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-roger-marshall-04433] [Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)
+  - Source: https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00006] On national and foreign-policy questions, Marshall’s captured posts name Trump or administration officials on Ukraine, Iran, border enforcement, federal spending, and Senate procedure. After the February 2025 Oval Office meeting with Ukrainian President Volodymyr Zelenskyy, he posted, "Thank you, @POTUS and @VP, for standing up for America" ([source](https://www.kshb.com/news/local-news/kansas-missouri-political-leaders-offer-reaction-to-trump-zelenskyy-oval-office-meeting)). After U.S. strikes…
+  - Source: https://www.kshb.com/news/local-news/kansas-missouri-political-leaders-offer-reaction-to-trump-zelenskyy-oval-office-meeting
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-00007] For Kansas-specific engagement, Marshall’s official feed and Senate site include rural healthcare, small business tax policy, agriculture, cattle, school milk, fertilizer, and in-person stops across the state. On April 28, 2026, his office quoted him saying, "Kansas farmers are getting hit by a fertilizer market that’s working against them" ([source](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/)). On May 5, 202…
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-05915] Her Kansas-specific campaign posts use statewide household and healthcare language more than county-by-county policy detail. On Dec. 18, 2025, she posted, "Quick reality check, per AAA, the average gas price Kansans are paying is $2.526/gal. Finney County has the lowest average price at $2.174 and Lincoln County has the highest averaging almost $3.10/gal. Kansans deserve better." ([source](https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e)). On Oct. 18, 2025, she wrote, "Great to…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-00008] Across the captured period the feed contains no visible original posts about the Ogallala Aquifer, water rights, foster care, adoption, Medicaid expansion, local county election administration, or prescription opioid response. The captured record does include posts or official items about rural hospitals, mental health, farmers, ranchers, small businesses, western Kansas, southeast Kansas, Fort Riley military families, fertilizer costs, school milk, border enforcement, and federal healthcare sp…
+  - Source: memory/candidates/roger-marshall/in-their-own-words.md:17
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-05340] Existing local harvest:** `social-harvest.md` captured 28 original posts, official-news items, video items, and roughly 5 repost/share signals from 2024-07-28 to 2026-05-08. The largest sampled categories were healthcare/mental health (7/28), agriculture/food/rural producers (6/28), budget/tax/economic messages naming Trump (6/28), border/DHS (4/28), foreign policy (3/28), and technology/public safety (2/28).
+  - Source: memory/candidates/roger-marshall/sleuth-pass.md:60
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-05412] Topic: Budget
+  - Source: memory/candidates/roger-marshall/social-harvest.md:80
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-03996] Corporate taxes:** Wants corporations to "pay their fair share" and close loopholes
+  - Source: memory/candidates/roger-marshall/raw-dump.md:6304
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **faith-community-record** [em-roger-marshall-03474] Frequent topics:** Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: reports/roger-marshall-complete-dossier.md:122
+  - Confidence/use: likely / background-only
+- **background-context** [em-roger-marshall-02174] Website**: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-00169] 4.6 Federal spending, cost of living, and credit-card competition
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:247
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-00208] Budget / tax / economic messages naming Trump: 6 of 28
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:335
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-00844] Policy focus: county spending, transparency
+  - Source: memory/candidates/roger-marshall/raw-dump.md:1088
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-01476] Referenced his Hays roots prominently in that speech, noting the $500 million deficit he inherited and the $800 million surplus he left
+  - Source: memory/candidates/roger-marshall/raw-dump.md:2207
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-01582] Created massive budget shortfalls
+  - Source: memory/candidates/roger-marshall/raw-dump.md:2365
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous hayspost.com post** [soc-roger-marshall-0005] [Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)
+  - Source: https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong marshall.senate.gov post** [soc-roger-marshall-0028] For Kansas-specific engagement, Marshall’s official feed and Senate site include rural healthcare, small business tax policy, agriculture, cattle, school milk, fertilizer, and in-person stops across the state. On April 28, 2026, his office quoted him saying, "Kansas farmers are getting hit by a fertilizer market that’s working against them" ([source](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/)). On May 5, 202…
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Facebook absence** [soc-roger-marshall-0029] Across the captured period the feed contains no visible original posts about the Ogallala Aquifer, water rights, foster care, adoption, Medicaid expansion, local county election administration, or prescription opioid response. The captured record does include posts or official items about rural hospitals, mental health, farmers, ranchers, small businesses, western Kansas, southeast Kansas, Fort Riley military families, fertilizer costs, school milk, border enforcement, and federal healthcare sp…
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **strong kshb.com post** [soc-roger-marshall-0037] On national and foreign-policy questions, Marshall’s captured posts name Trump or administration officials on Ukraine, Iran, border enforcement, federal spending, and Senate procedure. After the February 2025 Oval Office meeting with Ukrainian President Volodymyr Zelenskyy, he posted, "Thank you, @POTUS and @VP, for standing up for America" ([source](https://www.kshb.com/news/local-news/kansas-missouri-political-leaders-offer-reaction-to-trump-zelenskyy-oval-office-meeting)). After U.S. strikes…
+  - Source: https://www.kshb.com/news/local-news/kansas-missouri-political-leaders-offer-reaction-to-trump-zelenskyy-oval-office-meeting
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate Public web / internal harvest share/repost** [soc-roger-marshall-0038] Existing local harvest:** `social-harvest.md` captured 28 original posts, official-news items, video items, and roughly 5 repost/share signals from 2024-07-28 to 2026-05-08. The largest sampled categories were healthcare/mental health (7/28), agriculture/food/rural producers (6/28), budget/tax/economic messages naming Trump (6/28), border/DHS (4/28), foreign policy (3/28), and technology/public safety (2/28).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0039] Topic: Budget
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0040] 2026-04-20** — Wichita small-business roundtable covered capital access, tax relief, workforce development, aerospace, environmental services, hospitality, and construction.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0041] Topic distribution in the captured sample: healthcare and mental health — 7 of 28 (25%); agriculture, food, and rural producers — 6 of 28 (21%); budget, tax, and economic messages naming Trump — 6 of 28 (21%); border, immigration, and DHS — 4 of 28 (14%); foreign policy and national security — 3 of 28 (11%); public safety and technology-platform oversight — 2 of 28 (7%).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-roger-marshall-0042] Her Kansas-specific campaign posts use statewide household and healthcare language more than county-by-county policy detail. On Dec. 18, 2025, she posted, "Quick reality check, per AAA, the average gas price Kansans are paying is $2.526/gal. Finney County has the lowest average price at $2.174 and Lincoln County has the highest averaging almost $3.10/gal. Kansans deserve better." ([source](https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e)). On Oct. 18, 2025, she wrote, "Great to…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **ambiguous Public web / internal harvest online-reference** [soc-roger-marshall-0178] Platform:** Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 6. Economy / jobs / labor
+
+Economy / jobs / labor: 39 selected evidence items from 223 mapped rows. Public URL-backed rows: 15.
+
+### Evidence
+- **candidate-stated** [em-roger-marshall-05445] 2026-03-17** — Fox Business video, "SAVE Act needed as Americans have ‘lost confidence’ in elections, GOP senator says."
+  - Source: memory/candidates/roger-marshall/social-harvest.md:137
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **candidate-stated** [em-roger-marshall-00141] Issue mapping:** Agriculture / fuel / cost of living.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:182
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00158] Stated position:** On 2026-05-18, Marshall told Fox Business that he expected Congress to fund ICE and Border Patrol after a Senate parliamentarian issue.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:219
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00174] Stated position:** On 2026-05-18, Marshall told Mundo in the Morning that his focus was cost of living, including gas, groceries, housing, child care, health care, swipe fees, and year-round E15.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:261
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00175] Issue mapping:** Cost of living / economy.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:265
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00182] Stated position:** On 2026-05-18, Marshall told Fox Business he was a "hard sell" on an additional Pentagon supplemental and said the national debt was America's biggest challenge in that context.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:282
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00193] Context:** The same article reported that several attendees said they were Kansas residents concerned about federal funding cuts, layoffs, agriculture, tariffs, transgender policy, and veterans issues. Present those as attendee claims reported by Kansas News Service, not as adjudicated facts about every attendee.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:311
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-roger-marshall-00255] The U.S.-Iran War (ongoing since February 2026) and Trump tariff policies are major campaign issues.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:47
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-02550] [Kansas Reflector: Pfizer Lawsuit](https://kansasreflector.com/2024/06/17/kansas-ag-kobach-accuses-pfizer-of-misleading-vaccine-marketing-in-lawsuit/)
+  - Source: https://kansasreflector.com/2024/06/17/kansas-ag-kobach-accuses-pfizer-of-misleading-vaccine-marketing-in-lawsuit/
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-04904] [CU Today - Credit Card Bill + Trump](https://www.cutoday.info/Fresh-Today/With-Trump-s-Endorsement-Marshall-s-Credit-Card-Bill-May-Suddenly-Have-New-Life-On-Capitol-Hill) — accessed 2026-03-30
+  - Source: https://www.cutoday.info/Fresh-Today/With-Trump-s-Endorsement-Marshall-s-Credit-Card-Bill-May-Suddenly-Have-New-Life-On-Capitol-Hill
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-05292] [CU Today - Credit Card Bill + Trump](https://www.cutoday.info/Fresh-Today/With-Trump-s-Endorsement-Marshall-s-Credit-Card-Bill-May-Suddenly-Have-New-Life-On-Capitol-Hill)
+  - Source: https://www.cutoday.info/Fresh-Today/With-Trump-s-Endorsement-Marshall-s-Credit-Card-Bill-May-Suddenly-Have-New-Life-On-Capitol-Hill
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-00137] Action evidence:** On 2026-04-28, Marshall introduced the Lowering Input Costs for American Farmers Act to eliminate tariffs and countervailing duties on phosphate fertilizer imports from Morocco. The release says the bill is supported by the National Corn Growers Association, American Soybean Association, American Farm Bureau Federation, National Cotton Council, USA Rice, Sorghum Growers, and the National Association of Wheat Growers.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:172
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-00147] Stated position:** On 2026-05-18, Marshall said he was focused on cost of living and listed price transparency, PBM reform, and prior authorization as health-cost bills he wanted to finish.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:198
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-00172] Action evidence:** On 2026-01-13, Marshall and Sen. Dick Durbin reintroduced the Credit Card Competition Act. Marshall's office said the bill would require large banks to enable at least two unaffiliated card networks and framed it as a swipe-fee/cost-of-living measure.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:255
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-00393] Why She's Running:** Directly motivated by Marshall's town hall walkout in Oakley. Also opposes Marshall-endorsed tariffs harmful to farmers and Medicaid cuts threatening rural hospitals.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:259
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-00443] Tier:** Mid Tier -- strong business narrative and Wyandotte County redevelopment credentials, but first-time candidate
+  - Source: memory/candidates/roger-marshall/raw-dump.md:352
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00092] Finding:** The campaign homepage says Marshall serves on Agriculture, Energy & Natural Resources, HELP, and Small Business. This conflicts with the current Senate biography's Agriculture, Finance, HELP, and Budget list. Use the Senate biography for current office data because it is official office content and appears updated for the current Congress.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:82
+  - Confidence/use: contradicted / use-with-caveat
+  - Caveat: Use only with caveat because the raw matrix flagged conflicting or contradictory source language.
+- **donor-organization-signal** [em-roger-marshall-04898] Trump endorsed Marshall's Credit Card Competition Act on Truth Social
+  - Source: memory/candidates/roger-marshall/raw-dump.md:7781
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **donor-organization-signal** [em-roger-marshall-05460] 2026-04-20** — Wichita small-business roundtable covered capital access, tax relief, workforce development, aerospace, environmental services, hospitality, and construction.
+  - Source: memory/candidates/roger-marshall/social-harvest.md:172
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **donor-organization-signal** [em-roger-marshall-00087] Finding:** Current Senate biography lists Senate committee service as Agriculture, Nutrition, and Forestry; Finance; Health, Education, Labor, and Pensions; and Budget. It lists chairmanships of Agriculture Subcommittee on Conservation, Forestry, Natural Resources, and Biotechnology and HELP Subcommittee on Primary Health and Retirement Security.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:68
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00120] Issue mapping:** Campaign finance; agriculture; healthcare; business/transportation.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:127
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00173] Issue mapping:** Cost of living / small business / finance.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:259
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-roger-marshall-00004] Marshall’s public alignment network is concentrated around President Trump, Senate Republicans, Kansas agriculture groups, and selected bipartisan health or food-policy partners. In the [captured sample](social-harvest.md), @POTUS or @realDonaldTrump appears in 6 items, more than any other named account or public figure. On January 13, 2026, after Trump posted support for the Credit Card Competition Act, Marshall wrote, "Thank you, President Trump, for your support!" ([source](https://www.bizpa…
+  - Source: https://www.bizpacreview.com/2026/01/13/elizabeth-warren-brags-about-how-president-trump-called-her-1615749/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-00007] For Kansas-specific engagement, Marshall’s official feed and Senate site include rural healthcare, small business tax policy, agriculture, cattle, school milk, fertilizer, and in-person stops across the state. On April 28, 2026, his office quoted him saying, "Kansas farmers are getting hit by a fertilizer market that’s working against them" ([source](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/)). On May 5, 202…
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-05397] Capture source: [Hannity article embedding the post](https://hannity.com/media-room/the-trump-effect-apple-unveils-500b-investment-in-u-s-manufacturing-report/)
+  - Source: https://hannity.com/media-room/the-trump-effect-apple-unveils-500b-investment-in-u-s-manufacturing-report/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-05911] Across 45 Bluesky posts captured between August 17, 2025, and March 29, 2026, Davis's most frequent topic is federal accountability and opposition to named national political figures, a category that accounts for 16 posts, or 35.6 percent of the captured feed ([harvest](social-harvest.md)). On March 20, she posted, "Roger Marshall doesn't want voter ID. He wants voter suppression. And Kansas has seen this ALLLLL before. I’ll fight like hell to protect your right to vote" ([source](https://bsky.…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-05913] Across the [14 campaign-period original or quote Bluesky posts](./social-harvest.md#summary-counts) captured after her Oct. 16, 2025 launch, Sandy Spidel Neumann's repeated campaign subjects are Kansas costs, healthcare, farms, hospitals, families, and contrast with Sen. Roger Marshall. On launch day she posted, "Every Kansan deserves a fair shot: to afford groceries, gas, housing, and a future for their kids. That’s what I’m fighting for: lower costs, good jobs, and opportunity you can count o…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-00008] Across the captured period the feed contains no visible original posts about the Ogallala Aquifer, water rights, foster care, adoption, Medicaid expansion, local county election administration, or prescription opioid response. The captured record does include posts or official items about rural hospitals, mental health, farmers, ranchers, small businesses, western Kansas, southeast Kansas, Fort Riley military families, fertilizer costs, school milk, border enforcement, and federal healthcare sp…
+  - Source: memory/candidates/roger-marshall/in-their-own-words.md:17
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-04362] Personal Facebook:** Limited; appears to post primarily through DXI Training Solutions LLC business page
+  - Source: memory/candidates/roger-marshall/raw-dump.md:6926
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-05398] Topic: Economy
+  - Source: memory/candidates/roger-marshall/social-harvest.md:50
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-roger-marshall-00960] Introduced the FAITH in Small Business Act (ensures faith-based businesses can participate in SBA loans)
+  - Source: memory/candidates/roger-marshall/raw-dump.md:1379
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-00984] | **Church Roles** | Lector; Extraordinary Minister of Holy Communion |
+  - Source: memory/candidates/roger-marshall/raw-dump.md:1428
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-02283] Education**: B.A. in Business Administration, Trevecca Nazarene University (1999) -- *note: Trevecca is a Church of the Nazarene university in Nashville, TN, suggesting a faith background*
+  - Source: memory/candidates/roger-marshall/raw-dump.md:3578
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-01972] [Jobs for America's Graduates - Bio](https://jag.org/dipl-team-member/jeff-colyer/)
+  - Source: https://jag.org/dipl-team-member/jeff-colyer/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-03101] [KU School of Business Faculty Page](https://business.ku.edu/people/colin-mcroberts)
+  - Source: https://business.ku.edu/people/colin-mcroberts
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-04317] [Nex-Tech: Shaun](https://www.nex-tech.com/business/shaun/)
+  - Source: https://www.nex-tech.com/business/shaun/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-04934] [Durbin/Marshall - Credit Card Competition Act](https://www.durbin.senate.gov/newsroom/press-releases/durbin-marshall-reintroduce-the-credit-card-competition-act) — accessed 2026-03-30
+  - Source: https://www.durbin.senate.gov/newsroom/press-releases/durbin-marshall-reintroduce-the-credit-card-competition-act
+  - Confidence/use: confirmed / use
+- **background-context** [em-roger-marshall-04935] [marshall.senate.gov - Credit Card Competition Act](https://www.marshall.senate.gov/newsroom/press-releases/marshall-durbin-reintroduce-credit-card-competition-act-backed-by-president-trump/) — accessed 2026-03-30
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/marshall-durbin-reintroduce-credit-card-competition-act-backed-by-president-trump/
+  - Confidence/use: confirmed / use
+- **background-context** [em-roger-marshall-05293] [Durbin/Marshall - Credit Card Competition Act](https://www.durbin.senate.gov/newsroom/press-releases/durbin-marshall-reintroduce-the-credit-card-competition-act)
+  - Source: https://www.durbin.senate.gov/newsroom/press-releases/durbin-marshall-reintroduce-the-credit-card-competition-act
+  - Confidence/use: confirmed / use
+
+### Social / Online Signals
+- **strong bizpacreview.com post** [soc-roger-marshall-0027] Marshall’s public alignment network is concentrated around President Trump, Senate Republicans, Kansas agriculture groups, and selected bipartisan health or food-policy partners. In the [captured sample](social-harvest.md), @POTUS or @realDonaldTrump appears in 6 items, more than any other named account or public figure. On January 13, 2026, after Trump posted support for the Credit Card Competition Act, Marshall wrote, "Thank you, President Trump, for your support!" ([source](https://www.bizpa…
+  - Source: https://www.bizpacreview.com/2026/01/13/elizabeth-warren-brags-about-how-president-trump-called-her-1615749/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong marshall.senate.gov post** [soc-roger-marshall-0028] For Kansas-specific engagement, Marshall’s official feed and Senate site include rural healthcare, small business tax policy, agriculture, cattle, school milk, fertilizer, and in-person stops across the state. On April 28, 2026, his office quoted him saying, "Kansas farmers are getting hit by a fertilizer market that’s working against them" ([source](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/)). On May 5, 202…
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Facebook absence** [soc-roger-marshall-0029] Across the captured period the feed contains no visible original posts about the Ogallala Aquifer, water rights, foster care, adoption, Medicaid expansion, local county election administration, or prescription opioid response. The captured record does include posts or official items about rural hospitals, mental health, farmers, ranchers, small businesses, western Kansas, southeast Kansas, Fort Riley military families, fertilizer costs, school milk, border enforcement, and federal healthcare sp…
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0036] Across the captured sample the feed contains direct local content about rural hospitals, mental health, farmers, ranchers, small businesses, western Kansas, southeast Kansas, Fort Riley military families, fertilizer costs, and school milk.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0040] 2026-04-20** — Wichita small-business roundtable covered capital access, tax relief, workforce development, aerospace, environmental services, hospitality, and construction.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Facebook post** [soc-roger-marshall-0043] Personal Facebook:** Limited; appears to post primarily through DXI Training Solutions LLC business page
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0044] Trump endorsed Marshall's Credit Card Competition Act on Truth Social
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong hannity.com post** [soc-roger-marshall-0045] Capture source: [Hannity article embedding the post](https://hannity.com/media-room/the-trump-effect-apple-unveils-500b-investment-in-u-s-manufacturing-report/)
+  - Source: https://hannity.com/media-room/the-trump-effect-apple-unveils-500b-investment-in-u-s-manufacturing-report/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0046] Topic: Economy
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0047] Topic: Credit cards
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 7. Guns / Second Amendment
+
+Guns / Second Amendment: 31 selected evidence items from 69 mapped rows. Public URL-backed rows: 6.
+
+### Evidence
+- **candidate-stated** [em-roger-marshall-04737] [On the Issues - Gun Control](https://www.ontheissues.org/house/Roger_Marshall_Gun_Control.htm) — accessed 2026-03-30
+  - Source: https://www.ontheissues.org/house/Roger_Marshall_Gun_Control.htm
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-05264] [On the Issues - Gun Control](https://www.ontheissues.org/house/Roger_Marshall_Gun_Control.htm)
+  - Source: https://www.ontheissues.org/house/Roger_Marshall_Gun_Control.htm
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-00165] Issue mapping:** Guns / Second Amendment.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:237
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00167] Issue mapping:** Guns / interstate commerce.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:243
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00168] Additional leads:** Marshall's Senate office also lists No REGISTRY Rights Act, SHUSH Act, and Modern Firearms Safety Act releases. These can be added if the final issue card needs more gun-policy breadth.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:245
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-04701] Opposes red flag laws, "assault weapon" bans, and buyback programs
+  - Source: memory/candidates/roger-marshall/raw-dump.md:7498
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-05766] firearms access as a constitutional-rights issue. His office has also
+  - Source: memory/candidates/roger-marshall/v2-issues.yaml:506
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-06147] "text": "Marshall's official statements oppose red flag laws and describe\nfirearms access as a constitutional-rights issue. His office has also\nannounced legislation on interstate firearms transactions.",
+  - Source: ui/src/data/v2/roger-marshall.ts:257
+  - Confidence/use: likely / background-only
+- **documented-record** [em-roger-marshall-00127] URL:** https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-votes-against-gun-grabbing-scheme/
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-votes-against-gun-grabbing-scheme/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-04741] [marshall.senate.gov - Gun Grabbing Scheme vote](https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-votes-against-gun-grabbing-scheme/) — accessed 2026-03-30
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-votes-against-gun-grabbing-scheme/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-05266] [marshall.senate.gov - Gun Grabbing Scheme vote](https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-votes-against-gun-grabbing-scheme/)
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-votes-against-gun-grabbing-scheme/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-06150] "observation": "Gun-policy action: Marshall's office said he voted against the 2022 gun reform bill and released a statement opposing red flag laws. His office also lists 2024 cosponsorship of the Firearms Interstate Commerce Reform Act. Sources: https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-votes-against-gun-grabbing-scheme/ and...",
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-votes-against-gun-grabbing-scheme/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-00164] Action evidence:** On 2022-06-24, Marshall's office said he voted against the federal gun reform bill and released a statement saying he would not support what he called a "gun grabbing scheme." The release specifically objected to red flag laws.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:233
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-00497] Pro-2A, pro-law enforcement positioning is unusual for a Democrat and could attract crossover voters
+  - Source: memory/candidates/roger-marshall/raw-dump.md:446
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-02240] Kansas House Speaker with 30 years in the insurance industry, running on a **"Pro-Life. Pro-Gun. Pro-Trump."** platform -- but now facing intense scrutiny for using his Speaker's power to **block a bipartisan prescription drug cost bill** that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:3502
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-03500] Gun / Second Amendment Votes
+  - Source: reports/roger-marshall-complete-dossier.md:156
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-roger-marshall-03701] Key issue:** Huelskamp had lost his seat on the House Agriculture Committee, the first time in a century no Kansan was on that panel. This enraged Kansas agricultural groups who backed Marshall.
+  - Source: reports/roger-marshall-complete-dossier.md:431
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-roger-marshall-03921] Very few vulnerabilities from the right; Heritage Action 89-94%, pro-life 100%, NRA-aligned, Trump-endorsed
+  - Source: reports/roger-marshall-complete-dossier.md:744
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-roger-marshall-04687] NRA**: A+ rating — Lifetime NRA member
+  - Source: memory/candidates/roger-marshall/raw-dump.md:7482
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-04699] NRA A+ rating
+  - Source: memory/candidates/roger-marshall/raw-dump.md:7496
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-04893] NRA**: A+ rated, historically endorsed
+  - Source: memory/candidates/roger-marshall/raw-dump.md:7774
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-00498] Self-described as "white, male, Christian, hetero, 2A-friendly, LEO-friendly" -- consciously positions himself as electable in red Kansas
+  - Source: memory/candidates/roger-marshall/raw-dump.md:447
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-00509] Described himself as "white, male, Christian, hetero, 2A-friendly, LEO-friendly, and very clearly anti-pedo" as reasons he's the best Democratic candidate. (Kansas Reflector)
+  - Source: memory/candidates/roger-marshall/raw-dump.md:462
+  - Confidence/use: likely / background-only
+- **faith-community-record** [em-roger-marshall-00625] Hart has explicitly positioned himself as the most electable Democrat ("white, male, Christian, hetero, 2A-friendly, LEO-friendly"). This electability-vs-values tension will define the primary.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:673
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-03474] Frequent topics:** Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: reports/roger-marshall-complete-dossier.md:122
+  - Confidence/use: likely / background-only
+- **background-context** [em-roger-marshall-00163] 4.5 Guns / Second Amendment
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:231
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-00166] Action evidence:** On 2024-07-12, Marshall joined Sen. Kevin Cramer in introducing the Firearms Interstate Commerce Reform Act to change federal rules on interstate firearms transactions.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:239
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-00324] Red Flags / Controversies:** None found
+  - Source: memory/candidates/roger-marshall/raw-dump.md:149
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-00485] Friendly to the Second Amendment
+  - Source: memory/candidates/roger-marshall/raw-dump.md:430
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-00511] Red Flags / Controversies:**
+  - Source: memory/candidates/roger-marshall/raw-dump.md:467
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-01844] Gun Rights
+  - Source: memory/candidates/roger-marshall/raw-dump.md:2762
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-roger-marshall-0346] Kansas House Speaker with 30 years in the insurance industry, running on a **"Pro-Life. Pro-Gun. Pro-Trump."** platform -- but now facing intense scrutiny for using his Speaker's power to **block a bipartisan prescription drug cost bill** that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 8. Immigration / border
+
+Immigration / border: 41 selected evidence items from 489 mapped rows. Public URL-backed rows: 46.
+
+### Evidence
+- **candidate-stated** [em-roger-marshall-00156] URL:** https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-supports-secure-the-border-act/
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-supports-secure-the-border-act/
+  - Confidence/use: confirmed / use
+- **candidate-stated** [em-roger-marshall-04738] [On the Issues - Immigration](https://www.ontheissues.org/house/Roger_Marshall_Immigration.htm) — accessed 2026-03-30
+  - Source: https://www.ontheissues.org/house/Roger_Marshall_Immigration.htm
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-05265] [On the Issues - Immigration](https://www.ontheissues.org/house/Roger_Marshall_Immigration.htm)
+  - Source: https://www.ontheissues.org/house/Roger_Marshall_Immigration.htm
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-05478] Topic distribution in the captured sample: healthcare and mental health — 7 of 28 (25%); agriculture, food, and rural producers — 6 of 28 (21%); budget, tax, and economic messages naming Trump — 6 of 28 (21%); border, immigration, and DHS — 4 of 28 (14%); foreign policy and national security — 3 of 28 (11%); public safety and technology-platform oversight — 2 of 28 (7%).
+  - Source: memory/candidates/roger-marshall/social-harvest.md:198
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **candidate-stated** [em-roger-marshall-00071] Issue mapping:** Biography / office status.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:28
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00084] Finding:** Marshall's Senate biography says he is a physician, father, grandfather, and U.S. senator for Kansas; graduated from Butler County Community College, Kansas State University, and the University of Kansas School of Medicine; practiced medicine in Great Bend for more than 25 years; served seven years in the Army Reserve; and delivered more than 5,000 babies as an OB-GYN.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:61
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00157] Issue mapping:** Immigration / border.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:217
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00158] Stated position:** On 2026-05-18, Marshall told Fox Business that he expected Congress to fund ICE and Border Patrol after a Senate parliamentarian issue.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:219
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-00079] URL:** https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf
+  - Source: https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-00327] [Kansas Reflector - Campaign Profile (Aug 2025)](https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/)
+  - Source: https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-00429] [Within Reason with Mike Matson (News Radio KMAN, March 2026)](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)
+  - Source: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-00788] [City Manager's Office - Hays](https://www.haysusa.com/149/City-Managers-Office)
+  - Source: https://www.haysusa.com/149/City-Managers-Office
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-01298] [Ballotpedia: Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))
+  - Source: https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-01362] | Ellis County Clerk (Election Office) | 785-628-9410 | [ellisco.net/425/Election](https://www.ellisco.net/425/Election) |
+  - Source: https://www.ellisco.net/425/Election
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-02355] [Kansas Reflector: Democratic U.S. Senate candidate eager to broaden Kansas voice](https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/) (Aug 18, 2025)
+  - Source: https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-02839] [OpenSecrets](https://www.opensecrets.org/officeholders/kris-kobach/summary)
+  - Source: https://www.opensecrets.org/officeholders/kris-kobach/summary
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-roger-marshall-00092] Finding:** The campaign homepage says Marshall serves on Agriculture, Energy & Natural Resources, HELP, and Small Business. This conflicts with the current Senate biography's Agriculture, Finance, HELP, and Budget list. Use the Senate biography for current office data because it is official office content and appears updated for the current Congress.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:82
+  - Confidence/use: contradicted / use-with-caveat
+  - Caveat: Use only with caveat because the raw matrix flagged conflicting or contradictory source language.
+- **donor-organization-signal** [em-roger-marshall-00218] Campaign-site stale committee list:** Campaign site and Senate official bio conflict on current committee assignments. Use Senate official bio for current office; mention conflict if needed.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:353
+  - Confidence/use: contradicted / use-with-caveat
+  - Caveat: Use only with caveat because the raw matrix flagged conflicting or contradictory source language.
+- **donor-organization-signal** [em-roger-marshall-05460] 2026-04-20** — Wichita small-business roundtable covered capital access, tax relief, workforce development, aerospace, environmental services, hospitality, and construction.
+  - Source: memory/candidates/roger-marshall/social-harvest.md:172
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **donor-organization-signal** [em-roger-marshall-00073] Finding:** FEC confirms federal candidacy for 2026. FEC lists seat "Kansas Senate," type "Incumbent," party "Republican Party," statement of candidacy filed 2026-04-14, and principal committee Kansans for Marshall. The FEC Form 2 image separately lists candidate ID `S0KS00315`, office Senate, state KS, party Republican, election year 2026, and principal campaign committee Kansans for Marshall.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:32
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00087] Finding:** Current Senate biography lists Senate committee service as Agriculture, Nutrition, and Forestry; Finance; Health, Education, Labor, and Pensions; and Budget. It lists chairmanships of Agriculture Subcommittee on Conservation, Forestry, Natural Resources, and Biotechnology and HELP Subcommittee on Primary Health and Retirement Security.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:68
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00117] United Parcel Service Inc. PAC: $5,000 on 2026-03-31.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:122
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-roger-marshall-00150] "url": "https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it"
+  - Source: https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00780] [HaysPost: Officer on de-escalation training](https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930)
+  - Source: https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-03957] [KCUR - Marshall COVID Positions](https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it)
+  - Source: https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-04782] [KCUR - COVID Advice](https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it) — accessed 2026-03-30
+  - Source: https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-05922] LaPorte's visible alignment signals come from LinkedIn preview data and public organization pages rather than from campaign posts. The only identifiable social profile signal is a LinkedIn preview, which showed CSC - Contemporary Services Corporation, Wichita State University, VFW, American Legion, Abdallah Shriners, and a "Republican candidate for KS-03" campaign entry under Chase LaPorte 2026 as of May 11, 2026 ([source](https://www.linkedin.com/in/chase-laporte-06285b281)). The visible liked…
+  - Source: https://www.linkedin.com/in/chase-laporte-06285b281
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00003] Across the [28-item captured sample](social-harvest.md), Marshall’s largest category is healthcare and mental health, with 7 items, or 25 percent of the harvest; agriculture, food, and rural producers follow with 6 items, or 21 percent. The healthcare posts combine his physician title with criticism of federal health programs and proposals for replacement policy. On November 10, 2025, he posted, "Up to 40% of Obamacare enrollees never file a claim" ([source](https://x.com/RogerMarshallMD/status…
+  - Source: https://x.com/RogerMarshallMD/status/1987679877470810388
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-00005] Audience-response data was only partly visible in this capture. Direct X, Facebook, and Instagram engagement totals were blocked or not returned as of May 11, 2026; the harvest therefore records exact platform totals as unavailable rather than estimating them. The clearest visible response signals came from the November 10, 2025 ACA post and the March 3, 2025 Oakley town-hall post. The ACA post drew a long indexed reply thread centered on how insurance pools work. The town-hall post, in which M…
+  - Source: https://x.com/RogerMarshallMD/status/1896583775557243254
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-00006] On national and foreign-policy questions, Marshall’s captured posts name Trump or administration officials on Ukraine, Iran, border enforcement, federal spending, and Senate procedure. After the February 2025 Oval Office meeting with Ukrainian President Volodymyr Zelenskyy, he posted, "Thank you, @POTUS and @VP, for standing up for America" ([source](https://www.kshb.com/news/local-news/kansas-missouri-political-leaders-offer-reaction-to-trump-zelenskyy-oval-office-meeting)). After U.S. strikes…
+  - Source: https://www.kshb.com/news/local-news/kansas-missouri-political-leaders-offer-reaction-to-trump-zelenskyy-oval-office-meeting
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-roger-marshall-05123] "Active in his church as an Elder, Deacon and twice serving as board chair" - campaign bio, n.d., https://kansansformarshall.com/meet-doc/
+  - Source: https://kansansformarshall.com/meet-doc/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-roger-marshall-00793] | **Church Role** | Vice Chair, St. Nicholas of Myra Church Council |
+  - Source: memory/candidates/roger-marshall/raw-dump.md:983
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-00795] Explicitly identified as Vice Chair of the St. Nicholas of Myra Church Council
+  - Source: memory/candidates/roger-marshall/raw-dump.md:987
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-00977] Assessment:** Roger Marshall has one of the deepest and most documented church leadership records of anyone on this list. Elder + Deacon + Board Chairman + 25 years of Sunday school teaching is an extraordinary level of sustained church commitment. This is not someone who shows up on Easter and Christmas. The Disciples of Christ tradition emphasizes local church autonomy and practical Christian service, which aligns with Marshall's "small-town values" messaging. His faith credentials are among …
+  - Source: reports/faith-church-investigation-2026-03-31.md:610
+  - Confidence/use: likely / background-only
+- **public-controversy** [em-roger-marshall-02755] 17. Fired Morgan & Morgan law firm from the natural gas price-gouging case, allegedly because the firm's founder donated to Democrats -- had to backtrack after legal experts warned of retaliation liability
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4312
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-00440] [Kansas Reflector - Announcement (Aug 2025)](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-00594] [Kansas Reflector - Davids Senate Speculation (Jan 2026)](https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/)
+  - Source: https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-00595] [KCUR - Davids Not Ruling It Out (Feb 2026)](https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out)
+  - Source: https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-00678] 11. [Sharice Davids Senate Speculation (Jan 29, 2026)](https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/)
+  - Source: https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-00684] 16. [KCUR - Sharice Davids Discussion (Feb 24, 2026)](https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out)
+  - Source: https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-02354] [Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/) (Aug 25, 2025)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous kcur.org post** [soc-roger-marshall-0006] "url": "https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it"
+  - Source: https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-roger-marshall-0007] [HaysPost: Officer on de-escalation training](https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930)
+  - Source: https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kcur.org post** [soc-roger-marshall-0008] [KCUR - Marshall COVID Positions](https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it)
+  - Source: https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kcur.org post** [soc-roger-marshall-0009] [KCUR - COVID Advice](https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it) — accessed 2026-03-30
+  - Source: https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous LinkedIn post** [soc-roger-marshall-0010] LaPorte's visible alignment signals come from LinkedIn preview data and public organization pages rather than from campaign posts. The only identifiable social profile signal is a LinkedIn preview, which showed CSC - Contemporary Services Corporation, Wichita State University, VFW, American Legion, Abdallah Shriners, and a "Republican candidate for KS-03" campaign entry under Chase LaPorte 2026 as of May 11, 2026 ([source](https://www.linkedin.com/in/chase-laporte-06285b281)). The visible liked…
+  - Source: https://www.linkedin.com/in/chase-laporte-06285b281
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak X / Twitter follow** [soc-roger-marshall-0025] Across the [28-item captured sample](social-harvest.md), Marshall’s largest category is healthcare and mental health, with 7 items, or 25 percent of the harvest; agriculture, food, and rural producers follow with 6 items, or 21 percent. The healthcare posts combine his physician title with criticism of federal health programs and proposals for replacement policy. On November 10, 2025, he posted, "Up to 40% of Obamacare enrollees never file a claim" ([source](https://x.com/RogerMarshallMD/status…
+  - Source: https://x.com/RogerMarshallMD/status/1987679877470810388
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong marshall.senate.gov post** [soc-roger-marshall-0028] For Kansas-specific engagement, Marshall’s official feed and Senate site include rural healthcare, small business tax policy, agriculture, cattle, school milk, fertilizer, and in-person stops across the state. On April 28, 2026, his office quoted him saying, "Kansas farmers are getting hit by a fertilizer market that’s working against them" ([source](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/)). On May 5, 202…
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Facebook absence** [soc-roger-marshall-0029] Across the captured period the feed contains no visible original posts about the Ogallala Aquifer, water rights, foster care, adoption, Medicaid expansion, local county election administration, or prescription opioid response. The captured record does include posts or official items about rural hospitals, mental health, farmers, ranchers, small businesses, western Kansas, southeast Kansas, Fort Riley military families, fertilizer costs, school milk, border enforcement, and federal healthcare sp…
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **strong kshb.com post** [soc-roger-marshall-0037] On national and foreign-policy questions, Marshall’s captured posts name Trump or administration officials on Ukraine, Iran, border enforcement, federal spending, and Senate procedure. After the February 2025 Oval Office meeting with Ukrainian President Volodymyr Zelenskyy, he posted, "Thank you, @POTUS and @VP, for standing up for America" ([source](https://www.kshb.com/news/local-news/kansas-missouri-political-leaders-offer-reaction-to-trump-zelenskyy-oval-office-meeting)). After U.S. strikes…
+  - Source: https://www.kshb.com/news/local-news/kansas-missouri-political-leaders-offer-reaction-to-trump-zelenskyy-oval-office-meeting
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate Public web / internal harvest share/repost** [soc-roger-marshall-0038] Existing local harvest:** `social-harvest.md` captured 28 original posts, official-news items, video items, and roughly 5 repost/share signals from 2024-07-28 to 2026-05-08. The largest sampled categories were healthcare/mental health (7/28), agriculture/food/rural producers (6/28), budget/tax/economic messages naming Trump (6/28), border/DHS (4/28), foreign policy (3/28), and technology/public safety (2/28).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 9. Health care / insurance / Medicaid
+
+Health care / insurance / Medicaid: 44 selected evidence items from 707 mapped rows. Public URL-backed rows: 60.
+
+### Evidence
+- **candidate-stated** [em-roger-marshall-00329] [Campaign Website](https://mikeforkansas.my.canva.site/)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-00362] Key Quote:** Not available in search results -- check [patrickforkansas.com](https://patrickforkansas.com/about/) for campaign messaging
+  - Source: https://patrickforkansas.com/about/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-00528] Campaign Website:** [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (hosted on Canva -- indicates minimal campaign budget/infrastructure)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-02358] [Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/) (May 13, 2025)
+  - Source: https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-03952] [On The Issues](https://www.ontheissues.org/house/Roger_Marshall_Principles_+_Values.htm)
+  - Source: https://www.ontheissues.org/house/Roger_Marshall_Principles_+_Values.htm
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-04190] Campaign Websites:** Multiple -- [replacejerrymoran.org](https://replacejerrymoran.org/), [mike4kansas.org](https://mike4kansas.org/), [mikeforkansas.net](https://mikeforkansas.net/), [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/)
+  - Source: https://replacejerrymoran.org/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-04648] [On the Issues - Principles & Values](https://www.ontheissues.org/house/Roger_Marshall_Principles_+_Values.htm) — accessed 2026-03-30
+  - Source: https://www.ontheissues.org/house/Roger_Marshall_Principles_+_Values.htm
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-05211] [Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/)
+  - Source: https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-00140] "url": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-we-must-treat-the-root-cause-of-mental-health-not-just-medicate-it/",
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-we-must-treat-the-root-cause-of-mental-health-not-just-medicate-it/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-01946] [Kansas Reflector - Prescription for change (Feb 23, 2026)](https://kansasreflector.com/2026/02/23/republican-candidate-for-kansas-governor-offering-voters-a-prescription-for-change/)
+  - Source: https://kansasreflector.com/2026/02/23/republican-candidate-for-kansas-governor-offering-voters-a-prescription-for-change/
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-02357] [Kansas Reflector: Kansas House speaker desperately maneuvers to sabotage vote on drug costs bill](https://kansasreflector.com/2026/03/22/kansas-house-speaker-desperately-maneuvers-to-sabotage-vote-on-senate-bill-capping-drug-costs/) (Mar 22, 2026)
+  - Source: https://kansasreflector.com/2026/03/22/kansas-house-speaker-desperately-maneuvers-to-sabotage-vote-on-senate-bill-capping-drug-costs/
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-02361] [KMUW: Kansas House passes bill on prescription drug middlemen](https://www.kmuw.org/government/2026-03-26/kansas-house-passes-bill-providing-stricter-regulation-of-prescription-drug-middlemen) (Mar 26, 2026)
+  - Source: https://www.kmuw.org/government/2026-03-26/kansas-house-passes-bill-providing-stricter-regulation-of-prescription-drug-middlemen
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-02368] [Ballotpedia: Kansas Insurance Commissioner Election 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-02549] [Kansas AG: Vanguard ESG Settlement](https://www.ag.ks.gov/Home/Components/News/News/280/1292)
+  - Source: https://www.ag.ks.gov/Home/Components/News/News/280/1292
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-02550] [Kansas Reflector: Pfizer Lawsuit](https://kansasreflector.com/2024/06/17/kansas-ag-kobach-accuses-pfizer-of-misleading-vaccine-marketing-in-lawsuit/)
+  - Source: https://kansasreflector.com/2024/06/17/kansas-ag-kobach-accuses-pfizer-of-misleading-vaccine-marketing-in-lawsuit/
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-03340] [Kansas Reflector: Rivals launch fight over amendment](https://kansasreflector.com/2025/08/07/rivals-launch-fight-over-kansas-constitutional-amendment-to-elect-supreme-court-justices/)
+  - Source: https://kansasreflector.com/2025/08/07/rivals-launch-fight-over-kansas-constitutional-amendment-to-elect-supreme-court-justices/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-roger-marshall-02919] Note**: Specific fundraising totals not available from search results. Most recent FEC filing covers July 1 - December 31, 2025. Full financial data available at [fec.gov/data/candidate/H6KS01195](https://www.fec.gov/data/candidate/H6KS01195/) and [fec.gov/data/committee/C00919860](https://www.fec.gov/data/committee/C00919860/).
+  - Source: https://www.fec.gov/data/candidate/H6KS01195/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-roger-marshall-02940] FEC Filing Status**: Campaign active; specific FEC candidate ID not confirmed in search results. Committee details available at [fec.gov/data/elections/house/KS/01/2026](https://www.fec.gov/data/elections/house/KS/01/2026/).
+  - Source: https://www.fec.gov/data/elections/house/KS/01/2026/
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-roger-marshall-05460] 2026-04-20** — Wichita small-business roundtable covered capital access, tax relief, workforce development, aerospace, environmental services, hospitality, and construction.
+  - Source: memory/candidates/roger-marshall/social-harvest.md:172
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **donor-organization-signal** [em-roger-marshall-00087] Finding:** Current Senate biography lists Senate committee service as Agriculture, Nutrition, and Forestry; Finance; Health, Education, Labor, and Pensions; and Budget. It lists chairmanships of Agriculture Subcommittee on Conservation, Forestry, Natural Resources, and Biotechnology and HELP Subcommittee on Primary Health and Retirement Security.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:68
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00118] American Dental Association PAC, American College of Radiology Association PAC, and other health-sector PACs at $5,000-level examples.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:123
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00120] Issue mapping:** Campaign finance; agriculture; healthcare; business/transportation.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:127
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-roger-marshall-00150] "url": "https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it"
+  - Source: https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-01239] [Hays Post: Ellis County Canvass 2025](https://hayspost.com/posts/5de6670c-0b28-4836-820e-a80866aa4e94)
+  - Source: https://hayspost.com/posts/5de6670c-0b28-4836-820e-a80866aa4e94
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-03957] [KCUR - Marshall COVID Positions](https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it)
+  - Source: https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-04782] [KCUR - COVID Advice](https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it) — accessed 2026-03-30
+  - Source: https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-05922] LaPorte's visible alignment signals come from LinkedIn preview data and public organization pages rather than from campaign posts. The only identifiable social profile signal is a LinkedIn preview, which showed CSC - Contemporary Services Corporation, Wichita State University, VFW, American Legion, Abdallah Shriners, and a "Republican candidate for KS-03" campaign entry under Chase LaPorte 2026 as of May 11, 2026 ([source](https://www.linkedin.com/in/chase-laporte-06285b281)). The visible liked…
+  - Source: https://www.linkedin.com/in/chase-laporte-06285b281
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00003] Across the [28-item captured sample](social-harvest.md), Marshall’s largest category is healthcare and mental health, with 7 items, or 25 percent of the harvest; agriculture, food, and rural producers follow with 6 items, or 21 percent. The healthcare posts combine his physician title with criticism of federal health programs and proposals for replacement policy. On November 10, 2025, he posted, "Up to 40% of Obamacare enrollees never file a claim" ([source](https://x.com/RogerMarshallMD/status…
+  - Source: https://x.com/RogerMarshallMD/status/1987679877470810388
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-00004] Marshall’s public alignment network is concentrated around President Trump, Senate Republicans, Kansas agriculture groups, and selected bipartisan health or food-policy partners. In the [captured sample](social-harvest.md), @POTUS or @realDonaldTrump appears in 6 items, more than any other named account or public figure. On January 13, 2026, after Trump posted support for the Credit Card Competition Act, Marshall wrote, "Thank you, President Trump, for your support!" ([source](https://www.bizpa…
+  - Source: https://www.bizpacreview.com/2026/01/13/elizabeth-warren-brags-about-how-president-trump-called-her-1615749/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-00005] Audience-response data was only partly visible in this capture. Direct X, Facebook, and Instagram engagement totals were blocked or not returned as of May 11, 2026; the harvest therefore records exact platform totals as unavailable rather than estimating them. The clearest visible response signals came from the November 10, 2025 ACA post and the March 3, 2025 Oakley town-hall post. The ACA post drew a long indexed reply thread centered on how insurance pools work. The town-hall post, in which M…
+  - Source: https://x.com/RogerMarshallMD/status/1896583775557243254
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-roger-marshall-00744] [Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)
+  - Source: https://www.hfehays.org/o/hfe/article/923439
+  - Confidence/use: likely / use
+- **faith-community-record** [em-roger-marshall-00967] [Americans United: National Prayer Breakfast](https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/)
+  - Source: https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-roger-marshall-00090] Issue mapping:** Faith/community metadata; life; healthcare; agriculture/food.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:78
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-00625] Hart has explicitly positioned himself as the most electable Democrat ("white, male, Christian, hetero, 2A-friendly, LEO-friendly"). This electability-vs-values tension will define the primary.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:673
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-roger-marshall-03575] The confrontation:** Constituents immediately began peppering Marshall with angry questions about DOGE cuts, the Ukraine conflict, hollowing of federal agencies, and rural healthcare. The crowd booed and shouted.
+  - Source: reports/roger-marshall-complete-dossier.md:252
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **public-controversy** [em-roger-marshall-00542] Former Republican who called himself "conservative" and "pro-life" as recently as 2019 -- position shifts invite scrutiny
+  - Source: memory/candidates/roger-marshall/raw-dump.md:520
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-roger-marshall-01504] | **2024** | **Dnipro, Ukraine** | **Russia-Ukraine War** | Spent one month at **Mechnikov Hospital** treating war casualties. Described injuries as "in a category far above what we're seeing in other conflicts." |
+  - Source: memory/candidates/roger-marshall/raw-dump.md:2253
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-roger-marshall-02277] Insurance industry conflict of interest**: 30 years in insurance, now seeking to regulate the industry.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:3563
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-01066] [KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-01959] [KSHB - Ukraine medical mission](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-01985] [IMC - Lt. Governor to Climb Mt. Kilimanjaro](https://internationalmedicalcorps.org/press-release/lt-governor-to-climb-mt-kilimanjaro-in-support-of-international-medical-corps-humanitarian-relief-efforts/)
+  - Source: https://internationalmedicalcorps.org/press-release/lt-governor-to-climb-mt-kilimanjaro-in-support-of-international-medical-corps-humanitarian-relief-efforts/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-02174] Website**: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-02253] Website**: [hawkinsforinsurance.com](https://www.hawkinsforinsurance.com/)
+  - Source: https://www.hawkinsforinsurance.com/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-02318] Full voting record available at [kslegislature.gov](https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/)
+  - Source: https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/
+  - Confidence/use: confirmed / use
+
+### Social / Online Signals
+- **ambiguous kcur.org post** [soc-roger-marshall-0006] "url": "https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it"
+  - Source: https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kcur.org post** [soc-roger-marshall-0008] [KCUR - Marshall COVID Positions](https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it)
+  - Source: https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous kcur.org post** [soc-roger-marshall-0009] [KCUR - COVID Advice](https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it) — accessed 2026-03-30
+  - Source: https://www.kcur.org/news/2021-08-26/kansas-senator-roger-marshall-is-a-doctor-but-his-covid-19-advice-doesnt-always-sound-like-it
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous LinkedIn post** [soc-roger-marshall-0010] LaPorte's visible alignment signals come from LinkedIn preview data and public organization pages rather than from campaign posts. The only identifiable social profile signal is a LinkedIn preview, which showed CSC - Contemporary Services Corporation, Wichita State University, VFW, American Legion, Abdallah Shriners, and a "Republican candidate for KS-03" campaign entry under Chase LaPorte 2026 as of May 11, 2026 ([source](https://www.linkedin.com/in/chase-laporte-06285b281)). The visible liked…
+  - Source: https://www.linkedin.com/in/chase-laporte-06285b281
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-roger-marshall-0011] [Hays Post: Ellis County Canvass 2025](https://hayspost.com/posts/5de6670c-0b28-4836-820e-a80866aa4e94)
+  - Source: https://hayspost.com/posts/5de6670c-0b28-4836-820e-a80866aa4e94
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak X / Twitter follow** [soc-roger-marshall-0025] Across the [28-item captured sample](social-harvest.md), Marshall’s largest category is healthcare and mental health, with 7 items, or 25 percent of the harvest; agriculture, food, and rural producers follow with 6 items, or 21 percent. The healthcare posts combine his physician title with criticism of federal health programs and proposals for replacement policy. On November 10, 2025, he posted, "Up to 40% of Obamacare enrollees never file a claim" ([source](https://x.com/RogerMarshallMD/status…
+  - Source: https://x.com/RogerMarshallMD/status/1987679877470810388
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0026] 2026-05-08** — Mental health: "Kansans take pride in serving others first, but sometimes care isn’t available when they finally need it for themselves."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong bizpacreview.com post** [soc-roger-marshall-0027] Marshall’s public alignment network is concentrated around President Trump, Senate Republicans, Kansas agriculture groups, and selected bipartisan health or food-policy partners. In the [captured sample](social-harvest.md), @POTUS or @realDonaldTrump appears in 6 items, more than any other named account or public figure. On January 13, 2026, after Trump posted support for the Credit Card Competition Act, Marshall wrote, "Thank you, President Trump, for your support!" ([source](https://www.bizpa…
+  - Source: https://www.bizpacreview.com/2026/01/13/elizabeth-warren-brags-about-how-president-trump-called-her-1615749/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong marshall.senate.gov post** [soc-roger-marshall-0028] For Kansas-specific engagement, Marshall’s official feed and Senate site include rural healthcare, small business tax policy, agriculture, cattle, school milk, fertilizer, and in-person stops across the state. On April 28, 2026, his office quoted him saying, "Kansas farmers are getting hit by a fertilizer market that’s working against them" ([source](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/)). On May 5, 202…
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Facebook absence** [soc-roger-marshall-0029] Across the captured period the feed contains no visible original posts about the Ogallala Aquifer, water rights, foster care, adoption, Medicaid expansion, local county election administration, or prescription opioid response. The captured record does include posts or official items about rural hospitals, mental health, farmers, ranchers, small businesses, western Kansas, southeast Kansas, Fort Riley military families, fertilizer costs, school milk, border enforcement, and federal healthcare sp…
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 10. Election integrity / voting / courts
+
+Election integrity / voting / courts: 41 selected evidence items from 1232 mapped rows. Public URL-backed rows: 220.
+
+### Evidence
+- **candidate-stated** [em-roger-marshall-02554] [Kansas Reflector: Gender Marker $1 Fine](https://kansasreflector.com/2026/01/20/kansas-judge-rebukes-ag-kris-kobach-in-gender-marker-case-issues-symbolic-1-fine/)
+  - Source: https://kansasreflector.com/2026/01/20/kansas-judge-rebukes-ag-kris-kobach-in-gender-marker-case-issues-symbolic-1-fine/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-03345] [Sunflower State Journal: Outside group books nearly $1M in ads](https://sunflowerstatejournal.com/judicial-amendment-campaign-shapes-up-outside-group-books-nearly-1-million-in-ads/)
+  - Source: https://sunflowerstatejournal.com/judicial-amendment-campaign-shapes-up-outside-group-books-nearly-1-million-in-ads/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-05445] 2026-03-17** — Fox Business video, "SAVE Act needed as Americans have ‘lost confidence’ in elections, GOP senator says."
+  - Source: memory/candidates/roger-marshall/social-harvest.md:137
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **candidate-stated** [em-roger-marshall-00165] Issue mapping:** Guns / Second Amendment.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:237
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00186] Issue mapping:** Election certification / public trust.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:294
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00349] Property tax reform (top issue in Statehouse; broke with party to support constitutional amendment capping property value increases for tax purposes)
+  - Source: memory/candidates/roger-marshall/raw-dump.md:189
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-03289] Ban foreign nationals** from contributing to constitutional amendment campaigns
+  - Source: memory/candidates/roger-marshall/raw-dump.md:5276
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-03457] After the amendment's defeat, he said: "While I don't have an answer, I do know that God works all things for good for those who trust him."
+  - Source: reports/roger-marshall-complete-dossier.md:95
+  - Confidence/use: likely / background-only
+- **documented-record** [em-roger-marshall-00049] [KCUR Candidate Guide](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates) — accessed 2026-03-30
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-00079] URL:** https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf
+  - Source: https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-00127] URL:** https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-votes-against-gun-grabbing-scheme/
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-votes-against-gun-grabbing-scheme/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-00327] [Kansas Reflector - Campaign Profile (Aug 2025)](https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/)
+  - Source: https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-00328] [KCUR Candidate Guide (Dec 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-00409] [KCUR Candidate Guide](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-00429] [Within Reason with Mike Matson (News Radio KMAN, March 2026)](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)
+  - Source: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-00468] [Sunflower State Journal - Announcement](https://sunflowerstatejournal.com/kck-developer-announces-for-u-s-senate-as-democratic-primary-grows-to-five/)
+  - Source: https://sunflowerstatejournal.com/kck-developer-announces-for-u-s-senate-as-democratic-primary-grows-to-five/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-roger-marshall-00074] URLs:** https://www.fec.gov/data/candidate/S0KS00315/?cycle=2026&election_full=true and https://docquery.fec.gov/pdf/220/202507229764193220/202507229764193220.pdf
+  - Source: https://www.fec.gov/data/candidate/S0KS00315/?cycle=2026&election_full=true
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-roger-marshall-00268] Campaign Finance:** As the incumbent senator, Marshall has access to a substantial war chest and national Republican fundraising apparatus. Specific 2026 cycle totals should be checked at [FEC.gov](https://www.fec.gov/data/elections/senate/KS/2026/).
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-roger-marshall-00408] [FEC Filing](https://www.fec.gov/data/candidate/S6KS00262/)
+  - Source: https://www.fec.gov/data/candidate/S6KS00262/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-roger-marshall-00634] FEC Race Page:** [2026 Election - U.S. Senate - Kansas](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-roger-marshall-00670] 4. [FEC - 2026 Kansas Senate](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-roger-marshall-02363] [FEC: 2026 Kansas Senate Election](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **social-online-signal** [em-roger-marshall-01182] [Hays Post: 2025 Election Results](https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28)
+  - Source: https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-01201] [Hays Post: 2024 Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)
+  - Source: https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-01226] [Hays Post: 2024 General Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)
+  - Source: https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-03105] [Hays Post - "Kansas Democrats wrap up Democracy Fest in Hays"](https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9)
+  - Source: https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00006] On national and foreign-policy questions, Marshall’s captured posts name Trump or administration officials on Ukraine, Iran, border enforcement, federal spending, and Senate procedure. After the February 2025 Oval Office meeting with Ukrainian President Volodymyr Zelenskyy, he posted, "Thank you, @POTUS and @VP, for standing up for America" ([source](https://www.kshb.com/news/local-news/kansas-missouri-political-leaders-offer-reaction-to-trump-zelenskyy-oval-office-meeting)). After U.S. strikes…
+  - Source: https://www.kshb.com/news/local-news/kansas-missouri-political-leaders-offer-reaction-to-trump-zelenskyy-oval-office-meeting
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-03357] [Prism News: Kansas law blocked 31,000 eligible voters](https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000)
+  - Source: https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-roger-marshall-05409] Capture source: [KCUR article embedding the post](https://www.kcur.org/politics-elections-and-government/2025-06-22/kansas-city-congresspeople-react-u-s-strike-iran-we-strongly-support-president-trump)
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-06-22/kansas-city-congresspeople-react-u-s-strike-iran-we-strongly-support-president-trump
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-05911] Across 45 Bluesky posts captured between August 17, 2025, and March 29, 2026, Davis's most frequent topic is federal accountability and opposition to named national political figures, a category that accounts for 16 posts, or 35.6 percent of the captured feed ([harvest](social-harvest.md)). On March 20, she posted, "Roger Marshall doesn't want voter ID. He wants voter suppression. And Kansas has seen this ALLLLL before. I’ll fight like hell to protect your right to vote" ([source](https://bsky.…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-roger-marshall-01956] [KCUR - Faith-based adoption law](https://www.kcur.org/politics-elections-and-government/2018-05-18/faith-based-adoption-law-signed-quickly-becoming-kansas-campaign-fodder)
+  - Source: https://www.kcur.org/politics-elections-and-government/2018-05-18/faith-based-adoption-law-signed-quickly-becoming-kansas-campaign-fodder
+  - Confidence/use: likely / use
+- **faith-community-record** [em-roger-marshall-00866] Spoke at TMP about the importance of voting (invited as elected official to Catholic school)
+  - Source: memory/candidates/roger-marshall/raw-dump.md:1134
+  - Confidence/use: likely / background-only
+- **faith-community-record** [em-roger-marshall-01046] Pushed the judicial selection amendment -- faith motivation was part of the framing
+  - Source: memory/candidates/roger-marshall/raw-dump.md:1545
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-03474] Frequent topics:** Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: reports/roger-marshall-complete-dossier.md:122
+  - Confidence/use: likely / background-only
+- **public-controversy** [em-roger-marshall-02422] Multiple sources conflict on the graduation year -- some say 1992, others 1995. The 1995 date is more consistent with his subsequent clerkship timeline (1995-1996 with Judge Tacha).
+  - Source: memory/candidates/roger-marshall/raw-dump.md:3781
+  - Confidence/use: contradicted / use-with-caveat
+  - Caveat: Use only with caveat because the raw matrix flagged conflicting or contradictory source language.
+- **background-context** [em-roger-marshall-00067] URL:** https://sos.ks.gov/elections/important-election-dates.html
+  - Source: https://sos.ks.gov/elections/important-election-dates.html
+  - Confidence/use: confirmed / use
+- **background-context** [em-roger-marshall-00614] [270toWin - Latest 2026 Senate Polls](https://www.270towin.com/polls/latest-2026-senate-election-polls/)
+  - Source: https://www.270towin.com/polls/latest-2026-senate-election-polls/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-00669] 3. [Wikipedia - 2026 Kansas Senate Election](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas)
+  - Source: https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-00687] 19. [Smart Politics - Kansas 2026 Senate Analysis](https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/)
+  - Source: https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-01224] [Ellis County Election Page](https://www.ellisco.net/425/Election)
+  - Source: https://www.ellisco.net/425/Election
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-01284] [Wikipedia: 2026 KS Gubernatorial](https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election)
+  - Source: https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous hayspost.com post** [soc-roger-marshall-0012] [Hays Post: 2025 Election Results](https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28)
+  - Source: https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-roger-marshall-0013] [Hays Post: 2024 Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)
+  - Source: https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-roger-marshall-0014] [Hays Post: 2024 General Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)
+  - Source: https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-roger-marshall-0015] [Hays Post - "Kansas Democrats wrap up Democracy Fest in Hays"](https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9)
+  - Source: https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak prismnews.com absence** [soc-roger-marshall-0023] [Prism News: Kansas law blocked 31,000 eligible voters](https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000)
+  - Source: https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **weak Facebook absence** [soc-roger-marshall-0029] Across the captured period the feed contains no visible original posts about the Ogallala Aquifer, water rights, foster care, adoption, Medicaid expansion, local county election administration, or prescription opioid response. The captured record does include posts or official items about rural hospitals, mental health, farmers, ranchers, small businesses, western Kansas, southeast Kansas, Fort Riley military families, fertilizer costs, school milk, border enforcement, and federal healthcare sp…
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **strong kshb.com post** [soc-roger-marshall-0037] On national and foreign-policy questions, Marshall’s captured posts name Trump or administration officials on Ukraine, Iran, border enforcement, federal spending, and Senate procedure. After the February 2025 Oval Office meeting with Ukrainian President Volodymyr Zelenskyy, he posted, "Thank you, @POTUS and @VP, for standing up for America" ([source](https://www.kshb.com/news/local-news/kansas-missouri-political-leaders-offer-reaction-to-trump-zelenskyy-oval-office-meeting)). After U.S. strikes…
+  - Source: https://www.kshb.com/news/local-news/kansas-missouri-political-leaders-offer-reaction-to-trump-zelenskyy-oval-office-meeting
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0050] 2026-03-17** — Fox Business video, "SAVE Act needed as Americans have ‘lost confidence’ in elections, GOP senator says."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-roger-marshall-0055] Across 45 Bluesky posts captured between August 17, 2025, and March 29, 2026, Davis's most frequent topic is federal accountability and opposition to named national political figures, a category that accounts for 16 posts, or 35.6 percent of the captured feed ([harvest](social-harvest.md)). On March 20, she posted, "Roger Marshall doesn't want voter ID. He wants voter suppression. And Kansas has seen this ALLLLL before. I’ll fight like hell to protect your right to vote" ([source](https://bsky.…
+  - Source: https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0068] 2026-04-02** — Fox News video, "Sen Roger Marshall: We can’t even get the bipartisan Farm Bill passed, much less immigration reform."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 11. Public safety / law enforcement / criminal justice
+
+Public safety / law enforcement / criminal justice: 33 selected evidence items from 216 mapped rows. Public URL-backed rows: 24.
+
+### Evidence
+- **candidate-stated** [em-roger-marshall-05478] Topic distribution in the captured sample: healthcare and mental health — 7 of 28 (25%); agriculture, food, and rural producers — 6 of 28 (21%); budget, tax, and economic messages naming Trump — 6 of 28 (21%); border, immigration, and DHS — 4 of 28 (14%); foreign policy and national security — 3 of 28 (11%); public safety and technology-platform oversight — 2 of 28 (7%).
+  - Source: memory/candidates/roger-marshall/social-harvest.md:198
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **candidate-stated** [em-roger-marshall-02029] The January 2026 killing of **Alex Pretti** by federal agents in Minneapolis was the catalyst. As a career federal law enforcement official, Hart said this event -- and the broader direction of the federal government -- compelled him to leave his career and enter politics for the first time.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:3078
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-roger-marshall-02560] Kansas Legislature added **5 FTE positions** to KBI for the team in FY2024, then **30 FTE positions and $6.9 million** in FY2025 for "Fight Against Fentanyl"
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4005
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-02575] His campaign calls this "the lowest crime rate in 20 years"
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4032
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-06146] "observation": "Topic distribution in the captured sample: healthcare and mental health — 7 of 28 (25%); agriculture, food, and rural producers — 6 of 28 (21%); budget, tax, and economic messages naming Trump — 6 of 28 (21%); border, immigration, and DHS — 4 of 28 (14%); foreign policy and national security — 3 of 28 (11%); public safety and technology-platform oversight — 2 of 28 (7%).",
+  - Source: ui/src/data/v2/roger-marshall.ts:244
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-00429] [Within Reason with Mike Matson (News Radio KMAN, March 2026)](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)
+  - Source: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-01298] [Ballotpedia: Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))
+  - Source: https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-02425] [Kansas AG Official Bio](https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach)
+  - Source: https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-02549] [Kansas AG: Vanguard ESG Settlement](https://www.ag.ks.gov/Home/Components/News/News/280/1292)
+  - Source: https://www.ag.ks.gov/Home/Components/News/News/280/1292
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-02550] [Kansas Reflector: Pfizer Lawsuit](https://kansasreflector.com/2024/06/17/kansas-ag-kobach-accuses-pfizer-of-misleading-vaccine-marketing-in-lawsuit/)
+  - Source: https://kansasreflector.com/2024/06/17/kansas-ag-kobach-accuses-pfizer-of-misleading-vaccine-marketing-in-lawsuit/
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-02553] [Kansas Reflector: THC Raids Lawsuit](https://kansasreflector.com/2026/03/26/kansas-smoke-shops-sue-state-alleging-illegal-search-and-seizure-during-thc-raids/)
+  - Source: https://kansasreflector.com/2026/03/26/kansas-smoke-shops-sue-state-alleging-illegal-search-and-seizure-during-thc-raids/
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-02588] [NBC News: 2022 Kansas AG Results](https://www.nbcnews.com/politics/2022-elections/kansas-attorney-general-results/)
+  - Source: https://www.nbcnews.com/politics/2022-elections/kansas-attorney-general-results/
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-02590] [Kansas Reflector: Mann Concedes](https://kansasreflector.com/2022/11/11/mann-surrenders-quest-to-overtake-kobach-in-kansas-race-for-attorney-general/)
+  - Source: https://kansasreflector.com/2022/11/11/mann-surrenders-quest-to-overtake-kobach-in-kansas-race-for-attorney-general/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-roger-marshall-02557] Created the **Joint Fentanyl Impact Team** in 2023
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4002
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-02647] We Build the Wall was the Steve Bannon-linked organization that raised millions for a private border wall. Bannon was later **indicted for fraud** related to the organization (pardoned by Trump), and organizer Brian Kolfage was **sentenced to 51 months in prison** for fraud
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4157
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-03177] Retired Justice Carol Beier: "Opening the process up to expensive popular elections financed by special interests was contrary to the idea of an independent judiciary."
+  - Source: memory/candidates/roger-marshall/raw-dump.md:5026
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-03183] FACT 2: The amendment is deliberately vague.** It says justices will be elected but leaves every important detail -- partisan vs. nonpartisan, campaign finance rules, nomination process -- to the Legislature. The Legislature has a Republican supermajority.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:5040
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-03662] Strength:** "Law and order" credibility as a federal prosecutor; appeal to moderates and disaffected Republicans
+  - Source: reports/roger-marshall-complete-dossier.md:375
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-roger-marshall-06084] "The people running county law enforcement, elections, property records, and tax collection are in office right now and making decisions that affect you, even though you will not vote on them again until 2028. Knowing who holds these positions — and what they have done — keeps voters informed year-round, not just on Election Day.",
+  - Source: ui/src/data/elections.ts:297
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-roger-marshall-05340] Existing local harvest:** `social-harvest.md` captured 28 original posts, official-news items, video items, and roughly 5 repost/share signals from 2024-07-28 to 2026-05-08. The largest sampled categories were healthcare/mental health (7/28), agriculture/food/rural producers (6/28), budget/tax/economic messages naming Trump (6/28), border/DHS (4/28), foreign policy (3/28), and technology/public safety (2/28).
+  - Source: memory/candidates/roger-marshall/sleuth-pass.md:60
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-05395] Topic: Public safety
+  - Source: memory/candidates/roger-marshall/social-harvest.md:44
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-02932] No court records or criminal history found** in searches.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4594
+  - Confidence/use: likely / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-03064] No court records, criminal history, or controversies found**.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4831
+  - Confidence/use: likely / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-03160] The catch nobody is talking about:** The amendment does NOT say whether these elections would be partisan (Republican vs. Democrat) or nonpartisan. It does NOT say how campaigns would be financed. It does NOT say what the nomination process would look like. ALL of those details would be decided later by the Kansas Legislature -- which is controlled by a Republican supermajority. As retired Kansas Supreme Court Justice Carol Beier put it: "It is exceedingly vague. It will be decided by the Legis…
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4986
+  - Confidence/use: likely / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-06112] "This is not a person you are voting for — it is a change to the Kansas Constitution itself. Right now, Kansas Supreme Court justices are picked by a nonpartisan commission and then confirmed by the governor. This amendment would change that so the governor picks them directly and the Senate confirms them, more like how federal judges work. Once a constitutional amendment passes, it cannot be undone by the legislature — only another vote of the people can reverse it.",
+  - Source: ui/src/data/elections.ts:346
+  - Confidence/use: likely / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **faith-community-record** [em-roger-marshall-00778] Assessment:** The "core values" language is suggestive but not conclusive. His background is law enforcement and military -- both communities where faith can be deeply held but not publicly displayed. No specific church identified. Recommend direct inquiry.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:939
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-04007] Hart is the most unconventional candidate in the Democratic primary. A career federal prosecutor who switched parties twice in one month, running on a blunt "electability" argument centered on his identity as a straight white Christian male in Kansas. His wife's quip has become his most quoted line. His lack of political experience or campaign infrastructure is either refreshingly authentic or dangerously unprepared -- depends on the voter. His 21-year record prosecuting child predators is his …
+  - Source: memory/candidates/roger-marshall/raw-dump.md:6324
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-02565] [KLRD: Kansas Law Enforcement Fentanyl Response](https://klrd.gov/2024/12/18/kansas-law-enforcement-fentanyl-response/)
+  - Source: https://klrd.gov/2024/12/18/kansas-law-enforcement-fentanyl-response/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-00211] Public safety / technology oversight: 2 of 28
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:338
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-00484] Pro-law enforcement
+  - Source: memory/candidates/roger-marshall/raw-dump.md:429
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-00798] FHSU graduate, 24 years law enforcement
+  - Source: memory/candidates/roger-marshall/raw-dump.md:990
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-01290] Justices' terms remain six years; vacancies filled by election
+  - Source: memory/candidates/roger-marshall/raw-dump.md:1946
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-01355] Ellis County Sheriff (if on cycle -- VERIFY)
+  - Source: memory/candidates/roger-marshall/raw-dump.md:2047
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate Public web / internal harvest share/repost** [soc-roger-marshall-0038] Existing local harvest:** `social-harvest.md` captured 28 original posts, official-news items, video items, and roughly 5 repost/share signals from 2024-07-28 to 2026-05-08. The largest sampled categories were healthcare/mental health (7/28), agriculture/food/rural producers (6/28), budget/tax/economic messages naming Trump (6/28), border/DHS (4/28), foreign policy (3/28), and technology/public safety (2/28).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0041] Topic distribution in the captured sample: healthcare and mental health — 7 of 28 (25%); agriculture, food, and rural producers — 6 of 28 (21%); budget, tax, and economic messages naming Trump — 6 of 28 (21%); border, immigration, and DHS — 4 of 28 (14%); foreign policy and national security — 3 of 28 (11%); public safety and technology-platform oversight — 2 of 28 (7%).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0100] Topic: Public safety
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-roger-marshall-0179] "A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest post** [soc-roger-marshall-0184] The catch nobody is talking about:** The amendment does NOT say whether these elections would be partisan (Republican vs. Democrat) or nonpartisan. It does NOT say how campaigns would be financed. It does NOT say what the nomination process would look like. ALL of those details would be decided later by the Kansas Legislature -- which is controlled by a Republican supermajority. As retired Kansas Supreme Court Justice Carol Beier put it: "It is exceedingly vague. It will be decided by the Legis…
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest post** [soc-roger-marshall-0191] "This is not a person you are voting for — it is a change to the Kansas Constitution itself. Right now, Kansas Supreme Court justices are picked by a nonpartisan commission and then confirmed by the governor. This amendment would change that so the governor picks them directly and the Senate confirms them, more like how federal judges work. Once a constitutional amendment passes, it cannot be undone by the legislature — only another vote of the people can reverse it.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest absence** [soc-roger-marshall-0209] No court records or criminal history found** in searches.
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **ambiguous Public web / internal harvest absence** [soc-roger-marshall-0211] No court records, criminal history, or controversies found**.
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **ambiguous Public web / internal harvest online-reference** [soc-roger-marshall-0391] "observation": "Topic distribution in the captured sample: healthcare and mental health — 7 of 28 (25%); agriculture, food, and rural producers — 6 of 28 (21%); budget, tax, and economic messages naming Trump — 6 of 28 (21%); border, immigration, and DHS — 4 of 28 (14%); foreign policy and national security — 3 of 28 (11%); public safety and technology-platform oversight — 2 of 28 (7%).",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-roger-marshall-0394] 4. **Attorney-Adviser, Social Security Administration** -- Federal employment, worked on disability cases and administrative law
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 12. Agriculture / rural economy / water
+
+Agriculture / rural economy / water: 41 selected evidence items from 268 mapped rows. Public URL-backed rows: 13.
+
+### Evidence
+- **candidate-stated** [em-roger-marshall-05478] Topic distribution in the captured sample: healthcare and mental health — 7 of 28 (25%); agriculture, food, and rural producers — 6 of 28 (21%); budget, tax, and economic messages naming Trump — 6 of 28 (21%); border, immigration, and DHS — 4 of 28 (14%); foreign policy and national security — 3 of 28 (11%); public safety and technology-platform oversight — 2 of 28 (7%).
+  - Source: memory/candidates/roger-marshall/social-harvest.md:198
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **candidate-stated** [em-roger-marshall-00088] Issue mapping:** Agriculture; healthcare; budget.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:72
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00134] Issue mapping:** Agriculture / school nutrition / dairy.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:164
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00136] Issue mapping:** Agriculture / school nutrition.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:170
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00138] Issue mapping:** Agriculture / input costs.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:176
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00141] Issue mapping:** Agriculture / fuel / cost of living.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:182
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00146] Issue mapping:** Mental health / rural healthcare / military families.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:196
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00174] Stated position:** On 2026-05-18, Marshall told Mundo in the Morning that his focus was cost of living, including gas, groceries, housing, child care, health care, swipe fees, and year-round E15.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:261
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-03355] [ACLU of Kansas: Supreme Court refuses proof-of-citizenship case](https://www.aclukansas.org/press-releases/resounding-victory-tens-thousands-disenfranchised-kansas-voters-supreme-court-refuses/)
+  - Source: https://www.aclukansas.org/press-releases/resounding-victory-tens-thousands-disenfranchised-kansas-voters-supreme-court-refuses/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-05438] 2026-04-02** — Fox News video, "Sen Roger Marshall: We can’t even get the bipartisan Farm Bill passed, much less immigration reform."
+  - Source: memory/candidates/roger-marshall/social-harvest.md:127
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **documented-record** [em-roger-marshall-00137] Action evidence:** On 2026-04-28, Marshall introduced the Lowering Input Costs for American Farmers Act to eliminate tariffs and countervailing duties on phosphate fertilizer imports from Morocco. The release says the bill is supported by the National Corn Growers Association, American Soybean Association, American Farm Bureau Federation, National Cotton Council, USA Rice, Sorghum Growers, and the National Association of Wheat Growers.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:172
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-00139] Action evidence:** On 2026-05-18, Marshall told Mundo in the Morning that year-round E15 would consume another 2 billion bushels of corn and framed the issue as "big oil versus the farmer."
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:178
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-00145] Action evidence:** On 2026-05-08, Marshall's office described a Military Family Mental Health Roundtable in Junction City and listed appropriations/support for FRSAN, 988, and CCBHCs. It also identified farmer/rancher and military-family mental health as priorities.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:192
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-00266] Failure to pass Farm Bill cited by multiple challengers
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:58
+  - Confidence/use: likely / background-only
+- **documented-record** [em-roger-marshall-00299] Kansas State Director, USDA Rural Development (Biden administration, 2023-January 2025)** -- oversaw more than $1.3 billion of investment in Kansas (community centers, housing developments, hospitals, clinics, nursing homes). Also led a nationwide effort to cut red tape in federal programs.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:115
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-00356] Property tax stance could appeal to rural/suburban voters across party lines
+  - Source: memory/candidates/roger-marshall/raw-dump.md:199
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00092] Finding:** The campaign homepage says Marshall serves on Agriculture, Energy & Natural Resources, HELP, and Small Business. This conflicts with the current Senate biography's Agriculture, Finance, HELP, and Budget list. Use the Senate biography for current office data because it is official office content and appears updated for the current Congress.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:82
+  - Confidence/use: contradicted / use-with-caveat
+  - Caveat: Use only with caveat because the raw matrix flagged conflicting or contradictory source language.
+- **donor-organization-signal** [em-roger-marshall-00087] Finding:** Current Senate biography lists Senate committee service as Agriculture, Nutrition, and Forestry; Finance; Health, Education, Labor, and Pensions; and Budget. It lists chairmanships of Agriculture Subcommittee on Conservation, Forestry, Natural Resources, and Biotechnology and HELP Subcommittee on Primary Health and Retirement Security.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:68
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00111] Mississippi Farm Bureau Federation Furthering Agriculture for Rural Mississippians Fund PAC: $10,000 on 2025-05-23, plus $5,000 redesignation entry.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:116
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00114] Dairy Farmers of America Inc. PAC: $5,000 on 2025-06-30.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:119
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00120] Issue mapping:** Campaign finance; agriculture; healthcare; business/transportation.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:127
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00320] Based in very rural Chase County -- small donor/volunteer base
+  - Source: memory/candidates/roger-marshall/raw-dump.md:142
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-roger-marshall-00892] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00949] [HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-05922] LaPorte's visible alignment signals come from LinkedIn preview data and public organization pages rather than from campaign posts. The only identifiable social profile signal is a LinkedIn preview, which showed CSC - Contemporary Services Corporation, Wichita State University, VFW, American Legion, Abdallah Shriners, and a "Republican candidate for KS-03" campaign entry under Chase LaPorte 2026 as of May 11, 2026 ([source](https://www.linkedin.com/in/chase-laporte-06285b281)). The visible liked…
+  - Source: https://www.linkedin.com/in/chase-laporte-06285b281
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00003] Across the [28-item captured sample](social-harvest.md), Marshall’s largest category is healthcare and mental health, with 7 items, or 25 percent of the harvest; agriculture, food, and rural producers follow with 6 items, or 21 percent. The healthcare posts combine his physician title with criticism of federal health programs and proposals for replacement policy. On November 10, 2025, he posted, "Up to 40% of Obamacare enrollees never file a claim" ([source](https://x.com/RogerMarshallMD/status…
+  - Source: https://x.com/RogerMarshallMD/status/1987679877470810388
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-00004] Marshall’s public alignment network is concentrated around President Trump, Senate Republicans, Kansas agriculture groups, and selected bipartisan health or food-policy partners. In the [captured sample](social-harvest.md), @POTUS or @realDonaldTrump appears in 6 items, more than any other named account or public figure. On January 13, 2026, after Trump posted support for the Credit Card Competition Act, Marshall wrote, "Thank you, President Trump, for your support!" ([source](https://www.bizpa…
+  - Source: https://www.bizpacreview.com/2026/01/13/elizabeth-warren-brags-about-how-president-trump-called-her-1615749/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-00007] For Kansas-specific engagement, Marshall’s official feed and Senate site include rural healthcare, small business tax policy, agriculture, cattle, school milk, fertilizer, and in-person stops across the state. On April 28, 2026, his office quoted him saying, "Kansas farmers are getting hit by a fertilizer market that’s working against them" ([source](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/)). On May 5, 202…
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-05913] Across the [14 campaign-period original or quote Bluesky posts](./social-harvest.md#summary-counts) captured after her Oct. 16, 2025 launch, Sandy Spidel Neumann's repeated campaign subjects are Kansas costs, healthcare, farms, hospitals, families, and contrast with Sen. Roger Marshall. On launch day she posted, "Every Kansan deserves a fair shot: to afford groceries, gas, housing, and a future for their kids. That’s what I’m fighting for: lower costs, good jobs, and opportunity you can count o…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-00008] Across the captured period the feed contains no visible original posts about the Ogallala Aquifer, water rights, foster care, adoption, Medicaid expansion, local county election administration, or prescription opioid response. The captured record does include posts or official items about rural hospitals, mental health, farmers, ranchers, small businesses, western Kansas, southeast Kansas, Fort Riley military families, fertilizer costs, school milk, border enforcement, and federal healthcare sp…
+  - Source: memory/candidates/roger-marshall/in-their-own-words.md:17
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-roger-marshall-00090] Issue mapping:** Faith/community metadata; life; healthcare; agriculture/food.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:78
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-00945] Received donation check from Trinity Lutheran Church for school food pantries (professional interaction, not personal affiliation)
+  - Source: memory/candidates/roger-marshall/raw-dump.md:1348
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-01136] This is not surprising -- Ellis County was settled by German-Catholic Volga Germans in the 1870s, and Catholicism remains the dominant faith tradition. The three Catholic parishes in Hays (St. Joseph, Immaculate Heart of Mary, St. Nicholas of Myra) plus the surrounding rural parishes form the backbone of the local power structure.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:1687
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-03474] Frequent topics:** Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: reports/roger-marshall-complete-dossier.md:122
+  - Confidence/use: likely / background-only
+- **public-controversy** [em-roger-marshall-03575] The confrontation:** Constituents immediately began peppering Marshall with angry questions about DOGE cuts, the Ukraine conflict, hollowing of federal agencies, and rural healthcare. The crowd booed and shouted.
+  - Source: reports/roger-marshall-complete-dossier.md:252
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **background-context** [em-roger-marshall-04085] [USDA: KS State Director announcement](https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas)
+  - Source: https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-04399] [Municipal Water Leader Magazine](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)
+  - Source: https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-04400] [KWCH: $15M grant](https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/)
+  - Source: https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-04401] [E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)
+  - Source: https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-04456] [Manta: L5 Farms Inc](https://www.manta.com/c/mhxwpdc/l5-farms-inc)
+  - Source: https://www.manta.com/c/mhxwpdc/l5-farms-inc
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-00132] 4.2 Agriculture, food, and rural economy
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:158
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous hayspost.com post** [soc-roger-marshall-0002] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-roger-marshall-0003] [HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous LinkedIn post** [soc-roger-marshall-0010] LaPorte's visible alignment signals come from LinkedIn preview data and public organization pages rather than from campaign posts. The only identifiable social profile signal is a LinkedIn preview, which showed CSC - Contemporary Services Corporation, Wichita State University, VFW, American Legion, Abdallah Shriners, and a "Republican candidate for KS-03" campaign entry under Chase LaPorte 2026 as of May 11, 2026 ([source](https://www.linkedin.com/in/chase-laporte-06285b281)). The visible liked…
+  - Source: https://www.linkedin.com/in/chase-laporte-06285b281
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak X / Twitter follow** [soc-roger-marshall-0025] Across the [28-item captured sample](social-harvest.md), Marshall’s largest category is healthcare and mental health, with 7 items, or 25 percent of the harvest; agriculture, food, and rural producers follow with 6 items, or 21 percent. The healthcare posts combine his physician title with criticism of federal health programs and proposals for replacement policy. On November 10, 2025, he posted, "Up to 40% of Obamacare enrollees never file a claim" ([source](https://x.com/RogerMarshallMD/status…
+  - Source: https://x.com/RogerMarshallMD/status/1987679877470810388
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong bizpacreview.com post** [soc-roger-marshall-0027] Marshall’s public alignment network is concentrated around President Trump, Senate Republicans, Kansas agriculture groups, and selected bipartisan health or food-policy partners. In the [captured sample](social-harvest.md), @POTUS or @realDonaldTrump appears in 6 items, more than any other named account or public figure. On January 13, 2026, after Trump posted support for the Credit Card Competition Act, Marshall wrote, "Thank you, President Trump, for your support!" ([source](https://www.bizpa…
+  - Source: https://www.bizpacreview.com/2026/01/13/elizabeth-warren-brags-about-how-president-trump-called-her-1615749/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong marshall.senate.gov post** [soc-roger-marshall-0028] For Kansas-specific engagement, Marshall’s official feed and Senate site include rural healthcare, small business tax policy, agriculture, cattle, school milk, fertilizer, and in-person stops across the state. On April 28, 2026, his office quoted him saying, "Kansas farmers are getting hit by a fertilizer market that’s working against them" ([source](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/)). On May 5, 202…
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Facebook absence** [soc-roger-marshall-0029] Across the captured period the feed contains no visible original posts about the Ogallala Aquifer, water rights, foster care, adoption, Medicaid expansion, local county election administration, or prescription opioid response. The captured record does include posts or official items about rural hospitals, mental health, farmers, ranchers, small businesses, western Kansas, southeast Kansas, Fort Riley military families, fertilizer costs, school milk, border enforcement, and federal healthcare sp…
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0036] Across the captured sample the feed contains direct local content about rural hospitals, mental health, farmers, ranchers, small businesses, western Kansas, southeast Kansas, Fort Riley military families, fertilizer costs, and school milk.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Public web / internal harvest share/repost** [soc-roger-marshall-0038] Existing local harvest:** `social-harvest.md` captured 28 original posts, official-news items, video items, and roughly 5 repost/share signals from 2024-07-28 to 2026-05-08. The largest sampled categories were healthcare/mental health (7/28), agriculture/food/rural producers (6/28), budget/tax/economic messages naming Trump (6/28), border/DHS (4/28), foreign policy (3/28), and technology/public safety (2/28).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0041] Topic distribution in the captured sample: healthcare and mental health — 7 of 28 (25%); agriculture, food, and rural producers — 6 of 28 (21%); budget, tax, and economic messages naming Trump — 6 of 28 (21%); border, immigration, and DHS — 4 of 28 (14%); foreign policy and national security — 3 of 28 (11%); public safety and technology-platform oversight — 2 of 28 (7%).
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 13. Local governance / transparency / ethics
+
+Local governance / transparency / ethics: 42 selected evidence items from 1574 mapped rows. Public URL-backed rows: 231.
+
+### Evidence
+- **candidate-stated** [em-roger-marshall-00467] [Kansas Reflector - Campaign Profile (Mar 2026)](https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/)
+  - Source: https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-02353] [Kansas Reflector: Kansas City entrepreneur prioritizes passion, decency](https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/) (Mar 16, 2026)
+  - Source: https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-roger-marshall-00071] Issue mapping:** Biography / office status.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:28
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00084] Finding:** Marshall's Senate biography says he is a physician, father, grandfather, and U.S. senator for Kansas; graduated from Butler County Community College, Kansas State University, and the University of Kansas School of Medicine; practiced medicine in Great Bend for more than 25 years; served seven years in the Army Reserve; and delivered more than 5,000 babies as an OB-GYN.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:61
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00168] Additional leads:** Marshall's Senate office also lists No REGISTRY Rights Act, SHUSH Act, and Modern Firearms Safety Act releases. These can be added if the final issue card needs more gun-policy breadth.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:245
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00331] Tier:** Top Tier -- only current elected official in the race, military intelligence background, prior congressional campaign experience
+  - Source: memory/candidates/roger-marshall/raw-dump.md:162
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-roger-marshall-00370] Tier:** Upper Tier -- strong corporate credentials, Johnson County base, well-articulated platform
+  - Source: memory/candidates/roger-marshall/raw-dump.md:225
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-00525] Multiple prior campaigns (local, state, federal) -- none successful at higher levels
+  - Source: memory/candidates/roger-marshall/raw-dump.md:495
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-00049] [KCUR Candidate Guide](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates) — accessed 2026-03-30
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-00079] URL:** https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf
+  - Source: https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-00140] "url": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-we-must-treat-the-root-cause-of-mental-health-not-just-medicate-it/",
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-we-must-treat-the-root-cause-of-mental-health-not-just-medicate-it/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-00327] [Kansas Reflector - Campaign Profile (Aug 2025)](https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/)
+  - Source: https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-00328] [KCUR Candidate Guide (Dec 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-00367] [WIBW - State Senator Files for U.S. Senate (Feb 2026)](https://www.wibw.com/2026/02/05/kansas-state-senator-files-us-senate/)
+  - Source: https://www.wibw.com/2026/02/05/kansas-state-senator-files-us-senate/
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-00409] [KCUR Candidate Guide](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-roger-marshall-00468] [Sunflower State Journal - Announcement](https://sunflowerstatejournal.com/kck-developer-announces-for-u-s-senate-as-democratic-primary-grows-to-five/)
+  - Source: https://sunflowerstatejournal.com/kck-developer-announces-for-u-s-senate-as-democratic-primary-grows-to-five/
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-roger-marshall-00074] URLs:** https://www.fec.gov/data/candidate/S0KS00315/?cycle=2026&election_full=true and https://docquery.fec.gov/pdf/220/202507229764193220/202507229764193220.pdf
+  - Source: https://www.fec.gov/data/candidate/S0KS00315/?cycle=2026&election_full=true
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-roger-marshall-00268] Campaign Finance:** As the incumbent senator, Marshall has access to a substantial war chest and national Republican fundraising apparatus. Specific 2026 cycle totals should be checked at [FEC.gov](https://www.fec.gov/data/elections/senate/KS/2026/).
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-roger-marshall-00408] [FEC Filing](https://www.fec.gov/data/candidate/S6KS00262/)
+  - Source: https://www.fec.gov/data/candidate/S6KS00262/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-roger-marshall-00634] FEC Race Page:** [2026 Election - U.S. Senate - Kansas](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-roger-marshall-00643] Kansas Public Disclosure Commission:** [kpdc.kansas.gov](https://kpdc.kansas.gov/campaign-finance/view-submitted-forms-and-reports/)
+  - Source: https://kpdc.kansas.gov/campaign-finance/view-submitted-forms-and-reports/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-roger-marshall-00670] 4. [FEC - 2026 Kansas Senate](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **social-online-signal** [em-roger-marshall-00755] [HaysPost: Hays city commission incumbents re-elected](https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31)
+  - Source: https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00780] [HaysPost: Officer on de-escalation training](https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930)
+  - Source: https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00815] [HaysPost: New Ellis County Attorney](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1)
+  - Source: https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00869] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-01239] [Hays Post: Ellis County Canvass 2025](https://hayspost.com/posts/5de6670c-0b28-4836-820e-a80866aa4e94)
+  - Source: https://hayspost.com/posts/5de6670c-0b28-4836-820e-a80866aa4e94
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-03126] [Hays Post - "Kansas First Congressional District has a new candidate"](https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7)
+  - Source: https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-03127] [Great Bend Post - "Kansas First Congressional District has a new candidate"](https://greatbendpost.com/posts/d2d97c94-1d35-4fc6-a09d-3453408c580e)
+  - Source: https://greatbendpost.com/posts/d2d97c94-1d35-4fc6-a09d-3453408c580e
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-04116] [Johnson County Post photo](https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/)
+  - Source: https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **faith-community-record** [em-roger-marshall-02408] Church**: Married at St. Michael's Episcopal Church, Kansas City, KS. Reported attendance at Open Door Baptist Church, Kansas City, KS (as of 2018; current status unverified).
+  - Source: memory/candidates/roger-marshall/raw-dump.md:3758
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **faith-community-record** [em-roger-marshall-00082] 2. Biography, Committee Assignments, Faith / Community
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:57
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-roger-marshall-00509] Described himself as "white, male, Christian, hetero, 2A-friendly, LEO-friendly, and very clearly anti-pedo" as reasons he's the best Democratic candidate. (Kansas Reflector)
+  - Source: memory/candidates/roger-marshall/raw-dump.md:462
+  - Confidence/use: likely / background-only
+- **faith-community-record** [em-roger-marshall-00726] CONFIRMED** = Named church/denomination found in official profile, news article, or candidate bio
+  - Source: memory/candidates/roger-marshall/raw-dump.md:819
+  - Confidence/use: likely / background-only
+- **public-controversy** [em-roger-marshall-02929] Lives in Lawrence**: While Lawrence is technically in KS-01 (since 2022 redistricting), it is the most liberal city in the district and culturally distinct from western Kansas. This is a vulnerability -- opponents can paint him as an eastern Kansas liberal running in a western Kansas district.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4591
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-roger-marshall-05828] county-tour messaging. The most documented conflict in the reviewed
+  - Source: memory/candidates/roger-marshall/v2-issues.yaml:623
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-00800] [Kansas Sheriffs' Association - Ellis County](https://www.kansassheriffs.org/county_map/county/914)
+  - Source: https://www.kansassheriffs.org/county_map/county/914
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-00858] [FHSU: Germans from Russia in Ellis County](https://fhsuguides.fhsu.edu/kansasheritage/elliscounty)
+  - Source: https://fhsuguides.fhsu.edu/kansasheritage/elliscounty
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-00877] [Ellis County: Register of Deeds](https://www.ellisco.net/100/Register-of-Deeds)
+  - Source: https://www.ellisco.net/100/Register-of-Deeds
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-00878] [Kansas Register of Deeds Association](https://ksrods.com/contact-information/ellis-county-el-nc-district/)
+  - Source: https://ksrods.com/contact-information/ellis-county-el-nc-district/
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-01066] [KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)
+  - Source: https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine
+  - Confidence/use: likely / use
+- **background-context** [em-roger-marshall-01180] [Hays City Commission Official Page](https://www.haysusa.com/269/City-Commission)
+  - Source: https://www.haysusa.com/269/City-Commission
+  - Confidence/use: confirmed / use
+
+### Social / Online Signals
+- **ambiguous hayspost.com post** [soc-roger-marshall-0001] [HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)
+  - Source: https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-roger-marshall-0007] [HaysPost: Officer on de-escalation training](https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930)
+  - Source: https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous LinkedIn post** [soc-roger-marshall-0010] LaPorte's visible alignment signals come from LinkedIn preview data and public organization pages rather than from campaign posts. The only identifiable social profile signal is a LinkedIn preview, which showed CSC - Contemporary Services Corporation, Wichita State University, VFW, American Legion, Abdallah Shriners, and a "Republican candidate for KS-03" campaign entry under Chase LaPorte 2026 as of May 11, 2026 ([source](https://www.linkedin.com/in/chase-laporte-06285b281)). The visible liked…
+  - Source: https://www.linkedin.com/in/chase-laporte-06285b281
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-roger-marshall-0011] [Hays Post: Ellis County Canvass 2025](https://hayspost.com/posts/5de6670c-0b28-4836-820e-a80866aa4e94)
+  - Source: https://hayspost.com/posts/5de6670c-0b28-4836-820e-a80866aa4e94
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-roger-marshall-0016] [HaysPost: Hays city commission incumbents re-elected](https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31)
+  - Source: https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-roger-marshall-0017] [HaysPost: New Ellis County Attorney](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1)
+  - Source: https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-roger-marshall-0018] [Hays Post - "Kansas First Congressional District has a new candidate"](https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7)
+  - Source: https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous greatbendpost.com post** [soc-roger-marshall-0019] [Great Bend Post - "Kansas First Congressional District has a new candidate"](https://greatbendpost.com/posts/d2d97c94-1d35-4fc6-a09d-3453408c580e)
+  - Source: https://greatbendpost.com/posts/d2d97c94-1d35-4fc6-a09d-3453408c580e
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous johnsoncountypost.com post** [soc-roger-marshall-0020] [Johnson County Post photo](https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/)
+  - Source: https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-roger-marshall-0021] [Hays Post: Candidate Profile](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd)
+  - Source: https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 14. Environment / energy / land use
+
+Environment / energy / land use: 31 selected evidence items from 47 mapped rows. Public URL-backed rows: 5.
+
+### Evidence
+- **candidate-stated** [em-roger-marshall-00174] Stated position:** On 2026-05-18, Marshall told Mundo in the Morning that his focus was cost of living, including gas, groceries, housing, child care, health care, swipe fees, and year-round E15.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:261
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-roger-marshall-05792] "body": "Marshall said his focus was cost of living and named gas, groceries, housing, child care, health care, swipe fees, and year-round E15.",
+  - Source: ui/src/data/v2/roger-marshall.ts:335
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-04946] — [marshall.senate.gov press release, March 28, 2026](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-praises-trump-admins-historic-renewable-fuel-standard-rule/)
+  - Source: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-praises-trump-admins-historic-renewable-fuel-standard-rule/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-roger-marshall-00139] Action evidence:** On 2026-05-18, Marshall told Mundo in the Morning that year-round E15 would consume another 2 billion bushels of corn and framed the issue as "big oil versus the farmer."
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:178
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-02934] McRoberts is the more polished and better-resourced of the two Democratic candidates. He has a real professional pedigree (Harvard Law, international consulting, university professor), a clear campaign message centered on negotiation and deal-making, and came to the race with a viral moment (the Marshall town hall video). He is running a "businessman, not politician" campaign in a district where that frame has appeal. His weakness is that he lives in Lawrence, has no roots in western Kansas, an…
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4598
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-03022] 7. **Manager, Environment, Health & Safety, PureField Ingredients** -- Current role. PureField is a wheat protein (vital wheat gluten) and biofuels manufacturer in Russell, Kansas. Senator Jerry Moran has visited the facility.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4755
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-03275] The AG is Kansas's top law enforcement officer. They prosecute major crimes that cross county lines, defend the state in lawsuits, issue legal opinions that guide state agencies, enforce consumer protection laws, go after fraud, and represent Kansas in cases at the U.S. Supreme Court. The AG's office shapes how aggressively Kansas enforces everything from environmental laws to election rules.
+  - Source: memory/candidates/roger-marshall/raw-dump.md:5246
+  - Confidence/use: likely / background-only
+- **documented-record** [em-roger-marshall-04689] League of Conservation Voters**: Low score (specific number requires direct page access)
+  - Source: memory/candidates/roger-marshall/raw-dump.md:7484
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-05360] Kansas SOS live candidate list could not be captured in this environment. Recheck the SOS list after the 2026-06-01 candidate filing deadline.
+  - Source: memory/candidates/roger-marshall/sleuth-pass.md:88
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-roger-marshall-05586] "Marshall said year-round E15 could consume another 2 billion bushels of corn"
+  - Source: memory/candidates/roger-marshall/v2-issues.yaml:192
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-00092] Finding:** The campaign homepage says Marshall serves on Agriculture, Energy & Natural Resources, HELP, and Small Business. This conflicts with the current Senate biography's Agriculture, Finance, HELP, and Budget list. Use the Senate biography for current office data because it is official office content and appears updated for the current Congress.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:82
+  - Confidence/use: contradicted / use-with-caveat
+  - Caveat: Use only with caveat because the raw matrix flagged conflicting or contradictory source language.
+- **donor-organization-signal** [em-roger-marshall-05460] 2026-04-20** — Wichita small-business roundtable covered capital access, tax relief, workforce development, aerospace, environmental services, hospitality, and construction.
+  - Source: memory/candidates/roger-marshall/social-harvest.md:172
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **donor-organization-signal** [em-roger-marshall-00087] Finding:** Current Senate biography lists Senate committee service as Agriculture, Nutrition, and Forestry; Finance; Health, Education, Labor, and Pensions; and Budget. It lists chairmanships of Agriculture Subcommittee on Conservation, Forestry, Natural Resources, and Biotechnology and HELP Subcommittee on Primary Health and Retirement Security.
+  - Source: memory/candidates/roger-marshall/raw-dump-v2.md:68
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-roger-marshall-03892] Chairman,** Subcommittee on Conservation, Forestry, Natural Resources, and Biotechnology
+  - Source: reports/roger-marshall-complete-dossier.md:706
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-roger-marshall-03895] Member, Subcommittee on Energy, Natural Resources, and Infrastructure
+  - Source: reports/roger-marshall-complete-dossier.md:710
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-roger-marshall-04729] Praised Trump administration's Renewable Fuel Standard rule (March 2026)
+  - Source: memory/candidates/roger-marshall/raw-dump.md:7530
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-roger-marshall-00892] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-00949] [HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-05913] Across the [14 campaign-period original or quote Bluesky posts](./social-harvest.md#summary-counts) captured after her Oct. 16, 2025 launch, Sandy Spidel Neumann's repeated campaign subjects are Kansas costs, healthcare, farms, hospitals, families, and contrast with Sen. Roger Marshall. On launch day she posted, "Every Kansan deserves a fair shot: to afford groceries, gas, housing, and a future for their kids. That’s what I’m fighting for: lower costs, good jobs, and opportunity you can count o…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-05915] Her Kansas-specific campaign posts use statewide household and healthcare language more than county-by-county policy detail. On Dec. 18, 2025, she posted, "Quick reality check, per AAA, the average gas price Kansans are paying is $2.526/gal. Finney County has the lowest average price at $2.174 and Lincoln County has the highest averaging almost $3.10/gal. Kansans deserve better." ([source](https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e)). On Oct. 18, 2025, she wrote, "Great to…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-05432] No individual Facebook post text or engagement totals were safely visible from the logged-out capture environment.
+  - Source: memory/candidates/roger-marshall/social-harvest.md:119
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-roger-marshall-05320] Status note:** The Kansas SOS live "upcoming candidate" endpoint returned a blank three-line page through the browser tool and a CloudFront 403 through `curl` in this environment. Treat FEC candidacy as confirmed; treat state ballot status as needing final verification after the 2026-06-01 filing deadline and SOS publication/certification.
+  - Source: memory/candidates/roger-marshall/sleuth-pass.md:25
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-05351] Agriculture / rural economy / food:** Strongest current action lane. Use S.222/public law, fertilizer bill, cattle/farm releases, year-round E15 comments, and farm/ranch mental-health resources.
+  - Source: memory/candidates/roger-marshall/sleuth-pass.md:75
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-roger-marshall-05502] "Kansas SOS live candidate-list capture was blocked/blank in this environment; FEC candidacy is confirmed, but final state ballot status should be rechecked after the 2026-06-01 filing deadline."
+  - Source: memory/candidates/roger-marshall/v2-issues.yaml:14
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **public-controversy** [em-roger-marshall-02755] 17. Fired Morgan & Morgan law firm from the natural gas price-gouging case, allegedly because the firm's founder donated to Democrats -- had to backtrack after legal experts warned of retaliation liability
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4312
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-00438] First-generation immigrant spouse could become a liability in anti-immigration political climate
+  - Source: memory/candidates/roger-marshall/raw-dump.md:334
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-01310] Water District / Utility Boards
+  - Source: memory/candidates/roger-marshall/raw-dump.md:1976
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-01312] The City of Hays manages its own water utility through the city commission
+  - Source: memory/candidates/roger-marshall/raw-dump.md:1978
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-02407] Wife's Background**: B.S. in Biological and Biosystems Engineering, University of Nebraska (2000). Worked as environmental scientist/engineer at Black & Veatch (2000-2008). Operates part-time photography business "Kobagraphy."
+  - Source: memory/candidates/roger-marshall/raw-dump.md:3757
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-03007] Occupation**: Manager, Environment, Health & Safety at PureField Ingredients (Russell, KS)
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4734
+  - Confidence/use: unknown / background-only
+- **background-context** [em-roger-marshall-03021] 6. **Director, Health For Kansas Manufacturing, Jacam Catalyst** -- Oilfield chemicals (Sterling, KS)
+  - Source: memory/candidates/roger-marshall/raw-dump.md:4754
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous hayspost.com post** [soc-roger-marshall-0002] [HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-roger-marshall-0003] [HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)
+  - Source: https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-roger-marshall-0040] 2026-04-20** — Wichita small-business roundtable covered capital access, tax relief, workforce development, aerospace, environmental services, hospitality, and construction.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-roger-marshall-0042] Her Kansas-specific campaign posts use statewide household and healthcare language more than county-by-county policy detail. On Dec. 18, 2025, she posted, "Quick reality check, per AAA, the average gas price Kansans are paying is $2.526/gal. Finney County has the lowest average price at $2.174 and Lincoln County has the highest averaging almost $3.10/gal. Kansans deserve better." ([source](https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e)). On Oct. 18, 2025, she wrote, "Great to…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **strong Bluesky post** [soc-roger-marshall-0056] Across the [14 campaign-period original or quote Bluesky posts](./social-harvest.md#summary-counts) captured after her Oct. 16, 2025 launch, Sandy Spidel Neumann's repeated campaign subjects are Kansas costs, healthcare, farms, hospitals, families, and contrast with Sen. Roger Marshall. On launch day she posted, "Every Kansan deserves a fair shot: to afford groceries, gas, housing, and a future for their kids. That’s what I’m fighting for: lower costs, good jobs, and opportunity you can count o…
+  - Source: https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Facebook post** [soc-roger-marshall-0144] No individual Facebook post text or engagement totals were safely visible from the logged-out capture environment.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest post** [soc-roger-marshall-0389] "Local city decisions shape day-to-day life faster than almost anything else: utility projects, zoning, housing growth, city spending, and how Hays responds to long-running issues like water.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-roger-marshall-0392] "text": "Marshall's current materials connect cost of living to healthcare prices,\ncredit-card swipe fees, fuel/E15, housing, child care, and federal budget\nprocess. His budget-process release calls for structural changes to CBO\ntransparency, baselines, biennial budgeting, deadline enforcement, and\nzero-based budgeting with Social Security, Medicare, and Medicaid exempted.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest comment** [soc-roger-marshall-0399] Agriculture / rural economy / food:** Strongest current action lane. Use S.222/public law, fertilizer bill, cattle/farm releases, year-round E15 comments, and farm/ranch mental-health resources.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest absence** [soc-roger-marshall-0446] Status note:** The Kansas SOS live "upcoming candidate" endpoint returned a blank three-line page through the browser tool and a CloudFront 403 through `curl` in this environment. Treat FEC candidacy as confirmed; treat state ballot status as needing final verification after the 2026-06-01 filing deadline and SOS publication/certification.
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.

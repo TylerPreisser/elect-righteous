@@ -1,0 +1,1975 @@
+# Fixed 14-Issue Matrix — jason-hart — 2026-05-20
+
+This matrix is built from `evidence-matrix.json`, `social-evidence-matrix.json`, and `source-audit.json`. It is a candidate-rebuild input, not final public prose.
+
+## 1. Abortion / life
+
+Abortion / life: 41 selected evidence items from 77 mapped rows. Public URL-backed rows: 4.
+
+### Evidence
+- **candidate-stated** [em-jason-hart-00143] Reports he said he was pro-choice on abortion.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:199
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-jason-hart-00212] Secondary evidence: KMUW/Kansas Reflector reports Hart said he is pro-choice on abortion.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:299
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-jason-hart-01483] Abortion / Life Issues
+  - Source: memory/candidates/jason-hart/raw-dump.md:2136
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-01492] Opposes taxpayer funding of abortion providers
+  - Source: memory/candidates/jason-hart/raw-dump.md:2145
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-01494] Has said he **opposes abortion including in cases of rape and incest**
+  - Source: memory/candidates/jason-hart/raw-dump.md:2147
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-02655] Abortion / Sanctity of Life**: Has not taken a specific public position on abortion in the available record.
+  - Source: memory/candidates/jason-hart/site-profile.md:19
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-02784] KMUW/Kansas Reflector reports Hart said he is pro-choice on abortion.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:60
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-jason-hart-03089] "Article reports Hart said he was pro-choice on abortion"
+  - Source: memory/candidates/jason-hart/v2-issues.yaml:232
+  - Confidence/use: likely / background-only
+- **documented-record** [em-jason-hart-01953] [National Pro-Life Scorecard](https://sbaprolife.org/senator/roger-marshall)
+  - Source: https://sbaprolife.org/senator/roger-marshall
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-00095] Reproductive rights: support Kansans' 2022 vote, respect bodily autonomy, provide parents with longer paid leave.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:126
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00557] Changed from pro-life to pro-choice after "Kansans voted for bodily autonomy" in the 2022 abortion referendum
+  - Source: memory/candidates/jason-hart/raw-dump.md:504
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00571] Key Quote:** His website says he changed his mind on abortion after "Kansans voted for bodily autonomy." (KCUR)
+  - Source: memory/candidates/jason-hart/raw-dump.md:524
+  - Confidence/use: likely / background-only
+- **documented-record** [em-jason-hart-00747] Kansas is not as red as it looks on paper. The 2022 abortion referendum (Value Them Both Amendment) was defeated 59%-41%, proving that Kansas voters will cross party lines on specific issues. Gov. Laura Kelly, a Democrat, won two terms. The question is whether any of these Democrats can replicate that crossover appeal at the federal level.
+  - Source: memory/candidates/jason-hart/raw-dump.md:821
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00978] Kansas House Speaker with 30 years in the insurance industry, running on a **"Pro-Life. Pro-Gun. Pro-Trump."** platform -- but now facing intense scrutiny for using his Speaker's power to **block a bipartisan prescription drug cost bill** that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1272
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-01150] 1. The Abortion Ruling (2019):** The Kansas Supreme Court ruled 6-1 that the Kansas Constitution protects a right to "personal autonomy," including the right to decide whether to continue a pregnancy. This made Kansas one of the strongest states for abortion rights -- decided by appointed justices, not elected ones.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1543
+  - Confidence/use: likely / background-only
+- **documented-record** [em-jason-hart-01153] Kansas Reflector explicitly headlined their coverage: "Kansas Senate adopts plan to elect Supreme Court justices, a step toward overturning abortion rights."
+  - Source: memory/candidates/jason-hart/raw-dump.md:1549
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-jason-hart-01485] National Pro-Life Scorecard (SBA Pro-Life America):** Perfect score
+  - Source: memory/candidates/jason-hart/raw-dump.md:2138
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01595] | Anti-abortion organizations | Multiple PACs | Strong pro-life funding base |
+  - Source: memory/candidates/jason-hart/raw-dump.md:2280
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01871] | SBA Pro-Life America | A+ / Perfect Score |
+  - Source: memory/candidates/jason-hart/raw-dump.md:2666
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01921] Very few vulnerabilities from the right; Heritage Action 89-94%, pro-life 100%, NRA-aligned, Trump-endorsed
+  - Source: memory/candidates/jason-hart/raw-dump.md:2738
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01928] 100% pro-life voting record backed by personal experience delivering 5,000+ babies
+  - Source: memory/candidates/jason-hart/raw-dump.md:2746
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-03483] "Judicial selection changes can outlast any single election cycle and affect abortion law, school funding, constitutional rights, and the court's independence from direct political pressure.",
+  - Source: ui/src/data/elections.ts:344
+  - Confidence/use: likely / background-only
+- **social-online-signal** [em-jason-hart-00003] Across [35 captured Bluesky posts](social-harvest.md), Hart's largest single category is policy and issue statements, with 14 posts, or 40 percent of the captured original feed. The March 16 opening post wrote, "Jason Hart has filed to run for U.S. Senate" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)), then listed family bills, health, veterans, immigration, and children online as the opening frame. On April 23, he wrote, "Rural Kansas needs real access to …
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00008] Across the captured social period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name. Across the captured social period the feed contains no post-length discussion of abortion, though the official campaign issues page lists Protecting Reproductive Rights and Support Kansans' 2022 Vote ([source](https://hartforsenate.com/issues)). Across the captured social period the feed co…
+  - Source: https://hartforsenate.com/issues
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02941] Issues page: [hartforsenate.com/issues](https://hartforsenate.com/issues) lists ten issue areas: Assert Congressional Authority; Provide for Our Veterans; Provide for Kansans' Health; Promote Rational Immigration Solutions; Help Rural Kansas; Recognize Our Shared Dignity; Protect Public Education; Protecting Reproductive Rights; Hold Big Tech Accountable; Promote Democratic Values.
+  - Source: https://hartforsenate.com/issues
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00213] Social evidence: no lengthy abortion-focused Bluesky post found in the reviewed feed; avoid overstating social emphasis.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:300
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02958] Across the captured Bluesky period the feed contains no post-length discussion of abortion; the official issues page lists "Protecting Reproductive Rights" and "Support Kansans' 2022 Vote."
+  - Source: memory/candidates/jason-hart/social-harvest.md:245
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00018] Hart has no legislative voting record in the reviewed sources. His action record is campaign filing activity, candidate-controlled platform statements, public social posts, public appearances, and his prior prosecutorial work as documented by the campaign, news reporting, and DOJ press releases. His current issue profile is unusually explicit for a first-time candidate: congressional oversight, tariffs/foreign policy, veterans, healthcare, immigration, rural Kansas, LGBTQ/civil rights, educatio…
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:11
+  - Confidence/use: likely / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-jason-hart-00071] Homepage issue index lists: Assert Congressional Authority; Provide for Our Veterans; Provide for Kansans' Health; Promote Rational Immigration Solutions; Help Rural Kansas; Recognize Our Shared Dignity; Protect Public Education; Protect Reproductive Rights; Hold Big Tech Accountable; Promote Democratic Values.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:92
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-jason-hart-01013] Weaknesses**: The SB 360 debacle is a gift to his opponent. Being overruled 104-17 by your own caucus is humiliating. The "Pro-Trump" branding may help in a primary but could limit crossover appeal in a general election -- especially after the 2022 abortion referendum showed Kansas voters will cross party lines. The term-limit motivation for running (he's being forced out as Speaker) makes this look like a fallback rather than a calling.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1329
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **faith-community-record** [em-jason-hart-01449] His pro-life stance is directly connected to his faith and his experience delivering 5,000+ babies
+  - Source: memory/candidates/jason-hart/raw-dump.md:2086
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jason-hart-01470] Frequent topics:** Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/jason-hart/raw-dump.md:2116
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jason-hart-01776] "Tonight, we must still go to bed with faith and hope, for tomorrow we must be as dedicated to the sanctity of life." (After Value Them Both defeat)
+  - Source: memory/candidates/jason-hart/raw-dump.md:2535
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jason-hart-02201] Adoption:** Given up for adoption at birth into a "right wing, fundamentalist, Roman Catholic family" (pre-Roe v. Wade)
+  - Source: memory/candidates/jason-hart/raw-dump.md:3220
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-jason-hart-00568] Former Republican who called himself "conservative" and "pro-life" as recently as 2019 -- position shifts invite scrutiny
+  - Source: memory/candidates/jason-hart/raw-dump.md:520
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00210] 8. Reproductive rights
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:296
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00412] Protecting reproductive freedom
+  - Source: memory/candidates/jason-hart/raw-dump.md:251
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00573] Ideological inconsistency (conservative pro-life Republican in 2019, now running as a Democrat)
+  - Source: memory/candidates/jason-hart/raw-dump.md:530
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00838] Reproductive freedom**
+  - Source: memory/candidates/jason-hart/raw-dump.md:975
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00841] "In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Source: memory/candidates/jason-hart/raw-dump.md:982
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00996] Website headline: **"PRO-LIFE. PRO-GUN. PRO-TRUMP."**
+  - Source: memory/candidates/jason-hart/raw-dump.md:1301
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **strong Bluesky post** [soc-jason-hart-0012] Across [35 captured Bluesky posts](social-harvest.md), Hart's largest single category is policy and issue statements, with 14 posts, or 40 percent of the captured original feed. The March 16 opening post wrote, "Jason Hart has filed to run for U.S. Senate" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)), then listed family bills, health, veterans, immigration, and children online as the opening frame. On April 23, he wrote, "Rural Kansas needs real access to …
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate hartforsenate.com share/repost** [soc-jason-hart-0013] Across the captured social period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name. Across the captured social period the feed contains no post-length discussion of abortion, though the official campaign issues page lists Protecting Reproductive Rights and Support Kansans' 2022 Vote ([source](https://hartforsenate.com/issues)). Across the captured social period the feed co…
+  - Source: https://hartforsenate.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky absence** [soc-jason-hart-0014] Social evidence: no lengthy abortion-focused Bluesky post found in the reviewed feed; avoid overstating social emphasis.
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **moderate hartforsenate.com share/repost** [soc-jason-hart-0015] Issues page: [hartforsenate.com/issues](https://hartforsenate.com/issues) lists ten issue areas: Assert Congressional Authority; Provide for Our Veterans; Provide for Kansans' Health; Promote Rational Immigration Solutions; Help Rural Kansas; Recognize Our Shared Dignity; Protect Public Education; Protecting Reproductive Rights; Hold Big Tech Accountable; Promote Democratic Values.
+  - Source: https://hartforsenate.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-jason-hart-0016] Across the captured Bluesky period the feed contains no post-length discussion of abortion; the official issues page lists "Protecting Reproductive Rights" and "Support Kansans' 2022 Vote."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest post** [soc-jason-hart-0130] Hart has no legislative voting record in the reviewed sources. His action record is campaign filing activity, candidate-controlled platform statements, public social posts, public appearances, and his prior prosecutorial work as documented by the campaign, news reporting, and DOJ press releases. His current issue profile is unusually explicit for a first-time candidate: congressional oversight, tariffs/foreign policy, veterans, healthcare, immigration, rural Kansas, LGBTQ/civil rights, educatio…
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest post** [soc-jason-hart-0131] Wisconsin (2025):** One Supreme Court seat. $144.5 million spent. Elon Musk spent $25 million+ on one candidate. Illinois Governor JB Pritzker and George Soros funded the other side. It became a national proxy war over abortion, Trump, and redistricting -- not about Kansas-style local concerns. The losing candidate's supporters included $4.3 million from Wisconsin Manufacturers and Commerce, $4 million from Fair Courts America (tied to conservative megadonor Richard Uihlein), and $3.2 million f…
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest post** [soc-jason-hart-0132] The captured social feed through May 19 contains no lengthy abortion-focused post; the issue is primarily anchored by the campaign site and interview reporting.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest share/repost** [soc-jason-hart-0287] Homepage issue index lists: Assert Congressional Authority; Provide for Our Veterans; Provide for Kansans' Health; Promote Rational Immigration Solutions; Help Rural Kansas; Recognize Our Shared Dignity; Protect Public Education; Protect Reproductive Rights; Hold Big Tech Accountable; Promote Democratic Values.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jason-hart-0288] "In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."* (sandyforkansas.com)
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 2. LGBT / gender / parental rights
+
+LGBT / gender / parental rights: 21 selected evidence items from 36 mapped rows. Public URL-backed rows: 2.
+
+### Evidence
+- **candidate-stated** [em-jason-hart-00094] Civil rights/LGBTQ: take the target off LGBTQ+ kids and neighbors, promote civil rights, stop distraction from real issues.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:125
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00215] Stated: issues page calls for supporting LGBTQ+ kids/neighbors and promoting civil rights.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:304
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-02221] LGBTQ+ rights champion: Supports the Equality Act and the Respect for Marriage Act
+  - Source: memory/candidates/jason-hart/raw-dump.md:3245
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-03235] "text": "Hart's issues page calls for supporting LGBTQ+ children and neighbors, promoting civil rights, and stopping distraction from real issues.",
+  - Source: ui/src/data/v2/jason-hart.ts:467
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-03241] "mappedToIssueId": "i-lgbtq-civil-rights"
+  - Source: ui/src/data/v2/jason-hart.ts:491
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-02858] 2026-04-28** — "My family attended Little Apple Pride this weekend, and it was a positive experience seeing the community come together. It’s important that everyone feels safe and supported being their authentic selves. I’m grateful to be part of spaces that reflect inclusion. #HartForKansas #Pride"
+  - Source: memory/candidates/jason-hart/social-harvest.md:55
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **donor-organization-signal** [em-jason-hart-02861] 2026-04-23** — "This weekend, my family and I will be in Manhattan for Little Apple Pride, celebrating community, inclusion, and the freedom to live loud and proud. The parade begins at 11 a.m., and we’ll be at our table around noon. Looking forward to connecting with folks there. littleapplepride.org"
+  - Source: memory/candidates/jason-hart/social-harvest.md:59
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00004] Hart's public alignment signal is built more through events and organizations than through reposts. The captured Bluesky feed contains no reposts from other accounts and no shared posts from Democratic primary opponents. He posted appearances with the [Harvey County Democratic Party](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mklfhsqnvc22), [Kingman County Democrats](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mjwqagwvp222), and [Riley County Democratic Party](htt…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mklfhsqnvc22
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02941] Issues page: [hartforsenate.com/issues](https://hartforsenate.com/issues) lists ten issue areas: Assert Congressional Authority; Provide for Our Veterans; Provide for Kansans' Health; Promote Rational Immigration Solutions; Help Rural Kansas; Recognize Our Shared Dignity; Protect Public Education; Protecting Reproductive Rights; Hold Big Tech Accountable; Promote Democratic Values.
+  - Source: https://hartforsenate.com/issues
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00216] Social evidence: April 23 and April 28 Bluesky posts discuss Little Apple Pride; May 11 thread says people should stand up for LGBTQ+ neighbors and neighbors of color.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:305
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02788] April 23 and April 28 Bluesky posts discuss attending Little Apple Pride. May 11 thread says people like Hart should stand up for LGBTQ+ neighbors and neighbors of color.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:66
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02802] Current Bluesky posts after May 11 include Dodge City/Topeka events, campaign travel, immigration/accountability, education, tariffs, Iran, Ukraine/NATO, Israel/Palestinians, LGBTQ/civil rights, and Epstein-file oversight.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:86
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02860] Topic: LGBTQ
+  - Source: memory/candidates/jason-hart/social-harvest.md:58
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02909] Most-used tags: #HartForKansas, #KansansHaveHart, #Democrats, #Senate. Issue tags appeared on immigration enforcement, Pride, Iran, and ICT SOS posts.
+  - Source: memory/candidates/jason-hart/social-harvest.md:170
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-03240] s-bsky-pride
+  - Source: memory/candidates/jason-hart/v2-issues.yaml:540
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **background-context** [em-jason-hart-00178] 2026-05-11 thread: immigration enforcement, civil rights, LGBTQ neighbors, special education, vouchers, book bans, tariffs, Iran, Ukraine/NATO, Israel/Palestinians, Epstein files, congressional hearings, and accountability.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:248
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00214] 9. LGBTQ / civil rights
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:302
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00558] Supported the Respect for Marriage Act (2022) -- protections for same-sex marriage
+  - Source: memory/candidates/jason-hart/raw-dump.md:505
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-01312] Why this matters:** The Board of Education has been a battleground over science standards (evolution vs. intelligent design), sex education, school library books, and transgender student policies. In recent years, conservative and moderate factions have fought for control. The 2026 elections could shift the balance of power on the board.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1891
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-01831] Size:** 1,949 sq ft, 3 bedrooms, 2 bathrooms
+  - Source: memory/candidates/jason-hart/raw-dump.md:2609
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-02786] LGBTQ / Civil Rights
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:63
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **moderate hartforsenate.com share/repost** [soc-jason-hart-0015] Issues page: [hartforsenate.com/issues](https://hartforsenate.com/issues) lists ten issue areas: Assert Congressional Authority; Provide for Our Veterans; Provide for Kansans' Health; Promote Rational Immigration Solutions; Help Rural Kansas; Recognize Our Shared Dignity; Protect Public Education; Protecting Reproductive Rights; Hold Big Tech Accountable; Promote Democratic Values.
+  - Source: https://hartforsenate.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-jason-hart-0017] Hart's public alignment signal is built more through events and organizations than through reposts. The captured Bluesky feed contains no reposts from other accounts and no shared posts from Democratic primary opponents. He posted appearances with the [Harvey County Democratic Party](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mklfhsqnvc22), [Kingman County Democrats](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mjwqagwvp222), and [Riley County Democratic Party](htt…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mklfhsqnvc22
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-jason-hart-0018] Social evidence: April 23 and April 28 Bluesky posts discuss Little Apple Pride; May 11 thread says people should stand up for LGBTQ+ neighbors and neighbors of color.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-jason-hart-0019] April 23 and April 28 Bluesky posts discuss attending Little Apple Pride. May 11 thread says people like Hart should stand up for LGBTQ+ neighbors and neighbors of color.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-jason-hart-0020] Current Bluesky posts after May 11 include Dodge City/Topeka events, campaign travel, immigration/accountability, education, tariffs, Iran, Ukraine/NATO, Israel/Palestinians, LGBTQ/civil rights, and Epstein-file oversight.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0021] 2026-04-28** — "My family attended Little Apple Pride this weekend, and it was a positive experience seeing the community come together. It’s important that everyone feels safe and supported being their authentic selves. I’m grateful to be part of spaces that reflect inclusion. #HartForKansas #Pride"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0022] Topic: LGBTQ
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0023] 2026-04-23** — "This weekend, my family and I will be in Manhattan for Little Apple Pride, celebrating community, inclusion, and the freedom to live loud and proud. The parade begins at 11 a.m., and we’ll be at our table around noon. Looking forward to connecting with folks there. littleapplepride.org"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-jason-hart-0024] Most-used tags: #HartForKansas, #KansansHaveHart, #Democrats, #Senate. Issue tags appeared on immigration enforcement, Pride, Iran, and ICT SOS posts.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-jason-hart-0025] s-bsky-pride
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 3. Education / curriculum / schools
+
+Education / curriculum / schools: 40 selected evidence items from 158 mapped rows. Public URL-backed rows: 8.
+
+### Evidence
+- **candidate-stated** [em-jason-hart-00208] Social evidence: May 11 Bluesky thread says Hart opposes vouchers and supports full special-education funding; same thread discusses book bans.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:293
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **candidate-stated** [em-jason-hart-02780] May 11 Bluesky thread says Hart opposes vouchers and would pursue full funding of special education. The same thread says "Book banning is dumb."
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:54
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **candidate-stated** [em-jason-hart-00077] Says he earned scholarships to the University of Kansas for college and law school.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:104
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00207] Stated: issues page calls for equal access, support for students with disabilities, and help for low-income districts.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:292
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00814] Said she wants to restore funding for Medicaid, special education and affordable housing programs (KCUR, Dec 30, 2025)
+  - Source: memory/candidates/jason-hart/raw-dump.md:925
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-jason-hart-01670] Platform:** Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/jason-hart/raw-dump.md:2383
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-02779] Campaign issues page lists equal access, students with disabilities, and low-income districts.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:53
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-03023] "Biography says Hart earned scholarships to the University of Kansas for college and law school"
+  - Source: memory/candidates/jason-hart/v2-issues.yaml:99
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-01380] [Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-02895] 2026-03-31** — "This past weekend, I attended ICT SOS’s 15th Anniversary Celebration. I’ve worked with ICT SOS on prevention education and, in my role as a prosecutor, on holding sex offenders accountable while supporting survivors. It’s inspiring to see this work continue. #HartForKansas #ICTSOS #SupportSurvivors"
+  - Source: memory/candidates/jason-hart/social-harvest.md:139
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **documented-record** [em-jason-hart-01151] 2. The School Funding Wars (2005-2024):** For nearly 20 years, the Kansas Supreme Court told the Legislature it was not funding public schools adequately. The court repeatedly ordered lawmakers to spend more money on education. Conservative legislators were furious about being told how to spend taxpayer money by judges they did not elect.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1545
+  - Confidence/use: likely / background-only
+- **documented-record** [em-jason-hart-01166] Rep. Rui Xu (D-Westwood): "Republicans are mad that our Supreme Court wanted us to fully fund school and not ban abortions so now they want to change the Supreme Court."
+  - Source: memory/candidates/jason-hart/raw-dump.md:1579
+  - Confidence/use: likely / background-only
+- **documented-record** [em-jason-hart-01167] Organizations opposing:** Kansas Bar Association, ACLU of Kansas, American Federation of Teachers-Kansas, Kansas Appleseed Center for Law and Justice, Kansas Association of School Boards, Kansas Women Attorneys Association, Planned Parenthood Great Plains Votes, VoteNoKansas.org, Stand Up Blue Valley.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1581
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-01236] Governor Laura Kelly (Democrat) is term-limited and cannot run again. This is the first open governor's race in Kansas since 2018. Open seats are rare and always attract crowded fields because there is no incumbent advantage. The winner will shape Kansas policy on taxes, education funding, Medicaid expansion, abortion access, and how the state responds to federal government changes for the next 4 years.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1735
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-01618] Whole Milk for Healthy Kids Act of 2025** -- Allow whole milk in school lunches
+  - Source: memory/candidates/jason-hart/raw-dump.md:2311
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-01918] 9. **Gun Vote** -- Voted against bipartisan gun safety bill after Uvalde school shooting
+  - Source: memory/candidates/jason-hart/raw-dump.md:2734
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-00870] Born/Raised**: Kansas City, Kansas. Attended Sumner Academy (magnet high school).
+  - Source: memory/candidates/jason-hart/raw-dump.md:1053
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01898] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: memory/candidates/jason-hart/raw-dump.md:2708
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-02757] Campaign biography describes Hart as a lifelong Kansan raised in Russell, Beloit, Wellington, and Dodge City; a KU college and law-school graduate; a lawyer who worked in Dodge City, the Shawnee County District Attorney's Office, the Kansas Attorney General's Office, and the U.S. Attorney's Office; and a husband/father raising two sons with wife Julia.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:20
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-03392] "The state treasurer oversees state cash management, debt, public deposits, unclaimed property, and college-savings programs that affect Kansas taxpayers and families.",
+  - Source: ui/src/data/elections.ts:166
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-03419] "The State Board of Education sets the standards for what Kansas kids learn in school. They approve curriculum frameworks, oversee school accreditation, hire the state education commissioner, and weigh in on statewide fights over textbooks, testing, and teaching standards. District 5 covers western Kansas including Hays. These board members serve four-year terms and their decisions affect every public school student in the region.",
+  - Source: ui/src/data/elections.ts:225
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-03471] "The next USD 489 school board election is in 2027, but the people in charge now are already making high-impact decisions about curriculum, contracts, and district direction.",
+  - Source: ui/src/data/elections.ts:321
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jason-hart-02506] [Hays Post: Students urge polling site](https://hayspost.com/posts/17997478-c7b3-4601-a433-c8f9623b09da)
+  - Source: https://hayspost.com/posts/17997478-c7b3-4601-a433-c8f9623b09da
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-jason-hart-00003] Across [35 captured Bluesky posts](social-harvest.md), Hart's largest single category is policy and issue statements, with 14 posts, or 40 percent of the captured original feed. The March 16 opening post wrote, "Jason Hart has filed to run for U.S. Senate" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)), then listed family bills, health, veterans, immigration, and children online as the opening frame. On April 23, he wrote, "Rural Kansas needs real access to …
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00007] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profi…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00008] Across the captured social period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name. Across the captured social period the feed contains no post-length discussion of abortion, though the official campaign issues page lists Protecting Reproductive Rights and Support Kansans' 2022 Vote ([source](https://hartforsenate.com/issues)). Across the captured social period the feed co…
+  - Source: https://hartforsenate.com/issues
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02941] Issues page: [hartforsenate.com/issues](https://hartforsenate.com/issues) lists ten issue areas: Assert Congressional Authority; Provide for Our Veterans; Provide for Kansans' Health; Promote Rational Immigration Solutions; Help Rural Kansas; Recognize Our Shared Dignity; Protect Public Education; Protecting Reproductive Rights; Hold Big Tech Accountable; Promote Democratic Values.
+  - Source: https://hartforsenate.com/issues
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00190] Social evidence: March 31 Bluesky post mentions ICT SOS prevention education and sex-offender accountability/survivor support.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:265
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02793] March 31 Bluesky post says he worked with ICT SOS on prevention education and, as prosecutor, on sex-offender accountability and survivor support.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:73
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02802] Current Bluesky posts after May 11 include Dodge City/Topeka events, campaign travel, immigration/accountability, education, tariffs, Iran, Ukraine/NATO, Israel/Palestinians, LGBTQ/civil rights, and Epstein-file oversight.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:86
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jason-hart-01021] Education**: B.A. in Business Administration, Trevecca Nazarene University (1999) -- *note: Trevecca is a Church of the Nazarene university in Nashville, TN, suggesting a faith background*
+  - Source: memory/candidates/jason-hart/raw-dump.md:1348
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jason-hart-01860] First Christian Church, Great Bend** -- Elder, Deacon, Board Chairman, Sunday School Teacher (25+ years)
+  - Source: memory/candidates/jason-hart/raw-dump.md:2649
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jason-hart-01925] 25+ years of genuine church leadership (elder, deacon, board chair, Sunday school teacher)
+  - Source: memory/candidates/jason-hart/raw-dump.md:2743
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jason-hart-02130] Childhood faith:** Attended **Fellowship Christian Church** with his grandmother; also attended **St. Patrick's Catholic School**
+  - Source: memory/candidates/jason-hart/raw-dump.md:3088
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-01381] [Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)
+  - Source: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-01382] [Kansas Reflector: Board races could shift power to conservative bloc](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)
+  - Source: https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-00090] Public education: equal access, students with disabilities, low-income districts.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:121
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00144] Reports he criticized tariffs, foreign policy, and dismantling the U.S. Department of Education.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:200
+  - Confidence/use: likely / background-only
+- **background-context** [em-jason-hart-00178] 2026-05-11 thread: immigration enforcement, civil rights, LGBTQ neighbors, special education, vouchers, book bans, tariffs, Iran, Ukraine/NATO, Israel/Palestinians, Epstein files, congressional hearings, and accountability.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:248
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00206] 7. Education / special education / school policy
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:290
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous hayspost.com post** [soc-jason-hart-0001] [Hays Post: Students urge polling site](https://hayspost.com/posts/17997478-c7b3-4601-a433-c8f9623b09da)
+  - Source: https://hayspost.com/posts/17997478-c7b3-4601-a433-c8f9623b09da
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-jason-hart-0012] Across [35 captured Bluesky posts](social-harvest.md), Hart's largest single category is policy and issue statements, with 14 posts, or 40 percent of the captured original feed. The March 16 opening post wrote, "Jason Hart has filed to run for U.S. Senate" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)), then listed family bills, health, veterans, immigration, and children online as the opening frame. On April 23, he wrote, "Rural Kansas needs real access to …
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate hartforsenate.com share/repost** [soc-jason-hart-0013] Across the captured social period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name. Across the captured social period the feed contains no post-length discussion of abortion, though the official campaign issues page lists Protecting Reproductive Rights and Support Kansans' 2022 Vote ([source](https://hartforsenate.com/issues)). Across the captured social period the feed co…
+  - Source: https://hartforsenate.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate hartforsenate.com share/repost** [soc-jason-hart-0015] Issues page: [hartforsenate.com/issues](https://hartforsenate.com/issues) lists ten issue areas: Assert Congressional Authority; Provide for Our Veterans; Provide for Kansans' Health; Promote Rational Immigration Solutions; Help Rural Kansas; Recognize Our Shared Dignity; Protect Public Education; Protecting Reproductive Rights; Hold Big Tech Accountable; Promote Democratic Values.
+  - Source: https://hartforsenate.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-jason-hart-0020] Current Bluesky posts after May 11 include Dodge City/Topeka events, campaign travel, immigration/accountability, education, tariffs, Iran, Ukraine/NATO, Israel/Palestinians, LGBTQ/civil rights, and Epstein-file oversight.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-jason-hart-0026] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profi…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky post** [soc-jason-hart-0027] Social evidence: March 31 Bluesky post mentions ICT SOS prevention education and sex-offender accountability/survivor support.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky social-observation** [soc-jason-hart-0028] Social evidence: May 11 Bluesky thread says Hart opposes vouchers and supports full special-education funding; same thread discusses book bans.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky social-observation** [soc-jason-hart-0029] May 11 Bluesky thread says Hart opposes vouchers and would pursue full funding of special education. The same thread says "Book banning is dumb."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-jason-hart-0030] March 31 Bluesky post says he worked with ICT SOS on prevention education and, as prosecutor, on sex-offender accountability and survivor support.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 4. Religious liberty / church / civic morality
+
+Religious liberty / church / civic morality: 11 selected evidence items from 83 mapped rows. Public URL-backed rows: 2.
+
+### Evidence
+- **social-online-signal** [em-jason-hart-00226] No current church membership found. Campaign biography references church-community service but does not identify a congregation.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:319
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-jason-hart-02045] Not identified** in public records. No church affiliation found.
+  - Source: memory/candidates/jason-hart/raw-dump.md:2927
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-jason-hart-02275] Not identified** in any public record searched. No church membership, no faith statements found. The Salina Diocese Catholic Register PDF appeared in search results for her name, but the connection (if any) could not be confirmed.
+  - Source: memory/candidates/jason-hart/raw-dump.md:3339
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-jason-hart-02430] Not identified.** No church, denomination, or faith statement found.
+  - Source: memory/candidates/jason-hart/raw-dump.md:3566
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-jason-hart-02657] Religious Liberty**: Runs as a Democrat. No specific personal statement found in public sources.
+  - Source: memory/candidates/jason-hart/site-profile.md:23
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-jason-hart-03293] "whoTheyAre": "Jason Hart is a Wichita lawyer and former federal prosecutor running for the Democratic nomination for U.S. Senate in 2026. His public biography is built around more than two decades in prosecution, including work in Dodge City, the Shawnee County District Attorney's office, the Kansas Attorney General's office, and 16 years as an assistant U.S. attorney in Kansas. Hart entered the race in March 2026 after leaving his federal post. That made him one of the latest entrants in the …
+  - Source: ui/src/data/candidates.ts:2516
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **faith-community-record** [em-jason-hart-02599] "white, male, Christian, hetero, 2A-friendly, LEO-friendly" - Kansas Reflector, March 23, 2026, https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/ (electability argument)
+  - Source: https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jason-hart-02600] "prayerful and tearful discussions with my wife and family" - Kansas Reflector, March 23, 2026, https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/ (decision to run)
+  - Source: https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jason-hart-00082] Says he has coached youth baseball for Blessed Sacrament and League 42, performed with Opera Kansas and Ballet Wichita, and served in his church community.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:109
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jason-hart-00502] Family:** Married (wife referenced in "prayerful and tearful discussions")
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:408
+  - Confidence/use: likely / background-only
+- **background-context** [em-jason-hart-01436] Deacon** -- Service role in the congregation
+  - Source: memory/candidates/jason-hart/raw-dump.md:2070
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest absence** [soc-jason-hart-0311] No current church membership found. Campaign biography references church-community service but does not identify a congregation.
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **ambiguous Public web / internal harvest absence** [soc-jason-hart-0312] Not identified** in public records. No church affiliation found.
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **ambiguous Public web / internal harvest absence** [soc-jason-hart-0313] Not identified** in any public record searched. No church membership, no faith statements found. The Salina Diocese Catholic Register PDF appeared in search results for her name, but the connection (if any) could not be confirmed.
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **ambiguous Public web / internal harvest absence** [soc-jason-hart-0314] Not identified.** No church, denomination, or faith statement found.
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **ambiguous Public web / internal harvest absence** [soc-jason-hart-0315] Religious Liberty**: Runs as a Democrat. No specific personal statement found in public sources.
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **ambiguous Public web / internal harvest post** [soc-jason-hart-0316] "whoTheyAre": "Jason Hart is a Wichita lawyer and former federal prosecutor running for the Democratic nomination for U.S. Senate in 2026. His public biography is built around more than two decades in prosecution, including work in Dodge City, the Shawnee County District Attorney's office, the Kansas Attorney General's office, and 16 years as an assistant U.S. attorney in Kansas. Hart entered the race in March 2026 after leaving his federal post. That made him one of the latest entrants in the …
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 5. Taxes / spending / debt
+
+Taxes / spending / debt: 37 selected evidence items from 109 mapped rows. Public URL-backed rows: 6.
+
+### Evidence
+- **candidate-stated** [em-jason-hart-00554] Campaign Website:** [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (hosted on Canva -- indicates minimal campaign budget/infrastructure)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-jason-hart-00375] Property tax reform (top issue in Statehouse; broke with party to support constitutional amendment capping property value increases for tax purposes)
+  - Source: memory/candidates/jason-hart/raw-dump.md:189
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00479] Supports Opportunity Zones program (tax incentives for economically distressed areas)
+  - Source: memory/candidates/jason-hart/raw-dump.md:371
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00884] Opportunity Zones**: Supports federal tax incentive programs for investment in economically distressed areas
+  - Source: memory/candidates/jason-hart/raw-dump.md:1078
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-01492] Opposes taxpayer funding of abortion providers
+  - Source: memory/candidates/jason-hart/raw-dump.md:2145
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-01548] Said the US is "$34 trillion in debt, paying a trillion dollars on interest alone"
+  - Source: memory/candidates/jason-hart/raw-dump.md:2207
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-01659] Platform:** Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Source: reports/roger-marshall-complete-dossier.md:374
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-jason-hart-02039] Property Tax Champion:** Made property taxes his top issue; broke with party lines to support a proposed state constitutional amendment capping annual property value increases for tax purposes
+  - Source: memory/candidates/jason-hart/raw-dump.md:2917
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-01338] [Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)
+  - Source: https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jason-hart-01339] [PBS Wisconsin: $100M+ spending on 2025 race](https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/)
+  - Source: https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jason-hart-02055] [Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)
+  - Source: https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-00045] A candidate is not considered filed until petition or declaration and fee are received by the Secretary of State.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:51
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00048] U.S. Senator filing-fee total listed as $1,760.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:54
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00059] Filing method: Fee.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:74
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00184] Action: Candidate-filing table lists Hart filed for U.S. Senator on March 16, 2026 by fee.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:257
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00382] Property tax stance could appeal to rural/suburban voters across party lines
+  - Source: memory/candidates/jason-hart/raw-dump.md:199
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-00017] Jason Hart is a Wichita Democrat running for U.S. Senate in Kansas. The most reliable current official anchors are FEC candidate ID `S6KS00304`, principal committee ID `C00942391`, Kansas SOS filing rules and election dates, and a Douglas County candidate-filing table showing Hart filed March 16, 2026 by fee for U.S. Senator with documents filed with the State of Kansas. Because the Kansas filing deadline is June 1, 2026, describe him as a filed candidate / primary candidate, not as a final cer…
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:9
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-jason-hart-00100] Receipts:
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:137
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-00101] Total receipts: $10,741.42.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:138
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-00113] Total disbursements: $5,372.27.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:150
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-00116] Ending cash on hand: $5,369.15.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:153
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-00117] Debts/loans owed by committee: $4,111.53.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:154
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jason-hart-02439] [Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)
+  - Source: https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-jason-hart-02753] The live Kansas SOS candidate-list endpoint was blocked by JavaScript/anti-bot in this environment. A Douglas County Modus Elections candidate-filing table for the August 4, 2026 primary lists Jason Hart (D), Wichita, filed March 16, 2026 by fee for U.S. Senator, with the note "Documents filed with the State of Kansas." Treat this as a current filing-list readback, not final certified ballot status.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:14
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-jason-hart-02872] 2026-04-15** — "Kansas families are feeling squeezed from every direction, and an unfair tax system is part of the problem. While working people and small businesses tighten their belts, too many large corporations continue to get the better deal. That has to change. Learn more: bit.ly/m/KansansHav... #Democrats"
+  - Source: memory/candidates/jason-hart/social-harvest.md:87
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02873] Topic: Taxes
+  - Source: memory/candidates/jason-hart/social-harvest.md:90
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02971] "Kansas SOS filing rules and election dates are verified; the live SOS candidate-list endpoint was blocked, so candidate-list status is triangulated through a Douglas County filing table that says Hart filed by fee on 2026-03-16 and documents are filed with the State of Kansas."
+  - Source: memory/candidates/jason-hart/v2-issues.yaml:7
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-jason-hart-03112] sos_status: "Kansas SOS filing rules/dates confirmed; direct SOS candidate-list page blocked. Douglas County filing table lists Hart filed by fee on 2026-03-16 with documents filed with the State of Kansas."
+  - Source: memory/candidates/jason-hart/v2-issues.yaml:275
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-jason-hart-02000] Corporate taxes:** Wants corporations to "pay their fair share" and close loopholes
+  - Source: reports/senate-challengers-local-officials-complete.md:43
+  - Confidence/use: likely / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-jason-hart-03433] "Local city decisions shape day-to-day life faster than almost anything else: utility projects, zoning, housing growth, city spending, and how Hays responds to long-running issues like water.",
+  - Source: ui/src/data/elections.ts:249
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **faith-community-record** [em-jason-hart-01470] Frequent topics:** Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/jason-hart/raw-dump.md:2116
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00912] Website**: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-00112] Spending/cash:
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:149
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-01310] Budget requests** -- the Board requested over $105 million in enhancements for FY2026
+  - Source: memory/candidates/jason-hart/raw-dump.md:1887
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-01502] Fire Arms Safety Act -- tax credit for firearms safety courses or purchasing gun safes
+  - Source: memory/candidates/jason-hart/raw-dump.md:2156
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-01543] Budget / Debt Ceiling / Spending
+  - Source: memory/candidates/jason-hart/raw-dump.md:2202
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-01546] Attempted to trigger automatic spending cuts by extending a CR through September
+  - Source: memory/candidates/jason-hart/raw-dump.md:2205
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous hayspost.com post** [soc-jason-hart-0002] [Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)
+  - Source: https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest absence** [soc-jason-hart-0007] The live Kansas SOS candidate-list endpoint was blocked by JavaScript/anti-bot in this environment. A Douglas County Modus Elections candidate-filing table for the August 4, 2026 primary lists Jason Hart (D), Wichita, filed March 16, 2026 by fee for U.S. Senator, with the note "Documents filed with the State of Kansas." Treat this as a current filing-list readback, not final certified ballot status.
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **weak Public web / internal harvest absence** [soc-jason-hart-0008] "Kansas SOS filing rules and election dates are verified; the live SOS candidate-list endpoint was blocked, so candidate-list status is triangulated through a Douglas County filing table that says Hart filed by fee on 2026-03-16 and documents are filed with the State of Kansas."
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **weak Public web / internal harvest absence** [soc-jason-hart-0009] sos_status: "Kansas SOS filing rules/dates confirmed; direct SOS candidate-list page blocked. Douglas County filing table lists Hart filed by fee on 2026-03-16 with documents filed with the State of Kansas."
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0036] 2026-04-15** — "Kansas families are feeling squeezed from every direction, and an unfair tax system is part of the problem. While working people and small businesses tighten their belts, too many large corporations continue to get the better deal. That has to change. Learn more: bit.ly/m/KansansHav... #Democrats"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0037] Topic: Taxes
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jason-hart-0133] Platform:** Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest post** [soc-jason-hart-0134] Corporate taxes:** Wants corporations to "pay their fair share" and close loopholes
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jason-hart-0135] "A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest post** [soc-jason-hart-0317] "Local city decisions shape day-to-day life faster than almost anything else: utility projects, zoning, housing growth, city spending, and how Hays responds to long-running issues like water.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 6. Economy / jobs / labor
+
+Economy / jobs / labor: 40 selected evidence items from 132 mapped rows. Public URL-backed rows: 2.
+
+### Evidence
+- **candidate-stated** [em-jason-hart-00152] Reports Hart said by email that he wants to reassert congressional oversight against executive overreach, specifically on immigration and trade policy.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:213
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-jason-hart-00192] Stated: campaign issues page calls for asserting congressional authority, stopping tariff chaos, and holding administration officials accountable.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:269
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-jason-hart-00193] Action evidence: KCUR says Hart identified immigration and trade policy as areas for reasserting congressional oversight.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:270
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-jason-hart-00204] Stated: issues page calls for water conservation incentives, reopening foreign markets for farmers/ranchers, and breaking up vertically integrated markets.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:287
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00278] The U.S.-Iran War (ongoing since February 2026) and Trump tariff policies are major campaign issues.
+  - Source: memory/candidates/jason-hart/raw-dump.md:47
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00810] Tariffs**: Opposes Trump tariffs, says they cause instability for farmers and rural communities
+  - Source: memory/candidates/jason-hart/raw-dump.md:919
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-01522] Opposes federal control over cattle markets
+  - Source: memory/candidates/jason-hart/raw-dump.md:2178
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-01659] Platform:** Reduce costs for working families, support small businesses, corporate tax accountability, Congressional oversight against executive overreach, regulate Big Tech, immigration and trade reform
+  - Source: reports/roger-marshall-complete-dossier.md:374
+  - Confidence/use: likely / background-only
+- **documented-record** [em-jason-hart-02942] Website issue bullets include "Incentivize and Reward Water Conservation Efforts," "Re-open Foreign Markets for Kansas Farmers/Ranchers," "Expand Medicare and Medicaid," "Fully Fund and Staff Our VA Service Providers," "Support Kansans' 2022 Vote," and "Take the Target Off Our Children."
+  - Source: memory/candidates/jason-hart/social-harvest.md:223
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **documented-record** [em-jason-hart-00200] Stated: issues page calls for rational immigration solutions, rejects cruelty as a solution, and supports business/NGO sponsorship.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:281
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00228] No personal property-record, court-record, business-entity, professional-license, or archived/deleted-content pass was completed beyond sources listed here.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:321
+  - Confidence/use: likely / background-only
+- **documented-record** [em-jason-hart-00469] Tier:** Mid Tier -- strong business narrative and Wyandotte County redevelopment credentials, but first-time candidate
+  - Source: memory/candidates/jason-hart/raw-dump.md:352
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00645] The Oakley town hall walkout, Trump tariffs hurting Kansas farmers, and Medicaid cuts threatening rural hospitals create a rare vulnerability window for a Kansas Republican senator. Multiple Democrats cite these events as their reason for running.
+  - Source: memory/candidates/jason-hart/raw-dump.md:664
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00727] 4. **Individual candidate property/business/court records** -- requires deeper public records investigation per candidate
+  - Source: memory/candidates/jason-hart/raw-dump.md:783
+  - Confidence/use: likely / background-only
+- **documented-record** [em-jason-hart-00797] Oversaw **$1.3 billion** of investment in Kansas (businesses, infrastructure, housing, healthcare)
+  - Source: memory/candidates/jason-hart/raw-dump.md:899
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00821] Retired Ameriprise financial executive with 40 years in business, an economics degree from University of Chicago, and an MBA from Northwestern. The **money candidate** -- has made 120+ donations to Democratic candidates and organizations. Brings corporate-world gravitas but zero political experience.
+  - Source: memory/candidates/jason-hart/raw-dump.md:943
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-00196] Stated: issues page supports Medicare/Medicaid expansion, breaking up vertically integrated markets, and separating health insurance from employment.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:275
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01288] The Insurance Commissioner regulates every insurance company doing business in Kansas -- health insurance, car insurance, homeowners insurance, crop insurance, all of it. They review rate increases, make sure companies can actually pay claims, handle consumer complaints, and license insurance agents. In rural Kansas, where hospital closures and limited healthcare options are a growing crisis, the Insurance Commissioner's decisions on what health plans are available and what they can charge dire…
+  - Source: memory/candidates/jason-hart/raw-dump.md:1844
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01295] In the Legislature, she serves on the **Appropriations Committee** (controls the state budget), **Commerce, Labor and Economic Development**, **Financial Institutions and Rural Development**, and chairs the **Committee on General Government Budget** and the **Joint Committee on Administrative Rules and Regulations**.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1863
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01897] Member, Subcommittee on International Trade, Customs, and Global Competitiveness
+  - Source: memory/candidates/jason-hart/raw-dump.md:2706
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01898] Senate Committee on Health, Education, Labor, and Pensions (HELP)
+  - Source: memory/candidates/jason-hart/raw-dump.md:2708
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01900] Member, Subcommittee on Employment and Workplace Safety
+  - Source: memory/candidates/jason-hart/raw-dump.md:2710
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jason-hart-00007] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profi…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00194] Social evidence: April 23 and May 11 Bluesky posts discuss troops, Iran, tariffs, Ukraine/NATO, Israel/Palestinians, and congressional oversight.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:271
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02368] Personal Facebook:** Limited; appears to post primarily through DXI Training Solutions LLC business page
+  - Source: memory/candidates/jason-hart/raw-dump.md:3475
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02768] May 11 Bluesky thread says he opposes the Iran war, opposes broad tariffs, and wants congressional oversight/investigations. April 23 Bluesky post says accountability matters when troops are in active operations.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:36
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02802] Current Bluesky posts after May 11 include Dodge City/Topeka events, campaign travel, immigration/accountability, education, tariffs, Iran, Ukraine/NATO, Israel/Palestinians, LGBTQ/civil rights, and Epstein-file oversight.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:86
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02854] 2026-04-29** — "Immigration policy should be safe, fair, and support economic opportunity. I believe in a system that protects communities while also creating clear, lawful pathways for people to contribute to our workforce and economy in a meaningful way. bit.ly/m/KansansHav... #KansansHaveHart"
+  - Source: memory/candidates/jason-hart/social-harvest.md:47
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02872] 2026-04-15** — "Kansas families are feeling squeezed from every direction, and an unfair tax system is part of the problem. While working people and small businesses tighten their belts, too many large corporations continue to get the better deal. That has to change. Learn more: bit.ly/m/KansansHav... #Democrats"
+  - Source: memory/candidates/jason-hart/social-harvest.md:87
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02880] 2026-04-09** — "I’m fighting for Kansas families, workers, and veterans with real solutions—from supporting small businesses to protecting kids and expanding access to healthcare. Learn more: bit.ly/m/KansansHav... #HartForKansas #KansansHaveHart #Democrats"
+  - Source: memory/candidates/jason-hart/social-harvest.md:103
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jason-hart-01021] Education**: B.A. in Business Administration, Trevecca Nazarene University (1999) -- *note: Trevecca is a Church of the Nazarene university in Nashville, TN, suggesting a faith background*
+  - Source: memory/candidates/jason-hart/raw-dump.md:1348
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-jason-hart-00087] Congressional authority: stop conflicts with allies/enemies, stop tariff and market-destabilizing chaos, hold administration officials accountable.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:118
+  - Confidence/use: likely / background-only
+- **public-controversy** [em-jason-hart-02766] Campaign issues page calls for asserting congressional authority, stopping conflicts with allies/enemies, stopping tariff and market-destabilizing chaos, and holding administration officials accountable.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:34
+  - Confidence/use: likely / background-only
+- **public-controversy** [em-jason-hart-03175] "text": "Hart's campaign issues page calls for asserting congressional authority, stopping conflicts with allies and enemies, stopping tariff and market-destabilizing chaos, and holding administration officials accountable.",
+  - Source: ui/src/data/v2/jason-hart.ts:166
+  - Confidence/use: likely / background-only
+- **background-context** [em-jason-hart-02322] [Nex-Tech: Shaun](https://www.nex-tech.com/business/shaun/)
+  - Source: https://www.nex-tech.com/business/shaun/
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-00014] Worker: 20
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:4
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00088] Healthcare: expand Medicare and Medicaid, break up vertically integrated markets, separate health insurance from employment.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:119
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00089] Rural Kansas: reward water conservation, reopen foreign markets for farmers/ranchers, break up vertically integrated markets.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:120
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00144] Reports he criticized tariffs, foreign policy, and dismantling the U.S. Department of Education.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:200
+  - Confidence/use: likely / background-only
+- **background-context** [em-jason-hart-00178] 2026-05-11 thread: immigration enforcement, civil rights, LGBTQ neighbors, special education, vouchers, book bans, tariffs, Iran, Ukraine/NATO, Israel/Palestinians, Epstein files, congressional hearings, and accountability.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:248
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak Bluesky post** [soc-jason-hart-0020] Current Bluesky posts after May 11 include Dodge City/Topeka events, campaign travel, immigration/accountability, education, tariffs, Iran, Ukraine/NATO, Israel/Palestinians, LGBTQ/civil rights, and Epstein-file oversight.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-jason-hart-0026] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profi…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0036] 2026-04-15** — "Kansas families are feeling squeezed from every direction, and an unfair tax system is part of the problem. While working people and small businesses tighten their belts, too many large corporations continue to get the better deal. That has to change. Learn more: bit.ly/m/KansansHav... #Democrats"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-jason-hart-0038] Social evidence: April 23 and May 11 Bluesky posts discuss troops, Iran, tariffs, Ukraine/NATO, Israel/Palestinians, and congressional oversight.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Facebook post** [soc-jason-hart-0039] Personal Facebook:** Limited; appears to post primarily through DXI Training Solutions LLC business page
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-jason-hart-0040] May 11 Bluesky thread says he opposes the Iran war, opposes broad tariffs, and wants congressional oversight/investigations. April 23 Bluesky post says accountability matters when troops are in active operations.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0041] 2026-04-29** — "Immigration policy should be safe, fair, and support economic opportunity. I believe in a system that protects communities while also creating clear, lawful pathways for people to contribute to our workforce and economy in a meaningful way. bit.ly/m/KansansHav... #KansansHaveHart"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0042] 2026-04-09** — "I’m fighting for Kansas families, workers, and veterans with real solutions—from supporting small businesses to protecting kids and expanding access to healthcare. Learn more: bit.ly/m/KansansHav... #HartForKansas #KansansHaveHart #Democrats"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0043] 2026-04-08** — "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs on top of already thin margins. We need policies that support farmers and small businesses instead of making it harder to survive. Article: bit.ly/4crAY8i"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0044] 2026-04-02** — "I’m running to help Kansas families, support veterans, improve healthcare, protect kids online, and build an economy that works for everyone. Learn more: bit.ly/m/KansansHav... #HartForKansas #KansansHaveHart #Democrats #Elections #Senate"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 7. Guns / Second Amendment
+
+Guns / Second Amendment: 18 selected evidence items from 32 mapped rows. Public URL-backed rows: 1.
+
+### Evidence
+- **documented-record** [em-jason-hart-00523] Pro-2A, pro-law enforcement positioning is unusual for a Democrat and could attract crossover voters
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:440
+  - Confidence/use: likely / background-only
+- **documented-record** [em-jason-hart-00978] Kansas House Speaker with 30 years in the insurance industry, running on a **"Pro-Life. Pro-Gun. Pro-Trump."** platform -- but now facing intense scrutiny for using his Speaker's power to **block a bipartisan prescription drug cost bill** that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1272
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-01496] Gun / Second Amendment Votes
+  - Source: memory/candidates/jason-hart/raw-dump.md:2150
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-01497] Voted AGAINST** the Bipartisan Safer Communities Act (June 2022) -- the gun reform bill that passed after Uvalde
+  - Source: memory/candidates/jason-hart/raw-dump.md:2151
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-01500] Introduced pro-2A legislation:**
+  - Source: memory/candidates/jason-hart/raw-dump.md:2154
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-01918] 9. **Gun Vote** -- Voted against bipartisan gun safety bill after Uvalde school shooting
+  - Source: memory/candidates/jason-hart/raw-dump.md:2734
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-03410] "Your state representative is one of 125 members of the Kansas House. They vote on every state law — property taxes, school funding, criminal penalties, road projects, gun laws, abortion policy, and the state budget. District 111 covers the Hays area, so this person is your direct voice in Topeka. They serve two-year terms and are supposed to bring your concerns to the statehouse floor.",
+  - Source: ui/src/data/elections.ts:206
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01921] Very few vulnerabilities from the right; Heritage Action 89-94%, pro-life 100%, NRA-aligned, Trump-endorsed
+  - Source: memory/candidates/jason-hart/raw-dump.md:2738
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jason-hart-02599] "white, male, Christian, hetero, 2A-friendly, LEO-friendly" - Kansas Reflector, March 23, 2026, https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/ (electability argument)
+  - Source: https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jason-hart-00524] Self-described as "white, male, Christian, hetero, 2A-friendly, LEO-friendly" -- consciously positions himself as electable in red Kansas
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:441
+  - Confidence/use: likely / background-only
+- **faith-community-record** [em-jason-hart-00535] Described himself as "white, male, Christian, hetero, 2A-friendly, LEO-friendly, and very clearly anti-pedo" as reasons he's the best Democratic candidate. (Kansas Reflector)
+  - Source: memory/candidates/jason-hart/raw-dump.md:462
+  - Confidence/use: likely / background-only
+- **faith-community-record** [em-jason-hart-00651] Hart has explicitly positioned himself as the most electable Democrat ("white, male, Christian, hetero, 2A-friendly, LEO-friendly"). This electability-vs-values tension will define the primary.
+  - Source: memory/candidates/jason-hart/raw-dump.md:673
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00142] Reports Hart described himself as pro-law-enforcement and friendly to the Second Amendment.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:198
+  - Confidence/use: likely / background-only
+- **background-context** [em-jason-hart-00349] Red Flags / Controversies:** None found
+  - Source: memory/candidates/jason-hart/raw-dump.md:149
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00511] Friendly to the Second Amendment
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:424
+  - Confidence/use: likely / background-only
+- **background-context** [em-jason-hart-00537] Red Flags / Controversies:**
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:461
+  - Confidence/use: likely / background-only
+- **background-context** [em-jason-hart-00782] Red Flags
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:72
+  - Confidence/use: likely / background-only
+- **background-context** [em-jason-hart-00996] Website headline: **"PRO-LIFE. PRO-GUN. PRO-TRUMP."**
+  - Source: memory/candidates/jason-hart/raw-dump.md:1301
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **ambiguous Public web / internal harvest online-reference** [soc-jason-hart-0289] Kansas House Speaker with 30 years in the insurance industry, running on a **"Pro-Life. Pro-Gun. Pro-Trump."** platform -- but now facing intense scrutiny for using his Speaker's power to **block a bipartisan prescription drug cost bill** that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 8. Immigration / border
+
+Immigration / border: 38 selected evidence items from 314 mapped rows. Public URL-backed rows: 30.
+
+### Evidence
+- **candidate-stated** [em-jason-hart-02949] 2026-03-25** — "That service has been as an advocate for your interests, and that’s what I plan to take to Washington, is to advocate for Kansas interests, not to argue for positions of a party,"
+  - Source: memory/candidates/jason-hart/social-harvest.md:232
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **candidate-stated** [em-jason-hart-00143] Reports he said he was pro-choice on abortion.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:199
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-jason-hart-00145] Reports Hart said the killing of Alex Pretti was his breaking point on immigration.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:201
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-jason-hart-00152] Reports Hart said by email that he wants to reassert congressional oversight against executive overreach, specifically on immigration and trade policy.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:213
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-jason-hart-00193] Action evidence: KCUR says Hart identified immigration and trade policy as areas for reasserting congressional oversight.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:270
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-jason-hart-00212] Secondary evidence: KMUW/Kansas Reflector reports Hart said he is pro-choice on abortion.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:299
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-jason-hart-00458] Professional expertise on immigration -- a major 2026 issue
+  - Source: memory/candidates/jason-hart/raw-dump.md:326
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00857] Immigration Reform**: *"We have a very big problem with immigration in our country right now, in the sense that there's a lot of confusion over it."* Supports reform that is "a solution, not another problem."
+  - Source: memory/candidates/jason-hart/raw-dump.md:1024
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00147] KCUR/Kansas News Service candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-00239] DOJ District of Kansas case example: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production
+  - Source: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jason-hart-00241] KCUR / Kansas News Service guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-00353] [Kansas Reflector - Campaign Profile (Aug 2025)](https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/)
+  - Source: https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-00455] [Within Reason with Mike Matson (News Radio KMAN, March 2026)](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)
+  - Source: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-01094] [Kansas Reflector: Democratic U.S. Senate candidate eager to broaden Kansas voice](https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/) (Aug 18, 2025)
+  - Source: https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-01324] Registration deadline:** Check with the Ellis County Clerk's office or visit https://www.kdor.ks.gov/Apps/VoterReg/
+  - Source: https://www.kdor.ks.gov/Apps/VoterReg/
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-01329] [Ballotpedia: Kansas Elections for Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))
+  - Source: https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-jason-hart-00614] She met in October 2025 with California Sen. Adam Schiff, vice-chair of the 2026 Democratic Senatorial Campaign Committee, to discuss logistics of a Senate run
+  - Source: memory/candidates/jason-hart/raw-dump.md:609
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-00975] Why this race matters for rural Kansas**: The Insurance Commissioner has direct authority over health insurance rates, availability of coverage in rural areas, regulation of pharmacy benefit managers (PBMs), crop insurance oversight, and consumer complaint resolution. In a state where rural hospitals are closing and healthcare costs are rising, this office has more direct impact on daily life than most voters realize.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1263
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01164] Retired Justice Carol Beier: "Opening the process up to expensive popular elections financed by special interests was contrary to the idea of an independent judiciary."
+  - Source: memory/candidates/jason-hart/raw-dump.md:1575
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01170] FACT 2: The amendment is deliberately vague.** It says justices will be elected but leaves every important detail -- partisan vs. nonpartisan, campaign finance rules, nomination process -- to the Legislature. The Legislature has a Republican supermajority.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1589
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01256] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 milli…
+  - Source: memory/candidates/jason-hart/raw-dump.md:1778
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01288] The Insurance Commissioner regulates every insurance company doing business in Kansas -- health insurance, car insurance, homeowners insurance, crop insurance, all of it. They review rate increases, make sure companies can actually pay claims, handle consumer complaints, and license insurance agents. In rural Kansas, where hospital closures and limited healthcare options are a growing crisis, the Insurance Commissioner's decisions on what health plans are available and what they can charge dire…
+  - Source: memory/candidates/jason-hart/raw-dump.md:1844
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jason-hart-00003] Across [35 captured Bluesky posts](social-harvest.md), Hart's largest single category is policy and issue statements, with 14 posts, or 40 percent of the captured original feed. The March 16 opening post wrote, "Jason Hart has filed to run for U.S. Senate" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)), then listed family bills, health, veterans, immigration, and children online as the opening frame. On April 23, he wrote, "Rural Kansas needs real access to …
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00006] Hart's national and foreign-policy posts are present but less frequent than healthcare, agriculture, campaign events, and biography. On April 23, he posted, "When troops are in active operations, accountability matters at every level" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25)). His YouTube channel also includes an April 7 Iran short titled "This isn’t right" ([source](https://www.youtube.com/shorts/-OCEAu9lf84)), with 881 views and a star-rating count of…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02941] Issues page: [hartforsenate.com/issues](https://hartforsenate.com/issues) lists ten issue areas: Assert Congressional Authority; Provide for Our Veterans; Provide for Kansans' Health; Promote Rational Immigration Solutions; Help Rural Kansas; Recognize Our Shared Dignity; Protect Public Education; Protecting Reproductive Rights; Hold Big Tech Accountable; Promote Democratic Values.
+  - Source: https://hartforsenate.com/issues
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00202] Social evidence: April 9 and May 11 Bluesky posts discuss ICE/federal enforcement, accountability, reform, and caution against broad-brushing federal agents.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:283
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02763] Bluesky posts on April 9 and May 11 discuss federal immigration enforcement, ICE/HSI/DHS/CBP, accountability, and reform. One May 11 thread cautions against painting all federal agents with one broad brush while still calling for accountability and substantive reform.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:29
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02802] Current Bluesky posts after May 11 include Dodge City/Topeka events, campaign travel, immigration/accountability, education, tariffs, Iran, Ukraine/NATO, Israel/Palestinians, LGBTQ/civil rights, and Epstein-file oversight.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:86
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02854] 2026-04-29** — "Immigration policy should be safe, fair, and support economic opportunity. I believe in a system that protects communities while also creating clear, lawful pathways for people to contribute to our workforce and economy in a meaningful way. bit.ly/m/KansansHav... #KansansHaveHart"
+  - Source: memory/candidates/jason-hart/social-harvest.md:47
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02856] Topic: Immigration
+  - Source: memory/candidates/jason-hart/social-harvest.md:50
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jason-hart-01470] Frequent topics:** Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/jason-hart/raw-dump.md:2116
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jason-hart-02012] Hart is the most unconventional candidate in the Democratic primary. A career federal prosecutor who switched parties twice in one month, running on a blunt "electability" argument centered on his identity as a straight white Christian male in Kansas. His wife's quip has become his most quoted line. His lack of political experience or campaign infrastructure is either refreshingly authentic or dangerously unprepared -- depends on the voter. His 21-year record prosecuting child predators is his …
+  - Source: reports/senate-challengers-local-officials-complete.md:63
+  - Confidence/use: likely / background-only
+- **background-context** [em-jason-hart-00466] [Kansas Reflector - Announcement (Aug 2025)](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)
+  - Source: https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-00620] [Kansas Reflector - Davids Senate Speculation (Jan 2026)](https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/)
+  - Source: https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-00621] [KCUR - Davids Not Ruling It Out (Feb 2026)](https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out)
+  - Source: https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-00631] https://www.justice.gov/archive/usao/ks/PressReleases/2012/Nov%202012/Nov29a.html
+  - Source: https://www.justice.gov/archive/usao/ks/PressReleases/2012/Nov%202012/Nov29a.html
+  - Confidence/use: confirmed / use
+- **background-context** [em-jason-hart-00703] 11. [Sharice Davids Senate Speculation (Jan 29, 2026)](https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/)
+  - Source: https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-00709] 16. [KCUR - Sharice Davids Discussion (Feb 24, 2026)](https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out)
+  - Source: https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **strong Bluesky post** [soc-jason-hart-0012] Across [35 captured Bluesky posts](social-harvest.md), Hart's largest single category is policy and issue statements, with 14 posts, or 40 percent of the captured original feed. The March 16 opening post wrote, "Jason Hart has filed to run for U.S. Senate" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)), then listed family bills, health, veterans, immigration, and children online as the opening frame. On April 23, he wrote, "Rural Kansas needs real access to …
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate hartforsenate.com share/repost** [soc-jason-hart-0015] Issues page: [hartforsenate.com/issues](https://hartforsenate.com/issues) lists ten issue areas: Assert Congressional Authority; Provide for Our Veterans; Provide for Kansans' Health; Promote Rational Immigration Solutions; Help Rural Kansas; Recognize Our Shared Dignity; Protect Public Education; Protecting Reproductive Rights; Hold Big Tech Accountable; Promote Democratic Values.
+  - Source: https://hartforsenate.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-jason-hart-0020] Current Bluesky posts after May 11 include Dodge City/Topeka events, campaign travel, immigration/accountability, education, tariffs, Iran, Ukraine/NATO, Israel/Palestinians, LGBTQ/civil rights, and Epstein-file oversight.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest post** [soc-jason-hart-0024] Most-used tags: #HartForKansas, #KansansHaveHart, #Democrats, #Senate. Issue tags appeared on immigration enforcement, Pride, Iran, and ICT SOS posts.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0041] 2026-04-29** — "Immigration policy should be safe, fair, and support economic opportunity. I believe in a system that protects communities while also creating clear, lawful pathways for people to contribute to our workforce and economy in a meaningful way. bit.ly/m/KansansHav... #KansansHaveHart"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0046] Website issue bullets include "Incentivize and Reward Water Conservation Efforts," "Re-open Foreign Markets for Kansas Farmers/Ranchers," "Expand Medicare and Medicaid," "Fully Fund and Staff Our VA Service Providers," "Support Kansans' 2022 Vote," and "Take the Target Off Our Children."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-jason-hart-0048] Hart's national and foreign-policy posts are present but less frequent than healthcare, agriculture, campaign events, and biography. On April 23, he posted, "When troops are in active operations, accountability matters at every level" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25)). His YouTube channel also includes an April 7 Iran short titled "This isn’t right" ([source](https://www.youtube.com/shorts/-OCEAu9lf84)), with 881 views and a star-rating count of…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky post** [soc-jason-hart-0049] Social evidence: April 9 and May 11 Bluesky posts discuss ICE/federal enforcement, accountability, reform, and caution against broad-brushing federal agents.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-jason-hart-0050] Bluesky posts on April 9 and May 11 discuss federal immigration enforcement, ICE/HSI/DHS/CBP, accountability, and reform. One May 11 thread cautions against painting all federal agents with one broad brush while still calling for accountability and substantive reform.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0051] Topic: Immigration
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 9. Health care / insurance / Medicaid
+
+Health care / insurance / Medicaid: 43 selected evidence items from 371 mapped rows. Public URL-backed rows: 26.
+
+### Evidence
+- **candidate-stated** [em-jason-hart-00388] Key Quote:** Not available in search results -- check [patrickforkansas.com](https://patrickforkansas.com/about/) for campaign messaging
+  - Source: https://patrickforkansas.com/about/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-jason-hart-00554] Campaign Website:** [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (hosted on Canva -- indicates minimal campaign budget/infrastructure)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-jason-hart-01097] [Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/) (May 13, 2025)
+  - Source: https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-jason-hart-01954] [On The Issues](https://www.ontheissues.org/house/Roger_Marshall_Principles_+_Values.htm)
+  - Source: https://www.ontheissues.org/house/Roger_Marshall_Principles_+_Values.htm
+  - Confidence/use: likely / use
+- **candidate-stated** [em-jason-hart-02195] Campaign Websites:** Multiple -- [replacejerrymoran.org](https://replacejerrymoran.org/), [mike4kansas.org](https://mike4kansas.org/), [mikeforkansas.net](https://mikeforkansas.net/), [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/)
+  - Source: https://replacejerrymoran.org/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-jason-hart-02710] [Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/)
+  - Source: https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-jason-hart-00188] Stated: issues page calls for Big Tech accountability around children's privacy, exploitation, and AI guardrails.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:263
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00197] Stated: issues page calls for fully funding and staffing VA providers and expanding Tricare coverage for surviving children.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:276
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-01096] [Kansas Reflector: Kansas House speaker desperately maneuvers to sabotage vote on drug costs bill](https://kansasreflector.com/2026/03/22/kansas-house-speaker-desperately-maneuvers-to-sabotage-vote-on-senate-bill-capping-drug-costs/) (Mar 22, 2026)
+  - Source: https://kansasreflector.com/2026/03/22/kansas-house-speaker-desperately-maneuvers-to-sabotage-vote-on-senate-bill-capping-drug-costs/
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-01100] [KMUW: Kansas House passes bill on prescription drug middlemen](https://www.kmuw.org/government/2026-03-26/kansas-house-passes-bill-providing-stricter-regulation-of-prescription-drug-middlemen) (Mar 26, 2026)
+  - Source: https://www.kmuw.org/government/2026-03-26/kansas-house-passes-bill-providing-stricter-regulation-of-prescription-drug-middlemen
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-01107] [Ballotpedia: Kansas Insurance Commissioner Election 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-01330] [Kansas Reflector: Rivals launch fight over amendment](https://kansasreflector.com/2025/08/07/rivals-launch-fight-over-kansas-constitutional-amendment-to-elect-supreme-court-justices/)
+  - Source: https://kansasreflector.com/2025/08/07/rivals-launch-fight-over-kansas-constitutional-amendment-to-elect-supreme-court-justices/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jason-hart-01374] [Ballotpedia: Kansas Insurance Commissioner 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)
+  - Source: https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-02709] [Kansas Reflector: Kansas House speaker desperately maneuvers to sabotage vote on drug costs bill](https://kansasreflector.com/2026/03/22/kansas-house-speaker-desperately-maneuvers-to-sabotage-vote-on-senate-bill-capping-drug-costs/)
+  - Source: https://kansasreflector.com/2026/03/22/kansas-house-speaker-desperately-maneuvers-to-sabotage-vote-on-senate-bill-capping-drug-costs/
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-02712] [KMUW: Kansas House passes bill on prescription drug middlemen](https://www.kmuw.org/government/2026-03-26/kansas-house-passes-bill-providing-stricter-regulation-of-prescription-drug-middlemen)
+  - Source: https://www.kmuw.org/government/2026-03-26/kansas-house-passes-bill-providing-stricter-regulation-of-prescription-drug-middlemen
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-02812] Could not directly read the Kansas SOS live candidate-list page because it returned a JavaScript/anti-bot gate in browser search and a 403 in `curl`; used SOS candidate-information/dates pages plus Douglas County's filing table as the best available filing-status triangulation.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:108
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **donor-organization-signal** [em-jason-hart-00196] Stated: issues page supports Medicare/Medicaid expansion, breaking up vertically integrated markets, and separating health insurance from employment.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:275
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-00217] 10. Campaign finance / democratic values
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:307
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-00975] Why this race matters for rural Kansas**: The Insurance Commissioner has direct authority over health insurance rates, availability of coverage in rural areas, regulation of pharmacy benefit managers (PBMs), crop insurance oversight, and consumer complaint resolution. In a state where rural hospitals are closing and healthcare costs are rising, this office has more direct impact on daily life than most voters realize.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1263
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01005] Ordered SB 360 transferred between the House Insurance Committee and Health Committee **four times** since February 25, 2026
+  - Source: memory/candidates/jason-hart/raw-dump.md:1314
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01012] Strengths**: 30 years of insurance industry expertise is directly relevant to the job. $384K cash on hand. Strong Republican base in Kansas. House Speaker title provides name recognition and party infrastructure.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1328
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01019] Kansas Senate Minority Leader, the **first woman to hold that position** in Kansas history. Former Republican who switched parties in December 2018 as part of a wave of moderate Kansas GOP women leaving the party. Has endorsements from **both a Democratic and Republican former Insurance Commissioner**. Has pledged to accept **zero campaign contributions from the insurance industry**.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1344
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jason-hart-00003] Across [35 captured Bluesky posts](social-harvest.md), Hart's largest single category is policy and issue statements, with 14 posts, or 40 percent of the captured original feed. The March 16 opening post wrote, "Jason Hart has filed to run for U.S. Senate" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)), then listed family bills, health, veterans, immigration, and children online as the opening frame. On April 23, he wrote, "Rural Kansas needs real access to …
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00005] Visible audience response is small on Bluesky and larger on YouTube Shorts. The most-engaged Bluesky item was the March 16 filing post, with 7 likes, 1 repost, 0 replies, and 0 quotes as of the May 11, 2026 capture ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)). Two issue-and-record posts each had 2 likes and 2 reposts: the April 23 rural-healthcare post ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6fxkfosc2x)) and the March 26 pros…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00006] Hart's national and foreign-policy posts are present but less frequent than healthcare, agriculture, campaign events, and biography. On April 23, he posted, "When troops are in active operations, accountability matters at every level" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25)). His YouTube channel also includes an April 7 Iran short titled "This isn’t right" ([source](https://www.youtube.com/shorts/-OCEAu9lf84)), with 881 views and a star-rating count of…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00007] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profi…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02941] Issues page: [hartforsenate.com/issues](https://hartforsenate.com/issues) lists ten issue areas: Assert Congressional Authority; Provide for Our Veterans; Provide for Kansans' Health; Promote Rational Immigration Solutions; Help Rural Kansas; Recognize Our Shared Dignity; Protect Public Education; Protecting Reproductive Rights; Hold Big Tech Accountable; Promote Democratic Values.
+  - Source: https://hartforsenate.com/issues
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00198] Social evidence: April 23 Bluesky post supports more rural healthcare providers; April 3 post criticizes failure to extend ACA subsidies.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:277
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-01754] Facebook Removal
+  - Source: memory/candidates/jason-hart/raw-dump.md:2496
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-01913] 4. **COVID Positions** -- Anti-mask, ivermectin promotion, Facebook post removed for misinformation, despite being a physician
+  - Source: memory/candidates/jason-hart/raw-dump.md:2729
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jason-hart-00651] Hart has explicitly positioned himself as the most electable Democrat ("white, male, Christian, hetero, 2A-friendly, LEO-friendly"). This electability-vs-values tension will define the primary.
+  - Source: memory/candidates/jason-hart/raw-dump.md:673
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jason-hart-00763] Faith/Values**: Described making the decision after "prayerful and tearful discussions with my wife and family."
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:45
+  - Confidence/use: likely / background-only
+- **faith-community-record** [em-jason-hart-01444] "So I truly, truly hope this nation can remember our Judeo-Christian values that we were founded on, that we could always be, indeed, 'One nation under God.'"
+  - Source: memory/candidates/jason-hart/raw-dump.md:2079
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jason-hart-01448] Has referenced his Christian faith and Judeo-Christian values in Senate floor speeches
+  - Source: memory/candidates/jason-hart/raw-dump.md:2085
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-jason-hart-00568] Former Republican who called himself "conservative" and "pro-life" as recently as 2019 -- position shifts invite scrutiny
+  - Source: memory/candidates/jason-hart/raw-dump.md:520
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-jason-hart-01015] Insurance industry conflict of interest**: 30 years in insurance, now seeking to regulate the industry.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1333
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-jason-hart-01080] | **Key Vulnerability** | SB 360 blocking; insurance industry conflict | Party switch; Democrat in red state |
+  - Source: memory/candidates/jason-hart/raw-dump.md:1434
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00912] Website**: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-00991] Website**: [hawkinsforinsurance.com](https://www.hawkinsforinsurance.com/)
+  - Source: https://www.hawkinsforinsurance.com/
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-01056] Full voting record available at [kslegislature.gov](https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/)
+  - Source: https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/
+  - Confidence/use: confirmed / use
+- **background-context** [em-jason-hart-01095] [Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker](https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/) (Jan 10, 2026)
+  - Source: https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-01382] [Kansas Reflector: Board races could shift power to conservative bloc](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)
+  - Source: https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-02685] [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/)
+  - Source: https://mikeforkansas.my.canva.site/
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **weak Public web / internal harvest absence** [soc-jason-hart-0007] The live Kansas SOS candidate-list endpoint was blocked by JavaScript/anti-bot in this environment. A Douglas County Modus Elections candidate-filing table for the August 4, 2026 primary lists Jason Hart (D), Wichita, filed March 16, 2026 by fee for U.S. Senator, with the note "Documents filed with the State of Kansas." Treat this as a current filing-list readback, not final certified ballot status.
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **ambiguous Public web / internal harvest online-reference** [soc-jason-hart-0010] Social media accounts not confirmed in available sources
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-jason-hart-0012] Across [35 captured Bluesky posts](social-harvest.md), Hart's largest single category is policy and issue statements, with 14 posts, or 40 percent of the captured original feed. The March 16 opening post wrote, "Jason Hart has filed to run for U.S. Senate" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)), then listed family bills, health, veterans, immigration, and children online as the opening frame. On April 23, he wrote, "Rural Kansas needs real access to …
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate hartforsenate.com share/repost** [soc-jason-hart-0015] Issues page: [hartforsenate.com/issues](https://hartforsenate.com/issues) lists ten issue areas: Assert Congressional Authority; Provide for Our Veterans; Provide for Kansans' Health; Promote Rational Immigration Solutions; Help Rural Kansas; Recognize Our Shared Dignity; Protect Public Education; Protecting Reproductive Rights; Hold Big Tech Accountable; Promote Democratic Values.
+  - Source: https://hartforsenate.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-jason-hart-0026] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profi…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky post** [soc-jason-hart-0034] "observation": "March 31 Bluesky post says he worked with ICT SOS on prevention education and, as prosecutor, on sex-offender accountability and survivor support.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-jason-hart-0035] "observation": "Across the captured Bluesky period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0042] 2026-04-09** — "I’m fighting for Kansas families, workers, and veterans with real solutions—from supporting small businesses to protecting kids and expanding access to healthcare. Learn more: bit.ly/m/KansansHav... #HartForKansas #KansansHaveHart #Democrats"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0044] 2026-04-02** — "I’m running to help Kansas families, support veterans, improve healthcare, protect kids online, and build an economy that works for everyone. Learn more: bit.ly/m/KansansHav... #HartForKansas #KansansHaveHart #Democrats #Elections #Senate"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0045] 2026-04-02** — "I’m running to help Kansas families, veterans, and kids, and to build an economy that works for all."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 10. Election integrity / voting / courts
+
+Election integrity / voting / courts: 43 selected evidence items from 778 mapped rows. Public URL-backed rows: 125.
+
+### Evidence
+- **candidate-stated** [em-jason-hart-01335] [Sunflower State Journal: Outside group books nearly $1M in ads](https://sunflowerstatejournal.com/judicial-amendment-campaign-shapes-up-outside-group-books-nearly-1-million-in-ads/)
+  - Source: https://sunflowerstatejournal.com/judicial-amendment-campaign-shapes-up-outside-group-books-nearly-1-million-in-ads/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-jason-hart-00192] Stated: campaign issues page calls for asserting congressional authority, stopping tariff chaos, and holding administration officials accountable.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:269
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-jason-hart-00218] Stated: issues page calls for overturning Citizens United, public financing of elections, and prohibiting insider trading.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:309
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00375] Property tax reform (top issue in Statehouse; broke with party to support constitutional amendment capping property value increases for tax purposes)
+  - Source: memory/candidates/jason-hart/raw-dump.md:189
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-01278] Ban foreign nationals** from contributing to constitutional amendment campaigns
+  - Source: memory/candidates/jason-hart/raw-dump.md:1825
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-01452] After the amendment's defeat, he said: "While I don't have an answer, I do know that God works all things for good for those who trust him."
+  - Source: memory/candidates/jason-hart/raw-dump.md:2089
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-01480] He called it "a decision from my heart" and said he was "concerned then and I still am today that six states broke their own laws or their own constitution."
+  - Source: memory/candidates/jason-hart/raw-dump.md:2132
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-01766] Objected to 2020 election certification (aligning with Trump's position)
+  - Source: memory/candidates/jason-hart/raw-dump.md:2515
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00135] KMUW / Kansas Reflector profile: https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness
+  - Source: https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-00147] KCUR/Kansas News Service candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-00233] Kansas SOS candidate information: https://www.sos.ks.gov/elections/candidate-information.html
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jason-hart-00235] Douglas County candidate filing table: https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS
+  - Source: https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jason-hart-00239] DOJ District of Kansas case example: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production
+  - Source: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jason-hart-00241] KCUR / Kansas News Service guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-00353] [Kansas Reflector - Campaign Profile (Aug 2025)](https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/)
+  - Source: https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-00354] [KCUR Candidate Guide (Dec 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-jason-hart-00434] [FEC Filing](https://www.fec.gov/data/candidate/S6KS00262/)
+  - Source: https://www.fec.gov/data/candidate/S6KS00262/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-jason-hart-00660] FEC Race Page:** [2026 Election - U.S. Senate - Kansas](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-jason-hart-00695] 4. [FEC - 2026 Kansas Senate](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-jason-hart-01102] [FEC: 2026 Kansas Senate Election](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-jason-hart-01370] [Kansas Press Association: Legislature passes election bills](https://kspress.com/news/2026/03/27/kansas-legislature-passes-package-of-elections-bills-that-alter-voting-processes)
+  - Source: https://kspress.com/news/2026/03/27/kansas-legislature-passes-package-of-elections-bills-that-alter-voting-processes
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-jason-hart-02234] FEC Filing:** [FEC Candidate H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/)
+  - Source: https://www.fec.gov/data/candidate/H6KS03258/
+  - Confidence/use: confirmed / use
+- **social-online-signal** [em-jason-hart-02509] [Hays Post: 2024 election results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)
+  - Source: https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-jason-hart-00005] Visible audience response is small on Bluesky and larger on YouTube Shorts. The most-engaged Bluesky item was the March 16 filing post, with 7 likes, 1 repost, 0 replies, and 0 quotes as of the May 11, 2026 capture ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)). Two issue-and-record posts each had 2 likes and 2 reposts: the April 23 rural-healthcare post ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6fxkfosc2x)) and the March 26 pros…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00008] Across the captured social period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name. Across the captured social period the feed contains no post-length discussion of abortion, though the official campaign issues page lists Protecting Reproductive Rights and Support Kansans' 2022 Vote ([source](https://hartforsenate.com/issues)). Across the captured social period the feed co…
+  - Source: https://hartforsenate.com/issues
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-01348] [Prism News: Kansas law blocked 31,000 eligible voters](https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000)
+  - Source: https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-jason-hart-02941] Issues page: [hartforsenate.com/issues](https://hartforsenate.com/issues) lists ten issue areas: Assert Congressional Authority; Provide for Our Veterans; Provide for Kansans' Health; Promote Rational Immigration Solutions; Help Rural Kansas; Recognize Our Shared Dignity; Protect Public Education; Protecting Reproductive Rights; Hold Big Tech Accountable; Promote Democratic Values.
+  - Source: https://hartforsenate.com/issues
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02953] Most-engaged Bluesky post: [2026-03-16 campaign filing post](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f) — 7 likes, 1 repost, 0 replies, 0 quotes as of 2026-05-11.
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02753] The live Kansas SOS candidate-list endpoint was blocked by JavaScript/anti-bot in this environment. A Douglas County Modus Elections candidate-filing table for the August 4, 2026 primary lists Jason Hart (D), Wichita, filed March 16, 2026 by fee for U.S. Senator, with the note "Documents filed with the State of Kansas." Treat this as a current filing-list readback, not final certified ballot status.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:14
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-jason-hart-02803] Engagement remains small on Bluesky. Most recent top visible item in the May 19 API readback was a May 14 Topeka event post with 3 likes and 3 reposts. The older March 16 filing post still showed 7 likes and 1 repost.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:87
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jason-hart-01470] Frequent topics:** Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/jason-hart/raw-dump.md:2116
+  - Confidence/use: unknown / background-only
+- **faith-community-record** [em-jason-hart-01923] For Faith-Based Voter Guide Assessment
+  - Source: memory/candidates/jason-hart/raw-dump.md:2741
+  - Confidence/use: likely / background-only
+- **faith-community-record** [em-jason-hart-02012] Hart is the most unconventional candidate in the Democratic primary. A career federal prosecutor who switched parties twice in one month, running on a blunt "electability" argument centered on his identity as a straight white Christian male in Kansas. His wife's quip has become his most quoted line. His lack of political experience or campaign infrastructure is either refreshingly authentic or dangerously unprepared -- depends on the voter. His 21-year record prosecuting child predators is his …
+  - Source: reports/senate-challengers-local-officials-complete.md:63
+  - Confidence/use: likely / background-only
+- **faith-community-record** [em-jason-hart-02608] His "straight, white, Christian man" framing is a memorable electability claim but can also alienate Democratic voters.
+  - Source: memory/candidates/jason-hart/raw-dump.md:3840
+  - Confidence/use: unknown / background-only
+- **public-controversy** [em-jason-hart-00087] Congressional authority: stop conflicts with allies/enemies, stop tariff and market-destabilizing chaos, hold administration officials accountable.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:118
+  - Confidence/use: likely / background-only
+- **public-controversy** [em-jason-hart-02766] Campaign issues page calls for asserting congressional authority, stopping conflicts with allies/enemies, stopping tariff and market-destabilizing chaos, and holding administration officials accountable.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:34
+  - Confidence/use: likely / background-only
+- **public-controversy** [em-jason-hart-03175] "text": "Hart's campaign issues page calls for asserting congressional authority, stopping conflicts with allies and enemies, stopping tariff and market-destabilizing chaos, and holding administration officials accountable.",
+  - Source: ui/src/data/v2/jason-hart.ts:166
+  - Confidence/use: likely / background-only
+- **background-context** [em-jason-hart-00234] Kansas SOS important dates: https://sos.ks.gov/elections/important-election-dates.html
+  - Source: https://sos.ks.gov/elections/important-election-dates.html
+  - Confidence/use: confirmed / use
+- **background-context** [em-jason-hart-00640] [270toWin - Latest 2026 Senate Polls](https://www.270towin.com/polls/latest-2026-senate-election-polls/)
+  - Source: https://www.270towin.com/polls/latest-2026-senate-election-polls/
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-00694] 3. [Wikipedia - 2026 Kansas Senate Election](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas)
+  - Source: https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-00712] 19. [Smart Politics - Kansas 2026 Senate Analysis](https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/)
+  - Source: https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-01056] Full voting record available at [kslegislature.gov](https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/)
+  - Source: https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/
+  - Confidence/use: confirmed / use
+- **background-context** [em-jason-hart-01111] [Wikipedia - 2026 Kansas Senate Election](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas)
+  - Source: https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous hayspost.com post** [soc-jason-hart-0003] [Hays Post: 2024 election results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)
+  - Source: https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest absence** [soc-jason-hart-0007] The live Kansas SOS candidate-list endpoint was blocked by JavaScript/anti-bot in this environment. A Douglas County Modus Elections candidate-filing table for the August 4, 2026 primary lists Jason Hart (D), Wichita, filed March 16, 2026 by fee for U.S. Senator, with the note "Documents filed with the State of Kansas." Treat this as a current filing-list readback, not final certified ballot status.
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **weak Public web / internal harvest absence** [soc-jason-hart-0008] "Kansas SOS filing rules and election dates are verified; the live SOS candidate-list endpoint was blocked, so candidate-list status is triangulated through a Douglas County filing table that says Hart filed by fee on 2026-03-16 and documents are filed with the State of Kansas."
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **weak Public web / internal harvest absence** [soc-jason-hart-0009] sos_status: "Kansas SOS filing rules/dates confirmed; direct SOS candidate-list page blocked. Douglas County filing table lists Hart filed by fee on 2026-03-16 with documents filed with the State of Kansas."
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **weak prismnews.com absence** [soc-jason-hart-0011] [Prism News: Kansas law blocked 31,000 eligible voters](https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000)
+  - Source: https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **moderate hartforsenate.com share/repost** [soc-jason-hart-0013] Across the captured social period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name. Across the captured social period the feed contains no post-length discussion of abortion, though the official campaign issues page lists Protecting Reproductive Rights and Support Kansans' 2022 Vote ([source](https://hartforsenate.com/issues)). Across the captured social period the feed co…
+  - Source: https://hartforsenate.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate hartforsenate.com share/repost** [soc-jason-hart-0015] Issues page: [hartforsenate.com/issues](https://hartforsenate.com/issues) lists ten issue areas: Assert Congressional Authority; Provide for Our Veterans; Provide for Kansans' Health; Promote Rational Immigration Solutions; Help Rural Kansas; Recognize Our Shared Dignity; Protect Public Education; Protecting Reproductive Rights; Hold Big Tech Accountable; Promote Democratic Values.
+  - Source: https://hartforsenate.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-jason-hart-0016] Across the captured Bluesky period the feed contains no post-length discussion of abortion; the official issues page lists "Protecting Reproductive Rights" and "Support Kansans' 2022 Vote."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0044] 2026-04-02** — "I’m running to help Kansas families, support veterans, improve healthcare, protect kids online, and build an economy that works for everyone. Learn more: bit.ly/m/KansansHav... #HartForKansas #KansansHaveHart #Democrats #Elections #Senate"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0046] Website issue bullets include "Incentivize and Reward Water Conservation Efforts," "Re-open Foreign Markets for Kansas Farmers/Ranchers," "Expand Medicare and Medicaid," "Fully Fund and Staff Our VA Service Providers," "Support Kansans' 2022 Vote," and "Take the Target Off Our Children."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 11. Public safety / law enforcement / criminal justice
+
+Public safety / law enforcement / criminal justice: 37 selected evidence items from 198 mapped rows. Public URL-backed rows: 19.
+
+### Evidence
+- **candidate-stated** [em-jason-hart-00070] Campaign says Hart has spent 21+ years serving Kansans, prosecuting child abuse, advocating for families, and mentoring the next generation.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:91
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00080] Says his federal work included child abuse, domestic violence, sex trafficking, and complex multi-jurisdictional crimes.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:107
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00151] Says he specialized in child exploitation and cybercrime cases.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:212
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00187] Stated: campaign biography and homepage center child abuse prosecution and protecting children.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:262
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00765] The January 2026 killing of **Alex Pretti** by federal agents in Minneapolis was the catalyst. As a career federal law enforcement official, Hart said this event -- and the broader direction of the federal government -- compelled him to leave his career and enter politics for the first time.
+  - Source: memory/candidates/jason-hart/raw-dump.md:848
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-jason-hart-03018] "Homepage says Hart has spent 21+ years serving Kansans, prosecuting child abuse, advocating for families, and mentoring the next generation"
+  - Source: memory/candidates/jason-hart/v2-issues.yaml:86
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-03025] "Biography says Hart prosecuted child abuse, domestic violence, sex trafficking, and complex multi-jurisdictional crimes"
+  - Source: memory/candidates/jason-hart/v2-issues.yaml:101
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-03096] "Guide says Hart specialized in child exploitation and cybercrime cases"
+  - Source: memory/candidates/jason-hart/v2-issues.yaml:245
+  - Confidence/use: likely / background-only
+- **documented-record** [em-jason-hart-00239] DOJ District of Kansas case example: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production
+  - Source: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jason-hart-00455] [Within Reason with Mike Matson (News Radio KMAN, March 2026)](https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/)
+  - Source: https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-01329] [Ballotpedia: Kansas Elections for Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))
+  - Source: https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jason-hart-01330] [Kansas Reflector: Rivals launch fight over amendment](https://kansasreflector.com/2025/08/07/rivals-launch-fight-over-kansas-constitutional-amendment-to-elect-supreme-court-justices/)
+  - Source: https://kansasreflector.com/2025/08/07/rivals-launch-fight-over-kansas-constitutional-amendment-to-elect-supreme-court-justices/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jason-hart-01331] [Kansas Reflector: Method of picking justices could be improved](https://kansasreflector.com/2026/02/10/kansas-method-of-picking-supreme-court-justices-could-be-improved-but-will-an-amendment-do-that/)
+  - Source: https://kansasreflector.com/2026/02/10/kansas-method-of-picking-supreme-court-justices-could-be-improved-but-will-an-amendment-do-that/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jason-hart-01332] [Kansas Reflector: House endorses plan](https://kansasreflector.com/2025/03/19/kansas-house-endorses-plan-to-elect-supreme-court-justices-placing-question-on-august-2026-ballot/)
+  - Source: https://kansasreflector.com/2025/03/19/kansas-house-endorses-plan-to-elect-supreme-court-justices-placing-question-on-august-2026-ballot/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jason-hart-01334] [KCUR: Lawmakers want to reveal more about people picking justices](https://www.kcur.org/politics-elections-and-government/2026-01-26/kansas-lawmakers-want-to-reveal-more-about-the-people-picking-supreme-court-justices)
+  - Source: https://www.kcur.org/politics-elections-and-government/2026-01-26/kansas-lawmakers-want-to-reveal-more-about-the-people-picking-supreme-court-justices
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jason-hart-01338] [Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)
+  - Source: https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-jason-hart-01164] Retired Justice Carol Beier: "Opening the process up to expensive popular elections financed by special interests was contrary to the idea of an independent judiciary."
+  - Source: memory/candidates/jason-hart/raw-dump.md:1575
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01170] FACT 2: The amendment is deliberately vague.** It says justices will be elected but leaves every important detail -- partisan vs. nonpartisan, campaign finance rules, nomination process -- to the Legislature. The Legislature has a Republican supermajority.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1589
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01660] Strength:** "Law and order" credibility as a federal prosecutor; appeal to moderates and disaffected Republicans
+  - Source: reports/roger-marshall-complete-dossier.md:375
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-jason-hart-02757] Campaign biography describes Hart as a lifelong Kansan raised in Russell, Beloit, Wellington, and Dodge City; a KU college and law-school graduate; a lawyer who worked in Dodge City, the Shawnee County District Attorney's Office, the Kansas Attorney General's Office, and the U.S. Attorney's Office; and a husband/father raising two sons with wife Julia.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:20
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-02817] No personal court-record, property-record, or business-entity deep dive was completed beyond public professional/campaign/FEC/DOJ sources; do not infer absence of records from this pass.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:113
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-jason-hart-03456] "The people running county law enforcement, elections, property records, and tax collection are in office right now and making decisions that affect you, even though you will not vote on them again until 2028. Knowing who holds these positions — and what they have done — keeps voters informed year-round, not just on Election Day.",
+  - Source: ui/src/data/elections.ts:297
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jason-hart-00005] Visible audience response is small on Bluesky and larger on YouTube Shorts. The most-engaged Bluesky item was the March 16 filing post, with 7 likes, 1 repost, 0 replies, and 0 quotes as of the May 11, 2026 capture ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)). Two issue-and-record posts each had 2 likes and 2 reposts: the April 23 rural-healthcare post ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6fxkfosc2x)) and the March 26 pros…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02793] March 31 Bluesky post says he worked with ICT SOS on prevention education and, as prosecutor, on sex-offender accountability and survivor support.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:73
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02897] 2026-03-30** — "This weekend at No Kings 3, I joined thousands of Kansans who are ready for something better. The creativity, passion, and energy in the crowd were incredible, and it was inspiring to see so many people calling for more justice, more kindness, and less chaos. #HartForKansas #NoKings #PeacefulProtest"
+  - Source: memory/candidates/jason-hart/social-harvest.md:143
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-03510] "observation": "Visible audience response is small on Bluesky and larger on YouTube Shorts. The most-engaged Bluesky item was the March 16 filing post, with 7 likes, 1 repost, 0 replies, and 0 quotes as of the May 11, 2026 capture (source). Two issue-and-record posts each had 2 likes and 2 reposts: the April 23 rural-healthcare post (source) and the March 26 prosecutor-record post (source).",
+  - Source: ui/src/data/v2/jason-hart.ts:143
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-03511] "observation": "March 31 Bluesky post says he worked with ICT SOS on prevention education and, as prosecutor, on sex-offender accountability and survivor support.",
+  - Source: ui/src/data/v2/jason-hart.ts:153
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00018] Hart has no legislative voting record in the reviewed sources. His action record is campaign filing activity, candidate-controlled platform statements, public social posts, public appearances, and his prior prosecutorial work as documented by the campaign, news reporting, and DOJ press releases. His current issue profile is unusually explicit for a first-time candidate: congressional oversight, tariffs/foreign policy, veterans, healthcare, immigration, rural Kansas, LGBTQ/civil rights, educatio…
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:11
+  - Confidence/use: likely / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-jason-hart-01147] The catch nobody is talking about:** The amendment does NOT say whether these elections would be partisan (Republican vs. Democrat) or nonpartisan. It does NOT say how campaigns would be financed. It does NOT say what the nomination process would look like. ALL of those details would be decided later by the Kansas Legislature -- which is controlled by a Republican supermajority. As retired Kansas Supreme Court Justice Carol Beier put it: "It is exceedingly vague. It will be decided by the Legis…
+  - Source: memory/candidates/jason-hart/raw-dump.md:1535
+  - Confidence/use: likely / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-jason-hart-02973] "Hart has no legislative voting record in reviewed sources; action evidence is campaign filing, candidate-controlled issue statements, public appearances/social posts, secondary interview reporting, and DOJ records from his prior prosecutor role."
+  - Source: memory/candidates/jason-hart/v2-issues.yaml:9
+  - Confidence/use: likely / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **faith-community-record** [em-jason-hart-02012] Hart is the most unconventional candidate in the Democratic primary. A career federal prosecutor who switched parties twice in one month, running on a blunt "electability" argument centered on his identity as a straight white Christian male in Kansas. His wife's quip has become his most quoted line. His lack of political experience or campaign infrastructure is either refreshingly authentic or dangerously unprepared -- depends on the voter. His 21-year record prosecuting child predators is his …
+  - Source: reports/senate-challengers-local-officials-complete.md:63
+  - Confidence/use: likely / background-only
+- **background-context** [em-jason-hart-00631] https://www.justice.gov/archive/usao/ks/PressReleases/2012/Nov%202012/Nov29a.html
+  - Source: https://www.justice.gov/archive/usao/ks/PressReleases/2012/Nov%202012/Nov29a.html
+  - Confidence/use: confirmed / use
+- **background-context** [em-jason-hart-02743] [justice.gov](https://www.justice.gov/archive/usao/ks/PressReleases/2012/Nov%202012/Nov29a.html)
+  - Source: https://www.justice.gov/archive/usao/ks/PressReleases/2012/Nov%202012/Nov29a.html
+  - Confidence/use: confirmed / use
+- **background-context** [em-jason-hart-03004] "url": "https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production",
+  - Source: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production
+  - Confidence/use: confirmed / use
+- **background-context** [em-jason-hart-00186] 2. Child safety / public safety / technology
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:260
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00510] Pro-law enforcement
+  - Source: reports/2026-kansas-us-senate-race-investigation.md:423
+  - Confidence/use: likely / background-only
+- **background-context** [em-jason-hart-00775] Emphasis on rule of law, protecting children, cybercrime enforcement
+  - Source: reports/Kansas-2026-Senate-Insurance-Commissioner-Investigation.md:61
+  - Confidence/use: likely / background-only
+
+### Social / Online Signals
+- **weak Bluesky post** [soc-jason-hart-0030] March 31 Bluesky post says he worked with ICT SOS on prevention education and, as prosecutor, on sex-offender accountability and survivor support.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0031] 2026-03-31** — "This past weekend, I attended ICT SOS’s 15th Anniversary Celebration. I’ve worked with ICT SOS on prevention education and, in my role as a prosecutor, on holding sex offenders accountable while supporting survivors. It’s inspiring to see this work continue. #HartForKansas #ICTSOS #SupportSurvivors"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-jason-hart-0034] "observation": "March 31 Bluesky post says he worked with ICT SOS on prevention education and, as prosecutor, on sex-offender accountability and survivor support.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0055] 2026-03-30** — "This weekend at No Kings 3, I joined thousands of Kansans who are ready for something better. The creativity, passion, and energy in the crowd were incredible, and it was inspiring to see so many people calling for more justice, more kindness, and less chaos. #HartForKansas #NoKings #PeacefulProtest"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-jason-hart-0061] Visible audience response is small on Bluesky and larger on YouTube Shorts. The most-engaged Bluesky item was the March 16 filing post, with 7 likes, 1 repost, 0 replies, and 0 quotes as of the May 11, 2026 capture ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)). Two issue-and-record posts each had 2 likes and 2 reposts: the April 23 rural-healthcare post ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6fxkfosc2x)) and the March 26 pros…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-jason-hart-0074] "observation": "Visible audience response is small on Bluesky and larger on YouTube Shorts. The most-engaged Bluesky item was the March 16 filing post, with 7 likes, 1 repost, 0 replies, and 0 quotes as of the May 11, 2026 capture (source). Two issue-and-record posts each had 2 likes and 2 reposts: the April 23 rural-healthcare post (source) and the March 26 prosecutor-record post (source).",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0083] Topic: Prosecutor record
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0086] 2026-03-17** — "Lifelong Kansan. Husband. Father. Former Prosecutor."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0087] Bio text: "Running for U.S. Senate 🌻 Former federal prosecutor Lifelong Kansan"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest post** [soc-jason-hart-0130] Hart has no legislative voting record in the reviewed sources. His action record is campaign filing activity, candidate-controlled platform statements, public social posts, public appearances, and his prior prosecutorial work as documented by the campaign, news reporting, and DOJ press releases. His current issue profile is unusually explicit for a first-time candidate: congressional oversight, tariffs/foreign policy, veterans, healthcare, immigration, rural Kansas, LGBTQ/civil rights, educatio…
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 12. Agriculture / rural economy / water
+
+Agriculture / rural economy / water: 37 selected evidence items from 163 mapped rows. Public URL-backed rows: 12.
+
+### Evidence
+- **candidate-stated** [em-jason-hart-00204] Stated: issues page calls for water conservation incentives, reopening foreign markets for farmers/ranchers, and breaking up vertically integrated markets.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:287
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00802] Campaign launch quote: *"It's time for Kansas to have a Senator who shows up."* She positions herself as someone who understands rural Kansas because she lives there and has delivered federal resources there.
+  - Source: memory/candidates/jason-hart/raw-dump.md:905
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00810] Tariffs**: Opposes Trump tariffs, says they cause instability for farmers and rural communities
+  - Source: memory/candidates/jason-hart/raw-dump.md:919
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00812] Rural Focus**: Her entire campaign is built around rural Kansas credibility
+  - Source: memory/candidates/jason-hart/raw-dump.md:921
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-01522] Opposes federal control over cattle markets
+  - Source: memory/candidates/jason-hart/raw-dump.md:2178
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-01525] Key issue for Kansas:** State is top-3 in cattle, cattle on feed, and cattle slaughter
+  - Source: memory/candidates/jason-hart/raw-dump.md:2181
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-01670] Platform:** Restore funding for healthcare and education, immigration reform, address rural economic concerns from tariffs
+  - Source: memory/candidates/jason-hart/raw-dump.md:2383
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-02110] Opposes tariffs harmful to Kansas farmers
+  - Source: memory/candidates/jason-hart/raw-dump.md:3047
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-01346] [ACLU of Kansas: Supreme Court refuses proof-of-citizenship case](https://www.aclukansas.org/press-releases/resounding-victory-tens-thousands-disenfranchised-kansas-voters-supreme-court-refuses/)
+  - Source: https://www.aclukansas.org/press-releases/resounding-victory-tens-thousands-disenfranchised-kansas-voters-supreme-court-refuses/
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jason-hart-02942] Website issue bullets include "Incentivize and Reward Water Conservation Efforts," "Re-open Foreign Markets for Kansas Farmers/Ranchers," "Expand Medicare and Medicaid," "Fully Fund and Staff Our VA Service Providers," "Support Kansans' 2022 Vote," and "Take the Target Off Our Children."
+  - Source: memory/candidates/jason-hart/social-harvest.md:223
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **documented-record** [em-jason-hart-00290] Failure to pass Farm Bill cited by multiple challengers
+  - Source: memory/candidates/jason-hart/raw-dump.md:64
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00324] Kansas State Director, USDA Rural Development (Biden administration, 2023-January 2025)** -- oversaw more than $1.3 billion of investment in Kansas (community centers, housing developments, hospitals, clinics, nursing homes). Also led a nationwide effort to cut red tape in federal programs.
+  - Source: memory/candidates/jason-hart/raw-dump.md:115
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00382] Property tax stance could appeal to rural/suburban voters across party lines
+  - Source: memory/candidates/jason-hart/raw-dump.md:199
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00417] Passing a Farm Bill
+  - Source: memory/candidates/jason-hart/raw-dump.md:256
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00428] "Ameriprise executive" may not resonate with rural/working-class voters
+  - Source: memory/candidates/jason-hart/raw-dump.md:272
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00430] Key Quote:** Called Medicaid cuts "the big abomination of a bill" and said reversing them "would be a good first step because health care is a significant concern in rural Kansas." (Kansas Reflector)
+  - Source: memory/candidates/jason-hart/raw-dump.md:275
+  - Confidence/use: likely / background-only
+- **donor-organization-signal** [em-jason-hart-02869] 2026-04-16** — "I’ll be at “Politics and Pastries” next week in Hesston. Join me to hear from candidates and discuss issues affecting agriculture and our communities. Tuesday, April 21 | 7-8 PM #Democrats"
+  - Source: memory/candidates/jason-hart/social-harvest.md:79
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **donor-organization-signal** [em-jason-hart-00345] Based in very rural Chase County -- small donor/volunteer base
+  - Source: memory/candidates/jason-hart/raw-dump.md:142
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-00975] Why this race matters for rural Kansas**: The Insurance Commissioner has direct authority over health insurance rates, availability of coverage in rural areas, regulation of pharmacy benefit managers (PBMs), crop insurance oversight, and consumer complaint resolution. In a state where rural hospitals are closing and healthcare costs are rising, this office has more direct impact on daily life than most voters realize.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1263
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01256] Mann serves on the House Agriculture Committee and chairs the Subcommittee on Livestock, Dairy, and Poultry. For western Kansas, this is the most important committee assignment possible. He has spent his time fighting for Farm Bill provisions: strengthening crop insurance, raising reference prices for ARC and PLC programs (which protect farmers when commodity prices drop), increasing funding for agricultural export programs (MAP and FMD), and pushing to set the estate tax exemption at $30 milli…
+  - Source: memory/candidates/jason-hart/raw-dump.md:1778
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01288] The Insurance Commissioner regulates every insurance company doing business in Kansas -- health insurance, car insurance, homeowners insurance, crop insurance, all of it. They review rate increases, make sure companies can actually pay claims, handle consumer complaints, and license insurance agents. In rural Kansas, where hospital closures and limited healthcare options are a growing crisis, the Insurance Commissioner's decisions on what health plans are available and what they can charge dire…
+  - Source: memory/candidates/jason-hart/raw-dump.md:1844
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01295] In the Legislature, she serves on the **Appropriations Committee** (controls the state budget), **Commerce, Labor and Economic Development**, **Financial Institutions and Rural Development**, and chairs the **Committee on General Government Budget** and the **Joint Committee on Administrative Rules and Regulations**.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1863
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jason-hart-00003] Across [35 captured Bluesky posts](social-harvest.md), Hart's largest single category is policy and issue statements, with 14 posts, or 40 percent of the captured original feed. The March 16 opening post wrote, "Jason Hart has filed to run for U.S. Senate" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)), then listed family bills, health, veterans, immigration, and children online as the opening frame. On April 23, he wrote, "Rural Kansas needs real access to …
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00005] Visible audience response is small on Bluesky and larger on YouTube Shorts. The most-engaged Bluesky item was the March 16 filing post, with 7 likes, 1 repost, 0 replies, and 0 quotes as of the May 11, 2026 capture ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)). Two issue-and-record posts each had 2 likes and 2 reposts: the April 23 rural-healthcare post ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6fxkfosc2x)) and the March 26 pros…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00006] Hart's national and foreign-policy posts are present but less frequent than healthcare, agriculture, campaign events, and biography. On April 23, he posted, "When troops are in active operations, accountability matters at every level" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25)). His YouTube channel also includes an April 7 Iran short titled "This isn’t right" ([source](https://www.youtube.com/shorts/-OCEAu9lf84)), with 881 views and a star-rating count of…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00007] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profi…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00008] Across the captured social period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name. Across the captured social period the feed contains no post-length discussion of abortion, though the official campaign issues page lists Protecting Reproductive Rights and Support Kansans' 2022 Vote ([source](https://hartforsenate.com/issues)). Across the captured social period the feed co…
+  - Source: https://hartforsenate.com/issues
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02941] Issues page: [hartforsenate.com/issues](https://hartforsenate.com/issues) lists ten issue areas: Assert Congressional Authority; Provide for Our Veterans; Provide for Kansans' Health; Promote Rational Immigration Solutions; Help Rural Kansas; Recognize Our Shared Dignity; Protect Public Education; Protecting Reproductive Rights; Hold Big Tech Accountable; Promote Democratic Values.
+  - Source: https://hartforsenate.com/issues
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00198] Social evidence: April 23 Bluesky post supports more rural healthcare providers; April 3 post criticizes failure to extend ACA subsidies.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:277
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00205] Social evidence: April 22 Bluesky post reports attendance at Harvey County Farm Bureau Association's Politics and Pastries; April 8 discusses fuel/fertilizer costs.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:288
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jason-hart-01470] Frequent topics:** Healthcare reform, agriculture/Farm Bill, border security, pro-life issues, Second Amendment, fiscal conservatism, faith references
+  - Source: memory/candidates/jason-hart/raw-dump.md:2116
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-02090] [USDA: KS State Director announcement](https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas)
+  - Source: https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-02405] [Municipal Water Leader Magazine](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)
+  - Source: https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-02406] [KWCH: $15M grant](https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/)
+  - Source: https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-02407] [E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)
+  - Source: https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-02462] [Manta: L5 Farms Inc](https://www.manta.com/c/mhxwpdc/l5-farms-inc)
+  - Source: https://www.manta.com/c/mhxwpdc/l5-farms-inc
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-00089] Rural Kansas: reward water conservation, reopen foreign markets for farmers/ranchers, break up vertically integrated markets.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:120
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **strong Bluesky post** [soc-jason-hart-0012] Across [35 captured Bluesky posts](social-harvest.md), Hart's largest single category is policy and issue statements, with 14 posts, or 40 percent of the captured original feed. The March 16 opening post wrote, "Jason Hart has filed to run for U.S. Senate" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)), then listed family bills, health, veterans, immigration, and children online as the opening frame. On April 23, he wrote, "Rural Kansas needs real access to …
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate hartforsenate.com share/repost** [soc-jason-hart-0013] Across the captured social period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name. Across the captured social period the feed contains no post-length discussion of abortion, though the official campaign issues page lists Protecting Reproductive Rights and Support Kansans' 2022 Vote ([source](https://hartforsenate.com/issues)). Across the captured social period the feed co…
+  - Source: https://hartforsenate.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate hartforsenate.com share/repost** [soc-jason-hart-0015] Issues page: [hartforsenate.com/issues](https://hartforsenate.com/issues) lists ten issue areas: Assert Congressional Authority; Provide for Our Veterans; Provide for Kansans' Health; Promote Rational Immigration Solutions; Help Rural Kansas; Recognize Our Shared Dignity; Protect Public Education; Protecting Reproductive Rights; Hold Big Tech Accountable; Promote Democratic Values.
+  - Source: https://hartforsenate.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-jason-hart-0026] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profi…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky post** [soc-jason-hart-0032] Across the captured Bluesky period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name.
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-jason-hart-0035] "observation": "Across the captured Bluesky period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0043] 2026-04-08** — "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs on top of already thin margins. We need policies that support farmers and small businesses instead of making it harder to survive. Article: bit.ly/4crAY8i"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0046] Website issue bullets include "Incentivize and Reward Water Conservation Efforts," "Re-open Foreign Markets for Kansas Farmers/Ranchers," "Expand Medicare and Medicaid," "Fully Fund and Staff Our VA Service Providers," "Support Kansans' 2022 Vote," and "Take the Target Off Our Children."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **strong Bluesky post** [soc-jason-hart-0048] Hart's national and foreign-policy posts are present but less frequent than healthcare, agriculture, campaign events, and biography. On April 23, he posted, "When troops are in active operations, accountability matters at every level" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25)). His YouTube channel also includes an April 7 Iran short titled "This isn’t right" ([source](https://www.youtube.com/shorts/-OCEAu9lf84)), with 881 views and a star-rating count of…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Bluesky post** [soc-jason-hart-0060] "observation": "Across 35 captured Bluesky posts, Hart's largest single category is policy and issue statements, with 14 posts, or 40 percent of the captured original feed. The March 16 opening post wrote, \"Jason Hart has filed to run for U.S. Senate\" (source), then listed family bills, health, veterans, immigration, and children online as the opening frame. On April 23, he wrote, \"Rural Kansas needs real access to healthcare...",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 13. Local governance / transparency / ethics
+
+Local governance / transparency / ethics: 40 selected evidence items from 965 mapped rows. Public URL-backed rows: 129.
+
+### Evidence
+- **candidate-stated** [em-jason-hart-00493] [Kansas Reflector - Campaign Profile (Mar 2026)](https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/)
+  - Source: https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-jason-hart-01092] [Kansas Reflector: Kansas City entrepreneur prioritizes passion, decency](https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/) (Mar 16, 2026)
+  - Source: https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/
+  - Confidence/use: likely / use
+- **candidate-stated** [em-jason-hart-02939] Official Campaign Website
+  - Source: memory/candidates/jason-hart/social-harvest.md:220
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **candidate-stated** [em-jason-hart-00075] Biography says Hart is a lifelong Kansan with upbringing in Russell, Beloit, Wellington, and Dodge City.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:102
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00188] Stated: issues page calls for Big Tech accountability around children's privacy, exploitation, and AI guardrails.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:263
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00357] Tier:** Top Tier -- only current elected official in the race, military intelligence background, prior congressional campaign experience
+  - Source: memory/candidates/jason-hart/raw-dump.md:162
+  - Confidence/use: likely / background-only
+- **candidate-stated** [em-jason-hart-00396] Tier:** Upper Tier -- strong corporate credentials, Johnson County base, well-articulated platform
+  - Source: memory/candidates/jason-hart/raw-dump.md:225
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-00551] Multiple prior campaigns (local, state, federal) -- none successful at higher levels
+  - Source: memory/candidates/jason-hart/raw-dump.md:495
+  - Confidence/use: unknown / background-only
+- **documented-record** [em-jason-hart-00135] KMUW / Kansas Reflector profile: https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness
+  - Source: https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-00147] KCUR/Kansas News Service candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-00233] Kansas SOS candidate information: https://www.sos.ks.gov/elections/candidate-information.html
+  - Source: https://www.sos.ks.gov/elections/candidate-information.html
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jason-hart-00235] Douglas County candidate filing table: https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS
+  - Source: https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jason-hart-00239] DOJ District of Kansas case example: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production
+  - Source: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production
+  - Confidence/use: confirmed / use
+- **documented-record** [em-jason-hart-00241] KCUR / Kansas News Service guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-00353] [Kansas Reflector - Campaign Profile (Aug 2025)](https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/)
+  - Source: https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/
+  - Confidence/use: likely / use
+- **documented-record** [em-jason-hart-00354] [KCUR Candidate Guide (Dec 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)
+  - Source: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+  - Confidence/use: likely / use
+- **donor-organization-signal** [em-jason-hart-00231] FEC candidate page: https://www.fec.gov/data/candidate/S6KS00304/
+  - Source: https://www.fec.gov/data/candidate/S6KS00304/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-jason-hart-00232] FEC committee page: https://www.fec.gov/data/committee/C00942391/
+  - Source: https://www.fec.gov/data/committee/C00942391/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-jason-hart-00434] [FEC Filing](https://www.fec.gov/data/candidate/S6KS00262/)
+  - Source: https://www.fec.gov/data/candidate/S6KS00262/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-jason-hart-00660] FEC Race Page:** [2026 Election - U.S. Senate - Kansas](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-jason-hart-00669] Kansas Public Disclosure Commission:** [kpdc.kansas.gov](https://kpdc.kansas.gov/campaign-finance/view-submitted-forms-and-reports/)
+  - Source: https://kpdc.kansas.gov/campaign-finance/view-submitted-forms-and-reports/
+  - Confidence/use: confirmed / use
+- **donor-organization-signal** [em-jason-hart-00695] 4. [FEC - 2026 Kansas Senate](https://www.fec.gov/data/elections/senate/KS/2026/)
+  - Source: https://www.fec.gov/data/elections/senate/KS/2026/
+  - Confidence/use: confirmed / use
+- **social-online-signal** [em-jason-hart-02121] [Johnson County Post photo](https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/)
+  - Source: https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-jason-hart-02436] [Hays Post: Candidate Profile](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd)
+  - Source: https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-jason-hart-02508] [Hays Post: Candidates disagree on campus polling](https://hayspost.com/posts/1ff3108c-562d-421d-9200-395f040c2103)
+  - Source: https://hayspost.com/posts/1ff3108c-562d-421d-9200-395f040c2103
+  - Confidence/use: likely / use
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **social-online-signal** [em-jason-hart-00003] Across [35 captured Bluesky posts](social-harvest.md), Hart's largest single category is policy and issue statements, with 14 posts, or 40 percent of the captured original feed. The March 16 opening post wrote, "Jason Hart has filed to run for U.S. Senate" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)), then listed family bills, health, veterans, immigration, and children online as the opening frame. On April 23, he wrote, "Rural Kansas needs real access to …
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00004] Hart's public alignment signal is built more through events and organizations than through reposts. The captured Bluesky feed contains no reposts from other accounts and no shared posts from Democratic primary opponents. He posted appearances with the [Harvey County Democratic Party](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mklfhsqnvc22), [Kingman County Democrats](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mjwqagwvp222), and [Riley County Democratic Party](htt…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mklfhsqnvc22
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00005] Visible audience response is small on Bluesky and larger on YouTube Shorts. The most-engaged Bluesky item was the March 16 filing post, with 7 likes, 1 repost, 0 replies, and 0 quotes as of the May 11, 2026 capture ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)). Two issue-and-record posts each had 2 likes and 2 reposts: the April 23 rural-healthcare post ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6fxkfosc2x)) and the March 26 pros…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00006] Hart's national and foreign-policy posts are present but less frequent than healthcare, agriculture, campaign events, and biography. On April 23, he posted, "When troops are in active operations, accountability matters at every level" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25)). His YouTube channel also includes an April 7 Iran short titled "This isn’t right" ([source](https://www.youtube.com/shorts/-OCEAu9lf84)), with 881 views and a star-rating count of…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6wzvbujk25
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-00007] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profi…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **faith-community-record** [em-jason-hart-02599] "white, male, Christian, hetero, 2A-friendly, LEO-friendly" - Kansas Reflector, March 23, 2026, https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/ (electability argument)
+  - Source: https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jason-hart-02600] "prayerful and tearful discussions with my wife and family" - Kansas Reflector, March 23, 2026, https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/ (decision to run)
+  - Source: https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/
+  - Confidence/use: likely / use
+- **faith-community-record** [em-jason-hart-00535] Described himself as "white, male, Christian, hetero, 2A-friendly, LEO-friendly, and very clearly anti-pedo" as reasons he's the best Democratic candidate. (Kansas Reflector)
+  - Source: memory/candidates/jason-hart/raw-dump.md:462
+  - Confidence/use: likely / background-only
+- **faith-community-record** [em-jason-hart-02005] Hart has made a controversial argument for his candidacy, defending his assertion that he is the best Democratic candidate because he is "a straight, white, Christian man" -- essentially arguing electability in deep-red Kansas requires a candidate who matches the state's demographics. This has drawn both support (pragmatism) and criticism (identity-based argument) within the Democratic primary field.
+  - Source: reports/senate-challengers-local-officials-complete.md:49
+  - Confidence/use: likely / background-only
+- **background-context** [em-jason-hart-01381] [Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)
+  - Source: https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-02227] [City of Wellington: Resignation press release](https://www.cityofwellington.net/newsview.aspx?nid=6940)
+  - Source: https://www.cityofwellington.net/newsview.aspx?nid=6940
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-02382] City Page:** [haysusa.com/directory.aspx?eid=6](https://www.haysusa.com/directory.aspx?eid=6)
+  - Source: https://www.haysusa.com/directory.aspx?eid=6
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-02406] [KWCH: $15M grant](https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/)
+  - Source: https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-02407] [E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)
+  - Source: https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/
+  - Confidence/use: likely / use
+- **background-context** [em-jason-hart-02438] [Ellis County Commission](https://www.ellisco.net/120/County-Commission)
+  - Source: https://www.ellisco.net/120/County-Commission
+  - Confidence/use: likely / use
+
+### Social / Online Signals
+- **ambiguous johnsoncountypost.com post** [soc-jason-hart-0004] [Johnson County Post photo](https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/)
+  - Source: https://johnsoncountypost.com/2026/01/07/2026-u-s-senate-candidates-kansas-277190/sandy-spidel-neumann/
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-jason-hart-0005] [Hays Post: Candidate Profile](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd)
+  - Source: https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous hayspost.com post** [soc-jason-hart-0006] [Hays Post: Candidates disagree on campus polling](https://hayspost.com/posts/1ff3108c-562d-421d-9200-395f040c2103)
+  - Source: https://hayspost.com/posts/1ff3108c-562d-421d-9200-395f040c2103
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest absence** [soc-jason-hart-0007] The live Kansas SOS candidate-list endpoint was blocked by JavaScript/anti-bot in this environment. A Douglas County Modus Elections candidate-filing table for the August 4, 2026 primary lists Jason Hart (D), Wichita, filed March 16, 2026 by fee for U.S. Senator, with the note "Documents filed with the State of Kansas." Treat this as a current filing-list readback, not final certified ballot status.
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **weak Public web / internal harvest absence** [soc-jason-hart-0008] "Kansas SOS filing rules and election dates are verified; the live SOS candidate-list endpoint was blocked, so candidate-list status is triangulated through a Douglas County filing table that says Hart filed by fee on 2026-03-16 and documents are filed with the State of Kansas."
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **weak Public web / internal harvest absence** [soc-jason-hart-0009] sos_status: "Kansas SOS filing rules/dates confirmed; direct SOS candidate-list page blocked. Douglas County filing table lists Hart filed by fee on 2026-03-16 with documents filed with the State of Kansas."
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **strong Bluesky post** [soc-jason-hart-0012] Across [35 captured Bluesky posts](social-harvest.md), Hart's largest single category is policy and issue statements, with 14 posts, or 40 percent of the captured original feed. The March 16 opening post wrote, "Jason Hart has filed to run for U.S. Senate" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f)), then listed family bills, health, veterans, immigration, and children online as the opening frame. On April 23, he wrote, "Rural Kansas needs real access to …
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **moderate hartforsenate.com share/repost** [soc-jason-hart-0013] Across the captured social period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name. Across the captured social period the feed contains no post-length discussion of abortion, though the official campaign issues page lists Protecting Reproductive Rights and Support Kansans' 2022 Vote ([source](https://hartforsenate.com/issues)). Across the captured social period the feed co…
+  - Source: https://hartforsenate.com/issues
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Bluesky post** [soc-jason-hart-0016] Across the captured Bluesky period the feed contains no post-length discussion of abortion; the official issues page lists "Protecting Reproductive Rights" and "Support Kansans' 2022 Vote."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **moderate Bluesky share/repost** [soc-jason-hart-0017] Hart's public alignment signal is built more through events and organizations than through reposts. The captured Bluesky feed contains no reposts from other accounts and no shared posts from Democratic primary opponents. He posted appearances with the [Harvey County Democratic Party](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mklfhsqnvc22), [Kingman County Democrats](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mjwqagwvp222), and [Riley County Democratic Party](htt…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mklfhsqnvc22
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
+
+## 14. Environment / energy / land use
+
+Environment / energy / land use: 24 selected evidence items from 26 mapped rows. Public URL-backed rows: 1.
+
+### Evidence
+- **candidate-stated** [em-jason-hart-00204] Stated: issues page calls for water conservation incentives, reopening foreign markets for farmers/ranchers, and breaking up vertically integrated markets.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:287
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-02771] Campaign issues page lists "Help Rural Kansas," including water conservation, foreign markets for farmers/ranchers, and vertically integrated markets.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:41
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-03032] "Rural Kansas section supports water conservation incentives, foreign markets for farmers/ranchers, and breaking up vertically integrated markets"
+  - Source: memory/candidates/jason-hart/v2-issues.yaml:113
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-03210] "text": "Hart's issues page supports water-conservation incentives, reopening foreign markets for Kansas farmers and ranchers, and breaking up vertically integrated markets.",
+  - Source: ui/src/data/v2/jason-hart.ts:342
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-03212] "body": "Hart's campaign issues page published a rural Kansas platform focused on water conservation, farm/ranch markets, and market concentration.",
+  - Source: ui/src/data/v2/jason-hart.ts:351
+  - Confidence/use: unknown / background-only
+- **candidate-stated** [em-jason-hart-03526] "observation": "His events feed includes Dodge City, Pittsburg, Harvey County, Kingman County, Riley County, Manhattan, Hesston, and Wichita. His official issues page separately lists water conservation, foreign markets for farmers and ranchers, Medicaid and Medicare expansion, VA staffing, and public education as policy priorities (source).",
+  - Source: ui/src/data/v2/jason-hart.ts:424
+  - Confidence/use: likely / background-only
+- **documented-record** [em-jason-hart-02942] Website issue bullets include "Incentivize and Reward Water Conservation Efforts," "Re-open Foreign Markets for Kansas Farmers/Ranchers," "Expand Medicare and Medicaid," "Fully Fund and Staff Our VA Service Providers," "Support Kansans' 2022 Vote," and "Take the Target Off Our Children."
+  - Source: memory/candidates/jason-hart/social-harvest.md:223
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **documented-record** [em-jason-hart-01263] The AG is Kansas's top law enforcement officer. They prosecute major crimes that cross county lines, defend the state in lawsuits, issue legal opinions that guide state agencies, enforce consumer protection laws, go after fraud, and represent Kansas in cases at the U.S. Supreme Court. The AG's office shapes how aggressively Kansas enforces everything from environmental laws to election rules.
+  - Source: memory/candidates/jason-hart/raw-dump.md:1795
+  - Confidence/use: likely / background-only
+- **documented-record** [em-jason-hart-03518] "observation": "Website issue bullets include \"Incentivize and Reward Water Conservation Efforts,\" \"Re-open Foreign Markets for Kansas Farmers/Ranchers,\" \"Expand Medicare and Medicaid,\" \"Fully Fund and Staff Our VA Service Providers,\" \"Support Kansans' 2022 Vote,\" and \"Take the Target Off Our Children.\"",
+  - Source: ui/src/data/v2/jason-hart.ts:257
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-00038] Treasurer: Richard L. Gaskill.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:40
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01892] Chairman,** Subcommittee on Conservation, Forestry, Natural Resources, and Biotechnology
+  - Source: memory/candidates/jason-hart/raw-dump.md:2700
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-01895] Member, Subcommittee on Energy, Natural Resources, and Infrastructure
+  - Source: memory/candidates/jason-hart/raw-dump.md:2704
+  - Confidence/use: unknown / background-only
+- **donor-organization-signal** [em-jason-hart-02990] "Treasurer is Richard L. Gaskill"
+  - Source: memory/candidates/jason-hart/v2-issues.yaml:36
+  - Confidence/use: unknown / background-only
+- **social-online-signal** [em-jason-hart-00007] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profi…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02753] The live Kansas SOS candidate-list endpoint was blocked by JavaScript/anti-bot in this environment. A Douglas County Modus Elections candidate-filing table for the August 4, 2026 primary lists Jason Hart (D), Wichita, filed March 16, 2026 by fee for U.S. Senator, with the note "Documents filed with the State of Kansas." Treat this as a current filing-list readback, not final certified ballot status.
+  - Source: memory/candidates/jason-hart/sleuth-pass.md:14
+  - Confidence/use: likely / use-with-caveat
+  - Caveat: Usable with explicit caveat because the raw evidence notes a source limitation, preliminary status, or verification gap.
+- **social-online-signal** [em-jason-hart-02871] Topic: Weather service
+  - Source: memory/candidates/jason-hart/social-harvest.md:86
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-02897] 2026-03-30** — "This weekend at No Kings 3, I joined thousands of Kansans who are ready for something better. The creativity, passion, and energy in the crowd were incredible, and it was inspiring to see so many people calling for more justice, more kindness, and less chaos. #HartForKansas #NoKings #PeacefulProtest"
+  - Source: memory/candidates/jason-hart/social-harvest.md:143
+  - Confidence/use: weak-signal / use-with-caveat
+  - Caveat: Usable only as an observed public social/online signal, not as a confirmed policy position or belief.
+- **social-online-signal** [em-jason-hart-03433] "Local city decisions shape day-to-day life faster than almost anything else: utility projects, zoning, housing growth, city spending, and how Hays responds to long-running issues like water.",
+  - Source: ui/src/data/elections.ts:249
+  - Confidence/use: unknown / background-only
+  - Caveat: Social/online signal only; do not infer belief or policy position from this item alone.
+- **background-context** [em-jason-hart-00089] Rural Kansas: reward water conservation, reopen foreign markets for farmers/ranchers, break up vertically integrated markets.
+  - Source: memory/candidates/jason-hart/raw-dump-v2.md:120
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-00464] First-generation immigrant spouse could become a liability in anti-immigration political climate
+  - Source: memory/candidates/jason-hart/raw-dump.md:334
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-01519] Fought against using Conservation Title to phase out livestock production
+  - Source: memory/candidates/jason-hart/raw-dump.md:2175
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-02137] 4. **Eastside Innovation LLC** (Kansas City, KS, 2023) -- Founded to bring clean energy to low-income communities in KCK
+  - Source: memory/candidates/jason-hart/raw-dump.md:3097
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-02386] R9 Ranch Pipeline -- The Defining Project
+  - Source: memory/candidates/jason-hart/raw-dump.md:3501
+  - Confidence/use: unknown / background-only
+- **background-context** [em-jason-hart-02388] Distance:** 65-90 mile pipeline from R9 Ranch wellfield (Edwards County) to Hays/Russell
+  - Source: memory/candidates/jason-hart/raw-dump.md:3503
+  - Confidence/use: unknown / background-only
+
+### Social / Online Signals
+- **weak Public web / internal harvest absence** [soc-jason-hart-0007] The live Kansas SOS candidate-list endpoint was blocked by JavaScript/anti-bot in this environment. A Douglas County Modus Elections candidate-filing table for the August 4, 2026 primary lists Jason Hart (D), Wichita, filed March 16, 2026 by fee for U.S. Senator, with the note "Documents filed with the State of Kansas." Treat this as a current filing-list readback, not final certified ballot status.
+  - Caveat: Platform absence is a documented search result, not evidence of private belief or private activity.
+- **strong Bluesky post** [soc-jason-hart-0026] For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers "across the political spectrum" ([source](https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p)) at a Harvey County Farm Bureau Association event. On April 8, he wrote, "Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs" ([source](https://bsky.app/profi…
+  - Source: https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p
+  - Caveat: Candidate-controlled post or candidate-controlled platform statement; still use as stated/observed content, not inferred motive.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0046] Website issue bullets include "Incentivize and Reward Water Conservation Efforts," "Re-open Foreign Markets for Kansas Farmers/Ranchers," "Expand Medicare and Medicaid," "Fully Fund and Staff Our VA Service Providers," "Support Kansans' 2022 Vote," and "Take the Target Off Our Children."
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0052] Topic: Weather service
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **weak Public web / internal harvest social-observation** [soc-jason-hart-0055] 2026-03-30** — "This weekend at No Kings 3, I joined thousands of Kansans who are ready for something better. The creativity, passion, and energy in the crowd were incredible, and it was inspiring to see so many people calling for more justice, more kindness, and less chaos. #HartForKansas #NoKings #PeacefulProtest"
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest post** [soc-jason-hart-0317] "Local city decisions shape day-to-day life faster than almost anything else: utility projects, zoning, housing growth, city spending, and how Hays responds to long-running issues like water.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+- **ambiguous Public web / internal harvest online-reference** [soc-jason-hart-0325] "body": "Hart's campaign issues page published a rural Kansas platform focused on water conservation, farm/ranch markets, and market concentration.",
+  - Caveat: Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone.
+
+### Caveats
+- Social signals are observations only and are not treated as confirmed beliefs or policy positions.
+- This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible.
